@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MI SUEÑO  BY LUIS FONSI.CDG"
+    },
+    "name": "MI SUEÑO  BY LUIS FONSI.CDG",
+    "repository": "Local",
+    "tid": "27a8a34a-e29d-42b2-a242-21728f9c8af1",
+    "types": [
+      "singers"
+    ]
+  }
+}

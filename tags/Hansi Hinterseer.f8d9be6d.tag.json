@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hansi Hinterseer"
+    },
+    "name": "Hansi Hinterseer",
+    "repository": "Local",
+    "tid": "f8d9be6d-7285-45a6-a355-7695d997d371",
+    "types": [
+      "singers"
+    ]
+  }
+}

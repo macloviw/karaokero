@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "shaggy"
+    },
+    "name": "shaggy",
+    "repository": "Local",
+    "tid": "bc27d83d-2019-44f6-8443-301816335b08",
+    "types": [
+      "singers"
+    ]
+  }
+}

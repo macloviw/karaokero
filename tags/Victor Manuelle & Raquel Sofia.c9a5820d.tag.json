@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Victor Manuelle & Raquel Sofia"
+    },
+    "name": "Victor Manuelle & Raquel Sofia",
+    "repository": "Local",
+    "tid": "c9a5820d-f1e8-4b6d-8250-3fd5dbf1efc7",
+    "types": [
+      "singers"
+    ]
+  }
+}

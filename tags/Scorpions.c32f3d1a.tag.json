@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Scorpions"
+    },
+    "name": "Scorpions",
+    "repository": "Local",
+    "tid": "c32f3d1a-508c-4cb5-a937-02276855bae4",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Moderato Y Belinda"
+    },
+    "name": "Moderato Y Belinda",
+    "repository": "Local",
+    "tid": "77507e6f-6e9c-4fcc-a3f3-aa973dae9638",
+    "types": [
+      "singers"
+    ]
+  }
+}

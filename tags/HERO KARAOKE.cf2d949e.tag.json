@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HERO KARAOKE"
+    },
+    "name": "HERO KARAOKE",
+    "repository": "Local",
+    "tid": "cf2d949e-1792-4b3e-9169-2d6aa7c821bb",
+    "types": [
+      "singers"
+    ]
+  }
+}

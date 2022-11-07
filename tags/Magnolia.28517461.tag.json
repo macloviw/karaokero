@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Magnolia"
+    },
+    "name": "Magnolia",
+    "repository": "Local",
+    "tid": "28517461-dbec-4732-bc2e-c18df0b3d4ad",
+    "types": [
+      "singers"
+    ]
+  }
+}

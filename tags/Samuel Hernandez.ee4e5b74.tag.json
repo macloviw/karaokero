@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Samuel Hernandez"
+    },
+    "name": "Samuel Hernandez",
+    "repository": "Local",
+    "tid": "ee4e5b74-9c34-4d9d-ab92-dbae9961834d",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "No juegues más"
+    },
+    "name": "No juegues más",
+    "repository": "Local",
+    "tid": "18391185-f49f-4935-ade1-e164773f9eda",
+    "types": [
+      "singers"
+    ]
+  }
+}

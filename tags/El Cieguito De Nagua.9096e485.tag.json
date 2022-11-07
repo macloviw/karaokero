@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Cieguito De Nagua"
+    },
+    "name": "El Cieguito De Nagua",
+    "repository": "Local",
+    "tid": "9096e485-aabd-4494-8c81-91d712451174",
+    "types": [
+      "singers"
+    ]
+  }
+}

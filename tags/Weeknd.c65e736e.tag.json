@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Weeknd"
+    },
+    "name": "Weeknd",
+    "repository": "Local",
+    "tid": "c65e736e-9c17-4ffe-b8e1-e3410a50b636",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EXITOS CUBANOS"
+    },
+    "name": "EXITOS CUBANOS",
+    "repository": "Local",
+    "tid": "1b2d6eab-7d8c-4f9f-9675-1331f00a7876",
+    "types": [
+      "singers"
+    ]
+  }
+}

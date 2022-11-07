@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Monkey Black"
+    },
+    "name": "Monkey Black",
+    "repository": "Local",
+    "tid": "ad93f598-ee9c-4062-bb84-5de32d0b8cc3",
+    "types": [
+      "singers"
+    ]
+  }
+}

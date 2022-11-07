@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Blanca Iris Villafañe"
+    },
+    "name": "Blanca Iris Villafañe",
+    "repository": "Local",
+    "tid": "2fd2e23d-09d2-4808-9a45-14f65884667e",
+    "types": [
+      "singers"
+    ]
+  }
+}

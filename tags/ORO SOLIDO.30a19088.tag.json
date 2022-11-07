@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ORO SOLIDO"
+    },
+    "name": "ORO SOLIDO",
+    "repository": "Local",
+    "tid": "30a19088-4bcb-44b5-bbe6-415764493b35",
+    "types": [
+      "singers"
+    ]
+  }
+}

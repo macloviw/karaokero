@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Nueva Patrulla 15"
+    },
+    "name": "La Nueva Patrulla 15",
+    "repository": "Local",
+    "tid": "5b39a3cd-bb77-4830-bdf8-804743bac1f2",
+    "types": [
+      "singers"
+    ]
+  }
+}

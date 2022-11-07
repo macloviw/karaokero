@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Now & Forever Artists of Then"
+    },
+    "name": "Now & Forever Artists of Then",
+    "repository": "Local",
+    "tid": "3e5367fc-0340-42d8-8fef-8bd4afc7d947",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NBV514-01"
+    },
+    "name": "NBV514-01",
+    "repository": "Local",
+    "tid": "5c026d10-85f8-48fa-ae20-80eb5d501982",
+    "types": [
+      "singers"
+    ]
+  }
+}

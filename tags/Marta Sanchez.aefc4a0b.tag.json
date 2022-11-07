@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Marta Sánchez"
+    },
+    "name": "Marta Sánchez",
+    "repository": "Local",
+    "tid": "aefc4a0b-ca8d-438d-90e0-a1281802a86b",
+    "types": [
+      "singers"
+    ]
+  }
+}

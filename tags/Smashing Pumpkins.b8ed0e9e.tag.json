@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Smashing Pumpkins"
+    },
+    "name": "Smashing Pumpkins",
+    "repository": "Local",
+    "tid": "b8ed0e9e-2aa6-48e4-b27a-a4b9243a5f54",
+    "types": [
+      "singers"
+    ]
+  }
+}

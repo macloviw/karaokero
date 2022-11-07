@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TUESKA"
+    },
+    "name": "TUESKA",
+    "repository": "Local",
+    "tid": "7725dc01-604b-47f0-af74-0750c59681aa",
+    "types": [
+      "singers"
+    ]
+  }
+}

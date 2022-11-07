@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CARLOS ALMANZAR"
+    },
+    "name": "CARLOS ALMANZAR",
+    "repository": "Local",
+    "tid": "320888e0-3cb3-4afb-a9c6-78e1b8a513b9",
+    "types": [
+      "singers"
+    ]
+  }
+}

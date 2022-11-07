@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fettes Brot"
+    },
+    "name": "Fettes Brot",
+    "repository": "Local",
+    "tid": "0b7c16ba-a6ef-4202-a994-1fc047856a8e",
+    "types": [
+      "singers"
+    ]
+  }
+}

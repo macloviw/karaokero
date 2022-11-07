@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "IL DIVO"
+    },
+    "name": "IL DIVO",
+    "repository": "Local",
+    "tid": "d13b4e66-cc3d-4e9e-8689-229c3a5c4035",
+    "types": [
+      "singers"
+    ]
+  }
+}

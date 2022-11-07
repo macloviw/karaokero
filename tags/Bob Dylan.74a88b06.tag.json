@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bob Dylan"
+    },
+    "name": "Bob Dylan",
+    "repository": "Local",
+    "tid": "74a88b06-04eb-405c-a6d2-4412b555243f",
+    "types": [
+      "singers"
+    ]
+  }
+}

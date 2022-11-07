@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cherry Poppin Daddyes"
+    },
+    "name": "Cherry Poppin Daddyes",
+    "repository": "Local",
+    "tid": "5819474b-b7e7-4751-b1bd-888bdbdade75",
+    "types": [
+      "singers"
+    ]
+  }
+}

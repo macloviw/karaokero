@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Daddy Yankee ft. Zion & Lenox"
+    },
+    "name": "Daddy Yankee ft. Zion & Lenox",
+    "repository": "Local",
+    "tid": "7eaf7785-8dcd-41f0-b34d-bd98ea88aa42",
+    "types": [
+      "singers"
+    ]
+  }
+}

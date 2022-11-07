@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Mayor Clasico Ft Shadow Blow"
+    },
+    "name": "El Mayor Clasico Ft Shadow Blow",
+    "repository": "Local",
+    "tid": "76a0b4e7-76d0-4647-a7d6-690a6dfe2f0f",
+    "types": [
+      "singers"
+    ]
+  }
+}

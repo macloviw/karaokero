@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nikki Clan"
+    },
+    "name": "Nikki Clan",
+    "repository": "Local",
+    "tid": "fa07c94d-f4e2-45ca-b0ad-63db55045d88",
+    "types": [
+      "singers"
+    ]
+  }
+}

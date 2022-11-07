@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Britney Spears"
+    },
+    "name": "Britney Spears",
+    "repository": "Local",
+    "tid": "1730868a-1882-4a56-b682-529f88d74565",
+    "types": [
+      "singers"
+    ]
+  }
+}

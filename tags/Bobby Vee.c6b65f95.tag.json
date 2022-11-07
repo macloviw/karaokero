@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bobby Vee"
+    },
+    "name": "Bobby Vee",
+    "repository": "Local",
+    "tid": "c6b65f95-50b6-4d34-b9e0-680df7615711",
+    "types": [
+      "singers"
+    ]
+  }
+}

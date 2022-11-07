@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FERNANDO VILLALONA PISTA"
+    },
+    "name": "FERNANDO VILLALONA PISTA",
+    "repository": "Local",
+    "tid": "6d0fcccd-4b35-4572-88d4-bf00b786e89f",
+    "types": [
+      "singers"
+    ]
+  }
+}

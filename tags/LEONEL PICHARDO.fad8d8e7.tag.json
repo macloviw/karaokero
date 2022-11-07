@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LEONEL PICHARDO"
+    },
+    "name": "LEONEL PICHARDO",
+    "repository": "Local",
+    "tid": "fad8d8e7-f61d-4ec7-b73c-4f4163388f5f",
+    "types": [
+      "singers"
+    ]
+  }
+}

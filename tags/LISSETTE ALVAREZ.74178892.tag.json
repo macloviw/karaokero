@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LISSETTE ALVAREZ"
+    },
+    "name": "LISSETTE ALVAREZ",
+    "repository": "Local",
+    "tid": "74178892-4e4f-4c48-8da1-6c63fcf8dda2",
+    "types": [
+      "singers"
+    ]
+  }
+}

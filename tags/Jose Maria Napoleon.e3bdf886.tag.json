@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Maria Napoleon"
+    },
+    "name": "Jose Maria Napoleon",
+    "repository": "Local",
+    "tid": "e3bdf886-6ae8-4f00-bf02-4b22b544f53f",
+    "types": [
+      "singers"
+    ]
+  }
+}

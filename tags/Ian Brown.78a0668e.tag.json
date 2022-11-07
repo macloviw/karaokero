@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ian Brown"
+    },
+    "name": "Ian Brown",
+    "repository": "Local",
+    "tid": "78a0668e-6221-4fe0-878d-e80be2a3169e",
+    "types": [
+      "singers"
+    ]
+  }
+}

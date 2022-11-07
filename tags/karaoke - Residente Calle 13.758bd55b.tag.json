@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "karaoke - Residente Calle 13"
+    },
+    "name": "karaoke - Residente Calle 13",
+    "repository": "Local",
+    "tid": "758bd55b-ff88-4c8b-a6ba-c1f44f25833d",
+    "types": [
+      "singers"
+    ]
+  }
+}

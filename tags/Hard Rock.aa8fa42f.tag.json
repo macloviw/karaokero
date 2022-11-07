@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hard Rock"
+    },
+    "name": "Hard Rock",
+    "repository": "Local",
+    "tid": "aa8fa42f-6873-4d36-8ff8-dc26a357968f",
+    "types": [
+      "genres"
+    ]
+  }
+}

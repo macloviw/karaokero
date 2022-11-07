@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Felix Del Rosario"
+    },
+    "name": "Felix Del Rosario",
+    "repository": "Local",
+    "tid": "cd4ac360-e5b5-4883-b05f-bc4242d07ad4",
+    "types": [
+      "singers"
+    ]
+  }
+}

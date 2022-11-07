@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TIERRA SECA - LA BUSCARE"
+    },
+    "name": "TIERRA SECA - LA BUSCARE",
+    "repository": "Local",
+    "tid": "e9ade2d4-64e0-4de0-93d7-58a1a16b8405",
+    "types": [
+      "singers"
+    ]
+  }
+}

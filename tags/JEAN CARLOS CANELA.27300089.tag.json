@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JEAN CARLOS CANELA"
+    },
+    "name": "JEAN CARLOS CANELA",
+    "repository": "Local",
+    "tid": "27300089-c033-4d80-b342-ad26b1a91436",
+    "types": [
+      "singers"
+    ]
+  }
+}

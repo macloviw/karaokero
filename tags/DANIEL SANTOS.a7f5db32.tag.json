@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DANIEL SANTOS"
+    },
+    "name": "DANIEL SANTOS",
+    "repository": "Local",
+    "tid": "a7f5db32-849e-4766-b5f8-6e3b888a5952",
+    "types": [
+      "singers"
+    ]
+  }
+}

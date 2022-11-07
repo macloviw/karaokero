@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Danilo Montero"
+    },
+    "name": "Danilo Montero",
+    "repository": "Local",
+    "tid": "79c9f3f8-00de-471a-b910-9289f5d5d29d",
+    "types": [
+      "singers"
+    ]
+  }
+}

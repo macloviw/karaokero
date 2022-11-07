@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Johnny Rivera"
+    },
+    "name": "Johnny Rivera",
+    "repository": "Local",
+    "tid": "dad62284-3dc5-46da-8bdc-a842e9646128",
+    "types": [
+      "singers"
+    ]
+  }
+}

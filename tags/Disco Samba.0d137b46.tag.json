@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Disco Samba"
+    },
+    "name": "Disco Samba",
+    "repository": "Local",
+    "tid": "0d137b46-8d0a-4a3e-b785-604b8f063310",
+    "types": [
+      "singers"
+    ]
+  }
+}

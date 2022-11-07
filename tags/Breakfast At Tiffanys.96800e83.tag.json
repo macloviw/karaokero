@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Breakfast At Tiffanys"
+    },
+    "name": "Breakfast At Tiffanys",
+    "repository": "Local",
+    "tid": "96800e83-d472-4743-aa5e-760b705f334a",
+    "types": [
+      "singers"
+    ]
+  }
+}

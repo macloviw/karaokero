@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Danny Daniel"
+    },
+    "name": "Danny Daniel",
+    "repository": "Local",
+    "tid": "bc5eced1-bcf4-4da1-9422-d8cb15a13412",
+    "types": [
+      "singers"
+    ]
+  }
+}

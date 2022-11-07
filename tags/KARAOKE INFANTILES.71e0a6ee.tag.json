@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KARAOKE INFANTILES"
+    },
+    "name": "KARAOKE INFANTILES",
+    "repository": "Local",
+    "tid": "71e0a6ee-bdb8-490c-b651-06918c0ed11e",
+    "types": [
+      "singers"
+    ]
+  }
+}

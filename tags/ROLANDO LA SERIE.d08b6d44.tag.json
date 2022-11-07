@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ROLANDO LA SERIE"
+    },
+    "name": "ROLANDO LA SERIE",
+    "repository": "Local",
+    "tid": "d08b6d44-d43f-4859-bd7e-f9e6249066a3",
+    "types": [
+      "singers"
+    ]
+  }
+}

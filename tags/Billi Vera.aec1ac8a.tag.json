@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Billi Vera"
+    },
+    "name": "Billi Vera",
+    "repository": "Local",
+    "tid": "aec1ac8a-c4a9-463e-8dba-af5e496f9015",
+    "types": [
+      "singers"
+    ]
+  }
+}

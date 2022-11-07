@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Don Omar Feat. Victor Manuelle"
+    },
+    "name": "Don Omar Feat. Victor Manuelle",
+    "repository": "Local",
+    "tid": "d142d2c5-8923-4b54-b7d5-115913aa67b5",
+    "types": [
+      "singers"
+    ]
+  }
+}

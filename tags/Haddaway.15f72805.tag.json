@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Haddaway"
+    },
+    "name": "Haddaway",
+    "repository": "Local",
+    "tid": "15f72805-6c69-4f71-beb6-b8e9cd233b3e",
+    "types": [
+      "singers"
+    ]
+  }
+}

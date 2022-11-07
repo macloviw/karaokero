@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUPITA DALESIO"
+    },
+    "name": "LUPITA DALESIO",
+    "repository": "Local",
+    "tid": "42dde4f6-e1db-4a9b-84ce-597ca38cd783",
+    "types": [
+      "singers"
+    ]
+  }
+}

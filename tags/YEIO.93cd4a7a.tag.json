@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "YEIO"
+    },
+    "name": "YEIO",
+    "repository": "Local",
+    "tid": "93cd4a7a-809b-4d33-9456-b884d5456548",
+    "types": [
+      "singers"
+    ]
+  }
+}

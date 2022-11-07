@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Emmanuel"
+    },
+    "name": "Emmanuel",
+    "repository": "Local",
+    "tid": "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5",
+    "types": [
+      "singers"
+    ]
+  }
+}

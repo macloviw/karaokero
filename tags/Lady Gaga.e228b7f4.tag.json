@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lady Gaga"
+    },
+    "name": "Lady Gaga",
+    "repository": "Local",
+    "tid": "e228b7f4-2a35-4d92-8bbc-0a0eebf97531",
+    "types": [
+      "singers"
+    ]
+  }
+}

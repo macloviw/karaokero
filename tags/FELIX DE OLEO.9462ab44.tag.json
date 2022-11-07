@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FELIX DE OLEO"
+    },
+    "name": "FELIX DE OLEO",
+    "repository": "Local",
+    "tid": "9462ab44-1f8d-4228-bc99-60dd8f7bc279",
+    "types": [
+      "singers"
+    ]
+  }
+}

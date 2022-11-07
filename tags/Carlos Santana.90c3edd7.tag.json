@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Carlos Santana"
+    },
+    "name": "Carlos Santana",
+    "repository": "Local",
+    "tid": "90c3edd7-affb-4304-9246-5682e7c4f709",
+    "types": [
+      "singers"
+    ]
+  }
+}

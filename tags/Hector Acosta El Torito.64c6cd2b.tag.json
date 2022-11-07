@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hector Acosta El Torito"
+    },
+    "name": "Hector Acosta El Torito",
+    "repository": "Local",
+    "tid": "64c6cd2b-259c-424a-baac-2b8f68f8ae84",
+    "types": [
+      "singers"
+    ]
+  }
+}

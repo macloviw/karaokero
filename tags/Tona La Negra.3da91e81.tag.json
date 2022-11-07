@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Toña La Negra"
+    },
+    "name": "Toña La Negra",
+    "repository": "Local",
+    "tid": "3da91e81-e33b-4dfe-ac94-99f4260fb3ef",
+    "types": [
+      "singers"
+    ]
+  }
+}

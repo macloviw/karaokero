@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EDIE GORME"
+    },
+    "name": "EDIE GORME",
+    "repository": "Local",
+    "tid": "1dfc6afb-8025-4e63-8406-aad577c4b9bc",
+    "types": [
+      "singers"
+    ]
+  }
+}

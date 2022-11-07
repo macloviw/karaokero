@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS VALLENATOS DE LA CUMBIA"
+    },
+    "name": "LOS VALLENATOS DE LA CUMBIA",
+    "repository": "Local",
+    "tid": "2858711d-362e-4fec-92f8-a340cc5d2baf",
+    "types": [
+      "singers"
+    ]
+  }
+}

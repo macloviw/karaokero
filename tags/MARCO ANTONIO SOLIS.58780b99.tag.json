@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MARCO ANTONIO SOLIS"
+    },
+    "name": "MARCO ANTONIO SOLIS",
+    "repository": "Local",
+    "tid": "58780b99-fa6f-4f7b-bc8c-22731299b7d7",
+    "types": [
+      "singers"
+    ]
+  }
+}

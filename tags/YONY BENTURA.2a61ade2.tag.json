@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "YONY BENTURA"
+    },
+    "name": "YONY BENTURA",
+    "repository": "Local",
+    "tid": "2a61ade2-dd35-443b-a3fb-ebb5a1518618",
+    "types": [
+      "singers"
+    ]
+  }
+}

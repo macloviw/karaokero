@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bob Marley & The Wailers"
+    },
+    "name": "Bob Marley & The Wailers",
+    "repository": "Local",
+    "tid": "b3214b8a-ccd2-4178-8fec-bfd365ff309c",
+    "types": [
+      "singers"
+    ]
+  }
+}

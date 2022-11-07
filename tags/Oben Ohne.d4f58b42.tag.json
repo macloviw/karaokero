@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Oben Ohne"
+    },
+    "name": "Oben Ohne",
+    "repository": "Local",
+    "tid": "d4f58b42-bc72-406c-ac99-cad78cb28704",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CAPTAN AND NEIL"
+    },
+    "name": "CAPTAN AND NEIL",
+    "repository": "Local",
+    "tid": "7b604519-99f5-4851-b9e3-abbdae93a03c",
+    "types": [
+      "singers"
+    ]
+  }
+}

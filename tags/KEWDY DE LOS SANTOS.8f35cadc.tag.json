@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KEWDY DE LOS SANTOS"
+    },
+    "name": "KEWDY DE LOS SANTOS",
+    "repository": "Local",
+    "tid": "8f35cadc-5adb-42d1-92b9-5dfd7b9c9d26",
+    "types": [
+      "singers"
+    ]
+  }
+}

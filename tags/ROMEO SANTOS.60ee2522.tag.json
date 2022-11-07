@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ROMEO SANTOS"
+    },
+    "name": "ROMEO SANTOS",
+    "repository": "Local",
+    "tid": "60ee2522-37ca-475c-bdc7-40d1df3928b2",
+    "types": [
+      "singers"
+    ]
+  }
+}

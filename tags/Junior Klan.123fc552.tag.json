@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Junior Klan"
+    },
+    "name": "Junior Klan",
+    "repository": "Local",
+    "tid": "123fc552-6cea-4da5-9417-cfa003c84908",
+    "types": [
+      "singers"
+    ]
+  }
+}

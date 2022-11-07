@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Xavier Naidoo"
+    },
+    "name": "Xavier Naidoo",
+    "repository": "Local",
+    "tid": "22dbc815-59d8-4515-b202-c9fdb69a489d",
+    "types": [
+      "singers"
+    ]
+  }
+}

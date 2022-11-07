@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RICKY MARTIN"
+    },
+    "name": "RICKY MARTIN",
+    "repository": "Local",
+    "tid": "593f5cdd-4f71-4e50-8e75-295fe4909d33",
+    "types": [
+      "singers"
+    ]
+  }
+}

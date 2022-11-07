@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Ángeles Negros"
+    },
+    "name": "Los Ángeles Negros",
+    "repository": "Local",
+    "tid": "6b010bf7-3aa2-43c0-99bf-cddf9f383c97",
+    "types": [
+      "singers"
+    ]
+  }
+}

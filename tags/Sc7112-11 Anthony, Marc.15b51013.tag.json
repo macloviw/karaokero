@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Sc7112-11 Anthony, Marc"
+    },
+    "name": "Sc7112-11 Anthony, Marc",
+    "repository": "Local",
+    "tid": "15b51013-1df1-4dd2-9cab-7e529b781f7e",
+    "types": [
+      "singers"
+    ]
+  }
+}

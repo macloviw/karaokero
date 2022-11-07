@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HAS-ASH"
+    },
+    "name": "HAS-ASH",
+    "repository": "Local",
+    "tid": "d2603eec-1122-4983-bfe6-de4211e23338",
+    "types": [
+      "singers"
+    ]
+  }
+}

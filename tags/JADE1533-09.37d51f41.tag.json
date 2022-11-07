@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JADE1533-09"
+    },
+    "name": "JADE1533-09",
+    "repository": "Local",
+    "tid": "37d51f41-9544-4a2c-990d-fb24d678f1e4",
+    "types": [
+      "singers"
+    ]
+  }
+}

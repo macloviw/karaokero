@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOVANNY POLANCO 346-27"
+    },
+    "name": "JOVANNY POLANCO 346-27",
+    "repository": "Local",
+    "tid": "01464ad3-537d-43aa-a62f-218e8dea09e3",
+    "types": [
+      "singers"
+    ]
+  }
+}

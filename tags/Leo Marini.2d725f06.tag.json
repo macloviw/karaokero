@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Leo Marini"
+    },
+    "name": "Leo Marini",
+    "repository": "Local",
+    "tid": "2d725f06-a83c-49dd-a5ec-ec5256056c0e",
+    "types": [
+      "singers"
+    ]
+  }
+}

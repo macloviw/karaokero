@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Black Eyed Peas, The"
+    },
+    "name": "Black Eyed Peas, The",
+    "repository": "Local",
+    "tid": "6cabde9f-cce8-4160-8c87-02a17170e84e",
+    "types": [
+      "singers"
+    ]
+  }
+}

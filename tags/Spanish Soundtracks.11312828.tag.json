@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Spanish Soundtracks"
+    },
+    "name": "Spanish Soundtracks",
+    "repository": "Local",
+    "tid": "11312828-351b-4263-9be8-2e0f10e286dd",
+    "types": [
+      "singers"
+    ]
+  }
+}

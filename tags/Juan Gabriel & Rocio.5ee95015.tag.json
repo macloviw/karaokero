@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Juan Gabriel & Rocio"
+    },
+    "name": "Juan Gabriel & Rocio",
+    "repository": "Local",
+    "tid": "5ee95015-d925-4752-bd55-2b37d461c430",
+    "types": [
+      "singers"
+    ]
+  }
+}

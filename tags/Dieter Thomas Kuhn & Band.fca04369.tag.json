@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dieter Thomas Kuhn & Band"
+    },
+    "name": "Dieter Thomas Kuhn & Band",
+    "repository": "Local",
+    "tid": "fca04369-e964-47aa-bfc7-c4694d791021",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eladio Romero Santos"
+    },
+    "name": "Eladio Romero Santos",
+    "repository": "Local",
+    "tid": "c398e18a-c4c3-45ba-959e-db2ddfac7171",
+    "types": [
+      "singers"
+    ]
+  }
+}

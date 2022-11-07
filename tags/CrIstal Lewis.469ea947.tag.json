@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CrIstal Lewis"
+    },
+    "name": "CrIstal Lewis",
+    "repository": "Local",
+    "tid": "469ea947-53c7-4603-9203-2d76d51afe4c",
+    "types": [
+      "singers"
+    ]
+  }
+}

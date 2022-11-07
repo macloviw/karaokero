@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Charlie García"
+    },
+    "name": "Charlie García",
+    "repository": "Local",
+    "tid": "56299719-df72-4dbe-8198-884433d4841a",
+    "types": [
+      "singers"
+    ]
+  }
+}

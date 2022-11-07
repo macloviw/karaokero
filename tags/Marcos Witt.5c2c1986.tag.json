@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Marcos Witt"
+    },
+    "name": "Marcos Witt",
+    "repository": "Local",
+    "tid": "5c2c1986-d116-4604-aa2e-28216d02d6c5",
+    "types": [
+      "singers"
+    ]
+  }
+}

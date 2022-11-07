@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PAQUITO GUZMAN"
+    },
+    "name": "PAQUITO GUZMAN",
+    "repository": "Local",
+    "tid": "50becf56-df91-475a-99d3-8b556e802480",
+    "types": [
+      "singers"
+    ]
+  }
+}

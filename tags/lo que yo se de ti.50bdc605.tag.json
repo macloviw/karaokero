@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "lo que yo se de ti"
+    },
+    "name": "lo que yo se de ti",
+    "repository": "Local",
+    "tid": "50bdc605-be25-4d55-be66-42497c43f7f4",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Calle 13 & Alejandro Sanz"
+    },
+    "name": "Calle 13 & Alejandro Sanz",
+    "repository": "Local",
+    "tid": "7afcbb23-bd96-4f7e-86c3-848052ff226b",
+    "types": [
+      "singers"
+    ]
+  }
+}

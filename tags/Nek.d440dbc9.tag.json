@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nek"
+    },
+    "name": "Nek",
+    "repository": "Local",
+    "tid": "d440dbc9-e41a-4d42-a2b2-0e6399269cb5",
+    "types": [
+      "singers"
+    ]
+  }
+}

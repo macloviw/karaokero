@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CDJ-KAR4388-04"
+    },
+    "name": "CDJ-KAR4388-04",
+    "repository": "Local",
+    "tid": "00396171-c24d-4003-81ba-e497a73ef8fc",
+    "types": [
+      "singers"
+    ]
+  }
+}

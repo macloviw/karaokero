@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kanny Garcia"
+    },
+    "name": "Kanny Garcia",
+    "repository": "Local",
+    "tid": "e1d2f178-c3cf-44fe-ab96-9a28ffa2f5cd",
+    "types": [
+      "singers"
+    ]
+  }
+}

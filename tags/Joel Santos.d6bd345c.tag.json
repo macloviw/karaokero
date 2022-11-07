@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Joel Santos"
+    },
+    "name": "Joel Santos",
+    "repository": "Local",
+    "tid": "d6bd345c-3f1b-4bf8-93ca-bef7900c206e",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Linkin Park"
+    },
+    "name": "Linkin Park",
+    "repository": "Local",
+    "tid": "20ae61f8-2bc9-47f0-a247-5b85d54ca962",
+    "types": [
+      "singers"
+    ]
+  }
+}

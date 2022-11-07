@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jennifer Lopez & Nas"
+    },
+    "name": "Jennifer Lopez & Nas",
+    "repository": "Local",
+    "tid": "575d4410-8768-4804-9c3f-9873fafc2544",
+    "types": [
+      "singers"
+    ]
+  }
+}

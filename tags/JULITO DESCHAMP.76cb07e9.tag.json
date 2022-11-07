@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JULITO DESCHAMP"
+    },
+    "name": "JULITO DESCHAMP",
+    "repository": "Local",
+    "tid": "76cb07e9-1ddd-487b-9eb8-93f5a074d490",
+    "types": [
+      "singers"
+    ]
+  }
+}

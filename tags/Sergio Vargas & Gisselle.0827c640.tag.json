@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Sergio Vargas & Gisselle"
+    },
+    "name": "Sergio Vargas & Gisselle",
+    "repository": "Local",
+    "tid": "0827c640-a244-44e2-8b76-3ae3737997c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

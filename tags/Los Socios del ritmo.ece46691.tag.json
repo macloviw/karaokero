@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Socios del ritmo"
+    },
+    "name": "Los Socios del ritmo",
+    "repository": "Local",
+    "tid": "ece46691-a814-425a-b506-5b59b778e0ca",
+    "types": [
+      "singers"
+    ]
+  }
+}

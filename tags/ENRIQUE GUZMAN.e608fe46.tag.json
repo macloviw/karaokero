@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ENRIQUE GUZMAN"
+    },
+    "name": "ENRIQUE GUZMAN",
+    "repository": "Local",
+    "tid": "e608fe46-d883-435f-995f-185d0e93044a",
+    "types": [
+      "singers"
+    ]
+  }
+}

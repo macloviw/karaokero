@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DOBLE T & EL CROK"
+    },
+    "name": "DOBLE T & EL CROK",
+    "repository": "Local",
+    "tid": "05118e36-30d7-4a48-89b6-013201929887",
+    "types": [
+      "singers"
+    ]
+  }
+}

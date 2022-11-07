@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Watson Bazoban"
+    },
+    "name": "Watson Bazoban",
+    "repository": "Local",
+    "tid": "b16869bf-1cf0-458a-8ee2-b185109ae98e",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Rocca"
+    },
+    "name": "La Rocca",
+    "repository": "Local",
+    "tid": "13847e63-62ab-4ea8-8c1b-455cb04bffe8",
+    "types": [
+      "singers"
+    ]
+  }
+}

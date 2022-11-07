@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Heino"
+    },
+    "name": "Heino",
+    "repository": "Local",
+    "tid": "cfdb6a0f-bed5-4b8d-aad6-6a8161e1d09d",
+    "types": [
+      "singers"
+    ]
+  }
+}

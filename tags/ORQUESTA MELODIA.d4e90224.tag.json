@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ORQUESTA MELODIA"
+    },
+    "name": "ORQUESTA MELODIA",
+    "repository": "Local",
+    "tid": "d4e90224-c53e-4868-bb01-50add9a74b0c",
+    "types": [
+      "singers"
+    ]
+  }
+}

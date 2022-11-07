@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSE JOSE Y EDY G"
+    },
+    "name": "JOSE JOSE Y EDY G",
+    "repository": "Local",
+    "tid": "1105ec76-8966-4bc1-8f6a-d941d55c077e",
+    "types": [
+      "singers"
+    ]
+  }
+}

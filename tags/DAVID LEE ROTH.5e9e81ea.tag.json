@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DAVID LEE ROTH"
+    },
+    "name": "DAVID LEE ROTH",
+    "repository": "Local",
+    "tid": "5e9e81ea-5903-49ce-824f-0668808fe59c",
+    "types": [
+      "singers"
+    ]
+  }
+}

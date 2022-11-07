@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Divas by Jimenez"
+    },
+    "name": "Divas by Jimenez",
+    "repository": "Local",
+    "tid": "c75aa631-2cd2-4833-9145-ca127da77357",
+    "types": [
+      "singers"
+    ]
+  }
+}

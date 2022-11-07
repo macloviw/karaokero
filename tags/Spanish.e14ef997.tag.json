@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Spanish"
+    },
+    "name": "Spanish",
+    "repository": "My Custom Songs",
+    "tid": "e14ef997-9bbc-4017-9216-e98640f46c22",
+    "types": [
+      "langs"
+    ]
+  }
+}

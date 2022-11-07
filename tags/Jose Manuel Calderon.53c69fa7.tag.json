@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Manuel Calderon"
+    },
+    "name": "Jose Manuel Calderon",
+    "repository": "Local",
+    "tid": "53c69fa7-db12-4386-a4bd-a253ba4582c4",
+    "types": [
+      "singers"
+    ]
+  }
+}

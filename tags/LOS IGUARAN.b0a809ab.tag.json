@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS IGUARAN"
+    },
+    "name": "LOS IGUARAN",
+    "repository": "Local",
+    "tid": "b0a809ab-7f5a-4ade-938d-e35aa30f75ad",
+    "types": [
+      "singers"
+    ]
+  }
+}

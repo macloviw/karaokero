@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Carly Simon"
+    },
+    "name": "Carly Simon",
+    "repository": "Local",
+    "tid": "a63eb4c1-f2cd-4cd5-bd9e-82c0f467301e",
+    "types": [
+      "singers"
+    ]
+  }
+}

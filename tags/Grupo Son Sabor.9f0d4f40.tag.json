@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Son Sabor"
+    },
+    "name": "Grupo Son Sabor",
+    "repository": "Local",
+    "tid": "9f0d4f40-2b73-487a-9933-6bbc5306c681",
+    "types": [
+      "singers"
+    ]
+  }
+}

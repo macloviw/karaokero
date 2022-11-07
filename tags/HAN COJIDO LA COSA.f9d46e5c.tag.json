@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HAN COJIDO LA COSA"
+    },
+    "name": "HAN COJIDO LA COSA",
+    "repository": "Local",
+    "tid": "f9d46e5c-4792-4f93-9909-c16aa3287bd3",
+    "types": [
+      "singers"
+    ]
+  }
+}

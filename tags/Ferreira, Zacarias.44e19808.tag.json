@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ferreira, Zacarias"
+    },
+    "name": "Ferreira, Zacarias",
+    "repository": "Local",
+    "tid": "44e19808-e4ca-4c93-8a10-f473c48a312c",
+    "types": [
+      "singers"
+    ]
+  }
+}

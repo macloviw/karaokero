@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OBBEY BERMUDEZ"
+    },
+    "name": "OBBEY BERMUDEZ",
+    "repository": "Local",
+    "tid": "092b6987-4a51-43dd-a019-947ed45f3f98",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Guaraguaos"
+    },
+    "name": "Los Guaraguaos",
+    "repository": "Local",
+    "tid": "c724dd0d-26fd-47dc-8c08-39763caf77cd",
+    "types": [
+      "singers"
+    ]
+  }
+}

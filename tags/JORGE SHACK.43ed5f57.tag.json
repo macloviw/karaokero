@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JORGE SHACK"
+    },
+    "name": "JORGE SHACK",
+    "repository": "Local",
+    "tid": "43ed5f57-9af8-4d46-8f78-6f41ed2bb6b2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RAMON TORRES"
+    },
+    "name": "RAMON TORRES",
+    "repository": "Local",
+    "tid": "d37a8535-2d7f-45fb-80a2-07791e67e106",
+    "types": [
+      "singers"
+    ]
+  }
+}

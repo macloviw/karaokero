@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOE VERAS"
+    },
+    "name": "JOE VERAS",
+    "repository": "Local",
+    "tid": "143ea420-7bc8-4464-9680-87cbb5ebb183",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Don Omar Feat. Ivy Queen"
+    },
+    "name": "Don Omar Feat. Ivy Queen",
+    "repository": "Local",
+    "tid": "4aaba43c-630c-47a6-a7df-61f2cebfb3a2",
+    "types": [
+      "singers"
+    ]
+  }
+}

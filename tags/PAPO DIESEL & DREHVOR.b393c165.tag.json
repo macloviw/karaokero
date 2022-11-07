@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PAPO DIESEL & DREHVOR"
+    },
+    "name": "PAPO DIESEL & DREHVOR",
+    "repository": "Local",
+    "tid": "b393c165-7742-4211-b5c5-de229c3122c6",
+    "types": [
+      "singers"
+    ]
+  }
+}

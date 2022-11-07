@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eddie Fisher"
+    },
+    "name": "Eddie Fisher",
+    "repository": "Local",
+    "tid": "8afa34d2-d1a3-44df-a381-e7cd80855789",
+    "types": [
+      "singers"
+    ]
+  }
+}

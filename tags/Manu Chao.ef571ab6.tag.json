@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Manu Chao"
+    },
+    "name": "Manu Chao",
+    "repository": "Local",
+    "tid": "ef571ab6-2f62-4f50-bd66-f2e24803861c",
+    "types": [
+      "singers"
+    ]
+  }
+}

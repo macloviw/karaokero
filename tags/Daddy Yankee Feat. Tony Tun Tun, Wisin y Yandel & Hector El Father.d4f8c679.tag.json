@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Daddy Yankee Feat. Tony Tun Tun, Wisin y Yandel & Hector El Father"
+    },
+    "name": "Daddy Yankee Feat. Tony Tun Tun, Wisin y Yandel & Hector El Father",
+    "repository": "Local",
+    "tid": "d4f8c679-4915-4265-803b-1c0132ce5d6e",
+    "types": [
+      "singers"
+    ]
+  }
+}

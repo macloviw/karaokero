@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Jose El Principe Con Trio"
+    },
+    "name": "Jose Jose El Principe Con Trio",
+    "repository": "Local",
+    "tid": "f27c0b84-fd35-43d7-aa47-58795779922c",
+    "types": [
+      "singers"
+    ]
+  }
+}

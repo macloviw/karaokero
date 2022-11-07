@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Indio"
+    },
+    "name": "Grupo Indio",
+    "repository": "Local",
+    "tid": "b91ea25d-104e-49fb-85a5-c1e3c03338d2",
+    "types": [
+      "singers"
+    ]
+  }
+}

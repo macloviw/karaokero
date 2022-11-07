@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Elio Roca"
+    },
+    "name": "Elio Roca",
+    "repository": "Local",
+    "tid": "46e2a252-d58f-47ca-ad3a-bb4479ef80e4",
+    "types": [
+      "singers"
+    ]
+  }
+}

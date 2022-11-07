@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Orquesta Opus"
+    },
+    "name": "Orquesta Opus",
+    "repository": "Local",
+    "tid": "05b167b9-fe5e-4d32-80ee-bed0684d0bab",
+    "types": [
+      "singers"
+    ]
+  }
+}

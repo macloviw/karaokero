@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Jose (dj daner)"
+    },
+    "name": "Jose Jose (dj daner)",
+    "repository": "Local",
+    "tid": "0981f248-38ac-419a-b533-678d564ee01d",
+    "types": [
+      "singers"
+    ]
+  }
+}

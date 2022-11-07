@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gente de Zona"
+    },
+    "name": "Gente de Zona",
+    "repository": "Local",
+    "tid": "ae1d5495-9eda-4439-99c9-281c259adf1f",
+    "types": [
+      "singers"
+    ]
+  }
+}

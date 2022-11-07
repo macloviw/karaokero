@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Negro 5 Estrella"
+    },
+    "name": "El Negro 5 Estrella",
+    "repository": "Local",
+    "tid": "c3e24be3-34e2-4b57-8d23-f6371beb73c3",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DANNY RIVERA"
+    },
+    "name": "DANNY RIVERA",
+    "repository": "Local",
+    "tid": "1c274115-8056-4325-a59c-67752bd14c13",
+    "types": [
+      "singers"
+    ]
+  }
+}

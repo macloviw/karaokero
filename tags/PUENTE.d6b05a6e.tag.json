@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PUENTE"
+    },
+    "name": "PUENTE",
+    "repository": "Local",
+    "tid": "d6b05a6e-7f45-46a1-8837-46a71375cf5a",
+    "types": [
+      "singers"
+    ]
+  }
+}

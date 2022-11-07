@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Chuape"
+    },
+    "name": "El Chuape",
+    "repository": "Local",
+    "tid": "627300e4-ad0d-4f4e-b193-2f7a1145c13c",
+    "types": [
+      "singers"
+    ]
+  }
+}

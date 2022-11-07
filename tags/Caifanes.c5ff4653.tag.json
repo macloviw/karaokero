@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Caifanes"
+    },
+    "name": "Caifanes",
+    "repository": "Local",
+    "tid": "c5ff4653-bb08-4ef5-94f5-f45c587bfdf4",
+    "types": [
+      "singers"
+    ]
+  }
+}

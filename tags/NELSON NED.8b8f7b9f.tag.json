@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NELSON NED"
+    },
+    "name": "NELSON NED",
+    "repository": "Local",
+    "tid": "8b8f7b9f-1b15-4543-b0c8-99f48e096f56",
+    "types": [
+      "singers"
+    ]
+  }
+}

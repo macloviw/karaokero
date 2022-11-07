@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pochy familia & su coco band"
+    },
+    "name": "Pochy familia & su coco band",
+    "repository": "Local",
+    "tid": "dd73b161-0c75-4ca9-9da8-631c3b03269a",
+    "types": [
+      "singers"
+    ]
+  }
+}

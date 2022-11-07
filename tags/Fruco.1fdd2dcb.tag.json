@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fruco"
+    },
+    "name": "Fruco",
+    "repository": "Local",
+    "tid": "1fdd2dcb-c6a5-445b-98be-889222d89e7e",
+    "types": [
+      "singers"
+    ]
+  }
+}

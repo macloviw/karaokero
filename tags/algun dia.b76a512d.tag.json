@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "algun dia"
+    },
+    "name": "algun dia",
+    "repository": "Local",
+    "tid": "b76a512d-7597-4fcf-a052-db9699cccbfb",
+    "types": [
+      "singers"
+    ]
+  }
+}

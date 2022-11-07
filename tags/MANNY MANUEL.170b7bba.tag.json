@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MANNY MANUEL"
+    },
+    "name": "MANNY MANUEL",
+    "repository": "Local",
+    "tid": "170b7bba-ec39-4c24-9acd-ee367b3356aa",
+    "types": [
+      "singers"
+    ]
+  }
+}

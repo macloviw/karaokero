@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Georgia Satellites"
+    },
+    "name": "Georgia Satellites",
+    "repository": "Local",
+    "tid": "76b0302c-0ba1-4b39-89a7-f2e0d78482bc",
+    "types": [
+      "singers"
+    ]
+  }
+}

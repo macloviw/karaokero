@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Deuctsch De Boore"
+    },
+    "name": "Deuctsch De Boore",
+    "repository": "Local",
+    "tid": "0d99121d-0ee5-4d83-a261-6b17650ec1b3",
+    "types": [
+      "singers"
+    ]
+  }
+}

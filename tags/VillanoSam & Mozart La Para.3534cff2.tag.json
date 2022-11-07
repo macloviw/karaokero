@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "VillanoSam & Mozart La Para"
+    },
+    "name": "VillanoSam & Mozart La Para",
+    "repository": "Local",
+    "tid": "3534cff2-877e-4c27-bc2a-c4956f74a701",
+    "types": [
+      "singers"
+    ]
+  }
+}

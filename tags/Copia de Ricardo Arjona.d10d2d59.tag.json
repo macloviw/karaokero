@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Copia de Ricardo Arjona"
+    },
+    "name": "Copia de Ricardo Arjona",
+    "repository": "Local",
+    "tid": "d10d2d59-ff1e-48f8-b304-152d3d0f7375",
+    "types": [
+      "singers"
+    ]
+  }
+}

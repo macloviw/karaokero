@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eso Nomas"
+    },
+    "name": "Eso Nomas",
+    "repository": "Local",
+    "tid": "647b2954-1183-44f8-8818-560c63d90573",
+    "types": [
+      "singers"
+    ]
+  }
+}

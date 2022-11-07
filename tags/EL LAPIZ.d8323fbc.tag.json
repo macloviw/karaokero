@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL LAPIZ"
+    },
+    "name": "EL LAPIZ",
+    "repository": "Local",
+    "tid": "d8323fbc-37f8-4c03-9e86-819f8aa16ff8",
+    "types": [
+      "singers"
+    ]
+  }
+}

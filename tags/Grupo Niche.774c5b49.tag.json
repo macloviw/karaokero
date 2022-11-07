@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Niche"
+    },
+    "name": "Grupo Niche",
+    "repository": "Local",
+    "tid": "774c5b49-c473-452a-bba1-d141f3877b4a",
+    "types": [
+      "singers"
+    ]
+  }
+}

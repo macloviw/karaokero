@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El General Larguito"
+    },
+    "name": "El General Larguito",
+    "repository": "Local",
+    "tid": "98667c38-eeea-4900-a46b-1790b315e381",
+    "types": [
+      "singers"
+    ]
+  }
+}

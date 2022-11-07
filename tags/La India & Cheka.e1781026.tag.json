@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La India & Cheka"
+    },
+    "name": "La India & Cheka",
+    "repository": "Local",
+    "tid": "e1781026-7f35-4fdd-9cf1-c5731d8aad24",
+    "types": [
+      "singers"
+    ]
+  }
+}

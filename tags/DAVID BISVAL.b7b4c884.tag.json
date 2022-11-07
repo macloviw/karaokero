@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DAVID BISVAL"
+    },
+    "name": "DAVID BISVAL",
+    "repository": "Local",
+    "tid": "b7b4c884-a755-49cd-b6f1-80bfc73c0ff5",
+    "types": [
+      "singers"
+    ]
+  }
+}

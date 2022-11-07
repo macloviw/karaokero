@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "richie Valens"
+    },
+    "name": "richie Valens",
+    "repository": "Local",
+    "tid": "d5d23c46-1e21-4c23-b1f7-f2a5df9ebc5a",
+    "types": [
+      "singers"
+    ]
+  }
+}

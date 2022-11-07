@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Santana & Michelle Branch"
+    },
+    "name": "Santana & Michelle Branch",
+    "repository": "Local",
+    "tid": "5ae85bd4-52bd-4a3d-8791-afd16096986e",
+    "types": [
+      "singers"
+    ]
+  }
+}

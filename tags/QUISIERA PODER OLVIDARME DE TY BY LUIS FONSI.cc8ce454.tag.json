@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI"
+    },
+    "name": "QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI",
+    "repository": "Local",
+    "tid": "cc8ce454-4961-4789-806a-edd4581a85ce",
+    "types": [
+      "singers"
+    ]
+  }
+}

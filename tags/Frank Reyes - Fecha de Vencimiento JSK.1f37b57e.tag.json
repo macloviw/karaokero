@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frank Reyes -  Fecha de Vencimiento JSK"
+    },
+    "name": "Frank Reyes -  Fecha de Vencimiento JSK",
+    "repository": "Local",
+    "tid": "1f37b57e-56da-495c-b93d-139916d7c6cc",
+    "types": [
+      "singers"
+    ]
+  }
+}

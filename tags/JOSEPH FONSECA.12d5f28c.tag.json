@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSEPH  FONSECA"
+    },
+    "name": "JOSEPH  FONSECA",
+    "repository": "Local",
+    "tid": "12d5f28c-71a2-49f8-b923-c7e118afb766",
+    "types": [
+      "singers"
+    ]
+  }
+}

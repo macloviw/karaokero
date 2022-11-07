@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frankie Ruiz (pistas)"
+    },
+    "name": "Frankie Ruiz (pistas)",
+    "repository": "Local",
+    "tid": "2dc5ef1e-94e4-4314-a76d-479d4e93c18e",
+    "types": [
+      "singers"
+    ]
+  }
+}

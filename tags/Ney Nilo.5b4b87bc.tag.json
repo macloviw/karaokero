@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ney Nilo"
+    },
+    "name": "Ney Nilo",
+    "repository": "Local",
+    "tid": "5b4b87bc-fd4c-4892-a046-fe6b079d0eba",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Boney M"
+    },
+    "name": "Boney M",
+    "repository": "Local",
+    "tid": "c9ed6a48-9d15-4ad5-8e30-ca13adba4a94",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lalo Rodriguez"
+    },
+    "name": "Lalo Rodriguez",
+    "repository": "Local",
+    "tid": "e9d70d21-aa84-4869-b44b-8513d998493b",
+    "types": [
+      "singers"
+    ]
+  }
+}

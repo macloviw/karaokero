@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Zsa Zsa Padilla"
+    },
+    "name": "Zsa Zsa Padilla",
+    "repository": "Local",
+    "tid": "cc53a35d-ad49-460b-9a11-aa1e979b2b44",
+    "types": [
+      "singers"
+    ]
+  }
+}

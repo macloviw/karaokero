@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Boyz II Men"
+    },
+    "name": "Boyz II Men",
+    "repository": "Local",
+    "tid": "e7b4407e-8c5c-4c16-b47c-5a38036c2326",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CARLOS TORO"
+    },
+    "name": "CARLOS TORO",
+    "repository": "Local",
+    "tid": "eb4d68b0-e022-434f-80e7-817a712452a2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JSK"
+    },
+    "name": "JSK",
+    "repository": "Local",
+    "tid": "4203a6d4-c68c-4a62-9efc-8e6bd7d62437",
+    "types": [
+      "singers"
+    ]
+  }
+}

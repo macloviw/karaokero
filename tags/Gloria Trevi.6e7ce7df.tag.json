@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gloria Trevi"
+    },
+    "name": "Gloria Trevi",
+    "repository": "Local",
+    "tid": "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f",
+    "types": [
+      "singers"
+    ]
+  }
+}

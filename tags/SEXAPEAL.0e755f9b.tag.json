@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SEXAPEAL"
+    },
+    "name": "SEXAPEAL",
+    "repository": "Local",
+    "tid": "0e755f9b-204c-4c05-88fd-06b71dfc0006",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nico Flores Y Su Banda Puro"
+    },
+    "name": "Nico Flores Y Su Banda Puro",
+    "repository": "Local",
+    "tid": "ccb573d9-b77f-4283-92f4-9686a71c9c60",
+    "types": [
+      "singers"
+    ]
+  }
+}

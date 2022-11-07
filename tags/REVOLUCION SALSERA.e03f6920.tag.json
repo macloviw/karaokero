@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "REVOLUCION SALSERA"
+    },
+    "name": "REVOLUCION SALSERA",
+    "repository": "Local",
+    "tid": "e03f6920-5de6-4a59-ae8c-9893ea8b629e",
+    "types": [
+      "singers"
+    ]
+  }
+}

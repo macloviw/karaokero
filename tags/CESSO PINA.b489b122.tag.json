@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CESSO PIÑA"
+    },
+    "name": "CESSO PIÑA",
+    "repository": "Local",
+    "tid": "b489b122-2752-48d5-b577-5440194cfee8",
+    "types": [
+      "singers"
+    ]
+  }
+}

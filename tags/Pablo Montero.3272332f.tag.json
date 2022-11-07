@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pablo Montero"
+    },
+    "name": "Pablo Montero",
+    "repository": "Local",
+    "tid": "3272332f-605e-4f02-af56-c6b2839f9293",
+    "types": [
+      "singers"
+    ]
+  }
+}

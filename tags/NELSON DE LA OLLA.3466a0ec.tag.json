@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NELSON DE LA OLLA"
+    },
+    "name": "NELSON DE LA OLLA",
+    "repository": "Local",
+    "tid": "3466a0ec-959a-4bf9-a8bc-3bd95a46b5c0",
+    "types": [
+      "singers"
+    ]
+  }
+}

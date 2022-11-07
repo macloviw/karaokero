@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Poder Del Norte"
+    },
+    "name": "El Poder Del Norte",
+    "repository": "Local",
+    "tid": "153e976b-ccac-423f-89a1-5c150c4683a0",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Oscar Medina"
+    },
+    "name": "Oscar Medina",
+    "repository": "Local",
+    "tid": "44df41f7-b618-4691-a1fb-33e7bc0c8f57",
+    "types": [
+      "singers"
+    ]
+  }
+}

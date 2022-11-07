@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DAVID KADA salsa"
+    },
+    "name": "DAVID KADA salsa",
+    "repository": "Local",
+    "tid": "3ea86d55-249d-4e9b-8bf0-7001837e7603",
+    "types": [
+      "singers"
+    ]
+  }
+}

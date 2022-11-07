@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Merengues Pistas"
+    },
+    "name": "Merengues Pistas",
+    "repository": "Local",
+    "tid": "3ef16192-1d7e-4272-b0fb-051bf46588d2",
+    "types": [
+      "singers"
+    ]
+  }
+}

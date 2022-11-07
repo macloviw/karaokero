@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El mayor Clasico ft Mark B"
+    },
+    "name": "El mayor Clasico ft Mark B",
+    "repository": "Local",
+    "tid": "2a7661b6-0f45-40b3-a8ce-df706e643076",
+    "types": [
+      "singers"
+    ]
+  }
+}

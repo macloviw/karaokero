@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "K ' MILO"
+    },
+    "name": "K ' MILO",
+    "repository": "Local",
+    "tid": "3b976749-fdb6-4a02-b70e-b21d75308fb0",
+    "types": [
+      "singers"
+    ]
+  }
+}

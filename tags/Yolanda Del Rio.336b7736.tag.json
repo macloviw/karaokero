@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Yolanda Del Rio"
+    },
+    "name": "Yolanda Del Rio",
+    "repository": "Local",
+    "tid": "336b7736-de15-47c9-bea9-3d5fc7387426",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Salsa"
+    },
+    "name": "Salsa",
+    "repository": "Local",
+    "tid": "e21a863a-1a09-4f17-949e-fff891cf9872",
+    "types": [
+      "songtypes"
+    ]
+  }
+}

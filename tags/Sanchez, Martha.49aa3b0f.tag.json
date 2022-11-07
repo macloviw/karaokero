@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Sanchez, Martha"
+    },
+    "name": "Sanchez, Martha",
+    "repository": "Local",
+    "tid": "49aa3b0f-6e04-4359-8e87-3dd6eb6b8d8c",
+    "types": [
+      "singers"
+    ]
+  }
+}

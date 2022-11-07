@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Doobie Brothers"
+    },
+    "name": "Doobie Brothers",
+    "repository": "Local",
+    "tid": "ec54cb39-836a-425a-b816-58cfea1cb465",
+    "types": [
+      "singers"
+    ]
+  }
+}

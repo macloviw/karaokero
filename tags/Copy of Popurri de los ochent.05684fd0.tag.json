@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Copy of Popurri de los ochent"
+    },
+    "name": "Copy of Popurri de los ochent",
+    "repository": "Local",
+    "tid": "05684fd0-e85e-41d6-b41f-5b16bcacb783",
+    "types": [
+      "singers"
+    ]
+  }
+}

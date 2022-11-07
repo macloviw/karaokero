@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Insatiable"
+    },
+    "name": "Insatiable",
+    "repository": "Local",
+    "tid": "e44610ed-29d0-4d3a-82ea-31752a9a46e3",
+    "types": [
+      "singers"
+    ]
+  }
+}

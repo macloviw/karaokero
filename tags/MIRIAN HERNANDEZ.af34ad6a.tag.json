@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MIRIAN HERNANDEZ"
+    },
+    "name": "MIRIAN HERNANDEZ",
+    "repository": "Local",
+    "tid": "af34ad6a-8c85-484e-ae7b-f738432bf0f2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Blas Duran"
+    },
+    "name": "Blas Duran",
+    "repository": "Local",
+    "tid": "3af94bd5-9b70-422c-a63b-2195a0bad3b3",
+    "types": [
+      "singers"
+    ]
+  }
+}

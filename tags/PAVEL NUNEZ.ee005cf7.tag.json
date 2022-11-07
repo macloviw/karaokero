@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PAVEL NUNEZ"
+    },
+    "name": "PAVEL NUNEZ",
+    "repository": "Local",
+    "tid": "ee005cf7-7efb-49f1-855f-c0b3490adc23",
+    "types": [
+      "singers"
+    ]
+  }
+}

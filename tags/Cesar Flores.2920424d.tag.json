@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cesar Flores"
+    },
+    "name": "Cesar Flores",
+    "repository": "Local",
+    "tid": "2920424d-79d5-403c-af72-cf6e7e36ae9f",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Stephen King"
+    },
+    "name": "Stephen King",
+    "repository": "Local",
+    "tid": "29d53f4b-28bf-472b-821a-0ff0b200c706",
+    "types": [
+      "singers"
+    ]
+  }
+}

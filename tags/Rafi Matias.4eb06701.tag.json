@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rafi Matias"
+    },
+    "name": "Rafi Matias",
+    "repository": "Local",
+    "tid": "4eb06701-3940-4886-adbf-c269e3f293ff",
+    "types": [
+      "singers"
+    ]
+  }
+}

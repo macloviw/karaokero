@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rudi Schuricke"
+    },
+    "name": "Rudi Schuricke",
+    "repository": "Local",
+    "tid": "1e321b6b-46e3-495f-a7e2-f88dc3325ae3",
+    "types": [
+      "singers"
+    ]
+  }
+}

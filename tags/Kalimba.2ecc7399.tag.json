@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kalimba"
+    },
+    "name": "Kalimba",
+    "repository": "Local",
+    "tid": "2ecc7399-ebee-4bb8-8a64-f839153aab5f",
+    "types": [
+      "singers"
+    ]
+  }
+}

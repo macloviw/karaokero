@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Vickiana"
+    },
+    "name": "Vickiana",
+    "repository": "Local",
+    "tid": "ffc8600e-6d1c-4014-8dd2-8ab397335de1",
+    "types": [
+      "singers"
+    ]
+  }
+}

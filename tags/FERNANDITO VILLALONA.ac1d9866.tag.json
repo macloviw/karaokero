@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FERNANDITO VILLALONA"
+    },
+    "name": "FERNANDITO VILLALONA",
+    "repository": "Local",
+    "tid": "ac1d9866-7470-4843-a33f-a89e047cfc8a",
+    "types": [
+      "singers"
+    ]
+  }
+}

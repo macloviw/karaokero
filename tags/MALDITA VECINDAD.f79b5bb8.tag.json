@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MALDITA VECINDAD"
+    },
+    "name": "MALDITA VECINDAD",
+    "repository": "Local",
+    "tid": "f79b5bb8-ecaa-4b16-84a0-d49357b542ac",
+    "types": [
+      "singers"
+    ]
+  }
+}

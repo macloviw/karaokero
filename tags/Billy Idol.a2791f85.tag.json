@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Billy Idol"
+    },
+    "name": "Billy Idol",
+    "repository": "Local",
+    "tid": "a2791f85-ed86-44b8-aea4-82f4126c988f",
+    "types": [
+      "singers"
+    ]
+  }
+}

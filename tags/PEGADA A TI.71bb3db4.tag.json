@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PEGADA A TI"
+    },
+    "name": "PEGADA A TI",
+    "repository": "Local",
+    "tid": "71bb3db4-a49c-4c24-aa71-7f99e9f79e1f",
+    "types": [
+      "singers"
+    ]
+  }
+}

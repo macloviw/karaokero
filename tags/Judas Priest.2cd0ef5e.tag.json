@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Judas Priest"
+    },
+    "name": "Judas Priest",
+    "repository": "Local",
+    "tid": "2cd0ef5e-00b9-4da3-88af-1a8469678691",
+    "types": [
+      "singers"
+    ]
+  }
+}

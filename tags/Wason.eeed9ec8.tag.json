@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Wason"
+    },
+    "name": "Wason",
+    "repository": "Local",
+    "tid": "eeed9ec8-12c1-4b68-83bf-41f16ce8f2df",
+    "types": [
+      "singers"
+    ]
+  }
+}

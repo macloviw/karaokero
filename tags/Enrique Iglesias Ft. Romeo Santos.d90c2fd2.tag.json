@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Enrique Iglesias Ft. Romeo Santos"
+    },
+    "name": "Enrique Iglesias Ft. Romeo Santos",
+    "repository": "Local",
+    "tid": "d90c2fd2-efa5-4093-83ab-ebf3a91160c1",
+    "types": [
+      "singers"
+    ]
+  }
+}

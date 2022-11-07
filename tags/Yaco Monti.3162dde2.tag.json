@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Yaco Monti"
+    },
+    "name": "Yaco Monti",
+    "repository": "Local",
+    "tid": "3162dde2-23c7-429b-8531-a6fed7fef049",
+    "types": [
+      "singers"
+    ]
+  }
+}

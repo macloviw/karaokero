@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Escuchame"
+    },
+    "name": "Escuchame",
+    "repository": "Local",
+    "tid": "be2bc6a8-e42f-4ff0-95f2-146f252dbd90",
+    "types": [
+      "singers"
+    ]
+  }
+}

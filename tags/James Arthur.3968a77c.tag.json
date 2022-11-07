@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "James Arthur"
+    },
+    "name": "James Arthur",
+    "repository": "Local",
+    "tid": "3968a77c-086d-4174-8e04-e0ebf1dbd129",
+    "types": [
+      "singers"
+    ]
+  }
+}

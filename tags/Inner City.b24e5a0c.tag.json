@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Inner City"
+    },
+    "name": "Inner City",
+    "repository": "Local",
+    "tid": "b24e5a0c-3f98-413d-a23e-ae5ffb9d8811",
+    "types": [
+      "singers"
+    ]
+  }
+}

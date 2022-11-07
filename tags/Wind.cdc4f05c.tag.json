@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Wind"
+    },
+    "name": "Wind",
+    "repository": "Local",
+    "tid": "cdc4f05c-f321-4c37-82b9-096ebdb9517b",
+    "types": [
+      "singers"
+    ]
+  }
+}

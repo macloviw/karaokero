@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PIRULI"
+    },
+    "name": "PIRULI",
+    "repository": "Local",
+    "tid": "a8056906-2493-404e-9a2e-c9615299001a",
+    "types": [
+      "singers"
+    ]
+  }
+}

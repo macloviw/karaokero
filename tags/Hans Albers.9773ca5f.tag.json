@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hans Albers"
+    },
+    "name": "Hans Albers",
+    "repository": "Local",
+    "tid": "9773ca5f-d676-4c29-9b89-7bf6ab8521da",
+    "types": [
+      "singers"
+    ]
+  }
+}

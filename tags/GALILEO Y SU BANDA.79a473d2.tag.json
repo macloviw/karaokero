@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GALILEO Y SU BANDA"
+    },
+    "name": "GALILEO Y SU BANDA",
+    "repository": "Local",
+    "tid": "79a473d2-75a7-4c08-91f2-b377d1e6883c",
+    "types": [
+      "singers"
+    ]
+  }
+}

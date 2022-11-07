@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS TECLONES"
+    },
+    "name": "LOS TECLONES",
+    "repository": "Local",
+    "tid": "09ec7c11-e645-4038-a15f-cbef19040393",
+    "types": [
+      "singers"
+    ]
+  }
+}

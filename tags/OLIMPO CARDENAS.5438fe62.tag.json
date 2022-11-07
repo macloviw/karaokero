@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OLIMPO CARDENAS"
+    },
+    "name": "OLIMPO CARDENAS",
+    "repository": "Local",
+    "tid": "5438fe62-8309-40b7-a420-4ac17848a939",
+    "types": [
+      "singers"
+    ]
+  }
+}

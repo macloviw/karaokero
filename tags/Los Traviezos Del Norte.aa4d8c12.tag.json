@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Traviezos Del Norte"
+    },
+    "name": "Los Traviezos Del Norte",
+    "repository": "Local",
+    "tid": "aa4d8c12-584b-4745-bcf0-219b41019f5b",
+    "types": [
+      "singers"
+    ]
+  }
+}

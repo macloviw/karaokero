@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JUANL GUERRA"
+    },
+    "name": "JUANL GUERRA",
+    "repository": "Local",
+    "tid": "23dd9ab6-cf01-46da-a5b0-7d65ba0dd3a5",
+    "types": [
+      "singers"
+    ]
+  }
+}

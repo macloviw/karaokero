@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Magia Caribeña"
+    },
+    "name": "Magia Caribeña",
+    "repository": "Local",
+    "tid": "f74db649-49a6-4378-80e2-2052c0960e66",
+    "types": [
+      "singers"
+    ]
+  }
+}

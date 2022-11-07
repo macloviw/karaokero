@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PISTAS MISICALES frankie ruiz"
+    },
+    "name": "PISTAS MISICALES frankie ruiz",
+    "repository": "Local",
+    "tid": "6f933665-4fc0-4baa-8a7f-d50158861234",
+    "types": [
+      "singers"
+    ]
+  }
+}

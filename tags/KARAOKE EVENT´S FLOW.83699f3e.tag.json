@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KARAOKE EVENT´S FLOW"
+    },
+    "name": "KARAOKE EVENT´S FLOW",
+    "repository": "Local",
+    "tid": "83699f3e-7e79-46b2-8d09-60debe375d91",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jazz Gitti & Her Discokillers"
+    },
+    "name": "Jazz Gitti & Her Discokillers",
+    "repository": "Local",
+    "tid": "6b74dd5b-463e-4f12-b0b8-b6e7cd8b6e17",
+    "types": [
+      "singers"
+    ]
+  }
+}

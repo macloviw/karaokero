@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Forgiven"
+    },
+    "name": "Forgiven",
+    "repository": "Local",
+    "tid": "81534c8c-6831-44ce-b196-daf187da4951",
+    "types": [
+      "singers"
+    ]
+  }
+}

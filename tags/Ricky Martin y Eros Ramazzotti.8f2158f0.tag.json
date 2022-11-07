@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ricky Martin y Eros Ramazzotti"
+    },
+    "name": "Ricky Martin y Eros Ramazzotti",
+    "repository": "Local",
+    "tid": "8f2158f0-9680-4a73-99c9-9e3307f4eb45",
+    "types": [
+      "singers"
+    ]
+  }
+}

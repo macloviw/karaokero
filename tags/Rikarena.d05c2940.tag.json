@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rikarena"
+    },
+    "name": "Rikarena",
+    "repository": "Local",
+    "tid": "d05c2940-060a-41aa-a2e1-cb332e109e7b",
+    "types": [
+      "singers"
+    ]
+  }
+}

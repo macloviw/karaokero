@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Juan Bautista"
+    },
+    "name": "Juan Bautista",
+    "repository": "Local",
+    "tid": "0b16f22b-49bf-4818-8313-bf1546d206f2",
+    "types": [
+      "singers"
+    ]
+  }
+}

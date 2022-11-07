@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Oasis"
+    },
+    "name": "Oasis",
+    "repository": "Local",
+    "tid": "2699f059-0495-49a1-86d6-bd8de9fad450",
+    "types": [
+      "singers"
+    ]
+  }
+}

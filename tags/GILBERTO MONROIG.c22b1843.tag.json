@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GILBERTO MONROIG"
+    },
+    "name": "GILBERTO MONROIG",
+    "repository": "Local",
+    "tid": "c22b1843-b757-410a-bed5-61b5ddd55b80",
+    "types": [
+      "singers"
+    ]
+  }
+}

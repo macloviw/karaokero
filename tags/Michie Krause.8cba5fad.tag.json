@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Michie Krause"
+    },
+    "name": "Michie Krause",
+    "repository": "Local",
+    "tid": "8cba5fad-b6c6-4895-8769-393f3961c0c1",
+    "types": [
+      "singers"
+    ]
+  }
+}

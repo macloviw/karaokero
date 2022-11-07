@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Las Casas De Carton"
+    },
+    "name": "Las Casas De Carton",
+    "repository": "Local",
+    "tid": "a387cc8a-c008-48b6-be66-8284df5cc9e2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Journey"
+    },
+    "name": "Journey",
+    "repository": "Local",
+    "tid": "ec1e210f-d1d4-4da1-bc6a-0e0e8fc13f0d",
+    "types": [
+      "singers"
+    ]
+  }
+}

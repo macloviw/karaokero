@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ELVIS MARTINEZ (EL CAMARON)"
+    },
+    "name": "ELVIS MARTINEZ (EL CAMARON)",
+    "repository": "Local",
+    "tid": "f5d32e50-be37-4c77-8fbd-f7b35980b1dc",
+    "types": [
+      "singers"
+    ]
+  }
+}

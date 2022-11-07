@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SFG213"
+    },
+    "name": "SFG213",
+    "repository": "Local",
+    "tid": "8840df6f-3c23-4857-9f6a-5b3c152a6911",
+    "types": [
+      "singers"
+    ]
+  }
+}

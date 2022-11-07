@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "WILFRIDO VARGAS"
+    },
+    "name": "WILFRIDO VARGAS",
+    "repository": "Local",
+    "tid": "b9fc3b01-d314-412f-b660-7382901de128",
+    "types": [
+      "singers"
+    ]
+  }
+}

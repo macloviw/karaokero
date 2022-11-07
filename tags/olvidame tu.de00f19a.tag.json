@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "olvidame tu"
+    },
+    "name": "olvidame tu",
+    "repository": "Local",
+    "tid": "de00f19a-00b8-47a3-9294-f2e56037af06",
+    "types": [
+      "singers"
+    ]
+  }
+}

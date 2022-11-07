@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "psia"
+    },
+    "name": "psia",
+    "repository": "Local",
+    "tid": "b88ff313-19d8-4c0b-8836-c9098143c9a0",
+    "types": [
+      "singers"
+    ]
+  }
+}

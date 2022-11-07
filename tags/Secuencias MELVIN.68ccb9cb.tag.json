@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Secuencias MELVIN"
+    },
+    "name": "Secuencias MELVIN",
+    "repository": "Local",
+    "tid": "68ccb9cb-4e8c-464c-a0df-0ce59367fd40",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GRUPO NEGROS"
+    },
+    "name": "GRUPO NEGROS",
+    "repository": "Local",
+    "tid": "988b9a8c-ae5d-4173-9d38-7831b8815f80",
+    "types": [
+      "singers"
+    ]
+  }
+}

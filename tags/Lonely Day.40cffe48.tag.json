@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lonely Day"
+    },
+    "name": "Lonely Day",
+    "repository": "Local",
+    "tid": "40cffe48-e6c8-48c8-8cd7-426c82b43046",
+    "types": [
+      "singers"
+    ]
+  }
+}

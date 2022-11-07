@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MANA"
+    },
+    "name": "MANA",
+    "repository": "Local",
+    "tid": "f635606e-02c6-4032-bdb4-170879ea882b",
+    "types": [
+      "singers"
+    ]
+  }
+}

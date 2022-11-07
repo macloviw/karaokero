@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fruko y sus tesos"
+    },
+    "name": "Fruko y sus tesos",
+    "repository": "Local",
+    "tid": "e38c2081-9f83-4e31-841e-937fd5fc07d6",
+    "types": [
+      "singers"
+    ]
+  }
+}

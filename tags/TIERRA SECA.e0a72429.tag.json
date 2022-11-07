@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TIERRA SECA"
+    },
+    "name": "TIERRA SECA",
+    "repository": "Local",
+    "tid": "e0a72429-3a5e-414d-9c42-1f6037c8abee",
+    "types": [
+      "singers"
+    ]
+  }
+}

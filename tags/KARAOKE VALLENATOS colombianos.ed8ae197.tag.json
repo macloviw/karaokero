@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KARAOKE VALLENATOS colombianos"
+    },
+    "name": "KARAOKE VALLENATOS colombianos",
+    "repository": "Local",
+    "tid": "ed8ae197-3665-4156-b7b1-04ac51d8d99c",
+    "types": [
+      "genres"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TOÑO ROSARIO"
+    },
+    "name": "TOÑO ROSARIO",
+    "repository": "Local",
+    "tid": "124f7781-9ff9-4376-90ce-751851cc5cc5",
+    "types": [
+      "singers"
+    ]
+  }
+}

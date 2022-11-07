@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RAPHAEL"
+    },
+    "name": "RAPHAEL",
+    "repository": "Local",
+    "tid": "b8e4a871-dd61-4c1e-9908-bc823da5316b",
+    "types": [
+      "singers"
+    ]
+  }
+}

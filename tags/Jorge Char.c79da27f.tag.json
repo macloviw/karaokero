@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jorge Char"
+    },
+    "name": "Jorge Char",
+    "repository": "Local",
+    "tid": "c79da27f-0cc8-453e-bea3-fce8ca519b70",
+    "types": [
+      "singers"
+    ]
+  }
+}

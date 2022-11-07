@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Märchenprinz"
+    },
+    "name": "Märchenprinz",
+    "repository": "Local",
+    "tid": "2e878b2d-0f74-417c-bac1-49c31e1f921b",
+    "types": [
+      "singers"
+    ]
+  }
+}

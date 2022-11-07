@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HNOS ARRYAGADA"
+    },
+    "name": "HNOS ARRYAGADA",
+    "repository": "Local",
+    "tid": "dc6c0979-f1b6-4134-b26b-ae4c09e54cf4",
+    "types": [
+      "singers"
+    ]
+  }
+}

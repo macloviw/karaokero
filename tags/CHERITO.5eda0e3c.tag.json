@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CHERITO"
+    },
+    "name": "CHERITO",
+    "repository": "Local",
+    "tid": "5eda0e3c-b12d-410f-be31-9e60478c4af1",
+    "types": [
+      "singers"
+    ]
+  }
+}

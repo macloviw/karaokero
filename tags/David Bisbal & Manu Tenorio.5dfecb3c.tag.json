@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Bisbal & Manu Tenorio"
+    },
+    "name": "David Bisbal & Manu Tenorio",
+    "repository": "Local",
+    "tid": "5dfecb3c-c923-4bab-bce0-f96a208d649a",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "De Ilegales"
+    },
+    "name": "De Ilegales",
+    "repository": "Local",
+    "tid": "3e549f9c-8d43-4035-b8ca-c220d00a79f7",
+    "types": [
+      "singers"
+    ]
+  }
+}

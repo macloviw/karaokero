@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MYRIAM HERNANDEZ"
+    },
+    "name": "MYRIAM HERNANDEZ",
+    "repository": "Local",
+    "tid": "e50c894a-425f-4e48-b92e-212adc09e2a0",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JON SECADA"
+    },
+    "name": "JON SECADA",
+    "repository": "Local",
+    "tid": "38ca9c97-7b35-4eaa-bcdf-fe06e643bda1",
+    "types": [
+      "singers"
+    ]
+  }
+}

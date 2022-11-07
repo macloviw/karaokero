@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "WHITNEY HOUSTON"
+    },
+    "name": "WHITNEY HOUSTON",
+    "repository": "Local",
+    "tid": "9ad3b2e6-5f96-4dc1-90de-63afa074acd9",
+    "types": [
+      "singers"
+    ]
+  }
+}

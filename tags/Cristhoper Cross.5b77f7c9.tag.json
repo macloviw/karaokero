@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cristhoper Cross"
+    },
+    "name": "Cristhoper Cross",
+    "repository": "Local",
+    "tid": "5b77f7c9-6abf-455b-951a-d27f5f42d1d4",
+    "types": [
+      "singers"
+    ]
+  }
+}

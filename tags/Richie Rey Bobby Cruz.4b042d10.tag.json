@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Richie Rey Bobby Cruz"
+    },
+    "name": "Richie Rey Bobby Cruz",
+    "repository": "Local",
+    "tid": "4b042d10-37e9-49b6-88e5-6209ae4c64a2",
+    "types": [
+      "singers"
+    ]
+  }
+}

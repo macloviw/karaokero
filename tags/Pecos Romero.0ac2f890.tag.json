@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pecos Romero"
+    },
+    "name": "Pecos Romero",
+    "repository": "Local",
+    "tid": "0ac2f890-d281-45b9-b8d5-34a9804a0ebb",
+    "types": [
+      "singers"
+    ]
+  }
+}

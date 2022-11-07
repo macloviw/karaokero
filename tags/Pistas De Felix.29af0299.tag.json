@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pistas De Felix"
+    },
+    "name": "Pistas De Felix",
+    "repository": "Local",
+    "tid": "29af0299-dd15-4dc6-aca1-ab92fd320fe4",
+    "types": [
+      "singers"
+    ]
+  }
+}

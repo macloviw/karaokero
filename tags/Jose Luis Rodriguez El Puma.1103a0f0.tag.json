@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Luis Rodriguez  El Puma"
+    },
+    "name": "Jose Luis Rodriguez  El Puma",
+    "repository": "Local",
+    "tid": "1103a0f0-d825-4c08-a4f3-37792d1441bc",
+    "types": [
+      "singers"
+    ]
+  }
+}

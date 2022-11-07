@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Brand New Heavies"
+    },
+    "name": "Brand New Heavies",
+    "repository": "Local",
+    "tid": "eef7465e-1701-4a10-8422-f2f5fe089342",
+    "types": [
+      "singers"
+    ]
+  }
+}

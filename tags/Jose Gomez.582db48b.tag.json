@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Gomez"
+    },
+    "name": "Jose Gomez",
+    "repository": "Local",
+    "tid": "582db48b-f293-4b7a-92af-efe0b140f508",
+    "types": [
+      "singers"
+    ]
+  }
+}

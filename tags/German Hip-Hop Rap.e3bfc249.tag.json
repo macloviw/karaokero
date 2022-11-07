@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "German Hip-Hop Rap"
+    },
+    "name": "German Hip-Hop Rap",
+    "repository": "Local",
+    "tid": "e3bfc249-d68f-46ce-9461-a297acdac294",
+    "types": [
+      "genres"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Legends Series"
+    },
+    "name": "Legends Series",
+    "repository": "Local",
+    "tid": "b9460163-8c91-4e44-959d-0190b7648947",
+    "types": [
+      "singers"
+    ]
+  }
+}

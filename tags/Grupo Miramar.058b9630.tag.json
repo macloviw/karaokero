@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Miramar"
+    },
+    "name": "Grupo Miramar",
+    "repository": "Local",
+    "tid": "058b9630-40e6-4a19-869d-d2753e896fc4",
+    "types": [
+      "singers"
+    ]
+  }
+}

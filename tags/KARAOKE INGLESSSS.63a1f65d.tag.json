@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KARAOKE  INGLESSSS"
+    },
+    "name": "KARAOKE  INGLESSSS",
+    "repository": "Local",
+    "tid": "63a1f65d-6dc2-4917-af6a-c56af33e80c1",
+    "types": [
+      "genres"
+    ]
+  }
+}

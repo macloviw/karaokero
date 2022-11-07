@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Daniela Romo"
+    },
+    "name": "Daniela Romo",
+    "repository": "Local",
+    "tid": "c9055891-729e-44ce-bf42-3b359f73ae48",
+    "types": [
+      "singers"
+    ]
+  }
+}

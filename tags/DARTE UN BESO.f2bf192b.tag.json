@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DARTE UN BESO"
+    },
+    "name": "DARTE UN BESO",
+    "repository": "Local",
+    "tid": "f2bf192b-2d31-483c-98cb-975f99d9bcad",
+    "types": [
+      "singers"
+    ]
+  }
+}

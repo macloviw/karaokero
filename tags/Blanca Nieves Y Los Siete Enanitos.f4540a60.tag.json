@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Blanca Nieves Y Los Siete Enanitos"
+    },
+    "name": "Blanca Nieves Y Los Siete Enanitos",
+    "repository": "Local",
+    "tid": "f4540a60-144f-4c3d-b707-611af46dfd71",
+    "types": [
+      "singers"
+    ]
+  }
+}

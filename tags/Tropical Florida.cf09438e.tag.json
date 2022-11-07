@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tropical Florida"
+    },
+    "name": "Tropical Florida",
+    "repository": "Local",
+    "tid": "cf09438e-9766-4f94-b4b5-8cc981ca10be",
+    "types": [
+      "singers"
+    ]
+  }
+}

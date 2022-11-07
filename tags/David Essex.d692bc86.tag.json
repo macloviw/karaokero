@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Essex"
+    },
+    "name": "David Essex",
+    "repository": "Local",
+    "tid": "d692bc86-f0b1-4d9e-a984-b5c9c23acafc",
+    "types": [
+      "singers"
+    ]
+  }
+}

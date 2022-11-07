@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GEOVANNY POLANCO"
+    },
+    "name": "GEOVANNY POLANCO",
+    "repository": "Local",
+    "tid": "ccd45d64-b03c-4304-9627-d68c9071e9fe",
+    "types": [
+      "singers"
+    ]
+  }
+}

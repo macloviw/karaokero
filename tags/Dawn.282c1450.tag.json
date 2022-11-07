@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dawn"
+    },
+    "name": "Dawn",
+    "repository": "Local",
+    "tid": "282c1450-5f6a-4096-a97d-92fb99bbec8d",
+    "types": [
+      "singers"
+    ]
+  }
+}

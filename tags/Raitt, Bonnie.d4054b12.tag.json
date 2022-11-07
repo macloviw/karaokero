@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Raitt, Bonnie"
+    },
+    "name": "Raitt, Bonnie",
+    "repository": "Local",
+    "tid": "d4054b12-6e75-4456-9cdf-9f9d30dffc1e",
+    "types": [
+      "singers"
+    ]
+  }
+}

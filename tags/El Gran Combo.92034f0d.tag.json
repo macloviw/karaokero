@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Gran Combo"
+    },
+    "name": "El Gran Combo",
+    "repository": "Local",
+    "tid": "92034f0d-c67a-43d9-8f46-9016f2ff6956",
+    "types": [
+      "singers"
+    ]
+  }
+}

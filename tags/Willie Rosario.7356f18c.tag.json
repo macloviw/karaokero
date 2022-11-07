@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Willie Rosario"
+    },
+    "name": "Willie Rosario",
+    "repository": "Local",
+    "tid": "7356f18c-edc3-48e6-b4ba-3aa9ed3fc7fa",
+    "types": [
+      "singers"
+    ]
+  }
+}

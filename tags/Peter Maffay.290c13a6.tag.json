@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Peter Maffay"
+    },
+    "name": "Peter Maffay",
+    "repository": "Local",
+    "tid": "290c13a6-1cfa-4469-8064-a250530bf7bc",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Insuperable Ft. Gnomo"
+    },
+    "name": "La Insuperable Ft. Gnomo",
+    "repository": "Local",
+    "tid": "04c3d12d-d759-44ca-a862-0f42a76a511f",
+    "types": [
+      "singers"
+    ]
+  }
+}

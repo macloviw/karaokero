@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grass Roots"
+    },
+    "name": "Grass Roots",
+    "repository": "Local",
+    "tid": "082b0d36-bec1-4c13-97c1-434773cff854",
+    "types": [
+      "singers"
+    ]
+  }
+}

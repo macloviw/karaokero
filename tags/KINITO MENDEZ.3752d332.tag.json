@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KINITO MENDEZ"
+    },
+    "name": "KINITO MENDEZ",
+    "repository": "Local",
+    "tid": "3752d332-2a4c-4c3a-998a-dc30ea46d8d0",
+    "types": [
+      "singers"
+    ]
+  }
+}

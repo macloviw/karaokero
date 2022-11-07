@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PLACIDO DOMINGO"
+    },
+    "name": "PLACIDO DOMINGO",
+    "repository": "Local",
+    "tid": "14557b5a-bda9-44a2-ae76-a18990060d31",
+    "types": [
+      "singers"
+    ]
+  }
+}

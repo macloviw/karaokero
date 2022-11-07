@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Luis Rodriguez"
+    },
+    "name": "Jose Luis Rodriguez",
+    "repository": "Local",
+    "tid": "62a8d6c3-e4a5-4cd8-8701-953297063bfa",
+    "types": [
+      "singers"
+    ]
+  }
+}

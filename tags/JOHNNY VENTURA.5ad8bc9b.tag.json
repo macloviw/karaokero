@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOHNNY VENTURA"
+    },
+    "name": "JOHNNY VENTURA",
+    "repository": "Local",
+    "tid": "5ad8bc9b-c9f9-44c1-b4e0-e7ec70214ea9",
+    "types": [
+      "singers"
+    ]
+  }
+}

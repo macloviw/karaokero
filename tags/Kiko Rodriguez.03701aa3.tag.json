@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kiko Rodriguez"
+    },
+    "name": "Kiko Rodriguez",
+    "repository": "Local",
+    "tid": "03701aa3-0887-491e-be73-18e332104f9f",
+    "types": [
+      "singers"
+    ]
+  }
+}

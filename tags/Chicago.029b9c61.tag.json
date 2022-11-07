@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Chicago"
+    },
+    "name": "Chicago",
+    "repository": "Local",
+    "tid": "029b9c61-0f6a-4a7a-844b-b210794a2f26",
+    "types": [
+      "singers"
+    ]
+  }
+}

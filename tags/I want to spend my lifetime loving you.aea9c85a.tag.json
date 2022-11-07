@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "I want to spend my lifetime loving you"
+    },
+    "name": "I want to spend my lifetime loving you",
+    "repository": "Local",
+    "tid": "aea9c85a-8a73-497c-b726-4308f9845c4c",
+    "types": [
+      "singers"
+    ]
+  }
+}

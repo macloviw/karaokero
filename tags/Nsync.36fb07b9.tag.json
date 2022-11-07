@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nsync"
+    },
+    "name": "Nsync",
+    "repository": "Local",
+    "tid": "36fb07b9-21bc-4fdf-84de-8fe6a7a5a294",
+    "types": [
+      "singers"
+    ]
+  }
+}

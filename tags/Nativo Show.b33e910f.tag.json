@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nativo Show"
+    },
+    "name": "Nativo Show",
+    "repository": "Local",
+    "tid": "b33e910f-69b9-470a-811c-68eac06366c7",
+    "types": [
+      "singers"
+    ]
+  }
+}

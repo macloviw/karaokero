@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cano Estremera"
+    },
+    "name": "Cano Estremera",
+    "repository": "Local",
+    "tid": "0d974389-fdb9-47db-a7cf-0155613492eb",
+    "types": [
+      "singers"
+    ]
+  }
+}

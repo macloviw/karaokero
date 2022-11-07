@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Del Amitri"
+    },
+    "name": "Del Amitri",
+    "repository": "Local",
+    "tid": "3a8bb5da-db3c-454a-a076-c5fd1ae0b2cd",
+    "types": [
+      "singers"
+    ]
+  }
+}

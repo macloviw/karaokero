@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Academia"
+    },
+    "name": "La Academia",
+    "repository": "Local",
+    "tid": "c98aeb62-b11e-4296-907e-e77d36a54743",
+    "types": [
+      "singers"
+    ]
+  }
+}

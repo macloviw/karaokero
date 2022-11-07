@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Www.BlackLionMusic.Com"
+    },
+    "name": "Www.BlackLionMusic.Com",
+    "repository": "Local",
+    "tid": "77c46073-32d8-4347-bf9f-2657392aa9db",
+    "types": [
+      "singers"
+    ]
+  }
+}

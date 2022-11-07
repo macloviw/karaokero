@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Camargo y Luciano"
+    },
+    "name": "Camargo y Luciano",
+    "repository": "Local",
+    "tid": "68bc4ce8-7f32-4a31-b99c-bc2c25c2fd65",
+    "types": [
+      "singers"
+    ]
+  }
+}

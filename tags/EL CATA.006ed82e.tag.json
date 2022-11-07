@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL CATA"
+    },
+    "name": "EL CATA",
+    "repository": "Local",
+    "tid": "006ed82e-b3b8-4e26-bd7e-e1a0d26473db",
+    "types": [
+      "genres"
+    ]
+  }
+}

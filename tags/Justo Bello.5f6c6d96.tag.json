@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Justo Bello"
+    },
+    "name": "Justo Bello",
+    "repository": "Local",
+    "tid": "5f6c6d96-5120-499d-af22-d8556d0333c0",
+    "types": [
+      "singers"
+    ]
+  }
+}

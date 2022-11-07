@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FleetWood"
+    },
+    "name": "FleetWood",
+    "repository": "Local",
+    "tid": "fb8991ac-f953-4f15-9fe6-649348c88451",
+    "types": [
+      "singers"
+    ]
+  }
+}

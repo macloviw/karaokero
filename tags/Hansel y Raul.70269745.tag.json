@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hansel y Raul"
+    },
+    "name": "Hansel y Raul",
+    "repository": "Local",
+    "tid": "70269745-cfd3-4ea4-9914-3fe15dbf76f6",
+    "types": [
+      "singers"
+    ]
+  }
+}

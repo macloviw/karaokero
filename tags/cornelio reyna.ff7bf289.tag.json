@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "cornelio reyna"
+    },
+    "name": "cornelio reyna",
+    "repository": "Local",
+    "tid": "ff7bf289-e9e3-4b47-94cd-791ce519b6a1",
+    "types": [
+      "singers"
+    ]
+  }
+}

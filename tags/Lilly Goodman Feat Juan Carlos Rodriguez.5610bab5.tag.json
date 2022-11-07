@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lilly Goodman Feat Juan Carlos Rodriguez"
+    },
+    "name": "Lilly Goodman Feat Juan Carlos Rodriguez",
+    "repository": "Local",
+    "tid": "5610bab5-dbe2-44b3-80fb-b6359633f112",
+    "types": [
+      "singers"
+    ]
+  }
+}

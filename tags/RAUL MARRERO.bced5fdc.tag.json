@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RAUL MARRERO"
+    },
+    "name": "RAUL MARRERO",
+    "repository": "Local",
+    "tid": "bced5fdc-eb02-44a9-8fae-dfca7c647d57",
+    "types": [
+      "singers"
+    ]
+  }
+}

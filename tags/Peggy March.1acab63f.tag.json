@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Peggy March"
+    },
+    "name": "Peggy March",
+    "repository": "Local",
+    "tid": "1acab63f-6a1f-4c17-95d5-67fa534fe7ad",
+    "types": [
+      "singers"
+    ]
+  }
+}

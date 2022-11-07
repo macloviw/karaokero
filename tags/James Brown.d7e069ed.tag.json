@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "James  Brown"
+    },
+    "name": "James  Brown",
+    "repository": "Local",
+    "tid": "d7e069ed-3e3c-4bbb-95d8-cf658c5c3256",
+    "types": [
+      "singers"
+    ]
+  }
+}

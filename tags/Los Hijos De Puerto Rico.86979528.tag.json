@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Hijos De Puerto Rico"
+    },
+    "name": "Los Hijos De Puerto Rico",
+    "repository": "Local",
+    "tid": "86979528-801a-42dc-8d2f-366140daae39",
+    "types": [
+      "singers"
+    ]
+  }
+}

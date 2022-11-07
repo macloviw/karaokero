@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "King Clave"
+    },
+    "name": "King Clave",
+    "repository": "Local",
+    "tid": "ce77ab6d-688e-4766-8a81-7aca243d5aea",
+    "types": [
+      "singers"
+    ]
+  }
+}

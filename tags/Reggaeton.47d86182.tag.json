@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Reggaeton"
+    },
+    "name": "Reggaeton",
+    "repository": "Local",
+    "tid": "47d86182-6602-47cb-bb13-de78406ecd33",
+    "types": [
+      "genres"
+    ]
+  }
+}

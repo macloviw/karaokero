@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Classical"
+    },
+    "name": "Classical",
+    "repository": "Local",
+    "tid": "94157c39-222a-4ed3-9250-6f9b5cf68abc",
+    "types": [
+      "genres"
+    ]
+  }
+}

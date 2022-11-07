@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "danny rivera                     Unknown Artist"
+    },
+    "name": "danny rivera                     Unknown Artist",
+    "repository": "Local",
+    "tid": "80cb9618-abba-407e-b761-441e47f921bf",
+    "types": [
+      "singers"
+    ]
+  }
+}

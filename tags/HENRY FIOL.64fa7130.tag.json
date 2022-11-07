@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HENRY FIOL"
+    },
+    "name": "HENRY FIOL",
+    "repository": "Local",
+    "tid": "64fa7130-7f9a-44d6-acd5-4bdc0f18c8ad",
+    "types": [
+      "singers"
+    ]
+  }
+}

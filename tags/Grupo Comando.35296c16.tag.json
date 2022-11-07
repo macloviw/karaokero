@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Comando"
+    },
+    "name": "Grupo Comando",
+    "repository": "Local",
+    "tid": "35296c16-7471-458b-b5c0-8bbc07862e3f",
+    "types": [
+      "singers"
+    ]
+  }
+}

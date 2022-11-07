@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Las Jilguerillas"
+    },
+    "name": "Las Jilguerillas",
+    "repository": "Local",
+    "tid": "fe30cae1-e8de-4379-8b47-7f7470427a93",
+    "types": [
+      "singers"
+    ]
+  }
+}

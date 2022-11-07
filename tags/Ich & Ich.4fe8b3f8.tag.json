@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ich & Ich"
+    },
+    "name": "Ich & Ich",
+    "repository": "Local",
+    "tid": "4fe8b3f8-eee4-4540-8c98-d0b13eb3f0b3",
+    "types": [
+      "singers"
+    ]
+  }
+}

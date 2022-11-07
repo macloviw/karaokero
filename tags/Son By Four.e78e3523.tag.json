@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Son By Four"
+    },
+    "name": "Son By Four",
+    "repository": "Local",
+    "tid": "e78e3523-25ef-4d38-98d0-41d4d4620e45",
+    "types": [
+      "singers"
+    ]
+  }
+}

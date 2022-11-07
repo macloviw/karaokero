@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eddie Herrera"
+    },
+    "name": "Eddie Herrera",
+    "repository": "Local",
+    "tid": "5c301345-63c3-4c01-ab97-947067283c78",
+    "types": [
+      "singers"
+    ]
+  }
+}

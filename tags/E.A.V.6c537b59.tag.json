@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "E.A.V."
+    },
+    "name": "E.A.V.",
+    "repository": "Local",
+    "tid": "6c537b59-38c1-4984-bc0c-08938b8b152f",
+    "types": [
+      "singers"
+    ]
+  }
+}

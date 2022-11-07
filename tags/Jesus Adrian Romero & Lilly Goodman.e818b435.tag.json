@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jesus Adrian Romero & Lilly Goodman"
+    },
+    "name": "Jesus Adrian Romero & Lilly Goodman",
+    "repository": "Local",
+    "tid": "e818b435-fff3-4d16-b229-5812bc9f708c",
+    "types": [
+      "singers"
+    ]
+  }
+}

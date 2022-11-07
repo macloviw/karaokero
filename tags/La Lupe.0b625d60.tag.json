@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Lupe"
+    },
+    "name": "La Lupe",
+    "repository": "Local",
+    "tid": "0b625d60-9f95-4748-a295-b06b7a87289f",
+    "types": [
+      "singers"
+    ]
+  }
+}

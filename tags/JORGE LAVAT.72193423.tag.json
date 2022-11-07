@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JORGE LAVAT"
+    },
+    "name": "JORGE LAVAT",
+    "repository": "Local",
+    "tid": "72193423-847c-4d68-a06b-11dbbea3bf8c",
+    "types": [
+      "singers"
+    ]
+  }
+}

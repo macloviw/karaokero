@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TIERRA SECA - LA INFLACION PISTA"
+    },
+    "name": "TIERRA SECA - LA INFLACION PISTA",
+    "repository": "Local",
+    "tid": "0249cc28-a302-44af-8dd5-85b117bc23e7",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eladio Romerro Santos"
+    },
+    "name": "Eladio Romerro Santos",
+    "repository": "Local",
+    "tid": "8842807e-de97-4fc3-b7e8-a77d9a44f64f",
+    "types": [
+      "singers"
+    ]
+  }
+}

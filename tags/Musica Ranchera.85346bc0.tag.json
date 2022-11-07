@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Musica Ranchera"
+    },
+    "name": "Musica Ranchera",
+    "repository": "Local",
+    "tid": "85346bc0-0212-45dc-90a7-78fff119dc9f",
+    "types": [
+      "singers"
+    ]
+  }
+}

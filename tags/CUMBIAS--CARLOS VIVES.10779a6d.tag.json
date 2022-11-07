@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CUMBIAS--CARLOS VIVES"
+    },
+    "name": "CUMBIAS--CARLOS VIVES",
+    "repository": "Local",
+    "tid": "10779a6d-4bc7-4eec-bcb2-3ba6a8bd74c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

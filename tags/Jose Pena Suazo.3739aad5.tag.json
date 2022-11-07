@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Peña Suazo"
+    },
+    "name": "Jose Peña Suazo",
+    "repository": "Local",
+    "tid": "3739aad5-a423-4f5b-8376-7130edef5df4",
+    "types": [
+      "singers"
+    ]
+  }
+}

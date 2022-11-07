@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Larry Graham"
+    },
+    "name": "Larry Graham",
+    "repository": "Local",
+    "tid": "b4e5e86c-141b-4f93-a9a4-0abbd4201efb",
+    "types": [
+      "singers"
+    ]
+  }
+}

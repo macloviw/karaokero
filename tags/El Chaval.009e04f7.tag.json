@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Chaval"
+    },
+    "name": "El Chaval",
+    "repository": "Local",
+    "tid": "009e04f7-e40f-471b-9f49-4eb3541709a6",
+    "types": [
+      "singers"
+    ]
+  }
+}

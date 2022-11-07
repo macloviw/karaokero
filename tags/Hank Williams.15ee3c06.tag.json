@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hank Williams"
+    },
+    "name": "Hank Williams",
+    "repository": "Local",
+    "tid": "15ee3c06-808c-4c0c-bb52-bbf995eb1b82",
+    "types": [
+      "singers"
+    ]
+  }
+}

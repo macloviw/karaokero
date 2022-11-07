@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ENANITOS VERDES"
+    },
+    "name": "ENANITOS VERDES",
+    "repository": "Local",
+    "tid": "f775bb39-fa77-4b5d-9e20-26b682de4daa",
+    "types": [
+      "singers"
+    ]
+  }
+}

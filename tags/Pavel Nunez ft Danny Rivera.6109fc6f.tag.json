@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pavel Núñez ft Danny Rivera"
+    },
+    "name": "Pavel Núñez ft Danny Rivera",
+    "repository": "Local",
+    "tid": "6109fc6f-92f3-4e2d-b708-5859160de377",
+    "types": [
+      "singers"
+    ]
+  }
+}

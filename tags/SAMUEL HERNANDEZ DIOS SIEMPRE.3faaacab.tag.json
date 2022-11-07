@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SAMUEL HERNANDEZ DIOS SIEMPRE"
+    },
+    "name": "SAMUEL HERNANDEZ DIOS SIEMPRE",
+    "repository": "Local",
+    "tid": "3faaacab-2e5f-4c78-bacf-167747416c26",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LAS CHICAN"
+    },
+    "name": "LAS CHICAN",
+    "repository": "Local",
+    "tid": "13aeaebf-fc0c-4b7a-813e-09506f39bae2",
+    "types": [
+      "singers"
+    ]
+  }
+}

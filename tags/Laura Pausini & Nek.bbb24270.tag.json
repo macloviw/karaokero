@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Laura Pausini & Nek"
+    },
+    "name": "Laura Pausini & Nek",
+    "repository": "Local",
+    "tid": "bbb24270-ba2d-42df-a4cd-406a10b91e91",
+    "types": [
+      "singers"
+    ]
+  }
+}

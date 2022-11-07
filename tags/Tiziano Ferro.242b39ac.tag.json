@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tiziano Ferro"
+    },
+    "name": "Tiziano Ferro",
+    "repository": "Local",
+    "tid": "242b39ac-c225-4ada-b0a4-eff9a5d586d3",
+    "types": [
+      "singers"
+    ]
+  }
+}

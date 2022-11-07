@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kiko El Presidente"
+    },
+    "name": "Kiko El Presidente",
+    "repository": "Local",
+    "tid": "5976f672-616b-4ee3-a9ff-04a61400d11c",
+    "types": [
+      "singers"
+    ]
+  }
+}

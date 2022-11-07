@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Carlos Gardel"
+    },
+    "name": "Carlos Gardel",
+    "repository": "Local",
+    "tid": "68b8c08a-c68f-4eb9-a61a-66b0b51dde21",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ROCIO JURADO"
+    },
+    "name": "ROCIO JURADO",
+    "repository": "Local",
+    "tid": "bb85a510-9040-4d06-8bea-d1164f5057c4",
+    "types": [
+      "singers"
+    ]
+  }
+}

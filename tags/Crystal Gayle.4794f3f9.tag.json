@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Crystal Gayle"
+    },
+    "name": "Crystal Gayle",
+    "repository": "Local",
+    "tid": "4794f3f9-fb75-4ac5-877e-5f91a82bd2d6",
+    "types": [
+      "singers"
+    ]
+  }
+}

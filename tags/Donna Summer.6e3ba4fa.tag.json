@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Donna Summer"
+    },
+    "name": "Donna Summer",
+    "repository": "Local",
+    "tid": "6e3ba4fa-c395-414e-85a4-3dc72bb8c1e1",
+    "types": [
+      "singers"
+    ]
+  }
+}

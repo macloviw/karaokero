@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "viti ruiz"
+    },
+    "name": "viti ruiz",
+    "repository": "Local",
+    "tid": "7810dbfa-55fb-44ce-9f9c-2ca134bf65c7",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL ZAFIRO"
+    },
+    "name": "EL ZAFIRO",
+    "repository": "Local",
+    "tid": "4f13f70c-3d47-4c0d-9502-4712c506cde1",
+    "types": [
+      "singers"
+    ]
+  }
+}

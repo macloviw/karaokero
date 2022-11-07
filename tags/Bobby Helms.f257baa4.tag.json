@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bobby Helms"
+    },
+    "name": "Bobby Helms",
+    "repository": "Local",
+    "tid": "f257baa4-422e-4571-9bc8-3e551d69cdc8",
+    "types": [
+      "singers"
+    ]
+  }
+}

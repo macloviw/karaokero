@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Daniela Romo & Mijares"
+    },
+    "name": "Daniela Romo & Mijares",
+    "repository": "Local",
+    "tid": "6b11011d-93e1-49d9-b9ca-a980b2b87b93",
+    "types": [
+      "singers"
+    ]
+  }
+}

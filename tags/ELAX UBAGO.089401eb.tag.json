@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ELAX UBAGO"
+    },
+    "name": "ELAX UBAGO",
+    "repository": "Local",
+    "tid": "089401eb-04f4-4c35-80b5-4674b1874d57",
+    "types": [
+      "singers"
+    ]
+  }
+}

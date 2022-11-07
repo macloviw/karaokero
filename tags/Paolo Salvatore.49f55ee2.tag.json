@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Paolo Salvatore"
+    },
+    "name": "Paolo Salvatore",
+    "repository": "Local",
+    "tid": "49f55ee2-b03b-4a9c-a43d-27564a71a299",
+    "types": [
+      "singers"
+    ]
+  }
+}

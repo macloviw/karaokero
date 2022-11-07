@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Lapiz ft. Musicologo"
+    },
+    "name": "El Lapiz ft. Musicologo",
+    "repository": "Local",
+    "tid": "b4826559-dcc3-4af5-96ba-35a36731ffab",
+    "types": [
+      "singers"
+    ]
+  }
+}

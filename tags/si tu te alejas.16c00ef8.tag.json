@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "si tu te alejas"
+    },
+    "name": "si tu te alejas",
+    "repository": "Local",
+    "tid": "16c00ef8-a73f-4c51-9ce2-f3e2a42429a8",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MANOLO GALVAN"
+    },
+    "name": "MANOLO GALVAN",
+    "repository": "Local",
+    "tid": "2f765c38-8ad5-4fcb-bff5-57e55bd7e639",
+    "types": [
+      "singers"
+    ]
+  }
+}

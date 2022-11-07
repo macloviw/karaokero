@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eddie Santiago"
+    },
+    "name": "Eddie Santiago",
+    "repository": "Local",
+    "tid": "ea9c4813-000b-4a8e-960d-46363e42fc63",
+    "types": [
+      "singers"
+    ]
+  }
+}

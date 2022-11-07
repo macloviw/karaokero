@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LIBERTAD LAMARQUE"
+    },
+    "name": "LIBERTAD LAMARQUE",
+    "repository": "Local",
+    "tid": "050a01fc-4d50-44b2-bdc6-5e7855e2689b",
+    "types": [
+      "singers"
+    ]
+  }
+}

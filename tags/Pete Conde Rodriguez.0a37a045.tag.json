@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pete Conde Rodriguez"
+    },
+    "name": "Pete Conde Rodriguez",
+    "repository": "Local",
+    "tid": "0a37a045-8571-4c03-9588-edcf3071ec9f",
+    "types": [
+      "singers"
+    ]
+  }
+}

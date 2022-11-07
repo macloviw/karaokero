@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Copia de Elvis Martines"
+    },
+    "name": "Copia de Elvis Martines",
+    "repository": "Local",
+    "tid": "bd1ef7d5-d183-440a-8998-d6db7e8ec1a3",
+    "types": [
+      "singers"
+    ]
+  }
+}

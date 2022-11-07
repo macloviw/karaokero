@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jackie Trent"
+    },
+    "name": "Jackie Trent",
+    "repository": "Local",
+    "tid": "428ceed0-1f18-4b3d-91e9-41f436a9c876",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Feliciano y Ann Kelly"
+    },
+    "name": "Jose Feliciano y Ann Kelly",
+    "repository": "Local",
+    "tid": "f0374a31-5945-4548-ab14-4ad42c7c71b2",
+    "types": [
+      "singers"
+    ]
+  }
+}

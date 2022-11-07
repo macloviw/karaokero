@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Emeli Sande"
+    },
+    "name": "Emeli Sande",
+    "repository": "Local",
+    "tid": "ffea3add-b7cf-409d-9c4d-df540a71f1ec",
+    "types": [
+      "singers"
+    ]
+  }
+}

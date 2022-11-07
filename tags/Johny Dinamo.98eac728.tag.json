@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Johny Dinamo"
+    },
+    "name": "Johny Dinamo",
+    "repository": "Local",
+    "tid": "98eac728-48e9-4129-84b0-884f7552be79",
+    "types": [
+      "singers"
+    ]
+  }
+}

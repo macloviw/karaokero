@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pedro Congo"
+    },
+    "name": "Pedro Congo",
+    "repository": "Local",
+    "tid": "117bc176-5aab-4f76-9f99-4db810bd6453",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Marco Yeroide"
+    },
+    "name": "Marco Yeroide",
+    "repository": "Local",
+    "tid": "351a45c9-8b29-48f6-8047-4d1066100731",
+    "types": [
+      "singers"
+    ]
+  }
+}

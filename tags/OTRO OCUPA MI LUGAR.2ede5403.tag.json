@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OTRO OCUPA MI LUGAR"
+    },
+    "name": "OTRO OCUPA MI LUGAR",
+    "repository": "Local",
+    "tid": "2ede5403-64b8-4d55-8fe9-039a73601dbb",
+    "types": [
+      "singers"
+    ]
+  }
+}

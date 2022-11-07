@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eros Ramazzotti"
+    },
+    "name": "Eros Ramazzotti",
+    "repository": "Local",
+    "tid": "843e9e40-f886-40ad-a984-60617d3b8d50",
+    "types": [
+      "singers"
+    ]
+  }
+}

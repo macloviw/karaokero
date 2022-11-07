@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tagwache"
+    },
+    "name": "Tagwache",
+    "repository": "Local",
+    "tid": "724faf9d-a1ef-4c4e-9420-4304c2186b40",
+    "types": [
+      "singers"
+    ]
+  }
+}

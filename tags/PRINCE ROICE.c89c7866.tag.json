@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PRINCE ROICE"
+    },
+    "name": "PRINCE ROICE",
+    "repository": "Local",
+    "tid": "c89c7866-8b3a-4fc9-8b1e-b7ee19acf2a6",
+    "types": [
+      "singers"
+    ]
+  }
+}

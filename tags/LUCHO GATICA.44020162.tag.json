@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUCHO GATICA"
+    },
+    "name": "LUCHO GATICA",
+    "repository": "Local",
+    "tid": "44020162-f6ad-4848-ac45-77effaebeb06",
+    "types": [
+      "singers"
+    ]
+  }
+}

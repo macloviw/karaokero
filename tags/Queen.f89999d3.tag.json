@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Queen"
+    },
+    "name": "Queen",
+    "repository": "Local",
+    "tid": "f89999d3-39d0-493a-9535-7414bdcb2d98",
+    "types": [
+      "singers"
+    ]
+  }
+}

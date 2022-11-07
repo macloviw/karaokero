@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOE ARROYO"
+    },
+    "name": "JOE ARROYO",
+    "repository": "Local",
+    "tid": "9ef35f3c-c07c-4502-8bf3-9c9050dff128",
+    "types": [
+      "singers"
+    ]
+  }
+}

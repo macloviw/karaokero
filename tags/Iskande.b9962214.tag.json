@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Iskande"
+    },
+    "name": "Iskande",
+    "repository": "Local",
+    "tid": "b9962214-3c1c-4416-8cd8-63ded3ee651f",
+    "types": [
+      "singers"
+    ]
+  }
+}

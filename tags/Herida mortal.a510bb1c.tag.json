@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Herida mortal"
+    },
+    "name": "Herida mortal",
+    "repository": "Local",
+    "tid": "a510bb1c-a450-4f2d-be7a-cef0b94cef62",
+    "types": [
+      "singers"
+    ]
+  }
+}

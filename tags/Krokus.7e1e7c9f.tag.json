@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Krokus"
+    },
+    "name": "Krokus",
+    "repository": "Local",
+    "tid": "7e1e7c9f-09e0-404f-8066-fddb27c36305",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jorge Luis Piloto Alexi Valdes"
+    },
+    "name": "Jorge Luis Piloto Alexi Valdes",
+    "repository": "Local",
+    "tid": "05c018bb-a2ba-4600-9023-12516ea793ac",
+    "types": [
+      "singers"
+    ]
+  }
+}

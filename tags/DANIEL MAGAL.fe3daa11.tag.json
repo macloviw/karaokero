@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DANIEL MAGAL"
+    },
+    "name": "DANIEL MAGAL",
+    "repository": "Local",
+    "tid": "fe3daa11-8ef2-41d5-8a40-8d3c7e685afe",
+    "types": [
+      "singers"
+    ]
+  }
+}

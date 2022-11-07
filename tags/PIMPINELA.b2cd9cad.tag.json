@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PIMPINELA"
+    },
+    "name": "PIMPINELA",
+    "repository": "Local",
+    "tid": "b2cd9cad-b4b4-4c56-bc1d-b3dc31d242f7",
+    "types": [
+      "singers"
+    ]
+  }
+}

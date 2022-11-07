@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Cherry Scom"
+    },
+    "name": "El Cherry Scom",
+    "repository": "Local",
+    "tid": "efe828ee-8be1-4b52-beb3-a488b4bac4ab",
+    "types": [
+      "singers"
+    ]
+  }
+}

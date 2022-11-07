@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Matecaña"
+    },
+    "name": "Matecaña",
+    "repository": "Local",
+    "tid": "fcba85d1-91f4-4719-aa4f-d2173c77d2c4",
+    "types": [
+      "singers"
+    ]
+  }
+}

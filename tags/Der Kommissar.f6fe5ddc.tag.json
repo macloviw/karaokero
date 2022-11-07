@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Der Kommissar"
+    },
+    "name": "Der Kommissar",
+    "repository": "Local",
+    "tid": "f6fe5ddc-3b96-4e76-b3db-99925a91155d",
+    "types": [
+      "singers"
+    ]
+  }
+}

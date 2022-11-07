@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Mery Mers"
+    },
+    "name": "Mery Mers",
+    "repository": "Local",
+    "tid": "c11e4cf8-84d8-4520-9010-784c3af0bc21",
+    "types": [
+      "singers"
+    ]
+  }
+}

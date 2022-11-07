@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL GRINGO"
+    },
+    "name": "EL GRINGO",
+    "repository": "Local",
+    "tid": "101fd6db-c42c-4630-83fa-6576767dae1d",
+    "types": [
+      "singers"
+    ]
+  }
+}

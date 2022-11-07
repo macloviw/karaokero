@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EDITH MARQUEZ"
+    },
+    "name": "EDITH MARQUEZ",
+    "repository": "Local",
+    "tid": "918bb4c8-8ba6-4bba-8e44-227fb88115b8",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gio"
+    },
+    "name": "Gio",
+    "repository": "Local",
+    "tid": "3f68cf87-8589-4c3a-9ab1-cd9613a22e6e",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nicky Jam Ft. Enrique Iglesias"
+    },
+    "name": "Nicky Jam Ft. Enrique Iglesias",
+    "repository": "Local",
+    "tid": "5b2eb9ab-39d6-4ad3-9a61-79dfaa0b5be2",
+    "types": [
+      "singers"
+    ]
+  }
+}

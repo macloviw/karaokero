@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Freddie Mercury"
+    },
+    "name": "Freddie Mercury",
+    "repository": "Local",
+    "tid": "fe1af0bc-dccf-4ded-8345-24c8fc04f8b3",
+    "types": [
+      "singers"
+    ]
+  }
+}

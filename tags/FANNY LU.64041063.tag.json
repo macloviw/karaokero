@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FANNY LU"
+    },
+    "name": "FANNY LU",
+    "repository": "Local",
+    "tid": "64041063-c1b1-4327-915d-d192ed7b3d98",
+    "types": [
+      "singers"
+    ]
+  }
+}

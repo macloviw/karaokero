@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "The West End Orchestra & Singers"
+    },
+    "name": "The West End Orchestra & Singers",
+    "repository": "Local",
+    "tid": "f7f0eda3-5f90-40a3-8f79-7eceb8b3028a",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cameo"
+    },
+    "name": "Cameo",
+    "repository": "Local",
+    "tid": "1610d096-1806-481b-aa93-485b233ed04d",
+    "types": [
+      "singers"
+    ]
+  }
+}

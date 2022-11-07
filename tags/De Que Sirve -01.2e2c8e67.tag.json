@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "De Que Sirve -01"
+    },
+    "name": "De Que Sirve -01",
+    "repository": "Local",
+    "tid": "2e2c8e67-c7e9-422e-a6c7-14e6b571d94a",
+    "types": [
+      "singers"
+    ]
+  }
+}

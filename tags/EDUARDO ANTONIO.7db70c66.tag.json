@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EDUARDO ANTONIO"
+    },
+    "name": "EDUARDO ANTONIO",
+    "repository": "Local",
+    "tid": "7db70c66-e20b-4664-b3d6-e581745ac9ae",
+    "types": [
+      "singers"
+    ]
+  }
+}

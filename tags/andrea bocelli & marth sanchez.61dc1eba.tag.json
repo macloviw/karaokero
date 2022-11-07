@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "andrea bocelli & marth sanchez"
+    },
+    "name": "andrea bocelli & marth sanchez",
+    "repository": "Local",
+    "tid": "61dc1eba-72f2-4fc4-b4db-fcb17652d12a",
+    "types": [
+      "singers"
+    ]
+  }
+}

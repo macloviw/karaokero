@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Heritage Quartet en Espanol"
+    },
+    "name": "Heritage Quartet en Espanol",
+    "repository": "Local",
+    "tid": "b52e4502-d7b4-4433-b636-017b0c33022f",
+    "types": [
+      "singers"
+    ]
+  }
+}

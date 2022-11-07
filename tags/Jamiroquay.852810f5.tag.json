@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jamiroquay"
+    },
+    "name": "Jamiroquay",
+    "repository": "Local",
+    "tid": "852810f5-6ccc-4b47-b3be-94a6afcc5a6e",
+    "types": [
+      "singers"
+    ]
+  }
+}

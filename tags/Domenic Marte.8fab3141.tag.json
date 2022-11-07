@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Domenic Marte"
+    },
+    "name": "Domenic Marte",
+    "repository": "Local",
+    "tid": "8fab3141-b482-4c96-8dd1-049f1ae5cc8f",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Joss Stone"
+    },
+    "name": "Joss Stone",
+    "repository": "Local",
+    "tid": "7dbed2cc-5e85-47bb-95c8-49781b58b8ea",
+    "types": [
+      "singers"
+    ]
+  }
+}

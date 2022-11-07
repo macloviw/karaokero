@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KARAOKE TIPICO"
+    },
+    "name": "KARAOKE TIPICO",
+    "repository": "Local",
+    "tid": "867289a3-335d-49ba-a05b-fb63d471ca77",
+    "types": [
+      "genres"
+    ]
+  }
+}

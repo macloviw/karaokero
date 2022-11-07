@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Manole"
+    },
+    "name": "Manole",
+    "repository": "Local",
+    "tid": "d5f89935-d250-4106-8e4b-4f7f6b77271e",
+    "types": [
+      "singers"
+    ]
+  }
+}

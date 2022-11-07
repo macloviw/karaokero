@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bob Maley"
+    },
+    "name": "Bob Maley",
+    "repository": "Local",
+    "tid": "ae026f3a-c751-4d2c-a973-3ce29bc845e0",
+    "types": [
+      "singers"
+    ]
+  }
+}

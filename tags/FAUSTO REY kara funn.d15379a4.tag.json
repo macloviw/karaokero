@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FAUSTO REY kara funn"
+    },
+    "name": "FAUSTO REY kara funn",
+    "repository": "Local",
+    "tid": "d15379a4-fa39-41cc-9354-a04aad771e37",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cheat Codes & Dante Klein"
+    },
+    "name": "Cheat Codes & Dante Klein",
+    "repository": "Local",
+    "tid": "2f225e09-1827-4866-b9df-bf72f5c3abe8",
+    "types": [
+      "singers"
+    ]
+  }
+}

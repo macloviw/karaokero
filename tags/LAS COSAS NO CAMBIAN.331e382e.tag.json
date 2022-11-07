@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LAS COSAS NO CAMBIAN"
+    },
+    "name": "LAS COSAS NO CAMBIAN",
+    "repository": "Local",
+    "tid": "331e382e-8ad9-4865-9495-82dfb6cefbfb",
+    "types": [
+      "singers"
+    ]
+  }
+}

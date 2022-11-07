@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Divino"
+    },
+    "name": "Divino",
+    "repository": "Local",
+    "tid": "68ee04ab-ac1b-451e-89ec-3dd26a510cd6",
+    "types": [
+      "singers"
+    ]
+  }
+}

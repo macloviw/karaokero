@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TIERRA SECA - MI VIDA TE DARE PISTA"
+    },
+    "name": "TIERRA SECA - MI VIDA TE DARE PISTA",
+    "repository": "Local",
+    "tid": "c6928931-a1db-4db6-b351-ce8f583fae0e",
+    "types": [
+      "singers"
+    ]
+  }
+}

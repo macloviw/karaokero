@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La India"
+    },
+    "name": "La India",
+    "repository": "Local",
+    "tid": "1aa33f74-7fa4-4ff2-aa98-69dafda8e695",
+    "types": [
+      "singers"
+    ]
+  }
+}

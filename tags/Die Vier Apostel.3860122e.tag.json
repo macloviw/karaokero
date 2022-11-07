@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Die Vier Apostel"
+    },
+    "name": "Die Vier Apostel",
+    "repository": "Local",
+    "tid": "3860122e-048e-4585-a91e-99e8536a35e0",
+    "types": [
+      "singers"
+    ]
+  }
+}

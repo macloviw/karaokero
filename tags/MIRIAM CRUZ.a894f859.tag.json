@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MIRIAM CRUZ"
+    },
+    "name": "MIRIAM CRUZ",
+    "repository": "Local",
+    "tid": "a894f859-0adf-430d-82ae-38013642149a",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose Domingo"
+    },
+    "name": "Jose Domingo",
+    "repository": "Local",
+    "tid": "746fcdf2-300a-400c-83eb-f234fbd39559",
+    "types": [
+      "singers"
+    ]
+  }
+}

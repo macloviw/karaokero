@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JULISSA CON CADA LATIDO"
+    },
+    "name": "JULISSA CON CADA LATIDO",
+    "repository": "Local",
+    "tid": "641ce094-b4f7-47ec-bebd-5e02efa74829",
+    "types": [
+      "singers"
+    ]
+  }
+}

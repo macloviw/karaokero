@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frankie Valli"
+    },
+    "name": "Frankie Valli",
+    "repository": "Local",
+    "tid": "2677286d-9570-45a4-8c98-883a0ab9134c",
+    "types": [
+      "singers"
+    ]
+  }
+}

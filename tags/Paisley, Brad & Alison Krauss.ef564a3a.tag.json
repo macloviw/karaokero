@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Paisley, Brad & Alison Krauss"
+    },
+    "name": "Paisley, Brad & Alison Krauss",
+    "repository": "Local",
+    "tid": "ef564a3a-393c-42ae-bfeb-0e2140125861",
+    "types": [
+      "singers"
+    ]
+  }
+}

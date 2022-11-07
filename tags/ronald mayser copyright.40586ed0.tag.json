@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ronald mayser copyright"
+    },
+    "name": "ronald mayser copyright",
+    "repository": "Local",
+    "tid": "40586ed0-4432-4e97-8092-f7afb0c7e109",
+    "types": [
+      "singers"
+    ]
+  }
+}

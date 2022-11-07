@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CHECHE ABREU"
+    },
+    "name": "CHECHE ABREU",
+    "repository": "Local",
+    "tid": "3903541c-92fb-4360-9bb3-f3e8ec20a237",
+    "types": [
+      "singers"
+    ]
+  }
+}

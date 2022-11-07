@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cuando tu vuelvas conmigo"
+    },
+    "name": "Cuando tu vuelvas conmigo",
+    "repository": "Local",
+    "tid": "13272556-abf4-40cb-bd78-0c2d90da0942",
+    "types": [
+      "singers"
+    ]
+  }
+}

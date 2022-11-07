@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Vladimir Dotel"
+    },
+    "name": "Vladimir Dotel",
+    "repository": "Local",
+    "tid": "6545659f-f4e4-4711-87eb-d808e684f039",
+    "types": [
+      "singers"
+    ]
+  }
+}

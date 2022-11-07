@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Temerarios"
+    },
+    "name": "Los Temerarios",
+    "repository": "Local",
+    "tid": "79aade02-894d-4439-91df-1978dad4edea",
+    "types": [
+      "singers"
+    ]
+  }
+}

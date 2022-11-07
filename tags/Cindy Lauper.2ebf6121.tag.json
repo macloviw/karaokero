@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cindy Lauper"
+    },
+    "name": "Cindy Lauper",
+    "repository": "Local",
+    "tid": "2ebf6121-1e04-4d4a-b606-8a450ada292d",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Randy Bachman"
+    },
+    "name": "Randy Bachman",
+    "repository": "Local",
+    "tid": "7155925e-6bb2-48cd-a297-b7ab854d3f85",
+    "types": [
+      "singers"
+    ]
+  }
+}

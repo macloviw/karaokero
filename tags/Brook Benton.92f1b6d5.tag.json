@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Brook Benton"
+    },
+    "name": "Brook Benton",
+    "repository": "Local",
+    "tid": "92f1b6d5-795e-4da7-9604-e0ef15f0cab5",
+    "types": [
+      "singers"
+    ]
+  }
+}

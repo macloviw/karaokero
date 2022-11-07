@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Danna Paola"
+    },
+    "name": "Danna Paola",
+    "repository": "Local",
+    "tid": "605860c3-a434-4d5c-bc71-39aff59f19af",
+    "types": [
+      "singers"
+    ]
+  }
+}

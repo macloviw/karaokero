@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SELENA"
+    },
+    "name": "SELENA",
+    "repository": "Local",
+    "tid": "4e496a38-cebe-46dd-a3fc-e91629d85cec",
+    "types": [
+      "singers"
+    ]
+  }
+}

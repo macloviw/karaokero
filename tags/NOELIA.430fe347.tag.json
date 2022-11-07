@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NOELIA"
+    },
+    "name": "NOELIA",
+    "repository": "Local",
+    "tid": "430fe347-4adc-4a27-8194-a6512b79062e",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SANDRO"
+    },
+    "name": "SANDRO",
+    "repository": "Local",
+    "tid": "660ae0fe-1eb9-4137-ad5d-78572222dcb5",
+    "types": [
+      "singers"
+    ]
+  }
+}

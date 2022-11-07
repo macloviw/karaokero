@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Santiago Ceron"
+    },
+    "name": "Santiago Ceron",
+    "repository": "Local",
+    "tid": "b4a9e261-19eb-41bb-8d2d-98705c627f0d",
+    "types": [
+      "singers"
+    ]
+  }
+}

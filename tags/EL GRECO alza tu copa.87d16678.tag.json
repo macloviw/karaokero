@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL GRECO alza tu copa"
+    },
+    "name": "EL GRECO alza tu copa",
+    "repository": "Local",
+    "tid": "87d16678-4cfa-414f-9e6f-d9af0ecc15f2",
+    "types": [
+      "singers"
+    ]
+  }
+}

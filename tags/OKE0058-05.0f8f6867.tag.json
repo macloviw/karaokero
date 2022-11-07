@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OKE0058-05"
+    },
+    "name": "OKE0058-05",
+    "repository": "Local",
+    "tid": "0f8f6867-1c61-4674-bb29-e3a4f89ac681",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ninel Conde"
+    },
+    "name": "Ninel Conde",
+    "repository": "Local",
+    "tid": "5830f7d7-9aa7-454e-896d-34c442c26d9e",
+    "types": [
+      "singers"
+    ]
+  }
+}

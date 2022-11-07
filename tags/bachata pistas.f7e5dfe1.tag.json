@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "bachata pistas"
+    },
+    "name": "bachata pistas",
+    "repository": "Local",
+    "tid": "f7e5dfe1-9449-4f3a-b289-1bb32ff5d3c3",
+    "types": [
+      "singers"
+    ]
+  }
+}

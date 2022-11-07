@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dance"
+    },
+    "name": "Dance",
+    "repository": "Local",
+    "tid": "e74d48df-f005-4073-b661-7630f79c6048",
+    "types": [
+      "genres"
+    ]
+  }
+}

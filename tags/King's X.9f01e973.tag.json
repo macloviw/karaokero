@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "King's X"
+    },
+    "name": "King's X",
+    "repository": "Local",
+    "tid": "9f01e973-540d-4464-956a-96590817d7ac",
+    "types": [
+      "singers"
+    ]
+  }
+}

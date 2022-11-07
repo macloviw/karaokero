@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cascada"
+    },
+    "name": "Cascada",
+    "repository": "Local",
+    "tid": "a8f83538-de7b-45a5-a87e-e856c1b598df",
+    "types": [
+      "singers"
+    ]
+  }
+}

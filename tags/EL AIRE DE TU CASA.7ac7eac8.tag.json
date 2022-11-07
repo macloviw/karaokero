@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL AIRE DE TU CASA"
+    },
+    "name": "EL AIRE DE TU CASA",
+    "repository": "Local",
+    "tid": "7ac7eac8-3171-471e-8124-3e406735e92b",
+    "types": [
+      "singers"
+    ]
+  }
+}

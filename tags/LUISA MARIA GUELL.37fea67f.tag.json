@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUISA MARIA GUELL"
+    },
+    "name": "LUISA MARIA GUELL",
+    "repository": "Local",
+    "tid": "37fea67f-3b0f-4566-b829-9e97e89f7e52",
+    "types": [
+      "singers"
+    ]
+  }
+}

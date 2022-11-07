@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OLGA TAÑON"
+    },
+    "name": "OLGA TAÑON",
+    "repository": "Local",
+    "tid": "8abbde97-cb0b-4c2a-9574-14022714476e",
+    "types": [
+      "singers"
+    ]
+  }
+}

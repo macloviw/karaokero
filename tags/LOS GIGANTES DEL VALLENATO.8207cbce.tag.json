@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS GIGANTES DEL VALLENATO"
+    },
+    "name": "LOS GIGANTES DEL VALLENATO",
+    "repository": "Local",
+    "tid": "8207cbce-82fa-4e45-a6c0-79f7cc5f7a89",
+    "types": [
+      "singers"
+    ]
+  }
+}

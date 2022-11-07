@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kosheen"
+    },
+    "name": "Kosheen",
+    "repository": "Local",
+    "tid": "a4ca13e8-cd13-4cf1-9cb7-f9f24e29a8b4",
+    "types": [
+      "singers"
+    ]
+  }
+}

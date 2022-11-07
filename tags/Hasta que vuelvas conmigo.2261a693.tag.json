@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hasta que vuelvas conmigo"
+    },
+    "name": "Hasta que vuelvas conmigo",
+    "repository": "Local",
+    "tid": "2261a693-eb65-4f68-b07d-3195eb11e91f",
+    "types": [
+      "singers"
+    ]
+  }
+}

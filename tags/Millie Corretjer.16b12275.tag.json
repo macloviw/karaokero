@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Millie Corretjer"
+    },
+    "name": "Millie Corretjer",
+    "repository": "Local",
+    "tid": "16b12275-e4c0-4cfc-98a9-2223cb4af336",
+    "types": [
+      "singers"
+    ]
+  }
+}

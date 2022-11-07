@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Guadalupe Pineda"
+    },
+    "name": "Guadalupe Pineda",
+    "repository": "Local",
+    "tid": "a728692e-348d-4d78-a975-ee77a3148fef",
+    "types": [
+      "singers"
+    ]
+  }
+}

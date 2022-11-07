@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rosenstolz"
+    },
+    "name": "Rosenstolz",
+    "repository": "Local",
+    "tid": "e70c5d09-4a63-44f6-982e-ab761315b4b2",
+    "types": [
+      "singers"
+    ]
+  }
+}

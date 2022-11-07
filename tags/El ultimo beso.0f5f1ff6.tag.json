@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El ultimo beso"
+    },
+    "name": "El ultimo beso",
+    "repository": "Local",
+    "tid": "0f5f1ff6-d103-4c8c-800c-f2a1d1abedb1",
+    "types": [
+      "singers"
+    ]
+  }
+}

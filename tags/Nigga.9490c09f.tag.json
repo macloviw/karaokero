@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Nigga"
+    },
+    "name": "Nigga",
+    "repository": "Local",
+    "tid": "9490c09f-c769-40ec-a918-9151ac5c31e0",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TIERRA SECA - MARCHATE PISTA"
+    },
+    "name": "TIERRA SECA - MARCHATE PISTA",
+    "repository": "Local",
+    "tid": "4bb5172d-9ab4-4b43-a77b-69085a7f1386",
+    "types": [
+      "singers"
+    ]
+  }
+}

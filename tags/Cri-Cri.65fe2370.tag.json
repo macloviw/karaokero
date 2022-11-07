@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cri-Cri"
+    },
+    "name": "Cri-Cri",
+    "repository": "Local",
+    "tid": "65fe2370-92b8-4b26-a2c8-12b3fc7cac46",
+    "types": [
+      "singers"
+    ]
+  }
+}

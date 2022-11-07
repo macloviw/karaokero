@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FELIX MANUEL"
+    },
+    "name": "FELIX MANUEL",
+    "repository": "Local",
+    "tid": "349f0580-a9f7-448c-bc4d-dfb74d074370",
+    "types": [
+      "singers"
+    ]
+  }
+}

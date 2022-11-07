@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MERENGUES DE  RESERVA"
+    },
+    "name": "MERENGUES DE  RESERVA",
+    "repository": "Local",
+    "tid": "1bdfd32d-35ba-4af2-919e-f88aaaaa1888",
+    "types": [
+      "singers"
+    ]
+  }
+}

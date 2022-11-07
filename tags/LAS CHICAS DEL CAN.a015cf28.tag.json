@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LAS CHICAS DEL CAN"
+    },
+    "name": "LAS CHICAS DEL CAN",
+    "repository": "Local",
+    "tid": "a015cf28-9bfa-44b7-9a36-d048800a33f5",
+    "types": [
+      "singers"
+    ]
+  }
+}

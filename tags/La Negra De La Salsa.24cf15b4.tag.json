@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Negra De La Salsa"
+    },
+    "name": "La Negra De La Salsa",
+    "repository": "Local",
+    "tid": "24cf15b4-6f7a-434d-b4c2-518823c5defc",
+    "types": [
+      "singers"
+    ]
+  }
+}

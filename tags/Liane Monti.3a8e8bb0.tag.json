@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Liane Monti"
+    },
+    "name": "Liane Monti",
+    "repository": "Local",
+    "tid": "3a8e8bb0-7cb6-484b-9f28-e46fd6298c07",
+    "types": [
+      "singers"
+    ]
+  }
+}

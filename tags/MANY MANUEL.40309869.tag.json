@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MANY MANUEL"
+    },
+    "name": "MANY MANUEL",
+    "repository": "Local",
+    "tid": "40309869-977d-45d9-9ed9-657c6d7215c7",
+    "types": [
+      "singers"
+    ]
+  }
+}

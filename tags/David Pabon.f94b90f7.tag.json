@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Pabon"
+    },
+    "name": "David Pabon",
+    "repository": "Local",
+    "tid": "f94b90f7-fa6a-468f-ae37-f1a7e448e7bb",
+    "types": [
+      "singers"
+    ]
+  }
+}

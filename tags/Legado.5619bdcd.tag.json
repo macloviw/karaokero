@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Legado"
+    },
+    "name": "Legado",
+    "repository": "Local",
+    "tid": "5619bdcd-54c4-49ee-8df9-6101a2519eb8",
+    "types": [
+      "singers"
+    ]
+  }
+}

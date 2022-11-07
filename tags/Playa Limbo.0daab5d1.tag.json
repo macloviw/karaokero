@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Playa Limbo"
+    },
+    "name": "Playa Limbo",
+    "repository": "Local",
+    "tid": "0daab5d1-9367-4f5a-bd70-de9cc3704bb7",
+    "types": [
+      "singers"
+    ]
+  }
+}

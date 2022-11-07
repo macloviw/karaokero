@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Julina Ft Milly Quezada"
+    },
+    "name": "Julina Ft Milly Quezada",
+    "repository": "Local",
+    "tid": "b03234cd-a34d-439b-b13e-9302ecf42f1e",
+    "types": [
+      "singers"
+    ]
+  }
+}

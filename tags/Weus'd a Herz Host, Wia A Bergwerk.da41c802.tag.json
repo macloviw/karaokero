@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Weus’d a Herz Host, Wia A Bergwerk"
+    },
+    "name": "Weus’d a Herz Host, Wia A Bergwerk",
+    "repository": "Local",
+    "tid": "da41c802-7999-4fff-a44f-5be9e107a616",
+    "types": [
+      "singers"
+    ]
+  }
+}

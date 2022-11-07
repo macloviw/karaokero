@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bobby Darin"
+    },
+    "name": "Bobby Darin",
+    "repository": "Local",
+    "tid": "9e5d3103-eb99-4952-ac59-507be4e17401",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Division Minuscula"
+    },
+    "name": "Division Minuscula",
+    "repository": "Local",
+    "tid": "17b3c75f-2d14-4406-8a7e-4010753999e4",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "No Doubt"
+    },
+    "name": "No Doubt",
+    "repository": "Local",
+    "tid": "bf942eda-0718-4f48-a966-35d77022c950",
+    "types": [
+      "singers"
+    ]
+  }
+}

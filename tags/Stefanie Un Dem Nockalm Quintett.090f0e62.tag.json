@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Stefanie Un Dem Nockalm Quintett"
+    },
+    "name": "Stefanie Un Dem Nockalm Quintett",
+    "repository": "Local",
+    "tid": "090f0e62-53d1-4dd6-bcfd-b60ee3a7ac3f",
+    "types": [
+      "singers"
+    ]
+  }
+}

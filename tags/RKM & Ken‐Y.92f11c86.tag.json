@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RKM & Ken‐Y"
+    },
+    "name": "RKM & Ken‐Y",
+    "repository": "Local",
+    "tid": "92f11c86-01dc-4705-aa0a-ce3b4eb8ed3d",
+    "types": [
+      "singers"
+    ]
+  }
+}

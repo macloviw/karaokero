@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El aguacero"
+    },
+    "name": "El aguacero",
+    "repository": "Local",
+    "tid": "80f639cb-8532-47a6-b8ef-dc279e234569",
+    "types": [
+      "singers"
+    ]
+  }
+}

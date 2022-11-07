@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Darlyn & Los Herederos"
+    },
+    "name": "Darlyn & Los Herederos",
+    "repository": "Local",
+    "tid": "bd5af43a-b956-478a-9b0a-c88528b1b816",
+    "types": [
+      "singers"
+    ]
+  }
+}

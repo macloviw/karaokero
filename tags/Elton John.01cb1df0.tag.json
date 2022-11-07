@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Elton John"
+    },
+    "name": "Elton John",
+    "repository": "Local",
+    "tid": "01cb1df0-4807-4e4f-85e8-0abd370a6bab",
+    "types": [
+      "singers"
+    ]
+  }
+}

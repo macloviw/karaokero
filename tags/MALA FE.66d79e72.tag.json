@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MALA FE"
+    },
+    "name": "MALA FE",
+    "repository": "Local",
+    "tid": "66d79e72-6f95-4589-ac19-c48a176ca9dd",
+    "types": [
+      "singers"
+    ]
+  }
+}

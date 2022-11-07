@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frank Reyes - Amor Real JSK"
+    },
+    "name": "Frank Reyes - Amor Real JSK",
+    "repository": "Local",
+    "tid": "e491173e-ad28-4ad9-b5bf-def79fbd4023",
+    "types": [
+      "singers"
+    ]
+  }
+}

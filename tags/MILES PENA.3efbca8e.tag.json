@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MILES PEÑA"
+    },
+    "name": "MILES PEÑA",
+    "repository": "Local",
+    "tid": "3efbca8e-4006-4b57-89ef-d16caa36371d",
+    "types": [
+      "singers"
+    ]
+  }
+}

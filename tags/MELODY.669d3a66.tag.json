@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MELODY"
+    },
+    "name": "MELODY",
+    "repository": "Local",
+    "tid": "669d3a66-e72b-46b7-b388-a2a449c7627d",
+    "types": [
+      "singers"
+    ]
+  }
+}

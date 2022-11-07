@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Trios"
+    },
+    "name": "Los Trios",
+    "repository": "Local",
+    "tid": "cdaa9885-c8a1-40e2-8587-bf9d68b3dd6b",
+    "types": [
+      "singers"
+    ]
+  }
+}

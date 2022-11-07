@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUIS VARGAS"
+    },
+    "name": "LUIS VARGAS",
+    "repository": "Local",
+    "tid": "3d9430e9-6ec5-4dcb-9373-ba1ee886f326",
+    "types": [
+      "singers"
+    ]
+  }
+}

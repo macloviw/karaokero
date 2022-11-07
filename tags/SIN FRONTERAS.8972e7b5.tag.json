@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SIN FRONTERAS"
+    },
+    "name": "SIN FRONTERAS",
+    "repository": "Local",
+    "tid": "8972e7b5-3692-46b4-94b2-07d5a7c21298",
+    "types": [
+      "singers"
+    ]
+  }
+}

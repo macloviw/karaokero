@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Varon de la Bachata"
+    },
+    "name": "El Varon de la Bachata",
+    "repository": "Local",
+    "tid": "68e7f4cb-41a8-4b15-ab29-d6b5ff3ce778",
+    "types": [
+      "singers"
+    ]
+  }
+}

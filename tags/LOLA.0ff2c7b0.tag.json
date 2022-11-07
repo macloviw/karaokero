@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOLA"
+    },
+    "name": "LOLA",
+    "repository": "Local",
+    "tid": "0ff2c7b0-5122-4558-a5f9-81d2053f69f4",
+    "types": [
+      "singers"
+    ]
+  }
+}

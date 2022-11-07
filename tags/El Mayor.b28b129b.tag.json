@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Mayor"
+    },
+    "name": "El Mayor",
+    "repository": "Local",
+    "tid": "b28b129b-02a0-4845-a395-4bb5be7b62f7",
+    "types": [
+      "singers"
+    ]
+  }
+}

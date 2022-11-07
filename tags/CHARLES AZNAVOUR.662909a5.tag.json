@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CHARLES AZNAVOUR"
+    },
+    "name": "CHARLES AZNAVOUR",
+    "repository": "Local",
+    "tid": "662909a5-fdf8-4eb2-aba8-527bad614f2b",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Yvonne Catterfeld"
+    },
+    "name": "Yvonne Catterfeld",
+    "repository": "Local",
+    "tid": "08d2abc8-1073-4fa2-89c4-22bc753b92e3",
+    "types": [
+      "singers"
+    ]
+  }
+}

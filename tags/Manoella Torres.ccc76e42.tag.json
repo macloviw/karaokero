@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Manoella Torres"
+    },
+    "name": "Manoella Torres",
+    "repository": "Local",
+    "tid": "ccc76e42-077f-4778-a2d4-21a1ed8e5cfc",
+    "types": [
+      "singers"
+    ]
+  }
+}

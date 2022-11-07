@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Jeffrey"
+    },
+    "name": "El Jeffrey",
+    "repository": "Local",
+    "tid": "cb716c27-af10-43b6-9c7d-2ab235ca4649",
+    "types": [
+      "singers"
+    ]
+  }
+}

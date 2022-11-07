@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Javier Solis"
+    },
+    "name": "Javier Solis",
+    "repository": "Local",
+    "tid": "d3e87067-f727-4765-aa10-1bc0b26ddbcf",
+    "types": [
+      "singers"
+    ]
+  }
+}

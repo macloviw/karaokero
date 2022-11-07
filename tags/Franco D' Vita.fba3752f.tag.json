@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Franco D' Vita"
+    },
+    "name": "Franco D' Vita",
+    "repository": "Local",
+    "tid": "fba3752f-bb9f-433d-81e5-806c9ed8dbf7",
+    "types": [
+      "singers"
+    ]
+  }
+}

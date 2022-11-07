@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Greg Kihn Band"
+    },
+    "name": "Greg Kihn Band",
+    "repository": "Local",
+    "tid": "8f9f4e33-5d5d-4fa9-9c41-cf95fe6e0956",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "karaoke 70´s"
+    },
+    "name": "karaoke 70´s",
+    "repository": "Local",
+    "tid": "877420d0-1638-4ef8-b861-42d286c6e1e6",
+    "types": [
+      "singers"
+    ]
+  }
+}

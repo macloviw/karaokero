@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Las Marti"
+    },
+    "name": "Las Marti",
+    "repository": "Local",
+    "tid": "2fceb6b6-af2b-401b-85e5-d7fae672a041",
+    "types": [
+      "singers"
+    ]
+  }
+}

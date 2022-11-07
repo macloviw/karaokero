@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Byron Barranco"
+    },
+    "name": "Byron Barranco",
+    "repository": "Local",
+    "tid": "51098dbf-549e-4ae3-b825-c3c3d26a6714",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Luisito Carrion"
+    },
+    "name": "Luisito Carrion",
+    "repository": "Local",
+    "tid": "07bac734-e60b-429c-bc2c-8f9aa512b93a",
+    "types": [
+      "singers"
+    ]
+  }
+}

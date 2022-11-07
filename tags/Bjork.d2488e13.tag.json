@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bjork"
+    },
+    "name": "Bjork",
+    "repository": "Local",
+    "tid": "d2488e13-0de4-4836-8b7b-5f415252bd61",
+    "types": [
+      "singers"
+    ]
+  }
+}

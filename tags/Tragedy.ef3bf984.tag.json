@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tragedy"
+    },
+    "name": "Tragedy",
+    "repository": "Local",
+    "tid": "ef3bf984-0e55-4fb9-8dbb-c7d026ab0005",
+    "types": [
+      "singers"
+    ]
+  }
+}

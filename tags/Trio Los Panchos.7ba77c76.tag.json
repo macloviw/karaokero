@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Trio Los Panchos"
+    },
+    "name": "Trio Los Panchos",
+    "repository": "Local",
+    "tid": "7ba77c76-1d4d-42b5-8491-bc04f16fa0f3",
+    "types": [
+      "singers"
+    ]
+  }
+}

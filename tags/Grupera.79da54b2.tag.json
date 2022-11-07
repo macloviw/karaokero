@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupera"
+    },
+    "name": "Grupera",
+    "repository": "Local",
+    "tid": "79da54b2-dc9f-46bb-a5d3-bb500554c6cd",
+    "types": [
+      "genres"
+    ]
+  }
+}

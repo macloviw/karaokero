@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "alexi valoy"
+    },
+    "name": "alexi valoy",
+    "repository": "Local",
+    "tid": "e598d884-6862-4d84-883c-029ae131f04d",
+    "types": [
+      "singers"
+    ]
+  }
+}

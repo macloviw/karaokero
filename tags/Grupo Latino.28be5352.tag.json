@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Latino"
+    },
+    "name": "Grupo Latino",
+    "repository": "Local",
+    "tid": "28be5352-f293-4ba4-91db-27638b82cb90",
+    "types": [
+      "singers"
+    ]
+  }
+}

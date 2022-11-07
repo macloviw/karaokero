@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "YIYO SARANTE"
+    },
+    "name": "YIYO SARANTE",
+    "repository": "Local",
+    "tid": "36751ca7-6d7d-4acd-be28-e337a2f2fdd5",
+    "types": [
+      "singers"
+    ]
+  }
+}

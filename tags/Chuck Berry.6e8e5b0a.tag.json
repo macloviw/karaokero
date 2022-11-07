@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Chuck Berry"
+    },
+    "name": "Chuck Berry",
+    "repository": "Local",
+    "tid": "6e8e5b0a-846a-4107-b56d-309b0f75d359",
+    "types": [
+      "singers"
+    ]
+  }
+}

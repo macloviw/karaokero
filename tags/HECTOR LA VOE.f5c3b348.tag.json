@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HECTOR LA VOE"
+    },
+    "name": "HECTOR LA VOE",
+    "repository": "Local",
+    "tid": "f5c3b348-036b-4570-9c02-1a8e81f8647f",
+    "types": [
+      "singers"
+    ]
+  }
+}

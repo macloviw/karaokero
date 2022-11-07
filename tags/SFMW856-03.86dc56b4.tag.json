@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SFMW856-03"
+    },
+    "name": "SFMW856-03",
+    "repository": "Local",
+    "tid": "86dc56b4-5a66-4be3-8fd0-eacae0ec4b72",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SONNIA SILVESTRE"
+    },
+    "name": "SONNIA SILVESTRE",
+    "repository": "Local",
+    "tid": "5071e1d8-3dca-42df-9582-15c61f7512d8",
+    "types": [
+      "singers"
+    ]
+  }
+}

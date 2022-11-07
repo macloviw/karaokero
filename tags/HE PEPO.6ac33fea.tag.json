@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HE PEPO"
+    },
+    "name": "HE PEPO",
+    "repository": "Local",
+    "tid": "6ac33fea-adb1-4bf3-b651-9fcbc33556c3",
+    "types": [
+      "singers"
+    ]
+  }
+}

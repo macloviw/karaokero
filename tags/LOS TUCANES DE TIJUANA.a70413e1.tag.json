@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS TUCANES DE TIJUANA"
+    },
+    "name": "LOS TUCANES DE TIJUANA",
+    "repository": "Local",
+    "tid": "a70413e1-12d4-4c75-a915-f4209604d796",
+    "types": [
+      "singers"
+    ]
+  }
+}

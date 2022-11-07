@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Christian Castro"
+    },
+    "name": "Christian Castro",
+    "repository": "Local",
+    "tid": "27dd2042-d853-49be-87b4-70122a2b96b9",
+    "types": [
+      "singers"
+    ]
+  }
+}

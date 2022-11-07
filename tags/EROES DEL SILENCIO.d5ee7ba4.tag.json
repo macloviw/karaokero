@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EROES DEL SILENCIO"
+    },
+    "name": "EROES DEL SILENCIO",
+    "repository": "Local",
+    "tid": "d5ee7ba4-687b-4267-ad47-8286e9db03a7",
+    "types": [
+      "singers"
+    ]
+  }
+}

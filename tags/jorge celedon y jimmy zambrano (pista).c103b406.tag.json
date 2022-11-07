@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "jorge celedon y jimmy zambrano (pista)"
+    },
+    "name": "jorge celedon y jimmy zambrano (pista)",
+    "repository": "Local",
+    "tid": "c103b406-a903-4ddf-9a7c-298a669fcb38",
+    "types": [
+      "singers"
+    ]
+  }
+}

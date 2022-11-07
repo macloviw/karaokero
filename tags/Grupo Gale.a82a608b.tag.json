@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Galé"
+    },
+    "name": "Grupo Galé",
+    "repository": "Local",
+    "tid": "a82a608b-7689-4138-8cfa-c8e7cdd3dbc3",
+    "types": [
+      "singers"
+    ]
+  }
+}

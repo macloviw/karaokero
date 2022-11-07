@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Voltio Feat. Karel"
+    },
+    "name": "Voltio Feat. Karel",
+    "repository": "Local",
+    "tid": "5098a4d9-8a70-403a-84a4-90b7edf702de",
+    "types": [
+      "singers"
+    ]
+  }
+}

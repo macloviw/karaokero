@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DARIO GOMEZ"
+    },
+    "name": "DARIO GOMEZ",
+    "repository": "Local",
+    "tid": "30f995c4-e87e-46b7-8757-b11396fe40d4",
+    "types": [
+      "singers"
+    ]
+  }
+}

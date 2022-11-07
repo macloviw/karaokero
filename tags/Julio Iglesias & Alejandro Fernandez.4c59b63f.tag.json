@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Julio Iglesias & Alejandro Fernandez"
+    },
+    "name": "Julio Iglesias & Alejandro Fernandez",
+    "repository": "Local",
+    "tid": "4c59b63f-1b04-440a-b630-ba337356e355",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lourdes Robles"
+    },
+    "name": "Lourdes Robles",
+    "repository": "Local",
+    "tid": "4d6bd897-a216-47dc-a913-095b30355530",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Boys II Men"
+    },
+    "name": "Boys II Men",
+    "repository": "Local",
+    "tid": "08136072-83e4-40c9-819d-5bda8529e14f",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Juli"
+    },
+    "name": "Juli",
+    "repository": "Local",
+    "tid": "a4be6a9b-c97b-47ed-8beb-4b52efb11503",
+    "types": [
+      "singers"
+    ]
+  }
+}

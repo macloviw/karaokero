@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rudy Marquez"
+    },
+    "name": "Rudy Marquez",
+    "repository": "Local",
+    "tid": "5a28fd77-570d-45b3-9d00-4f91c2b5d67a",
+    "types": [
+      "singers"
+    ]
+  }
+}

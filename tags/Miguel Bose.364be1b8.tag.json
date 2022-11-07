@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Miguel Bose"
+    },
+    "name": "Miguel Bose",
+    "repository": "Local",
+    "tid": "364be1b8-de04-4da8-9ad4-e3e21f464b4c",
+    "types": [
+      "singers"
+    ]
+  }
+}

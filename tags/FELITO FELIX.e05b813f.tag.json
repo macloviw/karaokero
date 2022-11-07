@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FELITO FELIX"
+    },
+    "name": "FELITO FELIX",
+    "repository": "Local",
+    "tid": "e05b813f-cfaa-4f5b-b8fe-17ada454497a",
+    "types": [
+      "singers"
+    ]
+  }
+}

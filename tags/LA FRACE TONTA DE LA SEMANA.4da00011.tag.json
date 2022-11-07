@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA FRACE TONTA DE LA SEMANA"
+    },
+    "name": "LA FRACE TONTA DE LA SEMANA",
+    "repository": "Local",
+    "tid": "4da00011-e529-456d-8d80-7c71c6ce0647",
+    "types": [
+      "singers"
+    ]
+  }
+}

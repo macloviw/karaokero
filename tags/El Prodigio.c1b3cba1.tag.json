@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Prodigio"
+    },
+    "name": "El Prodigio",
+    "repository": "Local",
+    "tid": "c1b3cba1-935f-47b1-bfe6-13fd4f6da36e",
+    "types": [
+      "singers"
+    ]
+  }
+}

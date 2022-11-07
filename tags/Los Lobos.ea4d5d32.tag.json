@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Lobos"
+    },
+    "name": "Los Lobos",
+    "repository": "Local",
+    "tid": "ea4d5d32-8a20-4839-bf84-ab1e50a48d06",
+    "types": [
+      "singers"
+    ]
+  }
+}

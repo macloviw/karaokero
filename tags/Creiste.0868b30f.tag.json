@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Creiste"
+    },
+    "name": "Creiste",
+    "repository": "Local",
+    "tid": "0868b30f-f56e-493c-ab7f-3bb46d1251b3",
+    "types": [
+      "singers"
+    ]
+  }
+}

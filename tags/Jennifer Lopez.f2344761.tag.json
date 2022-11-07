@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": ""
+    },
+    "name": "Jennifer Lopez",
+    "repository": "Local",
+    "tid": "f2344761-8e73-4a50-9d01-0cd55e297b21",
+    "types": [
+      "singers"
+    ]
+  }
+}

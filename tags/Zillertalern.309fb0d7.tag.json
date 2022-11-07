@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Zillertalern"
+    },
+    "name": "Zillertalern",
+    "repository": "Local",
+    "tid": "309fb0d7-45d3-40a5-ba33-7fa39453f5c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

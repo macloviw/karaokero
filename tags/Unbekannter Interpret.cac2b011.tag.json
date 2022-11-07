@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Unbekannter Interpret"
+    },
+    "name": "Unbekannter Interpret",
+    "repository": "Local",
+    "tid": "cac2b011-3dd2-4824-b16b-09a2f1fe22db",
+    "types": [
+      "singers"
+    ]
+  }
+}

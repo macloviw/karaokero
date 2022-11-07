@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Niall Horan"
+    },
+    "name": "Niall Horan",
+    "repository": "Local",
+    "tid": "0803efa3-ff77-469d-a122-723d0455ca6c",
+    "types": [
+      "singers"
+    ]
+  }
+}

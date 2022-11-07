@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Compay Segundo"
+    },
+    "name": "Compay Segundo",
+    "repository": "Local",
+    "tid": "7454127e-c29f-41bc-ab52-3661d9eabe38",
+    "types": [
+      "singers"
+    ]
+  }
+}

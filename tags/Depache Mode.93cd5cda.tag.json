@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Depache Mode"
+    },
+    "name": "Depache Mode",
+    "repository": "Local",
+    "tid": "93cd5cda-a86a-4f3e-9f78-4745ecda30f0",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fleetwood Mac"
+    },
+    "name": "Fleetwood Mac",
+    "repository": "Local",
+    "tid": "7269b91c-1e09-4b6e-a857-8facb8dbbec2",
+    "types": [
+      "singers"
+    ]
+  }
+}

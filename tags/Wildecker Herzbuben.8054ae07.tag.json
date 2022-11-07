@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Wildecker Herzbuben"
+    },
+    "name": "Wildecker Herzbuben",
+    "repository": "Local",
+    "tid": "8054ae07-933a-4c71-bcd7-9096981a3d13",
+    "types": [
+      "singers"
+    ]
+  }
+}

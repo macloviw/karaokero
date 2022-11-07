@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "noches de fantasias=en vivo"
+    },
+    "name": "noches de fantasias=en vivo",
+    "repository": "Local",
+    "tid": "49e39a97-3484-44b6-9991-864f3d1869d5",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Techy Fatule"
+    },
+    "name": "Techy Fatule",
+    "repository": "Local",
+    "tid": "37ec73af-3532-4212-be38-8c810a98beaa",
+    "types": [
+      "singers"
+    ]
+  }
+}

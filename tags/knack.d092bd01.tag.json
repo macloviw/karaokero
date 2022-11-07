@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "knack"
+    },
+    "name": "knack",
+    "repository": "Local",
+    "tid": "d092bd01-d175-4c22-a81f-7af6a812f44c",
+    "types": [
+      "singers"
+    ]
+  }
+}

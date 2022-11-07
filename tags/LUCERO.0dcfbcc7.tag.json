@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUCERO"
+    },
+    "name": "LUCERO",
+    "repository": "Local",
+    "tid": "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6",
+    "types": [
+      "singers"
+    ]
+  }
+}

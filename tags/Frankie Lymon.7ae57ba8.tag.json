@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frankie Lymon"
+    },
+    "name": "Frankie Lymon",
+    "repository": "Local",
+    "tid": "7ae57ba8-7c1c-4d19-bb96-b4bfc3929386",
+    "types": [
+      "singers"
+    ]
+  }
+}

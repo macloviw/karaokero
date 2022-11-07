@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MERENGUES TRADICIONALES"
+    },
+    "name": "MERENGUES TRADICIONALES",
+    "repository": "Local",
+    "tid": "002629da-c829-4e90-a8c5-9f03a57360cb",
+    "types": [
+      "singers"
+    ]
+  }
+}

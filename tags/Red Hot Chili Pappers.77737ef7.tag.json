@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Red Hot Chili Pappers"
+    },
+    "name": "Red Hot Chili Pappers",
+    "repository": "Local",
+    "tid": "77737ef7-5e8d-4410-bbb8-2dfe3534270a",
+    "types": [
+      "singers"
+    ]
+  }
+}

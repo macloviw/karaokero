@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Infantiles"
+    },
+    "name": "Infantiles",
+    "repository": "Local",
+    "tid": "bf77d6bb-d1df-4360-9dd3-14f69677ab9c",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gael Garcia"
+    },
+    "name": "Gael Garcia",
+    "repository": "Local",
+    "tid": "aad5a0d6-b2b4-49df-83ee-8ecc5b5bbf4b",
+    "types": [
+      "singers"
+    ]
+  }
+}

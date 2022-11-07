@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Orquesta dan den cuba"
+    },
+    "name": "Orquesta dan den cuba",
+    "repository": "Local",
+    "tid": "b1bcc812-6b9c-4f6e-b590-d391ea489f76",
+    "types": [
+      "singers"
+    ]
+  }
+}

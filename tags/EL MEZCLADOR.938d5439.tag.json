@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL MEZCLADOR"
+    },
+    "name": "EL MEZCLADOR",
+    "repository": "Local",
+    "tid": "938d5439-f02a-4627-9bd3-fc2ae60afcbe",
+    "types": [
+      "singers"
+    ]
+  }
+}

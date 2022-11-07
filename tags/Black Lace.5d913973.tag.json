@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Black Lace"
+    },
+    "name": "Black Lace",
+    "repository": "Local",
+    "tid": "5d913973-9dc0-4e22-9174-b22914ce7ceb",
+    "types": [
+      "singers"
+    ]
+  }
+}

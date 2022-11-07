@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Electronic"
+    },
+    "name": "Electronic",
+    "repository": "Local",
+    "tid": "dc21ffcd-42df-41eb-8abf-64d9549f6d70",
+    "types": [
+      "genres"
+    ]
+  }
+}

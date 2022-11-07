@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Team AiR"
+    },
+    "name": "Team AiR",
+    "repository": "Local",
+    "tid": "e010dec2-d1ca-4499-9bf3-60def10bb60d",
+    "types": [
+      "singers"
+    ]
+  }
+}

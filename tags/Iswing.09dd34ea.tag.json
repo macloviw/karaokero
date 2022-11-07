@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Iswing"
+    },
+    "name": "Iswing",
+    "repository": "Local",
+    "tid": "09dd34ea-ec57-484e-9a9a-ffeceebc149b",
+    "types": [
+      "singers"
+    ]
+  }
+}

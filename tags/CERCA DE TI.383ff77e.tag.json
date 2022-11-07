@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CERCA DE TI"
+    },
+    "name": "CERCA DE TI",
+    "repository": "Local",
+    "tid": "383ff77e-cb96-4029-aea5-6102e0efa77b",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rex Gildo"
+    },
+    "name": "Rex Gildo",
+    "repository": "Local",
+    "tid": "c0991b47-6ccb-4a75-a223-3bba7ed9df9d",
+    "types": [
+      "singers"
+    ]
+  }
+}

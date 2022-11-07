@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frankie Cruz"
+    },
+    "name": "Frankie Cruz",
+    "repository": "Local",
+    "tid": "65836eb8-4f6f-44d5-8a5f-b69cb25c3dc1",
+    "types": [
+      "singers"
+    ]
+  }
+}

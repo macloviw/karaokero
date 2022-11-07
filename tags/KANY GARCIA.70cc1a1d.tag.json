@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KANY GARCIA"
+    },
+    "name": "KANY GARCIA",
+    "repository": "Local",
+    "tid": "70cc1a1d-328b-441c-891e-d1f94da4b54f",
+    "types": [
+      "singers"
+    ]
+  }
+}

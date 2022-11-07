@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Guillermo Rodriguez"
+    },
+    "name": "Guillermo Rodriguez",
+    "repository": "Local",
+    "tid": "c7e32b9e-9736-4119-8071-cae54faf1cc6",
+    "types": [
+      "singers"
+    ]
+  }
+}

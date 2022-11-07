@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CHEO FELICIANO"
+    },
+    "name": "CHEO FELICIANO",
+    "repository": "Local",
+    "tid": "d01c2c87-0edc-4494-b664-c796d8d06e3d",
+    "types": [
+      "singers"
+    ]
+  }
+}

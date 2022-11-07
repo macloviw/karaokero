@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JUAN L GUEERA"
+    },
+    "name": "JUAN L GUEERA",
+    "repository": "Local",
+    "tid": "72863ed1-333b-4fa3-be18-fa999e2b5e11",
+    "types": [
+      "singers"
+    ]
+  }
+}

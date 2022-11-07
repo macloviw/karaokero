@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Grey"
+    },
+    "name": "David Grey",
+    "repository": "Local",
+    "tid": "915ba5e8-a640-4319-b651-34ba2f49cb02",
+    "types": [
+      "singers"
+    ]
+  }
+}

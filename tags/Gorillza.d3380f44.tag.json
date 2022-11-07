@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gorillza"
+    },
+    "name": "Gorillza",
+    "repository": "Local",
+    "tid": "d3380f44-f75e-4914-ab6f-a15eec9a1f25",
+    "types": [
+      "singers"
+    ]
+  }
+}

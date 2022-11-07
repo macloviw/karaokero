@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "The Doors"
+    },
+    "name": "The Doors",
+    "repository": "Local",
+    "tid": "142ec1c7-8c3e-4db4-a61e-3263e0416ffd",
+    "types": [
+      "singers"
+    ]
+  }
+}

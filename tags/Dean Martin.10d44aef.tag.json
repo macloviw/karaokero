@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dean Martin"
+    },
+    "name": "Dean Martin",
+    "repository": "Local",
+    "tid": "10d44aef-4147-4b60-b22e-dfaec7340cec",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JIMMY BAUER"
+    },
+    "name": "JIMMY BAUER",
+    "repository": "Local",
+    "tid": "defae15e-425f-42a5-afc6-11df8c4ea322",
+    "types": [
+      "singers"
+    ]
+  }
+}

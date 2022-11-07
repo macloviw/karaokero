@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Molotov"
+    },
+    "name": "Molotov",
+    "repository": "Local",
+    "tid": "d8871f50-bdb1-49fc-8476-da5b985ed95b",
+    "types": [
+      "singers"
+    ]
+  }
+}

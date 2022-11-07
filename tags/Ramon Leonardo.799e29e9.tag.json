@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ramon Leonardo"
+    },
+    "name": "Ramon Leonardo",
+    "repository": "Local",
+    "tid": "799e29e9-6595-4024-bbfd-b7c67e2e83eb",
+    "types": [
+      "singers"
+    ]
+  }
+}

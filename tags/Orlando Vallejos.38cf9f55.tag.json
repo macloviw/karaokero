@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Orlando Vallejos"
+    },
+    "name": "Orlando Vallejos",
+    "repository": "Local",
+    "tid": "38cf9f55-9d87-431a-87c2-c16828e9c0bf",
+    "types": [
+      "singers"
+    ]
+  }
+}

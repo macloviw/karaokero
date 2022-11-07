@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MONCHI CAPRICHO"
+    },
+    "name": "MONCHI CAPRICHO",
+    "repository": "Local",
+    "tid": "c228c3b2-ffec-4aad-aaef-56c1a54c5c21",
+    "types": [
+      "genres"
+    ]
+  }
+}

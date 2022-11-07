@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Deivi Jimenez"
+    },
+    "name": "Deivi Jimenez",
+    "repository": "Local",
+    "tid": "1abf2232-6756-476d-9463-4b499e5d861f",
+    "types": [
+      "singers"
+    ]
+  }
+}

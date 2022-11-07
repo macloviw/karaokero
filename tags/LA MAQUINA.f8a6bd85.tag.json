@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA MAQUINA"
+    },
+    "name": "LA MAQUINA",
+    "repository": "Local",
+    "tid": "f8a6bd85-c4ae-43a7-a13c-2644c7bf4d5f",
+    "types": [
+      "singers"
+    ]
+  }
+}

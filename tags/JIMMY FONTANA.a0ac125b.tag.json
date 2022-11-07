@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JIMMY FONTANA"
+    },
+    "name": "JIMMY FONTANA",
+    "repository": "Local",
+    "tid": "a0ac125b-c047-4ef2-9769-9592cdab5b0d",
+    "types": [
+      "singers"
+    ]
+  }
+}

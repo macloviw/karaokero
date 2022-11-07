@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "INDIA"
+    },
+    "name": "INDIA",
+    "repository": "Local",
+    "tid": "83c52060-1416-433f-9295-adb73fda85d6",
+    "types": [
+      "singers"
+    ]
+  }
+}

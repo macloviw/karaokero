@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Michel & Rubby Perez"
+    },
+    "name": "Michel & Rubby Perez",
+    "repository": "Local",
+    "tid": "8d79ccf7-4508-4538-b5c8-4be333150e5f",
+    "types": [
+      "singers"
+    ]
+  }
+}

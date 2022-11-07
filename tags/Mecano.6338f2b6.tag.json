@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Mecano"
+    },
+    "name": "Mecano",
+    "repository": "Local",
+    "tid": "6338f2b6-1255-43c4-8779-55c7e47618e4",
+    "types": [
+      "singers"
+    ]
+  }
+}

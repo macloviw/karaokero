@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Justin Timberlake"
+    },
+    "name": "Justin Timberlake",
+    "repository": "Local",
+    "tid": "497d416c-437c-4b9b-9463-8b14291a2dff",
+    "types": [
+      "singers"
+    ]
+  }
+}

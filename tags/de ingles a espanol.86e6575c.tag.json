@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "de ingles a español"
+    },
+    "name": "de ingles a español",
+    "repository": "Local",
+    "tid": "86e6575c-babe-41b3-a4c6-fe68f600db39",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Flammers"
+    },
+    "name": "Los Flammers",
+    "repository": "Local",
+    "tid": "359d1607-d2c6-4113-a9af-6ee6fa49035d",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jessy & Joy"
+    },
+    "name": "Jessy & Joy",
+    "repository": "Local",
+    "tid": "c8b1f9b3-2019-4cad-a109-0f1bb24e7a0d",
+    "types": [
+      "singers"
+    ]
+  }
+}

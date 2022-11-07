@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DAVID PAVON"
+    },
+    "name": "DAVID PAVON",
+    "repository": "Local",
+    "tid": "458079e8-21fb-4115-ac67-5937c8d865a9",
+    "types": [
+      "singers"
+    ]
+  }
+}

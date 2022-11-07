@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KHPRO-31"
+    },
+    "name": "KHPRO-31",
+    "repository": "Local",
+    "tid": "6ae85fed-c1ba-4d52-939f-00d95d924a4c",
+    "types": [
+      "singers"
+    ]
+  }
+}

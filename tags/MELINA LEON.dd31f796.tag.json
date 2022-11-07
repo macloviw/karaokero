@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MELINA LEON"
+    },
+    "name": "MELINA LEON",
+    "repository": "Local",
+    "tid": "dd31f796-b110-4270-baa3-9cc7c22c9cfc",
+    "types": [
+      "singers"
+    ]
+  }
+}

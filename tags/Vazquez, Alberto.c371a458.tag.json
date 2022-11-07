@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Vazquez, Alberto"
+    },
+    "name": "Vazquez, Alberto",
+    "repository": "Local",
+    "tid": "c371a458-cd32-43d0-9f0d-78669ce6c3cc",
+    "types": [
+      "singers"
+    ]
+  }
+}

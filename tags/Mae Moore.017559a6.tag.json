@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Mae Moore"
+    },
+    "name": "Mae Moore",
+    "repository": "Local",
+    "tid": "017559a6-0689-4b92-b7f7-7433ae2b2089",
+    "types": [
+      "singers"
+    ]
+  }
+}

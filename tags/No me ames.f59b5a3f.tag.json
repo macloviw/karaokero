@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "No me ames"
+    },
+    "name": "No me ames",
+    "repository": "Local",
+    "tid": "f59b5a3f-f0f4-4ac4-a701-be948c9df6a8",
+    "types": [
+      "singers"
+    ]
+  }
+}

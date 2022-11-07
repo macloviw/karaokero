@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Enrrique Iglesias Feat.Juan Luis Guerra"
+    },
+    "name": "Enrrique Iglesias Feat.Juan Luis Guerra",
+    "repository": "Local",
+    "tid": "d2aabe6c-2539-43e8-998d-95e1b5b6ba12",
+    "types": [
+      "singers"
+    ]
+  }
+}

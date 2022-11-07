@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SONBA Y FORD"
+    },
+    "name": "SONBA Y FORD",
+    "repository": "Local",
+    "tid": "b42972d2-9f6c-4d36-8da7-dddbb610d111",
+    "types": [
+      "singers"
+    ]
+  }
+}

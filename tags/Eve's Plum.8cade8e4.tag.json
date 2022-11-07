@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eve’s Plum"
+    },
+    "name": "Eve’s Plum",
+    "repository": "Local",
+    "tid": "8cade8e4-fb2c-403a-8082-4da3f275e7db",
+    "types": [
+      "singers"
+    ]
+  }
+}

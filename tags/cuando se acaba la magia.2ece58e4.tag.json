@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "cuando se acaba la magia"
+    },
+    "name": "cuando se acaba la magia",
+    "repository": "Local",
+    "tid": "2ece58e4-3f24-4372-98ec-2d5edd4dfe19",
+    "types": [
+      "singers"
+    ]
+  }
+}

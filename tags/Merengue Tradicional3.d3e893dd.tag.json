@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Merengue Tradicional3"
+    },
+    "name": "Merengue Tradicional3",
+    "repository": "Local",
+    "tid": "d3e893dd-7305-460f-8597-1628a65c1373",
+    "types": [
+      "singers"
+    ]
+  }
+}

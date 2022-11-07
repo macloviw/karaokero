@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Bowie"
+    },
+    "name": "David Bowie",
+    "repository": "Local",
+    "tid": "20a26dc2-c959-4ddc-8912-a1432f2923e6",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Camilo Sesto"
+    },
+    "name": "Camilo Sesto",
+    "repository": "Local",
+    "tid": "5f446a42-8e55-45db-bf9c-553390f49100",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "John Travolta"
+    },
+    "name": "John Travolta",
+    "repository": "Local",
+    "tid": "43dd41d0-511f-4079-836b-7e494197ad65",
+    "types": [
+      "singers"
+    ]
+  }
+}

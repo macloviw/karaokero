@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CANO EXTREMERA"
+    },
+    "name": "CANO EXTREMERA",
+    "repository": "Local",
+    "tid": "c7a3003c-08ee-4826-a486-91ef68613a22",
+    "types": [
+      "singers"
+    ]
+  }
+}

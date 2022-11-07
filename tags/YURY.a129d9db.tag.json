@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "YURY"
+    },
+    "name": "YURY",
+    "repository": "Local",
+    "tid": "a129d9db-8d38-4d17-b3ed-f75504965f03",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JAKELIN ESYEVES"
+    },
+    "name": "JAKELIN ESYEVES",
+    "repository": "Local",
+    "tid": "64453dd8-137b-4db3-8dc3-d83b7b807be9",
+    "types": [
+      "singers"
+    ]
+  }
+}

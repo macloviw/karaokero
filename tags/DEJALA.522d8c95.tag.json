@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DEJALA"
+    },
+    "name": "DEJALA",
+    "repository": "Local",
+    "tid": "522d8c95-18e6-4205-b6ad-b97e69301cf9",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "David Cavazos"
+    },
+    "name": "David Cavazos",
+    "repository": "Local",
+    "tid": "5cefdab7-0db1-47c0-9d79-2175a790aecb",
+    "types": [
+      "singers"
+    ]
+  }
+}

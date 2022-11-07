@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "En Cambio No"
+    },
+    "name": "En Cambio No",
+    "repository": "Local",
+    "tid": "cd8b1f68-de64-4469-9819-570f632ebcbd",
+    "types": [
+      "singers"
+    ]
+  }
+}

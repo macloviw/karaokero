@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eagles"
+    },
+    "name": "Eagles",
+    "repository": "Local",
+    "tid": "fdf938dc-599e-46c3-ab3c-6ef02652a240",
+    "types": [
+      "singers"
+    ]
+  }
+}

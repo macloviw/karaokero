@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bruce Springsteen"
+    },
+    "name": "Bruce Springsteen",
+    "repository": "Local",
+    "tid": "519e51c8-b6b2-45d6-bf2b-2b45f97931a8",
+    "types": [
+      "singers"
+    ]
+  }
+}

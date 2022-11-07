@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ramon Cordero"
+    },
+    "name": "Ramon Cordero",
+    "repository": "Local",
+    "tid": "20f94e34-d084-4596-b2b5-b4ddd3b0563d",
+    "types": [
+      "singers"
+    ]
+  }
+}

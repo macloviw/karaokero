@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tony Bennett"
+    },
+    "name": "Tony Bennett",
+    "repository": "Local",
+    "tid": "50eb3d63-2540-4571-940f-90ded00bae83",
+    "types": [
+      "singers"
+    ]
+  }
+}

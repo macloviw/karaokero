@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CARLOS BAUTE"
+    },
+    "name": "CARLOS BAUTE",
+    "repository": "Local",
+    "tid": "2d037cc9-ece6-419c-94e8-2a7269599306",
+    "types": [
+      "singers"
+    ]
+  }
+}

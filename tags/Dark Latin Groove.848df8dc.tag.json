@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dark Latin Groove"
+    },
+    "name": "Dark Latin Groove",
+    "repository": "Local",
+    "tid": "848df8dc-23dd-43bb-b47f-5a99a014514c",
+    "types": [
+      "singers"
+    ]
+  }
+}

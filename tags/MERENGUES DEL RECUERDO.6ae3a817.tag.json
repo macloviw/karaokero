@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MERENGUES DEL RECUERDO"
+    },
+    "name": "MERENGUES DEL RECUERDO",
+    "repository": "Local",
+    "tid": "6ae3a817-1c75-4c9d-809b-f2115c9b09f6",
+    "types": [
+      "singers"
+    ]
+  }
+}

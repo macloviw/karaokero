@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Papa Roach"
+    },
+    "name": "Papa Roach",
+    "repository": "Local",
+    "tid": "24e872a7-45e1-4f28-b649-bad17dcd7d84",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MILLY QUEZADA"
+    },
+    "name": "MILLY QUEZADA",
+    "repository": "Local",
+    "tid": "bafc42ec-4f35-4917-aae6-45fddf6fd370",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JS Studio"
+    },
+    "name": "JS Studio",
+    "repository": "Local",
+    "tid": "00194ace-97de-4b0e-ac74-de625409fa0f",
+    "types": [
+      "singers"
+    ]
+  }
+}

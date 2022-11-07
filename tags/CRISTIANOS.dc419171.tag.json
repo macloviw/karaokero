@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CRISTIANOS"
+    },
+    "name": "CRISTIANOS",
+    "repository": "Local",
+    "tid": "dc419171-1f67-44d6-a88d-2ef9f06c6274",
+    "types": [
+      "genres"
+    ]
+  }
+}

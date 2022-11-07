@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dj Otzi"
+    },
+    "name": "Dj Otzi",
+    "repository": "Local",
+    "tid": "fff07c2c-c439-4527-9e7c-819d87eda310",
+    "types": [
+      "singers"
+    ]
+  }
+}

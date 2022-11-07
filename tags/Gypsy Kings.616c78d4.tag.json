@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gypsy Kings"
+    },
+    "name": "Gypsy Kings",
+    "repository": "Local",
+    "tid": "616c78d4-67c5-4f18-9554-c3bacefcf14b",
+    "types": [
+      "singers"
+    ]
+  }
+}

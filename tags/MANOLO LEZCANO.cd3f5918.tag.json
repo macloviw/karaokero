@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MANOLO LEZCANO"
+    },
+    "name": "MANOLO LEZCANO",
+    "repository": "Local",
+    "tid": "cd3f5918-fc6a-43ca-b310-f06482fbef19",
+    "types": [
+      "singers"
+    ]
+  }
+}

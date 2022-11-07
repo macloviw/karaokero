@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RALF BENDIX"
+    },
+    "name": "RALF BENDIX",
+    "repository": "Local",
+    "tid": "0cce6ded-b4b8-4a7a-876a-d4cb0dd3e485",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gwen Stefani & Eve"
+    },
+    "name": "Gwen Stefani & Eve",
+    "repository": "Local",
+    "tid": "6a302de2-bdfd-4387-b8c1-d5e5546c40d2",
+    "types": [
+      "singers"
+    ]
+  }
+}

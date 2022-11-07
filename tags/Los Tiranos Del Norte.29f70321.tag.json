@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Tiranos Del Norte"
+    },
+    "name": "Los Tiranos Del Norte",
+    "repository": "Local",
+    "tid": "29f70321-2b61-42a0-8680-ab1725fb7f3a",
+    "types": [
+      "singers"
+    ]
+  }
+}

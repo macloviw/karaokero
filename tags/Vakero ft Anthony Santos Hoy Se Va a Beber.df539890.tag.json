@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Vakero ft Anthony Santos   Hoy Se Va a Beber"
+    },
+    "name": "Vakero ft Anthony Santos   Hoy Se Va a Beber",
+    "repository": "Local",
+    "tid": "df539890-7fb8-48c7-9eb0-1487fbc540ff",
+    "types": [
+      "singers"
+    ]
+  }
+}

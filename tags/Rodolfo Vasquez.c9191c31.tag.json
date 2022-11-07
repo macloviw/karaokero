@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rodolfo Vasquez"
+    },
+    "name": "Rodolfo Vasquez",
+    "repository": "Local",
+    "tid": "c9191c31-7620-4556-9a07-9c3b604898ea",
+    "types": [
+      "singers"
+    ]
+  }
+}

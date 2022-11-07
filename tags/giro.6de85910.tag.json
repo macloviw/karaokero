@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "giro"
+    },
+    "name": "giro",
+    "repository": "Local",
+    "tid": "6de85910-11b3-45ad-8f13-1a004016f973",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Charly Cardona"
+    },
+    "name": "Charly Cardona",
+    "repository": "Local",
+    "tid": "98067660-aa18-4c53-8b93-9b59101317c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

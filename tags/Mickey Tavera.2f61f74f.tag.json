@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Mickey Tavera"
+    },
+    "name": "Mickey Tavera",
+    "repository": "Local",
+    "tid": "2f61f74f-6c5c-460d-9154-b9abaf292c29",
+    "types": [
+      "singers"
+    ]
+  }
+}

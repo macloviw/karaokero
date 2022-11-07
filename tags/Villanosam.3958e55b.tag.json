@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Villanosam"
+    },
+    "name": "Villanosam",
+    "repository": "Local",
+    "tid": "3958e55b-da77-48ab-9dbe-7d5bbdd19e68",
+    "types": [
+      "singers"
+    ]
+  }
+}

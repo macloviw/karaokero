@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lorenzo Santamaria"
+    },
+    "name": "Lorenzo Santamaria",
+    "repository": "Local",
+    "tid": "0933f23f-fe3b-4501-92cb-184949be9856",
+    "types": [
+      "singers"
+    ]
+  }
+}

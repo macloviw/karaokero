@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Chiquito Team Band"
+    },
+    "name": "Chiquito Team Band",
+    "repository": "Local",
+    "tid": "9a14cca7-3cfb-4d17-a77a-76979aac6e6e",
+    "types": [
+      "singers"
+    ]
+  }
+}

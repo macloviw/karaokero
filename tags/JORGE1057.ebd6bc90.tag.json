@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JORGE1057"
+    },
+    "name": "JORGE1057",
+    "repository": "Local",
+    "tid": "ebd6bc90-06fc-49e8-8199-efb87bbf65a5",
+    "types": [
+      "singers"
+    ]
+  }
+}

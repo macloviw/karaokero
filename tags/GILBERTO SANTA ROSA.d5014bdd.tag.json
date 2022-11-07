@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GILBERTO SANTA ROSA"
+    },
+    "name": "GILBERTO SANTA ROSA",
+    "repository": "Local",
+    "tid": "d5014bdd-a681-497e-8438-9995f28a1639",
+    "types": [
+      "singers"
+    ]
+  }
+}

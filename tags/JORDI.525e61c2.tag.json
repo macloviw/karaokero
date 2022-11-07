@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JORDI"
+    },
+    "name": "JORDI",
+    "repository": "Local",
+    "tid": "525e61c2-4a44-48f3-97ef-8e80e650a845",
+    "types": [
+      "singers"
+    ]
+  }
+}

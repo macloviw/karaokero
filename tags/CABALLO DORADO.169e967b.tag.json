@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CABALLO DORADO"
+    },
+    "name": "CABALLO DORADO",
+    "repository": "Local",
+    "tid": "169e967b-6430-464d-8af8-a64a6c4a75f5",
+    "types": [
+      "singers"
+    ]
+  }
+}

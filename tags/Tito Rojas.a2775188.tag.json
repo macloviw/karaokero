@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tito Rojas"
+    },
+    "name": "Tito Rojas",
+    "repository": "Local",
+    "tid": "a2775188-2323-4970-8fc7-161949ca9b5b",
+    "types": [
+      "singers"
+    ]
+  }
+}

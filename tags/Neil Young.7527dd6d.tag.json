@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Neil Young"
+    },
+    "name": "Neil Young",
+    "repository": "Local",
+    "tid": "7527dd6d-c3d8-4f61-84f3-b584a1d1d6fd",
+    "types": [
+      "singers"
+    ]
+  }
+}

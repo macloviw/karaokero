@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "vete y alejate"
+    },
+    "name": "vete y alejate",
+    "repository": "Local",
+    "tid": "f4db8abb-0bbd-4b43-a83b-314a7a1b6167",
+    "types": [
+      "singers"
+    ]
+  }
+}

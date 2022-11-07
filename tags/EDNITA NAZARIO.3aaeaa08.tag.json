@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EDNITA NAZARIO"
+    },
+    "name": "EDNITA NAZARIO",
+    "repository": "Local",
+    "tid": "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28",
+    "types": [
+      "singers"
+    ]
+  }
+}

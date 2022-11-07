@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Raulin Rosendo"
+    },
+    "name": "Raulin Rosendo",
+    "repository": "Local",
+    "tid": "fdc22e8d-043d-45b9-92be-a2945291052b",
+    "types": [
+      "singers"
+    ]
+  }
+}

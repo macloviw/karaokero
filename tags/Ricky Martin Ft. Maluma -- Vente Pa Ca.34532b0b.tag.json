@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ricky Martin Ft. Maluma --  Vente Pa Ca"
+    },
+    "name": "Ricky Martin Ft. Maluma --  Vente Pa Ca",
+    "repository": "Local",
+    "tid": "34532b0b-a368-4a5e-89cf-93ddc42a05de",
+    "types": [
+      "singers"
+    ]
+  }
+}

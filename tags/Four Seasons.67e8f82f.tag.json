@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Four Seasons"
+    },
+    "name": "Four Seasons",
+    "repository": "Local",
+    "tid": "67e8f82f-4717-42fe-a956-fa1a58e39447",
+    "types": [
+      "singers"
+    ]
+  }
+}

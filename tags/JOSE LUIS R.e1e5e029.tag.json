@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSE LUIS R"
+    },
+    "name": "JOSE LUIS R",
+    "repository": "Local",
+    "tid": "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04",
+    "types": [
+      "singers"
+    ]
+  }
+}

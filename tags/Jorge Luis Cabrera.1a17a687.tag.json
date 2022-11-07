@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jorge Luís Cabrera"
+    },
+    "name": "Jorge Luís Cabrera",
+    "repository": "Local",
+    "tid": "1a17a687-0c38-4ac3-9d21-8bf69fa93797",
+    "types": [
+      "singers"
+    ]
+  }
+}

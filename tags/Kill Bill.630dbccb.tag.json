@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kill Bill"
+    },
+    "name": "Kill Bill",
+    "repository": "Local",
+    "tid": "630dbccb-ee09-4888-8742-be5bd53df44c",
+    "types": [
+      "singers"
+    ]
+  }
+}

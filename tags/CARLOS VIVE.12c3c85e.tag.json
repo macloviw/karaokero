@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CARLOS VIVE"
+    },
+    "name": "CARLOS VIVE",
+    "repository": "Local",
+    "tid": "12c3c85e-2285-4e25-a7a3-d4a40b3430b1",
+    "types": [
+      "singers"
+    ]
+  }
+}

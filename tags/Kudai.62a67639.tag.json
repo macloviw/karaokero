@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kudai"
+    },
+    "name": "Kudai",
+    "repository": "Local",
+    "tid": "62a67639-5a08-4665-92e2-614bc05e4aab",
+    "types": [
+      "singers"
+    ]
+  }
+}

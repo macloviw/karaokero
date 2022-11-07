@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA LINEA"
+    },
+    "name": "LA LINEA",
+    "repository": "Local",
+    "tid": "eac807b9-7fcb-41e9-8758-5e95edb484d3",
+    "types": [
+      "singers"
+    ]
+  }
+}

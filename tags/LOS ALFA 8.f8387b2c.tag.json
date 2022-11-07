@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS ALFA 8"
+    },
+    "name": "LOS ALFA 8",
+    "repository": "Local",
+    "tid": "f8387b2c-1b06-4e19-903c-6532043ab249",
+    "types": [
+      "singers"
+    ]
+  }
+}

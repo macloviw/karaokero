@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gloria Gaynor"
+    },
+    "name": "Gloria Gaynor",
+    "repository": "Local",
+    "tid": "3c59b4af-dbd9-4dad-927e-06fc5d717c17",
+    "types": [
+      "singers"
+    ]
+  }
+}

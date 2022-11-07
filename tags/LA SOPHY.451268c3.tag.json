@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA SOPHY"
+    },
+    "name": "LA SOPHY",
+    "repository": "Local",
+    "tid": "451268c3-77bd-4946-917d-90f132621c18",
+    "types": [
+      "singers"
+    ]
+  }
+}

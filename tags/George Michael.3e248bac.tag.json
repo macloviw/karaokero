@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "George Michael"
+    },
+    "name": "George Michael",
+    "repository": "Local",
+    "tid": "3e248bac-31b5-4e16-9daa-c472e0d78fd0",
+    "types": [
+      "singers"
+    ]
+  }
+}

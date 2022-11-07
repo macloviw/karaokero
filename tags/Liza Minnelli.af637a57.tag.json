@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Liza Minnelli"
+    },
+    "name": "Liza Minnelli",
+    "repository": "Local",
+    "tid": "af637a57-3654-4384-a4ac-a888459dab33",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Tribu Del Sol"
+    },
+    "name": "Tribu Del Sol",
+    "repository": "Local",
+    "tid": "cbff7e8a-50b8-4755-a69c-990da1612489",
+    "types": [
+      "singers"
+    ]
+  }
+}

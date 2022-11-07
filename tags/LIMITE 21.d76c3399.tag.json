@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LIMITE 21"
+    },
+    "name": "LIMITE 21",
+    "repository": "Local",
+    "tid": "d76c3399-f6d4-4e20-8373-a7ed05413921",
+    "types": [
+      "singers"
+    ]
+  }
+}

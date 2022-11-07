@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CRISTIAN CASTRO"
+    },
+    "name": "CRISTIAN CASTRO",
+    "repository": "Local",
+    "tid": "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7",
+    "types": [
+      "singers"
+    ]
+  }
+}

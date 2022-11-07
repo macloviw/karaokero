@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Culture Club"
+    },
+    "name": "Culture Club",
+    "repository": "Local",
+    "tid": "7de7c01e-6cef-45c2-aa53-53ac13dc7150",
+    "types": [
+      "singers"
+    ]
+  }
+}

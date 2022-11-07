@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FENI  ORTIZ"
+    },
+    "name": "FENI  ORTIZ",
+    "repository": "Local",
+    "tid": "d6c12ce2-dbe1-47dc-a16f-9cec06373ed7",
+    "types": [
+      "singers"
+    ]
+  }
+}

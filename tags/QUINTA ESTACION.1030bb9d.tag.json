@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "QUINTA ESTACION"
+    },
+    "name": "QUINTA ESTACION",
+    "repository": "Local",
+    "tid": "1030bb9d-ae29-4b7f-a543-218595e400fb",
+    "types": [
+      "singers"
+    ]
+  }
+}

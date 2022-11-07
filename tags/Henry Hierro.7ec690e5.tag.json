@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Henry Hierro"
+    },
+    "name": "Henry Hierro",
+    "repository": "Local",
+    "tid": "7ec690e5-faa4-47be-b3cd-6a088b0175d3",
+    "types": [
+      "singers"
+    ]
+  }
+}

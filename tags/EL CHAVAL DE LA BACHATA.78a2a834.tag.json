@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL CHAVAL DE LA BACHATA"
+    },
+    "name": "EL CHAVAL DE LA BACHATA",
+    "repository": "Local",
+    "tid": "78a2a834-b39d-4609-bb62-6593ab8f3b97",
+    "types": [
+      "singers"
+    ]
+  }
+}

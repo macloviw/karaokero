@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fine Young Cannibals"
+    },
+    "name": "Fine Young Cannibals",
+    "repository": "Local",
+    "tid": "25cd2e69-e39a-405a-90a1-cb108c848ce7",
+    "types": [
+      "singers"
+    ]
+  }
+}

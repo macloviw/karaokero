@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MULTI PISTA --MERENGUE"
+    },
+    "name": "MULTI PISTA --MERENGUE",
+    "repository": "Local",
+    "tid": "832a6199-ec3c-451b-99b2-aa11f38217b8",
+    "types": [
+      "singers"
+    ]
+  }
+}

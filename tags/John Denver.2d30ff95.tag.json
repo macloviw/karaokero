@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "John Denver"
+    },
+    "name": "John Denver",
+    "repository": "Local",
+    "tid": "2d30ff95-eee8-4ac9-821a-88085081a353",
+    "types": [
+      "singers"
+    ]
+  }
+}

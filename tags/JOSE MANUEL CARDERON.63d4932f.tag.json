@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSE MANUEL CARDERON"
+    },
+    "name": "JOSE MANUEL CARDERON",
+    "repository": "Local",
+    "tid": "63d4932f-7740-49bf-af64-0a518cfb9f0e",
+    "types": [
+      "singers"
+    ]
+  }
+}

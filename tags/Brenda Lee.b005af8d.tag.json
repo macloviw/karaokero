@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Brenda Lee"
+    },
+    "name": "Brenda Lee",
+    "repository": "Local",
+    "tid": "b005af8d-fb26-489d-a5bf-5ac3d1c5d994",
+    "types": [
+      "singers"
+    ]
+  }
+}

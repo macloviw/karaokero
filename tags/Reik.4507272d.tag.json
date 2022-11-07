@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Reik"
+    },
+    "name": "Reik",
+    "repository": "Local",
+    "tid": "4507272d-b953-410b-babf-12e4dde5106e",
+    "types": [
+      "singers"
+    ]
+  }
+}

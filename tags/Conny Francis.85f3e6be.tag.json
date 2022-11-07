@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Conny Francis"
+    },
+    "name": "Conny Francis",
+    "repository": "Local",
+    "tid": "85f3e6be-7ec1-4e35-8400-e2c188d2edf0",
+    "types": [
+      "singers"
+    ]
+  }
+}

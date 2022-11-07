@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "King, Carole"
+    },
+    "name": "King, Carole",
+    "repository": "Local",
+    "tid": "07efe136-ee2b-4168-b063-b98d9f45989c",
+    "types": [
+      "singers"
+    ]
+  }
+}

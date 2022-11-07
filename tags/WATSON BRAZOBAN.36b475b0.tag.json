@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "WATSON BRAZOBAN"
+    },
+    "name": "WATSON BRAZOBAN",
+    "repository": "Local",
+    "tid": "36b475b0-8444-4aeb-a5e2-b53deb2d2665",
+    "types": [
+      "singers"
+    ]
+  }
+}

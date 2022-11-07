@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOLITA FLORES"
+    },
+    "name": "LOLITA FLORES",
+    "repository": "Local",
+    "tid": "4776cc04-3f16-45b6-abea-8ccc87e510f4",
+    "types": [
+      "singers"
+    ]
+  }
+}

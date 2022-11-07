@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rene Gonzalez"
+    },
+    "name": "Rene Gonzalez",
+    "repository": "Local",
+    "tid": "1177f416-2373-490d-a939-caf731f8c04a",
+    "types": [
+      "singers"
+    ]
+  }
+}

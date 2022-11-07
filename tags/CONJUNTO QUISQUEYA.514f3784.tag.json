@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CONJUNTO QUISQUEYA"
+    },
+    "name": "CONJUNTO QUISQUEYA",
+    "repository": "Local",
+    "tid": "514f3784-c83b-4b14-a501-e1ffed9e86d2",
+    "types": [
+      "singers"
+    ]
+  }
+}

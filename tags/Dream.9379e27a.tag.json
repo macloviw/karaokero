@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dream"
+    },
+    "name": "Dream",
+    "repository": "Local",
+    "tid": "9379e27a-9804-4e43-82ac-05ece51bd665",
+    "types": [
+      "singers"
+    ]
+  }
+}

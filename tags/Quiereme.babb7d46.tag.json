@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Quiereme"
+    },
+    "name": "Quiereme",
+    "repository": "Local",
+    "tid": "babb7d46-64ba-4267-bc08-d5e549114b99",
+    "types": [
+      "singers"
+    ]
+  }
+}

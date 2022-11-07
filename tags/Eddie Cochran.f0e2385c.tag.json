@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Eddie Cochran"
+    },
+    "name": "Eddie Cochran",
+    "repository": "Local",
+    "tid": "f0e2385c-a143-4e81-8cd6-48555bac81a1",
+    "types": [
+      "singers"
+    ]
+  }
+}

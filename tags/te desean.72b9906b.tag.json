@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "te desean"
+    },
+    "name": "te desean",
+    "repository": "Local",
+    "tid": "72b9906b-c422-4719-9696-f07784dc71f1",
+    "types": [
+      "singers"
+    ]
+  }
+}

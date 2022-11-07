@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "POPURRI MERENGUES"
+    },
+    "name": "POPURRI MERENGUES",
+    "repository": "Local",
+    "tid": "0288d228-5642-42dd-8358-d188da27cbad",
+    "types": [
+      "singers"
+    ]
+  }
+}

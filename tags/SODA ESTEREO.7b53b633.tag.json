@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SODA ESTEREO"
+    },
+    "name": "SODA ESTEREO",
+    "repository": "Local",
+    "tid": "7b53b633-a1c6-46db-ad49-b2e22ffec0b9",
+    "types": [
+      "singers"
+    ]
+  }
+}

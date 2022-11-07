@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "田村直美"
+    },
+    "name": "田村直美",
+    "repository": "Local",
+    "tid": "c82b8e16-1638-43c4-b454-1914cd7d70ba",
+    "types": [
+      "singers"
+    ]
+  }
+}

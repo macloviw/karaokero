@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EL PRODIJIO"
+    },
+    "name": "EL PRODIJIO",
+    "repository": "Local",
+    "tid": "7ab11daa-048d-4630-b50d-338ccf18481e",
+    "types": [
+      "singers"
+    ]
+  }
+}

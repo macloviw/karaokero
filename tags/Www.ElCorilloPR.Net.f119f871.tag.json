@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Www.ElCorilloPR.Net"
+    },
+    "name": "Www.ElCorilloPR.Net",
+    "repository": "Local",
+    "tid": "f119f871-4ecb-4a71-87b3-5737b2a918ab",
+    "types": [
+      "singers"
+    ]
+  }
+}

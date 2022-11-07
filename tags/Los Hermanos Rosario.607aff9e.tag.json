@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Hermanos Rosario"
+    },
+    "name": "Los Hermanos Rosario",
+    "repository": "Local",
+    "tid": "607aff9e-cc83-4cca-b5f6-311ec43ed46a",
+    "types": [
+      "singers"
+    ]
+  }
+}

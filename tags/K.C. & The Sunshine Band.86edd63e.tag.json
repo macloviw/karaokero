@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "K.C. & The Sunshine Band"
+    },
+    "name": "K.C. & The Sunshine Band",
+    "repository": "Local",
+    "tid": "86edd63e-d46c-4c1f-88d9-d24285acdb3f",
+    "types": [
+      "singers"
+    ]
+  }
+}

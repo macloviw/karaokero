@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FEY"
+    },
+    "name": "FEY",
+    "repository": "Local",
+    "tid": "79fd212c-9e96-4d03-a41f-9c5227a61509",
+    "types": [
+      "singers"
+    ]
+  }
+}

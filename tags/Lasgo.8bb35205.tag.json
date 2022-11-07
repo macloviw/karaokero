@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lasgo"
+    },
+    "name": "Lasgo",
+    "repository": "Local",
+    "tid": "8bb35205-c29c-4b79-8cfb-976260ea451d",
+    "types": [
+      "singers"
+    ]
+  }
+}

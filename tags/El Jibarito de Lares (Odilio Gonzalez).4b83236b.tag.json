@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Jibarito de Lares (Odilio Gonzalez)"
+    },
+    "name": "El Jibarito de Lares (Odilio Gonzalez)",
+    "repository": "Local",
+    "tid": "4b83236b-0214-4918-bdfa-e00bfd479ec6",
+    "types": [
+      "singers"
+    ]
+  }
+}

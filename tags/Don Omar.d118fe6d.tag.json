@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Don Omar"
+    },
+    "name": "Don Omar",
+    "repository": "Local",
+    "tid": "d118fe6d-1a5a-4322-80e6-e5290667ef0b",
+    "types": [
+      "singers"
+    ]
+  }
+}

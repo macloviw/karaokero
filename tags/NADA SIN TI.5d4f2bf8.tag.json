@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NADA SIN TI"
+    },
+    "name": "NADA SIN TI",
+    "repository": "Local",
+    "tid": "5d4f2bf8-3f0c-40f9-9d76-b5b193c2f16c",
+    "types": [
+      "singers"
+    ]
+  }
+}

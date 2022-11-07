@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TOQUE PROFUNDO"
+    },
+    "name": "TOQUE PROFUNDO",
+    "repository": "Local",
+    "tid": "486d564f-abe6-4e02-be36-28f70d14c10a",
+    "types": [
+      "singers"
+    ]
+  }
+}

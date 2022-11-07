@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hot Chocolate"
+    },
+    "name": "Hot Chocolate",
+    "repository": "Local",
+    "tid": "f1f551cf-2344-4bbe-91fb-1f8543791a79",
+    "types": [
+      "singers"
+    ]
+  }
+}

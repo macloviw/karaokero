@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "The Bee Gees"
+    },
+    "name": "The Bee Gees",
+    "repository": "Local",
+    "tid": "4f1132be-fcfb-4508-9d1c-1eb4ec8f5120",
+    "types": [
+      "singers"
+    ]
+  }
+}

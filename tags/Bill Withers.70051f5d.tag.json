@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bill Withers"
+    },
+    "name": "Bill Withers",
+    "repository": "Local",
+    "tid": "70051f5d-1537-4b55-9b73-9b7a3ff34725",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La India & Juan Gabriel"
+    },
+    "name": "La India & Juan Gabriel",
+    "repository": "Local",
+    "tid": "5c9972c2-b67f-4b78-9ddb-75965e34bfff",
+    "types": [
+      "singers"
+    ]
+  }
+}

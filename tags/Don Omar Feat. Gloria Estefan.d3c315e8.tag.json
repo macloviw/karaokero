@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Don Omar Feat. Gloria Estefan"
+    },
+    "name": "Don Omar Feat. Gloria Estefan",
+    "repository": "Local",
+    "tid": "d3c315e8-937c-41f9-a19a-f5828896f523",
+    "types": [
+      "singers"
+    ]
+  }
+}

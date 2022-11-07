@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Folk Rock"
+    },
+    "name": "Folk Rock",
+    "repository": "Local",
+    "tid": "ead1c015-4e74-4bca-8307-f0841ef35acf",
+    "types": [
+      "genres"
+    ]
+  }
+}

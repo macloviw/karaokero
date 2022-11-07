@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ROBERTO CARLOS"
+    },
+    "name": "ROBERTO CARLOS",
+    "repository": "Local",
+    "tid": "23a91bf4-864a-4218-a2ae-d42106fdff92",
+    "types": [
+      "singers"
+    ]
+  }
+}

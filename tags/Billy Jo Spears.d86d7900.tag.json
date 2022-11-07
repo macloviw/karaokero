@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Billy Jo Spears"
+    },
+    "name": "Billy Jo Spears",
+    "repository": "Local",
+    "tid": "d86d7900-32ba-49ea-955a-5e38db9c9656",
+    "types": [
+      "singers"
+    ]
+  }
+}

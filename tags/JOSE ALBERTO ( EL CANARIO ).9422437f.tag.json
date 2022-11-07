@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSE ALBERTO ( EL CANARIO )"
+    },
+    "name": "JOSE ALBERTO ( EL CANARIO )",
+    "repository": "Local",
+    "tid": "9422437f-ee93-4c3f-8df1-b151aebcc9ac",
+    "types": [
+      "singers"
+    ]
+  }
+}

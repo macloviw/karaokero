@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gisselle"
+    },
+    "name": "Gisselle",
+    "repository": "Local",
+    "tid": "88aa7ea3-8c66-4ede-aa65-4516af8222b5",
+    "types": [
+      "singers"
+    ]
+  }
+}

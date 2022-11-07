@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Hidelmaro"
+    },
+    "name": "Hidelmaro",
+    "repository": "Local",
+    "tid": "0c3eeeae-1c77-4446-80da-8ed7901b3662",
+    "types": [
+      "singers"
+    ]
+  }
+}

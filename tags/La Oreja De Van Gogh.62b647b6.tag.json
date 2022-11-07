@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Oreja De Van Gogh"
+    },
+    "name": "La Oreja De Van Gogh",
+    "repository": "Local",
+    "tid": "62b647b6-8f30-46b3-bff4-760dbc0ae1f9",
+    "types": [
+      "singers"
+    ]
+  }
+}

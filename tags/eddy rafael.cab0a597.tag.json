@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "eddy rafael"
+    },
+    "name": "eddy rafael",
+    "repository": "Local",
+    "tid": "cab0a597-b75f-4d63-907a-26bdd2991246",
+    "types": [
+      "singers"
+    ]
+  }
+}

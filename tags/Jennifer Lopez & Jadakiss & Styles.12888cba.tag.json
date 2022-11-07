@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jennifer Lopez & Jadakiss & Styles"
+    },
+    "name": "Jennifer Lopez & Jadakiss & Styles",
+    "repository": "Local",
+    "tid": "12888cba-3979-4d51-8cc7-1de41e41a831",
+    "types": [
+      "singers"
+    ]
+  }
+}

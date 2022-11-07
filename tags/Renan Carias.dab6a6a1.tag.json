@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Renan Carias"
+    },
+    "name": "Renan Carias",
+    "repository": "Local",
+    "tid": "dab6a6a1-377d-44a1-82bd-27103f175ca3",
+    "types": [
+      "singers"
+    ]
+  }
+}

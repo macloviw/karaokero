@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Maniel"
+    },
+    "name": "Grupo Maniel",
+    "repository": "Local",
+    "tid": "2158f936-db9c-4ddf-ab8b-41932cae21c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

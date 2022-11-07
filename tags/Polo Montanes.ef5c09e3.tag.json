@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Polo Montañes"
+    },
+    "name": "Polo Montañes",
+    "repository": "Local",
+    "tid": "ef5c09e3-4105-458e-a29e-5bac3a47a33d",
+    "types": [
+      "singers"
+    ]
+  }
+}

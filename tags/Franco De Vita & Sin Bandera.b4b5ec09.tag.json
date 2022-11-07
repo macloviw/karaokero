@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Franco De Vita & Sin Bandera"
+    },
+    "name": "Franco De Vita & Sin Bandera",
+    "repository": "Local",
+    "tid": "b4b5ec09-2355-4120-a770-77f50776e198",
+    "types": [
+      "singers"
+    ]
+  }
+}

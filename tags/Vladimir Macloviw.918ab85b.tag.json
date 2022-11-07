@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Vladimir Macloviw"
+    },
+    "name": "Vladimir Macloviw",
+    "repository": "My Custom Songs",
+    "tid": "918ab85b-d9ec-4dab-8db7-55de7f1d840a",
+    "types": [
+      "authors"
+    ]
+  }
+}

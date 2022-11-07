@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Chino y Nacho"
+    },
+    "name": "Chino y Nacho",
+    "repository": "Local",
+    "tid": "7a1ac309-8d67-4d85-a0a7-6dd4a04e1fd5",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TODOS ME MIRAN"
+    },
+    "name": "TODOS ME MIRAN",
+    "repository": "Local",
+    "tid": "87df37d0-b945-4897-b374-52ad81efa939",
+    "types": [
+      "singers"
+    ]
+  }
+}

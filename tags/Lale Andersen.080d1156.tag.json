@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lale Andersen"
+    },
+    "name": "Lale Andersen",
+    "repository": "Local",
+    "tid": "080d1156-25cb-403a-8363-98a9344e0495",
+    "types": [
+      "singers"
+    ]
+  }
+}

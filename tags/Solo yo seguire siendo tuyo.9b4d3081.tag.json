@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Solo yo seguiré siendo tuyo"
+    },
+    "name": "Solo yo seguiré siendo tuyo",
+    "repository": "Local",
+    "tid": "9b4d3081-f73f-46d5-a1de-b673c2f4d953",
+    "types": [
+      "singers"
+    ]
+  }
+}

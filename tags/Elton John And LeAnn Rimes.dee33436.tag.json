@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Elton John And LeAnn Rimes"
+    },
+    "name": "Elton John And LeAnn Rimes",
+    "repository": "Local",
+    "tid": "dee33436-95a3-4de2-9360-79e4f23faa2d",
+    "types": [
+      "singers"
+    ]
+  }
+}

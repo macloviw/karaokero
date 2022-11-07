@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ricky Martin & La Mary"
+    },
+    "name": "Ricky Martin & La Mary",
+    "repository": "Local",
+    "tid": "a926058c-0f4d-4bd8-8d07-a883f7aedd81",
+    "types": [
+      "singers"
+    ]
+  }
+}

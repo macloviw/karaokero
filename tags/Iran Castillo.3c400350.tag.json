@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Iran Castillo"
+    },
+    "name": "Iran Castillo",
+    "repository": "Local",
+    "tid": "3c400350-abf9-476b-ae04-f45afc17f61f",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Perez"
+    },
+    "name": "El Perez",
+    "repository": "Local",
+    "tid": "0cabd946-e6ba-4e80-8c12-4b3de8f7c22b",
+    "types": [
+      "singers"
+    ]
+  }
+}

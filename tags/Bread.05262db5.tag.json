@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Bread"
+    },
+    "name": "Bread",
+    "repository": "Local",
+    "tid": "05262db5-b978-4fde-afb2-68be5db253b2",
+    "types": [
+      "singers"
+    ]
+  }
+}

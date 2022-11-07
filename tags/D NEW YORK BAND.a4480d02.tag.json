@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "D NEW YORK BAND"
+    },
+    "name": "D NEW YORK BAND",
+    "repository": "Local",
+    "tid": "a4480d02-3253-42d2-8fbe-906d33b7b9ec",
+    "types": [
+      "singers"
+    ]
+  }
+}

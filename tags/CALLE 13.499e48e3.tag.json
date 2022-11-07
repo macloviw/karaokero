@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CALLE 13"
+    },
+    "name": "CALLE 13",
+    "repository": "Local",
+    "tid": "499e48e3-998e-4823-b2e1-82467d111a00",
+    "types": [
+      "singers"
+    ]
+  }
+}

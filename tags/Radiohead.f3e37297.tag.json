@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Radiohead"
+    },
+    "name": "Radiohead",
+    "repository": "Local",
+    "tid": "f3e37297-3596-404d-8158-5086d20a5152",
+    "types": [
+      "singers"
+    ]
+  }
+}

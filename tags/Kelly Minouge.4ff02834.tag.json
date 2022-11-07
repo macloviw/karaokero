@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kelly Minouge"
+    },
+    "name": "Kelly Minouge",
+    "repository": "Local",
+    "tid": "4ff02834-d99f-4687-9381-e0a72b2c9e7f",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lucho Barrios"
+    },
+    "name": "Lucho Barrios",
+    "repository": "Local",
+    "tid": "1a6520b3-c12b-4298-b971-b4847b717234",
+    "types": [
+      "singers"
+    ]
+  }
+}

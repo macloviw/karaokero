@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JUAN BAO"
+    },
+    "name": "JUAN BAO",
+    "repository": "Local",
+    "tid": "1b2e02e1-bd39-4365-98d2-a7694cde7ce9",
+    "types": [
+      "singers"
+    ]
+  }
+}

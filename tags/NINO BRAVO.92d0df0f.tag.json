@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NINO BRAVO"
+    },
+    "name": "NINO BRAVO",
+    "repository": "Local",
+    "tid": "92d0df0f-e395-401f-9be2-209720b37410",
+    "types": [
+      "singers"
+    ]
+  }
+}

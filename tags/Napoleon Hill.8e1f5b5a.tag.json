@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Napoleon Hill"
+    },
+    "name": "Napoleon Hill",
+    "repository": "Local",
+    "tid": "8e1f5b5a-138d-4982-9b6b-0a254092208f",
+    "types": [
+      "singers"
+    ]
+  }
+}

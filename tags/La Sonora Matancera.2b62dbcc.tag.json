@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Sonora Matancera"
+    },
+    "name": "La Sonora Matancera",
+    "repository": "Local",
+    "tid": "2b62dbcc-4ebb-40f6-b6de-e5791d9c2e9f",
+    "types": [
+      "singers"
+    ]
+  }
+}

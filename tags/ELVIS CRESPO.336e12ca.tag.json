@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ELVIS CRESPO"
+    },
+    "name": "ELVIS CRESPO",
+    "repository": "Local",
+    "tid": "336e12ca-2c62-49a9-bf16-dd8298a7294e",
+    "types": [
+      "singers"
+    ]
+  }
+}

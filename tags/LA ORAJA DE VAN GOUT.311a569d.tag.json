@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA ORAJA  DE VAN GOUT"
+    },
+    "name": "LA ORAJA  DE VAN GOUT",
+    "repository": "Local",
+    "tid": "311a569d-c766-4ef8-893a-4c283926b946",
+    "types": [
+      "singers"
+    ]
+  }
+}

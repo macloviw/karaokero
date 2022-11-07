@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "jose jose con trio vol 2"
+    },
+    "name": "jose jose con trio vol 2",
+    "repository": "Local",
+    "tid": "98180ab0-3a19-4501-adf5-2c9ee85a9aa8",
+    "types": [
+      "singers"
+    ]
+  }
+}

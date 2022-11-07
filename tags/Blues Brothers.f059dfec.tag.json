@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Blues Brothers"
+    },
+    "name": "Blues Brothers",
+    "repository": "Local",
+    "tid": "f059dfec-bee0-426d-af92-5df526f8c39c",
+    "types": [
+      "singers"
+    ]
+  }
+}

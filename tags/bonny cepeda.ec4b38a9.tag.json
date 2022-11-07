@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "bonny cepeda"
+    },
+    "name": "bonny cepeda",
+    "repository": "Local",
+    "tid": "ec4b38a9-877e-4ff7-ae26-009d4a36d64d",
+    "types": [
+      "singers"
+    ]
+  }
+}

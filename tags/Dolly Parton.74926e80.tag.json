@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dolly Parton"
+    },
+    "name": "Dolly Parton",
+    "repository": "Local",
+    "tid": "74926e80-79e0-47ac-92a9-a479e735fc24",
+    "types": [
+      "singers"
+    ]
+  }
+}

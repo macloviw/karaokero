@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dua Lipa"
+    },
+    "name": "Dua Lipa",
+    "repository": "Local",
+    "tid": "ce24827a-cc43-4f47-8e43-26d7e278caf9",
+    "types": [
+      "singers"
+    ]
+  }
+}

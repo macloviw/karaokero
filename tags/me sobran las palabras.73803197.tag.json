@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "me sobran las palabras"
+    },
+    "name": "me sobran las palabras",
+    "repository": "Local",
+    "tid": "73803197-737b-4dce-984a-0a654d153993",
+    "types": [
+      "singers"
+    ]
+  }
+}

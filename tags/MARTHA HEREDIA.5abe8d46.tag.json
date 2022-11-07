@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MARTHA HEREDIA"
+    },
+    "name": "MARTHA HEREDIA",
+    "repository": "Local",
+    "tid": "5abe8d46-8435-470a-a1fc-230f04f60a54",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gupo Niche"
+    },
+    "name": "Gupo Niche",
+    "repository": "Local",
+    "tid": "38598018-b02b-4742-b661-c8fa1c92e554",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Purple Schulz"
+    },
+    "name": "Purple Schulz",
+    "repository": "Local",
+    "tid": "201ed44e-bc12-4a8f-9712-337f41c20ea4",
+    "types": [
+      "singers"
+    ]
+  }
+}

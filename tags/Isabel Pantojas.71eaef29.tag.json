@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Isabel Pantojas"
+    },
+    "name": "Isabel Pantojas",
+    "repository": "Local",
+    "tid": "71eaef29-5b1f-44e2-86ef-2332fa38303c",
+    "types": [
+      "singers"
+    ]
+  }
+}

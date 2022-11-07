@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Pablo Martinez"
+    },
+    "name": "Pablo Martinez",
+    "repository": "Local",
+    "tid": "5cf0cd42-0c0f-49aa-a91b-fa7e439d0da6",
+    "types": [
+      "singers"
+    ]
+  }
+}

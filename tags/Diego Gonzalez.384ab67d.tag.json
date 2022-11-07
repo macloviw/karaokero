@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Diego Gonzalez"
+    },
+    "name": "Diego Gonzalez",
+    "repository": "Local",
+    "tid": "384ab67d-28de-4b83-90bc-5086ed71ffb7",
+    "types": [
+      "singers"
+    ]
+  }
+}

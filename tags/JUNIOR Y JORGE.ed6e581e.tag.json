@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JUNIOR Y JORGE"
+    },
+    "name": "JUNIOR Y JORGE",
+    "repository": "Local",
+    "tid": "ed6e581e-0ab6-4553-8159-ffec219a57d4",
+    "types": [
+      "singers"
+    ]
+  }
+}

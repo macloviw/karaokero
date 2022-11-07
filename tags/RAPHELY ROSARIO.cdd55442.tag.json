@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RAPHELY ROSARIO"
+    },
+    "name": "RAPHELY ROSARIO",
+    "repository": "Local",
+    "tid": "cdd55442-7302-4366-81c0-ace5361a5e39",
+    "types": [
+      "singers"
+    ]
+  }
+}

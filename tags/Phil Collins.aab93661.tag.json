@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Phil Collins"
+    },
+    "name": "Phil Collins",
+    "repository": "Local",
+    "tid": "aab93661-1cf6-4975-a00a-77f6c02a99c3",
+    "types": [
+      "singers"
+    ]
+  }
+}

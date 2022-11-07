@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Julio Iglesias"
+    },
+    "name": "Julio Iglesias",
+    "repository": "Local",
+    "tid": "c454c392-a12b-46ab-a7d8-067b89bd0427",
+    "types": [
+      "singers"
+    ]
+  }
+}

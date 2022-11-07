@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CARLOS PONCE"
+    },
+    "name": "CARLOS PONCE",
+    "repository": "Local",
+    "tid": "2bde01dd-f359-44a1-86be-2a042375a702",
+    "types": [
+      "singers"
+    ]
+  }
+}

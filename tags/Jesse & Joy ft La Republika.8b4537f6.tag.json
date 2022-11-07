@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jesse & Joy ft La Republika"
+    },
+    "name": "Jesse & Joy ft La Republika",
+    "repository": "Local",
+    "tid": "8b4537f6-02dd-4f60-af5e-042a2e82d837",
+    "types": [
+      "singers"
+    ]
+  }
+}

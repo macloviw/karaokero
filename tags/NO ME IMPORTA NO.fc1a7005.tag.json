@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "NO ME  IMPORTA NO"
+    },
+    "name": "NO ME  IMPORTA NO",
+    "repository": "Local",
+    "tid": "fc1a7005-6034-4ecd-a85b-e843a753d590",
+    "types": [
+      "singers"
+    ]
+  }
+}

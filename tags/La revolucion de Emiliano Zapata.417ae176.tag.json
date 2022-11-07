@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La revolucion de Emiliano Zapata"
+    },
+    "name": "La revolucion de Emiliano Zapata",
+    "repository": "Local",
+    "tid": "417ae176-1f28-40e5-9e6a-e95e1fc01386",
+    "types": [
+      "singers"
+    ]
+  }
+}

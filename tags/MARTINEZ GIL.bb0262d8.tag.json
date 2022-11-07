@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MARTINEZ GIL"
+    },
+    "name": "MARTINEZ GIL",
+    "repository": "Local",
+    "tid": "bb0262d8-d9f0-4099-bcb5-1065168ae96c",
+    "types": [
+      "singers"
+    ]
+  }
+}

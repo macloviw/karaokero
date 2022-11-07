@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Yoel Enrique"
+    },
+    "name": "Yoel Enrique",
+    "repository": "Local",
+    "tid": "92225080-cff3-41a6-a3c9-31ca3a6789aa",
+    "types": [
+      "singers"
+    ]
+  }
+}

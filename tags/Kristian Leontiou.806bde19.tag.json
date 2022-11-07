@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kristian Leontiou"
+    },
+    "name": "Kristian Leontiou",
+    "repository": "Local",
+    "tid": "806bde19-b269-401f-97be-5149b3c0708d",
+    "types": [
+      "singers"
+    ]
+  }
+}

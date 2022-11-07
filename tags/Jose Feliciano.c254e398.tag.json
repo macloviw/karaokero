@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jose  Feliciano"
+    },
+    "name": "Jose  Feliciano",
+    "repository": "Local",
+    "tid": "c254e398-7cdc-4884-b708-6621e75acd00",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Destinys Child"
+    },
+    "name": "Destinys Child",
+    "repository": "Local",
+    "tid": "a64f7412-0cb0-4fa0-abc6-84c5cb941106",
+    "types": [
+      "singers"
+    ]
+  }
+}

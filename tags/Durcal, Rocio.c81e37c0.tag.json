@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Durcal, Rocio"
+    },
+    "name": "Durcal, Rocio",
+    "repository": "Local",
+    "tid": "c81e37c0-f6b7-4726-8c30-9eca8585d733",
+    "types": [
+      "singers"
+    ]
+  }
+}

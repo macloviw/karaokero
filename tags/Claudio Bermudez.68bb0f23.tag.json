@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Claudio Bermudez"
+    },
+    "name": "Claudio Bermudez",
+    "repository": "Local",
+    "tid": "68bb0f23-bdf3-453e-b453-0bad65f2bda9",
+    "types": [
+      "singers"
+    ]
+  }
+}

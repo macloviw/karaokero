@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "System Of A Down"
+    },
+    "name": "System Of A Down",
+    "repository": "Local",
+    "tid": "b3f7ec93-ebbe-4054-be17-1c17be1cdbb5",
+    "types": [
+      "singers"
+    ]
+  }
+}

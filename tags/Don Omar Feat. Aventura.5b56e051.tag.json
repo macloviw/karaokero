@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Don Omar Feat. Aventura"
+    },
+    "name": "Don Omar Feat. Aventura",
+    "repository": "Local",
+    "tid": "5b56e051-c8d3-407c-80a5-86f55048481e",
+    "types": [
+      "singers"
+    ]
+  }
+}

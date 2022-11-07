@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cascades"
+    },
+    "name": "Cascades",
+    "repository": "Local",
+    "tid": "041f1cbb-da08-47ef-b9c6-23a646c0ccad",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "corazon de otro"
+    },
+    "name": "corazon de otro",
+    "repository": "Local",
+    "tid": "6d1c70a6-d65e-4833-ae7f-62e1c5901a15",
+    "types": [
+      "singers"
+    ]
+  }
+}

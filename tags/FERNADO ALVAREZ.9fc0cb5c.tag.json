@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "FERNADO ALVAREZ"
+    },
+    "name": "FERNADO ALVAREZ",
+    "repository": "Local",
+    "tid": "9fc0cb5c-66ea-4475-a18b-59fce51619c8",
+    "types": [
+      "singers"
+    ]
+  }
+}

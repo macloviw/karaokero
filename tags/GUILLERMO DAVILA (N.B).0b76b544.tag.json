@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GUILLERMO DAVILA (N.B)"
+    },
+    "name": "GUILLERMO DAVILA (N.B)",
+    "repository": "Local",
+    "tid": "0b76b544-97dc-41b6-bcb8-bd7cf1529f39",
+    "types": [
+      "singers"
+    ]
+  }
+}

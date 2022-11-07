@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Krisspy"
+    },
+    "name": "Krisspy",
+    "repository": "Local",
+    "tid": "4ab66f3b-f408-465c-923c-70c1413994e5",
+    "types": [
+      "singers"
+    ]
+  }
+}

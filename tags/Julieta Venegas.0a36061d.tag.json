@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Julieta Venegas"
+    },
+    "name": "Julieta Venegas",
+    "repository": "Local",
+    "tid": "0a36061d-c8c5-4497-8cdd-b0c4adeea22b",
+    "types": [
+      "singers"
+    ]
+  }
+}

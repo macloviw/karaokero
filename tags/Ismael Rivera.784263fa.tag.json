@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Ismael Rivera"
+    },
+    "name": "Ismael Rivera",
+    "repository": "Local",
+    "tid": "784263fa-24e3-43f2-9f1c-aa2ea042afd7",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DIMENCION LATINA"
+    },
+    "name": "DIMENCION LATINA",
+    "repository": "Local",
+    "tid": "2844ca53-2b8c-4764-9785-daffeeeee6b4",
+    "types": [
+      "singers"
+    ]
+  }
+}

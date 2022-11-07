@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Billy Mo"
+    },
+    "name": "Billy Mo",
+    "repository": "Local",
+    "tid": "cc8bb309-3065-4ada-9ddb-bea9a192e944",
+    "types": [
+      "singers"
+    ]
+  }
+}

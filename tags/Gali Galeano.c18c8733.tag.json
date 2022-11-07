@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Gali Galeano"
+    },
+    "name": "Gali Galeano",
+    "repository": "Local",
+    "tid": "c18c8733-30ef-4106-ab0d-c79db6ac9cff",
+    "types": [
+      "singers"
+    ]
+  }
+}

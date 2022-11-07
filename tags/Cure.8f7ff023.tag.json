@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Cure"
+    },
+    "name": "Cure",
+    "repository": "Local",
+    "tid": "8f7ff023-3c30-42c5-ab9a-f73e59ab5d6b",
+    "types": [
+      "singers"
+    ]
+  }
+}

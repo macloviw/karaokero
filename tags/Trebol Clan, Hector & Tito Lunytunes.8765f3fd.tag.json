@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Trebol Clan, Hector & Tito Lunytunes"
+    },
+    "name": "Trebol Clan, Hector & Tito Lunytunes",
+    "repository": "Local",
+    "tid": "8765f3fd-1798-4ac1-a0b6-2bcf59079cce",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Heritage"
+    },
+    "name": "Heritage",
+    "repository": "Local",
+    "tid": "52db07f3-1582-4935-bdf6-f40298232f86",
+    "types": [
+      "singers"
+    ]
+  }
+}

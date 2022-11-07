@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Los Vecinos"
+    },
+    "name": "Los Vecinos",
+    "repository": "Local",
+    "tid": "7a04bf6b-2226-471e-84dc-f4d61cd8e229",
+    "types": [
+      "singers"
+    ]
+  }
+}

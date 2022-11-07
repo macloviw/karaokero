@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "D.L.G."
+    },
+    "name": "D.L.G.",
+    "repository": "Local",
+    "tid": "c6b9d124-c2cb-419c-ae27-7a5a005588b5",
+    "types": [
+      "singers"
+    ]
+  }
+}

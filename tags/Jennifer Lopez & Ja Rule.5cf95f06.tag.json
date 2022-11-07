@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jennifer Lopez & Ja Rule"
+    },
+    "name": "Jennifer Lopez & Ja Rule",
+    "repository": "Local",
+    "tid": "5cf95f06-aa4b-4f8e-a99d-966ca73c41c3",
+    "types": [
+      "singers"
+    ]
+  }
+}

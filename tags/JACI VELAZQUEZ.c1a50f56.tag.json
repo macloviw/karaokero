@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JACI VELAZQUEZ"
+    },
+    "name": "JACI VELAZQUEZ",
+    "repository": "Local",
+    "tid": "c1a50f56-10f2-40f9-b55e-4dc25a4956d3",
+    "types": [
+      "singers"
+    ]
+  }
+}

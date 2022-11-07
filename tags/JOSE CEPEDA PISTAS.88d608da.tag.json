@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JOSE CEPEDA PISTAS"
+    },
+    "name": "JOSE CEPEDA PISTAS",
+    "repository": "Local",
+    "tid": "88d608da-3747-4f0a-83ab-2c9b3eb9fae7",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fausto Rey"
+    },
+    "name": "Fausto Rey",
+    "repository": "Local",
+    "tid": "7c2d7693-0c8d-4752-84f4-31b48ea72490",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "J. Fuller"
+    },
+    "name": "J. Fuller",
+    "repository": "Local",
+    "tid": "255c5703-c73e-411b-8bc7-d0bc60c9507c",
+    "types": [
+      "singers"
+    ]
+  }
+}

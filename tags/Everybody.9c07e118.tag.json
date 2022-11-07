@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Everybody"
+    },
+    "name": "Everybody",
+    "repository": "Local",
+    "tid": "9c07e118-9003-40b1-b4b1-a3c48c013b07",
+    "types": [
+      "singers"
+    ]
+  }
+}

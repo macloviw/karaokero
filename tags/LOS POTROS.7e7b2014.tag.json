@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOS POTROS"
+    },
+    "name": "LOS POTROS",
+    "repository": "Local",
+    "tid": "7e7b2014-76cf-40bf-84a1-ecc5f47e99bc",
+    "types": [
+      "singers"
+    ]
+  }
+}

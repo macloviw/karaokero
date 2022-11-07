@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Miguel Ríos"
+    },
+    "name": "Miguel Ríos",
+    "repository": "Local",
+    "tid": "afd55956-00a1-411d-beff-112cf24f6597",
+    "types": [
+      "singers"
+    ]
+  }
+}

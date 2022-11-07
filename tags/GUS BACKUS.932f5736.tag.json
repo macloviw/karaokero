@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "GUS BACKUS"
+    },
+    "name": "GUS BACKUS",
+    "repository": "Local",
+    "tid": "932f5736-8903-45b5-994a-dfe36cc968bb",
+    "types": [
+      "singers"
+    ]
+  }
+}

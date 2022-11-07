@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Maria Martha Serra Lima"
+    },
+    "name": "Maria Martha Serra Lima",
+    "repository": "Local",
+    "tid": "8f14c0bc-6009-451f-b623-04173afa3bc5",
+    "types": [
+      "singers"
+    ]
+  }
+}

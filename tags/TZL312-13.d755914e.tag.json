@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TZL312-13"
+    },
+    "name": "TZL312-13",
+    "repository": "Local",
+    "tid": "d755914e-ee36-4ff6-a53b-e4561e144a96",
+    "types": [
+      "singers"
+    ]
+  }
+}

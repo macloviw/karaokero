@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUIS MIHUEL"
+    },
+    "name": "LUIS MIHUEL",
+    "repository": "Local",
+    "tid": "66d60d12-24f4-41b3-976a-088c8d550cf7",
+    "types": [
+      "singers"
+    ]
+  }
+}

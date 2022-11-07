@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jesus Adrian Romero"
+    },
+    "name": "Jesus Adrian Romero",
+    "repository": "Local",
+    "tid": "fbc18f94-99ef-4167-b439-c71e5a69d266",
+    "types": [
+      "singers"
+    ]
+  }
+}

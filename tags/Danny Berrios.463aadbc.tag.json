@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Danny Berrios"
+    },
+    "name": "Danny Berrios",
+    "repository": "Local",
+    "tid": "463aadbc-7139-4f06-a1cf-2847f5d755e2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dionne Warwick"
+    },
+    "name": "Dionne Warwick",
+    "repository": "Local",
+    "tid": "00e1498d-1ae7-4328-9c1f-7fb687921d44",
+    "types": [
+      "singers"
+    ]
+  }
+}

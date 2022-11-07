@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "KIKE SANTANDER"
+    },
+    "name": "KIKE SANTANDER",
+    "repository": "Local",
+    "tid": "216b2cc0-2c40-41f7-b5c3-99836b33da43",
+    "types": [
+      "singers"
+    ]
+  }
+}

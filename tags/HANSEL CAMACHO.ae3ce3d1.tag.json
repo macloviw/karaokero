@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HANSEL CAMACHO"
+    },
+    "name": "HANSEL CAMACHO",
+    "repository": "Local",
+    "tid": "ae3ce3d1-a891-464a-a472-8b97073c012d",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Rozalla"
+    },
+    "name": "Rozalla",
+    "repository": "Local",
+    "tid": "47f74996-3b7d-4cd8-91eb-8945c760d928",
+    "types": [
+      "singers"
+    ]
+  }
+}

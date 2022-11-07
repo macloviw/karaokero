@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Del Shannon"
+    },
+    "name": "Del Shannon",
+    "repository": "Local",
+    "tid": "2857ac3b-9c3e-4c3e-811b-8e568aa8d1f8",
+    "types": [
+      "singers"
+    ]
+  }
+}

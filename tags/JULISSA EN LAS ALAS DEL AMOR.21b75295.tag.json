@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "JULISSA EN LAS ALAS DEL AMOR"
+    },
+    "name": "JULISSA EN LAS ALAS DEL AMOR",
+    "repository": "Local",
+    "tid": "21b75295-439a-45c3-a93e-a0cf85d90abd",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LOLA FLORES"
+    },
+    "name": "LOLA FLORES",
+    "repository": "Local",
+    "tid": "0d61ec1c-97ec-4594-a51a-cf68a699b66d",
+    "types": [
+      "singers"
+    ]
+  }
+}

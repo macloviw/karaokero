@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Trio Los Condes"
+    },
+    "name": "Trio Los Condes",
+    "repository": "Local",
+    "tid": "bacbc20a-3b3a-48b7-ac46-1d43b5b50a36",
+    "types": [
+      "singers"
+    ]
+  }
+}

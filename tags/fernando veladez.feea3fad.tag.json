@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "fernando veladez"
+    },
+    "name": "fernando veladez",
+    "repository": "Local",
+    "tid": "feea3fad-a6c8-4788-b522-c6ea689cdda3",
+    "types": [
+      "singers"
+    ]
+  }
+}

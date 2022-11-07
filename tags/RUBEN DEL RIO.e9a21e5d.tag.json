@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "RUBEN DEL RIO"
+    },
+    "name": "RUBEN DEL RIO",
+    "repository": "Local",
+    "tid": "e9a21e5d-773b-43ee-9650-2117364a587e",
+    "types": [
+      "singers"
+    ]
+  }
+}

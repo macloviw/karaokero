@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MI FORMA DE SER"
+    },
+    "name": "MI FORMA DE SER",
+    "repository": "Local",
+    "tid": "fa6746a8-93cb-4dc0-aceb-93b828847fc7",
+    "types": [
+      "singers"
+    ]
+  }
+}

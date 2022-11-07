@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "SAMUEL HERNANDEZ LEVANTA TUS"
+    },
+    "name": "SAMUEL HERNANDEZ LEVANTA TUS",
+    "repository": "Local",
+    "tid": "dcbc9dc4-95cc-41df-91e3-9740242f56bd",
+    "types": [
+      "singers"
+    ]
+  }
+}

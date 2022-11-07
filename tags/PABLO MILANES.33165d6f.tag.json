@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PABLO MILANES"
+    },
+    "name": "PABLO MILANES",
+    "repository": "Local",
+    "tid": "33165d6f-e28f-4736-8664-c4bb072f106d",
+    "types": [
+      "singers"
+    ]
+  }
+}

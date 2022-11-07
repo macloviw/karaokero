@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Edwin Starr"
+    },
+    "name": "Edwin Starr",
+    "repository": "Local",
+    "tid": "9d2960fb-7d7f-46c1-912e-be2b6e1e0dc2",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "PETER CRUZ"
+    },
+    "name": "PETER CRUZ",
+    "repository": "Local",
+    "tid": "906b368d-4942-40f2-9451-ffb2a3d59943",
+    "types": [
+      "singers"
+    ]
+  }
+}

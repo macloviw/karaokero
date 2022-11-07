@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Grupo Raices"
+    },
+    "name": "Grupo Raices",
+    "repository": "Local",
+    "tid": "e20e7a6c-3fa7-4975-ac10-d5bd2b6f0b82",
+    "types": [
+      "singers"
+    ]
+  }
+}

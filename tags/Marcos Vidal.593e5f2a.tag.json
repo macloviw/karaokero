@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Marcos Vidal"
+    },
+    "name": "Marcos Vidal",
+    "repository": "Local",
+    "tid": "593e5f2a-8757-4926-b6d3-7a98afe3c8ed",
+    "types": [
+      "singers"
+    ]
+  }
+}

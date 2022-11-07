@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "OLGA LARA"
+    },
+    "name": "OLGA LARA",
+    "repository": "Local",
+    "tid": "1fd9e671-7e2c-4b11-b875-6e6ca7caf388",
+    "types": [
+      "singers"
+    ]
+  }
+}

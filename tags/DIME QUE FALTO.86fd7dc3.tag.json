@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DIME QUE FALTO"
+    },
+    "name": "DIME QUE FALTO",
+    "repository": "Local",
+    "tid": "86fd7dc3-d7c8-4a09-87f4-8c1d356fbe33",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LA COCO BAND"
+    },
+    "name": "LA COCO BAND",
+    "repository": "Local",
+    "tid": "49bb0f29-feab-422c-964e-37870550c783",
+    "types": [
+      "singers"
+    ]
+  }
+}

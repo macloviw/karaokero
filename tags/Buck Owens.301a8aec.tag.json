@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Buck Owens"
+    },
+    "name": "Buck Owens",
+    "repository": "Local",
+    "tid": "301a8aec-959e-4d8d-9312-b4d34d336b09",
+    "types": [
+      "singers"
+    ]
+  }
+}

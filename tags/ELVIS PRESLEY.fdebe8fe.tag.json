@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "ELVIS PRESLEY"
+    },
+    "name": "ELVIS PRESLEY",
+    "repository": "Local",
+    "tid": "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9",
+    "types": [
+      "singers"
+    ]
+  }
+}

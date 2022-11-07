@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "juanes y nelly furtado"
+    },
+    "name": "juanes y nelly furtado",
+    "repository": "Local",
+    "tid": "f6427455-9c3e-4bc7-bd88-bf7b8c161546",
+    "types": [
+      "singers"
+    ]
+  }
+}

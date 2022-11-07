@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jesus Adrian Romero & Marcela Gandara"
+    },
+    "name": "Jesus Adrian Romero & Marcela Gandara",
+    "repository": "Local",
+    "tid": "2e6a7d8b-ffdd-402e-b831-7e84316f26e6",
+    "types": [
+      "singers"
+    ]
+  }
+}

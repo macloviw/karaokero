@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Dioni Fernandez"
+    },
+    "name": "Dioni Fernandez",
+    "repository": "Local",
+    "tid": "cc87d3a2-7520-46c6-a3d2-f8942dc2b84c",
+    "types": [
+      "singers"
+    ]
+  }
+}

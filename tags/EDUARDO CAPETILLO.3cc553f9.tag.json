@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "EDUARDO CAPETILLO"
+    },
+    "name": "EDUARDO CAPETILLO",
+    "repository": "Local",
+    "tid": "3cc553f9-2055-4818-aa46-1b140570edf2",
+    "types": [
+      "singers"
+    ]
+  }
+}

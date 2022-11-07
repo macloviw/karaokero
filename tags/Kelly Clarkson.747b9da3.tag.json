@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Kelly Clarkson"
+    },
+    "name": "Kelly Clarkson",
+    "repository": "Local",
+    "tid": "747b9da3-ae90-4e6f-9726-7fb76becd40e",
+    "types": [
+      "singers"
+    ]
+  }
+}

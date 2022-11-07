@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "MARVIN SANTIAGO"
+    },
+    "name": "MARVIN SANTIAGO",
+    "repository": "Local",
+    "tid": "5c228b69-2c9d-47cf-b84f-73bcda8720d1",
+    "types": [
+      "singers"
+    ]
+  }
+}

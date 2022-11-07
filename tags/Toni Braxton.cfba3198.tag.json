@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Toni Braxton"
+    },
+    "name": "Toni Braxton",
+    "repository": "Local",
+    "tid": "cfba3198-e715-47c5-bcc0-ebb2724eef22",
+    "types": [
+      "singers"
+    ]
+  }
+}

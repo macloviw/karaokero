@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "WILKINS"
+    },
+    "name": "WILKINS",
+    "repository": "Local",
+    "tid": "052fcd66-33f2-458b-8dac-ac00286efc67",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Heart"
+    },
+    "name": "Heart",
+    "repository": "Local",
+    "tid": "4e8e4622-7ef9-44ad-b69a-5123a233bf7f",
+    "types": [
+      "singers"
+    ]
+  }
+}

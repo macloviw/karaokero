@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jehu El Rey"
+    },
+    "name": "Jehu El Rey",
+    "repository": "Local",
+    "tid": "afe4eaa7-ded1-4daa-a022-948f47620838",
+    "types": [
+      "singers"
+    ]
+  }
+}

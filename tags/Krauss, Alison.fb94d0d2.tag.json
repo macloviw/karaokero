@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Krauss, Alison"
+    },
+    "name": "Krauss, Alison",
+    "repository": "Local",
+    "tid": "fb94d0d2-1ccc-4825-aa6d-87664faa04c8",
+    "types": [
+      "singers"
+    ]
+  }
+}

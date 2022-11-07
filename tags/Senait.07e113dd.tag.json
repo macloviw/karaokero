@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Senait"
+    },
+    "name": "Senait",
+    "repository": "Local",
+    "tid": "07e113dd-5025-4cef-97e2-ac1702194c1f",
+    "types": [
+      "singers"
+    ]
+  }
+}

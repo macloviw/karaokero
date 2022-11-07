@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CHUCHO AVELLANET"
+    },
+    "name": "CHUCHO AVELLANET",
+    "repository": "Local",
+    "tid": "ac1d1f36-d116-48c6-a00e-e6408bdb3bf2",
+    "types": [
+      "singers"
+    ]
+  }
+}

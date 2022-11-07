@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DIANGO"
+    },
+    "name": "DIANGO",
+    "repository": "Local",
+    "tid": "1fb819a0-27aa-445b-a47f-ac4a1bb22285",
+    "types": [
+      "singers"
+    ]
+  }
+}

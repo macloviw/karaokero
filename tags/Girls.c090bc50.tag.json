@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Girls"
+    },
+    "name": "Girls",
+    "repository": "Local",
+    "tid": "c090bc50-a37a-4a5f-b9a1-9f7d7dd85ed8",
+    "types": [
+      "singers"
+    ]
+  }
+}

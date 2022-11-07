@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "TE SOÑE"
+    },
+    "name": "TE SOÑE",
+    "repository": "Local",
+    "tid": "abea3c24-47ea-4711-89f2-b908142ef742",
+    "types": [
+      "singers"
+    ]
+  }
+}

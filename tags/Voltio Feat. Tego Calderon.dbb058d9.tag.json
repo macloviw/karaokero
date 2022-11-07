@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Voltio Feat. Tego Calderon"
+    },
+    "name": "Voltio Feat. Tego Calderon",
+    "repository": "Local",
+    "tid": "dbb058d9-3f4a-4767-8b45-3996029765f1",
+    "types": [
+      "singers"
+    ]
+  }
+}

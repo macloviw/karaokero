@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "El Jibarito de Lares"
+    },
+    "name": "El Jibarito de Lares",
+    "repository": "Local",
+    "tid": "89df9a63-2e1b-4d30-bb2c-a8a7e877a47b",
+    "types": [
+      "singers"
+    ]
+  }
+}

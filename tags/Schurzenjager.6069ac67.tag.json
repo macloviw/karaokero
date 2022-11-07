@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Schürzenjäger"
+    },
+    "name": "Schürzenjäger",
+    "repository": "Local",
+    "tid": "6069ac67-7e0a-4924-8138-6ab5c8577489",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Jymmy Buffett"
+    },
+    "name": "Jymmy Buffett",
+    "repository": "Local",
+    "tid": "12e89ec3-2b77-4c2e-a669-38626321393c",
+    "types": [
+      "singers"
+    ]
+  }
+}

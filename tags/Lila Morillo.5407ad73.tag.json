@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Lila Morillo"
+    },
+    "name": "Lila Morillo",
+    "repository": "Local",
+    "tid": "5407ad73-6165-4fb9-a5dc-ebb0b33e0942",
+    "types": [
+      "singers"
+    ]
+  }
+}

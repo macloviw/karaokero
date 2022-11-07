@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "LUIS 111"
+    },
+    "name": "LUIS 111",
+    "repository": "Local",
+    "tid": "07acb91c-2e0d-4c6f-97ac-55c76ed1b6d1",
+    "types": [
+      "singers"
+    ]
+  }
+}

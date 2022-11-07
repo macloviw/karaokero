@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "DEMENTE"
+    },
+    "name": "DEMENTE",
+    "repository": "Local",
+    "tid": "36d4d1c7-62db-4231-9026-92fcdb47fba1",
+    "types": [
+      "singers"
+    ]
+  }
+}

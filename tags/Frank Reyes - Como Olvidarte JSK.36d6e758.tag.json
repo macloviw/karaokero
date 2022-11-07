@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Frank Reyes - Como Olvidarte JSK"
+    },
+    "name": "Frank Reyes - Como Olvidarte JSK",
+    "repository": "Local",
+    "tid": "36d6e758-a4aa-4141-b535-a13cd2a19da9",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "HECTOR LAVOE"
+    },
+    "name": "HECTOR LAVOE",
+    "repository": "Local",
+    "tid": "c6ec39f6-3b03-4392-b79f-4b2486509320",
+    "types": [
+      "singers"
+    ]
+  }
+}

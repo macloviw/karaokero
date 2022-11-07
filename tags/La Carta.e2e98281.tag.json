@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "La Carta"
+    },
+    "name": "La Carta",
+    "repository": "Local",
+    "tid": "e2e98281-71de-4983-8807-abf2fff112b1",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "CAMBOY ESTEVES"
+    },
+    "name": "CAMBOY ESTEVES",
+    "repository": "Local",
+    "tid": "0dfcfcbc-120c-4694-bcc1-77026445f360",
+    "types": [
+      "singers"
+    ]
+  }
+}

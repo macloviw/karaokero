@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Fernando De Madariaga"
+    },
+    "name": "Fernando De Madariaga",
+    "repository": "Local",
+    "tid": "bb360225-1821-4f31-a051-9c5b4d4b7d53",
+    "types": [
+      "singers"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "description": "Karaoke Mugen Tag File",
+    "version": 1
+  },
+  "tag": {
+    "i18n": {
+      "eng": "Michel El Buenon"
+    },
+    "name": "Michel El Buenon",
+    "repository": "Local",
+    "tid": "ae49c221-cde7-478c-bdb6-236af246cc9a",
+    "types": [
+      "singers"
+    ]
+  }
+}
