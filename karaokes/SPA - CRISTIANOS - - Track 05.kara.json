@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Track 05.mp3",
+      "loudnorm": "-19.43,-1.36,7.50,-29.54,-0.68",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Track 05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f5c0248e-a24c-4a0f-b5ae-35ff722b50f5",
+    "title": "Track 05",
+    "titles": {
+      "spa": "Track 05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:07:06.813Z",
+    "modified_at": "2022-11-03T14:07:07.233Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_65969b92e2dc96af07b0aa80c58231cd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7672154,
+      "gain": 0.71,
+      "duration": 319,
+      "loudnorm": "-19.43,-1.36,7.50,-29.54,-0.68",
+      "filename": "processed_0b3a15e30a451ea12f37e3f3daf89116.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

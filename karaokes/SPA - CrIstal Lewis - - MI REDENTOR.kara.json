@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CrIstal Lewis - - MI REDENTOR.mp3",
+      "loudnorm": "-11.17,1.50,7.80,-21.38,-1.18",
+      "duration": 312,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CrIstal Lewis - - MI REDENTOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "86bfa5d8-8db3-42ef-9a87-6cd614690bc7",
+    "title": "MI REDENTOR",
+    "titles": {
+      "spa": "MI REDENTOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "469ea947-53c7-4603-9203-2d76d51afe4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:35:21.649Z",
+    "modified_at": "2022-11-03T23:35:22.039Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b7f321f7f56ddb4aff9b33e2c63d024.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4997633,
+      "gain": -6.54,
+      "duration": 312,
+      "loudnorm": "-11.17,1.50,7.80,-21.38,-1.18",
+      "filename": "processed_a4f217d068becb9d3f38265a8d08042f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

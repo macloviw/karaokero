@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL TORITO - - Hector Acosta Amorcito Enfermito AS.mp3",
+      "loudnorm": "-13.13,0.48,2.70,-23.48,-0.63",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL TORITO - - Hector Acosta Amorcito Enfermito AS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "08c7a7a9-253c-47ab-a14d-0bc3ced4fa96",
+    "title": "Hector Acosta    Amorcito Enfermito AS",
+    "titles": {
+      "spa": "Hector Acosta    Amorcito Enfermito AS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:29:55.003Z",
+    "modified_at": "2022-11-02T23:29:55.422Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_28b8c93ee8563013ff6cb3d629363fa9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10214666,
+      "gain": -4.23,
+      "duration": 255,
+      "loudnorm": "-13.13,0.48,2.70,-23.48,-0.63",
+      "filename": "processed_ad99d58f370cd7a5100de99e1fe89acf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

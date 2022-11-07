@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Rosalita.mp3",
+      "loudnorm": "-13.76,-0.29,3.20,-23.78,-0.62",
+      "duration": 441,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Rosalita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d4eba20-4e9d-41d6-8b8a-f1d5c574ccd0",
+    "title": "Bruce Springsteen - Rosalita",
+    "titles": {
+      "spa": "Bruce Springsteen - Rosalita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:29:35.458Z",
+    "modified_at": "2022-11-03T15:29:35.885Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03214efe807eb94ff64fe63125631ba9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7061516,
+      "gain": -3.14,
+      "duration": 441,
+      "loudnorm": "-13.76,-0.29,3.20,-23.78,-0.62",
+      "filename": "processed_994ea061daee0cc8ee553d5ef7d12f11.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

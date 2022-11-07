@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 05 - Jose Jose - Como fue.mp3",
+      "loudnorm": "-11.94,0.10,4.50,-22.06,-0.31",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 05 - Jose Jose - Como fue.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bfcd93a0-51e1-4f9f-80a3-9f3d7acf8888",
+    "title": "05 - Jose Jose - Como fue",
+    "titles": {
+      "spa": "05 - Jose Jose - Como fue"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:39:58.592Z",
+    "modified_at": "2022-11-03T06:39:59.011Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ed1b37689f3cae7a0c7b4f6eb25db76a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4717391,
+      "gain": -5.87,
+      "duration": 196,
+      "loudnorm": "-11.94,0.10,4.50,-22.06,-0.31",
+      "filename": "processed_07fcb83d4d5fa71d217412866a8bcf2b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

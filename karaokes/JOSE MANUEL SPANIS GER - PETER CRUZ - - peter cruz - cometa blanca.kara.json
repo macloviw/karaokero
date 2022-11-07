@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PETER CRUZ - - peter cruz - cometa blanca.mp3",
+      "loudnorm": "-10.89,0.07,4.30,-21.10,-1.18",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PETER CRUZ - - peter cruz - cometa blanca.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cfe32610-983a-4e06-9154-cdba30c65b75",
+    "title": "peter cruz - cometa blanca",
+    "titles": {
+      "spa": "peter cruz - cometa blanca"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "906b368d-4942-40f2-9451-ffb2a3d59943"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:54:34.058Z",
+    "modified_at": "2022-11-04T10:54:34.442Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b2e751ca8ed914c7711f16161611d270.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7442781,
+      "gain": -7.91,
+      "duration": 265,
+      "loudnorm": "-10.89,0.07,4.30,-21.10,-1.18",
+      "filename": "processed_717981bad7472542f92a5f4b619c25db.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

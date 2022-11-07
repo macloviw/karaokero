@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- No Me Amenaces.mp3",
+      "loudnorm": "-12.32,0.47,2.40,-22.70,-0.81",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- No Me Amenaces.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3e000bff-8a9b-4dbc-bdc5-6250aa906af6",
+    "title": "Julio Iglesias- No Me Amenaces",
+    "titles": {
+      "spa": "Julio Iglesias- No Me Amenaces"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:05:33.265Z",
+    "modified_at": "2022-11-03T08:05:33.700Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e41c2cb9cbcb55f0e84d4f740094826.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2882759,
+      "gain": -4.47,
+      "duration": 180,
+      "loudnorm": "-12.32,0.47,2.40,-22.70,-0.81",
+      "filename": "processed_84fc55482a50bf0561869d7b208f0d86.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

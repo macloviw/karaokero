@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector El Torito Acosta & Bachata Heightz - Me Puedo Matar.mp3",
+      "loudnorm": "-13.42,-0.27,2.20,-23.44,-0.16",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector El Torito Acosta & Bachata Heightz - Me Puedo Matar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fdc439e0-d519-43e0-9897-44e54dc69442",
+    "title": "Hector El Torito Acosta & Bachata Heightz - Me Puedo Matar",
+    "titles": {
+      "spa": "Hector El Torito Acosta & Bachata Heightz - Me Puedo Matar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:50:11.841Z",
+    "modified_at": "2022-11-02T23:50:12.268Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90384fabbf093eae630617214c632953.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6706042,
+      "gain": -3.51,
+      "duration": 279,
+      "loudnorm": "-13.42,-0.27,2.20,-23.44,-0.16",
+      "filename": "processed_9dce68a924788f79184aa6f2c3e951ca.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

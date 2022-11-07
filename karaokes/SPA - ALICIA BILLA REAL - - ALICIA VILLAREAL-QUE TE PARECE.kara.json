@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-QUE TE PARECE.mp3",
+      "loudnorm": "-9.85,1.89,2.50,-19.97,0.09",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-QUE TE PARECE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f7c5ba0-fc0a-4d87-bd80-4e567e14c9a9",
+    "title": "ALICIA VILLAREAL-QUE TE PARECE",
+    "titles": {
+      "spa": "ALICIA VILLAREAL-QUE TE PARECE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:24:18.359Z",
+    "modified_at": "2022-11-03T01:24:18.781Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dddaae501bfcd62c3e1ff68bcabc65aa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2478988,
+      "gain": -7.42,
+      "duration": 176,
+      "loudnorm": "-9.85,1.89,2.50,-19.97,0.09",
+      "filename": "processed_e72fc81e5f665fd4ec485304764f2fa7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

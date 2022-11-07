@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - lejos de tu vida MAK.mp3",
+      "loudnorm": "-12.40,-1.54,2.10,-22.49,-0.79",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - lejos de tu vida MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bfab053d-fcd9-4dc4-bb63-890417371f78",
+    "title": "Frank Reyes - lejos de tu vida MAK",
+    "titles": {
+      "spa": "Frank Reyes - lejos de tu vida MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:20:29.893Z",
+    "modified_at": "2022-11-04T03:20:30.284Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bdc82f7884b071ec04ddd4282139bf36.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3263939,
+      "gain": -5.14,
+      "duration": 203,
+      "loudnorm": "-12.40,-1.54,2.10,-22.49,-0.79",
+      "filename": "processed_b4b334a92f3cee465aded9c79b9dc67a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

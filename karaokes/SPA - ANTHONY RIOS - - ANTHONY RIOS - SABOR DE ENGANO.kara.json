@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - SABOR DE ENGANO.mp3",
+      "loudnorm": "-11.13,0.04,4.00,-21.14,-0.22",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - SABOR DE ENGANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "daf73229-dbc0-4ff8-88fa-458aede10f5c",
+    "title": "ANTHONY RIOS   -   SABOR DE ENGAÑO",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   SABOR DE ENGAÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:48:51.780Z",
+    "modified_at": "2022-11-03T01:48:52.195Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84631282a28170c7bb8b0a956303fb3c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4377121,
+      "gain": -7.74,
+      "duration": 182,
+      "loudnorm": "-11.13,0.04,4.00,-21.14,-0.22",
+      "filename": "processed_0f2752f26c8c6a274d8055b0995810e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

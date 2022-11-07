@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diego Torres - - Diego Torres - Hasta Cuando.mp3",
+      "audiogain": -4.5,
+      "loudnorm": "-14.34,-1.09,11.90,-24.72,-2.13",
+      "filesize": 5975104,
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diego Torres - - Diego Torres - Hasta Cuando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-11-02T18:48:15.201Z",
+    "ignoreHooks": false,
+    "kid": "6aaf7809-2477-4f4c-a165-5010400c882f",
+    "modified_at": "2022-11-02T18:48:15.767Z",
+    "repository": "Local",
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "genres": [
+        "dcbade43-57c4-4c0e-97a2-e34d48db1fa1"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "singers": [
+        "8abc4391-5a6e-4c15-a74b-43d28684cd27"
+      ],
+      "songtypes": [
+        "c97c09af-8b82-4275-9375-caccc09a7a9f"
+      ]
+    },
+    "titles": {
+      "spa": "Diego Torres - Hasta Cuando"
+    },
+    "titles_default_language": "spa",
+    "title": "Diego Torres - Hasta Cuando",
+    "year": 2022
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO Y COTI - NADA DE ESTO FUE UN HERROR.mp3",
+      "loudnorm": "-6.95,3.88,2.30,-17.08,0.02",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO Y COTI - NADA DE ESTO FUE UN HERROR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f860735-80c4-4809-a3fa-6e25af752de3",
+    "title": "PAULINA RUBIO Y COTI   -   NADA DE ESTO FUE UN HERROR",
+    "titles": {
+      "spa": "PAULINA RUBIO Y COTI   -   NADA DE ESTO FUE UN HERROR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:58:48.119Z",
+    "modified_at": "2022-11-03T21:58:48.606Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1eaa2b5c113bcecea862f5900470f86c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3377152,
+      "gain": -8.47,
+      "duration": 211,
+      "loudnorm": "-6.95,3.88,2.30,-17.08,0.02",
+      "filename": "processed_91d69a9a04d7a77a168bccba872c440b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

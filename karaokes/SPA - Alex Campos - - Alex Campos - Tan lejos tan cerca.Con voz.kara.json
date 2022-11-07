@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alex Campos - - Alex Campos - Tan lejos tan cerca.Con voz.mp3",
+      "loudnorm": "-12.08,0.27,3.20,-22.21,-0.85",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alex Campos - - Alex Campos - Tan lejos tan cerca.Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "caed5944-fccf-4d9f-97fe-16029233bf95",
+    "title": "Alex Campos - Tan lejos tan cerca.Con voz",
+    "titles": {
+      "spa": "Alex Campos - Tan lejos tan cerca.Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7a30161-674c-48e6-918f-8994db748b2c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:22:20.443Z",
+    "modified_at": "2022-11-04T02:22:20.828Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5711b751a296230ca58f897edd752f37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6103553,
+      "gain": -4.92,
+      "duration": 254,
+      "loudnorm": "-12.08,0.27,3.20,-22.21,-0.85",
+      "filename": "processed_3f876ba610e9d883af508a8683a34a5a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

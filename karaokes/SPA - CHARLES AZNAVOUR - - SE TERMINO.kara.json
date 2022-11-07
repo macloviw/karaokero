@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLES AZNAVOUR - - SE TERMINO.MP3",
+      "loudnorm": "-17.98,-0.85,4.10,-28.13,-0.43",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLES AZNAVOUR - - SE TERMINO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "13abc199-d06c-45a0-bfa3-f3e0e7797a8f",
+    "title": "SE TERMINO",
+    "titles": {
+      "spa": "SE TERMINO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "662909a5-fdf8-4eb2-aba8-527bad614f2b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:08:52.953Z",
+    "modified_at": "2022-11-03T03:08:53.424Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2913272,
+      "gain": 0.51,
+      "duration": 181,
+      "loudnorm": "-17.98,-0.85,4.10,-28.13,-0.43",
+      "filename": "processed_5f74b6232d77e35ddb6554e0a64d6f34.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2913272,
+      "gain": 0.51,
+      "duration": 181,
+      "loudnorm": "-17.98,-0.85,4.10,-28.13,-0.43",
+      "filename": "processed_2fd7b08bb84274fe78d14fe9b5d67a77.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

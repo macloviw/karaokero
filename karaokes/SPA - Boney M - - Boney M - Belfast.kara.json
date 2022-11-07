@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Boney M - - Boney M - Belfast.mp3",
+      "loudnorm": "-17.49,0.07,3.70,-27.51,-0.38",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Boney M - - Boney M - Belfast.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fbc1f10f-dc71-47f5-8a39-559e198b8a9f",
+    "title": "Boney M - Belfast",
+    "titles": {
+      "spa": "Boney M - Belfast"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c9ed6a48-9d15-4ad5-8e30-ca13adba4a94"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:07:20.983Z",
+    "modified_at": "2022-11-04T00:07:21.413Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8a832101f67401820e3f65b2287063a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4802865,
+      "gain": -1.3,
+      "duration": 300,
+      "loudnorm": "-17.49,0.07,3.70,-27.51,-0.38",
+      "filename": "processed_4b6e61c6774f893451de36722e007da5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

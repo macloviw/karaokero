@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE GUZMAN - - TU CABEZA EN MI HOMBRO.mp3",
+      "loudnorm": "-14.37,0.36,4.50,-24.81,0.16",
+      "duration": 149,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE GUZMAN - - TU CABEZA EN MI HOMBRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6cc5175d-c42f-443f-86d8-dffcf4d173dc",
+    "title": "TU CABEZA EN MI HOMBRO",
+    "titles": {
+      "spa": "TU CABEZA EN MI HOMBRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e608fe46-d883-435f-995f-185d0e93044a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:55:13.379Z",
+    "modified_at": "2022-11-03T04:55:13.784Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b62ae8473ff5297d4b717774b50538d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3578870,
+      "gain": -3.1,
+      "duration": 149,
+      "loudnorm": "-14.37,0.36,4.50,-24.81,0.16",
+      "filename": "processed_6233ce843b2064e9842c7bf9450d1761.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

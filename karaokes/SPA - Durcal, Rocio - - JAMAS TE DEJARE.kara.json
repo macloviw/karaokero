@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - JAMAS TE DEJARE.mp3",
+      "loudnorm": "-18.39,-0.13,4.40,-28.69,0.05",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - JAMAS TE DEJARE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "89052d3b-3e38-4b61-a114-d3781f880483",
+    "title": "JAMAS TE DEJARE",
+    "titles": {
+      "spa": "JAMAS TE DEJARE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:41:33.171Z",
+    "modified_at": "2022-11-03T12:41:33.560Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8732a14064fc7eda86f055b9e6386c70.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4884784,
+      "gain": 0.25,
+      "duration": 203,
+      "loudnorm": "-18.39,-0.13,4.40,-28.69,0.05",
+      "filename": "processed_ced75ddf4551c759c8a131e4c3ea10e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

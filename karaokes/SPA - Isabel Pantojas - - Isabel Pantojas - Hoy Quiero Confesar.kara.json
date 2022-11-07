@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Hoy Quiero Confesar.MP3",
+      "loudnorm": "-13.30,2.37,5.80,-23.48,-0.23",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Hoy Quiero Confesar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b63ebc3-f86c-4c5d-b615-d63808df0286",
+    "title": "Isabel Pantojas - Hoy Quiero Confesar",
+    "titles": {
+      "spa": "Isabel Pantojas - Hoy Quiero Confesar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "71eaef29-5b1f-44e2-86ef-2332fa38303c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:54:36.527Z",
+    "modified_at": "2022-11-03T05:54:37.118Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4609769,
+      "gain": -2.95,
+      "duration": 287,
+      "loudnorm": "-13.30,2.37,5.80,-23.48,-0.23",
+      "filename": "processed_c33711d3b27ddadb8628d9387b7d55e1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4609769,
+      "gain": -2.95,
+      "duration": 287,
+      "loudnorm": "-13.30,2.37,5.80,-23.48,-0.23",
+      "filename": "processed_28b2800be4c15629783f2d07fddb88d7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

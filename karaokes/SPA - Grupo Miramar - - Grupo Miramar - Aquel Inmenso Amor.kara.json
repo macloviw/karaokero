@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Miramar - - Grupo Miramar - Aquel Inmenso Amor.mp3",
+      "loudnorm": "-15.31,0.39,4.10,-25.36,-0.80",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Miramar - - Grupo Miramar - Aquel Inmenso Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e128cc8-e032-4050-be06-b55476ab0ffb",
+    "title": "Grupo Miramar - Aquel Inmenso Amor",
+    "titles": {
+      "spa": "Grupo Miramar - Aquel Inmenso Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "058b9630-40e6-4a19-869d-d2753e896fc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:22:39.388Z",
+    "modified_at": "2022-11-03T22:22:39.839Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9b2dbed0ef036db3aa69fe9357816217.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3159358,
+      "gain": -2.45,
+      "duration": 225,
+      "loudnorm": "-15.31,0.39,4.10,-25.36,-0.80",
+      "filename": "processed_a2351bfb75ca5f53591385e87743dfd5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

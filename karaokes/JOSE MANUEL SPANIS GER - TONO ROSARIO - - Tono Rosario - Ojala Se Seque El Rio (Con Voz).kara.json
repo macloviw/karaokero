@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Ojala Se Seque El Rio (Con Voz).mp3",
+      "loudnorm": "-11.15,1.46,2.30,-21.30,-0.86",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Ojala Se Seque El Rio (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ff9ee80-028a-4134-b8e8-0d146ea53451",
+    "title": "Toño Rosario - Ojala Se Seque El Rio (Con Voz)",
+    "titles": {
+      "spa": "Toño Rosario - Ojala Se Seque El Rio (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:19:30.013Z",
+    "modified_at": "2022-11-04T11:19:30.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e8c916f43de96854c9dd2c23d409defc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3782656,
+      "gain": -7.73,
+      "duration": 236,
+      "loudnorm": "-11.15,1.46,2.30,-21.30,-0.86",
+      "filename": "processed_59d3a4e1bf4f3b0a218f5bb2dd3ea3a1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

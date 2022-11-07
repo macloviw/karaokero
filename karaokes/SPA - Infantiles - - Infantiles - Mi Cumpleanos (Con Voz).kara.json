@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Infantiles - - Infantiles - Mi Cumpleanos (Con Voz).mp3",
+      "loudnorm": "-10.01,2.49,4.00,-20.11,-0.66",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Infantiles - - Infantiles - Mi Cumpleanos (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a888229-3433-41f0-9caf-94002421dc3c",
+    "title": "Infantiles - Mi Cumpleanos (Con Voz)",
+    "titles": {
+      "spa": "Infantiles - Mi Cumpleanos (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bf77d6bb-d1df-4360-9dd3-14f69677ab9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:34:35.687Z",
+    "modified_at": "2022-11-04T03:34:36.073Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2c0ea954428869ed8baf62099ae21bf7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5031936,
+      "gain": -7.63,
+      "duration": 209,
+      "loudnorm": "-10.01,2.49,4.00,-20.11,-0.66",
+      "filename": "processed_c8b48ac9d030739f9169bdd681aec266.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Super Don Miguelo Feat Antony Santos - - Don Miguelo - 7 locas (Dembow).mp3",
+      "loudnorm": "-8.95,2.35,6.40,-19.06,-1.78",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Super Don Miguelo Feat Antony Santos - - Don Miguelo - 7 locas (Dembow).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "771c33da-0b64-4341-aec3-349d2e22a601",
+    "title": "Don Miguelo - 7 locas (Dembow)",
+    "titles": {
+      "spa": "Don Miguelo - 7 locas (Dembow)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "578d8c92-7927-4009-bdc9-e199c53f3c18"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:37:10.315Z",
+    "modified_at": "2022-11-04T11:37:10.705Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3fd5c079dce534d6d99a9381b7f309ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4947479,
+      "gain": -9.48,
+      "duration": 206,
+      "loudnorm": "-8.95,2.35,6.40,-19.06,-1.78",
+      "filename": "processed_639e89556c4cdaa168a1f2f90ab90e2f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

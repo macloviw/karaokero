@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 07.- Nicola Di Bari - primera cosa bella.mp3",
+      "loudnorm": "-12.11,2.57,12.80,-22.74,-1.60",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 07.- Nicola Di Bari - primera cosa bella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "77462bce-7ff1-43c1-baad-ef08143fddc1",
+    "title": "07.- Nicola Di Bari - primera cosa bella",
+    "titles": {
+      "spa": "07.- Nicola Di Bari - primera cosa bella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:40:32.324Z",
+    "modified_at": "2022-11-04T07:40:32.700Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ad781886a59bf8c1a01a34ddf95b59d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3302344,
+      "gain": -3.96,
+      "duration": 206,
+      "loudnorm": "-12.11,2.57,12.80,-22.74,-1.60",
+      "filename": "processed_08590d5c4b03be3e59f389b2bed646f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

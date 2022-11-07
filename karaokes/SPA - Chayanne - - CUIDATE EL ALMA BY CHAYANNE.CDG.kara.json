@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - CUIDATE EL ALMA BY CHAYANNE.CDG.MP3",
+      "loudnorm": "-15.52,1.05,4.60,-25.60,-0.92",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - CUIDATE EL ALMA BY CHAYANNE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d605fc1-bdc4-4c23-b55c-bfc6e6782251",
+    "title": "CUIDATE EL ALMA BY CHAYANNE.CDG",
+    "titles": {
+      "spa": "CUIDATE EL ALMA BY CHAYANNE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:20:31.768Z",
+    "modified_at": "2022-11-03T03:20:32.259Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4203383,
+      "gain": -1.9,
+      "duration": 262,
+      "loudnorm": "-15.52,1.05,4.60,-25.60,-0.92",
+      "filename": "processed_18a8f36dae18b2106ff91709c6df3e9e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4203383,
+      "gain": -1.9,
+      "duration": 262,
+      "loudnorm": "-15.52,1.05,4.60,-25.60,-0.92",
+      "filename": "processed_462288d489265938298bdf0e56088844.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

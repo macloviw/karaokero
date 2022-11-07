@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniela Romo - - Daniela Romo - Todo, todo, todo.mp3",
+      "loudnorm": "-13.14,0.52,3.40,-23.27,-0.52",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniela Romo - - Daniela Romo - Todo, todo, todo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ac456aa4-9bad-4c79-b876-ad087da11f1c",
+    "title": "Daniela Romo - Todo, todo, todo",
+    "titles": {
+      "spa": "Daniela Romo - Todo, todo, todo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c9055891-729e-44ce-bf42-3b359f73ae48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:54:01.269Z",
+    "modified_at": "2022-11-03T03:54:01.709Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_097d59a44398a38dcad6d978c92b8def.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4072745,
+      "gain": -4.78,
+      "duration": 254,
+      "loudnorm": "-13.14,0.52,3.40,-23.27,-0.52",
+      "filename": "processed_49f6e7307df862d85f5203fc7db55bd9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

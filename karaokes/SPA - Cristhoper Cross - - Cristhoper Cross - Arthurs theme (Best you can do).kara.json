@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cristhoper Cross - - Cristhoper Cross - Arthurs theme (Best you can do).MP3",
+      "loudnorm": "-27.80,-9.35,10.60,-38.17,-2.00",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cristhoper Cross - - Cristhoper Cross - Arthurs theme (Best you can do).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "215e0826-1d9c-4c1e-964a-3e761cf8ee87",
+    "title": "Cristhoper Cross -  Arthurs theme (Best you can do)",
+    "titles": {
+      "spa": "Cristhoper Cross -  Arthurs theme (Best you can do)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5b77f7c9-6abf-455b-951a-d27f5f42d1d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:15:45.663Z",
+    "modified_at": "2022-11-04T00:15:46.325Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9881697,
+      "gain": 8.49,
+      "duration": 246,
+      "loudnorm": "-27.80,-9.35,10.60,-38.17,-2.00",
+      "filename": "processed_d7259acd4d9206fa4251bc6f7d569fb8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9881697,
+      "gain": 8.49,
+      "duration": 246,
+      "loudnorm": "-27.80,-9.35,10.60,-38.17,-2.00",
+      "filename": "processed_12be6440aecfbe63af2f142d37ea80cc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

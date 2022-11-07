@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - Surfin' USA.mp3",
+      "loudnorm": "-10.13,1.12,2.50,-20.34,-2.14",
+      "duration": 159,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - Surfin' USA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "86fb2e97-d7cf-4042-95a5-9aba2f992f84",
+    "title": "Beach Boys - Surfin' USA",
+    "titles": {
+      "spa": "Beach Boys - Surfin' USA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:55:44.592Z",
+    "modified_at": "2022-11-03T14:55:45.017Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_edd5490d3c057f545d8f22e521141be1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4777367,
+      "gain": -7.71,
+      "duration": 159,
+      "loudnorm": "-10.13,1.12,2.50,-20.34,-2.14",
+      "filename": "processed_31413115b9c9a6177d579b3df95103ed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

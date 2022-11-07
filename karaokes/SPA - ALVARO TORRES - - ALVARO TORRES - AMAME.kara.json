@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALVARO TORRES - - ALVARO TORRES - AMAME.mp3",
+      "loudnorm": "-17.36,-1.86,5.00,-27.54,-0.09",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALVARO TORRES - - ALVARO TORRES - AMAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8bfe301-0559-46a5-9d0c-7efc95c14236",
+    "title": "ALVARO TORRES - AMAME",
+    "titles": {
+      "spa": "ALVARO TORRES - AMAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "66f544ca-7f1c-4abf-8626-af3d0dec3483"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:30:22.940Z",
+    "modified_at": "2022-11-03T01:30:23.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c9029cf1744f3b08d47fc2e942a48fc3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3442280,
+      "gain": -0.09,
+      "duration": 215,
+      "loudnorm": "-17.36,-1.86,5.00,-27.54,-0.09",
+      "filename": "processed_959e1da7a4d2c14731871f7be244c140.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

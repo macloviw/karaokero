@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eddy Grant - - Eddy Grant - Baby come back.MP3",
+      "loudnorm": "-12.65,1.35,0.90,-22.82,-0.44",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eddy Grant - - Eddy Grant - Baby come back.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5ed4254c-1b98-47d6-abc6-8c69baf13e7a",
+    "title": "Eddy Grant - Baby come back",
+    "titles": {
+      "spa": "Eddy Grant - Baby come back"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "eb5b7e83-87ee-4614-b1e9-1c89cf0f762b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:24:23.571Z",
+    "modified_at": "2022-11-04T00:24:24.282Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4130786,
+      "gain": -4.12,
+      "duration": 258,
+      "loudnorm": "-12.65,1.35,0.90,-22.82,-0.44",
+      "filename": "processed_d008c1eafc0b7d714337040eefab78e7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4130786,
+      "gain": -4.12,
+      "duration": 258,
+      "loudnorm": "-12.65,1.35,0.90,-22.82,-0.44",
+      "filename": "processed_5d7f8f6559dd45b9ad3f3a6d5a612ce4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

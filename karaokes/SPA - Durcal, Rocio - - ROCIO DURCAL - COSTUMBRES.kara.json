@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - COSTUMBRES.mp3",
+      "loudnorm": "-21.11,-5.48,3.10,-31.15,-0.52",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - COSTUMBRES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae3aa5a1-c37c-4d96-aefe-004f72dee12d",
+    "title": "ROCIO DURCAL - COSTUMBRES",
+    "titles": {
+      "spa": "ROCIO DURCAL - COSTUMBRES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:42:53.406Z",
+    "modified_at": "2022-11-03T12:42:53.901Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee8de9b9fbd0e3b23c4774497dad56e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6341163,
+      "gain": 3.4,
+      "duration": 264,
+      "loudnorm": "-21.11,-5.48,3.10,-31.15,-0.52",
+      "filename": "processed_ddfa9208dc4325917a00d63df2da62ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - DESESPERACION.mp3",
+      "loudnorm": "-19.99,-4.32,5.40,-30.12,-0.52",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - DESESPERACION.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "765baa9b-c318-4d52-987e-edc1aa8c1956",
+    "title": "ANTHONY RIOS - DESESPERACION",
+    "titles": {
+      "spa": "ANTHONY RIOS - DESESPERACION"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:51:07.280Z",
+    "modified_at": "2022-11-03T01:51:07.693Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_228323fe0da7276b9a741b9c450e4014.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6095488,
+      "gain": 1.38,
+      "duration": 217,
+      "loudnorm": "-19.99,-4.32,5.40,-30.12,-0.52",
+      "filename": "processed_d0c1bd25414a5511721774e502f49d16.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

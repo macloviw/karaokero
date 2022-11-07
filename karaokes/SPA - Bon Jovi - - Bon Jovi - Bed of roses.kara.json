@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bon Jovi - - Bon Jovi - Bed of roses.mp3",
+      "loudnorm": "-17.94,-0.79,8.50,-28.05,-1.10",
+      "duration": 406,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bon Jovi - - Bon Jovi - Bed of roses.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99993524-aa2a-4e0c-836c-d5e1e638e735",
+    "title": "Bon Jovi - Bed of roses",
+    "titles": {
+      "spa": "Bon Jovi - Bed of roses"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f7085e28-5d70-4bf1-97f2-9e9750c2d9ed"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:18:21.728Z",
+    "modified_at": "2022-11-03T15:18:22.245Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_60f4753b02ef3b8da098d1b0d2a40406.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9749202,
+      "gain": -0.22,
+      "duration": 406,
+      "loudnorm": "-17.94,-0.79,8.50,-28.05,-1.10",
+      "filename": "processed_a3ce5cc4021a4e5d81df44cb58252147.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

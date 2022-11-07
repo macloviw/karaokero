@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eddie Cochran - - Eddie Cochran - Three steps to heaven.mp3",
+      "loudnorm": "-13.09,0.64,1.70,-23.24,-0.93",
+      "duration": 156,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eddie Cochran - - Eddie Cochran - Three steps to heaven.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6b74f1f-7868-4206-9d1d-d59b3bc3865b",
+    "title": "Eddie Cochran - Three steps to heaven",
+    "titles": {
+      "spa": "Eddie Cochran - Three steps to heaven"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f0e2385c-a143-4e81-8cd6-48555bac81a1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:20:11.166Z",
+    "modified_at": "2022-11-03T16:20:11.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_53543cc44029d435c30c5e29462bff05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2500746,
+      "gain": -3.24,
+      "duration": 156,
+      "loudnorm": "-13.09,0.64,1.70,-23.24,-0.93",
+      "filename": "processed_9b325f9433851b6d6d7cdf304e66e4e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

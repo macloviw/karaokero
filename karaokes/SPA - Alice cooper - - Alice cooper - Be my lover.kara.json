@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alice cooper - - Alice cooper - Be my lover.mp3",
+      "loudnorm": "-15.25,0.60,2.90,-25.26,-0.73",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alice cooper - - Alice cooper - Be my lover.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6a302d21-6cc3-45f2-b26c-be4a7bf68014",
+    "title": "Alice cooper - Be my lover",
+    "titles": {
+      "spa": "Alice cooper - Be my lover"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec88b378-a7b0-49a6-b299-26e343d9b1ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:51:05.257Z",
+    "modified_at": "2022-11-03T23:51:05.640Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_179d46be8ddb880a778db858e5fce877.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4327828,
+      "gain": -1.39,
+      "duration": 216,
+      "loudnorm": "-15.25,0.60,2.90,-25.26,-0.73",
+      "filename": "processed_5f3789bc09d30ed2c41658896a55a8c1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

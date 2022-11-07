@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez - Nadie Simplemente Nadie.mp3",
+      "loudnorm": "-12.52,-0.87,5.10,-22.61,0.04",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez - Nadie Simplemente Nadie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "844b9478-6741-472f-afff-272fccfc33b7",
+    "title": "Alejandro Fernandez - Nadie Simplemente Nadie",
+    "titles": {
+      "spa": "Alejandro Fernandez - Nadie Simplemente Nadie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:45:03.766Z",
+    "modified_at": "2022-11-03T00:45:04.213Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c29c04fe34f7dc960786cbde1c3e416d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6530688,
+      "gain": -4.48,
+      "duration": 233,
+      "loudnorm": "-12.52,-0.87,5.10,-22.61,0.04",
+      "filename": "processed_c07aca84ef37beac07745f8c5d6f8871.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

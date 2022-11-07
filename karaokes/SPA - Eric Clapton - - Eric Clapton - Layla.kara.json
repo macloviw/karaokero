@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eric Clapton - - Eric Clapton - Layla.mp3",
+      "loudnorm": "-16.14,0.28,4.90,-26.26,-1.01",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eric Clapton - - Eric Clapton - Layla.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da7db1df-bfdc-44f2-9c23-fe3b7ea206ae",
+    "title": "Eric Clapton - Layla",
+    "titles": {
+      "spa": "Eric Clapton - Layla"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e9f768a3-0bd7-47ff-b061-0c8e9b51a7c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:36:21.588Z",
+    "modified_at": "2022-11-04T00:36:22.100Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b27427f1a01d524bea8129677a500a16.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4372367,
+      "gain": -2.16,
+      "duration": 273,
+      "loudnorm": "-16.14,0.28,4.90,-26.26,-1.01",
+      "filename": "processed_79bedf953e0c268c93409a6acb55a4d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

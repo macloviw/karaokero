@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Francis Natra - - Francis Natra - Makin whoopee.MP3",
+      "loudnorm": "-17.85,-0.66,10.80,-28.10,-1.20",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Francis Natra - - Francis Natra - Makin whoopee.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "37c1dc45-59dd-4329-bb0a-b4f3cf722b5b",
+    "title": "Francis Natra - Makin whoopee",
+    "titles": {
+      "spa": "Francis Natra - Makin whoopee"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1545075a-6d71-4001-b4a1-f4fe538b5567"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:46:16.262Z",
+    "modified_at": "2022-11-04T00:46:16.698Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3265901,
+      "gain": -1.25,
+      "duration": 203,
+      "loudnorm": "-17.85,-0.66,10.80,-28.10,-1.20",
+      "filename": "processed_0ba188eb181d02b48405de3fffd4e3c1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3265901,
+      "gain": -1.25,
+      "duration": 203,
+      "loudnorm": "-17.85,-0.66,10.80,-28.10,-1.20",
+      "filename": "processed_bb45a8fca338cef63dc6f7e0f3a9d4a8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

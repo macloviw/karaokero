@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - POR TY ME CASARE BY EDNITA NZ.CDG.MP3",
+      "loudnorm": "-14.29,0.70,8.30,-24.59,-1.04",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - POR TY ME CASARE BY EDNITA NZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aaabfc5b-66e4-452d-b441-e9d9a9e53824",
+    "title": "POR TY ME CASARE BY EDNITA NZ.CDG",
+    "titles": {
+      "spa": "POR TY ME CASARE BY EDNITA NZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:26:44.205Z",
+    "modified_at": "2022-11-03T04:26:44.832Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9881697,
+      "gain": -3.1,
+      "duration": 246,
+      "loudnorm": "-14.29,0.70,8.30,-24.59,-1.04",
+      "filename": "processed_a8d158d86ff557926d4ced2e3e6e03df.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9881697,
+      "gain": -3.1,
+      "duration": 246,
+      "loudnorm": "-14.29,0.70,8.30,-24.59,-1.04",
+      "filename": "processed_e1cb8719723ea835e9ebe379fab25fd0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Villareal - - Alicia Villareal - Sentimientos.mp3",
+      "loudnorm": "-16.29,-0.08,4.90,-26.36,-0.32",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Villareal - - Alicia Villareal - Sentimientos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f0c2552c-e743-4f12-be71-905aaa7cebe3",
+    "title": "Alicia Villareal - Sentimientos",
+    "titles": {
+      "spa": "Alicia Villareal - Sentimientos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2d5acaa4-ec97-451c-ab11-6b3a3df954d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:28:03.074Z",
+    "modified_at": "2022-11-03T01:28:03.500Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_233d5fb9e32e7f6065d744545ae620c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3950018,
+      "gain": -2,
+      "duration": 164,
+      "loudnorm": "-16.29,-0.08,4.90,-26.36,-0.32",
+      "filename": "processed_7b35fbc1cdafbe2c153f27d8414c8d0b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

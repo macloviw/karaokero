@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - QUIERO QUE ME HAGAS EL AMOR BY EDNITA NAZARIO.CDG.MP3",
+      "loudnorm": "-14.06,0.22,8.10,-24.20,-1.50",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - QUIERO QUE ME HAGAS EL AMOR BY EDNITA NAZARIO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7880c080-c5af-45cb-b4c8-b982fec7e0e9",
+    "title": "QUIERO QUE ME HAGAS EL AMOR  BY EDNITA NAZARIO.CDG",
+    "titles": {
+      "spa": "QUIERO QUE ME HAGAS EL AMOR  BY EDNITA NAZARIO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:27:17.612Z",
+    "modified_at": "2022-11-03T04:27:18.244Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4490521,
+      "gain": -4.85,
+      "duration": 280,
+      "loudnorm": "-14.06,0.22,8.10,-24.20,-1.50",
+      "filename": "processed_a9d3590cf277ea3b4d7637258510960f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4490521,
+      "gain": -4.85,
+      "duration": 280,
+      "loudnorm": "-14.06,0.22,8.10,-24.20,-1.50",
+      "filename": "processed_65c53b2422cc38c7e76921815d05d005.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

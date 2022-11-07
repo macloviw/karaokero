@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Essex - - David Essex - Hold Me Close.MP3",
+      "loudnorm": "-12.98,1.23,3.70,-23.13,-0.59",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Essex - - David Essex - Hold Me Close.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a0f8599-1681-4685-b213-1b77643e2969",
+    "title": "David Essex - Hold Me Close",
+    "titles": {
+      "spa": "David Essex - Hold Me Close"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d692bc86-f0b1-4d9e-a984-b5c9c23acafc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:17:19.432Z",
+    "modified_at": "2022-11-04T00:17:19.879Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3915537,
+      "gain": -5.04,
+      "duration": 244,
+      "loudnorm": "-12.98,1.23,3.70,-23.13,-0.59",
+      "filename": "processed_6156a216128a16272ce34692506c9b06.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3915537,
+      "gain": -5.04,
+      "duration": 244,
+      "loudnorm": "-12.98,1.23,3.70,-23.13,-0.59",
+      "filename": "processed_dd3cc088c096f7dac14ca3cf57c81e03.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

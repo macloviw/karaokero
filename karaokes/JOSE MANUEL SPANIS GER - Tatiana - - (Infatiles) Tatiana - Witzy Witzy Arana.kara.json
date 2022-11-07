@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Witzy Witzy Arana.mp3",
+      "loudnorm": "-16.88,-0.71,4.90,-27.17,-0.09",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Witzy Witzy Arana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "19658819-68cb-411a-ab58-5b505f45b5d2",
+    "title": "(Infatiles) Tatiana - Witzy Witzy Araña",
+    "titles": {
+      "spa": "(Infatiles) Tatiana - Witzy Witzy Araña"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "30e92243-2ccd-4213-80a5-5dd0d694985b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:37:15.340Z",
+    "modified_at": "2022-11-04T08:37:15.726Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_96d274b2d510e6589c1190f22e044f77.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3650644,
+      "gain": -2.47,
+      "duration": 228,
+      "loudnorm": "-16.88,-0.71,4.90,-27.17,-0.09",
+      "filename": "processed_40e54b1cf5713cb9a39492cb56774966.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

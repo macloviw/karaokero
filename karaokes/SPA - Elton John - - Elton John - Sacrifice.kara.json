@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Sacrifice.mp3",
+      "loudnorm": "-18.17,-0.20,1.90,-28.28,-0.43",
+      "duration": 298,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Sacrifice.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd19f75b-f5e9-4c40-ab49-a5334edc7b2f",
+    "title": "Elton John - Sacrifice",
+    "titles": {
+      "spa": "Elton John - Sacrifice"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:28:16.603Z",
+    "modified_at": "2022-11-04T00:28:16.984Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_846e5763b47f14e403bc73f28e3b1fd6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4770682,
+      "gain": 2.19,
+      "duration": 298,
+      "loudnorm": "-18.17,-0.20,1.90,-28.28,-0.43",
+      "filename": "processed_1b183351fe4a6f4282db445cda0ed775.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

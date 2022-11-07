@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ASDRUBAL - - ASDRUBAL - CRONICA.mp3",
+      "loudnorm": "-17.63,0.67,5.80,-27.66,-1.41",
+      "duration": 298,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ASDRUBAL - - ASDRUBAL - CRONICA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "faad4b75-7b0b-4db8-b9e7-7d8324009d16",
+    "title": "ASDRUBAL - CRONICA",
+    "titles": {
+      "spa": "ASDRUBAL - CRONICA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "48bc5831-fff2-40eb-be15-6b736c194fa8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:34:06.169Z",
+    "modified_at": "2022-11-04T02:34:06.547Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_201e8cec2fc12823cd426c1503b901f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4774026,
+      "gain": -1.36,
+      "duration": 298,
+      "loudnorm": "-17.63,0.67,5.80,-27.66,-1.41",
+      "filename": "processed_028b220f7278d515cb8fb31c1451780e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

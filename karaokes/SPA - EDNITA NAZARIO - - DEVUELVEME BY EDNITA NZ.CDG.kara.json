@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - DEVUELVEME BY EDNITA NZ.CDG.MP3",
+      "loudnorm": "-13.08,1.28,13.30,-23.88,-0.51",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - DEVUELVEME BY EDNITA NZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c071e66e-619f-4208-bb97-565cdc306d44",
+    "title": "DEVUELVEME BY EDNITA NZ.CDG",
+    "titles": {
+      "spa": "DEVUELVEME BY EDNITA NZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:20:44.304Z",
+    "modified_at": "2022-11-03T04:20:44.900Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8281958,
+      "gain": -4.14,
+      "duration": 207,
+      "loudnorm": "-13.08,1.28,13.30,-23.88,-0.51",
+      "filename": "processed_2b57b253abe4b8d2812ba14222a865d1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8281958,
+      "gain": -4.14,
+      "duration": 207,
+      "loudnorm": "-13.08,1.28,13.30,-23.88,-0.51",
+      "filename": "processed_73eb78a4ad040726f65696161713c6b9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

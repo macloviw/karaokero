@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Reasons.mp3",
+      "loudnorm": "-15.27,0.51,5.80,-25.65,0.32",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Reasons.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb52801a-052f-4bf0-aaf2-f03aabad9cea",
+    "title": "Earth Wind & Fire - Reasons",
+    "titles": {
+      "spa": "Earth Wind & Fire - Reasons"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a9c40ef9-1609-42f2-b547-4cf04f1bf901"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:19:06.519Z",
+    "modified_at": "2022-11-03T16:19:07.154Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_26e26fcb17873a1279e2aae9af582155.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4606842,
+      "gain": -2.56,
+      "duration": 287,
+      "loudnorm": "-15.27,0.51,5.80,-25.65,0.32",
+      "filename": "processed_e47d4e6277cf2cf00a21730cd5c4e929.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Mejor no hablemos de amor.mp3",
+      "loudnorm": "-13.49,0.39,3.70,-23.58,-0.62",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Mejor no hablemos de amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1d0620c-de18-482c-ba3c-712a13229866",
+    "title": "Enanitos Verdes - Mejor no hablemos de amor",
+    "titles": {
+      "spa": "Enanitos Verdes - Mejor no hablemos de amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:48:23.023Z",
+    "modified_at": "2022-11-03T04:48:23.424Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2368f05524df532f2c06de6a6ec81289.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3393507,
+      "gain": -2.77,
+      "duration": 211,
+      "loudnorm": "-13.49,0.39,3.70,-23.58,-0.62",
+      "filename": "processed_4437a7319471262c8a5b35c5852f762e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

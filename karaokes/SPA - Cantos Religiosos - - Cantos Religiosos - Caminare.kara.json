@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Caminare.mp3",
+      "loudnorm": "-13.81,0.80,3.30,-23.86,0.38",
+      "duration": 108,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Caminare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ff4145a7-828a-43ad-be79-3257b4725765",
+    "title": "Cantos Religiosos - Caminare",
+    "titles": {
+      "spa": "Cantos Religiosos - Caminare"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "a9b10b5f-f794-4090-946b-f8647a0ff742"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:57:46.770Z",
+    "modified_at": "2022-11-03T13:57:47.192Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c864852237d6d12f5b1bbec9427f1088.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2597084,
+      "gain": -3.66,
+      "duration": 108,
+      "loudnorm": "-13.81,0.80,3.30,-23.86,0.38",
+      "filename": "processed_cf282eb86e63933b291dc2d08ab68f01.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

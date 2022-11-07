@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - Armando Manzanero & Lucero - No Existen Limites.mp3",
+      "loudnorm": "-16.22,-1.23,7.70,-26.28,-0.14",
+      "duration": 157,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - Armando Manzanero & Lucero - No Existen Limites.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f41e2717-b8eb-4513-acab-e90c3e10cbc3",
+    "title": "Armando Manzanero & Lucero - No Existen Limites",
+    "titles": {
+      "spa": "Armando Manzanero & Lucero - No Existen Limites"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:31:21.792Z",
+    "modified_at": "2022-11-03T13:31:22.208Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4fa3b52a14033bbf57dc496b9e25631.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3770840,
+      "gain": -2.87,
+      "duration": 157,
+      "loudnorm": "-16.22,-1.23,7.70,-26.28,-0.14",
+      "filename": "processed_6e85f193b7a114afc0965c0402a17431.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

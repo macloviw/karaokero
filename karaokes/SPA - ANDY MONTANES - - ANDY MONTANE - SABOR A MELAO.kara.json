@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY MONTANES - - ANDY MONTANE - SABOR A MELAO.mp3",
+      "loudnorm": "-15.09,-0.69,5.70,-25.13,-0.40",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY MONTANES - - ANDY MONTANE - SABOR A MELAO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d681685b-a25d-40f2-a81d-2fc4f39ac65a",
+    "title": "ANDY MONTANE - SABOR A MELAO...",
+    "titles": {
+      "spa": "ANDY MONTANE - SABOR A MELAO..."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7ded384e-080e-4fe2-8082-45859c13632f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T17:14:04.645Z",
+    "modified_at": "2022-11-03T17:14:05.060Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_87832196753c8ccc9cf61951f292ea12.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3785841,
+      "gain": -4.32,
+      "duration": 236,
+      "loudnorm": "-15.09,-0.69,5.70,-25.13,-0.40",
+      "filename": "processed_ca45640a543247e643b34975d07230cb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

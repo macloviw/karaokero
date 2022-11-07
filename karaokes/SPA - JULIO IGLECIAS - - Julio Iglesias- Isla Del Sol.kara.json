@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Isla Del Sol.mp3",
+      "loudnorm": "-14.06,0.05,4.20,-24.33,-0.69",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Isla Del Sol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d93f1f20-68d3-46bd-b7a0-c0d421934886",
+    "title": "Julio Iglesias- Isla Del Sol",
+    "titles": {
+      "spa": "Julio Iglesias- Isla Del Sol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:04:31.116Z",
+    "modified_at": "2022-11-03T08:04:31.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f38c6da071227c6fccd77fd393d19bef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3190377,
+      "gain": -4.12,
+      "duration": 199,
+      "loudnorm": "-14.06,0.05,4.20,-24.33,-0.69",
+      "filename": "processed_4e322f5221ebfd3217c24642a2fff179.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

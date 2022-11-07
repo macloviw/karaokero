@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - APRENDIZ.MP3",
+      "loudnorm": "-15.92,0.25,3.10,-26.07,-0.13",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - APRENDIZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3329533a-70e9-4f8f-9451-a5bae64a45c1",
+    "title": "ALEJANDRO SANZ   -   APRENDIZ",
+    "titles": {
+      "spa": "ALEJANDRO SANZ   -   APRENDIZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:01:55.136Z",
+    "modified_at": "2022-11-03T01:01:55.922Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 12324668,
+      "gain": -1.07,
+      "duration": 308,
+      "loudnorm": "-15.92,0.25,3.10,-26.07,-0.13",
+      "filename": "processed_0b19cbb3d60fbe710e3bf8c205f8407d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12324668,
+      "gain": -1.07,
+      "duration": 308,
+      "loudnorm": "-15.92,0.25,3.10,-26.07,-0.13",
+      "filename": "processed_044f568f1a0c038b3b2670aec68ec6b0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

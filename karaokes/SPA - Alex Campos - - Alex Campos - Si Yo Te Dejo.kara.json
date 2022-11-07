@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alex Campos - - Alex Campos - Si Yo Te Dejo.mp3",
+      "loudnorm": "-8.10,3.16,1.70,-18.21,-1.03",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alex Campos - - Alex Campos - Si Yo Te Dejo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96d573db-060c-4df7-8133-8d41b941f200",
+    "title": "Alex Campos - Si Yo Te Dejo",
+    "titles": {
+      "spa": "Alex Campos - Si Yo Te Dejo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7a30161-674c-48e6-918f-8994db748b2c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:21:53.319Z",
+    "modified_at": "2022-11-04T02:21:53.703Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_500723b880053f8a5a2606e53cfd4b5c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3641775,
+      "gain": -8.84,
+      "duration": 227,
+      "loudnorm": "-8.10,3.16,1.70,-18.21,-1.03",
+      "filename": "processed_93ab1ced70ed6218ee012bad39fd6d0b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

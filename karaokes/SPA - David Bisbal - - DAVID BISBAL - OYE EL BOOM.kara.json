@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - DAVID BISBAL - OYE EL BOOM.mp3",
+      "loudnorm": "-9.78,3.01,5.70,-19.88,-0.97",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - DAVID BISBAL - OYE EL BOOM.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81ef269e-b1dd-4d4d-bba0-eaf9e9299fe0",
+    "title": "DAVID BISBAL   -   OYE EL BOOM",
+    "titles": {
+      "spa": "DAVID BISBAL   -   OYE EL BOOM"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:05:02.856Z",
+    "modified_at": "2022-11-03T04:05:03.303Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d72e64344292caa1f6f74887fc373a6b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4491188,
+      "gain": -8.48,
+      "duration": 280,
+      "loudnorm": "-9.78,3.01,5.70,-19.88,-0.97",
+      "filename": "processed_114a2f204bc32f94521a4c206483e4d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

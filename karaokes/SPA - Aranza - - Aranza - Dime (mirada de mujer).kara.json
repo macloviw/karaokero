@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aranza - - Aranza - Dime (mirada de mujer).mp3",
+      "loudnorm": "-11.10,0.68,5.70,-21.15,-0.91",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aranza - - Aranza - Dime (mirada de mujer).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cbf1dd8b-f328-48bd-9126-50b30476124c",
+    "title": "Aranza  - Dime (mirada de mujer)",
+    "titles": {
+      "spa": "Aranza  - Dime (mirada de mujer)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f685cd70-6b73-48e0-a182-a790bf954810"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:57:03.701Z",
+    "modified_at": "2022-11-03T01:57:04.140Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_633b986f7ab8c92c59fb3ce8c67d1006.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4131830,
+      "gain": -6.51,
+      "duration": 172,
+      "loudnorm": "-11.10,0.68,5.70,-21.15,-0.91",
+      "filename": "processed_877c51938c173a293722215b28c1080b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

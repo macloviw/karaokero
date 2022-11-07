@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Freddie Mercury - - Freddie Mercury - Living On My Own.mp3",
+      "loudnorm": "-17.32,-1.11,4.60,-27.74,-0.69",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Freddie Mercury - - Freddie Mercury - Living On My Own.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "40054ac1-4aca-4261-96df-3406d123691d",
+    "title": "Freddie Mercury - Living On My Own",
+    "titles": {
+      "spa": "Freddie Mercury - Living On My Own"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fe1af0bc-dccf-4ded-8345-24c8fc04f8b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:49:09.289Z",
+    "modified_at": "2022-11-04T00:49:09.690Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47a8e33ed220ffc31d4656145acf0928.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3794747,
+      "gain": -1.5,
+      "duration": 237,
+      "loudnorm": "-17.32,-1.11,4.60,-27.74,-0.69",
+      "filename": "processed_364ac14648c51a59f2e4ab401bf33a39.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

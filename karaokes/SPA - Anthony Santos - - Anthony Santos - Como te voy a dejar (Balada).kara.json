@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Como te voy a dejar (Balada).mp3",
+      "loudnorm": "-9.59,2.94,5.10,-19.81,-0.78",
+      "duration": 377,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Como te voy a dejar (Balada).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3ae492c8-5867-424f-b9de-d809396cfee4",
+    "title": "Anthony Santos - Como te voy a dejar (Balada)",
+    "titles": {
+      "spa": "Anthony Santos - Como te voy a dejar (Balada)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:42:29.068Z",
+    "modified_at": "2022-11-02T20:42:29.477Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9619fe25f6683158e4b1d754dba41690.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6034378,
+      "gain": -8.96,
+      "duration": 377,
+      "loudnorm": "-9.59,2.94,5.10,-19.81,-0.78",
+      "filename": "processed_7c6f517b4dd7ccd71294cd592b211a59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

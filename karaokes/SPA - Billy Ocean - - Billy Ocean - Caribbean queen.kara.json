@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Ocean - - Billy Ocean - Caribbean queen.mp3",
+      "loudnorm": "-14.58,0.56,0.70,-24.71,-0.40",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Ocean - - Billy Ocean - Caribbean queen.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17772f45-3f86-4bd9-a7c4-6c72978b0ef2",
+    "title": "Billy Ocean - Caribbean queen",
+    "titles": {
+      "spa": "Billy Ocean - Caribbean queen"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3232ed06-afde-4f6b-98dc-c46c8a38ef91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:03:08.218Z",
+    "modified_at": "2022-11-04T00:03:08.615Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c5edb595c68f5398548e2e82bcf131d0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4034238,
+      "gain": -1.7,
+      "duration": 252,
+      "loudnorm": "-14.58,0.56,0.70,-24.71,-0.40",
+      "filename": "processed_22dc256aa2e195219df59f6e68d18c0a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

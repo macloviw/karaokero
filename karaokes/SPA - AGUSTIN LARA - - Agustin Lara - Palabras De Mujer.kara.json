@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - AGUSTIN LARA - - Agustin Lara - Palabras De Mujer.mp3",
+      "loudnorm": "-14.08,0.11,2.90,-24.16,-0.86",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - AGUSTIN LARA - - Agustin Lara - Palabras De Mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03f02865-b5b3-4015-9884-15f3c16e8635",
+    "title": "Agustin Lara - Palabras De Mujer",
+    "titles": {
+      "spa": "Agustin Lara - Palabras De Mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "19c2c9ca-0b4d-4159-a514-2ef213df5e5b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:33:48.987Z",
+    "modified_at": "2022-11-03T00:33:49.465Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6863bc5e2e503355d40c8cb2aa4e1bdd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2993390,
+      "gain": -3.22,
+      "duration": 186,
+      "loudnorm": "-14.08,0.11,2.90,-24.16,-0.86",
+      "filename": "processed_be9e2c989767a8693ef8ecf3dc5ed1e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

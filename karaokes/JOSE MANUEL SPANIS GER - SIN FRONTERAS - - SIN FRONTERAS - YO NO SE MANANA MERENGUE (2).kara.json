@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - SIN FRONTERAS - YO NO SE MANANA MERENGUE (2).mp3",
+      "loudnorm": "-12.26,-0.13,5.30,-22.48,-0.54",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - SIN FRONTERAS - YO NO SE MANANA MERENGUE (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ced89002-2122-448c-a8df-3fbde121dd97",
+    "title": "SIN FRONTERAS  - YO NO SE MAÑANA MERENGUE (2)",
+    "titles": {
+      "spa": "SIN FRONTERAS  - YO NO SE MAÑANA MERENGUE (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8972e7b5-3692-46b4-94b2-07d5a7c21298"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:05:08.291Z",
+    "modified_at": "2022-11-04T11:05:08.675Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_94071aefa7b0ebb29954ebd0ff8da084.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5770089,
+      "gain": -7.32,
+      "duration": 240,
+      "loudnorm": "-12.26,-0.13,5.30,-22.48,-0.54",
+      "filename": "processed_826d41026a7e2f37fac915f61d72e1fa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

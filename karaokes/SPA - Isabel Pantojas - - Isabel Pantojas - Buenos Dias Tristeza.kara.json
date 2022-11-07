@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Buenos Dias Tristeza.MP3",
+      "loudnorm": "-14.05,1.24,6.40,-24.32,-0.30",
+      "duration": 339,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Buenos Dias Tristeza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3db4d5ff-a7d3-4922-97a2-fedada9951d0",
+    "title": "Isabel Pantojas - Buenos Dias Tristeza",
+    "titles": {
+      "spa": "Isabel Pantojas - Buenos Dias Tristeza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "71eaef29-5b1f-44e2-86ef-2332fa38303c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:53:49.000Z",
+    "modified_at": "2022-11-03T05:53:49.657Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5441925,
+      "gain": -2.8,
+      "duration": 339,
+      "loudnorm": "-14.05,1.24,6.40,-24.32,-0.30",
+      "filename": "processed_4f49035b152874bc3f61cee34c9553ec.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5441925,
+      "gain": -2.8,
+      "duration": 339,
+      "loudnorm": "-14.05,1.24,6.40,-24.32,-0.30",
+      "filename": "processed_20a108148c5c4260d4745d8a61e33283.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monje-Senor Del Pasado.mp3",
+      "loudnorm": "-10.18,8.32,6.70,-20.32,-0.78",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monje-Senor Del Pasado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cdb8590a-1e25-4df9-85d3-a446f6aebc85",
+    "title": "Yolandita Monje-Señor Del Pasado",
+    "titles": {
+      "spa": "Yolandita Monje-Señor Del Pasado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:56:30.076Z",
+    "modified_at": "2022-11-04T08:56:30.458Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f05186c60b923bc14fe25515ba18caa3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3703568,
+      "gain": -8.51,
+      "duration": 231,
+      "loudnorm": "-10.18,8.32,6.70,-20.32,-0.78",
+      "filename": "processed_6a6f1ccd9b5d7c27ae6825fb3d74e2f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

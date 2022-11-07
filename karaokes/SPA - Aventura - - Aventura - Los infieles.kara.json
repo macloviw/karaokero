@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - Los infieles.mp3",
+      "loudnorm": "-8.70,2.43,5.90,-19.02,-1.58",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - Los infieles.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d2d38c3c-6951-4306-8e99-5ff5c535329e",
+    "title": "Aventura - Los infieles",
+    "titles": {
+      "spa": "Aventura - Los infieles"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:13:30.548Z",
+    "modified_at": "2022-11-02T23:13:31.013Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0fb193a3f909a3403af991c8f2a976f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6454844,
+      "gain": -8.84,
+      "duration": 268,
+      "loudnorm": "-8.70,2.43,5.90,-19.02,-1.58",
+      "filename": "processed_a0e0a1474a47d94eb286d2f044cf126d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

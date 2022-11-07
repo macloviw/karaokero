@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Millie Corretjer - - SP-460596_Millie_Una Voz En El Alma_scl2194-07.mp3",
+      "loudnorm": "-15.23,-0.22,2.20,-25.25,-0.59",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Millie Corretjer - - SP-460596_Millie_Una Voz En El Alma_scl2194-07.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "278fccbe-828c-41cd-ab92-5343ec882de9",
+    "title": "SP-460596_Millie_Una Voz En El Alma_scl2194-07",
+    "titles": {
+      "spa": "SP-460596_Millie_Una Voz En El Alma_scl2194-07"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "16b12275-e4c0-4cfc-98a9-2223cb4af336"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:46:51.510Z",
+    "modified_at": "2022-11-04T10:46:51.913Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_572f24744454ebb6023aad3031b02b68.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4294794,
+      "gain": -2.17,
+      "duration": 268,
+      "loudnorm": "-15.23,-0.22,2.20,-25.25,-0.59",
+      "filename": "processed_0d376525d8c1774b3e18f9de40d20a3e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

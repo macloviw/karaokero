@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACILOS - - Bacilos - Besala Ya.MP3",
+      "loudnorm": "-13.07,1.80,3.00,-23.22,-0.62",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACILOS - - Bacilos - Besala Ya.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eeb070db-fb81-405f-9e29-4bdebff58063",
+    "title": "Bacilos - Besala Ya",
+    "titles": {
+      "spa": "Bacilos - Besala Ya"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:03:28.089Z",
+    "modified_at": "2022-11-03T02:03:28.570Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3295232,
+      "gain": -2.75,
+      "duration": 205,
+      "loudnorm": "-13.07,1.80,3.00,-23.22,-0.62",
+      "filename": "processed_f3604514be84126a67d00bc6223b9203.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3295232,
+      "gain": -2.75,
+      "duration": 205,
+      "loudnorm": "-13.07,1.80,3.00,-23.22,-0.62",
+      "filename": "processed_643e8705f021bbd767d35f8c0cd18c51.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

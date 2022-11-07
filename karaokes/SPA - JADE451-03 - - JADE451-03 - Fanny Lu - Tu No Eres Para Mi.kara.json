@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JADE451-03 - - JADE451-03 - Fanny Lu - Tu No Eres Para Mi.mp3",
+      "loudnorm": "-9.74,2.12,5.40,-19.87,-1.56",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JADE451-03 - - JADE451-03 - Fanny Lu - Tu No Eres Para Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c4f87b2-831e-4749-8f32-47418b878ccb",
+    "title": "JADE451-03 - Fanny Lu - Tú No Eres Para Mí",
+    "titles": {
+      "spa": "JADE451-03 - Fanny Lu - Tú No Eres Para Mí"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "73d5cec6-4afe-4932-993b-027dc37a8c17"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:29:27.278Z",
+    "modified_at": "2022-11-03T22:29:27.659Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21c8efe70a7f0fdb119aaecf816344ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4980078,
+      "gain": -8.14,
+      "duration": 207,
+      "loudnorm": "-9.74,2.12,5.40,-19.87,-1.56",
+      "filename": "processed_0d334afca48c886c00b527492f2ea325.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

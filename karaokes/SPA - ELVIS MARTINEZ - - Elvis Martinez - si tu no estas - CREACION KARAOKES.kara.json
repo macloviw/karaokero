@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - si tu no estas - CREACION KARAOKES.mp3",
+      "loudnorm": "-16.93,-1.78,1.70,-27.01,-0.07",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - si tu no estas - CREACION KARAOKES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51184841-cc89-44b7-a0d5-07443398b55a",
+    "title": "Elvis Martinez - si tu no estas - CREACION KARAOKES",
+    "titles": {
+      "spa": "Elvis Martinez - si tu no estas - CREACION KARAOKES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:49:05.538Z",
+    "modified_at": "2022-11-04T01:49:05.916Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dfa9a17e0fce925cb649ec860ecc1360.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3731636,
+      "gain": -0.76,
+      "duration": 233,
+      "loudnorm": "-16.93,-1.78,1.70,-27.01,-0.07",
+      "filename": "processed_525c2a2d5308dfc6d5272f557262f4c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

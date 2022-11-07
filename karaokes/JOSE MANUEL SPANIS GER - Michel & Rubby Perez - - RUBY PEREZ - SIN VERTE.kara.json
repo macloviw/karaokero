@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ - SIN VERTE.mp3",
+      "loudnorm": "-12.60,0.01,3.50,-22.68,-0.51",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ - SIN VERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa7d03b5-e229-4d4b-bd41-5842e8b36eb6",
+    "title": "RUBY PEREZ - SIN VERTE",
+    "titles": {
+      "spa": "RUBY PEREZ - SIN VERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8d79ccf7-4508-4538-b5c8-4be333150e5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:00:46.855Z",
+    "modified_at": "2022-11-04T11:00:47.244Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5638ac796c06b1ee3e379164b2f40e1c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6890402,
+      "gain": -6.43,
+      "duration": 290,
+      "loudnorm": "-12.60,0.01,3.50,-22.68,-0.51",
+      "filename": "processed_07451307bec6feb9980afe7ca2881083.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

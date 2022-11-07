@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Chuape - - El Chuape - Ponme To Eso Pa Lante JK.mp3",
+      "loudnorm": "-10.74,3.03,1.90,-20.77,-0.82",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Chuape - - El Chuape - Ponme To Eso Pa Lante JK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "673a4c91-c612-4f02-86a4-c680bf38f9f8",
+    "title": "El Chuape - Ponme To Eso Pa Lante JK",
+    "titles": {
+      "spa": "El Chuape - Ponme To Eso Pa Lante JK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "627300e4-ad0d-4f4e-b193-2f7a1145c13c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:47:18.595Z",
+    "modified_at": "2022-11-03T23:47:18.987Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_475528a2e2bc53e2a6c3cf49ba3f5860.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2981400,
+      "gain": -7.57,
+      "duration": 186,
+      "loudnorm": "-10.74,3.03,1.90,-20.77,-0.82",
+      "filename": "processed_c85629d79e866bed8d04513b251f02c5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

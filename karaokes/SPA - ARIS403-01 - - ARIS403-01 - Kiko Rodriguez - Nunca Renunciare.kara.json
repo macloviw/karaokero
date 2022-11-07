@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS403-01 - - ARIS403-01 - Kiko Rodriguez - Nunca Renunciare.mp3",
+      "loudnorm": "-13.13,1.12,2.10,-23.17,-0.58",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS403-01 - - ARIS403-01 - Kiko Rodriguez - Nunca Renunciare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0649be95-dcb7-4595-b5cc-123a56ba2335",
+    "title": "ARIS403-01 - Kiko Rodriguez - Nunca Renunciare",
+    "titles": {
+      "spa": "ARIS403-01 - Kiko Rodriguez - Nunca Renunciare"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "8798dbf6-5532-44a0-b4fd-5c2a79109c91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:41:36.145Z",
+    "modified_at": "2022-11-03T21:41:36.531Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_81789d497cb4cb2393650994f204bf2e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3994113,
+      "gain": -5.86,
+      "duration": 249,
+      "loudnorm": "-13.13,1.12,2.10,-23.17,-0.58",
+      "filename": "processed_bb80af74cf6e97cf8a5a3e0042cb4972.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

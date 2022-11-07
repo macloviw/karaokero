@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Dejame entrar.mp3",
+      "loudnorm": "-8.63,6.05,4.20,-18.69,-0.75",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Dejame entrar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d2552ca5-f70e-4579-9a8b-f51dd679ff0a",
+    "title": "Anthony Santos - Dejame entrar",
+    "titles": {
+      "spa": "Anthony Santos - Dejame entrar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:04:42.113Z",
+    "modified_at": "2022-11-02T22:04:42.856Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e00420026afb448d9151da8504af1ab1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3754830,
+      "gain": -8.37,
+      "duration": 234,
+      "loudnorm": "-8.63,6.05,4.20,-18.69,-0.75",
+      "filename": "processed_5ceebb1cb658c8534b7abf8888b2a616.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - La Papa Sin Ketchup.mp3",
+      "loudnorm": "-11.80,0.31,6.10,-22.16,-0.99",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - La Papa Sin Ketchup.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b7b4f3f-9194-4cbf-b482-c2aa51558dfd",
+    "title": "Gloria Trevi - La Papa Sin Ketchup",
+    "titles": {
+      "spa": "Gloria Trevi - La Papa Sin Ketchup"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:42:10.640Z",
+    "modified_at": "2022-11-03T05:42:11.044Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9285de35f36f9dfd459835f8cd8edb64.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5148098,
+      "gain": -4.21,
+      "duration": 214,
+      "loudnorm": "-11.80,0.31,6.10,-22.16,-0.99",
+      "filename": "processed_eec7c458d638efc8020fa3d0a07553a0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

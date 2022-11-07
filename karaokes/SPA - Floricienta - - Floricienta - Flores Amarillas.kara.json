@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Floricienta - - Floricienta - Flores Amarillas.mp3",
+      "loudnorm": "-8.89,2.55,2.50,-19.04,-0.13",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Floricienta - - Floricienta - Flores Amarillas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b921245d-19f9-4d1c-9268-1fcc861d2d4d",
+    "title": "Floricienta - Flores Amarillas",
+    "titles": {
+      "spa": "Floricienta - Flores Amarillas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0df32d68-4d10-4fd7-9d5b-194c975909e3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:23:10.604Z",
+    "modified_at": "2022-11-03T05:23:11.019Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e3a073f989898e015bd4cdf50888b9e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3515628,
+      "gain": -8.83,
+      "duration": 219,
+      "loudnorm": "-8.89,2.55,2.50,-19.04,-0.13",
+      "filename": "processed_46bfe9e68199e351041d555cc3d08722.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

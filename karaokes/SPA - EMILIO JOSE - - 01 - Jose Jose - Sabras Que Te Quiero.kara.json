@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 01 - Jose Jose - Sabras Que Te Quiero.mp3",
+      "loudnorm": "-12.65,0.33,13.40,-23.35,-1.95",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 01 - Jose Jose - Sabras Que Te Quiero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "02daee52-fcce-4ead-be4b-255a224e7233",
+    "title": "01 - José José - Sabrás Que Te Quiero",
+    "titles": {
+      "spa": "01 - José José - Sabrás Que Te Quiero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:36:41.962Z",
+    "modified_at": "2022-11-03T06:36:42.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_239fcd819a316a826fc1f90f97095ead.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4998887,
+      "gain": -5.86,
+      "duration": 208,
+      "loudnorm": "-12.65,0.33,13.40,-23.35,-1.95",
+      "filename": "processed_a42cc59017eb433552d6d906042bc4bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

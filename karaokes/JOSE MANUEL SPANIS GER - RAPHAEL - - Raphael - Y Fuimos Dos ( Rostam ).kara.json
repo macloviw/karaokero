@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAPHAEL - - Raphael - Y Fuimos Dos ( Rostam ).mp3",
+      "loudnorm": "-12.61,0.44,9.10,-22.97,-1.00",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAPHAEL - - Raphael - Y Fuimos Dos ( Rostam ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8178d211-654c-419d-a491-332dab218ff9",
+    "title": "Raphael - Y Fuimos Dos ( Rostam )",
+    "titles": {
+      "spa": "Raphael - Y Fuimos Dos ( Rostam )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:18:52.230Z",
+    "modified_at": "2022-11-04T08:18:52.611Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5c082923ef629a1b245ccaded7a3dec.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3937271,
+      "gain": -5.12,
+      "duration": 245,
+      "loudnorm": "-12.61,0.44,9.10,-22.97,-1.00",
+      "filename": "processed_8cfc38b4eeab85028fcc0382cdcb5d35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

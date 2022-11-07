@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - Un beso.mp3",
+      "loudnorm": "-8.93,7.51,3.90,-19.30,-1.02",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - Un beso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e32f27f2-5b83-42d6-b1b9-342569a3ada2",
+    "title": "Aventura - Un beso",
+    "titles": {
+      "spa": "Aventura - Un beso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:16:44.630Z",
+    "modified_at": "2022-11-02T23:16:45.055Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3638e51bef18040f87da25e1e7d3c09.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6408398,
+      "gain": -9.53,
+      "duration": 266,
+      "loudnorm": "-8.93,7.51,3.90,-19.30,-1.02",
+      "filename": "processed_ed90949a414cfc79b141c80f703a4ac3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

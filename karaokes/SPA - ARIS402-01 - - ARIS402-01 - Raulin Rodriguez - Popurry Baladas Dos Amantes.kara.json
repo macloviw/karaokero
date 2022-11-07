@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS402-01 - - ARIS402-01 - Raulin Rodriguez - Popurry Baladas Dos Amantes.mp3",
+      "loudnorm": "-10.52,2.09,2.40,-20.70,-0.22",
+      "duration": 445,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS402-01 - - ARIS402-01 - Raulin Rodriguez - Popurry Baladas Dos Amantes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fbc12ad7-487a-4cf5-b8e1-a65923a462bd",
+    "title": "ARIS402-01 - Raulin Rodriguez - Popurry Baladas Dos Amantes",
+    "titles": {
+      "spa": "ARIS402-01 - Raulin Rodriguez - Popurry Baladas Dos Amantes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "86308ca1-ef40-4a1e-8e8b-57396838edc9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:41:23.708Z",
+    "modified_at": "2022-11-03T21:41:24.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_28425decc428582b67d5bb8ac2bc4479.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7130060,
+      "gain": -4.74,
+      "duration": 445,
+      "loudnorm": "-10.52,2.09,2.40,-20.70,-0.22",
+      "filename": "processed_15829d02808f0042e7c3d9f76d42422d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

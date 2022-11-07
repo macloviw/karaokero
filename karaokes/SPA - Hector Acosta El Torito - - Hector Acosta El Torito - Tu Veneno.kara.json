@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector Acosta El Torito - Tu Veneno.mp3",
+      "loudnorm": "-10.06,1.45,2.10,-20.16,-0.81",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector Acosta El Torito - Tu Veneno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6e782b5-0e60-4938-bd13-a41717ad6674",
+    "title": "Hector Acosta El Torito - Tu Veneno",
+    "titles": {
+      "spa": "Hector Acosta El Torito - Tu Veneno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:49:29.014Z",
+    "modified_at": "2022-11-02T23:49:29.435Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4a1693aa1b1d6e442555a519b3acf94.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5874250,
+      "gain": -6.21,
+      "duration": 244,
+      "loudnorm": "-10.06,1.45,2.10,-20.16,-0.81",
+      "filename": "processed_43edac9862c05fd8cc5b85d0142a8655.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

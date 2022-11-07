@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - FALSAS ESPERANZAS.MP3",
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - FALSAS ESPERANZAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94f4be78-2a83-41c6-9558-af2e8ead677e",
+    "title": "CRISTINA AGUILERA   -   FALSAS ESPERANZAS",
+    "titles": {
+      "spa": "CRISTINA AGUILERA   -   FALSAS ESPERANZAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0c9a186e-f056-41ff-94df-f44112bd1f30"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:46:27.979Z",
+    "modified_at": "2022-11-03T03:46:28.452Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3102061,
+      "gain": -3.36,
+      "duration": 193,
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "filename": "processed_15c02f2906ceca2b47c702ab9a1d164a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3102061,
+      "gain": -3.36,
+      "duration": 193,
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "filename": "processed_3f8fc1428e2188b14770eed842968109.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

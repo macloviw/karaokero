@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRAZY DESIGN Y CARLITO WAY - - CRAZY DESIGN Y CARLITO WAY - EL TEKE TEKE.mp3",
+      "loudnorm": "-6.84,5.96,3.00,-16.84,-1.74",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRAZY DESIGN Y CARLITO WAY - - CRAZY DESIGN Y CARLITO WAY - EL TEKE TEKE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05c7985b-9e8e-405e-a6e2-226ad75eaa99",
+    "title": "CRAZY DESIGN Y CARLITO WAY - EL TEKE TEKE",
+    "titles": {
+      "spa": "CRAZY DESIGN Y CARLITO WAY - EL TEKE TEKE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "70b94604-1be8-41ca-8a4b-579c57a205aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:46:33.830Z",
+    "modified_at": "2022-11-03T23:46:34.299Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_469655fd2b5a76e20d8fed4084f06b8c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3210441,
+      "gain": -11.5,
+      "duration": 200,
+      "loudnorm": "-6.84,5.96,3.00,-16.84,-1.74",
+      "filename": "processed_2a62896fa43d9fa47ce86464817218d7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra guzman - eternamente bella.MP3",
+      "loudnorm": "-10.45,1.60,3.40,-20.67,-0.12",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra guzman - eternamente bella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a20f0068-3c42-4ae1-9f49-acf6b9ca4087",
+    "title": "Alejandra guzman - eternamente bella",
+    "titles": {
+      "spa": "Alejandra guzman - eternamente bella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:35:04.278Z",
+    "modified_at": "2022-11-03T00:35:04.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3344188,
+      "gain": -7.13,
+      "duration": 208,
+      "loudnorm": "-10.45,1.60,3.40,-20.67,-0.12",
+      "filename": "processed_994bca5f320503450aa6af944f501858.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3344188,
+      "gain": -7.13,
+      "duration": 208,
+      "loudnorm": "-10.45,1.60,3.40,-20.67,-0.12",
+      "filename": "processed_717471c093d52fd24ec46df544c37fab.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

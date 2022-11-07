@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Juana Mecho EP.mp3",
+      "loudnorm": "-10.17,5.46,2.30,-20.24,-0.21",
+      "duration": 427,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Juana Mecho EP.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3eedaf3-6977-4695-8d9d-5953c1fcbae8",
+    "title": "Anthony Santos - Juana Mecho EP",
+    "titles": {
+      "spa": "Anthony Santos - Juana Mecho EP"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:08:08.612Z",
+    "modified_at": "2022-11-02T22:08:09.100Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ea8d4c1264516ff30315d668353d420.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5990992,
+      "gain": -8.46,
+      "duration": 427,
+      "loudnorm": "-10.17,5.46,2.30,-20.24,-0.21",
+      "filename": "processed_49479202ba214f26f36d5f7b59fd29e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

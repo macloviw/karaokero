@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NOELIA - - NOELIA - NI UNA LAGRIMA MAS.mp3",
+      "loudnorm": "-15.29,-0.25,3.40,-25.32,-0.86",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NOELIA - - NOELIA - NI UNA LAGRIMA MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd7543a8-9d9a-4017-8b64-e2a834adc9bb",
+    "title": "NOELIA   -   NI UNA LAGRIMA MAS",
+    "titles": {
+      "spa": "NOELIA   -   NI UNA LAGRIMA MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "430fe347-4adc-4a27-8194-a6512b79062e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:45:47.520Z",
+    "modified_at": "2022-11-04T07:45:47.899Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4783c0c107c5d706b716259390b89c23.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5778172,
+      "gain": -2.05,
+      "duration": 240,
+      "loudnorm": "-15.29,-0.25,3.40,-25.32,-0.86",
+      "filename": "processed_a2cf05406d697c4628845cb65d3906be.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

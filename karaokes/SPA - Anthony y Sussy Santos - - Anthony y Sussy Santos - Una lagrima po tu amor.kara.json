@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony y Sussy Santos - - Anthony y Sussy Santos - Una lagrima po tu amor.mp3",
+      "loudnorm": "-8.86,4.35,2.70,-18.87,-0.31",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony y Sussy Santos - - Anthony y Sussy Santos - Una lagrima po tu amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d59174d-f13f-474d-9fd6-72d11548743d",
+    "title": "Anthony y Sussy Santos - Una lagrima po tu amor",
+    "titles": {
+      "spa": "Anthony y Sussy Santos - Una lagrima po tu amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7a10fa16-a77e-47b2-9948-a161d39ec894"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:41:57.372Z",
+    "modified_at": "2022-11-02T22:41:58.313Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f7babad965c840d76b6c41bb750c4577.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5113615,
+      "gain": -9,
+      "duration": 319,
+      "loudnorm": "-8.86,4.35,2.70,-18.87,-0.31",
+      "filename": "processed_1bedaa25a45120dbdf3085f3ac227878.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

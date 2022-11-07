@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Cestero Junior - - Carlos Cestero Junior - Cristo El Divino Senor.mp3",
+      "loudnorm": "-13.95,0.35,9.40,-24.21,-1.21",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Cestero Junior - - Carlos Cestero Junior - Cristo El Divino Senor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "838094c2-6bb4-43f0-a042-25276ba0200d",
+    "title": "Carlos Cestero Junior - Cristo El Divino Señor",
+    "titles": {
+      "spa": "Carlos Cestero Junior - Cristo El Divino Señor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fe839601-eae0-48b0-a2f0-6699f3677a21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:35:08.130Z",
+    "modified_at": "2022-11-03T23:35:08.503Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9906b35a40673cd5d6ff35290e39810.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4072273,
+      "gain": -4.9,
+      "duration": 254,
+      "loudnorm": "-13.95,0.35,9.40,-24.21,-1.21",
+      "filename": "processed_c9ab5bf65bcbe1b88b529474f1457589.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

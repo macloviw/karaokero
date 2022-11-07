@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE==LLEVAME.mp3",
+      "loudnorm": "-17.87,1.42,4.70,-27.93,0.07",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE==LLEVAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "265a9da5-236b-4c8b-8149-dfcae6379e02",
+    "title": "JOSE JOSE==LLEVAME",
+    "titles": {
+      "spa": "JOSE JOSE==LLEVAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:06:04.990Z",
+    "modified_at": "2022-11-03T07:06:05.403Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eae3a365ec426db8339c348a4d2a205d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3839468,
+      "gain": 0.49,
+      "duration": 239,
+      "loudnorm": "-17.87,1.42,4.70,-27.93,0.07",
+      "filename": "processed_7d4cf4077ebfe6dc1cff9ac891ffc325.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

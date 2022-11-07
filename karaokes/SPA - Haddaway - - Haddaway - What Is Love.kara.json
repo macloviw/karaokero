@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Haddaway - - Haddaway - What Is Love.MP3",
+      "loudnorm": "-17.79,-0.40,5.30,-27.97,-0.66",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Haddaway - - Haddaway - What Is Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1230c15-7a34-4ed9-abb2-377219503dc9",
+    "title": "Haddaway - What Is Love",
+    "titles": {
+      "spa": "Haddaway - What Is Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "15f72805-6c69-4f71-beb6-b8e9cd233b3e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:59:59.678Z",
+    "modified_at": "2022-11-04T01:00:00.133Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4034238,
+      "gain": 1.41,
+      "duration": 252,
+      "loudnorm": "-17.79,-0.40,5.30,-27.97,-0.66",
+      "filename": "processed_71fa2f4ac67a0adb6880379b69db897e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4034238,
+      "gain": 1.41,
+      "duration": 252,
+      "loudnorm": "-17.79,-0.40,5.30,-27.97,-0.66",
+      "filename": "processed_fa4109641a765e255fcbe9bf232d41de.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

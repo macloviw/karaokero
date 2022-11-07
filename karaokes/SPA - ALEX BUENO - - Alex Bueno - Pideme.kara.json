@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno - Pideme.MP3",
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno - Pideme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d9b8d9b-26cf-45cd-9a32-d209eb13b9ec",
+    "title": "Alex Bueno - Pideme",
+    "titles": {
+      "spa": "Alex Bueno - Pideme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:02:31.484Z",
+    "modified_at": "2022-11-04T02:02:31.943Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3870720,
+      "gain": -0.59,
+      "duration": 241,
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "filename": "processed_6da4ce0412d772fb0ad5c32bb5515728.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3870720,
+      "gain": -0.59,
+      "duration": 241,
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "filename": "processed_1fd5e86a3bb236a0a32a59141c23abee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

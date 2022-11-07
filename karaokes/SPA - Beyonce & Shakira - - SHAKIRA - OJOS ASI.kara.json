@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - OJOS ASI.MP3",
+      "loudnorm": "-12.13,0.72,3.70,-22.19,-0.68",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - OJOS ASI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8acd9ae2-5998-40dd-849f-7c95bf640821",
+    "title": "SHAKIRA   -   OJOS ASI",
+    "titles": {
+      "spa": "SHAKIRA   -   OJOS ASI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:03:18.313Z",
+    "modified_at": "2022-11-03T13:03:18.796Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3898273,
+      "gain": -3.39,
+      "duration": 243,
+      "loudnorm": "-12.13,0.72,3.70,-22.19,-0.68",
+      "filename": "processed_a42201f45a98588aebd9c9bee44b0847.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3898273,
+      "gain": -3.39,
+      "duration": 243,
+      "loudnorm": "-12.13,0.72,3.70,-22.19,-0.68",
+      "filename": "processed_9596cc7bd70951ef8caef88c52113fa6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

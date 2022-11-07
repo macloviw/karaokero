@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blue Bells - - Blue Bells - Young At Heart.MP3",
+      "loudnorm": "-17.87,-1.96,3.40,-28.06,-0.64",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blue Bells - - Blue Bells - Young At Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f6631ba4-65e8-4f9f-a904-c198c8278931",
+    "title": "Blue Bells - Young At Heart",
+    "titles": {
+      "spa": "Blue Bells - Young At Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ffee7028-81bf-4ba6-803b-cbec96112487"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:05:05.618Z",
+    "modified_at": "2022-11-04T00:05:06.056Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3485039,
+      "gain": 1.24,
+      "duration": 217,
+      "loudnorm": "-17.87,-1.96,3.40,-28.06,-0.64",
+      "filename": "processed_9b74636619dadc23bff011c24681d30e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3485039,
+      "gain": 1.24,
+      "duration": 217,
+      "loudnorm": "-17.87,-1.96,3.40,-28.06,-0.64",
+      "filename": "processed_775fede7c938e283d8a33663c0170114.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

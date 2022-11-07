@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - Jenny Rivera - Cuanto Te Debo.mp3",
+      "loudnorm": "-14.67,0.91,5.10,-24.69,-0.75",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - Jenny Rivera - Cuanto Te Debo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2114c20e-d1ba-4abf-9fb0-99e87f51e486",
+    "title": "Jenny Rivera - Cuanto Te Debo",
+    "titles": {
+      "spa": "Jenny Rivera - Cuanto Te Debo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:49.250Z",
+    "modified_at": "2022-11-03T06:16:49.670Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_962303390e25c48a8d4d5b0af4536099.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4136219,
+      "gain": -3.45,
+      "duration": 172,
+      "loudnorm": "-14.67,0.91,5.10,-24.69,-0.75",
+      "filename": "processed_17e44f2d697e512b4e4fb96433bd0356.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

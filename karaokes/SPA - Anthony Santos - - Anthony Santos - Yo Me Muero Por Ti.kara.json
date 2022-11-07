@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Yo Me Muero Por Ti.mp3",
+      "loudnorm": "-18.50,-5.00,3.00,-28.53,-0.41",
+      "duration": 364,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Yo Me Muero Por Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b373415-0af8-42be-93fb-d37c6d6a539e",
+    "title": "Anthony Santos - Yo Me Muero Por Ti",
+    "titles": {
+      "spa": "Anthony Santos - Yo Me Muero Por Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:29:59.681Z",
+    "modified_at": "2022-11-04T02:30:00.076Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_97df2febca2493bf75c87999d9104b39.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8757080,
+      "gain": 0.88,
+      "duration": 364,
+      "loudnorm": "-18.50,-5.00,3.00,-28.53,-0.41",
+      "filename": "processed_baabf35ef5bc69841c5ca2ef83e83937.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

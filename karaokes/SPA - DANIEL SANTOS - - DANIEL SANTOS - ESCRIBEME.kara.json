@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL SANTOS - - DANIEL SANTOS - ESCRIBEME.MP3",
+      "loudnorm": "-14.59,-0.34,3.60,-24.62,-0.55",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL SANTOS - - DANIEL SANTOS - ESCRIBEME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0f5e4a4-265d-4228-bcf5-0364ada11274",
+    "title": "DANIEL SANTOS   -   ESCRIBEME",
+    "titles": {
+      "spa": "DANIEL SANTOS   -   ESCRIBEME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a7f5db32-849e-4766-b5f8-6e3b888a5952"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:52:07.321Z",
+    "modified_at": "2022-11-03T03:52:07.800Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3173243,
+      "gain": -2.51,
+      "duration": 198,
+      "loudnorm": "-14.59,-0.34,3.60,-24.62,-0.55",
+      "filename": "processed_66f4f747dd832b1b54960e6229af8370.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3173243,
+      "gain": -2.51,
+      "duration": 198,
+      "loudnorm": "-14.59,-0.34,3.60,-24.62,-0.55",
+      "filename": "processed_c704049306c5fdcddaf3c2eb65f1b68f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

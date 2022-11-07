@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Destiny's Child - - Destiny's Child - Bills Bills Bills.MP3",
+      "loudnorm": "-18.30,-4.03,7.60,-28.62,-1.31",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Destiny's Child - - Destiny's Child - Bills Bills Bills.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e55617bc-2946-43ef-b39b-b3aec4af955e",
+    "title": "Destiny's Child - Bills Bills Bills",
+    "titles": {
+      "spa": "Destiny's Child - Bills Bills Bills"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9dbee8a6-6299-482a-a6eb-d2fddd36f239"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:19:56.216Z",
+    "modified_at": "2022-11-04T00:19:56.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4370277,
+      "gain": 0.15,
+      "duration": 273,
+      "loudnorm": "-18.30,-4.03,7.60,-28.62,-1.31",
+      "filename": "processed_b40b10d14a40c2a293b5c32be82ff71a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4370277,
+      "gain": 0.15,
+      "duration": 273,
+      "loudnorm": "-18.30,-4.03,7.60,-28.62,-1.31",
+      "filename": "processed_b8951740a6d4f7ab86c63ee73541bfd3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

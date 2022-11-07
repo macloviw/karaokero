@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Villareal - - Alicia Villareal - Amiga Mia.mp3",
+      "loudnorm": "-12.13,0.64,6.80,-22.28,-1.35",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Villareal - - Alicia Villareal - Amiga Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d1a16c5d-7bce-4370-bfa5-1fb7efd21358",
+    "title": "Alicia Villareal - Amiga Mia",
+    "titles": {
+      "spa": "Alicia Villareal - Amiga Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2d5acaa4-ec97-451c-ab11-6b3a3df954d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:26:49.490Z",
+    "modified_at": "2022-11-03T01:26:49.899Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6c849567452e1150ad0f355c1b229f3a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5983181,
+      "gain": -6.36,
+      "duration": 249,
+      "loudnorm": "-12.13,0.64,6.80,-22.28,-1.35",
+      "filename": "processed_6368054d6ed7f0a21a9e6b9420efcac5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

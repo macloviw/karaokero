@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG.MP3",
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a82ca311-51f4-4db7-8fa2-ded345258b4e",
+    "title": "SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG",
+    "titles": {
+      "spa": "SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:05:10.777Z",
+    "modified_at": "2022-11-03T14:05:11.472Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.29,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "filename": "processed_7b46a060089276cd401b3a4f9b7b3258.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.29,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "filename": "processed_3892001862f7dfd14d0e6d07f8e24f05.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

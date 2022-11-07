@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Sohne Mannheims - - Sohne Mannheims - Vielleicht.mp3",
+      "loudnorm": "-18.08,-5.76,7.20,-28.28,-0.80",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Sohne Mannheims - - Sohne Mannheims - Vielleicht.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6067dcad-0a49-4b42-9c09-746bb606cac9",
+    "title": "Sohne Mannheims - Vielleicht",
+    "titles": {
+      "spa": "Sohne Mannheims - Vielleicht"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "54b7d10e-f2dd-439d-b306-0b3b2b3a5bf3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:32:34.546Z",
+    "modified_at": "2022-11-04T08:32:34.920Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9609300e3009f2ed5155a2ce3887dbe7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5658624,
+      "gain": 0.59,
+      "duration": 235,
+      "loudnorm": "-18.08,-5.76,7.20,-28.28,-0.80",
+      "filename": "processed_aece03be5f2def126eff58ef753be94f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

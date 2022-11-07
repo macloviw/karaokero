@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ann Orson - - Ann Orson - Don't Go Breaking My Heart.mp3",
+      "loudnorm": "-17.20,-0.31,3.20,-27.26,-0.44",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ann Orson - - Ann Orson - Don't Go Breaking My Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aacba46f-cba0-4579-ada0-475837cf86b8",
+    "title": "Ann Orson - Don't Go Breaking My Heart",
+    "titles": {
+      "spa": "Ann Orson - Don't Go Breaking My Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1a491f42-b55e-424f-aec4-b941e82089d3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:55:02.295Z",
+    "modified_at": "2022-11-03T23:55:02.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9d239ab49fc70c8a07baea11904a9250.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5332992,
+      "gain": -0.26,
+      "duration": 222,
+      "loudnorm": "-17.20,-0.31,3.20,-27.26,-0.44",
+      "filename": "processed_1a82cb88abab34ab982b6f2bebb4e7ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

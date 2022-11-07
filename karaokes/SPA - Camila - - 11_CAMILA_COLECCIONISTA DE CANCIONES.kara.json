@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camila - - 11_CAMILA_COLECCIONISTA DE CANCIONES.mp3",
+      "loudnorm": "-13.40,1.10,9.90,-23.81,-1.86",
+      "duration": 303,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camila - - 11_CAMILA_COLECCIONISTA DE CANCIONES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7a1d7c7-74c8-42bc-987d-f8be5a5e2edc",
+    "title": "11_CAMILA_COLECCIONISTA DE CANCIONES",
+    "titles": {
+      "spa": "11_CAMILA_COLECCIONISTA DE CANCIONES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b4e5c91-dc93-4341-8d71-2d3c8d03ce0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:42:03.706Z",
+    "modified_at": "2022-11-03T02:42:04.135Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_df7968fdc084bbf229533bfbcde567e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7296913,
+      "gain": -3.97,
+      "duration": 303,
+      "loudnorm": "-13.40,1.10,9.90,-23.81,-1.86",
+      "filename": "processed_00f8a77e96ddc5a75ad75b2b0241b90d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

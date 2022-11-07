@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - SUERTE.MP3",
+      "loudnorm": "-9.89,1.04,1.70,-20.04,-0.44",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - SUERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b18eb165-7d54-4e96-b8ed-a2b6fc16d876",
+    "title": "SHAKIRA   -   SUERTE",
+    "titles": {
+      "spa": "SHAKIRA   -   SUERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:04:52.354Z",
+    "modified_at": "2022-11-03T13:04:52.828Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3194012,
+      "gain": -5.75,
+      "duration": 199,
+      "loudnorm": "-9.89,1.04,1.70,-20.04,-0.44",
+      "filename": "processed_fdb8972ca3427be0f30336b896ec3912.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3194012,
+      "gain": -5.75,
+      "duration": 199,
+      "loudnorm": "-9.89,1.04,1.70,-20.04,-0.44",
+      "filename": "processed_cc2cacee0cd7a05d10ec027d7f55cc26.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

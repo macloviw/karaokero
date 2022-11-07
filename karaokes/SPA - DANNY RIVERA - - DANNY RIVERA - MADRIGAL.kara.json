@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - MADRIGAL.MP3",
+      "loudnorm": "-16.24,-1.93,6.40,-26.32,0.01",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - MADRIGAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd332ad0-3c69-4b70-9a97-982f7c10c97b",
+    "title": "DANNY RIVERA   -   MADRIGAL",
+    "titles": {
+      "spa": "DANNY RIVERA   -   MADRIGAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:58:18.238Z",
+    "modified_at": "2022-11-03T03:58:18.695Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3010528,
+      "gain": -2.25,
+      "duration": 188,
+      "loudnorm": "-16.24,-1.93,6.40,-26.32,0.01",
+      "filename": "processed_0f68fa5e292c2b945aa810c66434dfef.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3010528,
+      "gain": -2.25,
+      "duration": 188,
+      "loudnorm": "-16.24,-1.93,6.40,-26.32,0.01",
+      "filename": "processed_d2f27aea80790ac3c323644dbb063f42.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

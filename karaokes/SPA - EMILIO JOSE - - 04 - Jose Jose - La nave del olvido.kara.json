@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 04 - Jose Jose - La nave del olvido.mp3",
+      "loudnorm": "-13.04,0.21,4.30,-23.33,-0.42",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 04 - Jose Jose - La nave del olvido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef40630f-1c3b-4740-9cf5-67c0c17188f9",
+    "title": "04 - Jose Jose - La nave del olvido",
+    "titles": {
+      "spa": "04 - Jose Jose - La nave del olvido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:39:01.363Z",
+    "modified_at": "2022-11-03T06:39:01.805Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2c1eeeff4a2dbc25ea7be13dc03f3c4c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5733659,
+      "gain": -4.71,
+      "duration": 238,
+      "loudnorm": "-13.04,0.21,4.30,-23.33,-0.42",
+      "filename": "processed_403d1bfbc751969f40c6c03b34e712f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

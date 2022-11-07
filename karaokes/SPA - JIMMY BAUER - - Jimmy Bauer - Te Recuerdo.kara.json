@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JIMMY BAUER - - Jimmy Bauer - Te Recuerdo.mp3",
+      "loudnorm": "-13.66,1.08,4.40,-23.69,-0.70",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JIMMY BAUER - - Jimmy Bauer - Te Recuerdo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c6af1c5-bb06-402d-8d52-84deef387c20",
+    "title": "Jimmy Bauer - Te Recuerdo",
+    "titles": {
+      "spa": "Jimmy Bauer - Te Recuerdo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "defae15e-425f-42a5-afc6-11df8c4ea322"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:51:46.501Z",
+    "modified_at": "2022-11-02T23:51:46.947Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5b2332a130d1606811e67a1dfcf37732.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6116092,
+      "gain": -4.62,
+      "duration": 254,
+      "loudnorm": "-13.66,1.08,4.40,-23.69,-0.70",
+      "filename": "processed_e2058a2072a302855a9e0a00c0208eb1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

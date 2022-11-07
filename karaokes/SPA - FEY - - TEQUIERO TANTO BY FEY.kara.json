@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FEY - - TEQUIERO TANTO BY FEY.MP3",
+      "loudnorm": "-16.87,0.31,9.90,-27.30,-2.20",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FEY - - TEQUIERO TANTO BY FEY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0bb7334-43a1-4100-8ece-56dd2a7f130c",
+    "title": "TEQUIERO TANTO BY FEY",
+    "titles": {
+      "spa": "TEQUIERO TANTO BY FEY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "79fd212c-9e96-4d03-a41f-9c5227a61509"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:21:42.001Z",
+    "modified_at": "2022-11-03T05:21:42.468Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3025992,
+      "gain": 1.41,
+      "duration": 189,
+      "loudnorm": "-16.87,0.31,9.90,-27.30,-2.20",
+      "filename": "processed_975c459cb54b48284a5ce868cac049ae.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3025992,
+      "gain": 1.41,
+      "duration": 189,
+      "loudnorm": "-16.87,0.31,9.90,-27.30,-2.20",
+      "filename": "processed_472bd00cd8b3aad723196839a7ba0a4e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CANO EXTREMERA - - Extreme - Hole Hearted.mp3",
+      "loudnorm": "-13.54,2.58,5.20,-24.02,-1.29",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CANO EXTREMERA - - Extreme - Hole Hearted.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "58525d46-ac89-4ec5-bea4-55404d3e6ac0",
+    "title": "Extreme - Hole Hearted",
+    "titles": {
+      "spa": "Extreme - Hole Hearted"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c7a3003c-08ee-4826-a486-91ef68613a22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:40:01.334Z",
+    "modified_at": "2022-11-04T00:40:01.714Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7836c4ac1dfb9997c5c6d1c3f7a332ab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3717120,
+      "gain": -3.81,
+      "duration": 232,
+      "loudnorm": "-13.54,2.58,5.20,-24.02,-1.29",
+      "filename": "processed_d3cbee27506dad7050c26c68897df469.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

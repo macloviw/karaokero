@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniel Bedingfield - - Daniel Bedingfield - If You're Not The One.mp3",
+      "loudnorm": "-17.34,-0.45,11.80,-27.91,-1.20",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniel Bedingfield - - Daniel Bedingfield - If You're Not The One.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d4f29b1-2af5-4896-a561-8830c10aa1d2",
+    "title": "Daniel Bedingfield - If You're Not The One",
+    "titles": {
+      "spa": "Daniel Bedingfield - If You're Not The One"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4db1fdd5-3855-4c67-a799-1260d67ac9bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:46:56.112Z",
+    "modified_at": "2022-11-03T15:46:56.614Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c92ca0273ce931bc6e8f322fe29e2dde.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6415769,
+      "gain": 0.99,
+      "duration": 267,
+      "loudnorm": "-17.34,-0.45,11.80,-27.91,-1.20",
+      "filename": "processed_677e378077faee0738b1d8ca735114ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

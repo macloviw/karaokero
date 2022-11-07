@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - QUE VOY A HACER CON MI AMOR.mp3",
+      "loudnorm": "-15.06,0.82,8.20,-25.25,-1.41",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - QUE VOY A HACER CON MI AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed7bb1f5-7b1a-442f-9088-960b96044d44",
+    "title": "ALEJANDRO FERNANDEZ   -   QUE VOY A HACER CON MI AMOR",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ   -   QUE VOY A HACER CON MI AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:40:37.367Z",
+    "modified_at": "2022-11-03T00:40:37.820Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3418cf5df22d6bd04ae127484511b6da.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6314204,
+      "gain": -3.17,
+      "duration": 262,
+      "loudnorm": "-15.06,0.82,8.20,-25.25,-1.41",
+      "filename": "processed_5ed122e1e4079b581487321300042fe5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - El Baile del Suavesito.MP3",
+      "loudnorm": "-15.70,0.85,5.80,-25.77,0.09",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - El Baile del Suavesito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f5b61655-5636-47ac-8c6a-23b766e7fd4e",
+    "title": "Oscar D'Leon - El Baile del Suavesito",
+    "titles": {
+      "spa": "Oscar D'Leon - El Baile del Suavesito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:02:27.597Z",
+    "modified_at": "2022-11-04T08:02:28.227Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5185536,
+      "gain": -5.76,
+      "duration": 324,
+      "loudnorm": "-15.70,0.85,5.80,-25.77,0.09",
+      "filename": "processed_76970b2c3cf51538ac07add56d5b46b9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5185536,
+      "gain": -5.76,
+      "duration": 324,
+      "loudnorm": "-15.70,0.85,5.80,-25.77,0.09",
+      "filename": "processed_931abf4572e163297ac70b2d9268fe69.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

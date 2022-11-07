@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Daniel - - DANNY DANIEL - TU AMOR FUE DIFERENTE.mp3",
+      "loudnorm": "-12.08,4.36,2.40,-22.11,-0.29",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Daniel - - DANNY DANIEL - TU AMOR FUE DIFERENTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "129eac9b-968c-4512-8651-85d377abce6f",
+    "title": "DANNY DANIEL - TU AMOR FUE DIFERENTE",
+    "titles": {
+      "spa": "DANNY DANIEL - TU AMOR FUE DIFERENTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bc5eced1-bcf4-4da1-9422-d8cb15a13412"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:57:25.052Z",
+    "modified_at": "2022-11-03T03:57:25.482Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4b1416fb4f16b1f8c5637f4aada4d93.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4151764,
+      "gain": -7.25,
+      "duration": 296,
+      "loudnorm": "-12.08,4.36,2.40,-22.11,-0.29",
+      "filename": "processed_4a3a1281b70d1943dac181a197cde97e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

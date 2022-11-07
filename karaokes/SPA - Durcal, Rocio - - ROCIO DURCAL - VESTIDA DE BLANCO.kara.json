@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - VESTIDA DE BLANCO.mp3",
+      "loudnorm": "-13.95,-1.01,2.60,-24.07,-0.07",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - VESTIDA DE BLANCO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "716953e5-a22f-4b1a-b859-9e1f14dda7af",
+    "title": "ROCIO DURCAL   -   VESTIDA DE BLANCO",
+    "titles": {
+      "spa": "ROCIO DURCAL   -   VESTIDA DE BLANCO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:42:10.512Z",
+    "modified_at": "2022-11-03T12:42:10.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae0d53e206f50259e07332b30f1406de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4499843,
+      "gain": -4.82,
+      "duration": 187,
+      "loudnorm": "-13.95,-1.01,2.60,-24.07,-0.07",
+      "filename": "processed_d343909a79d505710e5a541d0a1e5041.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

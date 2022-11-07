@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - High School Musical - - High School Musical - Start Of Something New.mp3",
+      "loudnorm": "-7.88,6.42,11.10,-18.37,-1.62",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - High School Musical - - High School Musical - Start Of Something New.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ab7ce16c-3563-4f81-af8b-6989302a7fff",
+    "title": "High School Musical - Start Of Something New",
+    "titles": {
+      "spa": "High School Musical - Start Of Something New"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c16b6be1-bc08-476d-9994-4d2e926bae7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:01:27.779Z",
+    "modified_at": "2022-11-04T01:01:28.203Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_11340681052b672fa55b33db9ce1b576.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3381454,
+      "gain": -9.36,
+      "duration": 211,
+      "loudnorm": "-7.88,6.42,11.10,-18.37,-1.62",
+      "filename": "processed_f53dee173e33fd1cc1475843af5b1e7b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

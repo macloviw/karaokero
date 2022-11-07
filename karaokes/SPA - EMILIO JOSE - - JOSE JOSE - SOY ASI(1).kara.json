@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE - SOY ASI(1).mp3",
+      "loudnorm": "-14.38,0.44,7.00,-24.65,-1.06",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE - SOY ASI(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b8884cb-9650-42e4-bde5-a56fe18197d2",
+    "title": "JOSE JOSE - SOY ASI(1)",
+    "titles": {
+      "spa": "JOSE JOSE - SOY ASI(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:01:56.549Z",
+    "modified_at": "2022-11-03T07:01:56.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_07966b22e63f2088e325051c2c4fcea3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5159383,
+      "gain": -3.7,
+      "duration": 214,
+      "loudnorm": "-14.38,0.44,7.00,-24.65,-1.06",
+      "filename": "processed_48582d8d4acb9a738e262f966e14daa7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

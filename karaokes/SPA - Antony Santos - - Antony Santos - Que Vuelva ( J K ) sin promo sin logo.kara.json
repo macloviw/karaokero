@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - Antony Santos - Que Vuelva ( J K ) sin promo sin logo.mp3",
+      "loudnorm": "-16.27,-3.14,2.50,-26.33,-0.26",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - Antony Santos - Que Vuelva ( J K ) sin promo sin logo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d77d71b-242a-4560-8186-ed39f664ea46",
+    "title": "Antony Santos - Que Vuelva ( J K ) sin promo sin logo",
+    "titles": {
+      "spa": "Antony Santos - Que Vuelva ( J K ) sin promo sin logo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:33:04.062Z",
+    "modified_at": "2022-11-04T02:33:04.438Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_923e357e8ec69ac478c1c40c70ffbe01.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9963133,
+      "gain": -1.08,
+      "duration": 248,
+      "loudnorm": "-16.27,-3.14,2.50,-26.33,-0.26",
+      "filename": "processed_8d80c8ef9fdd5de8d7e9c46947da1354.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

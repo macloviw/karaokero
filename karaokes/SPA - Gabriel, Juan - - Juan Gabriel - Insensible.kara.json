@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Insensible.mp3",
+      "loudnorm": "-17.63,-1.18,2.30,-27.73,-0.55",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Insensible.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b12b859-ed9a-448b-8c36-66ba11ae2bc8",
+    "title": "Juan Gabriel - Insensible",
+    "titles": {
+      "spa": "Juan Gabriel - Insensible"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:31:25.560Z",
+    "modified_at": "2022-11-03T05:31:26.083Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ec9c6039d7e708c1db4203a4a35f9bc1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2834788,
+      "gain": 0.25,
+      "duration": 177,
+      "loudnorm": "-17.63,-1.18,2.30,-27.73,-0.55",
+      "filename": "processed_b914795710f5955e7990a9af3e59ab65.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

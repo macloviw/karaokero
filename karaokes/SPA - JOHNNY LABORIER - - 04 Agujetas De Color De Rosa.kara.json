@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOHNNY LABORIER - - 04 Agujetas De Color De Rosa.mp3",
+      "loudnorm": "-21.60,-5.10,6.00,-32.37,-0.60",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOHNNY LABORIER - - 04 Agujetas De Color De Rosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bd6ff8e-5ae8-46b9-a249-9dbe433840f2",
+    "title": "04 Agujetas De Color De Rosa",
+    "titles": {
+      "spa": "04 Agujetas De Color De Rosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af55ac59-7c48-481c-ae7b-633a62a97ed0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:25:37.105Z",
+    "modified_at": "2022-11-03T06:25:37.517Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_29f1a377777c6e5156cf227fbbdcd905.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3802061,
+      "gain": 2.21,
+      "duration": 158,
+      "loudnorm": "-21.60,-5.10,6.00,-32.37,-0.60",
+      "filename": "processed_62d3efb04afe436e5b341387f92e2dd0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

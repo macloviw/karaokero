@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bette Midle - - Bette Midle - From A Distance.MP3",
+      "loudnorm": "-28.60,-8.95,13.60,-39.06,-1.21",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bette Midle - - Bette Midle - From A Distance.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9dbec6cd-cddd-426f-86ed-cf52721c93a3",
+    "title": "Bette Midle - From A Distance",
+    "titles": {
+      "spa": "Bette Midle - From A Distance"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "227f24ed-d3db-4c0f-9d45-79a756d41cee"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:00:30.818Z",
+    "modified_at": "2022-11-04T00:00:31.767Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11521141,
+      "gain": 9.06,
+      "duration": 287,
+      "loudnorm": "-28.60,-8.95,13.60,-39.06,-1.21",
+      "filename": "processed_201c569955c71147b24c9a489e712e52.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11521141,
+      "gain": 9.06,
+      "duration": 287,
+      "loudnorm": "-28.60,-8.95,13.60,-39.06,-1.21",
+      "filename": "processed_48879755c44c7fafee3cf7435b560f0f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

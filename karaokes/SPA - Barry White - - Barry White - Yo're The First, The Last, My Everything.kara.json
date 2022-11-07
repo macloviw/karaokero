@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Barry White - - Barry White - Yo're The First, The Last, My Everything.mp3",
+      "loudnorm": "-11.52,1.47,1.40,-21.70,-0.70",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Barry White - - Barry White - Yo're The First, The Last, My Everything.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "83d906d0-5d9a-458a-91ed-ad4af27af49e",
+    "title": "Barry White - Yo're The First, The Last, My Everything",
+    "titles": {
+      "spa": "Barry White - Yo're The First, The Last, My Everything"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "abbed123-de7e-439e-9e64-a537460512aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:53:28.550Z",
+    "modified_at": "2022-11-03T14:53:28.997Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b58686e9dce62ea8751d00807ad4c9bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4717391,
+      "gain": -7.22,
+      "duration": 196,
+      "loudnorm": "-11.52,1.47,1.40,-21.70,-0.70",
+      "filename": "processed_979cf472cd131d9d80d558b137af1dbc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

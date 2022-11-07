@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bad Company - - Bad Company - Feel Like Makin' Love.mp3",
+      "loudnorm": "-14.49,1.26,4.80,-24.52,-1.17",
+      "duration": 331,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bad Company - - Bad Company - Feel Like Makin' Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8048cee3-388f-46ee-b55c-d484dd00739e",
+    "title": "Bad Company - Feel Like Makin' Love",
+    "titles": {
+      "spa": "Bad Company - Feel Like Makin' Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7b4ae265-c2dd-416f-bd94-f565c85743be"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:57:11.818Z",
+    "modified_at": "2022-11-03T23:57:12.223Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21edfbad83fe1a9c5cbd7f7411e549c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5305670,
+      "gain": -4.17,
+      "duration": 331,
+      "loudnorm": "-14.49,1.26,4.80,-24.52,-1.17",
+      "filename": "processed_c212b96df5edc9a0fe4fa29c59a31cd8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - LUCIA.MP3",
+      "loudnorm": "-18.23,-2.39,2.60,-28.28,-0.35",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - LUCIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1672f93b-f375-4b31-8278-c471608ee6e6",
+    "title": "CAMBOY ESTEVEZ   -   LUCIA",
+    "titles": {
+      "spa": "CAMBOY ESTEVEZ   -   LUCIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e1cc707-0a71-4f3c-a38d-c9dd3dcc7268"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:39:26.638Z",
+    "modified_at": "2022-11-03T02:39:27.220Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2440849,
+      "gain": -0.92,
+      "duration": 152,
+      "loudnorm": "-18.23,-2.39,2.60,-28.28,-0.35",
+      "filename": "processed_84b2d3f1119933a4d589881f9c631b34.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2440849,
+      "gain": -0.92,
+      "duration": 152,
+      "loudnorm": "-18.23,-2.39,2.60,-28.28,-0.35",
+      "filename": "processed_75cad7da8d61998a1761cd0887867032.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

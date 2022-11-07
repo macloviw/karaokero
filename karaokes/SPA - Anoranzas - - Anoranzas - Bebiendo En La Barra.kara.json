@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anoranzas - - Anoranzas - Bebiendo En La Barra.mp3",
+      "loudnorm": "-13.82,0.81,1.50,-23.88,-0.02",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anoranzas - - Anoranzas - Bebiendo En La Barra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc4c6982-cdd0-42dd-b387-4a2f744c4d91",
+    "title": "Añoranzas - Bebiendo En La Barra",
+    "titles": {
+      "spa": "Añoranzas - Bebiendo En La Barra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "8b4a1f80-8295-4761-b964-14fcb6902ddd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:18:51.334Z",
+    "modified_at": "2022-11-02T23:18:51.759Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56d78d67dea5fa1c3383f0c715d23272.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7783552,
+      "gain": -2.79,
+      "duration": 194,
+      "loudnorm": "-13.82,0.81,1.50,-23.88,-0.02",
+      "filename": "processed_28048b4ef0dc968c203d196e0151b290.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

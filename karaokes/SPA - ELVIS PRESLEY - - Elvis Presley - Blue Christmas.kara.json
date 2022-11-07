@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Blue Christmas.mp3",
+      "loudnorm": "-21.73,-6.24,4.20,-32.06,-0.57",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Blue Christmas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12279c8b-4d59-4b61-93a5-ddf7daeacd23",
+    "title": "Elvis Presley - Blue Christmas",
+    "titles": {
+      "spa": "Elvis Presley - Blue Christmas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:30:21.953Z",
+    "modified_at": "2022-11-04T00:30:22.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_156a206d38ca58721af7047499f974e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3304538,
+      "gain": 4.19,
+      "duration": 158,
+      "loudnorm": "-21.73,-6.24,4.20,-32.06,-0.57",
+      "filename": "processed_ab5fb4ab2981eadb4c284e0f687515d8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - ENANITOS VERDES - AMIGOS.mp3",
+      "loudnorm": "-15.28,0.12,3.10,-25.46,-0.47",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - ENANITOS VERDES - AMIGOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96edf7e0-2a89-4384-b795-ccdea537129b",
+    "title": "ENANITOS VERDES - AMIGOS",
+    "titles": {
+      "spa": "ENANITOS VERDES - AMIGOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:46:26.661Z",
+    "modified_at": "2022-11-03T04:46:27.093Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f693e54a67749bf60650c0839d61844.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2912016,
+      "gain": -1.58,
+      "duration": 181,
+      "loudnorm": "-15.28,0.12,3.10,-25.46,-0.47",
+      "filename": "processed_d9233a2b6447c612de6e37c081f0666d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

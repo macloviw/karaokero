@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - 06 - Camilo Sesto - Perdoname.mp3",
+      "loudnorm": "-12.70,0.25,8.20,-23.00,-1.17",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - 06 - Camilo Sesto - Perdoname.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b49aa32f-f21a-4517-9aa2-25e95fbc3872",
+    "title": "06 - Camilo Sesto - Perdóname",
+    "titles": {
+      "spa": "06 - Camilo Sesto - Perdóname"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:45:31.508Z",
+    "modified_at": "2022-11-03T02:45:31.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_518d559d68f31ef75f15fd98ef9bdeff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5638104,
+      "gain": -5.18,
+      "duration": 234,
+      "loudnorm": "-12.70,0.25,8.20,-23.00,-1.17",
+      "filename": "processed_719dfd1d40d7e0bbd8e0678383a43bbe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

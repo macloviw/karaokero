@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - EL VALS DE LAS MARIPOSA.MP3",
+      "loudnorm": "-16.58,-0.17,8.40,-27.03,-0.02",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - EL VALS DE LAS MARIPOSA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b70002d8-57fb-4f8d-8ab9-e0c5107e187e",
+    "title": "DANI DANIEL   -   EL VALS DE LAS MARIPOSA",
+    "titles": {
+      "spa": "DANI DANIEL   -   EL VALS DE LAS MARIPOSA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:49:05.470Z",
+    "modified_at": "2022-11-03T03:49:05.966Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3683024,
+      "gain": -0.68,
+      "duration": 230,
+      "loudnorm": "-16.58,-0.17,8.40,-27.03,-0.02",
+      "filename": "processed_b193b86efb158a109facf97a65e2975c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3683024,
+      "gain": -0.68,
+      "duration": 230,
+      "loudnorm": "-16.58,-0.17,8.40,-27.03,-0.02",
+      "filename": "processed_219a5338c28192bc5de568ecc868621a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

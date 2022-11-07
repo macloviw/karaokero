@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DUSTY SPRINGFIELD - - Dusty Springfield - The look of love.mp3",
+      "loudnorm": "-20.85,-3.29,6.00,-31.05,-0.61",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DUSTY SPRINGFIELD - - Dusty Springfield - The look of love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d37d743-25ce-4103-bbc3-156ae0eaa165",
+    "title": "Dusty Springfield - The look of love",
+    "titles": {
+      "spa": "Dusty Springfield - The look of love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2e80125d-a94c-423c-b94e-b741f16074c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:16:31.086Z",
+    "modified_at": "2022-11-03T16:16:31.778Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2a192220a0d1c7890657247ffbd87149.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3842813,
+      "gain": 1.91,
+      "duration": 240,
+      "loudnorm": "-20.85,-3.29,6.00,-31.05,-0.61",
+      "filename": "processed_7728efaa2e6c813f9ca54a3833cb4813.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

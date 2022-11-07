@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE - TU GANAS.MP3",
+      "loudnorm": "-10.21,1.35,3.90,-20.61,-0.09",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE - TU GANAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fd0f987-8354-4cf3-a6bf-f41ae6d43a77",
+    "title": "JOSE JOSE   -   TU GANAS",
+    "titles": {
+      "spa": "JOSE JOSE   -   TU GANAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:54:13.128Z",
+    "modified_at": "2022-11-03T06:54:13.597Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2923174,
+      "gain": -5.94,
+      "duration": 182,
+      "loudnorm": "-10.21,1.35,3.90,-20.61,-0.09",
+      "filename": "processed_dfa62249322e898c6caa57b548780859.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2923174,
+      "gain": -5.94,
+      "duration": 182,
+      "loudnorm": "-10.21,1.35,3.90,-20.61,-0.09",
+      "filename": "processed_1941962c9dff47bd75fc1a895267f4e8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

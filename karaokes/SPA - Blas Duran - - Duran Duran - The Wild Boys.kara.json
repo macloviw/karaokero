@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blas Duran - - Duran Duran - The Wild Boys.mp3",
+      "loudnorm": "-16.88,3.64,1.90,-27.03,-0.23",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blas Duran - - Duran Duran - The Wild Boys.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b5703ebd-7706-4a6a-8084-32a933824068",
+    "title": "Duran Duran - The Wild Boys",
+    "titles": {
+      "spa": "Duran Duran - The Wild Boys"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3af94bd5-9b70-422c-a63b-2195a0bad3b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:15:18.538Z",
+    "modified_at": "2022-11-03T16:15:19.203Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b96ae7c164a59e1ad3d5c864c1fad670.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4260354,
+      "gain": -0.08,
+      "duration": 266,
+      "loudnorm": "-16.88,3.64,1.90,-27.03,-0.23",
+      "filename": "processed_45e9781b1c2ef3b4c31cb6826bd5c864.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

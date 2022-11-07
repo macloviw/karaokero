@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ann Lee - - Ann Lee - Two Times.mp3",
+      "loudnorm": "-8.06,4.70,3.40,-18.09,-0.37",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ann Lee - - Ann Lee - Two Times.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6c3137a9-03b4-443c-9505-157e9c8279c1",
+    "title": "Ann Lee - Two Times",
+    "titles": {
+      "spa": "Ann Lee - Two Times"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a363864f-b830-4231-b8d3-bdfca69cfc35"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:54:52.157Z",
+    "modified_at": "2022-11-03T23:54:52.551Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a654d6137533d2a9f19042267f069647.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5812860,
+      "gain": -8.71,
+      "duration": 242,
+      "loudnorm": "-8.06,4.70,3.40,-18.09,-0.37",
+      "filename": "processed_5a8f60fca93130c1c0c738e7256d8d34.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

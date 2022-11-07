@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Cristiano - Somos uno exequiel colon.MP3",
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Cristiano - Somos uno exequiel colon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "308b67cb-f4c4-4302-a188-493354d87b41",
+    "title": "Cristiano - Somos uno exequiel colon",
+    "titles": {
+      "spa": "Cristiano - Somos uno exequiel colon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:01:33.233Z",
+    "modified_at": "2022-11-03T14:01:33.722Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4798557,
+      "gain": -2.18,
+      "duration": 299,
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "filename": "processed_0dfb9d144dfa94c1e287e8095f666a04.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4798557,
+      "gain": -2.18,
+      "duration": 299,
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "filename": "processed_a2802d6d006271185c67cebb711e69dc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Fantasi.mp3",
+      "loudnorm": "-19.64,-2.58,5.00,-29.75,-0.82",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Fantasi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70b70d38-98ec-487c-8207-6443da5ba0e3",
+    "title": "Earth Wind & Fire - Fantasi",
+    "titles": {
+      "spa": "Earth Wind & Fire - Fantasi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a9c40ef9-1609-42f2-b547-4cf04f1bf901"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:23:40.417Z",
+    "modified_at": "2022-11-04T00:23:40.796Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d132d1a77267d753bd4c6a7211aa50e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3592037,
+      "gain": 1.78,
+      "duration": 224,
+      "loudnorm": "-19.64,-2.58,5.00,-29.75,-0.82",
+      "filename": "processed_515b237e488fd01e867ffb8b2dd088c0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Mi Nina.mp3",
+      "loudnorm": "-10.98,0.74,4.20,-21.28,-0.88",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Mi Nina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f0f0ee20-6b94-4e29-99d5-f6453f28feba",
+    "title": "Jose Jose - Mi Niña",
+    "titles": {
+      "spa": "Jose Jose - Mi Niña"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:59:16.211Z",
+    "modified_at": "2022-11-03T06:59:16.659Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bfd2560a45112ace61ff7b9932f93f08.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6381568,
+      "gain": -5.96,
+      "duration": 265,
+      "loudnorm": "-10.98,0.74,4.20,-21.28,-0.88",
+      "filename": "processed_6fee1266f5447faf4c9d293e4203ae9c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GLORIA ESTEFAN Y JOHN SECADA - - GLORIA ESTEFAN Y JOHN SECADA - POR AMOR.MP3",
+      "loudnorm": "-15.75,0.58,8.10,-25.95,-1.19",
+      "duration": 332,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GLORIA ESTEFAN Y JOHN SECADA - - GLORIA ESTEFAN Y JOHN SECADA - POR AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c90ff467-83c3-4db6-b4bf-05ede6273334",
+    "title": "GLORIA ESTEFAN Y JOHN SECADA   -   POR AMOR",
+    "titles": {
+      "spa": "GLORIA ESTEFAN Y JOHN SECADA   -   POR AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bf278ba-c645-4251-b13e-956848c48ebb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:20:22.520Z",
+    "modified_at": "2022-11-03T22:20:23.236Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5314319,
+      "gain": -2.14,
+      "duration": 332,
+      "loudnorm": "-15.75,0.58,8.10,-25.95,-1.19",
+      "filename": "processed_89a6bad17fdf1f0136e0a7869f3e3dbc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5314319,
+      "gain": -2.14,
+      "duration": 332,
+      "loudnorm": "-15.75,0.58,8.10,-25.95,-1.19",
+      "filename": "processed_be32c378603184320e71f51b32ebcc1e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

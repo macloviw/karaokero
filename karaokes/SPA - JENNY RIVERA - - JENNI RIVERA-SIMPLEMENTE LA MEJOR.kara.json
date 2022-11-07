@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-SIMPLEMENTE LA MEJOR.mp3",
+      "loudnorm": "-10.09,2.68,5.90,-20.15,0.41",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-SIMPLEMENTE LA MEJOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b1ad0388-9764-45ef-a6eb-10f72de29e51",
+    "title": "JENNI RIVERA-SIMPLEMENTE LA MEJOR",
+    "titles": {
+      "spa": "JENNI RIVERA-SIMPLEMENTE LA MEJOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:32.211Z",
+    "modified_at": "2022-11-03T06:16:32.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_155567232ad80cf6d890055c612d1158.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2394874,
+      "gain": -8.24,
+      "duration": 170,
+      "loudnorm": "-10.09,2.68,5.90,-20.15,0.41",
+      "filename": "processed_7aa463d1f773fb37d5a238234ecc15b2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Amy Studt - - Amy Studt - Under The Thumb.mp3",
+      "loudnorm": "-8.79,4.32,4.10,-18.87,-1.24",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Amy Studt - - Amy Studt - Under The Thumb.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e301d710-3f1a-428d-a1df-1df4612e5a2e",
+    "title": "Amy Studt - Under The Thumb",
+    "titles": {
+      "spa": "Amy Studt - Under The Thumb"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1ea6f2da-d8d2-4514-8394-0def46b8a8be"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:53:47.119Z",
+    "modified_at": "2022-11-03T23:53:47.525Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_35c4c4eb260aa1ab6d3cc40fd1df4e2c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3925120,
+      "gain": -8.3,
+      "duration": 245,
+      "loudnorm": "-8.79,4.32,4.10,-18.87,-1.24",
+      "filename": "processed_4467bd812742b15982d83660b6d67dd9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Santana - - Carlos Santana - Smooth.MP3",
+      "loudnorm": "-12.12,2.59,4.00,-22.59,-0.19",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Santana - - Carlos Santana - Smooth.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b4906c92-7d49-46f3-ba01-22f9c3393017",
+    "title": "Carlos Santana - Smooth",
+    "titles": {
+      "spa": "Carlos Santana - Smooth"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "90c3edd7-affb-4304-9246-5682e7c4f709"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:57:52.779Z",
+    "modified_at": "2022-11-03T02:57:53.661Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 12721729,
+      "gain": -4.47,
+      "duration": 317,
+      "loudnorm": "-12.12,2.59,4.00,-22.59,-0.19",
+      "filename": "processed_0b2ee0c64376ac380b052c7b5e96dc21.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12721729,
+      "gain": -4.47,
+      "duration": 317,
+      "loudnorm": "-12.12,2.59,4.00,-22.59,-0.19",
+      "filename": "processed_558d419682c3752ddfd124c57e7ed2bf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

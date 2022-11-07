@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bachata, Joe Veras - - JOE VERAS - OTRO DIA SIN TI - CREACION KARAOKE.mp3",
+      "loudnorm": "-13.55,0.94,2.80,-23.63,-0.28",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bachata, Joe Veras - - JOE VERAS - OTRO DIA SIN TI - CREACION KARAOKE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "18f582c2-082f-4e15-8500-b2949afc496b",
+    "title": "JOE VERAS - OTRO DIA SIN TI - CREACION KARAOKE",
+    "titles": {
+      "spa": "JOE VERAS - OTRO DIA SIN TI - CREACION KARAOKE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a78ff7bd-f27f-4c9f-be81-da7b28681373"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:51:16.960Z",
+    "modified_at": "2022-11-04T03:51:17.497Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2bcdbf422b90b172949a73c7da3b899.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6303387,
+      "gain": 1.52,
+      "duration": 255,
+      "loudnorm": "-13.55,0.94,2.80,-23.63,-0.28",
+      "filename": "processed_eb30e2ac7ebd9dbc6b11851fb7773d37.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

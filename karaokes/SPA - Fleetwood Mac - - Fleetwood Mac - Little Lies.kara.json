@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Little Lies.MP3",
+      "loudnorm": "-15.23,-1.79,3.40,-25.31,-0.95",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Little Lies.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aaaeabc0-550c-4888-b24d-63862e828f87",
+    "title": "Fleetwood Mac - Little Lies",
+    "titles": {
+      "spa": "Fleetwood Mac - Little Lies"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7269b91c-1e09-4b6e-a857-8facb8dbbec2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:42:13.929Z",
+    "modified_at": "2022-11-04T00:42:14.359Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3778029,
+      "gain": -3.06,
+      "duration": 236,
+      "loudnorm": "-15.23,-1.79,3.40,-25.31,-0.95",
+      "filename": "processed_bd8ee47d68fcc1eec2abf0d2e02225b5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3778029,
+      "gain": -3.06,
+      "duration": 236,
+      "loudnorm": "-15.23,-1.79,3.40,-25.31,-0.95",
+      "filename": "processed_a559db162863f46694d93452cc194ccb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Vienen con alegria.mp3",
+      "loudnorm": "-13.37,0.57,2.60,-23.46,0.44",
+      "duration": 99,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Vienen con alegria.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7bfcc50-4b70-48b9-a18d-481c8fcbcdf7",
+    "title": "Cantos Religiosos - Vienen con alegria",
+    "titles": {
+      "spa": "Cantos Religiosos - Vienen con alegria"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "a9b10b5f-f794-4090-946b-f8647a0ff742"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:58:49.990Z",
+    "modified_at": "2022-11-03T13:58:50.393Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a843db3f8d006a4e244230926d9b5de2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2380790,
+      "gain": -3.34,
+      "duration": 99,
+      "loudnorm": "-13.37,0.57,2.60,-23.46,0.44",
+      "filename": "processed_3e35cb3cb9840688d0c3154d248797a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

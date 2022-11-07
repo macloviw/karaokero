@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE - TEQUIERO ASI.MP3",
+      "loudnorm": "-18.10,1.08,8.90,-28.37,-1.45",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE - TEQUIERO ASI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "431449d1-a976-4edc-9212-4a148a4a61bd",
+    "title": "JOSE JOSE   -   TEQUIERO ASI",
+    "titles": {
+      "spa": "JOSE JOSE   -   TEQUIERO ASI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:53:58.467Z",
+    "modified_at": "2022-11-03T06:53:59.022Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2913979,
+      "gain": 0.09,
+      "duration": 182,
+      "loudnorm": "-18.10,1.08,8.90,-28.37,-1.45",
+      "filename": "processed_73322b8a3c2a6ee52a064bca83236b63.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2913979,
+      "gain": 0.09,
+      "duration": 182,
+      "loudnorm": "-18.10,1.08,8.90,-28.37,-1.45",
+      "filename": "processed_6a109159bd5e5ed9d247e8df79bc0041.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

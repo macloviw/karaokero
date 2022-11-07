@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - ASI ES LA VIDA BY OLGA TANON.MP3",
+      "loudnorm": "-16.37,0.63,3.30,-26.56,-0.22",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - ASI ES LA VIDA BY OLGA TANON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6ccfce39-7ecc-4d7d-adc4-2757b81f4e07",
+    "title": "ASI ES LA VIDA BY OLGA TAÑON",
+    "titles": {
+      "spa": "ASI ES LA VIDA BY OLGA TAÑON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8abbde97-cb0b-4c2a-9574-14022714476e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:47:01.399Z",
+    "modified_at": "2022-11-04T07:47:01.839Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3560144,
+      "gain": -1.06,
+      "duration": 222,
+      "loudnorm": "-16.37,0.63,3.30,-26.56,-0.22",
+      "filename": "processed_659160192337765a6c54dc02e71af47c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3560144,
+      "gain": -1.06,
+      "duration": 222,
+      "loudnorm": "-16.37,0.63,3.30,-26.56,-0.22",
+      "filename": "processed_95342107759ece523ac0b61dcf1aa7be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

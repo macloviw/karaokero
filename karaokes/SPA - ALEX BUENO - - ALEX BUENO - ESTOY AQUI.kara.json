@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - ALEX BUENO - ESTOY AQUI.mp3",
+      "loudnorm": "-17.64,-3.38,2.20,-27.68,-0.38",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - ALEX BUENO - ESTOY AQUI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "47593003-1339-4c1c-8a33-ea83c291fe08",
+    "title": "ALEX BUENO - ESTOY AQUI",
+    "titles": {
+      "spa": "ALEX BUENO - ESTOY AQUI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:01:34.062Z",
+    "modified_at": "2022-11-04T02:01:34.437Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5f75e5833eb0fd55af69048ff5e50a21.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3441907,
+      "gain": 0.39,
+      "duration": 215,
+      "loudnorm": "-17.64,-3.38,2.20,-27.68,-0.38",
+      "filename": "processed_6fcb530991af861f30455413761fa325.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

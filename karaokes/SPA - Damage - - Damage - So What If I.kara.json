@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Damage - - Damage - So What If I.mp3",
+      "loudnorm": "-13.88,-0.10,3.90,-23.94,-1.00",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Damage - - Damage - So What If I.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "49d8d4a0-890d-4a9c-903b-6a4254ce2598",
+    "title": "Damage - So What If I",
+    "titles": {
+      "spa": "Damage - So What If I"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5db98f6e-2281-49a8-b52c-8cd6b2a7a1cf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:16:27.008Z",
+    "modified_at": "2022-11-04T00:16:27.387Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fcee02456dcbc2e3f059e453d9fb5d1d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3430287,
+      "gain": -3.42,
+      "duration": 214,
+      "loudnorm": "-13.88,-0.10,3.90,-23.94,-1.00",
+      "filename": "processed_967ce5cd7df4ca9f403d7c0e171817c3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

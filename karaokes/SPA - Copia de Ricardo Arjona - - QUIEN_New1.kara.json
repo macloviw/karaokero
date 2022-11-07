@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - QUIEN_New1.mp3",
+      "loudnorm": "-16.13,-0.41,14.60,-26.99,-2.43",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - QUIEN_New1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b113ac17-74d1-4284-a1f9-36ac3ed09f8e",
+    "title": "QUIEN_New1",
+    "titles": {
+      "spa": "QUIEN_New1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:54:24.947Z",
+    "modified_at": "2022-11-03T11:54:25.403Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_adc61bdfd593fe5cf57d1bf6c6eef79c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4302485,
+      "gain": -1.69,
+      "duration": 268,
+      "loudnorm": "-16.13,-0.41,14.60,-26.99,-2.43",
+      "filename": "processed_f4d01f35afd63bedb19a17af482f7ec0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

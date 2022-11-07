@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - CUANDO NADIE ME VE.MP3",
+      "loudnorm": "-15.55,1.30,3.90,-25.71,-0.15",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - CUANDO NADIE ME VE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a8c5a53-fe87-44ed-89b4-25f2b812f188",
+    "title": "ALEJANDRO SANZ   -   CUANDO NADIE ME VE",
+    "titles": {
+      "spa": "ALEJANDRO SANZ   -   CUANDO NADIE ME VE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:03:05.471Z",
+    "modified_at": "2022-11-03T01:03:06.270Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11223346,
+      "gain": -1.25,
+      "duration": 280,
+      "loudnorm": "-15.55,1.30,3.90,-25.71,-0.15",
+      "filename": "processed_813f56a14e4abe52255c41f2be44c4fa.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11223346,
+      "gain": -1.25,
+      "duration": 280,
+      "loudnorm": "-15.55,1.30,3.90,-25.71,-0.15",
+      "filename": "processed_e75be52bd7e88f262507cb0315d620bf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

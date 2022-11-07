@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENMANUEL - - emmanuel=tengo mucho ke aprender de ti.MP3",
+      "loudnorm": "-17.44,-3.49,7.40,-27.65,-0.93",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENMANUEL - - emmanuel=tengo mucho ke aprender de ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b4d6552-42fe-4176-9465-4a3f6f6aaca9",
+    "title": "emmanuel=tengo mucho ke aprender de ti",
+    "titles": {
+      "spa": "emmanuel=tengo mucho ke aprender de ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08c4180-989b-4833-9d6f-085703b5bcac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:51:59.185Z",
+    "modified_at": "2022-11-03T04:51:59.746Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6742300,
+      "gain": 0.66,
+      "duration": 240,
+      "loudnorm": "-17.44,-3.49,7.40,-27.65,-0.93",
+      "filename": "processed_60eac8e088bc22d1375f2f76775f8403.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6742300,
+      "gain": 0.66,
+      "duration": 240,
+      "loudnorm": "-17.44,-3.49,7.40,-27.65,-0.93",
+      "filename": "processed_dbabe9b444e45a7eb24f37c840ea163d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

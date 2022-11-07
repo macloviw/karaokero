@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Querida.mp3",
+      "loudnorm": "-11.42,0.46,3.90,-21.57,-0.75",
+      "duration": 333,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Querida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4224ac84-a49b-471e-ba0c-8670266cbfe7",
+    "title": "Juan Gabriel - Querida",
+    "titles": {
+      "spa": "Juan Gabriel - Querida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:50:00.613Z",
+    "modified_at": "2022-11-03T07:50:01.048Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34bf0ab8528440211efb623efb85d811.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7993344,
+      "gain": -5.5,
+      "duration": 333,
+      "loudnorm": "-11.42,0.46,3.90,-21.57,-0.75",
+      "filename": "processed_f2edf59c1cb264309c1f59982fae6d25.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

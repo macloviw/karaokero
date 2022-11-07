@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Ramon Cordero - - Ramon Cordero - Manantial De Amor.mp3",
+      "loudnorm": "-15.63,0.85,2.20,-25.63,0.18",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Ramon Cordero - - Ramon Cordero - Manantial De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cfeaa758-2af6-4ef1-9d3b-2a0c02bea7f0",
+    "title": "Ramon Cordero - Manantial De Amor",
+    "titles": {
+      "spa": "Ramon Cordero - Manantial De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "20f94e34-d084-4596-b2b5-b4ddd3b0563d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:16:39.490Z",
+    "modified_at": "2022-11-04T08:16:39.880Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_173826957a6e2b2fb53d8cd8ad033639.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7530581,
+      "gain": -2.69,
+      "duration": 313,
+      "loudnorm": "-15.63,0.85,2.20,-25.63,0.18",
+      "filename": "processed_ac674499b9963bf40638427da8f3acf8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

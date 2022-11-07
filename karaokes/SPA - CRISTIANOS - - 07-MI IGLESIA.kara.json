@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - 07-MI IGLESIA.mp3",
+      "loudnorm": "-18.10,-0.05,9.40,-28.33,-2.08",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - 07-MI IGLESIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "254f389c-38af-4675-b04e-329fbe9f0d52",
+    "title": "07-MI IGLESIA",
+    "titles": {
+      "spa": "07-MI IGLESIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:56:10.659Z",
+    "modified_at": "2022-11-04T02:56:11.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_300775fbf7c9f558386d54d9da685290.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6499151,
+      "gain": 0.61,
+      "duration": 270,
+      "loudnorm": "-18.10,-0.05,9.40,-28.33,-2.08",
+      "filename": "processed_492b2af0a549de604848c7cc4c39cb6f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

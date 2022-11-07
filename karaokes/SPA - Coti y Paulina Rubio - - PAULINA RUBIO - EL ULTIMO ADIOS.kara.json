@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - EL ULTIMO ADIOS.MP3",
+      "loudnorm": "-10.98,0.95,6.10,-21.40,-0.91",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - EL ULTIMO ADIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ff395cce-3d77-4717-b892-a91f84a0c8c0",
+    "title": "PAULINA RUBIO   -   EL ULTIMO ADIOS",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   EL ULTIMO ADIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:16:47.934Z",
+    "modified_at": "2022-11-03T11:16:48.706Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11070790,
+      "gain": -7.3,
+      "duration": 276,
+      "loudnorm": "-10.98,0.95,6.10,-21.40,-0.91",
+      "filename": "processed_bceb7f68457ae2db977a97e8b3afa602.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11070790,
+      "gain": -7.3,
+      "duration": 276,
+      "loudnorm": "-10.98,0.95,6.10,-21.40,-0.91",
+      "filename": "processed_1b27979ff6bf360c62affb0a6c04e117.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

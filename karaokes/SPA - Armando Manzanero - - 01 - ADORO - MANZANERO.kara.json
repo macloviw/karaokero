@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - 01 - ADORO - MANZANERO.mp3",
+      "loudnorm": "-12.44,0.89,2.20,-22.53,0.13",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - 01 - ADORO - MANZANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "baa50a20-85c4-4e4f-aea2-68bbb5c7486a",
+    "title": "01 - ADORO - MANZANERO",
+    "titles": {
+      "spa": "01 - ADORO - MANZANERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:57:27.283Z",
+    "modified_at": "2022-11-03T01:57:27.709Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3f555e3dd0701939b624b852b5dd8c31.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4729930,
+      "gain": -4.22,
+      "duration": 196,
+      "loudnorm": "-12.44,0.89,2.20,-22.53,0.13",
+      "filename": "processed_a9c9c783aa296ae461d2b5ed8e9c711a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

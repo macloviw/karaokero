@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOE VERAS - - Joe Veras - Ella Volvio.mp3",
+      "loudnorm": "-20.29,-1.04,2.80,-30.33,-0.08",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOE VERAS - - Joe Veras - Ella Volvio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05835e8e-a288-4936-94a1-e5abca82ab5e",
+    "title": "Joe Veras - Ella Volvio",
+    "titles": {
+      "spa": "Joe Veras - Ella Volvio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "143ea420-7bc8-4464-9680-87cbb5ebb183"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:54:03.079Z",
+    "modified_at": "2022-11-02T23:54:03.517Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c6df8c7870118b13bece0516145b3e76.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3826513,
+      "gain": 1.88,
+      "duration": 239,
+      "loudnorm": "-20.29,-1.04,2.80,-30.33,-0.08",
+      "filename": "processed_7a80738874a516762e22c9c9f55b6f4a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

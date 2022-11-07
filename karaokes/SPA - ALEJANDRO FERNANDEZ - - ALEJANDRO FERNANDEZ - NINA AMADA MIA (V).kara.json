@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - NINA AMADA MIA (V).MP3",
+      "loudnorm": "-11.72,0.24,2.90,-21.77,-0.79",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - NINA AMADA MIA (V).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c4d8ff27-4f7d-4535-8b98-f85be1de2063",
+    "title": "ALEJANDRO FERNANDEZ   -   NIÑA AMADA MIA (V)",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ   -   NIÑA AMADA MIA (V)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:39:46.102Z",
+    "modified_at": "2022-11-03T00:39:46.601Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3293068,
+      "gain": -5.67,
+      "duration": 205,
+      "loudnorm": "-11.72,0.24,2.90,-21.77,-0.79",
+      "filename": "processed_31bc9fe1a31cf860f5c320ba5a6afba2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3293068,
+      "gain": -5.67,
+      "duration": 205,
+      "loudnorm": "-11.72,0.24,2.90,-21.77,-0.79",
+      "filename": "processed_2e56b4cb851b0ead4a696b84da3824ad.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

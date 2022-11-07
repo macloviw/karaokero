@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cotton Eye Joe - - Cotton Eye Joe - Rednex.mp3",
+      "loudnorm": "-15.78,-2.35,2.40,-26.03,-0.87",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cotton Eye Joe - - Cotton Eye Joe - Rednex.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78857776-baa6-46f7-a3e3-aada1f9fb1f2",
+    "title": "Cotton Eye Joe - Rednex",
+    "titles": {
+      "spa": "Cotton Eye Joe - Rednex"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f3a2161e-a39b-45f4-8047-38e936462886"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:15:12.411Z",
+    "modified_at": "2022-11-04T00:15:12.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd3713d904c3fb94c1f76d7d816de0d1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4338120,
+      "gain": -1.92,
+      "duration": 216,
+      "loudnorm": "-15.78,-2.35,2.40,-26.03,-0.87",
+      "filename": "processed_6f874b3a5f61003fb70995034c1ade91.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

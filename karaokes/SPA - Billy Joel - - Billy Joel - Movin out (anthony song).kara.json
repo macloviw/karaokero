@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Joel - - Billy Joel - Movin out (anthony song).mp3",
+      "loudnorm": "-17.77,-3.61,2.50,-27.96,-0.17",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Joel - - Billy Joel - Movin out (anthony song).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a7c76ab-0204-49b4-9ea0-25e1b024b05a",
+    "title": "Billy Joel - Movin out (anthony song)",
+    "titles": {
+      "spa": "Billy Joel - Movin out (anthony song)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "86768663-73b7-4abf-aaf6-17bab636a302"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:04:49.119Z",
+    "modified_at": "2022-11-03T15:04:49.553Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b1816fe20b45f339fc99ac65a20813c5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5425832,
+      "gain": 1.69,
+      "duration": 225,
+      "loudnorm": "-17.77,-3.61,2.50,-27.96,-0.17",
+      "filename": "processed_8e5d56ba791469685407081b7117aa91.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

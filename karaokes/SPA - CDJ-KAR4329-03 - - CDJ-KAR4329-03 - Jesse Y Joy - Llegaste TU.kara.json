@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4329-03 - - CDJ-KAR4329-03 - Jesse Y Joy - Llegaste TU.mp3",
+      "loudnorm": "-9.29,2.88,11.50,-19.64,-1.53",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4329-03 - - CDJ-KAR4329-03 - Jesse Y Joy - Llegaste TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "58565cf3-e93c-484a-ac74-00b28ebb8529",
+    "title": "CDJ-KAR4329-03 - Jesse Y Joy - Llegaste TU",
+    "titles": {
+      "spa": "CDJ-KAR4329-03 - Jesse Y Joy - Llegaste TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62da0ec9-adb5-4078-992e-d01bb36ac22d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:50:27.001Z",
+    "modified_at": "2022-11-03T21:50:27.396Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6d03603532d27367eda3011053a837f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3992023,
+      "gain": -7.59,
+      "duration": 249,
+      "loudnorm": "-9.29,2.88,11.50,-19.64,-1.53",
+      "filename": "processed_2e2dc70dd3798e438bfae9a401555397.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

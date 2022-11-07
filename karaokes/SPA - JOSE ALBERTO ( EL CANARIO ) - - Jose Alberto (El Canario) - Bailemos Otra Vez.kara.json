@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Bailemos Otra Vez.MP3",
+      "loudnorm": "-13.62,1.26,5.10,-23.67,-0.56",
+      "duration": 325,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Bailemos Otra Vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "362fa823-7f8a-4c63-8028-adf6876031e4",
+    "title": "Jose Alberto (El Canario) - Bailemos Otra Vez",
+    "titles": {
+      "spa": "Jose Alberto (El Canario) - Bailemos Otra Vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9422437f-ee93-4c3f-8df1-b151aebcc9ac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:53:37.612Z",
+    "modified_at": "2022-11-04T03:53:38.187Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5212160,
+      "gain": -5.59,
+      "duration": 325,
+      "loudnorm": "-13.62,1.26,5.10,-23.67,-0.56",
+      "filename": "processed_d5ac7a9c084968e82c569baabd9533af.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5212160,
+      "gain": -5.59,
+      "duration": 325,
+      "loudnorm": "-13.62,1.26,5.10,-23.67,-0.56",
+      "filename": "processed_0206aad7a5f6f866f23376edab6632a9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

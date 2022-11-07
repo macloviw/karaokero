@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - (Cristiana) - Con Nosotros Esta.mp3",
+      "loudnorm": "-15.04,0.05,2.70,-25.25,0.56",
+      "duration": 130,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - (Cristiana) - Con Nosotros Esta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "248fb746-3c31-4497-8534-9ce2790a0751",
+    "title": "(Cristiana) - Con Nosotros Esta",
+    "titles": {
+      "spa": "(Cristiana) - Con Nosotros Esta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:53:52.105Z",
+    "modified_at": "2022-11-04T02:53:52.476Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5b4684e94ff6667b149fb37420d2df4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3126221,
+      "gain": -1.67,
+      "duration": 130,
+      "loudnorm": "-15.04,0.05,2.70,-25.25,0.56",
+      "filename": "processed_feeed7390bb86ff6de14655e0e43fd7e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

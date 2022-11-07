@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 01 - Amor No me Ignores.mp3",
+      "loudnorm": "-10.26,0.87,11.70,-20.49,-1.75",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 01 - Amor No me Ignores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd3aff80-3cf6-43fd-9318-76400f23d678",
+    "title": "Camilo Sesto - 01 - Amor No me Ignores",
+    "titles": {
+      "spa": "Camilo Sesto - 01 - Amor No me Ignores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:51:20.387Z",
+    "modified_at": "2022-11-03T02:51:20.918Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0b1132724af5f7cacdf1b25196002ba0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4943840,
+      "gain": -8.85,
+      "duration": 205,
+      "loudnorm": "-10.26,0.87,11.70,-20.49,-1.75",
+      "filename": "processed_8b9ee997ba3f9b5d68763180b8375a59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

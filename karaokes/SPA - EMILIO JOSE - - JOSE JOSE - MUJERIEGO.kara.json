@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE - MUJERIEGO.MP3",
+      "loudnorm": "-18.01,-2.31,2.60,-28.05,-0.28",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE - MUJERIEGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7c95366-1200-4a18-a3d1-06f436d9ed65",
+    "title": "JOSE JOSE   -   MUJERIEGO",
+    "titles": {
+      "spa": "JOSE JOSE   -   MUJERIEGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:52:57.170Z",
+    "modified_at": "2022-11-03T06:52:57.764Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3393796,
+      "gain": 2.25,
+      "duration": 211,
+      "loudnorm": "-18.01,-2.31,2.60,-28.05,-0.28",
+      "filename": "processed_b8f2012d2de37a9e840fffd2868f9bb4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3393796,
+      "gain": 2.25,
+      "duration": 211,
+      "loudnorm": "-18.01,-2.31,2.60,-28.05,-0.28",
+      "filename": "processed_1777ac6920fd7dfd6c9ed9efd9b4b615.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

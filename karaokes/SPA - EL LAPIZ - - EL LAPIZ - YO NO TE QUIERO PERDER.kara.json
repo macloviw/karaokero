@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL LAPIZ - - EL LAPIZ - YO NO TE QUIERO PERDER.mp3",
+      "loudnorm": "-11.49,1.33,4.30,-21.60,-0.59",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL LAPIZ - - EL LAPIZ - YO NO TE QUIERO PERDER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "82c5a184-a9d5-47b2-a1fc-414b799983c7",
+    "title": "EL LAPIZ                             -   YO NO TE QUIERO PERDER",
+    "titles": {
+      "spa": "EL LAPIZ                             -   YO NO TE QUIERO PERDER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d8323fbc-37f8-4c03-9e86-819f8aa16ff8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:09:21.774Z",
+    "modified_at": "2022-11-04T03:09:22.155Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5be92ae0e9fc52b8a28d35f5b771fa7d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4933687,
+      "gain": -3.59,
+      "duration": 308,
+      "loudnorm": "-11.49,1.33,4.30,-21.60,-0.59",
+      "filename": "processed_14be0ec4a25cb9d8fd00fca0e2d9d414.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

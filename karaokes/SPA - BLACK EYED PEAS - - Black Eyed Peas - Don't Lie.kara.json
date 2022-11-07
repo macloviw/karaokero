@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - Don't Lie.mp3",
+      "loudnorm": "-7.62,5.15,3.70,-17.68,-1.34",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - Don't Lie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70fb3207-3e4e-49e0-9a97-c9a479d9bfca",
+    "title": "Black Eyed Peas - Don't Lie",
+    "titles": {
+      "spa": "Black Eyed Peas - Don't Lie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "14d79f2a-121f-4b24-92fb-855e4780ea80"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:08:25.716Z",
+    "modified_at": "2022-11-03T15:08:26.132Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8c8e1689acfd4207014571c19e7b71c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3615650,
+      "gain": -9.22,
+      "duration": 225,
+      "loudnorm": "-7.62,5.15,3.70,-17.68,-1.34",
+      "filename": "processed_d49aed7934769f00ed29046db6a8190d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

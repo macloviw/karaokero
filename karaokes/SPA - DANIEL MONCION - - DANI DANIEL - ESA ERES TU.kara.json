@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - ESA ERES TU.MP3",
+      "loudnorm": "-15.20,0.24,3.30,-25.31,-0.53",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - ESA ERES TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c25daf0d-3221-426a-a806-a6781492658d",
+    "title": "DANI DANIEL   -   ESA ERES TU",
+    "titles": {
+      "spa": "DANI DANIEL   -   ESA ERES TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:49:24.082Z",
+    "modified_at": "2022-11-03T03:49:24.558Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -1.34,
+      "duration": 232,
+      "loudnorm": "-15.20,0.24,3.30,-25.31,-0.53",
+      "filename": "processed_3f9ddc7683a4e1abb24a6cfc03378207.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -1.34,
+      "duration": 232,
+      "loudnorm": "-15.20,0.24,3.30,-25.31,-0.53",
+      "filename": "processed_853ee8d065833c95109a94e28bb97fbe.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

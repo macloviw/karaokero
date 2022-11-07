@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - Rubby Perez Popurri (buscando tus besos, cobarde, contigo, ave de paso, enamorado de ella) UNIV.mp3",
+      "loudnorm": "-17.88,-1.08,5.40,-27.95,-0.04",
+      "duration": 598,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - Rubby Perez Popurri (buscando tus besos, cobarde, contigo, ave de paso, enamorado de ella) UNIV.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed8280d9-d89c-4dc2-a20a-f891bfa9edc8",
+    "title": "Rubby Perez  Popurri (buscando tus besos, cobarde, contigo, ave de paso, enamorado de ella)   UNIV",
+    "titles": {
+      "spa": "Rubby Perez  Popurri (buscando tus besos, cobarde, contigo, ave de paso, enamorado de ella)   UNIV"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8d79ccf7-4508-4538-b5c8-4be333150e5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:27:02.881Z",
+    "modified_at": "2022-11-04T08:27:03.312Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34d8a110e5b84c1a932e02144636d410.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 14365426,
+      "gain": -1.49,
+      "duration": 598,
+      "loudnorm": "-17.88,-1.08,5.40,-27.95,-0.04",
+      "filename": "processed_67a0536e0329b6537b3dfe761adde5fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

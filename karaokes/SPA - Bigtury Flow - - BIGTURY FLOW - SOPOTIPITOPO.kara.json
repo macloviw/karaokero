@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bigtury Flow - - BIGTURY FLOW - SOPOTIPITOPO.mp3",
+      "loudnorm": "-4.32,5.38,2.90,-14.35,-1.08",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bigtury Flow - - BIGTURY FLOW - SOPOTIPITOPO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e9e21fe-5945-4b98-8a9c-72c364c471f0",
+    "title": "BIGTURY FLOW                  -   SOPOTIPITOPO",
+    "titles": {
+      "spa": "BIGTURY FLOW                  -   SOPOTIPITOPO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "bdaf8ab1-677b-4faa-96f1-5ea649c1b9c2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:34:53.068Z",
+    "modified_at": "2022-11-03T14:34:53.491Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1a8e9ee055d1086a73fc7604585abb4f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3332484,
+      "gain": -12.68,
+      "duration": 208,
+      "loudnorm": "-4.32,5.38,2.90,-14.35,-1.08",
+      "filename": "processed_96811a71d40bdeeaa63d7236a5fff7ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

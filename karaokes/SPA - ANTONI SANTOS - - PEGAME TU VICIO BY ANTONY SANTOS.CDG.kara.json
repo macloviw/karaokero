@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - PEGAME TU VICIO BY ANTONY SANTOS.CDG.MP3",
+      "loudnorm": "-12.08,-0.44,2.40,-22.13,-0.53",
+      "duration": 362,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - PEGAME TU VICIO BY ANTONY SANTOS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c458aa2-dfde-4217-a6e7-69ade42a82cc",
+    "title": "PEGAME TU VICIO BY ANTONY SANTOS.CDG",
+    "titles": {
+      "spa": "PEGAME TU VICIO BY ANTONY SANTOS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:55:29.662Z",
+    "modified_at": "2022-11-02T22:55:30.498Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5807927,
+      "gain": -6.7,
+      "duration": 362,
+      "loudnorm": "-12.08,-0.44,2.40,-22.13,-0.53",
+      "filename": "processed_5b6898414b89cd5414e7bbdac26d6464.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5807927,
+      "gain": -6.7,
+      "duration": 362,
+      "loudnorm": "-12.08,-0.44,2.40,-22.13,-0.53",
+      "filename": "processed_ab4a11409016d957bff2da8f704841fa.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

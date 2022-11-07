@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 3-se me olvido que te amaba.mp3",
+      "loudnorm": "-10.46,7.42,3.40,-20.56,-0.71",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 3-se me olvido que te amaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "41277cbf-634d-40b0-8057-7819fda6e351",
+    "title": "Frank Reyes  -  - 00 - 3-se me olvido que te amaba",
+    "titles": {
+      "spa": "Frank Reyes  -  - 00 - 3-se me olvido que te amaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:42:22.855Z",
+    "modified_at": "2022-11-02T23:42:23.275Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d5fe71121845c2f59128001fbe604c94.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3324639,
+      "gain": -8.52,
+      "duration": 207,
+      "loudnorm": "-10.46,7.42,3.40,-20.56,-0.71",
+      "filename": "processed_d9b3cb3ff0281288aa9817eb08845f17.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

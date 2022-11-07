@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dean Martin - - Dean Martin - Gentle on my mind.mp3",
+      "loudnorm": "-10.33,2.16,1.30,-20.35,0.05",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dean Martin - - Dean Martin - Gentle on my mind.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34a0103c-d219-4295-bed1-2d1da7cac47b",
+    "title": "Dean Martin - Gentle on my mind",
+    "titles": {
+      "spa": "Dean Martin - Gentle on my mind"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "10d44aef-4147-4b60-b22e-dfaec7340cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:51:37.385Z",
+    "modified_at": "2022-11-03T15:51:37.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47fb74ad6be84aabe51455a4e8e0539d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3054541,
+      "gain": -5.35,
+      "duration": 190,
+      "loudnorm": "-10.33,2.16,1.30,-20.35,0.05",
+      "filename": "processed_bdd6edb6dc09b13d836aa18e7e537936.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

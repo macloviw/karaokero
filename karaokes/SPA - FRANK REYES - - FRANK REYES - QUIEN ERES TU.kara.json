@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - FRANK REYES - QUIEN ERES TU.MP3",
+      "loudnorm": "-16.29,3.56,2.30,-26.38,-0.44",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - FRANK REYES - QUIEN ERES TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "858b0beb-04b3-4eb5-8765-6f44565f788d",
+    "title": "FRANK REYES   -   QUIEN ERES TU",
+    "titles": {
+      "spa": "FRANK REYES   -   QUIEN ERES TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:40:50.711Z",
+    "modified_at": "2022-11-02T23:40:51.374Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4379891,
+      "gain": -1.79,
+      "duration": 273,
+      "loudnorm": "-16.29,3.56,2.30,-26.38,-0.44",
+      "filename": "processed_f1f1df32362ceca6b4b60308f271a696.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4379891,
+      "gain": -1.79,
+      "duration": 273,
+      "loudnorm": "-16.29,3.56,2.30,-26.38,-0.44",
+      "filename": "processed_860ee5e58c482e5b81401de95b773a73.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

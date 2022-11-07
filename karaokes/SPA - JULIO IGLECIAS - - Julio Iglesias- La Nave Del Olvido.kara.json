@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- La Nave Del Olvido.mp3",
+      "loudnorm": "-14.63,-0.18,3.60,-24.86,-0.32",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- La Nave Del Olvido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8039c99e-73a1-451c-aaa3-a0e6d8f22a0e",
+    "title": "Julio Iglesias- La Nave Del Olvido",
+    "titles": {
+      "spa": "Julio Iglesias- La Nave Del Olvido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:04:47.713Z",
+    "modified_at": "2022-11-03T08:04:48.129Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_390d08a05b4172f71f2ffadc444d50a4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3584095,
+      "gain": -3.51,
+      "duration": 223,
+      "loudnorm": "-14.63,-0.18,3.60,-24.86,-0.32",
+      "filename": "processed_4c3d25a9d79c1673fba31677ef3a78e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

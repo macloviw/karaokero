@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - 10 Jamas Me Cansare De Ti.mp3",
+      "loudnorm": "-10.16,0.22,6.20,-20.21,-0.26",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - 10 Jamas Me Cansare De Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d40f174-6bea-4964-ba60-b45789b34630",
+    "title": "10 Jamas Me Cansare De Ti",
+    "titles": {
+      "spa": "10 Jamas Me Cansare De Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:39:48.207Z",
+    "modified_at": "2022-11-03T12:39:48.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ac04d30c756dd0f7d9de616d0ad46682.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4394035,
+      "gain": -8.31,
+      "duration": 183,
+      "loudnorm": "-10.16,0.22,6.20,-20.21,-0.26",
+      "filename": "processed_b15e17ff4e130638303265efd1f86599.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

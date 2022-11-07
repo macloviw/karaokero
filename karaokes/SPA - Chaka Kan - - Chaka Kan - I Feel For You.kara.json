@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chaka Kan - - Chaka Kan - I Feel For You.mp3",
+      "loudnorm": "-17.42,-1.27,2.00,-27.57,-0.09",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chaka Kan - - Chaka Kan - I Feel For You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92c30a29-3922-4ade-8f5a-14f45ee4d350",
+    "title": "Chaka Kan - I Feel For You",
+    "titles": {
+      "spa": "Chaka Kan - I Feel For You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f1b583ae-317e-4d40-b2d9-38b6621cb2c8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:13:16.733Z",
+    "modified_at": "2022-11-04T00:13:17.117Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8e56ca99f404dc45d54d90d9c084e4d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4082721,
+      "gain": -0.66,
+      "duration": 255,
+      "loudnorm": "-17.42,-1.27,2.00,-27.57,-0.09",
+      "filename": "processed_1015d1f78914e32ecc76bd6c49993b84.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

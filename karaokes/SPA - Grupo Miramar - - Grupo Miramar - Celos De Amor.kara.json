@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Miramar - - Grupo Miramar - Celos De Amor.mp3",
+      "loudnorm": "-13.74,0.74,3.70,-23.85,-0.60",
+      "duration": 156,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Miramar - - Grupo Miramar - Celos De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dc7c4ec7-02af-482a-ab57-ee9b9e6a3354",
+    "title": "Grupo Miramar - Celos De Amor",
+    "titles": {
+      "spa": "Grupo Miramar - Celos De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "058b9630-40e6-4a19-869d-d2753e896fc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:46:14.389Z",
+    "modified_at": "2022-11-03T05:46:14.807Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_820ed29594f780874832c1237a6850c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2194233,
+      "gain": -4.26,
+      "duration": 156,
+      "loudnorm": "-13.74,0.74,3.70,-23.85,-0.60",
+      "filename": "processed_d26f8613d3b20a3f0b37a623f1de79c7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - My Way.MP3",
+      "loudnorm": "-17.85,0.01,16.40,-28.65,-1.76",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - My Way.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4524ea94-7c9c-466d-9637-16190a3cf3b7",
+    "title": "Elvis Presley - My Way",
+    "titles": {
+      "spa": "Elvis Presley - My Way"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:33:49.556Z",
+    "modified_at": "2022-11-03T04:33:50.323Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11361272,
+      "gain": -2.25,
+      "duration": 283,
+      "loudnorm": "-17.85,0.01,16.40,-28.65,-1.76",
+      "filename": "processed_15d90a66f1eca8f2fa07a3e9798b2e27.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11361272,
+      "gain": -2.25,
+      "duration": 283,
+      "loudnorm": "-17.85,0.01,16.40,-28.65,-1.76",
+      "filename": "processed_572fac9767c071ff8222ff7e2ed433f6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

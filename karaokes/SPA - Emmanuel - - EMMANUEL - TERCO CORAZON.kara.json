@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - EMMANUEL - TERCO CORAZON.mp3",
+      "loudnorm": "-7.52,8.73,5.60,-17.84,0.55",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - EMMANUEL - TERCO CORAZON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "139de626-bad2-4d1e-9a2a-08a2b2f95719",
+    "title": "EMMANUEL   -   TERCO CORAZON",
+    "titles": {
+      "spa": "EMMANUEL   -   TERCO CORAZON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:40:07.474Z",
+    "modified_at": "2022-11-03T04:40:07.878Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_78e01d8b17bc0c4c7111a8f7a6a9fd73.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3423259,
+      "gain": -9.36,
+      "duration": 213,
+      "loudnorm": "-7.52,8.73,5.60,-17.84,0.55",
+      "filename": "processed_9d7f695247d72c92f975c79cc0346165.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Molotov - - Molotov - Puto.mp3",
+      "loudnorm": "-12.64,0.63,9.20,-22.89,-1.73",
+      "duration": 133,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Molotov - - Molotov - Puto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "545a0601-17b4-4fa9-b817-5b3017119816",
+    "title": "Molotov - Puto",
+    "titles": {
+      "spa": "Molotov - Puto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d8871f50-bdb1-49fc-8476-da5b985ed95b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:31:13.736Z",
+    "modified_at": "2022-11-04T07:31:14.118Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1fe676f8aa3758c9c5d4d7939fb88e35.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3198318,
+      "gain": -6.42,
+      "duration": 133,
+      "loudnorm": "-12.64,0.63,9.20,-22.89,-1.73",
+      "filename": "processed_07e85d9f4816bba5a7a57b09023904d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

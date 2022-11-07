@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FELIX DE OLEO - - D,OLIO-ME FALTA TODO.mp3",
+      "loudnorm": "-22.35,-4.73,7.00,-32.54,-1.10",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FELIX DE OLEO - - D,OLIO-ME FALTA TODO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09d6595a-517b-4e22-8781-9d4c022ce7f4",
+    "title": "D,OLIO-ME FALTA TODO",
+    "titles": {
+      "spa": "D,OLIO-ME FALTA TODO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9462ab44-1f8d-4228-bc99-60dd8f7bc279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:18:03.131Z",
+    "modified_at": "2022-11-03T05:18:03.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_abb2ac58a92564f532e14e161c29f97d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3666506,
+      "gain": 4.38,
+      "duration": 261,
+      "loudnorm": "-22.35,-4.73,7.00,-32.54,-1.10",
+      "filename": "processed_c48007df4215a698dc0b8542bd6e49d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

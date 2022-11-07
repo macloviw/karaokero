@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camila - - CAMILA VOLVERTE A AMAR 391.mp3",
+      "loudnorm": "-14.17,-0.38,5.70,-24.46,-0.69",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camila - - CAMILA VOLVERTE A AMAR 391.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7931e399-8107-48c4-b82b-21c5651ef14d",
+    "title": "CAMILA                                                VOLVERTE A AMAR  391",
+    "titles": {
+      "spa": "CAMILA                                                VOLVERTE A AMAR  391"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b4e5c91-dc93-4341-8d71-2d3c8d03ce0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:43:50.802Z",
+    "modified_at": "2022-11-03T02:43:51.221Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_26ea7a3ada7349172d9bb5f91d151403.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4502403,
+      "gain": -4.16,
+      "duration": 187,
+      "loudnorm": "-14.17,-0.38,5.70,-24.46,-0.69",
+      "filename": "processed_a38613da5fdb8621c432f6462973e8f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

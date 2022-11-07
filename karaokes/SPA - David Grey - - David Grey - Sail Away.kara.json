@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Grey - - David Grey - Sail Away.mp3",
+      "loudnorm": "-13.57,-0.15,2.10,-23.63,-0.67",
+      "duration": 327,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Grey - - David Grey - Sail Away.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c083104-f053-40a9-abd8-dbcf4622e823",
+    "title": "David Grey - Sail Away",
+    "titles": {
+      "spa": "David Grey - Sail Away"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "915ba5e8-a640-4319-b651-34ba2f49cb02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:17:46.182Z",
+    "modified_at": "2022-11-04T00:17:46.572Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9d9600954e98c4b7b8a3beda25a70d72.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5237124,
+      "gain": -2.53,
+      "duration": 327,
+      "loudnorm": "-13.57,-0.15,2.10,-23.63,-0.67",
+      "filename": "processed_4c0aa7abd0b4b8a4a6d5ca98f1cbe148.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - ENAMORADO SOLO.mp3",
+      "loudnorm": "-7.27,1.23,2.00,-17.49,-0.02",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - ENAMORADO SOLO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3ead574b-bc7e-488c-9a43-843147282bbb",
+    "title": "ENAMORADO SOLO",
+    "titles": {
+      "spa": "ENAMORADO SOLO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:14:00.701Z",
+    "modified_at": "2022-11-04T11:14:01.099Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4834ace48b4306c277e9bef0187d453c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4161214,
+      "gain": -8.1,
+      "duration": 259,
+      "loudnorm": "-7.27,1.23,2.00,-17.49,-0.02",
+      "filename": "processed_9187fb3c49b3e8f2efe666718ca05495.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

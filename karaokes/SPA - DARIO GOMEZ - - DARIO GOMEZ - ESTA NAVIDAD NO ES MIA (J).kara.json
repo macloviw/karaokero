@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - ESTA NAVIDAD NO ES MIA (J).mp3",
+      "loudnorm": "-12.21,0.19,5.00,-22.25,-0.75",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - ESTA NAVIDAD NO ES MIA (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52ceca34-6ff4-4609-aa26-cd8fe52cfab9",
+    "title": "DARIO GOMEZ - ESTA NAVIDAD NO ES MIA (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - ESTA NAVIDAD NO ES MIA (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:01:37.854Z",
+    "modified_at": "2022-11-03T04:01:38.271Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4a23e66c16fa79a6fcaba4e3121a5670.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5317372,
+      "gain": -6.37,
+      "duration": 221,
+      "loudnorm": "-12.21,0.19,5.00,-22.25,-0.75",
+      "filename": "processed_a40be9357bbef3889446e2cba27e4d8d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

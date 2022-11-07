@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOAN SEBASTIAN - - la venia bendita.mp3",
+      "loudnorm": "-15.49,-0.88,5.40,-25.58,0.31",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOAN SEBASTIAN - - la venia bendita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7348e73-94fd-426a-8fed-2e1e74d25d36",
+    "title": "la venia bendita",
+    "titles": {
+      "spa": "la venia bendita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a0fdbf62-b24f-4e2f-b7e4-2517d8c3e966"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:23:54.995Z",
+    "modified_at": "2022-11-03T06:23:55.402Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ffa09e3e9f8281010257730ad0b7f293.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4264741,
+      "gain": -2.91,
+      "duration": 177,
+      "loudnorm": "-15.49,-0.88,5.40,-25.58,0.31",
+      "filename": "processed_f71d3f76e0e06e532175dd2198d2f3c2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

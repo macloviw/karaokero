@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL TORITO - - Hector Acosta - Me Voy.mp3",
+      "loudnorm": "-12.03,2.11,2.60,-22.13,0.43",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL TORITO - - Hector Acosta - Me Voy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ab8cd80c-3c60-4af0-a52d-e632a2b84348",
+    "title": "Hector Acosta - Me Voy",
+    "titles": {
+      "spa": "Hector Acosta - Me Voy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:30:05.787Z",
+    "modified_at": "2022-11-02T23:30:06.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_410b426819844aa7b94de5e362376aca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3876657,
+      "gain": -6.16,
+      "duration": 242,
+      "loudnorm": "-12.03,2.11,2.60,-22.13,0.43",
+      "filename": "processed_eb8f9aa904b24870706f6d889bf3a571.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

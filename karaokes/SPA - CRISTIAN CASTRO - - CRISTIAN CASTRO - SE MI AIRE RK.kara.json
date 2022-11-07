@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - SE MI AIRE RK.mp3",
+      "loudnorm": "-13.11,0.85,2.40,-23.17,-0.41",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - SE MI AIRE RK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2875382-68f2-4277-ace9-ab5a688e1dfc",
+    "title": "CRISTIAN CASTRO - SE MI AIRE RK",
+    "titles": {
+      "spa": "CRISTIAN CASTRO - SE MI AIRE RK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:53:21.787Z",
+    "modified_at": "2022-11-04T02:53:22.161Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8e1ec1efb97a88d902bf70f3a7ac354c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3612934,
+      "gain": -3.44,
+      "duration": 225,
+      "loudnorm": "-13.11,0.85,2.40,-23.17,-0.41",
+      "filename": "processed_cee9be749027445f4f30454b5f663bf4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

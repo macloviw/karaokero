@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Ney Nilo - - Ney Nilo - La Tristeza De Mi Carta.mp3",
+      "loudnorm": "-17.39,1.08,8.00,-27.63,-0.91",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Ney Nilo - - Ney Nilo - La Tristeza De Mi Carta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fba08541-0061-48fa-bf56-d0b32733934d",
+    "title": "Ney Nilo - La Tristeza De Mi Carta",
+    "titles": {
+      "spa": "Ney Nilo - La Tristeza De Mi Carta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5b4b87bc-fd4c-4892-a046-fe6b079d0eba"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:39:00.448Z",
+    "modified_at": "2022-11-04T07:39:00.824Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e78d2aa6799021d2e24489eca7851ca7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4102784,
+      "gain": 0.55,
+      "duration": 256,
+      "loudnorm": "-17.39,1.08,8.00,-27.63,-0.91",
+      "filename": "processed_f00a92ce194c8951e233e5c9d821fc11.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billie Myers - - Billie Myers - Kiss the rain.mp3",
+      "loudnorm": "-16.95,-0.51,4.80,-27.00,-0.96",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billie Myers - - Billie Myers - Kiss the rain.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "307fd745-30f7-431c-b591-53b7efd68794",
+    "title": "Billie Myers - Kiss the rain",
+    "titles": {
+      "spa": "Billie Myers - Kiss the rain"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c57e42f4-8983-47e3-87ea-c6d029fc852d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:02:17.957Z",
+    "modified_at": "2022-11-04T00:02:18.338Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8a809d1deb18f7026f2979796d0969ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4626904,
+      "gain": -0.03,
+      "duration": 289,
+      "loudnorm": "-16.95,-0.51,4.80,-27.00,-0.96",
+      "filename": "processed_0cb30564499bb80292c5a787684bb22e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

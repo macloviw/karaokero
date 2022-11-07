@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Acompaname a estar solo.mp3",
+      "loudnorm": "-8.75,2.89,10.20,-19.15,-1.20",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Acompaname a estar solo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1c9dd92-4806-46f3-846c-fbcebc880adb",
+    "title": "Ricardo Arjona - Acompañame a estar solo",
+    "titles": {
+      "spa": "Ricardo Arjona - Acompañame a estar solo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:55:07.568Z",
+    "modified_at": "2022-11-03T11:55:07.997Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2209af1dfedc3c7d7f40d5b4aaaa85de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4393266,
+      "gain": -5.48,
+      "duration": 274,
+      "loudnorm": "-8.75,2.89,10.20,-19.15,-1.20",
+      "filename": "processed_d1a1747eb7edbd15a7eb17ea3e5b595e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

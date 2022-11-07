@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - NADA SE COMPARA CONTIGO.MP3",
+      "loudnorm": "-12.34,1.54,6.10,-22.66,-0.72",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - NADA SE COMPARA CONTIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "08ed804f-2ec7-4ec8-bf35-7bd524c1349c",
+    "title": "ALVARO TORREZ   -   NADA SE COMPARA CONTIGO",
+    "titles": {
+      "spa": "ALVARO TORREZ   -   NADA SE COMPARA CONTIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f0041111-b0f0-4aa9-ad5b-b854e26a4ceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:32:15.604Z",
+    "modified_at": "2022-11-03T01:32:16.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4843279,
+      "gain": -5.55,
+      "duration": 302,
+      "loudnorm": "-12.34,1.54,6.10,-22.66,-0.72",
+      "filename": "processed_bd954607369e53f8523ad836948bf6a7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4843279,
+      "gain": -5.55,
+      "duration": 302,
+      "loudnorm": "-12.34,1.54,6.10,-22.66,-0.72",
+      "filename": "processed_d27a34b01634e33a7bc5462ae266fc39.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - HOY.mp3",
+      "loudnorm": "-13.85,-0.62,4.50,-23.94,-0.89",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - HOY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9aa492c6-df22-43bf-9b94-795e9fe51917",
+    "title": "GLORIA ESTEFAN - HOY",
+    "titles": {
+      "spa": "GLORIA ESTEFAN - HOY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:37:10.306Z",
+    "modified_at": "2022-11-03T05:37:10.723Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fc9f9a168118ddc65749b5f0cd65f39c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7653431,
+      "gain": -5.62,
+      "duration": 273,
+      "loudnorm": "-13.85,-0.62,4.50,-23.94,-0.89",
+      "filename": "processed_cdfd53bbe632da9d88e824e62dbc3861.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

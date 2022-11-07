@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cascades - - Cascades - Rythmn Of The Rain.mp3",
+      "loudnorm": "-18.82,-2.15,4.30,-29.01,-0.59",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cascades - - Cascades - Rythmn Of The Rain.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06ea891f-77ec-49d4-b9b0-fd71912a9c71",
+    "title": "Cascades - Rythmn Of The Rain",
+    "titles": {
+      "spa": "Cascades - Rythmn Of The Rain"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "041f1cbb-da08-47ef-b9c6-23a646c0ccad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:13:05.669Z",
+    "modified_at": "2022-11-04T00:13:06.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_abf910412efca90d9e5df3e5fd413f2c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3894847,
+      "gain": 1.06,
+      "duration": 162,
+      "loudnorm": "-18.82,-2.15,4.30,-29.01,-0.59",
+      "filename": "processed_f66f6a2d7e1ebcfe741bff66e5022ce4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

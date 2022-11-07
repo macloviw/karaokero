@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Elvis Martines - - Elvis Martinez - Asi Te Amo.mp3",
+      "loudnorm": "-11.91,2.20,4.80,-22.10,0.20",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Elvis Martines - - Elvis Martinez - Asi Te Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "443b7226-1975-434e-a983-9b174714b9f1",
+    "title": "Elvis Martinez - Asi Te Amo",
+    "titles": {
+      "spa": "Elvis Martinez - Asi Te Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "bd1ef7d5-d183-440a-8998-d6db7e8ec1a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:33:50.826Z",
+    "modified_at": "2022-11-02T23:33:51.233Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_26ded61e275a202fd771bb06fa0c7cfc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3997746,
+      "gain": -8.62,
+      "duration": 249,
+      "loudnorm": "-11.91,2.20,4.80,-22.10,0.20",
+      "filename": "processed_7bed80034ee5c1d5b9efaa92f051d239.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Cestero Junior - - Carlos Cestero Junior - Yo Vivo Para Amarte.mp3",
+      "loudnorm": "-12.73,0.57,7.80,-22.85,-1.27",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Cestero Junior - - Carlos Cestero Junior - Yo Vivo Para Amarte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e3d5983-3011-414e-ba42-ab3550e48c12",
+    "title": "Carlos Cestero Junior - Yo Vivo Para Amarte",
+    "titles": {
+      "spa": "Carlos Cestero Junior - Yo Vivo Para Amarte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fe839601-eae0-48b0-a2f0-6699f3677a21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:59:10.821Z",
+    "modified_at": "2022-11-03T13:59:11.241Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_693eeb1b4858cbfdb4f3f7bde663f240.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3981576,
+      "gain": -5.69,
+      "duration": 248,
+      "loudnorm": "-12.73,0.57,7.80,-22.85,-1.27",
+      "filename": "processed_cf8a1a8145dbedbd2f14a9ffb7da5c0a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

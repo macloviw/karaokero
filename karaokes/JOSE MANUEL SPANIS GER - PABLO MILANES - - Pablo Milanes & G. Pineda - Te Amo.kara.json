@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PABLO MILANES - - Pablo Milanes & G. Pineda - Te Amo.mp3",
+      "loudnorm": "-16.88,0.49,8.50,-27.20,-0.09",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PABLO MILANES - - Pablo Milanes & G. Pineda - Te Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0968a01d-f0ec-4622-8a79-45db152ea7ed",
+    "title": "Pablo Milanes & G. Pineda - Te Amo",
+    "titles": {
+      "spa": "Pablo Milanes & G. Pineda - Te Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "33165d6f-e28f-4736-8664-c4bb072f106d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:07:06.356Z",
+    "modified_at": "2022-11-04T08:07:06.762Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_24c07d5eefc7762096e9920488baab95.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4276657,
+      "gain": 0.44,
+      "duration": 267,
+      "loudnorm": "-16.88,0.49,8.50,-27.20,-0.09",
+      "filename": "processed_685ebc080a07bbcbc7d4feccd502b515.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Dejame Conocerte (voz).mp3",
+      "loudnorm": "-12.96,1.84,3.30,-23.12,-0.39",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Dejame Conocerte (voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a4d637cd-5b51-42dd-9a19-9dc1651ab88d",
+    "title": "Jose Jose - Dejame Conocerte (voz)",
+    "titles": {
+      "spa": "Jose Jose - Dejame Conocerte (voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:56:57.163Z",
+    "modified_at": "2022-11-03T06:56:57.593Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_672925df13c94a39991a45e1d4547115.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3411480,
+      "gain": -5.41,
+      "duration": 213,
+      "loudnorm": "-12.96,1.84,3.30,-23.12,-0.39",
+      "filename": "processed_6f987f37bf0f4240b72a53536fcd6c00.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

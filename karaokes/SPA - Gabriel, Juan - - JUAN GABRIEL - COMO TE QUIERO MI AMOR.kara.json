@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - COMO TE QUIERO MI AMOR.MP3",
+      "loudnorm": "-12.63,-0.45,3.00,-22.73,-0.91",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - COMO TE QUIERO MI AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2f862b9f-f517-414f-958c-f91abb6ced53",
+    "title": "JUAN GABRIEL   -   COMO TE QUIERO MI AMOR",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   COMO TE QUIERO MI AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:39:42.837Z",
+    "modified_at": "2022-11-03T07:39:43.414Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2567909,
+      "gain": -4.3,
+      "duration": 160,
+      "loudnorm": "-12.63,-0.45,3.00,-22.73,-0.91",
+      "filename": "processed_6b3dd27847964cb4d7fda7e6fd93232a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2567909,
+      "gain": -4.3,
+      "duration": 160,
+      "loudnorm": "-12.63,-0.45,3.00,-22.73,-0.91",
+      "filename": "processed_cc90552d87f60e3ced135aa5120e65a3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

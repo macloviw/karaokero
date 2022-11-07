@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Mayor Clasico - - El Mayor Clasico - Versace (Ele Dj) (Dembow).mp3",
+      "loudnorm": "-12.53,0.52,7.40,-22.72,-1.31",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Mayor Clasico - - El Mayor Clasico - Versace (Ele Dj) (Dembow).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d6a241b-da83-4747-ad0a-a01c0f5d0980",
+    "title": "El Mayor Clasico - Versace (Ele Dj) (Dembow)",
+    "titles": {
+      "spa": "El Mayor Clasico - Versace (Ele Dj) (Dembow)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "9812d17e-7d9f-49b1-b2ad-918290e4fb20"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:36:19.826Z",
+    "modified_at": "2022-11-03T14:36:20.246Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1e5ed8efbb50ed08d0dca3c9e1aa2f2a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4738186,
+      "gain": -4.1,
+      "duration": 169,
+      "loudnorm": "-12.53,0.52,7.40,-22.72,-1.31",
+      "filename": "processed_f3c1efac73c916b6e5b5a5883743d07d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

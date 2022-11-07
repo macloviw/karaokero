@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - ELIGE.mp3",
+      "loudnorm": "-10.60,-1.24,3.10,-20.68,-0.72",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - ELIGE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7301b16-cdea-4c9b-8929-12899cc5b045",
+    "title": "ANTHONY RIOS   -   ELIGE",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   ELIGE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:47:40.750Z",
+    "modified_at": "2022-11-03T01:47:41.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_06c61e71d53584f5c75cb7d0b501d0b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5530094,
+      "gain": -7.2,
+      "duration": 197,
+      "loudnorm": "-10.60,-1.24,3.10,-20.68,-0.72",
+      "filename": "processed_fb743bdc6d2d6725adb9de10ac9155cf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

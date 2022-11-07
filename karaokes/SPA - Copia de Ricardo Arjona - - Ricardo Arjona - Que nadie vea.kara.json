@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Que nadie vea.mp3",
+      "loudnorm": "-15.26,0.39,11.20,-25.59,-1.11",
+      "duration": 339,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Que nadie vea.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2fc04e58-d2a8-4948-8c6b-7346f5bb0aaa",
+    "title": "Ricardo Arjona - Que nadie vea",
+    "titles": {
+      "spa": "Ricardo Arjona - Que nadie vea"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:01:42.105Z",
+    "modified_at": "2022-11-03T12:01:42.574Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c91bb1ea918c4321806028747ae82b0a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8152389,
+      "gain": -4.01,
+      "duration": 339,
+      "loudnorm": "-15.26,0.39,11.20,-25.59,-1.11",
+      "filename": "processed_86efd004fd4e0d55007157baa22362f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

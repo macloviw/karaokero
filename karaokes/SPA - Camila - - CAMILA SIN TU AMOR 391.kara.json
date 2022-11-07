@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camila - - CAMILA SIN TU AMOR 391.mp3",
+      "loudnorm": "-11.67,0.76,12.20,-22.40,-1.44",
+      "duration": 167,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camila - - CAMILA SIN TU AMOR 391.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6229683-9972-4590-814b-818136866ad2",
+    "title": "CAMILA                                                 SIN TU AMOR  391",
+    "titles": {
+      "spa": "CAMILA                                                 SIN TU AMOR  391"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b4e5c91-dc93-4341-8d71-2d3c8d03ce0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:42:53.000Z",
+    "modified_at": "2022-11-03T02:42:53.410Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4eece67fdc0846a1250e112cff419d21.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4027810,
+      "gain": -6.31,
+      "duration": 167,
+      "loudnorm": "-11.67,0.76,12.20,-22.40,-1.44",
+      "filename": "processed_31917abd866e834d0a667bfb4041a1f4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

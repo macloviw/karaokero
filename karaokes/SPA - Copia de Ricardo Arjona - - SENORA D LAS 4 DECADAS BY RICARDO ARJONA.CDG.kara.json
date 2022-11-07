@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - SENORA D LAS 4 DECADAS BY RICARDO ARJONA.CDG.MP3",
+      "loudnorm": "-13.45,0.67,11.30,-23.91,-1.14",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - SENORA D LAS 4 DECADAS BY RICARDO ARJONA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2bada277-757e-4c67-85a3-9debf46950be",
+    "title": "SEÑORA D LAS 4 DECADAS BY RICARDO ARJONA.CDG",
+    "titles": {
+      "spa": "SEÑORA D LAS 4 DECADAS BY RICARDO ARJONA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:07:42.181Z",
+    "modified_at": "2022-11-03T12:07:42.812Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4699919,
+      "gain": -4.9,
+      "duration": 293,
+      "loudnorm": "-13.45,0.67,11.30,-23.91,-1.14",
+      "filename": "processed_0eec84363a1b4e60e0ab8d46438c62b6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4699919,
+      "gain": -4.9,
+      "duration": 293,
+      "loudnorm": "-13.45,0.67,11.30,-23.91,-1.14",
+      "filename": "processed_8e7bfa5c8eae2bd6a6792ac85d58ba93.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

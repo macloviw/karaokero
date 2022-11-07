@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY MONTANEZ - - ANDY MONTANEZ - AY JULIA.mp3",
+      "loudnorm": "-15.05,-0.36,5.60,-25.14,-0.89",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY MONTANEZ - - ANDY MONTANEZ - AY JULIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "74ae3b8f-3a7c-44f6-94c5-dac92e42550c",
+    "title": "ANDY MONTANEZ - AY JULIA",
+    "titles": {
+      "spa": "ANDY MONTANEZ - AY JULIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "aec45d0e-c61c-4a75-8c5b-9c1b16cb8e82"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T17:17:08.925Z",
+    "modified_at": "2022-11-03T17:17:09.345Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b05918ce39484a6830d8200f0bf74a8b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3078394,
+      "gain": -4.69,
+      "duration": 219,
+      "loudnorm": "-15.05,-0.36,5.60,-25.14,-0.89",
+      "filename": "processed_c2468ad1ebb737dcc4fe96f98e2b54ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ORLANDO CONTRERAS - - ORLANDO CONTRERAS - AMIGO DE QUE.MP3",
+      "loudnorm": "-15.57,0.81,5.50,-25.75,-0.65",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ORLANDO CONTRERAS - - ORLANDO CONTRERAS - AMIGO DE QUE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df7d40c5-5bb0-40fb-994d-ded463631c68",
+    "title": "ORLANDO CONTRERAS   -   AMIGO DE QUE",
+    "titles": {
+      "spa": "ORLANDO CONTRERAS   -   AMIGO DE QUE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c52fdd05-e04a-4a01-98af-410aa851f69b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:59:21.554Z",
+    "modified_at": "2022-11-04T07:59:21.975Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2998118,
+      "gain": -5.56,
+      "duration": 187,
+      "loudnorm": "-15.57,0.81,5.50,-25.75,-0.65",
+      "filename": "processed_babc537dbc1093c6a1ad7b1c87590cc6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2998118,
+      "gain": -5.56,
+      "duration": 187,
+      "loudnorm": "-15.57,0.81,5.50,-25.75,-0.65",
+      "filename": "processed_12aebb9a61fd1e1ab70c9cad7b2d4f36.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

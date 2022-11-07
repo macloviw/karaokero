@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHUCHO AVELLANET - - Chucho Avellanet - Historia de amor.mp3",
+      "loudnorm": "-11.32,28.04,11.50,-21.90,0.90",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHUCHO AVELLANET - - Chucho Avellanet - Historia de amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ffb0cd9b-ac1c-451f-823b-2d24b1647bf4",
+    "title": "Chucho Avellanet - Historia de amor",
+    "titles": {
+      "spa": "Chucho Avellanet - Historia de amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ac1d1f36-d116-48c6-a00e-e6408bdb3bf2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:48:52.332Z",
+    "modified_at": "2022-11-04T02:48:52.714Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa9dfe77387abc26782803049da2370a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8237027,
+      "gain": -6.1,
+      "duration": 205,
+      "loudnorm": "-11.32,28.04,11.50,-21.90,0.90",
+      "filename": "processed_c2b51410536d279c07cb0741896b0cd2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

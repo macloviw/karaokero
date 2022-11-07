@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS379-04 - - ARIS379-04 - Henry Rosario - Te Amo.mp3",
+      "loudnorm": "-12.00,0.76,3.00,-22.01,-0.55",
+      "duration": 312,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS379-04 - - ARIS379-04 - Henry Rosario - Te Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "75ed32c2-9c3f-42e2-8d61-94172346fd4b",
+    "title": "ARIS379-04 - Henry Rosario - Te Amo",
+    "titles": {
+      "spa": "ARIS379-04 - Henry Rosario - Te Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "319dd24c-dbf7-4d2a-844c-4e34df426d98"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:36:39.388Z",
+    "modified_at": "2022-11-03T21:36:39.811Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05ca595421196ed51934ab7c7d57ba78.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4995961,
+      "gain": -4.96,
+      "duration": 312,
+      "loudnorm": "-12.00,0.76,3.00,-22.01,-0.55",
+      "filename": "processed_7d6aa8463ac8654523f0c8062d8c49c1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

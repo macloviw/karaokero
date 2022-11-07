@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bobby Darin - - Bobby Darin - Mack The Knife.MP3",
+      "loudnorm": "-14.49,0.46,6.90,-24.53,-1.97",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bobby Darin - - Bobby Darin - Mack The Knife.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4da4bda0-f19a-489f-ada6-92f7e8b86944",
+    "title": "Bobby Darin - Mack The Knife",
+    "titles": {
+      "spa": "Bobby Darin - Mack The Knife"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9e5d3103-eb99-4952-ac59-507be4e17401"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:06:28.888Z",
+    "modified_at": "2022-11-04T00:06:29.403Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8413615,
+      "gain": -2.95,
+      "duration": 210,
+      "loudnorm": "-14.49,0.46,6.90,-24.53,-1.97",
+      "filename": "processed_2a30ae25fde182dbb35654d701c4dde0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8413615,
+      "gain": -2.95,
+      "duration": 210,
+      "loudnorm": "-14.49,0.46,6.90,-24.53,-1.97",
+      "filename": "processed_380cece4226f8a167fdb03b5775b7fe9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

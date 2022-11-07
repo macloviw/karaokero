@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christina Aguilera - - Christina Aguilera - I Turn To You.mp3",
+      "loudnorm": "-9.54,6.33,12.20,-20.14,-2.53",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christina Aguilera - - Christina Aguilera - I Turn To You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e7bc2d3a-312a-4c9e-981e-6024f93b4a36",
+    "title": "Christina Aguilera - I Turn To You",
+    "titles": {
+      "spa": "Christina Aguilera - I Turn To You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4d8cb367-6ee7-4268-a4e3-bdc3d7e6b8ae"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:33:03.903Z",
+    "modified_at": "2022-11-03T03:33:04.318Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_247b0bd196dd5f5f40576dfed4e86b2a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4670808,
+      "gain": -8.24,
+      "duration": 291,
+      "loudnorm": "-9.54,6.33,12.20,-20.14,-2.53",
+      "filename": "processed_214d7a0cac26f87eb517842474c2bac8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

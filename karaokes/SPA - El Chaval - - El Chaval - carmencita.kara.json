@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Chaval - - El Chaval - carmencita.mp3",
+      "loudnorm": "-10.73,0.61,2.00,-20.75,-0.65",
+      "duration": 306,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Chaval - - El Chaval - carmencita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1e06342e-482e-4fc0-a89d-c8a538c4b2d1",
+    "title": "El Chaval - carmencita",
+    "titles": {
+      "spa": "El Chaval - carmencita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "009e04f7-e40f-471b-9f49-4eb3541709a6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:25:24.983Z",
+    "modified_at": "2022-11-02T23:25:25.409Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a1ef0f168cebe83139962d31eeac8e84.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9795804,
+      "gain": -8.07,
+      "duration": 306,
+      "loudnorm": "-10.73,0.61,2.00,-20.75,-0.65",
+      "filename": "processed_b161da66c67ec90fa2dcbeac93a87189.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

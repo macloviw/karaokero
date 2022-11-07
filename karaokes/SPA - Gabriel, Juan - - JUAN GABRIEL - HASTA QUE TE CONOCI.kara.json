@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - HASTA QUE TE CONOCI.MP3",
+      "loudnorm": "-13.48,0.70,15.80,-24.91,-1.01",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - HASTA QUE TE CONOCI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d67e1484-5ede-47d1-9f40-65cf5af1f517",
+    "title": "JUAN GABRIEL   -   HASTA QUE TE CONOCI",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   HASTA QUE TE CONOCI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:40:24.570Z",
+    "modified_at": "2022-11-03T07:40:25.052Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4761359,
+      "gain": -5.65,
+      "duration": 297,
+      "loudnorm": "-13.48,0.70,15.80,-24.91,-1.01",
+      "filename": "processed_987b5bead1fca7961125ea31a2fe0bda.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4761359,
+      "gain": -5.65,
+      "duration": 297,
+      "loudnorm": "-13.48,0.70,15.80,-24.91,-1.01",
+      "filename": "processed_d4ccb2b2bc701ea7e577a1fc5904a77f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

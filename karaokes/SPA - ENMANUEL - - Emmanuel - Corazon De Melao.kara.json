@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENMANUEL - - Emmanuel - Corazon De Melao.mp3",
+      "loudnorm": "-13.12,0.93,4.60,-23.16,-0.32",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENMANUEL - - Emmanuel - Corazon De Melao.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dce1dcca-2fb9-4fb9-867a-575c5de0f943",
+    "title": "Emmanuel - Corazon De Melao",
+    "titles": {
+      "spa": "Emmanuel - Corazon De Melao"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08c4180-989b-4833-9d6f-085703b5bcac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:50:21.958Z",
+    "modified_at": "2022-11-03T04:50:22.371Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1819e458969c9f8e6aab45d20800200b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4021149,
+      "gain": -6,
+      "duration": 251,
+      "loudnorm": "-13.12,0.93,4.60,-23.16,-0.32",
+      "filename": "processed_855d06f10206dabaa805d98bfdea42f2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

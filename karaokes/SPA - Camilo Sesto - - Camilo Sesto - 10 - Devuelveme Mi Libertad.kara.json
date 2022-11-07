@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 10 - Devuelveme Mi Libertad.mp3",
+      "loudnorm": "-13.96,0.04,4.50,-24.10,-0.55",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 10 - Devuelveme Mi Libertad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c272b3c-66cf-412d-b329-042a9f7fbcef",
+    "title": "Camilo Sesto - 10 - Devuelveme Mi Libertad",
+    "titles": {
+      "spa": "Camilo Sesto - 10 - Devuelveme Mi Libertad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:52:37.414Z",
+    "modified_at": "2022-11-03T02:52:37.822Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e948e140df28cf016a6299add845448a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3967074,
+      "gain": -4.31,
+      "duration": 165,
+      "loudnorm": "-13.96,0.04,4.50,-24.10,-0.55",
+      "filename": "processed_5b9292014e9caf7ace5ad367a6196992.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

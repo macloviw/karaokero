@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Cuantos Dias Mas.mp3",
+      "loudnorm": "-8.97,4.13,4.30,-18.98,0.09",
+      "duration": 353,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Cuantos Dias Mas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f465d92c-b607-4a27-9ed9-2d037e3a0522",
+    "title": "Anthony Santos - Cuantos Dias Mas",
+    "titles": {
+      "spa": "Anthony Santos - Cuantos Dias Mas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:03:58.541Z",
+    "modified_at": "2022-11-02T22:03:59.116Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf846d3ef8e9c52a03d31d5bc2049ae7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5663390,
+      "gain": -9.57,
+      "duration": 353,
+      "loudnorm": "-8.97,4.13,4.30,-18.98,0.09",
+      "filename": "processed_cfea7dfd53abad50702e02e4b815affc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

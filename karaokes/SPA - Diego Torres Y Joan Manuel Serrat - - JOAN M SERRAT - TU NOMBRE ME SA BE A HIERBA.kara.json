@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diego Torres Y Joan Manuel Serrat - - JOAN M SERRAT - TU NOMBRE ME SA BE A HIERBA.MP3",
+      "loudnorm": "-16.73,-2.16,2.90,-26.91,-0.20",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diego Torres Y Joan Manuel Serrat - - JOAN M SERRAT - TU NOMBRE ME SA BE A HIERBA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2bd79ddf-9e86-48e3-82f6-5aa4a27c4adc",
+    "title": "JOAN M SERRAT   -   TU NOMBRE ME SA BE A HIERBA",
+    "titles": {
+      "spa": "JOAN M SERRAT   -   TU NOMBRE ME SA BE A HIERBA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f4ba6b97-0e26-4892-97e8-84b30000db4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:21:51.067Z",
+    "modified_at": "2022-11-03T06:21:51.644Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2534183,
+      "gain": -0.2,
+      "duration": 158,
+      "loudnorm": "-16.73,-2.16,2.90,-26.91,-0.20",
+      "filename": "processed_2611794aa55f54b59a82b9249d359ea3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2534183,
+      "gain": -0.2,
+      "duration": 158,
+      "loudnorm": "-16.73,-2.16,2.90,-26.91,-0.20",
+      "filename": "processed_3344f5c913699490068b492d50cdd6ba.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

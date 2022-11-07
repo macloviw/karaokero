@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tambien Es Mi Primera Vez.mp3",
+      "loudnorm": "-16.65,1.67,5.20,-26.82,-1.25",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tambien Es Mi Primera Vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90d73bde-a625-4123-b59d-05b2758631ad",
+    "title": "Ricardo Arjona - Tambien Es Mi Primera Vez",
+    "titles": {
+      "spa": "Ricardo Arjona - Tambien Es Mi Primera Vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:03:53.097Z",
+    "modified_at": "2022-11-03T12:03:53.518Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_64afa632d28317d5603b6ec4388fcbfd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4456126,
+      "gain": -1,
+      "duration": 185,
+      "loudnorm": "-16.65,1.67,5.20,-26.82,-1.25",
+      "filename": "processed_d090207ef6e193652d2bbdf5272cf531.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

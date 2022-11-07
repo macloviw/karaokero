@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Backstreet Boys - - Backstreet Boys - Shape Of My Heart.mp3",
+      "loudnorm": "-9.75,6.43,8.60,-20.03,-1.40",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Backstreet Boys - - Backstreet Boys - Shape Of My Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "509df253-c54b-43d1-8349-ae5a2eaf9345",
+    "title": "Backstreet Boys - Shape Of My Heart",
+    "titles": {
+      "spa": "Backstreet Boys - Shape Of My Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2ed19d75-95b4-48f1-b362-51c355212d7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:50:42.004Z",
+    "modified_at": "2022-11-03T14:50:42.435Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18cf0d4484788decd728901b041f3e5c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3827973,
+      "gain": -8.87,
+      "duration": 239,
+      "loudnorm": "-9.75,6.43,8.60,-20.03,-1.40",
+      "filename": "processed_78e06134ee4d32a9ab56924157d250b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

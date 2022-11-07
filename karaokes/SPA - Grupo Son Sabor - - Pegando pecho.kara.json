@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Son Sabor - - Pegando pecho.mp3",
+      "loudnorm": "-13.09,1.08,2.50,-23.13,0.03",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Son Sabor - - Pegando pecho.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d4ace0d9-9eff-4653-8547-2d33ada9847a",
+    "title": "Pegando pecho",
+    "titles": {
+      "spa": "Pegando pecho"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e74d48df-f005-4073-b661-7630f79c6048"
+      ],
+      "singers": [
+        "9f0d4f40-2b73-487a-9933-6bbc5306c681"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:46:14.890Z",
+    "modified_at": "2022-11-03T23:46:15.275Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_073b430e8e8e8f3cf354e6e6413302e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5012133,
+      "gain": -5.75,
+      "duration": 313,
+      "loudnorm": "-13.09,1.08,2.50,-23.13,0.03",
+      "filename": "processed_b9a90d82a9d4dcf5a276cd0daffe94fd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony santos - Bazucaso de amor.mp3",
+      "loudnorm": "-9.53,2.02,4.20,-19.65,-1.18",
+      "duration": 303,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony santos - Bazucaso de amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78f39922-e8a8-424c-856c-43f1f240a5d4",
+    "title": "Anthony santos - Bazucaso de amor",
+    "titles": {
+      "spa": "Anthony santos - Bazucaso de amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:40:47.163Z",
+    "modified_at": "2022-11-02T20:40:47.571Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_09946b510c1b2606484b873fdf34d4ae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7283567,
+      "gain": -8.32,
+      "duration": 303,
+      "loudnorm": "-9.53,2.02,4.20,-19.65,-1.18",
+      "filename": "processed_7e8a1a50b9614936e873b8df29916c3d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

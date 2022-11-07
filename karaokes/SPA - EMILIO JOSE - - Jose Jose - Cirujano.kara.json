@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Cirujano.mp3",
+      "loudnorm": "-19.26,-0.01,7.60,-29.32,-0.72",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Cirujano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "13400046-9057-47e4-b27d-3d40d04e42d9",
+    "title": "Jose Jose - Cirujano",
+    "titles": {
+      "spa": "Jose Jose - Cirujano"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:56:18.799Z",
+    "modified_at": "2022-11-03T06:56:19.213Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_64ea04370b2f8d8263c3c572b4f088cf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4347150,
+      "gain": 1.43,
+      "duration": 271,
+      "loudnorm": "-19.26,-0.01,7.60,-29.32,-0.72",
+      "filename": "processed_236d1ce0bcdef850bc13aedeb0017f57.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

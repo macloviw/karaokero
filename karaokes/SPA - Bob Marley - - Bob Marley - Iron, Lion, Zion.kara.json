@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - Iron, Lion, Zion.mp3",
+      "loudnorm": "-14.67,0.15,3.70,-24.74,-0.60",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - Iron, Lion, Zion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a250bce0-7713-449f-b197-4a2f30b8893f",
+    "title": "Bob Marley - Iron, Lion, Zion",
+    "titles": {
+      "spa": "Bob Marley - Iron, Lion, Zion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:22:43.820Z",
+    "modified_at": "2022-11-03T02:22:44.372Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa60b329ab71270fbaa9e859b917bf44.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2994355,
+      "gain": -1.6,
+      "duration": 187,
+      "loudnorm": "-14.67,0.15,3.70,-24.74,-0.60",
+      "filename": "processed_35847a35505b7bfb780597eefcb36be2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

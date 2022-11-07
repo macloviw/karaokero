@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 01.- Nicola Di Bari - como violetas.mp3",
+      "loudnorm": "-16.43,-0.19,15.00,-27.16,-0.60",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 01.- Nicola Di Bari - como violetas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1818799-7376-452e-8b1d-4381bf699a35",
+    "title": "01.- Nicola Di Bari - como violetas",
+    "titles": {
+      "spa": "01.- Nicola Di Bari - como violetas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:39:37.342Z",
+    "modified_at": "2022-11-04T07:39:37.720Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca5e567f6467263001c0defca32972b7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3058255,
+      "gain": -1.68,
+      "duration": 191,
+      "loudnorm": "-16.43,-0.19,15.00,-27.16,-0.60",
+      "filename": "processed_3be53928cd47223d54e66dcc04a79d0f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - AGUSTIN LARA - - Agustin Lara - Rival.mp3",
+      "loudnorm": "-13.49,-0.14,3.60,-23.60,-0.83",
+      "duration": 146,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - AGUSTIN LARA - - Agustin Lara - Rival.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0a6c4fd-1091-458b-8c26-9804b2b6982a",
+    "title": "Agustin Lara - Rival",
+    "titles": {
+      "spa": "Agustin Lara - Rival"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "19c2c9ca-0b4d-4159-a514-2ef213df5e5b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:34:04.286Z",
+    "modified_at": "2022-11-03T00:34:04.742Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_20da6144b2cf79c8ef4512d83199f5ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2353495,
+      "gain": -3.83,
+      "duration": 146,
+      "loudnorm": "-13.49,-0.14,3.60,-23.60,-0.83",
+      "filename": "processed_7e0e415f91ab03179f88f36797f9a654.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

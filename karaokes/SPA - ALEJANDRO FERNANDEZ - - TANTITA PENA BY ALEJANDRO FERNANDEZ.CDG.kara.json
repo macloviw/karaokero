@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - TANTITA PENA BY ALEJANDRO FERNANDEZ.CDG.MP3",
+      "loudnorm": "-13.04,-0.53,5.10,-23.27,-0.69",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - TANTITA PENA BY ALEJANDRO FERNANDEZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b4db126b-042f-4bb9-8c70-829def31e433",
+    "title": "TANTITA PENA BY ALEJANDRO FERNANDEZ.CDG",
+    "titles": {
+      "spa": "TANTITA PENA BY ALEJANDRO FERNANDEZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:59:48.554Z",
+    "modified_at": "2022-11-03T00:59:49.161Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8188962,
+      "gain": -3.9,
+      "duration": 204,
+      "loudnorm": "-13.04,-0.53,5.10,-23.27,-0.69",
+      "filename": "processed_ea8d301bc60b55c92558b6908521f8bf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8188962,
+      "gain": -3.9,
+      "duration": 204,
+      "loudnorm": "-13.04,-0.53,5.10,-23.27,-0.69",
+      "filename": "processed_2f84c8913fb5e86c54f7d1cd4f4f9444.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

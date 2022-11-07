@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - EMMANUEL - CHICA DE HUMO.mp3",
+      "loudnorm": "-13.07,1.34,4.90,-23.13,-0.52",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - EMMANUEL - CHICA DE HUMO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dad61510-be82-4e2d-a9e5-272a122542d1",
+    "title": "EMMANUEL - CHICA DE HUMO",
+    "titles": {
+      "spa": "EMMANUEL - CHICA DE HUMO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:41:01.944Z",
+    "modified_at": "2022-11-03T04:41:02.390Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c88132cafed9354265bcbf7ed9c9e07f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7848724,
+      "gain": -4.43,
+      "duration": 280,
+      "loudnorm": "-13.07,1.34,4.90,-23.13,-0.52",
+      "filename": "processed_d883b5645ff91522895144e317b5d5e1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

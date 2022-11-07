@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - Braulio - Mujer De Solo Una Noche.mp3",
+      "loudnorm": "-17.76,0.37,10.90,-27.96,-0.72",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - Braulio - Mujer De Solo Una Noche.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "776b49b6-07a3-4ae2-b90f-068eb99628c8",
+    "title": "Braulio - Mujer De Solo Una Noche",
+    "titles": {
+      "spa": "Braulio - Mujer De Solo Una Noche"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:44:08.769Z",
+    "modified_at": "2022-11-04T02:44:09.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3966917ad466b886e1fad387839845d8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4739336,
+      "gain": -1.17,
+      "duration": 296,
+      "loudnorm": "-17.76,0.37,10.90,-27.96,-0.72",
+      "filename": "processed_bb428aefd590e8f6b415ff72f7504218.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

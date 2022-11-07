@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - Esto Se Llama Amor.mp3",
+      "loudnorm": "-5.96,7.75,2.10,-16.00,-0.04",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - Esto Se Llama Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3b3cc7c1-56a4-4889-a6db-fa8fe952e2ae",
+    "title": "Elvis Martinez - Esto Se Llama Amor",
+    "titles": {
+      "spa": "Elvis Martinez - Esto Se Llama Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:12:57.847Z",
+    "modified_at": "2022-11-04T03:12:58.262Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9cda0aa84ff3effd6d4eb3b4be0e94ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5520472,
+      "gain": -11.5,
+      "duration": 229,
+      "loudnorm": "-5.96,7.75,2.10,-16.00,-0.04",
+      "filename": "processed_e53706bf57d7f7c5a5d8b17f626377d2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

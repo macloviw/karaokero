@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - 04 - Camilo Sesto - Mi Mundo Tu.mp3",
+      "loudnorm": "-12.86,0.02,2.80,-23.06,-0.31",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - 04 - Camilo Sesto - Mi Mundo Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87bf2976-3df6-4147-87a5-cc82a773ced4",
+    "title": "04 - Camilo Sesto - Mi Mundo Tú",
+    "titles": {
+      "spa": "04 - Camilo Sesto - Mi Mundo Tú"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:45:12.755Z",
+    "modified_at": "2022-11-03T02:45:13.187Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2974706790d8139d432660e433b4c599.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4855689,
+      "gain": -2.97,
+      "duration": 202,
+      "loudnorm": "-12.86,0.02,2.80,-23.06,-0.31",
+      "filename": "processed_b549098d242658a081a4063c46d2f3e0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

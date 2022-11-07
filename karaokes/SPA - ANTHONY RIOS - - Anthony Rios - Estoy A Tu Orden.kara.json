@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Estoy A Tu Orden.mp3",
+      "loudnorm": "-9.24,1.71,6.10,-19.56,-1.25",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Estoy A Tu Orden.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d1744f1-c70d-41a0-a57a-dab034abbe0e",
+    "title": "Anthony Rios - Estoy A Tu Orden",
+    "titles": {
+      "spa": "Anthony Rios - Estoy A Tu Orden"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:52:29.797Z",
+    "modified_at": "2022-11-03T01:52:30.231Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7436086dc8b9e9fb172281f38c45d441.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4160878,
+      "gain": -9.34,
+      "duration": 259,
+      "loudnorm": "-9.24,1.71,6.10,-19.56,-1.25",
+      "filename": "processed_0ec06ad6d1ead3a865224d0e7e0858e2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - AVENTURA - POR UN SEGUNDO (MKARAOKE).mp3",
+      "loudnorm": "-12.69,1.27,2.40,-22.79,-0.28",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - AVENTURA - POR UN SEGUNDO (MKARAOKE).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9130a6ac-a026-4993-9ace-2ab40bcef001",
+    "title": "AVENTURA - POR UN SEGUNDO (MKARAOKE)",
+    "titles": {
+      "spa": "AVENTURA - POR UN SEGUNDO (MKARAOKE)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:15:27.867Z",
+    "modified_at": "2022-11-02T23:15:28.297Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8e65aacac6d22dbeafe159e7c05ce3b5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6521094,
+      "gain": -4.25,
+      "duration": 271,
+      "loudnorm": "-12.69,1.27,2.40,-22.79,-0.28",
+      "filename": "processed_7f49d6b110bbaf9d847fe3a81b02e916.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

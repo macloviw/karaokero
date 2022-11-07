@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Britney Spears - - Britney Spears - My Prerogative.mp3",
+      "loudnorm": "-7.08,6.74,4.00,-17.24,-1.02",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Britney Spears - - Britney Spears - My Prerogative.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f8ccef41-b228-4375-b917-61a7bbdd0b7f",
+    "title": "Britney Spears - My Prerogative",
+    "titles": {
+      "spa": "Britney Spears - My Prerogative"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "1730868a-1882-4a56-b682-529f88d74565"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:51:59.369Z",
+    "modified_at": "2022-11-03T13:51:59.780Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_40299d354b90c03dddaae3efa1088412.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3616370,
+      "gain": -8.27,
+      "duration": 225,
+      "loudnorm": "-7.08,6.74,4.00,-17.24,-1.02",
+      "filename": "processed_79607310be229d91be62ef631a741c99.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

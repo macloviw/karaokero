@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monge - La Distancia.mp3",
+      "loudnorm": "-13.34,1.26,10.40,-23.64,-0.97",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monge - La Distancia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "429d0f93-e857-4aa4-a513-f19157246bb6",
+    "title": "Yolandita Monge - La Distancia",
+    "titles": {
+      "spa": "Yolandita Monge - La Distancia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:55:49.895Z",
+    "modified_at": "2022-11-04T08:55:50.284Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6b3ad721f8ea38aa88aba33258200c73.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6318453,
+      "gain": -4.47,
+      "duration": 225,
+      "loudnorm": "-13.34,1.26,10.40,-23.64,-0.97",
+      "filename": "processed_03927f2c84fd6c8a6585ba7cde813849.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

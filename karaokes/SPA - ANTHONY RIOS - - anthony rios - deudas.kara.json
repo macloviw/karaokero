@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - anthony rios - deudas.mp3",
+      "loudnorm": "-14.25,0.27,3.70,-24.28,-0.32",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - anthony rios - deudas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "66b1b862-2d9e-4444-a368-c79bdac1e6ce",
+    "title": "anthony rios - deudas",
+    "titles": {
+      "spa": "anthony rios - deudas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:51:16.862Z",
+    "modified_at": "2022-11-03T01:51:17.274Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0d70f617c33ad4b5c8d787659044ec3d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5994551,
+      "gain": -5.22,
+      "duration": 214,
+      "loudnorm": "-14.25,0.27,3.70,-24.28,-0.32",
+      "filename": "processed_87a613f816dc8df5c265fd7faefc9e17.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

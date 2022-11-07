@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTTI - POR TI ME CASARE.mp3",
+      "loudnorm": "-12.63,0.48,4.20,-22.71,-0.88",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTTI - POR TI ME CASARE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "032d9a04-3c17-47f7-b3ef-9a30483ec72c",
+    "title": "EROS RAMAZZOTTI   -   POR TI ME CASARE",
+    "titles": {
+      "spa": "EROS RAMAZZOTTI   -   POR TI ME CASARE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:11:38.625Z",
+    "modified_at": "2022-11-03T05:11:39.044Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0e41cf1a9ddb5c832e5e6a53256d3f39.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1589550,
+      "gain": -5.34,
+      "duration": 227,
+      "loudnorm": "-12.63,0.48,4.20,-22.71,-0.88",
+      "filename": "processed_7d2312a32b983f26ed70d7cd1c469380.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

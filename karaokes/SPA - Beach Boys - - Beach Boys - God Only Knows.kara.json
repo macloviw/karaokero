@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - God Only Knows.mp3",
+      "loudnorm": "-13.83,3.01,5.10,-23.90,-1.11",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - God Only Knows.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3241db77-aed0-4648-a8f0-f6bde1f73c5e",
+    "title": "Beach Boys - God Only Knows",
+    "titles": {
+      "spa": "Beach Boys - God Only Knows"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:54:36.306Z",
+    "modified_at": "2022-11-03T14:54:36.750Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5d56c849c8be4e22f1f9f0cb9fed820e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3221096,
+      "gain": -4.69,
+      "duration": 201,
+      "loudnorm": "-13.83,3.01,5.10,-23.90,-1.11",
+      "filename": "processed_5361b89ef6e89b63ecab340cfc4a6902.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

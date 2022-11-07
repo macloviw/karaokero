@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Gotas De Fuego.mp3",
+      "loudnorm": "-18.12,0.16,5.00,-28.21,-0.76",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Gotas De Fuego.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2c1660c-fee2-43e9-bc41-0774aa5e8228",
+    "title": "Gotas De Fuego",
+    "titles": {
+      "spa": "Gotas De Fuego"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:52:15.093Z",
+    "modified_at": "2022-11-03T06:52:15.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8f9bc3e7e7b272f13e2fa4b05befbefa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6990044,
+      "gain": 1.16,
+      "duration": 291,
+      "loudnorm": "-18.12,0.16,5.00,-28.21,-0.76",
+      "filename": "processed_e7452c7d9d8c015aace3a0a1232c2c55.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

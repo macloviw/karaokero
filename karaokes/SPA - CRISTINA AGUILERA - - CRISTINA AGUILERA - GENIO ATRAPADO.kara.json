@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - GENIO ATRAPADO.MP3",
+      "loudnorm": "-16.55,-0.17,5.40,-26.62,-0.88",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - GENIO ATRAPADO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e9bcb104-9b1b-44e2-86fa-f74fcee1cbbc",
+    "title": "CRISTINA AGUILERA   -   GENIO ATRAPADO",
+    "titles": {
+      "spa": "CRISTINA AGUILERA   -   GENIO ATRAPADO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0c9a186e-f056-41ff-94df-f44112bd1f30"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:46:46.782Z",
+    "modified_at": "2022-11-03T03:46:47.291Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3737777,
+      "gain": -2.17,
+      "duration": 233,
+      "loudnorm": "-16.55,-0.17,5.40,-26.62,-0.88",
+      "filename": "processed_459d370eed4743f491888386152c84de.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3737777,
+      "gain": -2.17,
+      "duration": 233,
+      "loudnorm": "-16.55,-0.17,5.40,-26.62,-0.88",
+      "filename": "processed_1315dacb5ac1bb7901ce00eff189d37f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

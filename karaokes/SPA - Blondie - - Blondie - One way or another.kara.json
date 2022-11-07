@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - One way or another.mp3",
+      "loudnorm": "-14.26,-0.10,2.40,-24.32,-0.69",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - One way or another.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a23c84c0-b2eb-44d6-b2fa-a842a63d7115",
+    "title": "Blondie - One way or another",
+    "titles": {
+      "spa": "Blondie - One way or another"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:12:47.772Z",
+    "modified_at": "2022-11-03T15:12:48.212Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9c7621d5c619179fbb214012f02d51e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3621294,
+      "gain": -2.87,
+      "duration": 226,
+      "loudnorm": "-14.26,-0.10,2.40,-24.32,-0.69",
+      "filename": "processed_4da6edd01f8de7c11bff8f6ec7828f52.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tu Reputacion (quien dijo ayer).mp3",
+      "loudnorm": "-12.29,0.53,12.60,-22.82,-0.66",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tu Reputacion (quien dijo ayer).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c55404e-1441-4cd2-bee0-d31ec62868a0",
+    "title": "Ricardo Arjona - Tu Reputacion (quien dijo ayer)",
+    "titles": {
+      "spa": "Ricardo Arjona - Tu Reputacion (quien dijo ayer)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:05:06.783Z",
+    "modified_at": "2022-11-03T12:05:07.204Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90bf78244f6af0695fd4702bfae77b89.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8376415,
+      "gain": -3.41,
+      "duration": 261,
+      "loudnorm": "-12.29,0.53,12.60,-22.82,-0.66",
+      "filename": "processed_6e2abe88bb307f48d9072c43b65abfdd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

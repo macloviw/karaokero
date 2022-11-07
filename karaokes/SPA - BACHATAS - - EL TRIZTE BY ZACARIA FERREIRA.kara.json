@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACHATAS - - EL TRIZTE BY ZACARIA FERREIRA.MP3",
+      "loudnorm": "-12.57,1.91,3.50,-22.71,-1.09",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACHATAS - - EL TRIZTE BY ZACARIA FERREIRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "713c9506-4e0d-4565-9d2b-6e90c584db44",
+    "title": "EL TRIZTE BY ZACARIA FERREIRA",
+    "titles": {
+      "spa": "EL TRIZTE BY ZACARIA FERREIRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "a93bf822-9e1a-49b1-a1c2-f6529ad5fb37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:42:30.772Z",
+    "modified_at": "2022-11-03T21:42:31.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4602534,
+      "gain": -5.49,
+      "duration": 287,
+      "loudnorm": "-12.57,1.91,3.50,-22.71,-1.09",
+      "filename": "processed_bc44482d667fc0f653668401742072f1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4602534,
+      "gain": -5.49,
+      "duration": 287,
+      "loudnorm": "-12.57,1.91,3.50,-22.71,-1.09",
+      "filename": "processed_eb4e77c6b33cba5b0251987c58c897b1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

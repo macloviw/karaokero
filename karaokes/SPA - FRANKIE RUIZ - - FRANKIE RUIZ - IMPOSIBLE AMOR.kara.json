@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANKIE RUIZ - - FRANKIE RUIZ - IMPOSIBLE AMOR.mp3",
+      "loudnorm": "-12.92,1.31,3.40,-22.95,0.28",
+      "duration": 306,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANKIE RUIZ - - FRANKIE RUIZ - IMPOSIBLE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "444f567b-9741-41f4-bd6e-419a4d96dcaa",
+    "title": "FRANKIE RUIZ - IMPOSIBLE AMOR",
+    "titles": {
+      "spa": "FRANKIE RUIZ - IMPOSIBLE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:21:23.661Z",
+    "modified_at": "2022-11-04T03:21:24.064Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0930f0db2656eb0fd776bd07691e0730.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4903510,
+      "gain": -4.65,
+      "duration": 306,
+      "loudnorm": "-12.92,1.31,3.40,-22.95,0.28",
+      "filename": "processed_9fbc23fad1ea6f214a913bfd7955f831.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

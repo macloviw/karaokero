@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Revivirte Otra Ves.mp3",
+      "loudnorm": "-13.64,-0.82,3.70,-23.71,-0.89",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Revivirte Otra Ves.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "48ab9f4c-fd19-4ce8-af7f-e0195395c1cf",
+    "title": "Eros Ramazzoti - Revivirte Otra Ves",
+    "titles": {
+      "spa": "Eros Ramazzoti - Revivirte Otra Ves"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:09:44.254Z",
+    "modified_at": "2022-11-03T05:09:44.667Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_766c6877d3fcc5b8a781ad4f17892fc9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6916943,
+      "gain": -4.06,
+      "duration": 288,
+      "loudnorm": "-13.64,-0.82,3.70,-23.71,-0.89",
+      "filename": "processed_a211ed628a168e97678f2d1eee950c62.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

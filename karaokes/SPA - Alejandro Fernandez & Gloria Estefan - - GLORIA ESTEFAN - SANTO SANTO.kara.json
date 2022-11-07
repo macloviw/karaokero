@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - SANTO SANTO.MP3",
+      "loudnorm": "-11.05,2.17,4.20,-21.14,-1.18",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - SANTO SANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba023e3d-62c6-48af-a239-dc8df9770ecf",
+    "title": "GLORIA ESTEFAN   -   SANTO SANTO",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   SANTO SANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:35:50.450Z",
+    "modified_at": "2022-11-03T05:35:50.963Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4186665,
+      "gain": -6.54,
+      "duration": 261,
+      "loudnorm": "-11.05,2.17,4.20,-21.14,-1.18",
+      "filename": "processed_44b716c0f8dd9488ad6b856105f77e84.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4186665,
+      "gain": -6.54,
+      "duration": 261,
+      "loudnorm": "-11.05,2.17,4.20,-21.14,-1.18",
+      "filename": "processed_6047c76f3eaa85de2c85334c42cf7e88.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

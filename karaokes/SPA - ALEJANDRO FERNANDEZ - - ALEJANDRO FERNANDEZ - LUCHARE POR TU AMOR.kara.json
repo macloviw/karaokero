@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - LUCHARE POR TU AMOR.mp3",
+      "loudnorm": "-14.96,1.23,5.50,-25.16,-0.75",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - LUCHARE POR TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "149c4234-75ed-4511-aac1-0a80f40f41bc",
+    "title": "ALEJANDRO FERNANDEZ - LUCHARE POR TU AMOR",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ - LUCHARE POR TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:44:16.643Z",
+    "modified_at": "2022-11-03T00:44:17.120Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5928ac509d181ffa90dabbdcf74f7a1e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4138600,
+      "gain": -1.67,
+      "duration": 295,
+      "loudnorm": "-14.96,1.23,5.50,-25.16,-0.75",
+      "filename": "processed_91540fea195b6d53e82e45dc727fe0ca.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

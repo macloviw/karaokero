@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coco Jamboo - - Coco Jamboo - Mr President.mp3",
+      "loudnorm": "-15.34,-0.46,2.20,-25.39,-0.54",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coco Jamboo - - Coco Jamboo - Mr President.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8758e6ae-d3b5-4bb2-ba0b-820284f73f07",
+    "title": "Coco Jamboo - Mr President",
+    "titles": {
+      "spa": "Coco Jamboo - Mr President"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "236fa930-8312-469e-8529-99935a2c1421"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:14:53.161Z",
+    "modified_at": "2022-11-04T00:14:53.549Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8bc52176d52c01177565ba189fd108f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5033978,
+      "gain": -1.92,
+      "duration": 251,
+      "loudnorm": "-15.34,-0.46,2.20,-25.39,-0.54",
+      "filename": "processed_6095ca1a4fd72a4916424b58f6a91211.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

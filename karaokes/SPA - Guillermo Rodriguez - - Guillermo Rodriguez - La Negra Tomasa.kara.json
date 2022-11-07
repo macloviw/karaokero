@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Guillermo Rodriguez - - Guillermo Rodriguez - La Negra Tomasa.mp3",
+      "loudnorm": "-16.46,-0.12,5.60,-26.64,-0.52",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Guillermo Rodriguez - - Guillermo Rodriguez - La Negra Tomasa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7571997-8195-479c-a4ac-5fdcbfc38518",
+    "title": "Guillermo Rodriguez - La Negra Tomasa",
+    "titles": {
+      "spa": "Guillermo Rodriguez - La Negra Tomasa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c7e32b9e-9736-4119-8071-cae54faf1cc6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:24:12.867Z",
+    "modified_at": "2022-11-03T22:24:13.241Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_99a92449ff89e4f9bb79ccf4b764d769.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4239360,
+      "gain": -2.29,
+      "duration": 176,
+      "loudnorm": "-16.46,-0.12,5.60,-26.64,-0.52",
+      "filename": "processed_53dfdb73f61c5bba7dea3a9b8b36e571.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

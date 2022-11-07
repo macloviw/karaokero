@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLES AZNAVOUR - - BUEN ANIVERSARIO.MP3",
+      "loudnorm": "-17.62,-0.21,5.30,-27.65,-0.16",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLES AZNAVOUR - - BUEN ANIVERSARIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7056aea-b347-4022-921e-51964358af5f",
+    "title": "BUEN ANIVERSARIO",
+    "titles": {
+      "spa": "BUEN ANIVERSARIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "662909a5-fdf8-4eb2-aba8-527bad614f2b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:53:00.888Z",
+    "modified_at": "2022-11-03T21:53:01.444Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4229844,
+      "gain": -0.78,
+      "duration": 264,
+      "loudnorm": "-17.62,-0.21,5.30,-27.65,-0.16",
+      "filename": "processed_730f8f48a75a66f7b0aa9615bb3fa590.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4229844,
+      "gain": -0.78,
+      "duration": 264,
+      "loudnorm": "-17.62,-0.21,5.30,-27.65,-0.16",
+      "filename": "processed_d777fab4824791e83a9e6bc1bb749d83.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

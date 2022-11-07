@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- A gozar la vida.mp3",
+      "loudnorm": "-12.15,1.78,5.10,-22.24,-0.79",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- A gozar la vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2dcbb18e-743b-45c0-b796-d3ef8c806b62",
+    "title": "Julio Iglesias- A gozar la vida",
+    "titles": {
+      "spa": "Julio Iglesias- A gozar la vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:01:21.471Z",
+    "modified_at": "2022-11-03T08:01:21.908Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4f4e40f2f5ce0a10a8c4bb28b11314b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3766743,
+      "gain": -6.84,
+      "duration": 235,
+      "loudnorm": "-12.15,1.78,5.10,-22.24,-0.79",
+      "filename": "processed_206c4f6ec3339cdd260a42302eb3520b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

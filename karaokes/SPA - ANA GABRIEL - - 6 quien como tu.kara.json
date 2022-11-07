@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - 6 quien como tu.mp3",
+      "loudnorm": "-10.96,0.16,6.50,-21.03,-1.28",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - 6 quien como tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "38c4dc94-179a-4ad2-8e26-d78a2503aee8",
+    "title": "6 quien como tu",
+    "titles": {
+      "spa": "6 quien como tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:39:34.864Z",
+    "modified_at": "2022-11-03T01:39:35.290Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_956598e8d64037b81d1a3d9bf5198cd3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4868483,
+      "gain": -8.58,
+      "duration": 202,
+      "loudnorm": "-10.96,0.16,6.50,-21.03,-1.28",
+      "filename": "processed_ef83d283fef7e670d77d8962002571b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

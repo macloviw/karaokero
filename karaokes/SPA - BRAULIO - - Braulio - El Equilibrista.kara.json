@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - Braulio - El Equilibrista.MP3",
+      "loudnorm": "-13.66,1.10,5.30,-23.79,-0.70",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - Braulio - El Equilibrista.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8926c749-6958-48fb-b75c-5f2c0face85e",
+    "title": "Braulio - El Equilibrista",
+    "titles": {
+      "spa": "Braulio - El Equilibrista"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:32:13.629Z",
+    "modified_at": "2022-11-03T02:32:14.348Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4925440,
+      "gain": -5.68,
+      "duration": 307,
+      "loudnorm": "-13.66,1.10,5.30,-23.79,-0.70",
+      "filename": "processed_67a102383f82b8111982a5e16bd51e2c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4925440,
+      "gain": -5.68,
+      "duration": 307,
+      "loudnorm": "-13.66,1.10,5.30,-23.79,-0.70",
+      "filename": "processed_0ee1179ab5f3461e54d90f2d0f553b03.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

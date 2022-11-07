@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Please Forgive Me.mp3",
+      "loudnorm": "-16.23,-0.66,7.50,-26.48,-0.86",
+      "duration": 367,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Please Forgive Me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd6a26db-1e36-424b-992c-60575fec731e",
+    "title": "Bryan Adams - Please Forgive Me",
+    "titles": {
+      "spa": "Bryan Adams - Please Forgive Me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:34:43.267Z",
+    "modified_at": "2022-11-03T15:34:43.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4c551ea3d8cb7a8d0e90677633258acd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5882871,
+      "gain": -1.77,
+      "duration": 367,
+      "loudnorm": "-16.23,-0.66,7.50,-26.48,-0.86",
+      "filename": "processed_fb0c3638d4c7b517cf3009b1c2dfa19b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - VIENTO DE OTONO.MP3",
+      "loudnorm": "-12.71,1.10,5.50,-22.79,-0.72",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - VIENTO DE OTONO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3608f6ae-db50-40e6-bf1a-3954940f7aef",
+    "title": "DANI DANIEL   -   VIENTO DE OTOÑO",
+    "titles": {
+      "spa": "DANI DANIEL   -   VIENTO DE OTOÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:51:04.044Z",
+    "modified_at": "2022-11-03T03:51:04.634Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4554051,
+      "gain": -4.58,
+      "duration": 284,
+      "loudnorm": "-12.71,1.10,5.50,-22.79,-0.72",
+      "filename": "processed_e1eff613cbcaacc411246ad1a147a325.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4554051,
+      "gain": -4.58,
+      "duration": 284,
+      "loudnorm": "-12.71,1.10,5.50,-22.79,-0.72",
+      "filename": "processed_6cfdde909c05802b8660c65f24392244.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

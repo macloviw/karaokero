@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Miramar - - Grupo Miramar - Dos Almas.mp3",
+      "loudnorm": "-13.93,0.65,2.20,-24.11,-0.69",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Miramar - - Grupo Miramar - Dos Almas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cacb17af-cc0a-40b0-a867-6dd86b1755a7",
+    "title": "Grupo Miramar - Dos Almas",
+    "titles": {
+      "spa": "Grupo Miramar - Dos Almas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "058b9630-40e6-4a19-869d-d2753e896fc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:46:23.018Z",
+    "modified_at": "2022-11-03T05:46:23.447Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_014b421dfc29781ce5b55deed68bf2c2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2546412,
+      "gain": -3.25,
+      "duration": 181,
+      "loudnorm": "-13.93,0.65,2.20,-24.11,-0.69",
+      "filename": "processed_42cee720f0b20f5a5d9b7c9c1fe764d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

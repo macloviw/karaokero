@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eros Ramazotti - - Eros Ramazotti - La Cosa Mas Bella.MP3",
+      "loudnorm": "-11.71,0.70,2.30,-21.89,-0.59",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eros Ramazotti - - Eros Ramazotti - La Cosa Mas Bella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "258bffb6-596f-4479-a10a-754b54e2f07e",
+    "title": "Eros Ramazotti - La Cosa Mas Bella",
+    "titles": {
+      "spa": "Eros Ramazotti - La Cosa Mas Bella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc8ca79d-c8c6-4384-9eea-eac1b7b22008"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:12:18.564Z",
+    "modified_at": "2022-11-03T05:12:19.218Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4323328,
+      "gain": -4.47,
+      "duration": 270,
+      "loudnorm": "-11.71,0.70,2.30,-21.89,-0.59",
+      "filename": "processed_26aa2745378411b17021af96a449509c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4323328,
+      "gain": -4.47,
+      "duration": 270,
+      "loudnorm": "-11.71,0.70,2.30,-21.89,-0.59",
+      "filename": "processed_b16f0e17096abec8659ff5443788dc96.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

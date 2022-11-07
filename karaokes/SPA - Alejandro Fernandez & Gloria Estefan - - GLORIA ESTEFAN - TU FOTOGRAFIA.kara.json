@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - TU FOTOGRAFIA.mp3",
+      "loudnorm": "-15.16,-0.34,12.50,-25.63,-1.77",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - TU FOTOGRAFIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8a59aca-a4ba-44fc-92aa-b83f523b76f2",
+    "title": "GLORIA ESTEFAN - TU FOTOGRAFIA",
+    "titles": {
+      "spa": "GLORIA ESTEFAN - TU FOTOGRAFIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:38:27.748Z",
+    "modified_at": "2022-11-03T05:38:28.161Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_290826f322465ce2cf8e0a2f0716c146.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3279901,
+      "gain": -1.42,
+      "duration": 234,
+      "loudnorm": "-15.16,-0.34,12.50,-25.63,-1.77",
+      "filename": "processed_25335dbca4de64796c9549a5409059f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

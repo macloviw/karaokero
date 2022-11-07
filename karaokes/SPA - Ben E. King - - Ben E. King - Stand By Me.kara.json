@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ben E. King - - Ben E. King - Stand By Me.mp3",
+      "loudnorm": "-7.95,4.16,4.60,-18.13,-1.44",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ben E. King - - Ben E. King - Stand By Me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "674311be-2565-4d0f-90b4-750eac8926a7",
+    "title": "Ben E. King - Stand By Me",
+    "titles": {
+      "spa": "Ben E. King - Stand By Me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01d016a1-1e81-4533-8cfe-d436d4427d09"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:59:53.218Z",
+    "modified_at": "2022-11-03T23:59:53.593Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e2d3ccfa2d95d21fb1b94d91f735b810.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4661950,
+      "gain": -8.93,
+      "duration": 194,
+      "loudnorm": "-7.95,4.16,4.60,-18.13,-1.44",
+      "filename": "processed_6fd0b950037f3d4787b1dea341165387.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

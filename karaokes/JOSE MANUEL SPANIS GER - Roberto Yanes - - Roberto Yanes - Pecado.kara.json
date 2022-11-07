@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Roberto Yanes - - Roberto Yanes - Pecado.mp3",
+      "loudnorm": "-11.51,0.20,5.20,-21.70,-0.96",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Roberto Yanes - - Roberto Yanes - Pecado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "38216c01-1e20-4933-98fa-4f832d13b812",
+    "title": "Roberto Yanes - Pecado",
+    "titles": {
+      "spa": "Roberto Yanes - Pecado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7b216e8f-3656-45f2-90b0-e28cb8b0b855"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:25:12.352Z",
+    "modified_at": "2022-11-04T08:25:12.725Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_447f447d32e7da21185a00c56eaa7079.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6979973,
+      "gain": -6.13,
+      "duration": 174,
+      "loudnorm": "-11.51,0.20,5.20,-21.70,-0.96",
+      "filename": "processed_a727f9b7230889daf5aeaf9cb7b85805.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

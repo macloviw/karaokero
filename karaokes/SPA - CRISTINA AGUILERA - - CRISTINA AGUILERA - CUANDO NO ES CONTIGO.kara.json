@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - CUANDO NO ES CONTIGO.MP3",
+      "loudnorm": "-17.33,-0.14,6.50,-27.41,-1.02",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - CUANDO NO ES CONTIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c1022796-ecf7-460e-8f3a-812ee9264f3b",
+    "title": "CRISTINA AGUILERA   -   CUANDO NO ES CONTIGO",
+    "titles": {
+      "spa": "CRISTINA AGUILERA   -   CUANDO NO ES CONTIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0c9a186e-f056-41ff-94df-f44112bd1f30"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:45:48.504Z",
+    "modified_at": "2022-11-03T03:45:48.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4219266,
+      "gain": -1.43,
+      "duration": 263,
+      "loudnorm": "-17.33,-0.14,6.50,-27.41,-1.02",
+      "filename": "processed_d423dc0c94e53d296e8d9b44e8db4100.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4219266,
+      "gain": -1.43,
+      "duration": 263,
+      "loudnorm": "-17.33,-0.14,6.50,-27.41,-1.02",
+      "filename": "processed_66b892fa8bf038d50d8ae156afd69400.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

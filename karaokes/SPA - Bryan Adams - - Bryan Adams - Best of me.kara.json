@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Best of me.MP3",
+      "loudnorm": "-15.44,-4.18,3.40,-25.51,-0.83",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Best of me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d0a440a-76e0-48f3-92db-c5818d2d27da",
+    "title": "Bryan Adams - Best of me",
+    "titles": {
+      "spa": "Bryan Adams - Best of me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:32:34.988Z",
+    "modified_at": "2022-11-03T15:32:35.504Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5053222,
+      "gain": -0.59,
+      "duration": 315,
+      "loudnorm": "-15.44,-4.18,3.40,-25.51,-0.83",
+      "filename": "processed_48227c4341bb955172914e7d9ee3b83a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5053222,
+      "gain": -0.59,
+      "duration": 315,
+      "loudnorm": "-15.44,-4.18,3.40,-25.51,-0.83",
+      "filename": "processed_c8855bc90ab7ea9b0beb5ceadc920fb6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

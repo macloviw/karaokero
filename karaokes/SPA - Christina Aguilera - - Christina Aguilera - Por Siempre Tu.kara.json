@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christina Aguilera - - Christina Aguilera - Por Siempre Tu.MP3",
+      "loudnorm": "-15.91,0.02,8.10,-26.17,-1.94",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christina Aguilera - - Christina Aguilera - Por Siempre Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "143f1641-8ec9-4ec8-b6cb-9af3ea0e2964",
+    "title": "Christina Aguilera - Por Siempre Tu",
+    "titles": {
+      "spa": "Christina Aguilera - Por Siempre Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4d8cb367-6ee7-4268-a4e3-bdc3d7e6b8ae"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:33:24.915Z",
+    "modified_at": "2022-11-03T03:33:25.405Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4259840,
+      "gain": -1.84,
+      "duration": 266,
+      "loudnorm": "-15.91,0.02,8.10,-26.17,-1.94",
+      "filename": "processed_579a32d7f85802ba2ed435e2afbc1467.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4259840,
+      "gain": -1.84,
+      "duration": 266,
+      "loudnorm": "-15.91,0.02,8.10,-26.17,-1.94",
+      "filename": "processed_551f5993d83188216ba4d85a7a36122c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Seger - - Bob Seger - Old time rock rokk.MP3",
+      "loudnorm": "-14.96,-0.58,3.20,-25.19,-0.44",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Seger - - Bob Seger - Old time rock rokk.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a5cbd65-d563-4ae0-9107-9c69cd4e3baa",
+    "title": "Bob Seger - Old time rock rokk",
+    "titles": {
+      "spa": "Bob Seger - Old time rock rokk"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "beaa7920-cc88-4a34-8def-9bbc7a9ecf45"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:06:02.080Z",
+    "modified_at": "2022-11-04T00:06:02.550Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3347821,
+      "gain": -3.16,
+      "duration": 209,
+      "loudnorm": "-14.96,-0.58,3.20,-25.19,-0.44",
+      "filename": "processed_1d7c7d4f5cd57b87e8b71630a1f2b96a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3347821,
+      "gain": -3.16,
+      "duration": 209,
+      "loudnorm": "-14.96,-0.58,3.20,-25.19,-0.44",
+      "filename": "processed_ea6415fd53484d1d10f94af827638b4b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

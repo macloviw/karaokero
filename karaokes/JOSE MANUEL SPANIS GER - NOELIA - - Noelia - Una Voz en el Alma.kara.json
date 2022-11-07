@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NOELIA - - Noelia - Una Voz en el Alma.MP3",
+      "loudnorm": "-16.87,-0.05,7.00,-26.97,-1.45",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NOELIA - - Noelia - Una Voz en el Alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f4cefd6f-04d0-4282-9cdf-7998a1c47100",
+    "title": "Noelia - Una Voz en el Alma",
+    "titles": {
+      "spa": "Noelia - Una Voz en el Alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "430fe347-4adc-4a27-8194-a6512b79062e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:46:08.505Z",
+    "modified_at": "2022-11-04T07:46:09.117Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4075520,
+      "gain": -1.79,
+      "duration": 254,
+      "loudnorm": "-16.87,-0.05,7.00,-26.97,-1.45",
+      "filename": "processed_9115f46b8d11c9a48d9cc25990c6d4cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4075520,
+      "gain": -1.79,
+      "duration": 254,
+      "loudnorm": "-16.87,-0.05,7.00,-26.97,-1.45",
+      "filename": "processed_5cf45ebbac09604ca7e628206b668677.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - 09 - COMO YO TE AME - MANZANERO.mp3",
+      "loudnorm": "-15.21,0.18,5.70,-25.31,-0.91",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - 09 - COMO YO TE AME - MANZANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fff37607-c31b-4e8a-97d8-a5ec82ff3789",
+    "title": "09 - COMO YO TE AME - MANZANERO",
+    "titles": {
+      "spa": "09 - COMO YO TE AME - MANZANERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:58:26.926Z",
+    "modified_at": "2022-11-03T01:58:27.335Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05c23d31af07397a9edbdf78a4d9e028.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5018322,
+      "gain": -2.2,
+      "duration": 208,
+      "loudnorm": "-15.21,0.18,5.70,-25.31,-0.91",
+      "filename": "processed_3f88bd2fb8db08130181be004efc79ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

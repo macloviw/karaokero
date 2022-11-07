@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - DAME BY RICARDO ARJONA.MP3",
+      "loudnorm": "-12.34,1.77,10.20,-22.68,-1.26",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - DAME BY RICARDO ARJONA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "daaff81d-420b-47c7-b6ed-ca2b24a4cf66",
+    "title": "DAME BY RICARDO ARJONA",
+    "titles": {
+      "spa": "DAME BY RICARDO ARJONA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:46:27.968Z",
+    "modified_at": "2022-11-03T11:46:28.439Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3713535,
+      "gain": -6.12,
+      "duration": 231,
+      "loudnorm": "-12.34,1.77,10.20,-22.68,-1.26",
+      "filename": "processed_24124b14eac0e0a2cd365e36c51318aa.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3713535,
+      "gain": -6.12,
+      "duration": 231,
+      "loudnorm": "-12.34,1.77,10.20,-22.68,-1.26",
+      "filename": "processed_6f9cf1d5f19ddd0d8b02cbe9945fc1f7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

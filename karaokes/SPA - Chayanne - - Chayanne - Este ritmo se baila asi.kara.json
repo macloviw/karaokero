@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - Chayanne - Este ritmo se baila asi.mp3",
+      "loudnorm": "-12.07,1.02,3.60,-22.16,0.23",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - Chayanne - Este ritmo se baila asi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87594231-b109-448a-9b33-ce5591284f0b",
+    "title": "Chayanne - Este ritmo se baila asi",
+    "titles": {
+      "spa": "Chayanne - Este ritmo se baila asi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:19:25.528Z",
+    "modified_at": "2022-11-03T03:19:25.931Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4222b2e315722be7a9638052df08291e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3638922,
+      "gain": -5.76,
+      "duration": 227,
+      "loudnorm": "-12.07,1.02,3.60,-22.16,0.23",
+      "filename": "processed_1c96127d8fb0fdf92bf9704cb6553855.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

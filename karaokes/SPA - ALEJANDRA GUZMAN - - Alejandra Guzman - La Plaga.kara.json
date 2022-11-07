@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra Guzman - La Plaga.mp3",
+      "loudnorm": "-11.37,1.53,2.30,-21.47,-0.01",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra Guzman - La Plaga.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34852f46-1919-4e1b-beea-f5b619c15b5b",
+    "title": "Alejandra Guzman - La Plaga",
+    "titles": {
+      "spa": "Alejandra Guzman - La Plaga"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:35:22.090Z",
+    "modified_at": "2022-11-03T00:35:22.554Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_643445dc314e8a1aef3ba15616bc4ea1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2777305,
+      "gain": -6.03,
+      "duration": 173,
+      "loudnorm": "-11.37,1.53,2.30,-21.47,-0.01",
+      "filename": "processed_1235f872e6c778b19bf63e67a401d462.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

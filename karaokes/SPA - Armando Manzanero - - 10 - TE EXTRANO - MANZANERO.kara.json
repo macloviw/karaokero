@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - 10 - TE EXTRANO - MANZANERO.mp3",
+      "loudnorm": "-12.52,0.05,6.90,-22.73,-1.08",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - 10 - TE EXTRANO - MANZANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52bb63fc-67f8-463d-970f-94ef2b70340e",
+    "title": "10 - TE EXTRAÑO - MANZANERO",
+    "titles": {
+      "spa": "10 - TE EXTRAÑO - MANZANERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:58:37.676Z",
+    "modified_at": "2022-11-03T01:58:38.087Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c801f3619f8f4c739ebe6afc61700964.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6017035,
+      "gain": -5.23,
+      "duration": 250,
+      "loudnorm": "-12.52,0.05,6.90,-22.73,-1.08",
+      "filename": "processed_b8b503a8c5a7f273104aa7f81760ff26.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

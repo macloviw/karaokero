@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAMBOY ESTEVES - - POPURRI CAMBOY.mp3",
+      "loudnorm": "-14.72,0.69,8.20,-24.96,0.13",
+      "duration": 380,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAMBOY ESTEVES - - POPURRI CAMBOY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8fffdd7-4365-4ad2-9dfa-f36562141eb4",
+    "title": "POPURRI CAMBOY",
+    "titles": {
+      "spa": "POPURRI CAMBOY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0dfcfcbc-120c-4694-bcc1-77026445f360"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:38:21.838Z",
+    "modified_at": "2022-11-03T02:38:22.248Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_54c37ff76b0492adcc92d3fec83f6a17.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6094721,
+      "gain": -2.91,
+      "duration": 380,
+      "loudnorm": "-14.72,0.69,8.20,-24.96,0.13",
+      "filename": "processed_5677933352478fc9bd352eae8a07c9f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

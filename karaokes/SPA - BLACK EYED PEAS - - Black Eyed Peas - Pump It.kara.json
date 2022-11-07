@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - Pump It.mp3",
+      "loudnorm": "-9.38,3.46,5.20,-19.43,-0.68",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - Pump It.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ecc76b87-c47a-4b6b-9273-8cd64330738c",
+    "title": "Black Eyed Peas - Pump It",
+    "titles": {
+      "spa": "Black Eyed Peas - Pump It"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "14d79f2a-121f-4b24-92fb-855e4780ea80"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:08:56.984Z",
+    "modified_at": "2022-11-03T15:08:57.408Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_52b06a8e8d0e7206f315e078921a61ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3774441,
+      "gain": -8.36,
+      "duration": 235,
+      "loudnorm": "-9.38,3.46,5.20,-19.43,-0.68",
+      "filename": "processed_0f9367997a57f8bf3cb939d2a837eb6f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Infantiles - - Infantiles - En El Bosque De La China.mp3",
+      "loudnorm": "-13.19,0.07,3.10,-23.42,-0.43",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Infantiles - - Infantiles - En El Bosque De La China.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d5870de7-c638-4bc8-9401-b212d68bdb2f",
+    "title": "Infantiles - En El Bosque De La China",
+    "titles": {
+      "spa": "Infantiles - En El Bosque De La China"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bf77d6bb-d1df-4360-9dd3-14f69677ab9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:33:46.397Z",
+    "modified_at": "2022-11-04T03:33:46.774Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eaaf0c4d1a1ab2a0f8900a890d4c32fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4876288,
+      "gain": -7.83,
+      "duration": 203,
+      "loudnorm": "-13.19,0.07,3.10,-23.42,-0.43",
+      "filename": "processed_c7222158cfe0c507df29d36a88a4b048.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

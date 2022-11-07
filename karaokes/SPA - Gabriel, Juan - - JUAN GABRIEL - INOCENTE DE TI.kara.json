@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - INOCENTE DE TI.MP3",
+      "loudnorm": "-14.80,-0.34,4.10,-25.04,-0.97",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - INOCENTE DE TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9bb07893-2033-4735-a5b5-db48dfebf40d",
+    "title": "JUAN GABRIEL   -   INOCENTE DE TI",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   INOCENTE DE TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:40:45.410Z",
+    "modified_at": "2022-11-03T07:40:45.923Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4146123,
+      "gain": -2.75,
+      "duration": 259,
+      "loudnorm": "-14.80,-0.34,4.10,-25.04,-0.97",
+      "filename": "processed_28c6aae136c1d207c2629e25cc8660b2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4146123,
+      "gain": -2.75,
+      "duration": 259,
+      "loudnorm": "-14.80,-0.34,4.10,-25.04,-0.97",
+      "filename": "processed_85f5de3d695968e4203b7834c9b2b40b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Francis Natra - - Francis Natra - Summers wind.MP3",
+      "loudnorm": "-20.84,-0.59,6.40,-30.93,-0.95",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Francis Natra - - Francis Natra - Summers wind.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed5255bf-5075-46bd-86bf-e733197d1e66",
+    "title": "Francis Natra - Summers wind",
+    "titles": {
+      "spa": "Francis Natra - Summers wind"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1545075a-6d71-4001-b4a1-f4fe538b5567"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:47:31.698Z",
+    "modified_at": "2022-11-04T00:47:32.134Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2945744,
+      "gain": 1.76,
+      "duration": 183,
+      "loudnorm": "-20.84,-0.59,6.40,-30.93,-0.95",
+      "filename": "processed_142c716d75c4ebbdad5f0baebe191b80.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2945744,
+      "gain": 1.76,
+      "duration": 183,
+      "loudnorm": "-20.84,-0.59,6.40,-30.93,-0.95",
+      "filename": "processed_4cf5eb9413e1e833e5387a1ccb42169b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

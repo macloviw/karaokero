@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - QUIEN DIRIA BY RICARDO ARJONA.CDG.MP3",
+      "loudnorm": "-12.96,-0.04,5.70,-23.06,-1.03",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - QUIEN DIRIA BY RICARDO ARJONA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d661f11-0191-4677-842c-c265f5bedebe",
+    "title": "QUIEN DIRIA BY RICARDO ARJONA.CDG",
+    "titles": {
+      "spa": "QUIEN DIRIA BY RICARDO ARJONA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:54:13.254Z",
+    "modified_at": "2022-11-03T11:54:13.724Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3922515,
+      "gain": -5.52,
+      "duration": 245,
+      "loudnorm": "-12.96,-0.04,5.70,-23.06,-1.03",
+      "filename": "processed_c42623f58cde858f43b23bac56904405.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3922515,
+      "gain": -5.52,
+      "duration": 245,
+      "loudnorm": "-12.96,-0.04,5.70,-23.06,-1.03",
+      "filename": "processed_0b2a9a31dd228e62dcb7588358461721.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

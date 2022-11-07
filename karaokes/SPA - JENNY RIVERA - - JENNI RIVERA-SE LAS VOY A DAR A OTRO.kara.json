@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-SE LAS VOY A DAR A OTRO.mp3",
+      "loudnorm": "-11.45,1.77,3.10,-21.77,-0.08",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-SE LAS VOY A DAR A OTRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8b0bb669-ac15-4579-b158-7775d10f52d3",
+    "title": "JENNI RIVERA-SE LAS VOY A DAR A OTRO",
+    "titles": {
+      "spa": "JENNI RIVERA-SE LAS VOY A DAR A OTRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:24.520Z",
+    "modified_at": "2022-11-03T06:16:24.970Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c5808c011462e4806af8abf1bd040380.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3063034,
+      "gain": -6.32,
+      "duration": 218,
+      "loudnorm": "-11.45,1.77,3.10,-21.77,-0.08",
+      "filename": "processed_cf1a132d81ea28c00d89f28b7274e500.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

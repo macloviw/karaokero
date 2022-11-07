@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cindy Lauper - - Cindy Lauper - Girls Just Wanna Have Fun.MP3",
+      "loudnorm": "-19.02,-0.77,3.90,-29.13,-0.23",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cindy Lauper - - Cindy Lauper - Girls Just Wanna Have Fun.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0195a9c4-19b4-404b-b8ad-1f26682d8cfb",
+    "title": "Cindy Lauper - Girls Just Wanna Have Fun",
+    "titles": {
+      "spa": "Cindy Lauper - Girls Just Wanna Have Fun"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2ebf6121-1e04-4d4a-b606-8a450ada292d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:14:41.092Z",
+    "modified_at": "2022-11-04T00:14:41.531Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3755041,
+      "gain": 0.34,
+      "duration": 234,
+      "loudnorm": "-19.02,-0.77,3.90,-29.13,-0.23",
+      "filename": "processed_96f4aa6cac4afe9af944bbd685aad89d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3755041,
+      "gain": 0.34,
+      "duration": 234,
+      "loudnorm": "-19.02,-0.77,3.90,-29.13,-0.23",
+      "filename": "processed_e037c4c947c4dfdc903f91cd126caa93.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

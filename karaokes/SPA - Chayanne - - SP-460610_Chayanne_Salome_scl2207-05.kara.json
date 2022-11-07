@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - SP-460610_Chayanne_Salome_scl2207-05.mp3",
+      "loudnorm": "-16.61,0.17,2.80,-26.63,-0.47",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - SP-460610_Chayanne_Salome_scl2207-05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7842daa-b546-4c0d-97a5-17679a63e47b",
+    "title": "SP-460610_Chayanne_Salome_scl2207-05",
+    "titles": {
+      "spa": "SP-460610_Chayanne_Salome_scl2207-05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:22:17.846Z",
+    "modified_at": "2022-11-03T03:22:18.286Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ddf09bde32ef3fe0a2b154ca800d45c2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4298890,
+      "gain": -0.11,
+      "duration": 268,
+      "loudnorm": "-16.61,0.17,2.80,-26.63,-0.47",
+      "filename": "processed_7b26d00e6b43191117adea300724340f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

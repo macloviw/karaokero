@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Berrios - - Danny Berrios - Alaba A Dios.mp3",
+      "loudnorm": "-15.22,1.27,8.40,-25.38,-1.17",
+      "duration": 329,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Berrios - - Danny Berrios - Alaba A Dios.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "14734022-1bbf-49fb-b675-20c7c9df6fad",
+    "title": "Danny Berrios - Alaba A Dios",
+    "titles": {
+      "spa": "Danny Berrios - Alaba A Dios"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "463aadbc-7139-4f06-a1cf-2847f5d755e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:35:50.385Z",
+    "modified_at": "2022-11-03T23:35:50.774Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0b4dfb2970ea37cfa1d0a0cfc868a06.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5276413,
+      "gain": -3.03,
+      "duration": 329,
+      "loudnorm": "-15.22,1.27,8.40,-25.38,-1.17",
+      "filename": "processed_3062cdbb5f13b594d19ef43bb26b9495.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - FRANCO DE VITA - NO BASTA.MP3",
+      "loudnorm": "-11.46,9.59,10.20,-21.69,-1.02",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - FRANCO DE VITA - NO BASTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3f77230-343f-488c-9abd-4318fd3169a6",
+    "title": "FRANCO DE VITA   -   NO BASTA",
+    "titles": {
+      "spa": "FRANCO DE VITA   -   NO BASTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:26:41.894Z",
+    "modified_at": "2022-11-03T05:26:42.584Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4134002,
+      "gain": -5.28,
+      "duration": 258,
+      "loudnorm": "-11.46,9.59,10.20,-21.69,-1.02",
+      "filename": "processed_3a7dbfb67c1aeff2bed9e0d1e1ef1e51.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4134002,
+      "gain": -5.28,
+      "duration": 258,
+      "loudnorm": "-11.46,9.59,10.20,-21.69,-1.02",
+      "filename": "processed_245d7754acd3603159bc30062051b1eb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

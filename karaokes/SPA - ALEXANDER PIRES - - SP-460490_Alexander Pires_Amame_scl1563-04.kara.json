@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDER PIRES - - SP-460490_Alexander Pires_Amame_scl1563-04.mp3",
+      "loudnorm": "-12.27,1.58,5.80,-22.44,-1.38",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDER PIRES - - SP-460490_Alexander Pires_Amame_scl1563-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "639aa954-cb95-4fc3-b90a-abc603068b76",
+    "title": "SP-460490_Alexander Pires_Ámame_scl1563-04",
+    "titles": {
+      "spa": "SP-460490_Alexander Pires_Ámame_scl1563-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "65f5e0d7-9abb-47c7-8b48-7d42493a727d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:18:39.746Z",
+    "modified_at": "2022-11-03T01:18:40.281Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf72e3e2e4054a847eb38235f1ba8a70.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2054282,
+      "gain": -5.23,
+      "duration": 256,
+      "loudnorm": "-12.27,1.58,5.80,-22.44,-1.38",
+      "filename": "processed_8efcc4091f04f29a92e45d15bccca09c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

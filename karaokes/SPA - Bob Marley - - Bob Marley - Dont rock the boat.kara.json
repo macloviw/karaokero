@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - Dont rock the boat.MP3",
+      "loudnorm": "-14.42,1.05,3.50,-24.51,-0.68",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - Dont rock the boat.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8890da30-69ea-4e06-b68c-17a5bd202981",
+    "title": "Bob Marley - Dont rock the boat",
+    "titles": {
+      "spa": "Bob Marley - Dont rock the boat"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:16:20.712Z",
+    "modified_at": "2022-11-03T15:16:21.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4562539,
+      "gain": -2.08,
+      "duration": 285,
+      "loudnorm": "-14.42,1.05,3.50,-24.51,-0.68",
+      "filename": "processed_fbd41b06b9fa3877717c3ad1afe74407.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4562539,
+      "gain": -2.08,
+      "duration": 285,
+      "loudnorm": "-14.42,1.05,3.50,-24.51,-0.68",
+      "filename": "processed_17915150f1deb9496176b36966f65e80.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

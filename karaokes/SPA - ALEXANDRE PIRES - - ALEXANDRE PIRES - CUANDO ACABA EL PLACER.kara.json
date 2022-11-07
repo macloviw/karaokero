@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDRE PIRES - - ALEXANDRE PIRES - CUANDO ACABA EL PLACER.MP3",
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDRE PIRES - - ALEXANDRE PIRES - CUANDO ACABA EL PLACER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6bc57686-bebf-452c-9891-93be421e55f1",
+    "title": "ALEXANDRE PIRES   -   CUANDO ACABA EL PLACER",
+    "titles": {
+      "spa": "ALEXANDRE PIRES   -   CUANDO ACABA EL PLACER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5b7a64c0-20ab-4e5c-948a-e9079f654e95"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:21:22.852Z",
+    "modified_at": "2022-11-03T01:21:23.347Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4485088,
+      "gain": -0.22,
+      "duration": 280,
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "filename": "processed_808476be0469ec7ed8f734fe1c7abb42.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4485088,
+      "gain": -0.22,
+      "duration": 280,
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "filename": "processed_a648c822241c2673197970a75fb0f7ac.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

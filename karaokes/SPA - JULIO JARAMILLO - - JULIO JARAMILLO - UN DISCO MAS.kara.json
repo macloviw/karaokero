@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - JULIO JARAMILLO - UN DISCO MAS.mp3",
+      "loudnorm": "-13.53,-0.28,1.50,-23.61,-0.72",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - JULIO JARAMILLO - UN DISCO MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "560e4e5e-1a3d-4611-ba1a-d50e5df3e0a7",
+    "title": "JULIO JARAMILLO - UN DISCO MAS",
+    "titles": {
+      "spa": "JULIO JARAMILLO - UN DISCO MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:26:10.663Z",
+    "modified_at": "2022-11-03T08:26:11.082Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b9e40c5e6ce03dea5a77f8c7120a930.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4360663,
+      "gain": -5.86,
+      "duration": 181,
+      "loudnorm": "-13.53,-0.28,1.50,-23.61,-0.72",
+      "filename": "processed_326e0f1cdd31935d21690ccebb31a8fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

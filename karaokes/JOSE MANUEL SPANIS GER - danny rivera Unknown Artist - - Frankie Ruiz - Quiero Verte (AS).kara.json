@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Frankie Ruiz - Quiero Verte (AS).mp3",
+      "loudnorm": "-10.70,2.26,2.40,-20.79,-0.72",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Frankie Ruiz - Quiero Verte (AS).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ccbe3916-0195-4c5b-b006-5a8a127bd004",
+    "title": "Frankie Ruiz - Quiero Verte (AS)",
+    "titles": {
+      "spa": "Frankie Ruiz - Quiero Verte (AS)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:46:16.150Z",
+    "modified_at": "2022-11-04T08:46:16.566Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_89fc642a4a9557805f95c5c4f7bef656.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11695192,
+      "gain": -6.4,
+      "duration": 292,
+      "loudnorm": "-10.70,2.26,2.40,-20.79,-0.72",
+      "filename": "processed_7ce1a63fcf5549d2d904ce36d6e51a9d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

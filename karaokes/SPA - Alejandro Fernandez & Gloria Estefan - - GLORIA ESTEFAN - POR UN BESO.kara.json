@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - POR UN BESO.MP3",
+      "loudnorm": "-13.96,1.58,6.90,-24.13,-1.16",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - POR UN BESO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a644b8da-dbc9-46d0-bd8a-712e2220ba76",
+    "title": "GLORIA ESTEFAN   -   POR UN BESO",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   POR UN BESO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:35:29.691Z",
+    "modified_at": "2022-11-03T05:35:30.169Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4257718,
+      "gain": -6.54,
+      "duration": 265,
+      "loudnorm": "-13.96,1.58,6.90,-24.13,-1.16",
+      "filename": "processed_b183cc422247857bc8082e1025ceeb18.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4257718,
+      "gain": -6.54,
+      "duration": 265,
+      "loudnorm": "-13.96,1.58,6.90,-24.13,-1.16",
+      "filename": "processed_4da0a67df6ed865fc0243eee85e10f29.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

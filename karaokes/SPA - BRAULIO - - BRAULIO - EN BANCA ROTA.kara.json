@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - BRAULIO - EN BANCA ROTA.MP3",
+      "loudnorm": "-14.10,1.57,3.50,-24.24,-0.55",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - BRAULIO - EN BANCA ROTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cc4d1a78-03b0-4b93-ac0e-b04176d76bbc",
+    "title": "BRAULIO   -   EN BANCA ROTA",
+    "titles": {
+      "spa": "BRAULIO   -   EN BANCA ROTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:30:33.609Z",
+    "modified_at": "2022-11-03T02:30:34.255Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4399406,
+      "gain": -1.63,
+      "duration": 274,
+      "loudnorm": "-14.10,1.57,3.50,-24.24,-0.55",
+      "filename": "processed_18d5cb6d68e59e0de393174c7a16923a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4399406,
+      "gain": -1.63,
+      "duration": 274,
+      "loudnorm": "-14.10,1.57,3.50,-24.24,-0.55",
+      "filename": "processed_c04a6517e3add5436aad262747d06b95.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

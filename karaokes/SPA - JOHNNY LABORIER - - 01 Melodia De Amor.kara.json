@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOHNNY LABORIER - - 01 Melodia De Amor.mp3",
+      "loudnorm": "-21.36,-4.53,3.00,-31.61,-0.58",
+      "duration": 151,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOHNNY LABORIER - - 01 Melodia De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6189b494-d5f5-4ac6-abb9-bc08b561c406",
+    "title": "01 Melodia De Amor",
+    "titles": {
+      "spa": "01 Melodia De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af55ac59-7c48-481c-ae7b-633a62a97ed0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:33:23.375Z",
+    "modified_at": "2022-11-03T22:33:23.764Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44d0cb3fee2529e405b3df1fada51830.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3638430,
+      "gain": 3.01,
+      "duration": 151,
+      "loudnorm": "-21.36,-4.53,3.00,-31.61,-0.58",
+      "filename": "processed_cc8886914da3c0d60eef00a55227ac7e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

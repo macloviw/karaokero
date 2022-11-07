@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - YOLANDITA MONGE - ESTE AMOR QUE HAY QUE CALLAR.mp3",
+      "loudnorm": "-14.65,-4.12,3.20,-24.70,-0.09",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - YOLANDITA MONGE - ESTE AMOR QUE HAY QUE CALLAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "390c1341-30ab-4379-a1b1-08504cfea883",
+    "title": "YOLANDITA MONGE - ESTE AMOR QUE HAY QUE CALLAR",
+    "titles": {
+      "spa": "YOLANDITA MONGE - ESTE AMOR QUE HAY QUE CALLAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:55:39.082Z",
+    "modified_at": "2022-11-04T08:55:39.470Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b4480bfd61cd7869db579e49a6bd4d53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8318301,
+      "gain": -3.03,
+      "duration": 297,
+      "loudnorm": "-14.65,-4.12,3.20,-24.70,-0.09",
+      "filename": "processed_5458afcc2c1a9490e36e4fa56ed50322.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

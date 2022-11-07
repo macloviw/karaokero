@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - AYER.MP3",
+      "loudnorm": "-11.51,1.75,6.40,-21.55,-1.55",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - AYER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a698f6f7-b2dc-44b8-bb4d-f1eac5046904",
+    "title": "GLORIA ESTEFAN   -   AYER",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   AYER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:33:53.521Z",
+    "modified_at": "2022-11-03T05:33:54.232Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5186005,
+      "gain": -8.59,
+      "duration": 324,
+      "loudnorm": "-11.51,1.75,6.40,-21.55,-1.55",
+      "filename": "processed_75fd810219653fb0b02b097ffcbe5135.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5186005,
+      "gain": -8.59,
+      "duration": 324,
+      "loudnorm": "-11.51,1.75,6.40,-21.55,-1.55",
+      "filename": "processed_0a41482e7c7771670d61bb9e1eeee60e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Gardel - - CARLOS GARDEL - POR UNA CABEZA.mp3",
+      "loudnorm": "-15.86,-0.32,4.90,-26.27,0.09",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Gardel - - CARLOS GARDEL - POR UNA CABEZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d6bc1f9-6de7-4257-aa30-b56d62794c2c",
+    "title": "CARLOS GARDEL - POR UNA CABEZA",
+    "titles": {
+      "spa": "CARLOS GARDEL - POR UNA CABEZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68b8c08a-c68f-4eb9-a61a-66b0b51dde21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:56:34.384Z",
+    "modified_at": "2022-11-03T02:56:34.790Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9901ac7c27f8f5af0e333ee7cd67a784.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3897982,
+      "gain": -1.66,
+      "duration": 162,
+      "loudnorm": "-15.86,-0.32,4.90,-26.27,0.09",
+      "filename": "processed_a9b116fc86d8864c8343e45e90b3ab70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

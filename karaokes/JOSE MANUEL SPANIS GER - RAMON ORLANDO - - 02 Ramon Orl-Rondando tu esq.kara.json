@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - 02 Ramon Orl-Rondando tu esq.mp3",
+      "loudnorm": "-13.18,1.17,3.30,-23.32,-0.90",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - 02 Ramon Orl-Rondando tu esq.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d4378545-30ff-459f-a4c0-339ee38301a7",
+    "title": "02 Ramon Orl-Rondando tu esq",
+    "titles": {
+      "spa": "02 Ramon Orl-Rondando tu esq"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a0a26cc0-ce64-4b52-9ab8-aa6d4927ebb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:58:03.166Z",
+    "modified_at": "2022-11-04T10:58:03.626Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c54b314cd372b4a94e0817195c392b49.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3629152,
+      "gain": -6.4,
+      "duration": 226,
+      "loudnorm": "-13.18,1.17,3.30,-23.32,-0.90",
+      "filename": "processed_e5b9555bb950eff04be9f700be711b3d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

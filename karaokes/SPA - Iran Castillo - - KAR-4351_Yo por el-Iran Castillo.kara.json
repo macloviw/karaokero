@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Iran Castillo - - KAR-4351_Yo por el-Iran Castillo.mp3",
+      "loudnorm": "-13.44,0.50,4.30,-23.62,-1.03",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Iran Castillo - - KAR-4351_Yo por el-Iran Castillo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c663ab90-5393-4fde-9bce-56b0cc8771cc",
+    "title": "KAR-4351_Yo por el-Iran Castillo",
+    "titles": {
+      "spa": "KAR-4351_Yo por el-Iran Castillo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3c400350-abf9-476b-ae04-f45afc17f61f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:25:28.931Z",
+    "modified_at": "2022-11-03T22:25:29.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa92e4853f7c8d1d8aed8e62baf85a37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6367232,
+      "gain": -3.97,
+      "duration": 264,
+      "loudnorm": "-13.44,0.50,4.30,-23.62,-1.03",
+      "filename": "processed_91f44f68a62c5f3a56f82ca4e23caf43.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

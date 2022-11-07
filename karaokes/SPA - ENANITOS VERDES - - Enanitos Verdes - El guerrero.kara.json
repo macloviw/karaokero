@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - El guerrero.mp3",
+      "loudnorm": "-9.90,2.95,2.20,-19.99,-0.19",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - El guerrero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b048256-cd7c-45cb-9abf-496b0f7aee6c",
+    "title": "Enanitos Verdes - El guerrero",
+    "titles": {
+      "spa": "Enanitos Verdes - El guerrero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:47:20.095Z",
+    "modified_at": "2022-11-03T04:47:20.564Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a3ee5d77d121aef56c17b1576987af7b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3804777,
+      "gain": -7.23,
+      "duration": 237,
+      "loudnorm": "-9.90,2.95,2.20,-19.99,-0.19",
+      "filename": "processed_2f8fe8e178511ae9b07b3ff16d64d6f4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

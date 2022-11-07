@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Pruebamelo.mp3",
+      "loudnorm": "-12.23,0.87,3.80,-22.34,-0.83",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Pruebamelo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8cd7170-9c18-4287-9af3-4b7fb2e205f4",
+    "title": "Gloria Trevi - Pruebamelo",
+    "titles": {
+      "spa": "Gloria Trevi - Pruebamelo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:42:58.606Z",
+    "modified_at": "2022-11-03T05:42:59.016Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_731d5c88dc1a1366e2e21e37b55d9a53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4848421,
+      "gain": -5.17,
+      "duration": 201,
+      "loudnorm": "-12.23,0.87,3.80,-22.34,-0.83",
+      "filename": "processed_503ec2d614c58980f21217d6079e3ff1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

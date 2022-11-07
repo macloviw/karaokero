@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Como Te Voy A Dejar LP.mp3",
+      "loudnorm": "-9.62,3.15,4.30,-19.82,-0.12",
+      "duration": 384,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Como Te Voy A Dejar LP.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6f6cb56c-3b27-4314-8fa5-a2b0b8341e76",
+    "title": "Anthony Santos - Como Te Voy A Dejar LP",
+    "titles": {
+      "spa": "Anthony Santos - Como Te Voy A Dejar LP"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:42:46.491Z",
+    "modified_at": "2022-11-02T20:42:46.909Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa0c93937adffe935ac82b9c51315eaa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6152244,
+      "gain": -8.57,
+      "duration": 384,
+      "loudnorm": "-9.62,3.15,4.30,-19.82,-0.12",
+      "filename": "processed_ac6397e2590518929e6cb3604941fa27.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

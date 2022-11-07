@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cyndi Lauper - - Cyndi Lauper - True color.MP3",
+      "loudnorm": "-21.98,0.18,4.20,-32.19,-0.50",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cyndi Lauper - - Cyndi Lauper - True color.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2e642a54-2c56-4896-b52a-3f32eaa6cc8c",
+    "title": "Cyndi Lauper - True color",
+    "titles": {
+      "spa": "Cyndi Lauper - True color"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "82372c32-a908-4817-a6e2-8ab24d64ba44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:46:14.847Z",
+    "modified_at": "2022-11-03T15:46:15.748Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9161762,
+      "gain": 4.86,
+      "duration": 228,
+      "loudnorm": "-21.98,0.18,4.20,-32.19,-0.50",
+      "filename": "processed_28df39ffe8abf95c243a13281deb0ac3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9161762,
+      "gain": 4.86,
+      "duration": 228,
+      "loudnorm": "-21.98,0.18,4.20,-32.19,-0.50",
+      "filename": "processed_453d59f19e206dfcb47b925f71121bef.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

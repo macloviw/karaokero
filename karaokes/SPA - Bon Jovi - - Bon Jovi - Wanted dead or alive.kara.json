@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bon Jovi - - Bon Jovi - Wanted dead or alive.mp3",
+      "loudnorm": "-17.99,-2.34,7.20,-28.17,-1.32",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bon Jovi - - Bon Jovi - Wanted dead or alive.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dea86ebd-b1b5-4ace-998e-2d825ac4b6c0",
+    "title": "Bon Jovi - Wanted dead or alive",
+    "titles": {
+      "spa": "Bon Jovi - Wanted dead or alive"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f7085e28-5d70-4bf1-97f2-9e9750c2d9ed"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:21:07.383Z",
+    "modified_at": "2022-11-03T15:21:07.915Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_682ef0c7b0876680c54d302b1048dd0b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7759298,
+      "gain": 0.88,
+      "duration": 323,
+      "loudnorm": "-17.99,-2.34,7.20,-28.17,-1.32",
+      "filename": "processed_1fdc3e01460a95db0f910355e3d1ea6e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

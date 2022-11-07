@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hansi Hinterseer - - Hansi Hinterseer - Ein Schneeweibes.mp3",
+      "loudnorm": "-13.34,0.01,2.40,-23.42,-0.10",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hansi Hinterseer - - Hansi Hinterseer - Ein Schneeweibes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a74fa4b7-4963-45df-91d2-6c5570ab6e5b",
+    "title": "Hansi Hinterseer - Ein Schneeweibes",
+    "titles": {
+      "spa": "Hansi Hinterseer - Ein Schneeweibes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8d9be6d-7285-45a6-a355-7695d997d371"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:28:43.750Z",
+    "modified_at": "2022-11-04T03:28:44.129Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b4c38619c24de192dc8cc576891522de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4988928,
+      "gain": -2.95,
+      "duration": 207,
+      "loudnorm": "-13.34,0.01,2.40,-23.42,-0.10",
+      "filename": "processed_1e5b5f1f1ccaef47ff78030df712afd0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

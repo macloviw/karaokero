@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - LA LOBA SIN CORO.mp3",
+      "loudnorm": "-12.86,2.59,5.90,-22.99,-1.25",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - LA LOBA SIN CORO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "acfa56b7-b5c2-49c7-998b-86e6fc11c7d3",
+    "title": "LA LOBA SIN CORO",
+    "titles": {
+      "spa": "LA LOBA SIN CORO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:59:12.913Z",
+    "modified_at": "2022-11-03T12:59:13.344Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_368546de4cd9349e305dea33da073bce.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2341552,
+      "gain": -5.99,
+      "duration": 187,
+      "loudnorm": "-12.86,2.59,5.90,-22.99,-1.25",
+      "filename": "processed_b2a8b7d4457642ba813a4c61e75f5f32.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

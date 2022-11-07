@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Backstreet Boys - - Backstreet Boys - Incomplete.mp3",
+      "loudnorm": "-9.25,6.58,10.10,-19.42,-1.97",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Backstreet Boys - - Backstreet Boys - Incomplete.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2650086e-b047-4b7f-aa7b-1cfcdbb6be29",
+    "title": "Backstreet Boys - Incomplete",
+    "titles": {
+      "spa": "Backstreet Boys - Incomplete"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2ed19d75-95b4-48f1-b362-51c355212d7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:50:20.612Z",
+    "modified_at": "2022-11-03T14:50:21.064Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ee48249ba76be2461c3de0cab688c42.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4039042,
+      "gain": -9.1,
+      "duration": 252,
+      "loudnorm": "-9.25,6.58,10.10,-19.42,-1.97",
+      "filename": "processed_415fb4d5250df372570d61b077033466.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JADE1533-14 - - JADE1533-14 - Juan Gabriel - En Esta Primavera.mp3",
+      "loudnorm": "-14.32,0.47,4.10,-24.42,0.29",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JADE1533-14 - - JADE1533-14 - Juan Gabriel - En Esta Primavera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a240272c-aea6-4131-b862-a5ca8d36cd8a",
+    "title": "JADE1533-14 - Juan Gabriel - En Esta Primavera",
+    "titles": {
+      "spa": "JADE1533-14 - Juan Gabriel - En Esta Primavera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0e3589f7-7f96-4de0-b498-8c99a5f10044"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:28:58.951Z",
+    "modified_at": "2022-11-03T22:28:59.332Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6919be4f617af19e27960ce749ad22c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4918012,
+      "gain": -3.71,
+      "duration": 204,
+      "loudnorm": "-14.32,0.47,4.10,-24.42,0.29",
+      "filename": "processed_98fb0b4d5c7a8010c90ffeea394f2342.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

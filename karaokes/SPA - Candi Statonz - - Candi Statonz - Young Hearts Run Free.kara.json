@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Candi Statonz - - Candi Statonz - Young Hearts Run Free.mp3",
+      "loudnorm": "-17.45,1.75,4.20,-27.58,-0.65",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Candi Statonz - - Candi Statonz - Young Hearts Run Free.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7900ec6d-d706-41d6-a033-36ecde449689",
+    "title": "Candi Statonz - Young Hearts Run Free",
+    "titles": {
+      "spa": "Candi Statonz - Young Hearts Run Free"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "41b44d10-ff36-4513-aa1f-6add5c4c3406"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:11:58.836Z",
+    "modified_at": "2022-11-04T00:11:59.223Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_49f5cf3c761ca3ff5acd86c755ca5e85.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3736233,
+      "gain": -0.7,
+      "duration": 233,
+      "loudnorm": "-17.45,1.75,4.20,-27.58,-0.65",
+      "filename": "processed_089c62b0f10f1e073ad436386fa3917f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Momentos.mp3",
+      "loudnorm": "-14.53,-0.26,4.80,-24.65,-0.29",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Momentos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5136172e-2510-4b44-bfab-99f301a3be6e",
+    "title": "Julio Iglesias- Momentos",
+    "titles": {
+      "spa": "Julio Iglesias- Momentos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:04:56.959Z",
+    "modified_at": "2022-11-03T08:04:57.368Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d2df433c18ba0aca17ea4f68766976b6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3517221,
+      "gain": -3.37,
+      "duration": 219,
+      "loudnorm": "-14.53,-0.26,4.80,-24.65,-0.29",
+      "filename": "processed_bb00b604de5d6aeb1c8de7fe17a00e8c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

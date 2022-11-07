@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNIFER PENA - - JENNIFER PENA - ENTRE EL DELIRIO Y LA LOCURA.MP3",
+      "loudnorm": "-14.31,0.89,3.80,-24.38,-0.47",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNIFER PENA - - JENNIFER PENA - ENTRE EL DELIRIO Y LA LOCURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "82e5ec95-7584-4ced-a86a-19fc8b794605",
+    "title": "JENNIFER PEÑA              -   ENTRE EL DELIRIO Y LA LOCURA",
+    "titles": {
+      "spa": "JENNIFER PEÑA              -   ENTRE EL DELIRIO Y LA LOCURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8398a2d4-d84e-4569-8240-3393dd51475d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:14:32.729Z",
+    "modified_at": "2022-11-03T06:14:33.217Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3831817,
+      "gain": -2.65,
+      "duration": 239,
+      "loudnorm": "-14.31,0.89,3.80,-24.38,-0.47",
+      "filename": "processed_8e95acd270d81640963c1927ae401af5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3831817,
+      "gain": -2.65,
+      "duration": 239,
+      "loudnorm": "-14.31,0.89,3.80,-24.38,-0.47",
+      "filename": "processed_2738112cc422ea0faff9494a8515986c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Payaso.mp3",
+      "loudnorm": "-16.93,-0.05,4.30,-27.11,-0.38",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Payaso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24828a7f-942f-4753-976f-2d6b7704d15d",
+    "title": "Jose Jose - Payaso",
+    "titles": {
+      "spa": "Jose Jose - Payaso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:00:12.430Z",
+    "modified_at": "2022-11-03T07:00:12.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_648c7d0741f9d5b387ce44f7b60c4fbc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4279788,
+      "gain": -0.84,
+      "duration": 178,
+      "loudnorm": "-16.93,-0.05,4.30,-27.11,-0.38",
+      "filename": "processed_74e7f24a05f0072182927d3a80fdc762.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

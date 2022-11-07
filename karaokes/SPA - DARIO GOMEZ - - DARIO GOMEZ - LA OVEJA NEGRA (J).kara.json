@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - LA OVEJA NEGRA (J).mp3",
+      "loudnorm": "-12.12,0.38,3.40,-22.16,-0.41",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - LA OVEJA NEGRA (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "40c190b1-4a7a-4464-b157-1c4b5c43d099",
+    "title": "DARIO GOMEZ - LA OVEJA NEGRA (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - LA OVEJA NEGRA (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:01:59.185Z",
+    "modified_at": "2022-11-03T04:01:59.591Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f98ee1e68c57470039eb2918de75e2ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6058413,
+      "gain": -5.91,
+      "duration": 252,
+      "loudnorm": "-12.12,0.38,3.40,-22.16,-0.41",
+      "filename": "processed_87d5159783f625ac18e0b7e95f1655af.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

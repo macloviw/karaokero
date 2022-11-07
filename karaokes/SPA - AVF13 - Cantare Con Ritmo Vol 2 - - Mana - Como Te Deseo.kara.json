@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - AVF13 - Cantare Con Ritmo Vol 2 - - Mana - Como Te Deseo.mp3",
+      "loudnorm": "-16.83,-0.14,3.40,-27.01,-0.41",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - AVF13 - Cantare Con Ritmo Vol 2 - - Mana - Como Te Deseo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3352645c-94a7-4401-9b02-1601398be9c7",
+    "title": "Mana - Como Te Deseo",
+    "titles": {
+      "spa": "Mana - Como Te Deseo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "32f78df5-dbc0-4873-b746-831f053c2fdc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:35:04.746Z",
+    "modified_at": "2022-11-04T02:35:05.125Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_19ec05f10b02a5f162d8c7292c84b826.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6745700,
+      "gain": -2.07,
+      "duration": 281,
+      "loudnorm": "-16.83,-0.14,3.40,-27.01,-0.41",
+      "filename": "processed_464bbbb2bc4c522997026865b883bf5c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

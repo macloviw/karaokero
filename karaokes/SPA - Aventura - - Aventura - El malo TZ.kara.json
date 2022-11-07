@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - El malo TZ.mp3",
+      "loudnorm": "-7.71,4.74,11.90,-18.24,-1.06",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - El malo TZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "795e9461-f8c9-4806-b8f7-e2b659c85c69",
+    "title": "Aventura - El malo TZ",
+    "titles": {
+      "spa": "Aventura - El malo TZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:11:38.586Z",
+    "modified_at": "2022-11-02T23:11:39.029Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7ca7245f9b3e2bec1caed2249d9bc6c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6048219,
+      "gain": -9.4,
+      "duration": 251,
+      "loudnorm": "-7.71,4.74,11.90,-18.24,-1.06",
+      "filename": "processed_138829aaeeff552b149e46702bc665b2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

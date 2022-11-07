@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - EN TUS PUPILAS.mp3",
+      "loudnorm": "-7.79,4.90,4.60,-17.88,-1.16",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - EN TUS PUPILAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "579d5e80-aec5-4683-a9ed-da099835b3a0",
+    "title": "SHAKIRA   -   EN TUS PUPILAS",
+    "titles": {
+      "spa": "SHAKIRA   -   EN TUS PUPILAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:00:24.036Z",
+    "modified_at": "2022-11-03T13:00:24.497Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17a0db6f259f0bf02b7bceec2d2e6668.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4440154,
+      "gain": -9.21,
+      "duration": 277,
+      "loudnorm": "-7.79,4.90,4.60,-17.88,-1.16",
+      "filename": "processed_2f02b0440ffb3980f79c5dd5b3c01aff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

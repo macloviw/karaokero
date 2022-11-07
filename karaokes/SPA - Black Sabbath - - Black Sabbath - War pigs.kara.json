@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Black Sabbath - - Black Sabbath - War pigs.mp3",
+      "loudnorm": "-16.38,-0.15,8.30,-27.83,-0.24",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Black Sabbath - - Black Sabbath - War pigs.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "776947d5-238a-4aed-9d45-56e1f8e81d95",
+    "title": "Black Sabbath - War pigs",
+    "titles": {
+      "spa": "Black Sabbath - War pigs"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a3880988-0c88-4d77-aef4-a868b54d61d0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:10:48.202Z",
+    "modified_at": "2022-11-03T15:10:48.691Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93697e15f8637a781c2f68ec4c29089c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4706734,
+      "gain": -0.31,
+      "duration": 294,
+      "loudnorm": "-16.38,-0.15,8.30,-27.83,-0.24",
+      "filename": "processed_977b49d0c8b9a2789d984b9b8968a3ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

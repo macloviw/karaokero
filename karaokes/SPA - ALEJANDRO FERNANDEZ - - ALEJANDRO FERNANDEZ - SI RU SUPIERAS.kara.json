@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - SI RU SUPIERAS.mp3",
+      "loudnorm": "-20.18,-1.35,7.20,-30.31,0.22",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - SI RU SUPIERAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e61feb8e-bbd1-48d0-b73a-31cf55f6e579",
+    "title": "ALEJANDRO FERNANDEZ - SI RU SUPIERAS",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ - SI RU SUPIERAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:46:53.807Z",
+    "modified_at": "2022-11-03T00:46:54.216Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c7693f31047be3ae80855849567f11b1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3335491,
+      "gain": 2.55,
+      "duration": 238,
+      "loudnorm": "-20.18,-1.35,7.20,-30.31,0.22",
+      "filename": "processed_3f75d5ac7d76f8d838fe53f872e01085.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

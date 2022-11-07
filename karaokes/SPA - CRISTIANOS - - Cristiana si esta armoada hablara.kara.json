@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Cristiana si esta armoada hablara.mp3",
+      "loudnorm": "-20.94,-1.87,8.50,-31.10,-0.59",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Cristiana si esta armoada hablara.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "042f9e90-bba2-412c-82df-5a38fc5bdc53",
+    "title": "Cristiana si esta armoada hablara",
+    "titles": {
+      "spa": "Cristiana si esta armoada hablara"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:03:32.531Z",
+    "modified_at": "2022-11-03T14:03:32.941Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f506fedfac0357ba06f2d32848d108d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7791272,
+      "gain": 2.4,
+      "duration": 324,
+      "loudnorm": "-20.94,-1.87,8.50,-31.10,-0.59",
+      "filename": "processed_13b38f71d2566d864ea2e5aae3eb2841.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

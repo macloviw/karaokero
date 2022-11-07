@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Niche - - GRUPO NICHE - ERES.mp3",
+      "loudnorm": "-10.30,1.28,4.30,-20.46,-1.22",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Niche - - GRUPO NICHE - ERES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ab2390b-018c-4ccb-a397-f038a76e0e0e",
+    "title": "GRUPO NICHE - ERES",
+    "titles": {
+      "spa": "GRUPO NICHE - ERES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:27:14.454Z",
+    "modified_at": "2022-11-04T03:27:14.855Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b48e748dee955d9ec3933aec3198de63.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6956331,
+      "gain": -8.32,
+      "duration": 289,
+      "loudnorm": "-10.30,1.28,4.30,-20.46,-1.22",
+      "filename": "processed_0297d0eaf344fce3eefbd52152dfd665.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

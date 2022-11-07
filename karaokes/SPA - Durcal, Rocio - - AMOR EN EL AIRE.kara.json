@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - AMOR EN EL AIRE.mp3",
+      "loudnorm": "-14.44,3.39,4.40,-24.49,-0.91",
+      "duration": 142,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - AMOR EN EL AIRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb6e7ead-dca0-427f-b5c0-b36c448bf3e2",
+    "title": "AMOR EN EL AIRE",
+    "titles": {
+      "spa": "AMOR EN EL AIRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:40:11.505Z",
+    "modified_at": "2022-11-03T12:40:11.935Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9ee99b3e36a09fccff8f21a755020223.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3416493,
+      "gain": -5.33,
+      "duration": 142,
+      "loudnorm": "-14.44,3.39,4.40,-24.49,-0.91",
+      "filename": "processed_b5197f26c8a9921f3858fd0f50dde27f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

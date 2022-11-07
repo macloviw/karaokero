@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CARLOS VIVE - - CARLOS VIVE - QUIERO VERTE SONREIR.MP3",
+      "loudnorm": "-16.49,0.27,12.20,-26.74,-1.78",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CARLOS VIVE - - CARLOS VIVE - QUIERO VERTE SONREIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd52a169-1fa6-47bd-8d3c-58db43b8cf4a",
+    "title": "CARLOS VIVE   -   QUIERO VERTE SONREIR",
+    "titles": {
+      "spa": "CARLOS VIVE   -   QUIERO VERTE SONREIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "12c3c85e-2285-4e25-a7a3-d4a40b3430b1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:00:07.423Z",
+    "modified_at": "2022-11-03T03:00:08.023Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8370774,
+      "gain": -0.22,
+      "duration": 209,
+      "loudnorm": "-16.49,0.27,12.20,-26.74,-1.78",
+      "filename": "processed_90a85b6474f360d28a7c4c37cc76f13a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8370774,
+      "gain": -0.22,
+      "duration": 209,
+      "loudnorm": "-16.49,0.27,12.20,-26.74,-1.78",
+      "filename": "processed_76289570ffa56ad594519821c21b42a8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

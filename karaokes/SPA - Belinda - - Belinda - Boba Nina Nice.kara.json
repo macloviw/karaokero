@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Belinda - - Belinda - Boba Nina Nice.mp3",
+      "loudnorm": "-8.23,3.58,6.20,-18.33,-0.63",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Belinda - - Belinda - Boba Nina Nice.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "43e7c67d-3b9c-4b73-af12-3d02f2982f6d",
+    "title": "Belinda - Boba Niña Nice",
+    "titles": {
+      "spa": "Belinda - Boba Niña Nice"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "709043e3-657b-46f1-a681-ccb5a9704673"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:14:13.287Z",
+    "modified_at": "2022-11-03T02:14:13.788Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d8b70b5b285a7c9d755280f6a4718f8b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3023400,
+      "gain": -9.36,
+      "duration": 188,
+      "loudnorm": "-8.23,3.58,6.20,-18.33,-0.63",
+      "filename": "processed_b1712d8d5e998ef4f05265f104af763d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

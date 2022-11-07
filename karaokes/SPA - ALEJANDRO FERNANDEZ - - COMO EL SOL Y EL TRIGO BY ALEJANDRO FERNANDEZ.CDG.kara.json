@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - COMO EL SOL Y EL TRIGO BY ALEJANDRO FERNANDEZ.CDG.MP3",
+      "loudnorm": "-13.34,-0.49,4.30,-23.40,-0.02",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - COMO EL SOL Y EL TRIGO BY ALEJANDRO FERNANDEZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d85c6144-e230-444b-8e3c-1730d72cb4ab",
+    "title": "COMO EL SOL Y EL TRIGO BY ALEJANDRO FERNANDEZ.CDG",
+    "titles": {
+      "spa": "COMO EL SOL Y EL TRIGO BY ALEJANDRO FERNANDEZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:52:10.292Z",
+    "modified_at": "2022-11-03T00:52:10.890Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8205680,
+      "gain": -2.08,
+      "duration": 205,
+      "loudnorm": "-13.34,-0.49,4.30,-23.40,-0.02",
+      "filename": "processed_6b6eb7431282ed859c0be5fd9b606f8d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8205680,
+      "gain": -2.08,
+      "duration": 205,
+      "loudnorm": "-13.34,-0.49,4.30,-23.40,-0.02",
+      "filename": "processed_7c22ce02f963bdd2cea3572918d25f2a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

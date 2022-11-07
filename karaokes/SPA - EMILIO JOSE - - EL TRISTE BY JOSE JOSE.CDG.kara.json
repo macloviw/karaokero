@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - EL TRISTE BY JOSE JOSE.CDG.MP3",
+      "loudnorm": "-9.33,1.40,5.90,-19.56,-0.43",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - EL TRISTE BY JOSE JOSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "053c8968-cdbe-46cb-ac3a-9f587fb653cc",
+    "title": "EL TRISTE BY JOSE JOSE.CDG",
+    "titles": {
+      "spa": "EL TRISTE BY JOSE JOSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:50:56.015Z",
+    "modified_at": "2022-11-03T06:50:56.575Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4213832,
+      "gain": -8.08,
+      "duration": 263,
+      "loudnorm": "-9.33,1.40,5.90,-19.56,-0.43",
+      "filename": "processed_359c1ad21ef1cc48780b11798f7c933a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4213832,
+      "gain": -8.08,
+      "duration": 263,
+      "loudnorm": "-9.33,1.40,5.90,-19.56,-0.43",
+      "filename": "processed_641d53fe1ef81a207112f55e4364fbaa.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

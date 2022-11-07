@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISABEL PANTOJA - - 02.- Hoy quiero confesarme.mp3",
+      "loudnorm": "-13.58,1.50,5.80,-23.75,-0.25",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISABEL PANTOJA - - 02.- Hoy quiero confesarme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03235c78-8e47-4e15-88a3-aeb63c80a3e0",
+    "title": "02.- Hoy quiero confesarme",
+    "titles": {
+      "spa": "02.- Hoy quiero confesarme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ca0a4963-49c9-4f5a-886d-ed2e8febd3e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:51:47.761Z",
+    "modified_at": "2022-11-03T05:51:48.197Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a038862574acc894cdd0b1fdcd40f5f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4610945,
+      "gain": -2.88,
+      "duration": 288,
+      "loudnorm": "-13.58,1.50,5.80,-23.75,-0.25",
+      "filename": "processed_bd2cc2595ce677d930e869dc2c93349c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

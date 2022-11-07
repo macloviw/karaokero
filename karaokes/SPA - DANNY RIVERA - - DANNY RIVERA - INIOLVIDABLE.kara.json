@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - INIOLVIDABLE.mp3",
+      "loudnorm": "-7.40,8.55,2.40,-17.50,-0.80",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - INIOLVIDABLE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c5e0425f-6eac-4fd2-9f53-f2c47a35385c",
+    "title": "DANNY RIVERA   -   INIOLVIDABLE",
+    "titles": {
+      "spa": "DANNY RIVERA   -   INIOLVIDABLE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:58:02.742Z",
+    "modified_at": "2022-11-03T03:58:03.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_587b45b0cd7762220d0775f2775b9aea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3040409,
+      "gain": -9.12,
+      "duration": 189,
+      "loudnorm": "-7.40,8.55,2.40,-17.50,-0.80",
+      "filename": "processed_799a1cabe90393dcd4449cbb467815f6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

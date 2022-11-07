@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El mayor Clasico ft Mark B - - El mayor Clasico ft Mark B - Va Segui (Ele Dj).mp3",
+      "loudnorm": "-12.16,0.42,5.40,-22.30,-0.20",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El mayor Clasico ft Mark B - - El mayor Clasico ft Mark B - Va Segui (Ele Dj).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf76049e-d57d-4b24-9943-e619d7ec0522",
+    "title": "El mayor Clasico ft Mark B - Va Segui (Ele Dj)",
+    "titles": {
+      "spa": "El mayor Clasico ft Mark B - Va Segui (Ele Dj)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "2a7661b6-0f45-40b3-a8ce-df706e643076"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:36:38.615Z",
+    "modified_at": "2022-11-03T14:36:39.097Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33ee4461ec47e16fea85a01b01d73953.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6145454,
+      "gain": -5.58,
+      "duration": 219,
+      "loudnorm": "-12.16,0.42,5.40,-22.30,-0.20",
+      "filename": "processed_e2997e994314e4b725d0fd587d698771.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

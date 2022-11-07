@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CARLOS PONCE - - CARLOS PONCE - REZO.mp3",
+      "loudnorm": "-15.57,0.20,5.90,-25.64,-1.46",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CARLOS PONCE - - CARLOS PONCE - REZO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "facd38c5-3c52-4fcc-afa8-516ab20fa0ff",
+    "title": "CARLOS PONCE - REZO",
+    "titles": {
+      "spa": "CARLOS PONCE - REZO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2bde01dd-f359-44a1-86be-2a042375a702"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:57:01.077Z",
+    "modified_at": "2022-11-03T02:57:01.496Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9cb9eed580ff18f03528f3a28d0f13d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3428748,
+      "gain": -1.5,
+      "duration": 244,
+      "loudnorm": "-15.57,0.20,5.90,-25.64,-1.46",
+      "filename": "processed_7c3d5f60c4b495f4b844dfd397d78772.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-NI POR INTERESADA.mp3",
+      "loudnorm": "-9.87,1.26,3.00,-20.06,-0.04",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-NI POR INTERESADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0cab0e4f-1e03-4228-9d92-27cf73c732a6",
+    "title": "ALICIA VILLAREAL-NI POR INTERESADA",
+    "titles": {
+      "spa": "ALICIA VILLAREAL-NI POR INTERESADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:24:02.754Z",
+    "modified_at": "2022-11-03T01:24:03.178Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_545bb136ebc7d5dd90af364e501637c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2819468,
+      "gain": -7.57,
+      "duration": 201,
+      "loudnorm": "-9.87,1.26,3.00,-20.06,-0.04",
+      "filename": "processed_83bf6ce8c22fed2e793a02d554d4158f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

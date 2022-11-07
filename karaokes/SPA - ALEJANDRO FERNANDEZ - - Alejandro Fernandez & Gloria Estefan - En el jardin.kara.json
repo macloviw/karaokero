@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez & Gloria Estefan - En el jardin.mp3",
+      "loudnorm": "-6.75,12.21,8.20,-17.09,-0.97",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez & Gloria Estefan - En el jardin.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d8f524bd-77a2-4210-9e5f-b813e245fb7d",
+    "title": "Alejandro Fernandez & Gloria Estefan - En el jardin",
+    "titles": {
+      "spa": "Alejandro Fernandez & Gloria Estefan - En el jardin"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:42:08.050Z",
+    "modified_at": "2022-11-03T00:42:08.482Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_48b0152d41f03daafd1f56a3809aa259.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6747625,
+      "gain": -9.13,
+      "duration": 281,
+      "loudnorm": "-6.75,12.21,8.20,-17.09,-0.97",
+      "filename": "processed_cfb4fff85af7d8eaf14e41df9a984d73.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

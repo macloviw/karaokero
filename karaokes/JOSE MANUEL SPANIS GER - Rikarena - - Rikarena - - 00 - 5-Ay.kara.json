@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Rikarena - - Rikarena - - 00 - 5-Ay.mp3",
+      "loudnorm": "-12.49,2.42,3.60,-22.52,-0.17",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Rikarena - - Rikarena - - 00 - 5-Ay.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3d825a5-339c-4bba-9f0e-8e78b943feb3",
+    "title": "Rikarena -  - 00 - 5-Ay",
+    "titles": {
+      "spa": "Rikarena -  - 00 - 5-Ay"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "d05c2940-060a-41aa-a2e1-cb332e109e7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:59:45.326Z",
+    "modified_at": "2022-11-04T10:59:45.717Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_069eed7110a13daebd846a3cfaf36bea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3703270,
+      "gain": -7.17,
+      "duration": 231,
+      "loudnorm": "-12.49,2.42,3.60,-22.52,-0.17",
+      "filename": "processed_dc3997e5ebd9c3f2f554240a17f6e95a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

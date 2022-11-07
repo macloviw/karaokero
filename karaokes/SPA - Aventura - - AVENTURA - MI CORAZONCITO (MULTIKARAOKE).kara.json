@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - AVENTURA - MI CORAZONCITO (MULTIKARAOKE).mp3",
+      "loudnorm": "-12.08,1.29,2.90,-22.26,-0.02",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - AVENTURA - MI CORAZONCITO (MULTIKARAOKE).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69caaa21-d1d3-42fe-9b19-a355c2de78f8",
+    "title": "AVENTURA - MI CORAZONCITO (MULTIKARAOKE)",
+    "titles": {
+      "spa": "AVENTURA - MI CORAZONCITO (MULTIKARAOKE)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:14:02.605Z",
+    "modified_at": "2022-11-02T23:14:03.084Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4921a0cbf98d95cce0c23f6a9d73bfe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5978792,
+      "gain": -4.64,
+      "duration": 249,
+      "loudnorm": "-12.08,1.29,2.90,-22.26,-0.02",
+      "filename": "processed_3f036bda3e3d9b6f025f39e474251b17.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

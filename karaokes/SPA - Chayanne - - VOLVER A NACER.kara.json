@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - VOLVER A NACER.mp3",
+      "loudnorm": "-12.92,0.80,4.10,-23.16,-1.05",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - VOLVER A NACER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0835111-5691-4eab-ac23-c79482482133",
+    "title": "VOLVER A NACER",
+    "titles": {
+      "spa": "VOLVER A NACER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:23:19.453Z",
+    "modified_at": "2022-11-03T03:23:19.871Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b50c1f20c40c1439bbc987157d73fb2e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6822025,
+      "gain": -4.13,
+      "duration": 284,
+      "loudnorm": "-12.92,0.80,4.10,-23.16,-1.05",
+      "filename": "processed_d726a0b5d89a27fde156ebdd6176aff4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

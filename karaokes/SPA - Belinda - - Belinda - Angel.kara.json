@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Belinda - - Belinda - Angel.mp3",
+      "loudnorm": "-7.79,4.22,6.00,-18.02,-1.36",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Belinda - - Belinda - Angel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9a1621fd-1135-46eb-910d-5af43b5a0144",
+    "title": "Belinda - Angel",
+    "titles": {
+      "spa": "Belinda - Angel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "709043e3-657b-46f1-a681-ccb5a9704673"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:14:03.101Z",
+    "modified_at": "2022-11-03T02:14:03.684Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_48b7e0997cbb1274b5699e3129af7d75.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3712357,
+      "gain": -9.47,
+      "duration": 232,
+      "loudnorm": "-7.79,4.22,6.00,-18.02,-1.36",
+      "filename": "processed_a82ec21a766c4f029b2608382c2be55b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

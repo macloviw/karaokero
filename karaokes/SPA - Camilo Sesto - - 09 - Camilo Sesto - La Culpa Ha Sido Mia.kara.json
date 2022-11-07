@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - 09 - Camilo Sesto - La Culpa Ha Sido Mia.mp3",
+      "loudnorm": "-13.13,0.46,7.60,-23.38,-0.57",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - 09 - Camilo Sesto - La Culpa Ha Sido Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fbf090a8-38d9-4304-b664-6a4be103ca93",
+    "title": "09 - Camilo Sesto - La Culpa Ha Sido Mía",
+    "titles": {
+      "spa": "09 - Camilo Sesto - La Culpa Ha Sido Mía"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:46:04.047Z",
+    "modified_at": "2022-11-03T02:46:04.500Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f68aa63ef06eb0a2f6db4b93e585dac9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5461329,
+      "gain": -3.94,
+      "duration": 227,
+      "loudnorm": "-13.13,0.46,7.60,-23.38,-0.57",
+      "filename": "processed_2d389f2464834114c61941ce530eb280.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

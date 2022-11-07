@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - VOLVER AMAR.MP3",
+      "loudnorm": "-17.93,-1.47,6.10,-28.01,-1.02",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - VOLVER AMAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f6f10a21-6d8f-464e-83f9-46075be3c9a9",
+    "title": "CRISTIAN CASTRO   -   VOLVER AMAR",
+    "titles": {
+      "spa": "CRISTIAN CASTRO   -   VOLVER AMAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:43:30.309Z",
+    "modified_at": "2022-11-03T03:43:30.827Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4641822,
+      "gain": 0.46,
+      "duration": 289,
+      "loudnorm": "-17.93,-1.47,6.10,-28.01,-1.02",
+      "filename": "processed_1b8c3253d73bff7d227f30c15ee5939c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4641822,
+      "gain": 0.46,
+      "duration": 289,
+      "loudnorm": "-17.93,-1.47,6.10,-28.01,-1.02",
+      "filename": "processed_6e1d202b1d72b4f404118db8b95ee1ee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

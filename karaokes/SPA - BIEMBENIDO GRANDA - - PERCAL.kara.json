@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BIEMBENIDO GRANDA - - PERCAL.mp3",
+      "loudnorm": "-15.07,0.66,4.70,-25.76,0.24",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BIEMBENIDO GRANDA - - PERCAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c53a7cc8-3524-4fd7-9973-6e5306206793",
+    "title": "PERCAL",
+    "titles": {
+      "spa": "PERCAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a3767575-66d6-416a-98ab-0f0870f9dda8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:16:05.777Z",
+    "modified_at": "2022-11-03T02:16:06.228Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a8da9e4c4fd040c4737c9434ba6597e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2778572,
+      "gain": -0.5,
+      "duration": 173,
+      "loudnorm": "-15.07,0.66,4.70,-25.76,0.24",
+      "filename": "processed_b8394ec874bfec0be2aafd565c0bf71f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

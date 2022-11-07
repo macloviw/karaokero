@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - VOY A CONQUISTARTE.MP3",
+      "loudnorm": "-16.95,-1.88,4.40,-27.03,-0.80",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - VOY A CONQUISTARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1fb89e1-97dd-40c5-bda5-1b222477b253",
+    "title": "JOSE LUIS R   -   VOY A CONQUISTARTE",
+    "titles": {
+      "spa": "JOSE LUIS R   -   VOY A CONQUISTARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:25:24.247Z",
+    "modified_at": "2022-11-03T07:25:24.762Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4370567,
+      "gain": -1.36,
+      "duration": 273,
+      "loudnorm": "-16.95,-1.88,4.40,-27.03,-0.80",
+      "filename": "processed_0780cd8b13fe936ec4783503ad3ef688.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4370567,
+      "gain": -1.36,
+      "duration": 273,
+      "loudnorm": "-16.95,-1.88,4.40,-27.03,-0.80",
+      "filename": "processed_b00f04d09ede55754565410f7aeb443f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Una Noche No Es Bastante.mp3",
+      "loudnorm": "-11.36,-1.75,7.70,-21.77,-0.45",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Una Noche No Es Bastante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ee591796-d347-4bf5-a49f-bfe86ae6c31c",
+    "title": "Anthony Rios - Una Noche No Es Bastante",
+    "titles": {
+      "spa": "Anthony Rios - Una Noche No Es Bastante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:54:43.779Z",
+    "modified_at": "2022-11-03T01:54:44.206Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3d3c693428be872fef79dee46f29c6dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8067086,
+      "gain": -6.93,
+      "duration": 201,
+      "loudnorm": "-11.36,-1.75,7.70,-21.77,-0.45",
+      "filename": "processed_1e193d9f967b5edd90ca4efeb8042995.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

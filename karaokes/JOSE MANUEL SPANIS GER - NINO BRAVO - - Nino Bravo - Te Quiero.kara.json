@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - Nino Bravo - Te Quiero.MP3",
+      "loudnorm": "-21.20,-2.49,8.90,-31.43,0.39",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - Nino Bravo - Te Quiero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed1e7064-0b14-4d9a-902e-810cd8a64ed6",
+    "title": "Nino Bravo - Te Quiero",
+    "titles": {
+      "spa": "Nino Bravo - Te Quiero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:43:59.339Z",
+    "modified_at": "2022-11-04T07:43:59.928Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2830336,
+      "gain": 3.47,
+      "duration": 176,
+      "loudnorm": "-21.20,-2.49,8.90,-31.43,0.39",
+      "filename": "processed_4aa27fced0aa6a8634cbc005f1cd993c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2830336,
+      "gain": 3.47,
+      "duration": 176,
+      "loudnorm": "-21.20,-2.49,8.90,-31.43,0.39",
+      "filename": "processed_3713bbe9dd2fab64e10a521840498772.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

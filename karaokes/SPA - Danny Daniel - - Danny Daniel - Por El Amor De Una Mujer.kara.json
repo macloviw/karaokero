@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Daniel - - Danny Daniel - Por El Amor De Una Mujer.MP3",
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Daniel - - Danny Daniel - Por El Amor De Una Mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ad3ba45a-00bd-4eac-ba12-63007cab88e2",
+    "title": "Danny Daniel - Por El Amor De Una Mujer",
+    "titles": {
+      "spa": "Danny Daniel - Por El Amor De Una Mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bc5eced1-bcf4-4da1-9422-d8cb15a13412"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:56:33.800Z",
+    "modified_at": "2022-11-03T03:56:34.289Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4067328,
+      "gain": -1.46,
+      "duration": 254,
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "filename": "processed_94f0da0fcd05fd4eab475faee2299b20.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4067328,
+      "gain": -1.46,
+      "duration": 254,
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "filename": "processed_2e90ee13d2397e1cfde475dd27dd228d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

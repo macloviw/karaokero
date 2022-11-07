@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banarama - - Banarama - Venus.MP3",
+      "loudnorm": "-20.20,0.32,1.70,-30.37,-0.30",
+      "duration": 137,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banarama - - Banarama - Venus.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3a8dc3f-dc39-4769-9401-c049d00696b5",
+    "title": "Banarama - Venus",
+    "titles": {
+      "spa": "Banarama - Venus"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "0c1b90bd-6ab0-4923-a6ae-9da95a832521"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:57:50.704Z",
+    "modified_at": "2022-11-03T23:57:51.531Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5508799,
+      "gain": 1.17,
+      "duration": 137,
+      "loudnorm": "-20.20,0.32,1.70,-30.37,-0.30",
+      "filename": "processed_a9e4913b3b6d086b74035c23f2ee6e55.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5508799,
+      "gain": 1.17,
+      "duration": 137,
+      "loudnorm": "-20.20,0.32,1.70,-30.37,-0.30",
+      "filename": "processed_83dc1f6faa3626a93210f9a8465e6084.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

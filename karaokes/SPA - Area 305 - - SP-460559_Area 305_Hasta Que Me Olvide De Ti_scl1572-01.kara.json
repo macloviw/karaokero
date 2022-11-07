@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Area 305 - - SP-460559_Area 305_Hasta Que Me Olvide De Ti_scl1572-01.mp3",
+      "loudnorm": "-12.53,0.96,10.30,-22.67,-1.74",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Area 305 - - SP-460559_Area 305_Hasta Que Me Olvide De Ti_scl1572-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "95262bfc-58ec-4b59-9b0f-32fcee9b15ba",
+    "title": "SP-460559_Área 305_Hasta Que Me Olvide De Ti_scl1572-01",
+    "titles": {
+      "spa": "SP-460559_Área 305_Hasta Que Me Olvide De Ti_scl1572-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0c037298-c1e8-426b-a388-e00b3638006b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:31:51.885Z",
+    "modified_at": "2022-11-03T23:31:52.269Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d83817193fb7497f444495d7050cb336.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3862666,
+      "gain": -6.52,
+      "duration": 241,
+      "loudnorm": "-12.53,0.96,10.30,-22.67,-1.74",
+      "filename": "processed_35d8174cb69ac5b37f8d3bbd5694e52c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

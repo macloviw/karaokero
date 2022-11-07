@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Sad Eyes.mp3",
+      "loudnorm": "-13.07,0.10,6.60,-23.16,-0.88",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Sad Eyes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a639d668-0caa-4bcf-9e9a-62058914b3e7",
+    "title": "Enrique Iglesias - Sad Eyes",
+    "titles": {
+      "spa": "Enrique Iglesias - Sad Eyes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:04:29.108Z",
+    "modified_at": "2022-11-03T05:04:29.525Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dac125f80143d6b9446f3d937209becd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4084811,
+      "gain": -4.28,
+      "duration": 255,
+      "loudnorm": "-13.07,0.10,6.60,-23.16,-0.88",
+      "filename": "processed_924afe7e0d8af6695fdbfb15af7b96b1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eddie Santiago - - Eddie Santiago - Mia.mp3",
+      "audiogain": -2.15,
+      "loudnorm": "-16.41,0.36,4.20,-26.44,-0.67",
+      "filesize": 7054314,
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eddie Santiago - - Eddie Santiago - Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-11-02T18:04:03.246Z",
+    "ignoreHooks": false,
+    "kid": "fa5aaa82-0b2e-4a7c-8e35-0b74c01f869c",
+    "modified_at": "2022-11-02T18:46:34.701Z",
+    "repository": "Local",
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "singers": [
+        "ea9c4813-000b-4a8e-960d-46363e42fc63"
+      ],
+      "songtypes": [
+        "e21a863a-1a09-4f17-949e-fff891cf9872"
+      ]
+    },
+    "titles": {
+      "spa": "Eddie Santiago - Mia"
+    },
+    "titles_default_language": "spa",
+    "title": "Eddie Santiago - Mia",
+    "year": 2022
+  }
+}

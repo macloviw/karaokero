@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hans Albers - - Hans Albers - Auf der Reeperbahn nachts um halb eins.mp3",
+      "loudnorm": "-18.65,-6.61,4.90,-28.91,-0.87",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hans Albers - - Hans Albers - Auf der Reeperbahn nachts um halb eins.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85bfca8d-71b0-4e69-a738-d3dad65c5094",
+    "title": "Hans Albers - Auf der Reeperbahn nachts um halb eins",
+    "titles": {
+      "spa": "Hans Albers - Auf der Reeperbahn nachts um halb eins"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9773ca5f-d676-4c29-9b89-7bf6ab8521da"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:27:59.984Z",
+    "modified_at": "2022-11-04T03:28:00.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_876dbbdeedd27c4f37929a53c6e3d0eb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4542464,
+      "gain": 0.87,
+      "duration": 189,
+      "loudnorm": "-18.65,-6.61,4.90,-28.91,-0.87",
+      "filename": "processed_8b2de38714acce553f18517c4c6fe9f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

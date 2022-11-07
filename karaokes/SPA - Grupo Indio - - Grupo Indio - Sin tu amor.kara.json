@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Indio - - Grupo Indio - Sin tu amor.mp3",
+      "loudnorm": "-12.34,0.75,3.80,-22.78,-0.52",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Indio - - Grupo Indio - Sin tu amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c5ea159-b227-436e-9d32-61d7ec13cc71",
+    "title": "Grupo Indio - Sin tu amor",
+    "titles": {
+      "spa": "Grupo Indio - Sin tu amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b91ea25d-104e-49fb-85a5-c1e3c03338d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:21:49.850Z",
+    "modified_at": "2022-11-03T22:21:50.287Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4418303f1fbf5797e99b417f5f8dd7cc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3757130,
+      "gain": -5.34,
+      "duration": 234,
+      "loudnorm": "-12.34,0.75,3.80,-22.78,-0.52",
+      "filename": "processed_55bbc8ae4bab9276e7d40c96550f774a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blas Duran - - Duran Duran - Is There Something I Should Know.mp3",
+      "loudnorm": "-14.28,1.02,2.20,-24.44,-0.00",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blas Duran - - Duran Duran - Is There Something I Should Know.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4284615-002c-408d-b138-1a54788d5cd6",
+    "title": "Duran Duran - Is There Something I Should Know",
+    "titles": {
+      "spa": "Duran Duran - Is There Something I Should Know"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3af94bd5-9b70-422c-a63b-2195a0bad3b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:13:47.642Z",
+    "modified_at": "2022-11-03T16:13:48.167Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61f8e4f1ef7d5f0701ec27989ad21a6b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4114904,
+      "gain": -3.02,
+      "duration": 257,
+      "loudnorm": "-14.28,1.02,2.20,-24.44,-0.00",
+      "filename": "processed_e0d8097f72456673d1a616b78df67002.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

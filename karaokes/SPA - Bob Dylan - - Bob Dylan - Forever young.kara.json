@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Dylan - - Bob Dylan - Forever young.mp3",
+      "loudnorm": "-10.72,2.01,5.30,-20.81,-1.15",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Dylan - - Bob Dylan - Forever young.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bef10838-d3c1-434a-b1b2-ef98a5810f8e",
+    "title": "Bob Dylan - Forever young",
+    "titles": {
+      "spa": "Bob Dylan - Forever young"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "74a88b06-04eb-405c-a6d2-4412b555243f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:05:43.603Z",
+    "modified_at": "2022-11-04T00:05:44.020Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_811609cd65f37ba242ba165382715855.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4129532,
+      "gain": -7.01,
+      "duration": 257,
+      "loudnorm": "-10.72,2.01,5.30,-20.81,-1.15",
+      "filename": "processed_71d1c754ce7005c4eafea0b49ea7d2f0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

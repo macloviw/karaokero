@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - YOU COULD BE MINE BY GUNSE ROSE.CDG.MP3",
+      "loudnorm": "-16.08,-0.23,2.80,-26.23,-0.43",
+      "duration": 333,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - YOU COULD BE MINE BY GUNSE ROSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d0d4cf1-f5be-482e-a851-2de1c2452398",
+    "title": "YOU COULD BE MINE BY GUNSE ROSE.CDG",
+    "titles": {
+      "spa": "YOU COULD BE MINE BY GUNSE ROSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:23:04.084Z",
+    "modified_at": "2022-11-04T10:23:04.862Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5345248,
+      "gain": -1.75,
+      "duration": 333,
+      "loudnorm": "-16.08,-0.23,2.80,-26.23,-0.43",
+      "filename": "processed_59b0d53a99e4c6611765616efe7527dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5345248,
+      "gain": -1.75,
+      "duration": 333,
+      "loudnorm": "-16.08,-0.23,2.80,-26.23,-0.43",
+      "filename": "processed_b63cc6cc8f2cf407570b632c40641f2e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

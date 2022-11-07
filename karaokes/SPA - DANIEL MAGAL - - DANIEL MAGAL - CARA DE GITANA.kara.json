@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MAGAL - - DANIEL MAGAL - CARA DE GITANA.mp3",
+      "loudnorm": "-14.45,3.39,4.10,-24.89,-0.13",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MAGAL - - DANIEL MAGAL - CARA DE GITANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6995ccda-12b5-421a-abbd-2fae001971f7",
+    "title": "DANIEL MAGAL - CARA DE GITANA",
+    "titles": {
+      "spa": "DANIEL MAGAL - CARA DE GITANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fe3daa11-8ef2-41d5-8a40-8d3c7e685afe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:59:41.549Z",
+    "modified_at": "2022-11-03T21:59:41.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea135dbc48264286961fc27a1dbc0eea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4795884,
+      "gain": -3.78,
+      "duration": 199,
+      "loudnorm": "-14.45,3.39,4.10,-24.89,-0.13",
+      "filename": "processed_cb188c7421b8357db949ead507d46dcb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JON SECADA - - Jon Secada - Es Por Ti.mp3",
+      "loudnorm": "-9.29,6.77,7.10,-19.40,-1.11",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JON SECADA - - Jon Secada - Es Por Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d66fdd21-752d-44be-98a6-bddedf1876bc",
+    "title": "Jon Secada - Es Por Ti",
+    "titles": {
+      "spa": "Jon Secada - Es Por Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "38ca9c97-7b35-4eaa-bcdf-fe06e643bda1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:27:00.929Z",
+    "modified_at": "2022-11-03T06:27:01.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57ef17d6a3b78c371d48548001f8381d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4972672,
+      "gain": -8.8,
+      "duration": 310,
+      "loudnorm": "-9.29,6.77,7.10,-19.40,-1.11",
+      "filename": "processed_2e5c6bbb184a6c4b0a40b3e697b4c24c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

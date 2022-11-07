@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - TENGO UN NUEVO AMOR BY CRISTIANO.CDG.MP3",
+      "loudnorm": "-17.66,-0.41,8.80,-27.70,-0.73",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - TENGO UN NUEVO AMOR BY CRISTIANO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70ec9336-ba14-413e-8e1d-dbc7a2756bf2",
+    "title": "TENGO UN NUEVO AMOR BY CRISTIANO.CDG",
+    "titles": {
+      "spa": "TENGO UN NUEVO AMOR BY CRISTIANO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:06:18.682Z",
+    "modified_at": "2022-11-03T14:06:19.352Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5073574,
+      "gain": -1.75,
+      "duration": 316,
+      "loudnorm": "-17.66,-0.41,8.80,-27.70,-0.73",
+      "filename": "processed_04ca28f5f5c45b336bfcc6031da69b91.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5073574,
+      "gain": -1.75,
+      "duration": 316,
+      "loudnorm": "-17.66,-0.41,8.80,-27.70,-0.73",
+      "filename": "processed_aa1d7cc347248e83623b915c9174a020.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

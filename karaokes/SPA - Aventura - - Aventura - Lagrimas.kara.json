@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - Lagrimas.mp3",
+      "loudnorm": "-7.69,8.29,14.90,-18.51,-1.60",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - Lagrimas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "68567687-a05b-44c5-876d-527f956cfeb9",
+    "title": "Aventura - Lágrimas",
+    "titles": {
+      "spa": "Aventura - Lágrimas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:13:41.040Z",
+    "modified_at": "2022-11-02T23:13:41.471Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0dcb10c40a633e793db2b81b8b96a2f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3677424,
+      "gain": -8.59,
+      "duration": 229,
+      "loudnorm": "-7.69,8.29,14.90,-18.51,-1.60",
+      "filename": "processed_ac03061e520a022f105c580a1d3d8e79.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

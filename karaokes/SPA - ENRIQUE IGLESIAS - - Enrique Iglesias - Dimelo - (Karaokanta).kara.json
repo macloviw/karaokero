@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Dimelo - (Karaokanta).mp3",
+      "loudnorm": "-13.36,1.59,6.00,-23.66,-0.68",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Dimelo - (Karaokanta).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f871ff27-5908-4a91-acc7-fc509699b530",
+    "title": "Enrique Iglesias - Dimelo - (Karaokanta)",
+    "titles": {
+      "spa": "Enrique Iglesias - Dimelo - (Karaokanta)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:02:15.460Z",
+    "modified_at": "2022-11-03T05:02:15.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_754f9fba53a20a52d680c1afd2a7bcd6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5299567,
+      "gain": -5.03,
+      "duration": 220,
+      "loudnorm": "-13.36,1.59,6.00,-23.66,-0.68",
+      "filename": "processed_e79272baf2d801a8f87d27d5fe50a89c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

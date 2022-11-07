@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eurythmics - - Eurythmics - Thorn in my side.mp3",
+      "loudnorm": "-15.65,0.46,3.40,-25.74,-0.56",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eurythmics - - Eurythmics - Thorn in my side.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9627993b-a102-4c5f-a59b-99f392b5d8ed",
+    "title": "Eurythmics - Thorn in my side",
+    "titles": {
+      "spa": "Eurythmics - Thorn in my side"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6165a446-a36d-47e7-9281-8dffecaf5079"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:37:39.571Z",
+    "modified_at": "2022-11-04T00:37:39.950Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0aa068156b8fcd7bc54f8a1c81574c99.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4050538,
+      "gain": -2.38,
+      "duration": 253,
+      "loudnorm": "-15.65,0.46,3.40,-25.74,-0.56",
+      "filename": "processed_5640317d5dbe6d132dd0532a96359d1c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

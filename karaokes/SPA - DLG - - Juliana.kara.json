@@ -1,0 +1,54 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DLG - - Juliana.mp3",
+      "audiogain": -2.36,
+      "loudnorm": "-16.77,-0.34,4.20,-26.82,-0.85",
+      "filesize": 7216064,
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DLG - - Juliana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-10-27T20:02:26.390Z",
+    "ignoreHooks": false,
+    "kid": "bc57c370-7c68-4a3c-a710-74964a22d60e",
+    "modified_at": "2022-10-27T20:02:26.913Z",
+    "repository": "Local",
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "singers": [
+        "c839f358-1923-44a2-b99a-ecb6be5ae487"
+      ],
+      "songtypes": [
+        "e21a863a-1a09-4f17-949e-fff891cf9872"
+      ]
+    },
+    "titles": {
+      "spa": "Juliana"
+    },
+    "titles_default_language": "spa",
+    "title": "Juliana",
+    "year": 2022
+  }
+}

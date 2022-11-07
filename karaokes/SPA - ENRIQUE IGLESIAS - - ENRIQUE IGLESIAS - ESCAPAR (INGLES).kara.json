@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - ESCAPAR (INGLES).MP3",
+      "loudnorm": "-9.33,0.62,8.60,-19.38,-1.19",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - ESCAPAR (INGLES).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c148ba45-ef6f-4ec9-b9c4-d20a7c57d49c",
+    "title": "ENRIQUE IGLESIAS   -   ESCAPAR (INGLES)",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   ESCAPAR (INGLES)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:57:02.588Z",
+    "modified_at": "2022-11-03T04:57:03.196Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8542137,
+      "gain": -7.82,
+      "duration": 213,
+      "loudnorm": "-9.33,0.62,8.60,-19.38,-1.19",
+      "filename": "processed_36b3c2dddec0952b21478f280268f7a6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8542137,
+      "gain": -7.82,
+      "duration": 213,
+      "loudnorm": "-9.33,0.62,8.60,-19.38,-1.19",
+      "filename": "processed_fd7ae0a1c6dc338766c0917edeffeca4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

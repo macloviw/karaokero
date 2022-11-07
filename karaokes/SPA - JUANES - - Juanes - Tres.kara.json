@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - Juanes - Tres.mp3",
+      "loudnorm": "-11.03,1.66,4.30,-21.11,-0.47",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - Juanes - Tres.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79dffae0-4fc3-4667-8937-0bd7cc1ffed8",
+    "title": "Juanes - Tres",
+    "titles": {
+      "spa": "Juanes - Tres"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:56:28.545Z",
+    "modified_at": "2022-11-03T07:56:28.956Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c788f5699939d77e76b31628c8ee187d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4950016,
+      "gain": -8.12,
+      "duration": 205,
+      "loudnorm": "-11.03,1.66,4.30,-21.11,-0.47",
+      "filename": "processed_5d6ddc7378e0054f726cd11cb472a631.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

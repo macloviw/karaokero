@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - De Que Sirve -01 - - De Que Sirve -01 - CDJ-KAR4318-08 - Reik.mp3",
+      "loudnorm": "-10.01,2.09,5.50,-20.07,-0.79",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - De Que Sirve -01 - - De Que Sirve -01 - CDJ-KAR4318-08 - Reik.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2de186c5-75a1-4a79-89e5-5cc87179d162",
+    "title": "De Que Sirve -01 - CDJ-KAR4318-08 - Reik",
+    "titles": {
+      "spa": "De Que Sirve -01 - CDJ-KAR4318-08 - Reik"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2e2c8e67-c7e9-422e-a6c7-14e6b571d94a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:01:48.349Z",
+    "modified_at": "2022-11-03T22:01:48.743Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_461b25e49a0106ffcb6f5c50ddc9be34.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3590782,
+      "gain": -8.29,
+      "duration": 224,
+      "loudnorm": "-10.01,2.09,5.50,-20.07,-0.79",
+      "filename": "processed_54427b7cf52432c11d6eb5d7e274a523.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Santana - - Santana - Black Magic Woman.mp3",
+      "loudnorm": "-17.42,0.06,2.40,-27.55,-0.50",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Santana - - Santana - Black Magic Woman.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0cda5b9c-86dd-4987-afac-bae8c53e1e77",
+    "title": "Santana - Black Magic Woman",
+    "titles": {
+      "spa": "Santana - Black Magic Woman"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "90c3edd7-affb-4304-9246-5682e7c4f709"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:36:44.413Z",
+    "modified_at": "2022-11-04T01:36:44.794Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a21e5244f91cc39962c1794701827870.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3818153,
+      "gain": 1.91,
+      "duration": 238,
+      "loudnorm": "-17.42,0.06,2.40,-27.55,-0.50",
+      "filename": "processed_b2df2b21befa9f2f6ed4b8088939afe4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

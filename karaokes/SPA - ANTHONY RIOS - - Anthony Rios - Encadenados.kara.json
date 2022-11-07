@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Encadenados.mp3",
+      "loudnorm": "-11.20,0.14,5.90,-21.29,-1.26",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Encadenados.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fccc81c3-7bb5-4140-a5d9-295cfe28d5ec",
+    "title": "Anthony Rios - Encadenados",
+    "titles": {
+      "spa": "Anthony Rios - Encadenados"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:52:08.578Z",
+    "modified_at": "2022-11-03T01:52:09.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_04acbfd3b87b6303e66e662dbc5c7b14.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5344519,
+      "gain": -6.65,
+      "duration": 222,
+      "loudnorm": "-11.20,0.14,5.90,-21.29,-1.26",
+      "filename": "processed_7d1702c7dc5b5e1042c11ae77d9c7a03.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

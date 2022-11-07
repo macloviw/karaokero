@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Negro - - Grupo Negro - - 00 - 6-CONTIGO EN LA CABEZA.mp3",
+      "loudnorm": "-12.25,2.13,10.60,-22.66,-1.74",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Negro - - Grupo Negro - - 00 - 6-CONTIGO EN LA CABEZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "18edcbf4-0507-4699-9889-a8c48c175b0b",
+    "title": "Grupo Negro -  - 00 - 6-CONTIGO EN LA CABEZA",
+    "titles": {
+      "spa": "Grupo Negro -  - 00 - 6-CONTIGO EN LA CABEZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6428b7e8-d64d-408c-ac54-12e78779a519"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:23:02.173Z",
+    "modified_at": "2022-11-03T22:23:02.561Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1aa4e2f81b1a722a8fda7c40efc86154.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4381239,
+      "gain": -4.19,
+      "duration": 273,
+      "loudnorm": "-12.25,2.13,10.60,-22.66,-1.74",
+      "filename": "processed_ef29b93b065412e531b22f12173061a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

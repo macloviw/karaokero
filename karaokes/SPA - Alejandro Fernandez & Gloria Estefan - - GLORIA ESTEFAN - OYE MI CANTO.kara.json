@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - OYE MI CANTO.mp3",
+      "loudnorm": "-9.21,6.43,3.90,-19.34,-0.55",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - OYE MI CANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "886db33e-ef59-40f1-ab9f-db0ac4c8a29e",
+    "title": "GLORIA ESTEFAN   -   OYE MI CANTO",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   OYE MI CANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:35:08.589Z",
+    "modified_at": "2022-11-03T05:35:09.016Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dd5283e37811238c0647dbda1a0a9201.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6770823,
+      "gain": -8.23,
+      "duration": 282,
+      "loudnorm": "-9.21,6.43,3.90,-19.34,-0.55",
+      "filename": "processed_6a3ce9075d814b5699f784b35d157258.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

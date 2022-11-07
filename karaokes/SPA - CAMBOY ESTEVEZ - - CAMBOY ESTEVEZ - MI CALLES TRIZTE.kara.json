@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - MI CALLES TRIZTE.MP3",
+      "loudnorm": "-17.94,-2.94,6.00,-28.11,-0.86",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - MI CALLES TRIZTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d9c838f-37ad-49f0-bbe6-7cdd6b20f128",
+    "title": "CAMBOY ESTEVEZ   -   MI CALLES TRIZTE",
+    "titles": {
+      "spa": "CAMBOY ESTEVEZ   -   MI CALLES TRIZTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e1cc707-0a71-4f3c-a38d-c9dd3dcc7268"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:39:46.346Z",
+    "modified_at": "2022-11-03T02:39:46.984Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3751569,
+      "gain": -2.17,
+      "duration": 234,
+      "loudnorm": "-17.94,-2.94,6.00,-28.11,-0.86",
+      "filename": "processed_7c9677f769ef758f7f3fe37a23182246.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3751569,
+      "gain": -2.17,
+      "duration": 234,
+      "loudnorm": "-17.94,-2.94,6.00,-28.11,-0.86",
+      "filename": "processed_beee07bbfb69c2f7c6ef230702e76d9f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

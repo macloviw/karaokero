@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - AVENTURA - LA GUERRA.MP3",
+      "loudnorm": "-16.04,-1.00,4.00,-26.07,-0.84",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - AVENTURA - LA GUERRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51e68e14-74a0-40bd-9b57-df500d535250",
+    "title": "AVENTURA   -   LA GUERRA",
+    "titles": {
+      "spa": "AVENTURA   -   LA GUERRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:07:46.570Z",
+    "modified_at": "2022-11-02T23:07:47.047Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3347532,
+      "gain": -2.35,
+      "duration": 209,
+      "loudnorm": "-16.04,-1.00,4.00,-26.07,-0.84",
+      "filename": "processed_09c220efa6810c04802d9d2acfef93a8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3347532,
+      "gain": -2.35,
+      "duration": 209,
+      "loudnorm": "-16.04,-1.00,4.00,-26.07,-0.84",
+      "filename": "processed_700ae2c9ed4d6d2cf41dc78811443b6b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4388-10 - - CDJ-KAR4388-10 - Elefante - Sabor A Chocolate (como tu ninguna).mp3",
+      "loudnorm": "-10.23,0.85,1.70,-20.38,-0.53",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4388-10 - - CDJ-KAR4388-10 - Elefante - Sabor A Chocolate (como tu ninguna).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8d4dbcb-c0c9-4ad4-a6c1-7df72481ccf7",
+    "title": "CDJ-KAR4388-10 - Elefante - Sabor A Chocolate (como tu ninguna)",
+    "titles": {
+      "spa": "CDJ-KAR4388-10 - Elefante - Sabor A Chocolate (como tu ninguna)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e37be7b-202d-4fc3-a7b4-a41349f48ea6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:52:22.969Z",
+    "modified_at": "2022-11-03T21:52:23.424Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21dc82b7c8de420da0f1d087895aaad1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3725365,
+      "gain": -6.69,
+      "duration": 232,
+      "loudnorm": "-10.23,0.85,1.70,-20.38,-0.53",
+      "filename": "processed_b4ebd83604a417e62a85c946d18a9693.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

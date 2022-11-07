@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Daniel - - Danny Daniel - El Vals De Las Mariposas.mp3",
+      "loudnorm": "-16.58,0.11,8.40,-27.03,-0.02",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Daniel - - Danny Daniel - El Vals De Las Mariposas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7ebcd0b-d62c-4a35-91c0-c3f7b5312567",
+    "title": "Danny Daniel - El Vals De Las Mariposas",
+    "titles": {
+      "spa": "Danny Daniel - El Vals De Las Mariposas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bc5eced1-bcf4-4da1-9422-d8cb15a13412"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:55:41.379Z",
+    "modified_at": "2022-11-03T03:55:41.791Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1272cefe9df6aac3456227dcdd417d05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3683442,
+      "gain": -0.7,
+      "duration": 230,
+      "loudnorm": "-16.58,0.11,8.40,-27.03,-0.02",
+      "filename": "processed_1ab8b063912c07df958385fbfdf2f54d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

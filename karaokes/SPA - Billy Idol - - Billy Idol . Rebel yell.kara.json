@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Idol - - Billy Idol . Rebel yell.mp3",
+      "loudnorm": "-16.14,0.00,5.50,-26.16,-0.33",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Idol - - Billy Idol . Rebel yell.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b34f692-6c42-426a-b5c8-7227191c248e",
+    "title": "Billy Idol . Rebel yell",
+    "titles": {
+      "spa": "Billy Idol . Rebel yell"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a2791f85-ed86-44b8-aea4-82f4126c988f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:01:58.509Z",
+    "modified_at": "2022-11-03T15:01:58.957Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b789e75cbd0babc3a4f8beb6adb0522e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4828230,
+      "gain": -1.94,
+      "duration": 301,
+      "loudnorm": "-16.14,0.00,5.50,-26.16,-0.33",
+      "filename": "processed_1c1c9589eee553542618388119f3a096.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

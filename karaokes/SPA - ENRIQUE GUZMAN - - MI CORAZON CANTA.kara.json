@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE GUZMAN - - MI CORAZON CANTA.mp3",
+      "loudnorm": "-14.46,-0.03,5.20,-24.57,0.01",
+      "duration": 166,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE GUZMAN - - MI CORAZON CANTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b5cca4a-260e-4750-9139-1e883245d80f",
+    "title": "MI CORAZON CANTA",
+    "titles": {
+      "spa": "MI CORAZON CANTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e608fe46-d883-435f-995f-185d0e93044a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:54:53.293Z",
+    "modified_at": "2022-11-03T04:54:53.699Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe092ca4360bc1f9da5fb521c0481279.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4002681,
+      "gain": -2.39,
+      "duration": 166,
+      "loudnorm": "-14.46,-0.03,5.20,-24.57,0.01",
+      "filename": "processed_793a17a9ea5402b8032e7bc3e2e14daf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

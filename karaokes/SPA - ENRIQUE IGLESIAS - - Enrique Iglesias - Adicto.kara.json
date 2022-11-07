@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Adicto.mp3",
+      "loudnorm": "-11.30,0.47,10.30,-21.46,-1.70",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Adicto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "889eac0e-8120-4180-8740-c9a67792bbd6",
+    "title": "Enrique Iglesias - Adicto",
+    "titles": {
+      "spa": "Enrique Iglesias - Adicto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:01:20.357Z",
+    "modified_at": "2022-11-03T05:01:20.825Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ed9b446a79361fe963e1d08356c1bac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7522304,
+      "gain": -6.83,
+      "duration": 313,
+      "loudnorm": "-11.30,0.47,10.30,-21.46,-1.70",
+      "filename": "processed_4eaceceecb7387ef09a6eeacf542128d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

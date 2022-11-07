@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - LUIS MIGUEL - TENGO TODO EXEPTO A TI.mp3",
+      "loudnorm": "-20.30,-1.07,11.70,-30.64,-1.16",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - LUIS MIGUEL - TENGO TODO EXEPTO A TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0132caea-9b42-4a33-b0a1-689f2c79a0cc",
+    "title": "LUIS MIGUEL   -   TENGO TODO EXEPTO A TI",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   TENGO TODO EXEPTO A TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:32:02.437Z",
+    "modified_at": "2022-11-03T13:32:02.889Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0cd3745ecb5495cb989d58312c0ddb93.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5753842,
+      "gain": 1.59,
+      "duration": 239,
+      "loudnorm": "-20.30,-1.07,11.70,-30.64,-1.16",
+      "filename": "processed_1e80709505451e87dbfcb4060850040c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

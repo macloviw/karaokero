@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - Ana Belen & Victor Manuel - Con Todas Las Ganas.mp3",
+      "loudnorm": "-14.73,-0.13,4.90,-24.84,-0.74",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - Ana Belen & Victor Manuel - Con Todas Las Ganas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d034f780-5574-4654-bdc2-952cd93a9ec9",
+    "title": "Ana Belen & Victor Manuel - Con Todas Las Ganas",
+    "titles": {
+      "spa": "Ana Belen & Victor Manuel - Con Todas Las Ganas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:40:13.362Z",
+    "modified_at": "2022-11-03T01:40:13.774Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_329ca334408a2ce1523d1ec9f530ade3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2868438,
+      "gain": -3.02,
+      "duration": 179,
+      "loudnorm": "-14.73,-0.13,4.90,-24.84,-0.74",
+      "filename": "processed_aa1eba29a8f97ced3a77213c9fd4f3af.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

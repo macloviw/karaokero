@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Can´t Stop This Thing We´ve Started.MP3",
+      "loudnorm": "-16.49,-1.30,5.00,-26.54,-0.60",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Can´t Stop This Thing We´ve Started.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c93d56c0-15f4-4e54-8344-c5f4f272f904",
+    "title": "Bryan Adams - Can´t Stop This Thing We´ve Started",
+    "titles": {
+      "spa": "Bryan Adams - Can´t Stop This Thing We´ve Started"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:32:57.758Z",
+    "modified_at": "2022-11-03T15:32:58.456Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4181777,
+      "gain": -1.13,
+      "duration": 261,
+      "loudnorm": "-16.49,-1.30,5.00,-26.54,-0.60",
+      "filename": "processed_dd882c814f68145ffd891fdc5cc7de01.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4181777,
+      "gain": -1.13,
+      "duration": 261,
+      "loudnorm": "-16.49,-1.30,5.00,-26.54,-0.60",
+      "filename": "processed_704a4726e47b711077834021c228703f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

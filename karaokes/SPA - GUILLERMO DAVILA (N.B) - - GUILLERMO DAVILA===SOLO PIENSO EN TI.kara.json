@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GUILLERMO DAVILA (N.B) - - GUILLERMO DAVILA===SOLO PIENSO EN TI.mp3",
+      "loudnorm": "-15.45,-0.51,6.90,-25.55,-0.64",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GUILLERMO DAVILA (N.B) - - GUILLERMO DAVILA===SOLO PIENSO EN TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fdde7c7d-00b8-4ef8-92b3-66633ca03347",
+    "title": "GUILLERMO DAVILA===SOLO PIENSO EN TI",
+    "titles": {
+      "spa": "GUILLERMO DAVILA===SOLO PIENSO EN TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0b76b544-97dc-41b6-bcb8-bd7cf1529f39"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:24:04.979Z",
+    "modified_at": "2022-11-03T22:24:05.358Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bdb46efe21837bb9a038eb0a11c50522.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2604400,
+      "gain": -1.25,
+      "duration": 162,
+      "loudnorm": "-15.45,-0.51,6.90,-25.55,-0.64",
+      "filename": "processed_e20d5275e8a4cd13a335c344576930eb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

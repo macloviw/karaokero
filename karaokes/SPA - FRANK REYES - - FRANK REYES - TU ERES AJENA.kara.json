@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - FRANK REYES - TU ERES AJENA.MP3",
+      "loudnorm": "-15.16,0.48,2.90,-25.23,0.29",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - FRANK REYES - TU ERES AJENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b20fb108-f237-4450-92aa-88c55c86c13a",
+    "title": "FRANK REYES   -   TU ERES AJENA",
+    "titles": {
+      "spa": "FRANK REYES   -   TU ERES AJENA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:41:09.981Z",
+    "modified_at": "2022-11-02T23:41:10.564Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3690547,
+      "gain": -2.2,
+      "duration": 230,
+      "loudnorm": "-15.16,0.48,2.90,-25.23,0.29",
+      "filename": "processed_d368c130f5e33dcb603eb1e080efe8c1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3690547,
+      "gain": -2.2,
+      "duration": 230,
+      "loudnorm": "-15.16,0.48,2.90,-25.23,0.29",
+      "filename": "processed_26d298b2a344e8e8a4a2d3bb48435648.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

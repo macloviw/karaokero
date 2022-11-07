@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ-PIEL DE NINA.mp3",
+      "loudnorm": "-11.78,0.71,3.60,-21.90,-0.23",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ-PIEL DE NINA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c4e7ceb-6ea7-4d7b-81a2-34b1a9a50974",
+    "title": "ALEJANDRO FERNANDEZ-PIEL DE NIÑA",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ-PIEL DE NIÑA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:49:55.758Z",
+    "modified_at": "2022-11-03T00:49:56.188Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2cbeb42c344a111a6d2f15af33150319.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2308931,
+      "gain": -6.09,
+      "duration": 164,
+      "loudnorm": "-11.78,0.71,3.60,-21.90,-0.23",
+      "filename": "processed_64ce955738eadf199b9d30186373e1f7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

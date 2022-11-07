@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - FATALIDAD.mp3",
+      "loudnorm": "-15.19,-0.22,6.50,-25.28,-1.44",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - FATALIDAD.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c66b620c-8c29-4511-b150-0ee725f7075c",
+    "title": "ANTHONY RIOS   -   FATALIDAD",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   FATALIDAD"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:47:59.175Z",
+    "modified_at": "2022-11-03T01:47:59.592Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2f6a76b086795d68e4ca01ca9b869c3e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5401381,
+      "gain": -2.07,
+      "duration": 224,
+      "loudnorm": "-15.19,-0.22,6.50,-25.28,-1.44",
+      "filename": "processed_59b9d4ca9f6923e92b97ba9189f344b4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

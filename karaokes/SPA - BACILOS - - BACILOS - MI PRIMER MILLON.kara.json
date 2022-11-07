@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACILOS - - BACILOS - MI PRIMER MILLON.MP3",
+      "loudnorm": "-11.29,1.38,5.50,-21.37,-1.12",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACILOS - - BACILOS - MI PRIMER MILLON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ffde795d-b2da-46a3-b59f-ad23935c7831",
+    "title": "BACILOS   -   MI PRIMER MILLON",
+    "titles": {
+      "spa": "BACILOS   -   MI PRIMER MILLON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:02:46.113Z",
+    "modified_at": "2022-11-03T02:02:46.598Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4054172,
+      "gain": -7.39,
+      "duration": 253,
+      "loudnorm": "-11.29,1.38,5.50,-21.37,-1.12",
+      "filename": "processed_58f18ac31dd478980bfd307752c00440.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4054172,
+      "gain": -7.39,
+      "duration": 253,
+      "loudnorm": "-11.29,1.38,5.50,-21.37,-1.12",
+      "filename": "processed_b891838563c7359c5da7ce6e9a4c7a4a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

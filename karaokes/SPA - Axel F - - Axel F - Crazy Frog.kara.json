@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Axel F - - Axel F - Crazy Frog.mp3",
+      "loudnorm": "-8.47,3.14,5.60,-18.72,-1.39",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Axel F - - Axel F - Crazy Frog.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "762792dd-efb5-4fdd-8454-fed6d03bd692",
+    "title": "Axel F - Crazy Frog",
+    "titles": {
+      "spa": "Axel F - Crazy Frog"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "799fe8c2-3d44-4ddb-8cf9-5de7c595843f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:56:46.633Z",
+    "modified_at": "2022-11-03T23:56:47.015Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_89a6a00820f2b1e013f58f3e628c6ead.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3065196,
+      "gain": -8.82,
+      "duration": 191,
+      "loudnorm": "-8.47,3.14,5.60,-18.72,-1.39",
+      "filename": "processed_fa6b6f7a4e4e6d47236d5406cf67672b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

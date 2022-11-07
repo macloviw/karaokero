@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACILOS - - BACILOS - MUJER INGRATA.mp3",
+      "loudnorm": "-10.75,2.38,9.40,-20.97,-1.97",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACILOS - - BACILOS - MUJER INGRATA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "57b7fdad-422e-4677-9337-14634ef3ad64",
+    "title": "BACILOS - MUJER INGRATA",
+    "titles": {
+      "spa": "BACILOS - MUJER INGRATA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:04:01.912Z",
+    "modified_at": "2022-11-03T02:04:02.473Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18a467e71ba8278c7bedd24ba0912c85.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7187609,
+      "gain": -8.36,
+      "duration": 299,
+      "loudnorm": "-10.75,2.38,9.40,-20.97,-1.97",
+      "filename": "processed_89a9b86dfd89908297b41f7e6f6d4dd0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

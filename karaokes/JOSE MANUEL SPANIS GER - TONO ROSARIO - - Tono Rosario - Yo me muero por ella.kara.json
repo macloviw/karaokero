@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Yo me muero por ella.mp3",
+      "loudnorm": "-10.44,5.81,3.50,-20.49,-0.81",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Yo me muero por ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "234f1952-1339-4d81-ba82-4b1615e8b69c",
+    "title": "Toño Rosario   -   Yo me muero por ella",
+    "titles": {
+      "spa": "Toño Rosario   -   Yo me muero por ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:17:35.979Z",
+    "modified_at": "2022-11-04T11:17:36.429Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e87f49ce2131a92679f0905d708acb09.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3412938,
+      "gain": -8.8,
+      "duration": 213,
+      "loudnorm": "-10.44,5.81,3.50,-20.49,-0.81",
+      "filename": "processed_fed1c15b858d14d00a8063e945bb8188.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

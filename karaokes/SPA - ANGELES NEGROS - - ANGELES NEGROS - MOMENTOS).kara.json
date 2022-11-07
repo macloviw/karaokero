@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - MOMENTOS).MP3",
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - MOMENTOS).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da4ac5c7-6cb5-449d-999b-76e87b78171a",
+    "title": "ANGELES NEGROS   -   MOMENTOS)",
+    "titles": {
+      "spa": "ANGELES NEGROS   -   MOMENTOS)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:26:36.223Z",
+    "modified_at": "2022-11-04T02:26:36.662Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3953026,
+      "gain": -6.81,
+      "duration": 246,
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "filename": "processed_2fb38c611b3f12671fd084581a9f5371.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3953026,
+      "gain": -6.81,
+      "duration": 246,
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "filename": "processed_60610bb3299ba3136e330cd20ba03a5b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

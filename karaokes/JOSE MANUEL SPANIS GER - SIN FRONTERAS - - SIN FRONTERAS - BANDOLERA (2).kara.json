@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - SIN FRONTERAS - BANDOLERA (2).mp3",
+      "loudnorm": "-13.74,1.01,3.00,-23.78,-0.98",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - SIN FRONTERAS - BANDOLERA (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b561a6d-1bd3-4095-9785-f15da1873e38",
+    "title": "SIN FRONTERAS   -   BANDOLERA (2)",
+    "titles": {
+      "spa": "SIN FRONTERAS   -   BANDOLERA (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8972e7b5-3692-46b4-94b2-07d5a7c21298"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:04:32.674Z",
+    "modified_at": "2022-11-04T11:04:33.078Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eff16d140b5a1519e11c0f0f90c74b05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4420850,
+      "gain": -5.29,
+      "duration": 276,
+      "loudnorm": "-13.74,1.01,3.00,-23.78,-0.98",
+      "filename": "processed_89a59eb4947d776b5d7bffa2b7002f86.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

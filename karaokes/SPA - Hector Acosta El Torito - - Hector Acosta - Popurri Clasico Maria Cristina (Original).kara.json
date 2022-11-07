@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - Popurri Clasico Maria Cristina (Original).mp3",
+      "loudnorm": "-16.96,-1.04,2.10,-27.00,-0.14",
+      "duration": 358,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - Popurri Clasico Maria Cristina (Original).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4fbb86b2-7921-457c-a1fa-6c524c4bddc7",
+    "title": "Hector Acosta - Popurri Clasico Maria Cristina (Original)",
+    "titles": {
+      "spa": "Hector Acosta - Popurri Clasico Maria Cristina (Original)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:48:33.686Z",
+    "modified_at": "2022-11-02T23:48:34.104Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d1f0478646de5b3c5bbc67570b9c40d4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5745730,
+      "gain": -1.65,
+      "duration": 358,
+      "loudnorm": "-16.96,-1.04,2.10,-27.00,-0.14",
+      "filename": "processed_f4bf175dfe25c218e960499ca9c72c25.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

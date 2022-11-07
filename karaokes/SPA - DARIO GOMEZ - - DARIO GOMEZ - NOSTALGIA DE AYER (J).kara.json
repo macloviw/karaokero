@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - NOSTALGIA DE AYER (J).mp3",
+      "loudnorm": "-11.70,0.71,3.00,-21.76,-0.96",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - NOSTALGIA DE AYER (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1093c002-1262-4a1b-92a9-64cfcdc0c4fb",
+    "title": "DARIO GOMEZ - NOSTALGIA DE AYER (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - NOSTALGIA DE AYER (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:02:36.672Z",
+    "modified_at": "2022-11-03T04:02:37.077Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f56d9cbc3ed69a40a3bcafe76d9c7edd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4360663,
+      "gain": -6.3,
+      "duration": 181,
+      "loudnorm": "-11.70,0.71,3.00,-21.76,-0.96",
+      "filename": "processed_025b1e7dcc1a1d7b227b17b282e8252c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

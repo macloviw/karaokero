@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias -Que No Se Rompa La Noche.mp3",
+      "loudnorm": "-20.58,-2.38,4.10,-30.70,-0.78",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias -Que No Se Rompa La Noche.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a7efbc1-e292-44c1-9515-dec3e1d1a4c4",
+    "title": "Julio Iglesias -Que No Se Rompa La Noche",
+    "titles": {
+      "spa": "Julio Iglesias -Que No Se Rompa La Noche"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:40:45.855Z",
+    "modified_at": "2022-11-03T22:40:46.236Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fbd701d0775e7f8ad85c597a7a5f90ba.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3462469,
+      "gain": 3.26,
+      "duration": 216,
+      "loudnorm": "-20.58,-2.38,4.10,-30.70,-0.78",
+      "filename": "processed_60577227fa11795eed8a800811cd30ec.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

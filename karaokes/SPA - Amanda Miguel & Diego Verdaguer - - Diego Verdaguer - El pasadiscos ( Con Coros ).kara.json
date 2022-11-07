@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Amanda Miguel & Diego Verdaguer - - Diego Verdaguer - El pasadiscos ( Con Coros ).mp3",
+      "loudnorm": "-10.62,0.95,7.30,-20.87,-1.43",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Amanda Miguel & Diego Verdaguer - - Diego Verdaguer - El pasadiscos ( Con Coros ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6581f2d-f540-4ed9-8eff-9de610548a16",
+    "title": "Diego Verdaguer - El pasadiscos ( Con Coros )",
+    "titles": {
+      "spa": "Diego Verdaguer - El pasadiscos ( Con Coros )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "41b77178-367b-4eab-8d5e-0666cfab0afe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:12:36.283Z",
+    "modified_at": "2022-11-03T04:12:36.688Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_73aaaf87d70796b958b63b18323d17fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6189231,
+      "gain": -7.59,
+      "duration": 257,
+      "loudnorm": "-10.62,0.95,7.30,-20.87,-1.43",
+      "filename": "processed_ff1ae9f9d6dabe93b1cd301c28628a16.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

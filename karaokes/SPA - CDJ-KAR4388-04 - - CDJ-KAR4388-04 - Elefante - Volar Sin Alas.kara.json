@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4388-04 - - CDJ-KAR4388-04 - Elefante - Volar Sin Alas.mp3",
+      "loudnorm": "-10.40,0.93,4.50,-20.50,-0.81",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4388-04 - - CDJ-KAR4388-04 - Elefante - Volar Sin Alas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "00a29e01-aa72-40d9-a043-f1d74cb0d5e5",
+    "title": "CDJ-KAR4388-04 - Elefante - Volar Sin Alas",
+    "titles": {
+      "spa": "CDJ-KAR4388-04 - Elefante - Volar Sin Alas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "00396171-c24d-4003-81ba-e497a73ef8fc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:51:49.527Z",
+    "modified_at": "2022-11-03T21:51:49.960Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cb6f491d9777fc96fe8587c6d48ea1b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3853260,
+      "gain": -6.36,
+      "duration": 240,
+      "loudnorm": "-10.40,0.93,4.50,-20.50,-0.81",
+      "filename": "processed_872d8e79bd0223342c2371e491b9293b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

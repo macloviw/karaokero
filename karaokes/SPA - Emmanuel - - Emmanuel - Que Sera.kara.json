@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - Emmanuel - Que Sera.MP3",
+      "loudnorm": "-14.06,0.74,3.40,-24.40,-0.29",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - Emmanuel - Que Sera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a29614ee-6e9d-435d-855b-0bc4ee8edf9b",
+    "title": "Emmanuel - Que Sera",
+    "titles": {
+      "spa": "Emmanuel - Que Sera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:44:14.348Z",
+    "modified_at": "2022-11-03T04:44:15.002Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5431039,
+      "gain": -4.03,
+      "duration": 271,
+      "loudnorm": "-14.06,0.74,3.40,-24.40,-0.29",
+      "filename": "processed_a662ce9a9ee04d4ea07d79558229d95f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5431039,
+      "gain": -4.03,
+      "duration": 271,
+      "loudnorm": "-14.06,0.74,3.40,-24.40,-0.29",
+      "filename": "processed_7c1a3730e2fff081471963418c1be10a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

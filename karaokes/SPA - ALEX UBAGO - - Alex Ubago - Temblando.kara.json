@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX UBAGO - - Alex Ubago - Temblando.mp3",
+      "loudnorm": "-16.82,-3.20,10.30,-27.18,-0.82",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX UBAGO - - Alex Ubago - Temblando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ca2444a-38cf-4f0a-939f-14906515b3f8",
+    "title": "Alex Ubago - Temblando",
+    "titles": {
+      "spa": "Alex Ubago - Temblando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b55c95d-31be-42a1-88a3-d1e0b29146c6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:16:57.207Z",
+    "modified_at": "2022-11-03T01:16:57.628Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21cab5322b9871572b8fe437f51b0179.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4883530,
+      "gain": -3.14,
+      "duration": 203,
+      "loudnorm": "-16.82,-3.20,10.30,-27.18,-0.82",
+      "filename": "processed_1fe5375791a289f7c0a09727fe53dbd1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

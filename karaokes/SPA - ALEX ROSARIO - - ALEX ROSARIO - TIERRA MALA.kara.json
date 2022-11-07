@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX ROSARIO - - ALEX ROSARIO - TIERRA MALA.mp3",
+      "loudnorm": "-11.50,1.89,3.90,-21.59,0.03",
+      "duration": 331,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX ROSARIO - - ALEX ROSARIO - TIERRA MALA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba8024cd-bea3-4bea-a4ae-8b9b5a10598b",
+    "title": "ALEX ROSARIO - TIERRA MALA",
+    "titles": {
+      "spa": "ALEX ROSARIO - TIERRA MALA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4710e87e-a665-42fb-b197-613df101b5a6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:02:01.014Z",
+    "modified_at": "2022-11-02T22:02:01.822Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_131ad8a742a66b8da3bcc89902468e64.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6100207,
+      "gain": -7.61,
+      "duration": 331,
+      "loudnorm": "-11.50,1.89,3.90,-21.59,0.03",
+      "filename": "processed_719ffa38eebe58c9d54002c52fa3b0ef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Depache Mode - - Depache Mode - Enjoy the silence.mp3",
+      "loudnorm": "-19.51,-2.63,2.70,-29.65,-0.46",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Depache Mode - - Depache Mode - Enjoy the silence.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d979c8c-fca0-4913-94fa-d463bf4eb0ca",
+    "title": "Depache Mode - Enjoy the silence",
+    "titles": {
+      "spa": "Depache Mode - Enjoy the silence"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "93cd5cda-a86a-4f3e-9f78-4745ecda30f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:19:21.999Z",
+    "modified_at": "2022-11-04T00:19:22.392Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_28b5e5e1cbbe4222d45e3f623510e55e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4242799,
+      "gain": 2.1,
+      "duration": 265,
+      "loudnorm": "-19.51,-2.63,2.70,-29.65,-0.46",
+      "filename": "processed_2f300d74dd9deddf0d9b5963a1034f5f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eve's Plum - - I Want It All.MP3",
+      "loudnorm": "-14.92,-0.81,4.80,-24.98,-0.72",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eve's Plum - - I Want It All.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bc92e992-0c1c-4882-b88f-2bc7c53f9e21",
+    "title": "I Want It All",
+    "titles": {
+      "spa": "I Want It All"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "8cade8e4-fb2c-403a-8082-4da3f275e7db"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:56:50.448Z",
+    "modified_at": "2022-11-02T21:56:51.521Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4116159,
+      "gain": -3.2,
+      "duration": 257,
+      "loudnorm": "-14.92,-0.81,4.80,-24.98,-0.72",
+      "filename": "processed_c25d44f43302a9f4675b44149a7fe4ce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4116159,
+      "gain": -3.2,
+      "duration": 257,
+      "loudnorm": "-14.92,-0.81,4.80,-24.98,-0.72",
+      "filename": "processed_e92e7c8925dfd57eabb4a3305ad87a18.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

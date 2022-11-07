@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISABEL PANTOJA - - 08.- Queriendo y no.mp3",
+      "loudnorm": "-14.25,1.12,3.80,-24.32,-0.58",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISABEL PANTOJA - - 08.- Queriendo y no.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4aead79-aef4-41cb-8302-f7e7cd8eb588",
+    "title": "08.- Queriendo y no",
+    "titles": {
+      "spa": "08.- Queriendo y no"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ca0a4963-49c9-4f5a-886d-ed2e8febd3e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:52:58.093Z",
+    "modified_at": "2022-11-03T05:52:58.549Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03c2c76e2fba684aa84cc2c9733d04ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5115840,
+      "gain": -2.92,
+      "duration": 319,
+      "loudnorm": "-14.25,1.12,3.80,-24.32,-0.58",
+      "filename": "processed_c121da0eea468d0b33c2d7b9527c14a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

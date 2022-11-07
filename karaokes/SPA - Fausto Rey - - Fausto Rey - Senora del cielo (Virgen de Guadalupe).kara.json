@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fausto Rey - - Fausto Rey - Senora del cielo (Virgen de Guadalupe).mp3",
+      "loudnorm": "-13.12,-2.66,11.00,-23.58,-1.98",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fausto Rey - - Fausto Rey - Senora del cielo (Virgen de Guadalupe).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "61be6401-caaa-4668-b406-9927de34ae11",
+    "title": "Fausto Rey - Señora del cielo (Virgen de Guadalupe)",
+    "titles": {
+      "spa": "Fausto Rey - Señora del cielo (Virgen de Guadalupe)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7c2d7693-0c8d-4752-84f4-31b48ea72490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:16:38.467Z",
+    "modified_at": "2022-11-04T03:16:38.849Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9cf49400b950f79ac9353d9b29cc4195.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7947590,
+      "gain": -5.43,
+      "duration": 198,
+      "loudnorm": "-13.12,-2.66,11.00,-23.58,-1.98",
+      "filename": "processed_b2c8684e2aaf1556f0bc0c12057ba284.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

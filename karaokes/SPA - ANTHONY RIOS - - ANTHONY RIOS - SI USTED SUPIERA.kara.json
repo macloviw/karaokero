@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - SI USTED SUPIERA.mp3",
+      "loudnorm": "-16.69,-0.68,5.50,-26.88,-1.07",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - SI USTED SUPIERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cecd8334-52a3-426d-8ab9-d73bed6de8fa",
+    "title": "ANTHONY RIOS   -   SI USTED SUPIERA",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   SI USTED SUPIERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:49:10.758Z",
+    "modified_at": "2022-11-03T01:49:11.171Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4dd4928e3a77c27a803f25838764e26b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6165707,
+      "gain": -1.76,
+      "duration": 220,
+      "loudnorm": "-16.69,-0.68,5.50,-26.88,-1.07",
+      "filename": "processed_4e8183fe122da848d24d4e1ff2b2e768.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

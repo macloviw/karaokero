@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Antony Santos - Amor total.mp3",
+      "loudnorm": "-13.54,1.75,3.20,-23.56,-0.94",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Antony Santos - Amor total.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96ac1e69-0f49-43e0-af01-2319aa88a7df",
+    "title": "Antony Santos - Amor total",
+    "titles": {
+      "spa": "Antony Santos - Amor total"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:38:43.422Z",
+    "modified_at": "2022-11-02T22:38:44.103Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f10c0b50605736851335ddcf46930bae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4071771,
+      "gain": -4.32,
+      "duration": 254,
+      "loudnorm": "-13.54,1.75,3.20,-23.56,-0.94",
+      "filename": "processed_89dcac7f9589606188142073ad4e8c80.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

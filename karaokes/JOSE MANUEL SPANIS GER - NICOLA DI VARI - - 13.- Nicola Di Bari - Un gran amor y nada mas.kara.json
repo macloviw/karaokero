@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 13.- Nicola Di Bari - Un gran amor y nada mas.mp3",
+      "loudnorm": "-19.47,-3.46,9.70,-29.82,-1.04",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 13.- Nicola Di Bari - Un gran amor y nada mas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "480faaea-ef2a-49a1-812a-a5122e1962b9",
+    "title": "13.- Nicola Di Bari - Un gran amor y nada mas",
+    "titles": {
+      "spa": "13.- Nicola Di Bari - Un gran amor y nada mas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:41:19.444Z",
+    "modified_at": "2022-11-04T07:41:19.814Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d292cce9bf17153cf7403405c91d44b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3527207,
+      "gain": 3.24,
+      "duration": 220,
+      "loudnorm": "-19.47,-3.46,9.70,-29.82,-1.04",
+      "filename": "processed_1b7b327083fd3e2e5d9bf0ee240612ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

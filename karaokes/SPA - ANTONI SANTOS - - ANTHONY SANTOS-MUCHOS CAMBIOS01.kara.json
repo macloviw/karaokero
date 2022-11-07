@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - ANTHONY SANTOS-MUCHOS CAMBIOS01.mp3",
+      "loudnorm": "-14.36,0.43,3.80,-24.38,-0.56",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - ANTHONY SANTOS-MUCHOS CAMBIOS01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d3952c0-b626-4cab-9424-d78a2685f5c1",
+    "title": "ANTHONY SANTOS-MUCHOS CAMBIOS01",
+    "titles": {
+      "spa": "ANTHONY SANTOS-MUCHOS CAMBIOS01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:48:14.667Z",
+    "modified_at": "2022-11-02T22:48:15.255Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_16f72c376bd3494762a94aaa87e76f80.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7010106,
+      "gain": -5.62,
+      "duration": 291,
+      "loudnorm": "-14.36,0.43,3.80,-24.38,-0.56",
+      "filename": "processed_31c90a4cd5b247ec1d3947d761a2ae42.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

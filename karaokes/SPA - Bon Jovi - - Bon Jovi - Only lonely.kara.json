@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bon Jovi - - Bon Jovi - Only lonely.mp3",
+      "loudnorm": "-12.67,-2.00,9.50,-23.04,-0.71",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bon Jovi - - Bon Jovi - Only lonely.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f340c22f-c330-43b1-819e-3b73ee1cd64b",
+    "title": "Bon Jovi - Only lonely",
+    "titles": {
+      "spa": "Bon Jovi - Only lonely"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f7085e28-5d70-4bf1-97f2-9e9750c2d9ed"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:20:42.674Z",
+    "modified_at": "2022-11-03T15:20:43.160Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8cd7404ab0ce960fde366a43e50ae54d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7611967,
+      "gain": -4.97,
+      "duration": 317,
+      "loudnorm": "-12.67,-2.00,9.50,-23.04,-0.71",
+      "filename": "processed_58f0b24824f3b6c367f59292f5dc96e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

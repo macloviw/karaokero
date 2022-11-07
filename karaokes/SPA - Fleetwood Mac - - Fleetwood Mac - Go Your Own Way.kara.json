@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Go Your Own Way.MP3",
+      "loudnorm": "-20.58,-3.36,3.90,-30.69,-0.78",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Go Your Own Way.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df390fd6-1f82-47a4-80cc-e26cc9249b80",
+    "title": "Fleetwood Mac - Go Your Own Way",
+    "titles": {
+      "spa": "Fleetwood Mac - Go Your Own Way"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7269b91c-1e09-4b6e-a857-8facb8dbbec2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:41:53.860Z",
+    "modified_at": "2022-11-04T00:41:54.308Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3674793,
+      "gain": 2.9,
+      "duration": 229,
+      "loudnorm": "-20.58,-3.36,3.90,-30.69,-0.78",
+      "filename": "processed_bbd62861e906332a47be3b1489965eb5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3674793,
+      "gain": 2.9,
+      "duration": 229,
+      "loudnorm": "-20.58,-3.36,3.90,-30.69,-0.78",
+      "filename": "processed_67a9916f68e4b2725bb0df34541f4050.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - DAVID BISBAL - MIENTEME.mp3",
+      "loudnorm": "-7.98,6.35,5.10,-18.01,-1.87",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - DAVID BISBAL - MIENTEME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bdd0c5cb-1a77-4de7-997c-c48a2296edbd",
+    "title": "DAVID BISBAL   -   MIENTEME",
+    "titles": {
+      "spa": "DAVID BISBAL   -   MIENTEME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:04:51.118Z",
+    "modified_at": "2022-11-03T04:04:51.539Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ef78680c3259bed970575a2b8bea4170.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3507396,
+      "gain": -9.45,
+      "duration": 219,
+      "loudnorm": "-7.98,6.35,5.10,-18.01,-1.87",
+      "filename": "processed_cf1132a4ff4df6ac6e58befdba955c63.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

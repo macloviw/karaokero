@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - Sunday girl.mp3",
+      "loudnorm": "-18.09,-1.38,1.70,-28.23,-0.15",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - Sunday girl.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "318fe0a9-1468-46da-b2c9-f758aba0a239",
+    "title": "Blondie - Sunday girl",
+    "titles": {
+      "spa": "Blondie - Sunday girl"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:13:20.527Z",
+    "modified_at": "2022-11-03T15:13:21.000Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a13274abff6577ec86c86ba4f16ff906.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2853503,
+      "gain": 0.32,
+      "duration": 178,
+      "loudnorm": "-18.09,-1.38,1.70,-28.23,-0.15",
+      "filename": "processed_971f2f4aacb13b17c55b7caa165dbe42.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

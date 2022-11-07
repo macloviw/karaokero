@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DYANGO - - DYANGO - ADIOS AMOR ADIOS.mp3",
+      "loudnorm": "-9.26,4.50,7.40,-19.57,-1.29",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DYANGO - - DYANGO - ADIOS AMOR ADIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a4691b60-09d1-419f-9199-8ba31831e64a",
+    "title": "DYANGO - ADIOS AMOR ADIOS",
+    "titles": {
+      "spa": "DYANGO - ADIOS AMOR ADIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dfe7efba-e53e-412b-98c6-fec7cea6e924"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:17:27.677Z",
+    "modified_at": "2022-11-03T04:17:28.093Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_464a5f8f116dafdea60ffd508d3d770b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3884061,
+      "gain": -8.03,
+      "duration": 277,
+      "loudnorm": "-9.26,4.50,7.40,-19.57,-1.29",
+      "filename": "processed_8fe24345f8a2484d17e0765f86dd77c2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

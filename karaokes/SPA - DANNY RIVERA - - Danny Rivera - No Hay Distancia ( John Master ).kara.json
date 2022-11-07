@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - Danny Rivera - No Hay Distancia ( John Master ).mp3",
+      "loudnorm": "-15.32,0.38,12.20,-25.65,-0.06",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - Danny Rivera - No Hay Distancia ( John Master ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c91e8218-bc9c-43a9-b345-8605e8ccd36c",
+    "title": "Danny Rivera - No Hay Distancia ( John Master )",
+    "titles": {
+      "spa": "Danny Rivera - No Hay Distancia ( John Master )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:00:28.283Z",
+    "modified_at": "2022-11-04T03:00:28.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a7ce2c7b95168f2d3c1b23afabf4d41.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12104194,
+      "gain": -4.01,
+      "duration": 302,
+      "loudnorm": "-15.32,0.38,12.20,-25.65,-0.06",
+      "filename": "processed_b0baf3f3c2f29c34d2595aff722b3a06.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - LA LUZ DE MIS OJOS ARIS395-01 G.mp3",
+      "loudnorm": "-24.68,-3.93,2.60,-34.68,-0.17",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - LA LUZ DE MIS OJOS ARIS395-01 G.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae2bf873-9d2c-4c47-8e09-edad39adffa8",
+    "title": "ELVIS MARTINEZ - LA LUZ DE MIS OJOS ARIS395-01 G",
+    "titles": {
+      "spa": "ELVIS MARTINEZ - LA LUZ DE MIS OJOS ARIS395-01 G"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:36:12.318Z",
+    "modified_at": "2022-11-02T23:36:12.744Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_909b23d12dd8b301aa64895f30d58261.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3601650,
+      "gain": 6.23,
+      "duration": 224,
+      "loudnorm": "-24.68,-3.93,2.60,-34.68,-0.17",
+      "filename": "processed_d38139543e22573804b2e7cf7da472db.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

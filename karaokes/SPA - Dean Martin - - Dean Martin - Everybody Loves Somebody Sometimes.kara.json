@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dean Martin - - Dean Martin - Everybody Loves Somebody Sometimes.mp3",
+      "loudnorm": "-13.37,0.72,3.70,-23.47,-0.97",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dean Martin - - Dean Martin - Everybody Loves Somebody Sometimes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a1aff49-6a47-4e3f-acbc-847e066dd4ec",
+    "title": "Dean Martin - Everybody Loves Somebody Sometimes",
+    "titles": {
+      "spa": "Dean Martin - Everybody Loves Somebody Sometimes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "10d44aef-4147-4b60-b22e-dfaec7340cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:18:24.172Z",
+    "modified_at": "2022-11-04T00:18:24.556Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cfe0be4865d8369eed93d5fa722af3dc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2851413,
+      "gain": -3.2,
+      "duration": 178,
+      "loudnorm": "-13.37,0.72,3.70,-23.47,-0.97",
+      "filename": "processed_fce2975ec428d837481d4ecd597c47cc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

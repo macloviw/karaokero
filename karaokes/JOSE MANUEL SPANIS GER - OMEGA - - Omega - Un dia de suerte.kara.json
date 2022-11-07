@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OMEGA - - Omega - Un dia de suerte.mp3",
+      "loudnorm": "-14.25,1.20,5.50,-24.33,-0.95",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OMEGA - - Omega - Un dia de suerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8206cd2e-0e8c-446a-ba85-30a4d883d0ac",
+    "title": "Omega - Un dia de suerte",
+    "titles": {
+      "spa": "Omega - Un dia de suerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9fbf837d-a0e4-4cca-9e87-1b306226c172"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:58:49.349Z",
+    "modified_at": "2022-11-04T07:58:49.726Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f2d65e9781f752d1088d0edbde8381d7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4948732,
+      "gain": -4.95,
+      "duration": 309,
+      "loudnorm": "-14.25,1.20,5.50,-24.33,-0.95",
+      "filename": "processed_5beded7eb249498d36f71ea028d8ea37.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

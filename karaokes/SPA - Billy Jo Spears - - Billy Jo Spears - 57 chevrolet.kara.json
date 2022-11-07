@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Jo Spears - - Billy Jo Spears - 57 chevrolet.mp3",
+      "loudnorm": "-17.25,-2.45,2.30,-27.35,-0.51",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Jo Spears - - Billy Jo Spears - 57 chevrolet.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aaffedd7-57bd-41c9-b5a7-3e1fd5320ec0",
+    "title": "Billy Jo Spears - 57 chevrolet",
+    "titles": {
+      "spa": "Billy Jo Spears - 57 chevrolet"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d86d7900-32ba-49ea-955a-5e38db9c9656"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:02:45.969Z",
+    "modified_at": "2022-11-04T00:02:46.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_20b2cbdc80d0a04ba3dc1f661cde4254.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3000626,
+      "gain": 1.32,
+      "duration": 187,
+      "loudnorm": "-17.25,-2.45,2.30,-27.35,-0.51",
+      "filename": "processed_cc15fa7bfab84a80326095508b3570fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

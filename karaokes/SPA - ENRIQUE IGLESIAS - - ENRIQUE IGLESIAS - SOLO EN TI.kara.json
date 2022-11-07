@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - SOLO EN TI.MP3",
+      "loudnorm": "-10.80,-0.05,7.10,-20.96,-1.01",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - SOLO EN TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "007e1cd1-44ba-4a8f-a359-02a9cebc4b84",
+    "title": "ENRIQUE IGLESIAS   -   SOLO EN TI",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   SOLO EN TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:00:38.998Z",
+    "modified_at": "2022-11-03T05:00:39.657Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8468995,
+      "gain": -7.97,
+      "duration": 211,
+      "loudnorm": "-10.80,-0.05,7.10,-20.96,-1.01",
+      "filename": "processed_1464754193506209701b2cce456e0c80.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8468995,
+      "gain": -7.97,
+      "duration": 211,
+      "loudnorm": "-10.80,-0.05,7.10,-20.96,-1.01",
+      "filename": "processed_8ee23c29b6d261547e4ac880b976ef13.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

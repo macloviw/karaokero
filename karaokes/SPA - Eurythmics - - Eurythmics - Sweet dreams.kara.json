@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eurythmics - - Eurythmics - Sweet dreams.mp3",
+      "loudnorm": "-17.43,-2.05,4.20,-27.51,-0.94",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eurythmics - - Eurythmics - Sweet dreams.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "00ffc10b-0a56-4290-b7d5-aab867fbe1b1",
+    "title": "Eurythmics - Sweet dreams",
+    "titles": {
+      "spa": "Eurythmics - Sweet dreams"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6165a446-a36d-47e7-9281-8dffecaf5079"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:37:28.468Z",
+    "modified_at": "2022-11-04T00:37:28.850Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_409f1e03a38b98dd9a9d0cc29e388230.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3362577,
+      "gain": -0.26,
+      "duration": 210,
+      "loudnorm": "-17.43,-2.05,4.20,-27.51,-0.94",
+      "filename": "processed_0d12ed5f6df2fc79b0b0af6525443ecb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

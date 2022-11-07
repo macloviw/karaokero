@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - George Michael - - George Michael - Fast Love.mp3",
+      "loudnorm": "-18.55,-4.21,4.10,-28.77,0.00",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - George Michael - - George Michael - Fast Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9376dcda-fea1-48f3-b48f-09db9966d90d",
+    "title": "George Michael - Fast Love",
+    "titles": {
+      "spa": "George Michael - Fast Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3e248bac-31b5-4e16-9daa-c472e0d78fd0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:51:14.429Z",
+    "modified_at": "2022-11-04T00:51:14.814Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_69f3199ac9ed361a443fb7c20c643e12.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6187021,
+      "gain": 0.29,
+      "duration": 309,
+      "loudnorm": "-18.55,-4.21,4.10,-28.77,0.00",
+      "filename": "processed_840d6d5bef32b3c32cfcc6449aa54ea1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

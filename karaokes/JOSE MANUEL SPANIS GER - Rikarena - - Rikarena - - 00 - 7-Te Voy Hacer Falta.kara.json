@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Rikarena - - Rikarena - - 00 - 7-Te Voy Hacer Falta.mp3",
+      "loudnorm": "-14.64,1.94,4.00,-24.69,-0.10",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Rikarena - - Rikarena - - 00 - 7-Te Voy Hacer Falta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "211d8448-f01b-409f-aaec-3a2e05939f1d",
+    "title": "Rikarena -  - 00 - 7-Te Voy Hacer Falta",
+    "titles": {
+      "spa": "Rikarena -  - 00 - 7-Te Voy Hacer Falta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "d05c2940-060a-41aa-a2e1-cb332e109e7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:59:56.809Z",
+    "modified_at": "2022-11-04T10:59:57.180Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7617bbe35f08a784b2ee639185cb5ffd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4141120,
+      "gain": -5.14,
+      "duration": 258,
+      "loudnorm": "-14.64,1.94,4.00,-24.69,-0.10",
+      "filename": "processed_a375ec1ffdeb9b04724cae96261d03ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

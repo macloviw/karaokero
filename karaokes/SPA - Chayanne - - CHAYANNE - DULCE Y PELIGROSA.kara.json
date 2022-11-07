@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - CHAYANNE - DULCE Y PELIGROSA.MP3",
+      "loudnorm": "-19.48,-1.72,4.20,-29.60,-0.77",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - CHAYANNE - DULCE Y PELIGROSA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6674012e-59e0-400b-a4d6-c0e65403097a",
+    "title": "CHAYANNE   -   DULCE Y PELIGROSA",
+    "titles": {
+      "spa": "CHAYANNE   -   DULCE Y PELIGROSA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:15:33.084Z",
+    "modified_at": "2022-11-03T03:15:33.615Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3777065,
+      "gain": 0.88,
+      "duration": 235,
+      "loudnorm": "-19.48,-1.72,4.20,-29.60,-0.77",
+      "filename": "processed_88f143b7b9564cb7c711f753fa4b2c68.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3777065,
+      "gain": 0.88,
+      "duration": 235,
+      "loudnorm": "-19.48,-1.72,4.20,-29.60,-0.77",
+      "filename": "processed_637ebed8b4faa79a558695ebc6349310.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

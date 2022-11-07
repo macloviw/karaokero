@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - La Mazucamba.MP3",
+      "loudnorm": "-14.77,-0.21,4.00,-25.08,-0.73",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - La Mazucamba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "21c240bf-08b2-4abf-84d6-0dc4aba51372",
+    "title": "Oscar D'Leon - La Mazucamba",
+    "titles": {
+      "spa": "Oscar D'Leon - La Mazucamba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:02:48.424Z",
+    "modified_at": "2022-11-04T08:02:48.861Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3962880,
+      "gain": -3.32,
+      "duration": 247,
+      "loudnorm": "-14.77,-0.21,4.00,-25.08,-0.73",
+      "filename": "processed_9fc39a868de926abe33ed5eefba64406.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3962880,
+      "gain": -3.32,
+      "duration": 247,
+      "loudnorm": "-14.77,-0.21,4.00,-25.08,-0.73",
+      "filename": "processed_d1e81fcc7dfd46911d99c644f02850f1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

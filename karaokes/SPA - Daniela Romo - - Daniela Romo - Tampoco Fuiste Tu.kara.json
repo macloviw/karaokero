@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniela Romo - - Daniela Romo - Tampoco Fuiste Tu.mp3",
+      "loudnorm": "-10.74,3.55,6.70,-20.79,-0.85",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniela Romo - - Daniela Romo - Tampoco Fuiste Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c31807d4-b83c-4eaa-a426-3d3f3b6726e6",
+    "title": "Daniela Romo - Tampoco Fuiste Tu",
+    "titles": {
+      "spa": "Daniela Romo - Tampoco Fuiste Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c9055891-729e-44ce-bf42-3b359f73ae48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:53:50.828Z",
+    "modified_at": "2022-11-03T03:53:51.258Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8c970bedb9d990acd32a8a2e002b5a2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3478924,
+      "gain": -9.17,
+      "duration": 217,
+      "loudnorm": "-10.74,3.55,6.70,-20.79,-0.85",
+      "filename": "processed_920a7174251649f98094c8b2130d5e68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

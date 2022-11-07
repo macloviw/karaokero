@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Tribu Del Sol - - Tribu Del Sol - Por Ti ( John Master ).mp3",
+      "loudnorm": "-14.26,0.25,4.80,-24.36,-0.26",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Tribu Del Sol - - Tribu Del Sol - Por Ti ( John Master ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6388c779-4bee-47b5-be64-db743278f62e",
+    "title": "Tribu Del Sol - Por Ti ( John Master )",
+    "titles": {
+      "spa": "Tribu Del Sol - Por Ti ( John Master )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "cbff7e8a-50b8-4755-a69c-990da1612489"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:43:27.296Z",
+    "modified_at": "2022-11-04T08:43:27.745Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4db1e8e5ef75cf96e8d9d8802ba4dc8d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10952717,
+      "gain": -5.5,
+      "duration": 273,
+      "loudnorm": "-14.26,0.25,4.80,-24.36,-0.26",
+      "filename": "processed_5844eedee3a6af588ebce5d2ca251c54.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

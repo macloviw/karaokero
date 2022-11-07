@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - WITHOUT YOU.CDG.MP3",
+      "loudnorm": "-14.30,-5.55,3.30,-24.34,-0.42",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - WITHOUT YOU.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1c8c1dad-f43e-4ac7-8ae6-d86fd6333e53",
+    "title": "WITHOUT YOU.CDG",
+    "titles": {
+      "spa": "WITHOUT YOU.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:22:36.569Z",
+    "modified_at": "2022-11-04T10:22:37.156Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4610475,
+      "gain": -2.77,
+      "duration": 288,
+      "loudnorm": "-14.30,-5.55,3.30,-24.34,-0.42",
+      "filename": "processed_7ac0388af890eb6b19941b22111ed9a1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4610475,
+      "gain": -2.77,
+      "duration": 288,
+      "loudnorm": "-14.30,-5.55,3.30,-24.34,-0.42",
+      "filename": "processed_2d937a0018489d89edbee00f9e7bd409.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

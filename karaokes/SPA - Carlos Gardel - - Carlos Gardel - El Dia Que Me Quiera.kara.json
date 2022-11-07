@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Gardel - - Carlos Gardel - El Dia Que Me Quiera.mp3",
+      "loudnorm": "-13.95,-0.83,6.10,-24.36,-1.20",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Gardel - - Carlos Gardel - El Dia Que Me Quiera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8e0acf3-b0e8-40ea-bdda-b6644ff73c3a",
+    "title": "Carlos Gardel - El Dia Que Me Quiera",
+    "titles": {
+      "spa": "Carlos Gardel - El Dia Que Me Quiera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68b8c08a-c68f-4eb9-a61a-66b0b51dde21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:56:11.652Z",
+    "modified_at": "2022-11-03T02:56:12.059Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b574f76b8342c6c334f63dbe12cf2e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3619912,
+      "gain": -4.28,
+      "duration": 226,
+      "loudnorm": "-13.95,-0.83,6.10,-24.36,-1.20",
+      "filename": "processed_ffeb67ab28312d1e5e3a902f524a5fbd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

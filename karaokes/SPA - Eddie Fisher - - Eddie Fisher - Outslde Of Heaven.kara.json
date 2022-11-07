@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eddie Fisher - - Eddie Fisher - Outslde Of Heaven.mp3",
+      "loudnorm": "-18.33,-1.04,8.90,-28.50,-1.18",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eddie Fisher - - Eddie Fisher - Outslde Of Heaven.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7ddf57a-f66d-414a-9a7e-416b1a1396fc",
+    "title": "Eddie Fisher - Outslde Of Heaven",
+    "titles": {
+      "spa": "Eddie Fisher - Outslde Of Heaven"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "8afa34d2-d1a3-44df-a381-e7cd80855789"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:20:30.843Z",
+    "modified_at": "2022-11-03T16:20:31.511Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eb162fdf8fa8b5016692cd1cfde0095e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2761552,
+      "gain": -1.02,
+      "duration": 172,
+      "loudnorm": "-18.33,-1.04,8.90,-28.50,-1.18",
+      "filename": "processed_123e7bbdd4bbd2b31567511e91fda397.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

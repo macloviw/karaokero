@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - TODO ESTA BIEN.mp3",
+      "loudnorm": "-8.83,3.53,3.30,-18.90,-0.88",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - TODO ESTA BIEN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dce7888b-6b73-4ef9-9da1-a51db5f48fb6",
+    "title": "JUAN GABRIEL   -   TODO ESTA BIEN",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   TODO ESTA BIEN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:42:23.053Z",
+    "modified_at": "2022-11-03T07:42:23.490Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6750d0c9e82f54358fc2874f73fc522.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5616000,
+      "gain": -8.6,
+      "duration": 233,
+      "loudnorm": "-8.83,3.53,3.30,-18.90,-0.88",
+      "filename": "processed_fe9eff832759af48b7775afd675e8968.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

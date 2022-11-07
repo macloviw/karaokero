@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-QUE NO SE ENTERE.mp3",
+      "loudnorm": "-11.09,1.00,3.40,-21.23,0.24",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-QUE NO SE ENTERE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7c2754e1-93da-4b83-9f1e-10683d64ac3b",
+    "title": "ALICIA VILLAREAL-QUE NO SE ENTERE",
+    "titles": {
+      "spa": "ALICIA VILLAREAL-QUE NO SE ENTERE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:24:10.539Z",
+    "modified_at": "2022-11-03T01:24:10.946Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7fcf9610dc8eef55ddeae2e4d259cb04.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2449364,
+      "gain": -6.85,
+      "duration": 174,
+      "loudnorm": "-11.09,1.00,3.40,-21.23,0.24",
+      "filename": "processed_49e8d406eb681ebe34138807ceb5496b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

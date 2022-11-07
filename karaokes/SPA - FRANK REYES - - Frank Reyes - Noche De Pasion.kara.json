@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - Noche De Pasion.mp3",
+      "loudnorm": "-12.40,0.68,3.40,-22.44,-0.68",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - Noche De Pasion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e6df0d7-eb80-4cde-bd9f-5ffeca81a404",
+    "title": "Frank Reyes - Noche De Pasion",
+    "titles": {
+      "spa": "Frank Reyes - Noche De Pasion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:43:51.655Z",
+    "modified_at": "2022-11-02T23:43:52.130Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_63a3166d0c432e34c15cc6867c5d55f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6615878,
+      "gain": -4.95,
+      "duration": 275,
+      "loudnorm": "-12.40,0.68,3.40,-22.44,-0.68",
+      "filename": "processed_b7aef35400ba35ad6ddd77e4815dd18a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

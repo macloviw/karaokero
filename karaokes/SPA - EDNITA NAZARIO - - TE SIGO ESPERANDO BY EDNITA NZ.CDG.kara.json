@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - TE SIGO ESPERANDO BY EDNITA NZ.CDG.MP3",
+      "loudnorm": "-13.11,0.01,6.00,-23.25,-0.60",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - TE SIGO ESPERANDO BY EDNITA NZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "de3eac4a-ecbe-4acd-93ab-0b82c3014acf",
+    "title": "TE SIGO ESPERANDO BY EDNITA NZ.CDG",
+    "titles": {
+      "spa": "TE SIGO ESPERANDO BY EDNITA NZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:28:13.783Z",
+    "modified_at": "2022-11-03T04:28:14.390Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9317452,
+      "gain": -4.49,
+      "duration": 232,
+      "loudnorm": "-13.11,0.01,6.00,-23.25,-0.60",
+      "filename": "processed_8049b9b1853a4afe03e4c76f5ada6aa1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9317452,
+      "gain": -4.49,
+      "duration": 232,
+      "loudnorm": "-13.11,0.01,6.00,-23.25,-0.60",
+      "filename": "processed_0a28724203e8941f957322dce1516b20.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

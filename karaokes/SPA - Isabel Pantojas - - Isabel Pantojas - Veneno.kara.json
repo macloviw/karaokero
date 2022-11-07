@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Veneno.MP3",
+      "loudnorm": "-16.31,-0.56,2.70,-26.42,-0.05",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Isabel Pantojas - - Isabel Pantojas - Veneno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0d2ccde-2779-4280-8ed3-dc0808a17684",
+    "title": "Isabel Pantojas - Veneno",
+    "titles": {
+      "spa": "Isabel Pantojas - Veneno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "71eaef29-5b1f-44e2-86ef-2332fa38303c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:55:34.436Z",
+    "modified_at": "2022-11-03T05:55:34.906Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3423600,
+      "gain": -0.36,
+      "duration": 213,
+      "loudnorm": "-16.31,-0.56,2.70,-26.42,-0.05",
+      "filename": "processed_0987c5d2c6df347198b2f6ababbb35e3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3423600,
+      "gain": -0.36,
+      "duration": 213,
+      "loudnorm": "-16.31,-0.56,2.70,-26.42,-0.05",
+      "filename": "processed_ffa1dd6a1e39d32301d51322cd0c30f4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - TOO ROSARIO - ME OLVIDE DE VIVIR.mp3",
+      "loudnorm": "-14.31,-0.60,2.20,-24.34,-0.52",
+      "duration": 364,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - TOO ROSARIO - ME OLVIDE DE VIVIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "944f500c-d79a-4e1f-8159-d487a8b64e12",
+    "title": "TOO ROSARIO - ME OLVIDE DE VIVIR",
+    "titles": {
+      "spa": "TOO ROSARIO - ME OLVIDE DE VIVIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:15:05.011Z",
+    "modified_at": "2022-11-04T11:15:05.396Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a144d24bcfe4ce4483aca64b64d7a0a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8745473,
+      "gain": -6.34,
+      "duration": 364,
+      "loudnorm": "-14.31,-0.60,2.20,-24.34,-0.52",
+      "filename": "processed_5c216e88dc428b4a373f52fe7204e504.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

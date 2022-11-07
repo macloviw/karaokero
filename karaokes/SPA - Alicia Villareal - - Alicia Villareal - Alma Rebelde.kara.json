@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Villareal - - Alicia Villareal - Alma Rebelde.mp3",
+      "loudnorm": "-12.83,0.69,4.60,-23.01,-0.39",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Villareal - - Alicia Villareal - Alma Rebelde.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b925f409-3ab0-4857-8da2-cbfebeaa547a",
+    "title": "Alicia Villareal - Alma Rebelde",
+    "titles": {
+      "spa": "Alicia Villareal - Alma Rebelde"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2d5acaa4-ec97-451c-ab11-6b3a3df954d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:26:38.368Z",
+    "modified_at": "2022-11-03T01:26:38.782Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a9867e1cd7d02778832ff54628a29e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6373763,
+      "gain": -6.73,
+      "duration": 265,
+      "loudnorm": "-12.83,0.69,4.60,-23.01,-0.39",
+      "filename": "processed_d454fd2e00ae6ea261c30294fc4fc92b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

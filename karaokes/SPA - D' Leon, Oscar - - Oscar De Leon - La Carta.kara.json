@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - La Carta.mp3",
+      "loudnorm": "-15.32,-1.00,4.30,-25.36,-0.58",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - La Carta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "630b61ab-2593-4faf-a1ba-7d9c05c20235",
+    "title": "Oscar De Leon - La Carta",
+    "titles": {
+      "spa": "Oscar De Leon - La Carta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "89b5218d-f117-42ac-b1db-ce4941c75170"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:58:06.439Z",
+    "modified_at": "2022-11-04T02:58:06.831Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9f5276ecf8a25b7052938e19873faa29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4831232,
+      "gain": -3.26,
+      "duration": 301,
+      "loudnorm": "-15.32,-1.00,4.30,-25.36,-0.58",
+      "filename": "processed_cae69c2d2549368d390ce2d39ebcf2ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

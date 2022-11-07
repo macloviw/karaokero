@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 02 - Jose Jose - Si me dejas ahora.mp3",
+      "loudnorm": "-13.37,1.22,13.00,-23.84,-2.03",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 02 - Jose Jose - Si me dejas ahora.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "29d0a1f8-7695-4556-9c69-d8d3074b9dac",
+    "title": "02 - Jose Jose - Si me dejas ahora",
+    "titles": {
+      "spa": "02 - Jose Jose - Si me dejas ahora"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:37:19.842Z",
+    "modified_at": "2022-11-03T06:37:20.265Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6dab152d40b81dd4ed0aed1051c5e88.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5242139,
+      "gain": -5.28,
+      "duration": 218,
+      "loudnorm": "-13.37,1.22,13.00,-23.84,-2.03",
+      "filename": "processed_baf95c1bcda7be26e8dfe9b473428d4e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

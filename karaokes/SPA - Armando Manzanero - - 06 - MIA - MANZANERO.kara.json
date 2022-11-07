@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - 06 - MIA - MANZANERO.mp3",
+      "loudnorm": "-12.98,0.46,2.20,-23.08,-0.34",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - 06 - MIA - MANZANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ebebb20-ebff-41df-87da-4fbdee36e496",
+    "title": "06 - MIA - MANZANERO",
+    "titles": {
+      "spa": "06 - MIA - MANZANERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:58:00.067Z",
+    "modified_at": "2022-11-03T01:58:00.502Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee95bca916fbee298bc23ecfd1691634.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4989483,
+      "gain": -3.23,
+      "duration": 207,
+      "loudnorm": "-12.98,0.46,2.20,-23.08,-0.34",
+      "filename": "processed_7ac39320c4b1ca4ceb379c025212c093.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

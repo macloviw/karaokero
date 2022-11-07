@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GRUPO NEGROS - - 02 MUCHACHITA DE CAMPO.mp3",
+      "loudnorm": "-14.98,-1.17,10.90,-25.27,-1.97",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GRUPO NEGROS - - 02 MUCHACHITA DE CAMPO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "525d02bb-140f-454e-98ae-13cd56a2824c",
+    "title": "02 MUCHACHITA DE CAMPO",
+    "titles": {
+      "spa": "02 MUCHACHITA DE CAMPO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "988b9a8c-ae5d-4173-9d38-7831b8815f80"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:23:12.271Z",
+    "modified_at": "2022-11-03T22:23:12.651Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_35bb1ab93c23d65db811af81b4e48437.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3610344,
+      "gain": -2.95,
+      "duration": 225,
+      "loudnorm": "-14.98,-1.17,10.90,-25.27,-1.97",
+      "filename": "processed_053557037d192b640d8cf62ef9dc882b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

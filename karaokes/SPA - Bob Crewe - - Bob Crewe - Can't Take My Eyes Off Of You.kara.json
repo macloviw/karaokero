@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Crewe - - Bob Crewe - Can't Take My Eyes Off Of You.mp3",
+      "loudnorm": "-14.18,-0.24,1.70,-24.31,0.13",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Crewe - - Bob Crewe - Can't Take My Eyes Off Of You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca07284e-819c-4051-b8b4-e17c40650b25",
+    "title": "Bob Crewe - Can't Take My Eyes Off Of You",
+    "titles": {
+      "spa": "Bob Crewe - Can't Take My Eyes Off Of You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b61a72f7-7710-4d51-a110-5ee29f206f44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:05:32.113Z",
+    "modified_at": "2022-11-04T00:05:32.493Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9c5e56d019dea83523ffbe62103df17c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5042176,
+      "gain": -1.57,
+      "duration": 210,
+      "loudnorm": "-14.18,-0.24,1.70,-24.31,0.13",
+      "filename": "processed_f6ff38f900bdd6e1d3306bf6fa489a4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

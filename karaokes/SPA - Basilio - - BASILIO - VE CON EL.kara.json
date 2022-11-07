@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Basilio - - BASILIO - VE CON EL.mp3",
+      "loudnorm": "-17.00,-2.60,3.90,-27.18,-0.67",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Basilio - - BASILIO - VE CON EL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "309ee919-e3fd-4e1d-979d-99797fb40569",
+    "title": "BASILIO - VE CON EL",
+    "titles": {
+      "spa": "BASILIO - VE CON EL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b4f31aa-3c62-47b0-9cc9-276825c48da9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:11:55.432Z",
+    "modified_at": "2022-11-03T02:11:56.332Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bce603456aa6244e8d2f8fbeaf91bd55.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6732372,
+      "gain": -0.16,
+      "duration": 280,
+      "loudnorm": "-17.00,-2.60,3.90,-27.18,-0.67",
+      "filename": "processed_45d257d70b785aa594cbc39388e8852e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

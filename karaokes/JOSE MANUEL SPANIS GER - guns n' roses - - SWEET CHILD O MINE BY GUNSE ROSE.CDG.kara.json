@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - SWEET CHILD O MINE BY GUNSE ROSE.CDG.MP3",
+      "loudnorm": "-16.05,-0.01,4.10,-26.19,-0.80",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - SWEET CHILD O MINE BY GUNSE ROSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f81eb177-8b02-4589-a571-264bbf76e61c",
+    "title": "SWEET CHILD O MINE BY GUNSE ROSE.CDG",
+    "titles": {
+      "spa": "SWEET CHILD O MINE BY GUNSE ROSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:21:26.878Z",
+    "modified_at": "2022-11-04T10:21:27.475Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4529809,
+      "gain": -1.99,
+      "duration": 282,
+      "loudnorm": "-16.05,-0.01,4.10,-26.19,-0.80",
+      "filename": "processed_137c4a45811f48363d918b65b825b8cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4529809,
+      "gain": -1.99,
+      "duration": 282,
+      "loudnorm": "-16.05,-0.01,4.10,-26.19,-0.80",
+      "filename": "processed_ad0c9b57b40f89303a12346307291d81.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

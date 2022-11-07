@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Rene Gonzalez - - Rene Gonzalez - Entrare a Jerusalen.mp3",
+      "loudnorm": "-13.54,1.18,12.90,-24.05,-1.40",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Rene Gonzalez - - Rene Gonzalez - Entrare a Jerusalen.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "128d0774-121e-4941-b1fa-fdc4078a857f",
+    "title": "Rene Gonzalez - Entrare a Jerusalen",
+    "titles": {
+      "spa": "Rene Gonzalez - Entrare a Jerusalen"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1177f416-2373-490d-a939-caf731f8c04a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:21:18.843Z",
+    "modified_at": "2022-11-04T08:21:19.215Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bbfd3d47f318ef54817259033639c56d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3241994,
+      "gain": -3.98,
+      "duration": 202,
+      "loudnorm": "-13.54,1.18,12.90,-24.05,-1.40",
+      "filename": "processed_f943cdf309020bb2759d0a1a05c3622e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

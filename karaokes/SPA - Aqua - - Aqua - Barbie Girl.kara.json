@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aqua - - Aqua - Barbie Girl.mp3",
+      "loudnorm": "-16.97,-0.95,6.90,-27.02,-1.12",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aqua - - Aqua - Barbie Girl.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e219beb4-49f3-48e8-8f03-542fde1a0419",
+    "title": "Aqua - Barbie Girl",
+    "titles": {
+      "spa": "Aqua - Barbie Girl"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e065066e-13b7-44a4-96f5-54fbff915779"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:55:23.915Z",
+    "modified_at": "2022-11-03T23:55:24.313Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0bf6b58cbdc7a0dc363b5f6917779369.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3395178,
+      "gain": -3.39,
+      "duration": 212,
+      "loudnorm": "-16.97,-0.95,6.90,-27.02,-1.12",
+      "filename": "processed_7d5106584b6e5f8cbeb7185bab43a846.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

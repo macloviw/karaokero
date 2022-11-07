@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-EL ROLLITO.mp3",
+      "loudnorm": "-11.31,1.30,3.60,-21.39,0.12",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-EL ROLLITO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d837b51-b2d7-48be-b21b-58a388baa0ca",
+    "title": "ALICIA VILLAREAL-EL ROLLITO",
+    "titles": {
+      "spa": "ALICIA VILLAREAL-EL ROLLITO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:23:28.874Z",
+    "modified_at": "2022-11-03T01:23:29.281Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf9502bd159c10d4a9be0480f4bb910b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2561274,
+      "gain": -6.88,
+      "duration": 182,
+      "loudnorm": "-11.31,1.30,3.60,-21.39,0.12",
+      "filename": "processed_fbcd90a595883bd79c4df5119a4de4dc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

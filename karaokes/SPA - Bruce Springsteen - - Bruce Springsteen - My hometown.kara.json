@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - My hometown.mp3",
+      "loudnorm": "-14.90,0.25,2.90,-24.96,-0.85",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - My hometown.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f55fe5e-2839-499a-8292-37c67c1e1cb6",
+    "title": "Bruce Springsteen - My hometown",
+    "titles": {
+      "spa": "Bruce Springsteen - My hometown"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:29:17.619Z",
+    "modified_at": "2022-11-03T15:29:18.028Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6343de4f649ad80399d293adce2dfa56.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4532027,
+      "gain": -1.63,
+      "duration": 283,
+      "loudnorm": "-14.90,0.25,2.90,-24.96,-0.85",
+      "filename": "processed_5a32c173ba7042cc53478e010e1524a6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

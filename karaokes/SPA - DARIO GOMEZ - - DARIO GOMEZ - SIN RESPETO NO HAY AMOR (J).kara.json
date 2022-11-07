@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - SIN RESPETO NO HAY AMOR (J).mp3",
+      "loudnorm": "-12.55,0.92,3.90,-22.59,0.42",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - SIN RESPETO NO HAY AMOR (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "74b76ab3-38e1-4251-b7bf-d4cf7103db51",
+    "title": "DARIO GOMEZ - SIN RESPETO NO HAY AMOR (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - SIN RESPETO NO HAY AMOR (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:02:47.043Z",
+    "modified_at": "2022-11-03T04:02:47.458Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e6953de4319caf13e4700ed1cfe2334f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5933652,
+      "gain": -6.09,
+      "duration": 247,
+      "loudnorm": "-12.55,0.92,3.90,-22.59,0.42",
+      "filename": "processed_fc91601273c20ce2db9a552509c9aa72.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

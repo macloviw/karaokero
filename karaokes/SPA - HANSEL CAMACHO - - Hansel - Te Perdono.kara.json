@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - HANSEL CAMACHO - - Hansel - Te Perdono.mp3",
+      "loudnorm": "-14.47,-0.69,7.50,-24.88,-1.11",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - HANSEL CAMACHO - - Hansel - Te Perdono.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4ad1e49-4fa5-4e1d-87eb-4a38e9108f5a",
+    "title": "Hansel - Te Perdono",
+    "titles": {
+      "spa": "Hansel - Te Perdono"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae3ce3d1-a891-464a-a472-8b97073c012d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:28:24.268Z",
+    "modified_at": "2022-11-04T03:28:24.651Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3224f6b5315358cb79fb04caf48029b9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3791404,
+      "gain": -3.39,
+      "duration": 236,
+      "loudnorm": "-14.47,-0.69,7.50,-24.88,-1.11",
+      "filename": "processed_2219ac8f046ecb64fb26ca7b832916b7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

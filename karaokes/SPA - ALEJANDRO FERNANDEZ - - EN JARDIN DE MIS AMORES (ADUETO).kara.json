@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - EN JARDIN DE MIS AMORES (ADUETO).MP3",
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - EN JARDIN DE MIS AMORES (ADUETO).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "21e58ee9-519a-4c32-a742-9a089dace96e",
+    "title": "EN JARDIN DE MIS AMORES  (ADUETO)",
+    "titles": {
+      "spa": "EN JARDIN DE MIS AMORES  (ADUETO)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:52:33.077Z",
+    "modified_at": "2022-11-03T00:52:33.712Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4513927,
+      "gain": 2.83,
+      "duration": 281,
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "filename": "processed_f0b700015a0110e7d3e166d9c225a5bf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4513927,
+      "gain": 2.83,
+      "duration": 281,
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "filename": "processed_e009ab54dbbcd4abc0c5ee851b2eebec.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

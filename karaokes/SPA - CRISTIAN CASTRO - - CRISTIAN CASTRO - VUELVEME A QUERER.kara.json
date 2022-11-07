@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - VUELVEME A QUERER.mp3",
+      "loudnorm": "-19.50,-2.78,11.80,-29.96,-1.41",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - VUELVEME A QUERER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d297413-72b8-4dcd-bedc-5738f9e3c4c8",
+    "title": "CRISTIAN CASTRO - VUELVEME A QUERER",
+    "titles": {
+      "spa": "CRISTIAN CASTRO - VUELVEME A QUERER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:44:40.067Z",
+    "modified_at": "2022-11-03T03:44:40.495Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b99b6e4e4bab525ccfb3291cbd77278c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4280171,
+      "gain": 2.96,
+      "duration": 305,
+      "loudnorm": "-19.50,-2.78,11.80,-29.96,-1.41",
+      "filename": "processed_54813365b6712032efc191a955ed17d2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

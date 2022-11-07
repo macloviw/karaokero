@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - DESPERTAR.mp3",
+      "loudnorm": "-17.49,-0.64,10.40,-27.78,-1.57",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - DESPERTAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30bfd8df-0272-423d-9dd6-da8fa9e307e7",
+    "title": "DESPERTAR",
+    "titles": {
+      "spa": "DESPERTAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:37:18.798Z",
+    "modified_at": "2022-11-03T00:37:19.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6bd605ec719e5b7744b2db0e492db518.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7035811,
+      "gain": -0.93,
+      "duration": 293,
+      "loudnorm": "-17.49,-0.64,10.40,-27.78,-1.57",
+      "filename": "processed_99a4f6d553a5e916217d7517c8a4b5fb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

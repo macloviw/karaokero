@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - AVENTURA - ELLA Y YO.MP3",
+      "loudnorm": "-14.77,-0.32,1.80,-24.88,-0.37",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - AVENTURA - ELLA Y YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c34975c-e331-4fa4-b637-56964c5b0f99",
+    "title": "AVENTURA   -   ELLA Y YO",
+    "titles": {
+      "spa": "AVENTURA   -   ELLA Y YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:07:06.570Z",
+    "modified_at": "2022-11-02T23:07:07.244Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4561703,
+      "gain": -1.06,
+      "duration": 284,
+      "loudnorm": "-14.77,-0.32,1.80,-24.88,-0.37",
+      "filename": "processed_9611eaed0ba49eb71b5681887025be62.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4561703,
+      "gain": -1.06,
+      "duration": 284,
+      "loudnorm": "-14.77,-0.32,1.80,-24.88,-0.37",
+      "filename": "processed_282426a52f2341d4a02bcb71bfb1347a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

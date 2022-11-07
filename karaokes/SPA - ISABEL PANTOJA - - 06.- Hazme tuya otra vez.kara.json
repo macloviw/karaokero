@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISABEL PANTOJA - - 06.- Hazme tuya otra vez.mp3",
+      "loudnorm": "-12.25,1.97,6.90,-22.46,-0.58",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISABEL PANTOJA - - 06.- Hazme tuya otra vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a9354be9-9de9-4e5a-8783-48f4807fd367",
+    "title": "06.- Hazme tuya otra vez",
+    "titles": {
+      "spa": "06.- Hazme tuya otra vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ca0a4963-49c9-4f5a-886d-ed2e8febd3e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:52:36.032Z",
+    "modified_at": "2022-11-03T05:52:36.446Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e1d994e289719ebcfd54fb470244bd1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5118348,
+      "gain": -5.19,
+      "duration": 319,
+      "loudnorm": "-12.25,1.97,6.90,-22.46,-0.58",
+      "filename": "processed_c6a02cab66cc829d27d3fcbcf6fef54c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

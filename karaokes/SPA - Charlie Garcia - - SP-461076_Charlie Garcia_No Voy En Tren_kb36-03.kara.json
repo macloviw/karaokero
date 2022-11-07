@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Charlie Garcia - - SP-461076_Charlie Garcia_No Voy En Tren_kb36-03.mp3",
+      "loudnorm": "-9.44,4.88,4.30,-19.64,-0.30",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Charlie Garcia - - SP-461076_Charlie Garcia_No Voy En Tren_kb36-03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "02ef4a92-54c4-480b-b67e-0ba6be2938fa",
+    "title": "SP-461076_Charlie García_No Voy En Tren_kb36-03",
+    "titles": {
+      "spa": "SP-461076_Charlie García_No Voy En Tren_kb36-03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "56299719-df72-4dbe-8198-884433d4841a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:53:10.344Z",
+    "modified_at": "2022-11-03T21:53:10.817Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5c5c977e5e7a98270bb84308d79daccc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2650122,
+      "gain": -9.49,
+      "duration": 165,
+      "loudnorm": "-9.44,4.88,4.30,-19.64,-0.30",
+      "filename": "processed_72ab23a9e850224514ca4a27f0b8fe9c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

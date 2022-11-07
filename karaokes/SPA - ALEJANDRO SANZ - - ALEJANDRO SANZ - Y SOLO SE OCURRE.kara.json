@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - Y SOLO SE OCURRE.mp3",
+      "loudnorm": "-13.38,0.44,6.00,-23.46,-1.11",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - Y SOLO SE OCURRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "91206d58-fba2-4d9c-a58a-e96bbdb828d4",
+    "title": "ALEJANDRO SANZ - Y SOLO SE OCURRE",
+    "titles": {
+      "spa": "ALEJANDRO SANZ - Y SOLO SE OCURRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:09:10.026Z",
+    "modified_at": "2022-11-03T01:09:10.456Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3124740bb53f2ceb4ad633a17f73664d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7274551,
+      "gain": -5.43,
+      "duration": 259,
+      "loudnorm": "-13.38,0.44,6.00,-23.46,-1.11",
+      "filename": "processed_ad5f863cf15016d4b8188e8460f2f137.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLES AZNAVOUR - - Y POR TANTO.MP3",
+      "loudnorm": "-16.04,-2.74,4.10,-26.21,-0.41",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLES AZNAVOUR - - Y POR TANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0bb1f8ae-25da-4757-af05-f2166ec871ee",
+    "title": "Y POR TANTO",
+    "titles": {
+      "spa": "Y POR TANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "662909a5-fdf8-4eb2-aba8-527bad614f2b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:09:22.961Z",
+    "modified_at": "2022-11-03T03:09:23.425Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2786213,
+      "gain": -1.5,
+      "duration": 174,
+      "loudnorm": "-16.04,-2.74,4.10,-26.21,-0.41",
+      "filename": "processed_7a4575a7eb6905de101c9728db9cd87f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2786213,
+      "gain": -1.5,
+      "duration": 174,
+      "loudnorm": "-16.04,-2.74,4.10,-26.21,-0.41",
+      "filename": "processed_ea86129f7c95eb06c9b3ae15889f08cb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

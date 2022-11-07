@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACILOS - - Bacilos - Cara Luna.MP3",
+      "loudnorm": "-15.06,0.95,4.00,-25.18,-0.75",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACILOS - - Bacilos - Cara Luna.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "61ab2583-0a7e-48b7-a843-55e99fedb7c6",
+    "title": "Bacilos - Cara Luna",
+    "titles": {
+      "spa": "Bacilos - Cara Luna"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:03:48.899Z",
+    "modified_at": "2022-11-03T02:03:49.381Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4145152,
+      "gain": -4.32,
+      "duration": 259,
+      "loudnorm": "-15.06,0.95,4.00,-25.18,-0.75",
+      "filename": "processed_8ad6c787c7c55cd3f5b9065171b91f41.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4145152,
+      "gain": -4.32,
+      "duration": 259,
+      "loudnorm": "-15.06,0.95,4.00,-25.18,-0.75",
+      "filename": "processed_2ff3f911eedeac07aa1627a81c68289c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

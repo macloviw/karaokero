@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Guillermo Davila - - Guillermo Davila - Cuando se acaba el amor.mp3",
+      "loudnorm": "-17.19,0.88,10.70,-27.33,-1.71",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Guillermo Davila - - Guillermo Davila - Cuando se acaba el amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f9497abf-d333-4777-af28-6cd984e3add7",
+    "title": "Guillermo Davila - Cuando se acaba el amor",
+    "titles": {
+      "spa": "Guillermo Davila - Cuando se acaba el amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b2433530-5d3f-439a-94ee-4e8e3a3452b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:48:53.292Z",
+    "modified_at": "2022-11-03T05:48:53.711Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_adffcd1b1961b32fd9ab30c3e6aaea40.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4265984,
+      "gain": -0.36,
+      "duration": 266,
+      "loudnorm": "-17.19,0.88,10.70,-27.33,-1.71",
+      "filename": "processed_4c361600c69e3f07e77b1d377d303c86.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

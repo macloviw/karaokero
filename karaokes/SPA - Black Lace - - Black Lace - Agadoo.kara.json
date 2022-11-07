@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Black Lace - - Black Lace - Agadoo.mp3",
+      "loudnorm": "-10.04,1.10,4.40,-20.13,-1.04",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Black Lace - - Black Lace - Agadoo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc8d130e-5ecf-437e-8fb0-e1d2c3b0ab29",
+    "title": "Black Lace - Agadoo",
+    "titles": {
+      "spa": "Black Lace - Agadoo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5d913973-9dc0-4e22-9174-b22914ce7ceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:04:09.504Z",
+    "modified_at": "2022-11-04T00:04:09.882Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cdfec9b183e3db966ed3f7d134530b65.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3138005,
+      "gain": -7.72,
+      "duration": 196,
+      "loudnorm": "-10.04,1.10,4.40,-20.13,-1.04",
+      "filename": "processed_bf2e19dfffbcd1e52045a3454a4c15bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

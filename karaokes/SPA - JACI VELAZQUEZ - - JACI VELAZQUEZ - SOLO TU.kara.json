@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JACI VELAZQUEZ - - JACI VELAZQUEZ - SOLO TU.MP3",
+      "loudnorm": "-12.14,-0.02,9.20,-22.29,-0.96",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JACI VELAZQUEZ - - JACI VELAZQUEZ - SOLO TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a04cabdc-a9be-4647-a4ce-0b2228f588f1",
+    "title": "JACI VELAZQUEZ   -   SOLO TU",
+    "titles": {
+      "spa": "JACI VELAZQUEZ   -   SOLO TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c1a50f56-10f2-40f9-b55e-4dc25a4956d3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:39:20.395Z",
+    "modified_at": "2022-11-04T03:39:20.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4168275,
+      "gain": -5.79,
+      "duration": 260,
+      "loudnorm": "-12.14,-0.02,9.20,-22.29,-0.96",
+      "filename": "processed_87c29000e8c74aa86cf2753616866bc1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4168275,
+      "gain": -5.79,
+      "duration": 260,
+      "loudnorm": "-12.14,-0.02,9.20,-22.29,-0.96",
+      "filename": "processed_169a580971095a641c4d97eed0789ac0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

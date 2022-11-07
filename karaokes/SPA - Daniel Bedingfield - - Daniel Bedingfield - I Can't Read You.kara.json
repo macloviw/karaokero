@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniel Bedingfield - - Daniel Bedingfield - I Can't Read You.mp3",
+      "loudnorm": "-8.35,6.30,9.40,-18.76,-1.32",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniel Bedingfield - - Daniel Bedingfield - I Can't Read You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bca67e81-855d-4a12-9b17-21d1b6818e95",
+    "title": "Daniel Bedingfield - I Can't Read You",
+    "titles": {
+      "spa": "Daniel Bedingfield - I Can't Read You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4db1fdd5-3855-4c67-a799-1260d67ac9bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:16:39.148Z",
+    "modified_at": "2022-11-04T00:16:39.535Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b2415689aa84a68c27d2831342b57f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4280835,
+      "gain": -9.02,
+      "duration": 267,
+      "loudnorm": "-8.35,6.30,9.40,-18.76,-1.32",
+      "filename": "processed_fea35bccf2c54a4bc189d3ae4e28aba0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Andrea Bocceli - - Andrea Bocceli - Somos novios.mp3",
+      "loudnorm": null,
+      "duration": null,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Andrea Bocceli - - Andrea Bocceli - Somos novios.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9808ccd7-5ced-498c-98f9-dd39bb0c2cd9",
+    "title": "Andrea Bocceli - Somos novios",
+    "titles": {
+      "spa": "Andrea Bocceli - Somos novios"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cbc1cdb2-5002-4d5c-93d9-5b66e8e685f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:43:50.849Z",
+    "modified_at": "2022-11-03T01:43:51.374Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9a2d96d87a0385c51242ab34602bbc29.cdg"
+    },
+    "mediafile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2a1a3ebd0d5166169b353eeda0eae8e1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

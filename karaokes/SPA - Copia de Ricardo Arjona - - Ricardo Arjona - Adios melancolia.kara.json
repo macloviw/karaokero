@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Adios melancolia.mp3",
+      "loudnorm": "-11.81,0.14,3.70,-21.87,-0.25",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Adios melancolia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8e2788e-2ce7-4d45-875c-bddea1b538af",
+    "title": "Ricardo Arjona - Adios melancolia",
+    "titles": {
+      "spa": "Ricardo Arjona - Adios melancolia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:55:20.499Z",
+    "modified_at": "2022-11-03T11:55:20.948Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3fd5c28c7a35b6b8986b2b9dc21c7925.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7235804,
+      "gain": -6.74,
+      "duration": 301,
+      "loudnorm": "-11.81,0.14,3.70,-21.87,-0.25",
+      "filename": "processed_c8817ab90902784db674ce8a16e01a09.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

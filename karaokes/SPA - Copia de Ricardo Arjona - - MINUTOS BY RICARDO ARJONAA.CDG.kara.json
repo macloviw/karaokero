@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - MINUTOS BY RICARDO ARJONAA.CDG.MP3",
+      "loudnorm": "-15.50,0.99,7.40,-25.58,-1.32",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - MINUTOS BY RICARDO ARJONAA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d39d83c-f4cc-4427-8d27-6444759b18be",
+    "title": "MINUTOS BY RICARDO ARJONAA.CDG",
+    "titles": {
+      "spa": "MINUTOS BY RICARDO ARJONAA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:51:45.889Z",
+    "modified_at": "2022-11-03T11:51:46.429Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4177470,
+      "gain": -2.03,
+      "duration": 260,
+      "loudnorm": "-15.50,0.99,7.40,-25.58,-1.32",
+      "filename": "processed_9cb69f16805536548556f52eeff81f3c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4177470,
+      "gain": -2.03,
+      "duration": 260,
+      "loudnorm": "-15.50,0.99,7.40,-25.58,-1.32",
+      "filename": "processed_aed70b261d9e273c7f650ae369e643ba.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

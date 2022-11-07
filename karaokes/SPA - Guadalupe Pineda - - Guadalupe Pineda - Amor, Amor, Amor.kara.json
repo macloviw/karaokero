@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Guadalupe Pineda - - Guadalupe Pineda - Amor, Amor, Amor.mp3",
+      "loudnorm": "-21.44,-1.70,4.60,-31.49,-1.24",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Guadalupe Pineda - - Guadalupe Pineda - Amor, Amor, Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6f7b3158-5487-45b6-9734-63c039e61e18",
+    "title": "Guadalupe Pineda - Amor, Amor, Amor",
+    "titles": {
+      "spa": "Guadalupe Pineda - Amor, Amor, Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a728692e-348d-4d78-a975-ee77a3148fef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:23:46.066Z",
+    "modified_at": "2022-11-03T22:23:46.454Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_827b8cea567613ce11164e0e5e7556df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3409920,
+      "gain": 5.5,
+      "duration": 213,
+      "loudnorm": "-21.44,-1.70,4.60,-31.49,-1.24",
+      "filename": "processed_6b791d5f63d13f3e632fbff092b106a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

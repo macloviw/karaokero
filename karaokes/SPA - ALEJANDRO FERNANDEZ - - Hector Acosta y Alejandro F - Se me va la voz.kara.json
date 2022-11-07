@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Hector Acosta y Alejandro F - Se me va la voz.mp3",
+      "loudnorm": "-9.59,1.15,2.50,-19.77,-0.90",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Hector Acosta y Alejandro F - Se me va la voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7789bab-5d12-4513-a2e0-e3baa7c04b9c",
+    "title": "Hector Acosta y Alejandro F - Se me va la voz",
+    "titles": {
+      "spa": "Hector Acosta y Alejandro F - Se me va la voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:53:05.977Z",
+    "modified_at": "2022-11-03T00:53:06.392Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a3c31203cde9da7699d8fc5c6be47840.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5003903,
+      "gain": -8.78,
+      "duration": 208,
+      "loudnorm": "-9.59,1.15,2.50,-19.77,-0.90",
+      "filename": "processed_eb6e2d9875598e095290cb3caf196730.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

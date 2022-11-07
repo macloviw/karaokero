@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Heroes Del Silencio - - Copia de Heroes Del Silencio - Heroe De Leyenda.mp3",
+      "loudnorm": "-10.76,0.66,2.60,-20.86,0.11",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Heroes Del Silencio - - Copia de Heroes Del Silencio - Heroe De Leyenda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92597228-2d37-4bba-9468-07b6ea5c3634",
+    "title": "Copia de Heroes Del Silencio - Heroe De Leyenda",
+    "titles": {
+      "spa": "Copia de Heroes Del Silencio - Heroe De Leyenda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aef9c8b5-0eeb-4889-aa6b-23296dec83a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:37:11.282Z",
+    "modified_at": "2022-11-03T03:37:11.731Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6664d90791ec0e4c09c1fafb56d773e8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6204490,
+      "gain": -6.45,
+      "duration": 258,
+      "loudnorm": "-10.76,0.66,2.60,-20.86,0.11",
+      "filename": "processed_e381eb6eb2665de595319ee9ec31ed16.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

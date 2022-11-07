@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Vives - - CARLOS VIVES - LA TIERRA DEL OLVIDO.mp3",
+      "loudnorm": "-15.01,0.80,8.60,-25.26,-1.38",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Vives - - CARLOS VIVES - LA TIERRA DEL OLVIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "38b5675c-0628-46d5-9e3d-fecc50458d37",
+    "title": "CARLOS VIVES - LA TIERRA DEL OLVIDO",
+    "titles": {
+      "spa": "CARLOS VIVES - LA TIERRA DEL OLVIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2df0daff-f39b-4d55-a141-e4ddd47ab30f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:02:40.444Z",
+    "modified_at": "2022-11-03T03:02:40.853Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84ec34e2592feeda50f0301a87b4a6e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3850781,
+      "gain": -3.87,
+      "duration": 274,
+      "loudnorm": "-15.01,0.80,8.60,-25.26,-1.38",
+      "filename": "processed_46f77f50a09edf43a9ab36a5c516bb9c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

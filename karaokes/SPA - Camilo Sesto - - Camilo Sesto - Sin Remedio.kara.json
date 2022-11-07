@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - Sin Remedio.mp3",
+      "loudnorm": "-16.00,-1.00,7.80,-26.27,-0.64",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - Sin Remedio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94e82240-0746-48f9-aa05-b11308887922",
+    "title": "Camilo Sesto - Sin Remedio",
+    "titles": {
+      "spa": "Camilo Sesto - Sin Remedio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:45:31.611Z",
+    "modified_at": "2022-11-04T02:45:31.998Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1461cd2af95476b5bf13a3e545db9a7e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8200037,
+      "gain": -1.52,
+      "duration": 256,
+      "loudnorm": "-16.00,-1.00,7.80,-26.27,-0.64",
+      "filename": "processed_6d6d470ee83c280b3bbbea113b64e6fd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

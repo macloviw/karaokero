@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - EL CANTINAZO (J).mp3",
+      "loudnorm": "-11.68,1.85,4.30,-21.78,-0.42",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - EL CANTINAZO (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f580cab-d5ec-4f1a-a93c-b8de4a2f4c69",
+    "title": "DARIO GOMEZ - EL CANTINAZO (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - EL CANTINAZO (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:00:56.929Z",
+    "modified_at": "2022-11-03T04:00:57.357Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6524ef04beaed7742d79e216b45476a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5791964,
+      "gain": -6.71,
+      "duration": 241,
+      "loudnorm": "-11.68,1.85,4.30,-21.78,-0.42",
+      "filename": "processed_3780cda7855fcc6ddcf2169bfb26f652.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

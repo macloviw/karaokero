@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - ANTHONY SANTOS- DURMIENDO SOLO.mp3",
+      "loudnorm": "-14.06,-1.87,3.80,-24.13,-0.42",
+      "duration": 353,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - ANTHONY SANTOS- DURMIENDO SOLO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5fb5a8dd-e4c3-45ea-ac77-feccb15fb5a8",
+    "title": "ANTHONY SANTOS- DURMIENDO SOLO",
+    "titles": {
+      "spa": "ANTHONY SANTOS- DURMIENDO SOLO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:47:05.764Z",
+    "modified_at": "2022-11-02T22:47:06.376Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1023696a42cfc9a5cc4ad5674c18ade9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5655918,
+      "gain": -4.61,
+      "duration": 353,
+      "loudnorm": "-14.06,-1.87,3.80,-24.13,-0.42",
+      "filename": "processed_9994b0596357ba3f3a8f0bd40d2084fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

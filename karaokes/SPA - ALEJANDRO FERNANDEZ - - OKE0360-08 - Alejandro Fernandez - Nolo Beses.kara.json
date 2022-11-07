@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-08 - Alejandro Fernandez - Nolo Beses.mp3",
+      "loudnorm": "-11.83,0.54,9.00,-22.06,-1.49",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-08 - Alejandro Fernandez - Nolo Beses.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b4366a3-6231-4fc8-bce2-a1574bdbdfaa",
+    "title": "OKE0360-08 - Alejandro Fernandez - Nolo Beses",
+    "titles": {
+      "spa": "OKE0360-08 - Alejandro Fernandez - Nolo Beses"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:57:29.276Z",
+    "modified_at": "2022-11-03T00:57:29.708Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b217cb1ce948f66d0dfe7105bac3772c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4288459,
+      "gain": -6.39,
+      "duration": 214,
+      "loudnorm": "-11.83,0.54,9.00,-22.06,-1.49",
+      "filename": "processed_b96609893ae3167fde91608ff04fd57e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

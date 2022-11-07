@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Cherry Scom - - Cher - Song For The Lonely.mp3",
+      "loudnorm": "-14.72,-0.20,10.30,-25.19,-1.13",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Cherry Scom - - Cher - Song For The Lonely.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a64445ff-5a3e-4c4c-bc8a-2a4883722f66",
+    "title": "Cher - Song For The Lonely",
+    "titles": {
+      "spa": "Cher - Song For The Lonely"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "efe828ee-8be1-4b52-beb3-a488b4bac4ab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:39:08.896Z",
+    "modified_at": "2022-11-03T15:39:09.404Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_857bc7b6970b5394453bb18e39c3f5a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4143744,
+      "gain": -2.28,
+      "duration": 258,
+      "loudnorm": "-14.72,-0.20,10.30,-25.19,-1.13",
+      "filename": "processed_abd8260341798680c7806bae8b76aa4b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

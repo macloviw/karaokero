@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JADE451-01 - - JADE451-01 - Paulina Rubio - Causa Y Efecto.mp3",
+      "loudnorm": "-9.64,1.45,9.80,-19.82,-1.78",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JADE451-01 - - JADE451-01 - Paulina Rubio - Causa Y Efecto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15b601d7-129f-46c3-9dfc-5d025acc1269",
+    "title": "JADE451-01 - Paulina Rubio - Causa Y Efecto",
+    "titles": {
+      "spa": "JADE451-01 - Paulina Rubio - Causa Y Efecto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e3469279-fb87-4aa6-8970-849e9e460d1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:29:18.005Z",
+    "modified_at": "2022-11-03T22:29:18.395Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43c021532ec7bcdf58a8b50ba6e91c52.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5116751,
+      "gain": -7.7,
+      "duration": 213,
+      "loudnorm": "-9.64,1.45,9.80,-19.82,-1.78",
+      "filename": "processed_1f1f914d2bb53aff006f97b534b99e7c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Pelo Suelto.mp3",
+      "loudnorm": "-12.05,0.59,7.40,-22.56,-1.40",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Pelo Suelto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ace9a7f2-fc99-41e9-acb8-b21604815c4f",
+    "title": "Gloria Trevi - Pelo Suelto",
+    "titles": {
+      "spa": "Gloria Trevi - Pelo Suelto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:42:49.745Z",
+    "modified_at": "2022-11-03T05:42:50.158Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d0294a09087b95b3b1cb47df37cf4674.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5033995,
+      "gain": -4.25,
+      "duration": 209,
+      "loudnorm": "-12.05,0.59,7.40,-22.56,-1.40",
+      "filename": "processed_dd4cfff6f31507a85b1efa65dd03b996.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

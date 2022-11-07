@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Fuego En El Fuego.mp3",
+      "loudnorm": "-14.14,0.20,2.70,-24.19,-0.53",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Fuego En El Fuego.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b226fba8-7f04-42b8-ba62-8b4b128a3eac",
+    "title": "Eros Ramazzoti - Fuego En El Fuego",
+    "titles": {
+      "spa": "Eros Ramazzoti - Fuego En El Fuego"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:08:55.803Z",
+    "modified_at": "2022-11-03T05:08:56.239Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0efac8eaa03050d5e0b95163c2b2a5d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6151449,
+      "gain": -2.11,
+      "duration": 256,
+      "loudnorm": "-14.14,0.20,2.70,-24.19,-0.53",
+      "filename": "processed_6a3be2ee323c02f885265ce21919c23d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

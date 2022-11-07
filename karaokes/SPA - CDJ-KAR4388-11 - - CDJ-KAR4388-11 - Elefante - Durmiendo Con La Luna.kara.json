@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4388-11 - - CDJ-KAR4388-11 - Elefante - Durmiendo Con La Luna.mp3",
+      "loudnorm": "-11.87,1.06,13.10,-22.45,-1.30",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4388-11 - - CDJ-KAR4388-11 - Elefante - Durmiendo Con La Luna.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1c619aa-f281-44bd-ae52-6ae355c8d867",
+    "title": "CDJ-KAR4388-11 - Elefante - Durmiendo Con La Luna",
+    "titles": {
+      "spa": "CDJ-KAR4388-11 - Elefante - Durmiendo Con La Luna"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4bc1b882-d5e4-493f-a7d1-3ca7f1652a8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:52:36.578Z",
+    "modified_at": "2022-11-03T21:52:37.023Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_719206a49d37439a53162290ca9697c5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4213541,
+      "gain": -5.41,
+      "duration": 263,
+      "loudnorm": "-11.87,1.06,13.10,-22.45,-1.30",
+      "filename": "processed_2a007bf5a012591e558a2a06b0a2320d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

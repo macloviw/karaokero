@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra Guzman - Soy Un Desastre.mp3",
+      "loudnorm": "-12.58,0.70,5.80,-22.63,-0.95",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - Alejandra Guzman - Soy Un Desastre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fbcdac79-1bd5-468f-96ae-b6de3c3e3b2b",
+    "title": "Alejandra Guzman - Soy Un Desastre",
+    "titles": {
+      "spa": "Alejandra Guzman - Soy Un Desastre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:35:54.001Z",
+    "modified_at": "2022-11-03T00:35:54.427Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d70d1551a7f63a8e716f0d4691fc42c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2737181,
+      "gain": -6.34,
+      "duration": 170,
+      "loudnorm": "-12.58,0.70,5.80,-22.63,-0.95",
+      "filename": "processed_a409d0c1a973b03ebf77e25510376b5d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

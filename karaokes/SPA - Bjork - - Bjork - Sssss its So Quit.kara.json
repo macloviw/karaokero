@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bjork - - Bjork - Sssss its So Quit.mp3",
+      "loudnorm": "-18.08,-1.54,11.90,-29.33,-1.42",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bjork - - Bjork - Sssss its So Quit.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6c5a0aa4-008b-4e0c-bffe-badcba834f06",
+    "title": "Bjork - Sssss its So Quit",
+    "titles": {
+      "spa": "Bjork - Sssss its So Quit"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d2488e13-0de4-4836-8b7b-5f415252bd61"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:03:37.958Z",
+    "modified_at": "2022-11-04T00:03:38.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d961cd7b8cb47b2fca1b90884a86f16.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3779283,
+      "gain": 0.43,
+      "duration": 236,
+      "loudnorm": "-18.08,-1.54,11.90,-29.33,-1.42",
+      "filename": "processed_34d43f53df9c7fc11b46a90759f1c64c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

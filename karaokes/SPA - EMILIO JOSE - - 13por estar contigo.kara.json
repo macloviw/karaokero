@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 13por estar contigo.mp3",
+      "loudnorm": "-12.41,-0.30,2.40,-22.53,-0.17",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 13por estar contigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d14baf66-e9f1-433f-8667-bc17dd1f70e5",
+    "title": "13por estar contigo",
+    "titles": {
+      "spa": "13por estar contigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:46:50.142Z",
+    "modified_at": "2022-11-03T06:46:50.555Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72df6664676e7f62c52fb3fea5679943.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4097976,
+      "gain": -3.36,
+      "duration": 170,
+      "loudnorm": "-12.41,-0.30,2.40,-22.53,-0.17",
+      "filename": "processed_d7ec1d53f90305c7f99a44c480c99797.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

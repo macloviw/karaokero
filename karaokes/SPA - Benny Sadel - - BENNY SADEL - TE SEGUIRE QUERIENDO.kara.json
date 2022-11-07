@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Benny Sadel - - BENNY SADEL - TE SEGUIRE QUERIENDO.mp3",
+      "loudnorm": "-14.32,1.38,5.10,-24.50,-0.16",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Benny Sadel - - BENNY SADEL - TE SEGUIRE QUERIENDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "351c61ba-ba89-4f9d-ae1a-bfda59af1a47",
+    "title": "BENNY SADEL - TE SEGUIRE QUERIENDO",
+    "titles": {
+      "spa": "BENNY SADEL - TE SEGUIRE QUERIENDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f6d6d932-304e-4407-9f25-1ca118778e25"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:42:10.833Z",
+    "modified_at": "2022-11-04T02:42:11.240Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9f82bdd825bfaf02e7cb1100bb5c6466.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4188337,
+      "gain": -5.37,
+      "duration": 299,
+      "loudnorm": "-14.32,1.38,5.10,-24.50,-0.16",
+      "filename": "processed_b5abdf9e958d63c96b0eacd0418284b1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

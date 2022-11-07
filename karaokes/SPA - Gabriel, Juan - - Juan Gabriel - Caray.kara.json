@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Caray.MP3",
+      "loudnorm": "-12.99,1.77,2.20,-23.04,-0.37",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Caray.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae612e06-56f8-4549-81ac-0ae56fb23886",
+    "title": "Juan Gabriel - Caray",
+    "titles": {
+      "spa": "Juan Gabriel - Caray"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:44:24.433Z",
+    "modified_at": "2022-11-03T07:44:25.003Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7630777,
+      "gain": -5.36,
+      "duration": 238,
+      "loudnorm": "-12.99,1.77,2.20,-23.04,-0.37",
+      "filename": "processed_bc3534d07c6acf81a728fce343144687.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7630777,
+      "gain": -5.36,
+      "duration": 238,
+      "loudnorm": "-12.99,1.77,2.20,-23.04,-0.37",
+      "filename": "processed_639c7c48df7589e6a89bdbbc8726e2af.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

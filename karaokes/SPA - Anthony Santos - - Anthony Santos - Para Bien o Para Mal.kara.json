@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Para Bien o Para Mal.mp3",
+      "loudnorm": "-6.89,8.94,2.40,-17.05,0.07",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Para Bien o Para Mal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f108b095-f030-47f4-b0f5-29f74a6bcff6",
+    "title": "Anthony Santos - Para Bien o Para Mal",
+    "titles": {
+      "spa": "Anthony Santos - Para Bien o Para Mal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:16:29.631Z",
+    "modified_at": "2022-11-02T22:16:30.292Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44add596df36bded9d989be98d69d01d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3421828,
+      "gain": -9.38,
+      "duration": 177,
+      "loudnorm": "-6.89,8.94,2.40,-17.05,0.07",
+      "filename": "processed_4a25afc171fcb5a3cd97f8cfe3cfc0db.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

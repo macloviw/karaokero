@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chicho Severeino - - Chicho Severino - Muero Contigo.mp3",
+      "loudnorm": "-21.33,-0.42,3.10,-31.43,-0.29",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chicho Severeino - - Chicho Severino - Muero Contigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5b7c5c28-8043-415f-9502-2ee6e08b4623",
+    "title": "Chicho Severino - Muero Contigo",
+    "titles": {
+      "spa": "Chicho Severino - Muero Contigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2b4b4f95-1284-4e8f-9ed3-0be24ea20463"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:47:59.261Z",
+    "modified_at": "2022-11-04T02:47:59.666Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e3c0b71da3bf478fd1dcf6a8afdc9beb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2725196,
+      "gain": 2.23,
+      "duration": 170,
+      "loudnorm": "-21.33,-0.42,3.10,-31.43,-0.29",
+      "filename": "processed_45ad5706581c608a9d4859dae2f19dc6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - DUENO DE NADA.MP3",
+      "loudnorm": "-14.63,0.45,10.20,-25.02,-0.40",
+      "duration": 318,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - DUENO DE NADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a33f9806-e060-4e33-9ead-3dbcb1503e1b",
+    "title": "JOSE LUIS R   -   DUEÑO DE NADA",
+    "titles": {
+      "spa": "JOSE LUIS R   -   DUEÑO DE NADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:24:16.714Z",
+    "modified_at": "2022-11-03T07:24:17.322Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5091964,
+      "gain": -2.11,
+      "duration": 318,
+      "loudnorm": "-14.63,0.45,10.20,-25.02,-0.40",
+      "filename": "processed_df0bebd4f4670a107dfc872d8f94ca5a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5091964,
+      "gain": -2.11,
+      "duration": 318,
+      "loudnorm": "-14.63,0.45,10.20,-25.02,-0.40",
+      "filename": "processed_dcbbe06fe9ee46858226d4540d205d51.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

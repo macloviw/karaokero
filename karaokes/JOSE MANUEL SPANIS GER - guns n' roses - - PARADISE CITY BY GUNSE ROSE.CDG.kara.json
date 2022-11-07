@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - PARADISE CITY BY GUNSE ROSE.CDG.MP3",
+      "loudnorm": "-15.69,1.12,4.60,-25.78,-1.49",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - PARADISE CITY BY GUNSE ROSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c6b63104-7e8e-4c67-a942-e5cf6d5a3462",
+    "title": "PARADISE CITY BY GUNSE ROSE.CDG",
+    "titles": {
+      "spa": "PARADISE CITY BY GUNSE ROSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:19:36.910Z",
+    "modified_at": "2022-11-04T10:19:37.580Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4929796,
+      "gain": -2,
+      "duration": 307,
+      "loudnorm": "-15.69,1.12,4.60,-25.78,-1.49",
+      "filename": "processed_cdd77f8f2fef87a79b0a97558e4213d7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4929796,
+      "gain": -2,
+      "duration": 307,
+      "loudnorm": "-15.69,1.12,4.60,-25.78,-1.49",
+      "filename": "processed_f2ae1ac625be797bf002857439e9c8b6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

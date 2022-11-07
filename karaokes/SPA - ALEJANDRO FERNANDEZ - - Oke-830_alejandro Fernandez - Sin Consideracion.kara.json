@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Oke-830_alejandro Fernandez - Sin Consideracion.mp3",
+      "loudnorm": "-10.00,1.66,7.20,-20.15,-0.51",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Oke-830_alejandro Fernandez - Sin Consideracion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "085d8b23-c45d-4452-9de6-8377ee842d10",
+    "title": "Oke-830_alejandro Fernandez - Sin Consideracion",
+    "titles": {
+      "spa": "Oke-830_alejandro Fernandez - Sin Consideracion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:55:35.097Z",
+    "modified_at": "2022-11-03T00:55:35.540Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bb41f7befdbf4f16c94e1f1de2ac6d32.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5203968,
+      "gain": -7.51,
+      "duration": 216,
+      "loudnorm": "-10.00,1.66,7.20,-20.15,-0.51",
+      "filename": "processed_7b57cd8b789f1e48968c99d298649cb1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

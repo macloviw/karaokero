@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - Sun Is Shining.mp3",
+      "loudnorm": "-13.44,1.46,3.70,-23.50,-0.66",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - Sun Is Shining.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb7866be-4936-436b-b2cb-6d1912a863f2",
+    "title": "Bob Marley - Sun Is Shining",
+    "titles": {
+      "spa": "Bob Marley - Sun Is Shining"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:23:58.276Z",
+    "modified_at": "2022-11-03T02:23:58.713Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b63d555b2375f761338b31b98b12f945.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4002473,
+      "gain": -4.1,
+      "duration": 250,
+      "loudnorm": "-13.44,1.46,3.70,-23.50,-0.66",
+      "filename": "processed_0d34e22db5021e912c0c9d351d5e041b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

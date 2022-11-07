@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - VICENTE FERNANDEZ - - Vicente Fernandez - La Ley Del Monte (buena).mp3",
+      "loudnorm": "-17.23,0.48,5.00,-27.56,0.21",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - VICENTE FERNANDEZ - - Vicente Fernandez - La Ley Del Monte (buena).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "855a6d5f-f7cd-4bbc-95de-47ca0806e72d",
+    "title": "Vicente Fernández - La Ley Del Monte (buena)",
+    "titles": {
+      "spa": "Vicente Fernández - La Ley Del Monte (buena)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:49:33.031Z",
+    "modified_at": "2022-11-04T08:49:33.413Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_653ebf9e68454d5ce93ef06a230092ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2895658,
+      "gain": -3.16,
+      "duration": 180,
+      "loudnorm": "-17.23,0.48,5.00,-27.56,0.21",
+      "filename": "processed_1a9dd7d1ab96c337555332a5d5cc1b84.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

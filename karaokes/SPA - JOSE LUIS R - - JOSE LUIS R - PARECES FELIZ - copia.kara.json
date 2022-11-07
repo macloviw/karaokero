@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - PARECES FELIZ - copia.MP3",
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - PARECES FELIZ - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6c0102a1-2a1d-4449-a811-8e161260ad2a",
+    "title": "JOSE LUIS R   -   PARECES FELIZ - copia",
+    "titles": {
+      "spa": "JOSE LUIS R   -   PARECES FELIZ - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:24:50.500Z",
+    "modified_at": "2022-11-03T07:24:51.079Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3539246,
+      "gain": -7.07,
+      "duration": 221,
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "filename": "processed_85fd4f9025a8dc4bbf7c1c165ef6910e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3539246,
+      "gain": -7.07,
+      "duration": 221,
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "filename": "processed_642f98ff8ef07e3c04f49acf4eb439ec.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alice cooper - - Alice cooper - Welcome to my nightmare.mp3",
+      "loudnorm": "-24.55,-7.68,6.80,-34.63,-1.57",
+      "duration": 344,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alice cooper - - Alice cooper - Welcome to my nightmare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd7014c1-73e9-481a-bd60-13b3682737f1",
+    "title": "Alice cooper - Welcome to my nightmare",
+    "titles": {
+      "spa": "Alice cooper - Welcome to my nightmare"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec88b378-a7b0-49a6-b299-26e343d9b1ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:42:09.084Z",
+    "modified_at": "2022-11-03T14:42:09.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f9fd3574b58c202e4981963fbb09300.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5511094,
+      "gain": 7.12,
+      "duration": 344,
+      "loudnorm": "-24.55,-7.68,6.80,-34.63,-1.57",
+      "filename": "processed_8a5f6bfeba1f07201815c2362c5a6690.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

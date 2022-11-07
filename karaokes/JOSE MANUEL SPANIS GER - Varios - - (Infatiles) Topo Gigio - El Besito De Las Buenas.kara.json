@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Varios - - (Infatiles) Topo Gigio - El Besito De Las Buenas.mp3",
+      "loudnorm": "-12.21,-2.02,1.40,-22.43,-0.97",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Varios - - (Infatiles) Topo Gigio - El Besito De Las Buenas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "38051372-e8e6-4217-b274-a8dca78127fe",
+    "title": "(Infatiles) Topo Gigio - El Besito De Las Buenas",
+    "titles": {
+      "spa": "(Infatiles) Topo Gigio - El Besito De Las Buenas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0f385425-461c-46f7-997e-923da93971ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:48:49.316Z",
+    "modified_at": "2022-11-04T08:48:49.698Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61143839259128f3ff4d3bd1627c6f64.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4365820,
+      "gain": -0.46,
+      "duration": 181,
+      "loudnorm": "-12.21,-2.02,1.40,-22.43,-0.97",
+      "filename": "processed_f71f4bb75409d0fec4c8ed9048782cdc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

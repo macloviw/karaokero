@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Par de Ases - Jose Jos y Juan Gabriel - 12 Juan Gabriel - Debo Hacerlo.mp3",
+      "loudnorm": "-17.75,0.37,6.00,-27.95,-0.69",
+      "duration": 530,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Par de Ases - Jose Jos y Juan Gabriel - 12 Juan Gabriel - Debo Hacerlo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "75ea89ea-8395-4648-b777-3a44b18dcf09",
+    "title": "Par de Ases - Jose Jos y Juan Gabriel - 12 Juan Gabriel - Debo Hacerlo",
+    "titles": {
+      "spa": "Par de Ases - Jose Jos y Juan Gabriel - 12 Juan Gabriel - Debo Hacerlo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:36:27.490Z",
+    "modified_at": "2022-11-03T07:36:27.991Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9ab78829402880318aea69ebdd352a33.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12745342,
+      "gain": -1.55,
+      "duration": 530,
+      "loudnorm": "-17.75,0.37,6.00,-27.95,-0.69",
+      "filename": "processed_d5effa80060401423848815fd8878dac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - ASI TU ME MIRAS.MP3",
+      "loudnorm": "-12.03,2.03,12.80,-22.62,-1.66",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - ASI TU ME MIRAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a19e8aad-83a4-41ba-beec-2f70c71d2497",
+    "title": "ALEJANDRO SANZ   -   ASI TU ME MIRAS",
+    "titles": {
+      "spa": "ALEJANDRO SANZ   -   ASI TU ME MIRAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:02:16.347Z",
+    "modified_at": "2022-11-03T01:02:16.939Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4153646,
+      "gain": -6.29,
+      "duration": 259,
+      "loudnorm": "-12.03,2.03,12.80,-22.62,-1.66",
+      "filename": "processed_eff5367595d9bd193187aeea51bad3f0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4153646,
+      "gain": -6.29,
+      "duration": 259,
+      "loudnorm": "-12.03,2.03,12.80,-22.62,-1.66",
+      "filename": "processed_de19603a0b814856ef958e2883d09632.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

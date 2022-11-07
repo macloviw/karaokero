@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-10 - Alejandro Fernandez - Imagina.mp3",
+      "loudnorm": "-12.59,0.96,10.50,-22.82,-1.58",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-10 - Alejandro Fernandez - Imagina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3b9d5525-a2ee-414e-805b-1a6f19411093",
+    "title": "OKE0360-10 - Alejandro Fernandez - Imagina",
+    "titles": {
+      "spa": "OKE0360-10 - Alejandro Fernandez - Imagina"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:57:50.298Z",
+    "modified_at": "2022-11-03T00:57:50.723Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_55ce1fcc117c797e4ff43d06f56f188a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4599837,
+      "gain": -5.59,
+      "duration": 229,
+      "loudnorm": "-12.59,0.96,10.50,-22.82,-1.58",
+      "filename": "processed_e5d14e5ed78f62eb0dbc9d4cc12bd053.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

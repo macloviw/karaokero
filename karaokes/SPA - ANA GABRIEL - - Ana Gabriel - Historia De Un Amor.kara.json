@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - Ana Gabriel - Historia De Un Amor.mp3",
+      "loudnorm": "-15.09,0.61,4.40,-25.13,0.01",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - Ana Gabriel - Historia De Un Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d42a8ccc-7312-4a31-9d9d-06ce415c61a9",
+    "title": "Ana Gabriel - Historia De Un Amor",
+    "titles": {
+      "spa": "Ana Gabriel - Historia De Un Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:42:04.465Z",
+    "modified_at": "2022-11-03T01:42:04.905Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0520c60910cba42b074e6533dbddb48d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5475987,
+      "gain": -2.62,
+      "duration": 228,
+      "loudnorm": "-15.09,0.61,4.40,-25.13,0.01",
+      "filename": "processed_8825fcec948a733c5263eb9db638f8e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

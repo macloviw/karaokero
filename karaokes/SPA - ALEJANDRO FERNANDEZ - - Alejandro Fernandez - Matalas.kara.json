@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez - Matalas.mp3",
+      "loudnorm": "-12.13,-0.13,2.90,-22.17,0.41",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez - Matalas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8ebdabf-79f7-41a7-92b0-3913849d580f",
+    "title": "Alejandro Fernandez - Matalas",
+    "titles": {
+      "spa": "Alejandro Fernandez - Matalas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:44:25.430Z",
+    "modified_at": "2022-11-03T00:44:25.880Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a48f22ecaeddd9114fa178d81d49ece.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2846720,
+      "gain": -5.34,
+      "duration": 177,
+      "loudnorm": "-12.13,-0.13,2.90,-22.17,0.41",
+      "filename": "processed_ec93ca8c1a97398dbacee3cf7ba1c014.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - En Medio De La Tempestad.mp3",
+      "loudnorm": "-12.61,0.64,10.30,-23.02,-1.13",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - En Medio De La Tempestad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3e2e6837-d92a-4779-87a8-5444ecda9d18",
+    "title": "Gloria Trevi - En Medio De La Tempestad",
+    "titles": {
+      "spa": "Gloria Trevi - En Medio De La Tempestad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:41:25.628Z",
+    "modified_at": "2022-11-03T05:41:26.065Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d1396e5dfc29604213136447dd71885a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9346707,
+      "gain": -3,
+      "duration": 233,
+      "loudnorm": "-12.61,0.64,10.30,-23.02,-1.13",
+      "filename": "processed_6d1892e7d52f5955aea9e60bc8e0cd7e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

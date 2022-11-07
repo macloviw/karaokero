@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Villareal - - Alicia Villareal - El Principe.mp3",
+      "loudnorm": "-12.08,0.56,2.90,-22.31,-0.52",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Villareal - - Alicia Villareal - El Principe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "178c4148-da52-47a7-955b-5278de41e553",
+    "title": "Alicia Villareal - El Principe",
+    "titles": {
+      "spa": "Alicia Villareal - El Principe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2d5acaa4-ec97-451c-ab11-6b3a3df954d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:27:18.980Z",
+    "modified_at": "2022-11-03T01:27:19.401Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bde38a8ae01ba2f4f2406322d41d7d86.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4706106,
+      "gain": -7.52,
+      "duration": 195,
+      "loudnorm": "-12.08,0.56,2.90,-22.31,-0.52",
+      "filename": "processed_99a4bd860184448d4ee5a952ae8e50f8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

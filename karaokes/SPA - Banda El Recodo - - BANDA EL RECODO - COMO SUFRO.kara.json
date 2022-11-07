@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - COMO SUFRO.mp3",
+      "loudnorm": "-17.62,-0.14,3.90,-27.72,-0.39",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - COMO SUFRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bbb1b6f5-7585-414e-b2f8-3765dfe940d6",
+    "title": "BANDA EL RECODO - COMO SUFRO",
+    "titles": {
+      "spa": "BANDA EL RECODO - COMO SUFRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "73a34916-c1bb-45bb-aa8a-c0d9520f308e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:04:55.693Z",
+    "modified_at": "2022-11-03T02:04:56.106Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6629983905bbd11910eec0d0a21bafcb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4420980,
+      "gain": -1.15,
+      "duration": 184,
+      "loudnorm": "-17.62,-0.14,3.90,-27.72,-0.39",
+      "filename": "processed_b2b749a323ae7b5f485f92c2260126b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

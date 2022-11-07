@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - De Ilegales - - ILEGALES - BAILA.mp3",
+      "loudnorm": "-8.61,5.36,2.40,-18.66,-0.58",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - De Ilegales - - ILEGALES - BAILA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a82d5fc-8103-458c-90d3-ea0327ce7ee0",
+    "title": "ILEGALES                             -   BAILA",
+    "titles": {
+      "spa": "ILEGALES                             -   BAILA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3e549f9c-8d43-4035-b8ca-c220d00a79f7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:32:00.672Z",
+    "modified_at": "2022-11-04T03:32:01.054Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_de42a49fab3cf0b18b14435107b0dcf5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3806656,
+      "gain": -9.1,
+      "duration": 237,
+      "loudnorm": "-8.61,5.36,2.40,-18.66,-0.58",
+      "filename": "processed_7969c51aef096f42f10f6b648f0c4e8b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

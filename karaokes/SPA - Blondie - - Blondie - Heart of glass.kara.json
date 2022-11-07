@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - Heart of glass.mp3",
+      "loudnorm": "-16.11,-0.19,1.90,-26.29,-0.67",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - Heart of glass.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b07868cd-c031-474b-b3a8-0bc913e62f05",
+    "title": "Blondie - Heart of glass",
+    "titles": {
+      "spa": "Blondie - Heart of glass"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:12:09.503Z",
+    "modified_at": "2022-11-03T15:12:09.927Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_935c0dc36ed4cfc88fccbedc5756db1f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3698199,
+      "gain": -1,
+      "duration": 231,
+      "loudnorm": "-16.11,-0.19,1.90,-26.29,-0.67",
+      "filename": "processed_795c2c5cad5bba9eabd419dacd019111.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

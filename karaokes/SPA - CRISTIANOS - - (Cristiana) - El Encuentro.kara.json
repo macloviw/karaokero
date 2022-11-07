@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - (Cristiana) - El Encuentro.mp3",
+      "loudnorm": "-14.19,0.15,4.80,-24.34,-0.27",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - (Cristiana) - El Encuentro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52e66968-b329-43b5-9523-c09aae10ba64",
+    "title": "(Cristiana) - El Encuentro",
+    "titles": {
+      "spa": "(Cristiana) - El Encuentro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:54:22.411Z",
+    "modified_at": "2022-11-04T02:54:22.790Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5ad0dc707eac3fa3d80ce63622aa84f6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3942495,
+      "gain": -2.67,
+      "duration": 164,
+      "loudnorm": "-14.19,0.15,4.80,-24.34,-0.27",
+      "filename": "processed_a49134962f8366725b1001dc013f3823.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

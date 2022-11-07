@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - 11 mar y arena.mp3",
+      "loudnorm": "-13.41,0.12,2.70,-23.63,0.12",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - 11 mar y arena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09f9b906-b0fa-43b4-8b5b-d2e44fe965be",
+    "title": "11 mar y arena",
+    "titles": {
+      "spa": "11 mar y arena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:38:16.773Z",
+    "modified_at": "2022-11-03T01:38:17.202Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0487ced2f734311f16c338689a32ab6c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4505486,
+      "gain": -5.43,
+      "duration": 187,
+      "loudnorm": "-13.41,0.12,2.70,-23.63,0.12",
+      "filename": "processed_4be621b0a4a5d5e423a4e43b710b1ca1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

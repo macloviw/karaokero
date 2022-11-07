@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Don't Wanna Lose You.mp3",
+      "loudnorm": "-7.73,6.99,4.50,-17.94,-0.75",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Don't Wanna Lose You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ea7b7eb6-3eb2-485c-90b3-20f1d97bdd80",
+    "title": "Gloria Estefan - Don't Wanna Lose You",
+    "titles": {
+      "spa": "Gloria Estefan - Don't Wanna Lose You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:52:16.915Z",
+    "modified_at": "2022-11-04T00:52:17.314Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f738609f305059c17cd919d8f4f3bb3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3779071,
+      "gain": -9.63,
+      "duration": 236,
+      "loudnorm": "-7.73,6.99,4.50,-17.94,-0.75",
+      "filename": "processed_2e410781800208e58ecce7b7305f892e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

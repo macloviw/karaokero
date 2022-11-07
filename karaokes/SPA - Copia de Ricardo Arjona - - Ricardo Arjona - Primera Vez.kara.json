@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Primera Vez.mp3",
+      "loudnorm": "-8.73,2.97,5.10,-18.89,-1.19",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Primera Vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fb0f7a19-4e07-4b64-b1af-b7002d030ef4",
+    "title": "Ricardo Arjona - Primera Vez",
+    "titles": {
+      "spa": "Ricardo Arjona - Primera Vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:01:28.185Z",
+    "modified_at": "2022-11-03T12:01:28.623Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_01ddcca148a0aed7842a969590b82575.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3600056,
+      "gain": -9.03,
+      "duration": 224,
+      "loudnorm": "-8.73,2.97,5.10,-18.89,-1.19",
+      "filename": "processed_e8175707c51fe0dfffe24b74e71246d9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Heroes Del Silencio - - Copia de Heroes Del Silencio - Entre Dos Tierras.mp3",
+      "loudnorm": "-14.16,-0.00,5.90,-24.35,-1.22",
+      "duration": 363,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Heroes Del Silencio - - Copia de Heroes Del Silencio - Entre Dos Tierras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "102dc835-33e7-48f4-8cbd-44f5dcdf8de0",
+    "title": "Copia de Heroes Del Silencio - Entre Dos Tierras",
+    "titles": {
+      "spa": "Copia de Heroes Del Silencio - Entre Dos Tierras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aef9c8b5-0eeb-4889-aa6b-23296dec83a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:57:54.825Z",
+    "modified_at": "2022-11-03T21:57:55.304Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3fb81b737dd3ade1366978d2a9f77c3c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8728545,
+      "gain": -5.21,
+      "duration": 363,
+      "loudnorm": "-14.16,-0.00,5.90,-24.35,-1.22",
+      "filename": "processed_b7d898767a2a435fd35d31dd6843b4fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

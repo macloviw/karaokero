@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - SINCE I DONT HAVE YOU BY GUNSE ROSE.CDG.MP3",
+      "loudnorm": "-16.70,-1.71,4.70,-26.77,-0.98",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - SINCE I DONT HAVE YOU BY GUNSE ROSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79af7c3e-f050-438d-a54f-f7dca73dff30",
+    "title": "SINCE I DONT HAVE YOU BY GUNSE ROSE.CDG",
+    "titles": {
+      "spa": "SINCE I DONT HAVE YOU BY GUNSE ROSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:20:44.148Z",
+    "modified_at": "2022-11-04T10:20:44.703Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3809248,
+      "gain": -1.33,
+      "duration": 237,
+      "loudnorm": "-16.70,-1.71,4.70,-26.77,-0.98",
+      "filename": "processed_e0215550e4ad374bfe301ff0404de416.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3809248,
+      "gain": -1.33,
+      "duration": 237,
+      "loudnorm": "-16.70,-1.71,4.70,-26.77,-0.98",
+      "filename": "processed_9e6b4aa465f796f0b4ce7020357d5a68.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

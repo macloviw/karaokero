@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - anthony rios - ciego de selos.mp3",
+      "loudnorm": "-14.31,0.48,3.00,-24.42,-0.66",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - anthony rios - ciego de selos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b2608295-5932-4dff-9414-1d13f9bc6524",
+    "title": "anthony rios - ciego de selos",
+    "titles": {
+      "spa": "anthony rios - ciego de selos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:50:15.129Z",
+    "modified_at": "2022-11-03T01:50:15.539Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74afeff9e4dd0d3475c68e22f0a5e951.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5209728,
+      "gain": -4.52,
+      "duration": 185,
+      "loudnorm": "-14.31,0.48,3.00,-24.42,-0.66",
+      "filename": "processed_7f24199c7675de504aeed86514387b59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

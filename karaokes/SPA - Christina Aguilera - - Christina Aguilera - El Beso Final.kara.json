@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christina Aguilera - - Christina Aguilera - El Beso Final.MP3",
+      "loudnorm": "-13.68,1.32,7.50,-24.12,-0.96",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christina Aguilera - - Christina Aguilera - El Beso Final.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e5c5f0cb-847f-4360-94b6-aa125239ead4",
+    "title": "Christina Aguilera - El Beso Final",
+    "titles": {
+      "spa": "Christina Aguilera - El Beso Final"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4d8cb367-6ee7-4268-a4e3-bdc3d7e6b8ae"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:32:16.009Z",
+    "modified_at": "2022-11-03T03:32:16.705Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4673536,
+      "gain": -3.35,
+      "duration": 292,
+      "loudnorm": "-13.68,1.32,7.50,-24.12,-0.96",
+      "filename": "processed_f9a796b1a555cec13d388f2f726a65a3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4673536,
+      "gain": -3.35,
+      "duration": 292,
+      "loudnorm": "-13.68,1.32,7.50,-24.12,-0.96",
+      "filename": "processed_b9bf9ef43e55b7a7f8354e6871d283f9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

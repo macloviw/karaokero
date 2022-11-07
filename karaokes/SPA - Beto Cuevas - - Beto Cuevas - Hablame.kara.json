@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beto Cuevas - - Beto Cuevas - Hablame.mp3",
+      "loudnorm": "-10.84,0.84,6.10,-20.90,-1.39",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beto Cuevas - - Beto Cuevas - Hablame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "13c6105d-d572-43fc-a621-898a1c42cf56",
+    "title": "Beto Cuevas - Hablame",
+    "titles": {
+      "spa": "Beto Cuevas - Hablame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "a11b6dc2-d2b9-4c89-9d31-739917efd510"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:34:13.773Z",
+    "modified_at": "2022-11-03T14:34:14.209Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2572a3e17ca1ecd1079030fb3843c698.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7420950,
+      "gain": -6.49,
+      "duration": 309,
+      "loudnorm": "-10.84,0.84,6.10,-20.90,-1.39",
+      "filename": "processed_15404c5c0f7e6e66e7bd0a0114baec88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

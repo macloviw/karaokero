@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - Emmanuel - Todo Se Derrumbo Dentro De Mi.mp3",
+      "loudnorm": "-12.25,0.73,4.00,-22.40,-0.23",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - Emmanuel - Todo Se Derrumbo Dentro De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0838723b-0d71-4f61-bc59-d3495fb43ccc",
+    "title": "Emmanuel - Todo Se Derrumbo Dentro De Mi",
+    "titles": {
+      "spa": "Emmanuel - Todo Se Derrumbo Dentro De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:45:40.494Z",
+    "modified_at": "2022-11-03T04:45:40.915Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c0de29fbf009029802d04127eeda5486.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8104064,
+      "gain": -4.73,
+      "duration": 337,
+      "loudnorm": "-12.25,0.73,4.00,-22.40,-0.23",
+      "filename": "processed_a6c8ea8316db1ebff4ba8b69c9e1dd70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

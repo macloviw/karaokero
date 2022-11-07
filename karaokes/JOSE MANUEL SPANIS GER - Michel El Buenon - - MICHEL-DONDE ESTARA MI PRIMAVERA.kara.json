@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel El Buenon - - MICHEL-DONDE ESTARA MI PRIMAVERA.mp3",
+      "loudnorm": "-8.79,3.11,10.50,-19.02,-2.11",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel El Buenon - - MICHEL-DONDE ESTARA MI PRIMAVERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bc126f8-239d-4f6d-bfac-58fca6ba3a02",
+    "title": "MICHEL-DONDE ESTARA MI PRIMAVERA",
+    "titles": {
+      "spa": "MICHEL-DONDE ESTARA MI PRIMAVERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae49c221-cde7-478c-bdb6-236af246cc9a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:19:22.907Z",
+    "modified_at": "2022-11-04T07:19:23.300Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d34a717fa94d8c63d614a4510d049a6b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4309388,
+      "gain": -10.69,
+      "duration": 307,
+      "loudnorm": "-8.79,3.11,10.50,-19.02,-2.11",
+      "filename": "processed_3c592f26d67c0a83be1401661a947db8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

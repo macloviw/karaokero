@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EN LOS MONTES EN LOS VALLES - - EN LOS MONTES EN LOS VALLES.mp3",
+      "loudnorm": "-16.40,-2.62,5.20,-26.44,-0.56",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EN LOS MONTES EN LOS VALLES - - EN LOS MONTES EN LOS VALLES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "705baa09-6efa-4a99-a1e7-c10fdd9c338d",
+    "title": "EN LOS MONTES EN LOS VALLES",
+    "titles": {
+      "spa": "EN LOS MONTES EN LOS VALLES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44d218ca-a21d-4ce7-b280-e02199da422e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:36:25.759Z",
+    "modified_at": "2022-11-03T23:36:26.136Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2787f71286b8e86e98d43d2c681553ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4831648,
+      "gain": -0.66,
+      "duration": 301,
+      "loudnorm": "-16.40,-2.62,5.20,-26.44,-0.56",
+      "filename": "processed_b869fab6146587c4a143f476791ca957.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

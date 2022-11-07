@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - LA TRISTEZA DE MI CARTA PISTA CDG.mp3",
+      "loudnorm": "-15.50,0.64,1.50,-25.56,-0.34",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - LA TRISTEZA DE MI CARTA PISTA CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "342683f1-b6a1-4cbf-96e6-bf3944232211",
+    "title": "LA TRISTEZA DE MI CARTA PISTA CDG",
+    "titles": {
+      "spa": "LA TRISTEZA DE MI CARTA PISTA CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:54:18.310Z",
+    "modified_at": "2022-11-02T22:54:18.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9c509a2c26ea351ea73160462acaaec9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6070480,
+      "gain": -1.56,
+      "duration": 252,
+      "loudnorm": "-15.50,0.64,1.50,-25.56,-0.34",
+      "filename": "processed_ea9172857c2099b7f107fc795c3b9ef0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

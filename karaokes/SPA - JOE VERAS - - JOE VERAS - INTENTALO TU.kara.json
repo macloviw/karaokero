@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOE VERAS - - JOE VERAS - INTENTALO TU.MP3",
+      "loudnorm": "-16.22,0.28,2.40,-26.30,-0.42",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOE VERAS - - JOE VERAS - INTENTALO TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3379c9f2-9e1d-40e0-8bd3-db5794d9343a",
+    "title": "JOE VERAS   -   INTENTALO TU",
+    "titles": {
+      "spa": "JOE VERAS   -   INTENTALO TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "143ea420-7bc8-4464-9680-87cbb5ebb183"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:53:08.170Z",
+    "modified_at": "2022-11-02T23:53:08.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3851044,
+      "gain": -1.93,
+      "duration": 240,
+      "loudnorm": "-16.22,0.28,2.40,-26.30,-0.42",
+      "filename": "processed_96b9565b4ff729c2d5064d9371610d8a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3851044,
+      "gain": -1.93,
+      "duration": 240,
+      "loudnorm": "-16.22,0.28,2.40,-26.30,-0.42",
+      "filename": "processed_d600fe323d568705e2416667b270c53a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

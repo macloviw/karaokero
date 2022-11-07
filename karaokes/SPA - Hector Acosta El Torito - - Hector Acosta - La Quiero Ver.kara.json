@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - La Quiero Ver.mp3",
+      "loudnorm": "-10.50,0.68,3.40,-20.68,-0.25",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - La Quiero Ver.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "08b1af25-60bb-4217-a1ab-a54ec3d1e398",
+    "title": "Hector Acosta - La Quiero Ver",
+    "titles": {
+      "spa": "Hector Acosta - La Quiero Ver"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:47:55.850Z",
+    "modified_at": "2022-11-02T23:47:56.274Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8934566677f52fd67f948f77d12b082b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10888106,
+      "gain": -7.22,
+      "duration": 272,
+      "loudnorm": "-10.50,0.68,3.40,-20.68,-0.25",
+      "filename": "processed_4da79297705327bc239bc718c1f492de.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

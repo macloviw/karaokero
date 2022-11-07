@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona E Intocable - Mojado.mp3",
+      "loudnorm": "-13.43,0.08,11.00,-24.09,-1.39",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona E Intocable - Mojado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aa1f16bc-1026-4756-8e4c-f3c7d34a9477",
+    "title": "Ricardo Arjona E Intocable - Mojado",
+    "titles": {
+      "spa": "Ricardo Arjona E Intocable - Mojado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:05:25.990Z",
+    "modified_at": "2022-11-03T12:05:26.406Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_87869332630dcaef424d2a46ec8eee46.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6777512,
+      "gain": -4.65,
+      "duration": 282,
+      "loudnorm": "-13.43,0.08,11.00,-24.09,-1.39",
+      "filename": "processed_0957b150d8414c8e65504a9a1b2ee945.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

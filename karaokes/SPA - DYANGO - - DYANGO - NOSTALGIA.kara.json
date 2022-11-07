@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DYANGO - - DYANGO - NOSTALGIA.MP3",
+      "loudnorm": "-16.21,-1.16,6.00,-26.30,-1.17",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DYANGO - - DYANGO - NOSTALGIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ca2648e-e9e5-421b-b916-ff97d6b51994",
+    "title": "DYANGO   -   NOSTALGIA",
+    "titles": {
+      "spa": "DYANGO   -   NOSTALGIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dfe7efba-e53e-412b-98c6-fec7cea6e924"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:16:47.605Z",
+    "modified_at": "2022-11-03T04:16:48.076Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3438518,
+      "gain": -1.01,
+      "duration": 214,
+      "loudnorm": "-16.21,-1.16,6.00,-26.30,-1.17",
+      "filename": "processed_55314af570323b2e3ad4f0f1b1500d79.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3438518,
+      "gain": -1.01,
+      "duration": 214,
+      "loudnorm": "-16.21,-1.16,6.00,-26.30,-1.17",
+      "filename": "processed_19d7f97c480401480260714534a6864d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

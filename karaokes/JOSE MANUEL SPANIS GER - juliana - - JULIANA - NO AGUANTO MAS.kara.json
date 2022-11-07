@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - juliana - - JULIANA - NO AGUANTO MAS.mp3",
+      "loudnorm": "-16.46,-0.25,2.40,-26.49,-0.10",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - juliana - - JULIANA - NO AGUANTO MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd35e801-dc01-4c45-8c43-052c2569a128",
+    "title": "JULIANA - NO AGUANTO MAS",
+    "titles": {
+      "spa": "JULIANA - NO AGUANTO MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "46271498-ae82-4383-979e-c45e9cfd4f53"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:06:20.336Z",
+    "modified_at": "2022-11-04T04:06:20.716Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9003ecf6334f1feefa49ffaab9be24e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3657239,
+      "gain": -2.27,
+      "duration": 228,
+      "loudnorm": "-16.46,-0.25,2.40,-26.49,-0.10",
+      "filename": "processed_00460100dacf69a3296a6c7498e05e8f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

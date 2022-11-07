@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VALADES - - Fernando Valades - Una noche mas.mp3",
+      "loudnorm": "-12.17,1.24,2.80,-22.30,-0.88",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VALADES - - Fernando Valades - Una noche mas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60e2f867-d7fb-4d2f-b1fe-22df5c0cecb3",
+    "title": "Fernando Valades - Una noche mas",
+    "titles": {
+      "spa": "Fernando Valades - Una noche mas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a413dd09-2313-420e-94f3-b8eeb5070bf6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:18:51.630Z",
+    "modified_at": "2022-11-03T05:18:52.055Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ae12117e9b37b38d71f5b993c8966ed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4260353,
+      "gain": -6.6,
+      "duration": 177,
+      "loudnorm": "-12.17,1.24,2.80,-22.30,-0.88",
+      "filename": "processed_1959b607b17180cbc485c78166c924ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

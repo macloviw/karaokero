@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Alfa - - El Alfa - (El Jefe) Tarzan.mp3",
+      "loudnorm": "-9.07,2.13,5.40,-19.35,-0.19",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Alfa - - El Alfa - (El Jefe) Tarzan.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c66f560-5488-440f-b1b5-895d9e5cd0dd",
+    "title": "El Alfa - (El Jefe) Tarzan",
+    "titles": {
+      "spa": "El Alfa - (El Jefe) Tarzan"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "ef09847f-d1bc-4708-a343-465a669864b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:47:02.980Z",
+    "modified_at": "2022-11-03T23:47:03.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1655cd50667f4b937299ff1c2e1da53b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3642506,
+      "gain": -9.04,
+      "duration": 227,
+      "loudnorm": "-9.07,2.13,5.40,-19.35,-0.19",
+      "filename": "processed_9d37ae02dcbe30e0a51e5a74422328d6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

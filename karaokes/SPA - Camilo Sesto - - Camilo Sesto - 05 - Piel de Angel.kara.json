@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 05 - Piel de Angel.mp3",
+      "loudnorm": "-10.50,0.32,7.80,-20.73,-1.41",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 05 - Piel de Angel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aec99fa2-99d8-4460-b742-fd23ecf74339",
+    "title": "Camilo Sesto - 05 - Piel de Angel",
+    "titles": {
+      "spa": "Camilo Sesto - 05 - Piel de Angel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:52:01.629Z",
+    "modified_at": "2022-11-03T02:52:02.029Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_646416480d4bc410e1af06648ce2113f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5146336,
+      "gain": -7.35,
+      "duration": 214,
+      "loudnorm": "-10.50,0.32,7.80,-20.73,-1.41",
+      "filename": "processed_a7901c4bff2db806710372affa06d37b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

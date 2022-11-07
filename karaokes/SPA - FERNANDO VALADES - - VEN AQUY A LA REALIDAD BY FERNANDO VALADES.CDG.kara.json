@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VALADES - - VEN AQUY A LA REALIDAD BY FERNANDO VALADES.CDG.MP3",
+      "loudnorm": "-13.15,-0.17,5.70,-23.36,-1.28",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VALADES - - VEN AQUY A LA REALIDAD BY FERNANDO VALADES.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "956dd323-4983-4e41-9f91-c61e5de3e0b4",
+    "title": "VEN AQUY A LA REALIDAD BY FERNANDO VALADES.CDG",
+    "titles": {
+      "spa": "VEN AQUY A LA REALIDAD BY FERNANDO VALADES.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a413dd09-2313-420e-94f3-b8eeb5070bf6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:19:41.343Z",
+    "modified_at": "2022-11-03T05:19:41.834Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3345731,
+      "gain": -4.11,
+      "duration": 208,
+      "loudnorm": "-13.15,-0.17,5.70,-23.36,-1.28",
+      "filename": "processed_02adf2d54609fb534bbd2bb5d40c7381.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3345731,
+      "gain": -4.11,
+      "duration": 208,
+      "loudnorm": "-13.15,-0.17,5.70,-23.36,-1.28",
+      "filename": "processed_f2032d42f4804d0c22fd81dda564fa11.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Daniel - - Danny Daniel - La rueda del Amor.mp3",
+      "loudnorm": "-9.59,2.75,6.30,-19.69,-0.76",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Daniel - - Danny Daniel - La rueda del Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c832f7ea-a4b9-4cd9-a139-b0c6c211eefa",
+    "title": "Danny Daniel - La rueda del Amor",
+    "titles": {
+      "spa": "Danny Daniel - La rueda del Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bc5eced1-bcf4-4da1-9422-d8cb15a13412"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:59:45.608Z",
+    "modified_at": "2022-11-04T02:59:45.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a00cdf4d1fcd599685c0290331a89fd3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3378461,
+      "gain": -7.62,
+      "duration": 211,
+      "loudnorm": "-9.59,2.75,6.30,-19.69,-0.76",
+      "filename": "processed_46cddf2dba5b283169da5363daa3ae35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

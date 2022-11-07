@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4388-06 - - CDJ-KAR4388-06 - Elefante - El Abandona'o.mp3",
+      "loudnorm": "-10.20,1.11,2.30,-20.37,-0.02",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4388-06 - - CDJ-KAR4388-06 - Elefante - El Abandona'o.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "46f2d764-baa0-44af-9130-96ed4f1a963f",
+    "title": "CDJ-KAR4388-06 - Elefante - El Abandona'o",
+    "titles": {
+      "spa": "CDJ-KAR4388-06 - Elefante - El Abandona'o"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5624645c-fea1-4bc9-8c75-57e170af53e4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:52:00.342Z",
+    "modified_at": "2022-11-03T21:52:00.763Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b76b1c4430e9c150827a60352a85e287.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3484620,
+      "gain": -6.84,
+      "duration": 217,
+      "loudnorm": "-10.20,1.11,2.30,-20.37,-0.02",
+      "filename": "processed_eaeb27dc06cdff288b94f8e3a821d581.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

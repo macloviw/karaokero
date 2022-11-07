@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - JULIO IGLESIAS=SI ME DEJAS NO VALE.mp3",
+      "loudnorm": "-14.93,0.92,6.90,-25.64,-0.56",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - JULIO IGLESIAS=SI ME DEJAS NO VALE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ac8cb7a-0e9e-403a-9d49-caa20a34ad20",
+    "title": "JULIO IGLESIAS=SI ME DEJAS NO VALE",
+    "titles": {
+      "spa": "JULIO IGLESIAS=SI ME DEJAS NO VALE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:09:14.979Z",
+    "modified_at": "2022-11-03T08:09:15.418Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_238db0960b51e86d786986bc0bdbfd37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2543249,
+      "gain": -2.53,
+      "duration": 158,
+      "loudnorm": "-14.93,0.92,6.90,-25.64,-0.56",
+      "filename": "processed_d724758b234a48050afcc987207ec93a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

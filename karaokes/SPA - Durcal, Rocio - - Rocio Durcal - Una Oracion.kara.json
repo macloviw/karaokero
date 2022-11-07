@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Una Oracion.mp3",
+      "loudnorm": "-14.68,0.38,2.80,-24.84,0.06",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Una Oracion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6947a823-ea63-4d33-b7d3-4f181a6577b9",
+    "title": "Rocio Durcal - Una Oracion",
+    "titles": {
+      "spa": "Rocio Durcal - Una Oracion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:45:56.341Z",
+    "modified_at": "2022-11-03T12:45:56.765Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecb195b5512b053d1133d5e8599fb60f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5615167,
+      "gain": -3.2,
+      "duration": 233,
+      "loudnorm": "-14.68,0.38,2.80,-24.84,0.06",
+      "filename": "processed_d4c4f10bfae516720328307046d4a0f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

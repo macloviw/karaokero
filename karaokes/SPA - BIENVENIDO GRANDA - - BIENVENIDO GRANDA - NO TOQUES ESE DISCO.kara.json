@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BIENVENIDO GRANDA - - BIENVENIDO GRANDA - NO TOQUES ESE DISCO.mp3",
+      "loudnorm": "-17.62,-4.38,3.60,-28.02,-0.25",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BIENVENIDO GRANDA - - BIENVENIDO GRANDA - NO TOQUES ESE DISCO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae2865c6-f0ee-4c5f-a96d-38388654f1ff",
+    "title": "BIENVENIDO GRANDA - NO TOQUES ESE DISCO",
+    "titles": {
+      "spa": "BIENVENIDO GRANDA - NO TOQUES ESE DISCO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1781e406-f39a-4c89-b07f-79acb7c9dc4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:17:03.155Z",
+    "modified_at": "2022-11-03T02:17:03.557Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cff760896b13511e28ec0b108f33d7e5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2569684,
+      "gain": -0.06,
+      "duration": 183,
+      "loudnorm": "-17.62,-4.38,3.60,-28.02,-0.25",
+      "filename": "processed_e78f490b950071512422048837e6a3d7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

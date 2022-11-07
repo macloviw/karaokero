@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - LA TORTURA.mp3",
+      "loudnorm": "-14.15,1.89,4.80,-24.35,-0.47",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - LA TORTURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba4f792f-cd80-43b6-931b-5e07a8b4aacf",
+    "title": "ALEJANDRO SANZ - LA TORTURA",
+    "titles": {
+      "spa": "ALEJANDRO SANZ - LA TORTURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:08:04.844Z",
+    "modified_at": "2022-11-03T01:08:05.269Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_577b65281273bd2a11c18a4ab5d37399.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3181891,
+      "gain": -3.78,
+      "duration": 227,
+      "loudnorm": "-14.15,1.89,4.80,-24.35,-0.47",
+      "filename": "processed_dacc4b39082a48837db4ad2a0b68ab0d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christian Castro - - Christian Castro - Yo Queria.mp3",
+      "loudnorm": "-7.81,3.64,5.50,-17.99,-1.20",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christian Castro - - Christian Castro - Yo Queria.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d39b8580-8582-4f63-841a-1d888265a504",
+    "title": "Christian Castro - Yo Queria",
+    "titles": {
+      "spa": "Christian Castro - Yo Queria"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27dd2042-d853-49be-87b4-70122a2b96b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:30:11.278Z",
+    "modified_at": "2022-11-03T03:30:11.692Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_602fb48ac9857b0f3f310ae0061f6ff9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4215368,
+      "gain": -9.23,
+      "duration": 263,
+      "loudnorm": "-7.81,3.64,5.50,-17.99,-1.20",
+      "filename": "processed_8137c7bb7d20ac5eb4c8e1ce946aae4b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - VA - 03 - La Chica Fresa.mp3",
+      "loudnorm": "-11.86,0.43,3.60,-22.13,0.05",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - VA - 03 - La Chica Fresa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e9dfcb14-9bab-499e-9231-02cbae2617e4",
+    "title": "VA - 03 - La Chica Fresa",
+    "titles": {
+      "spa": "VA - 03 - La Chica Fresa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:32:31.193Z",
+    "modified_at": "2022-11-03T13:32:31.644Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_edf64c43c8714e08f8f6508b98ae7877.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5281130,
+      "gain": -6.17,
+      "duration": 220,
+      "loudnorm": "-11.86,0.43,3.60,-22.13,0.05",
+      "filename": "processed_a71d8af7b77dfbb8dbf4aaa0ffcf93df.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

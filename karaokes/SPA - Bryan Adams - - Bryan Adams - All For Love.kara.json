@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - All For Love.MP3",
+      "loudnorm": "-15.50,-0.81,7.30,-25.80,-1.23",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - All For Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b65d555-b492-4f27-8532-0a6fa0842715",
+    "title": "Bryan Adams - All For Love",
+    "titles": {
+      "spa": "Bryan Adams - All For Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:11:05.518Z",
+    "modified_at": "2022-11-04T00:11:06.199Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4754799,
+      "gain": -2.37,
+      "duration": 297,
+      "loudnorm": "-15.50,-0.81,7.30,-25.80,-1.23",
+      "filename": "processed_980c43e72b4c0669aa7762bb4e3d9458.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4754799,
+      "gain": -2.37,
+      "duration": 297,
+      "loudnorm": "-15.50,-0.81,7.30,-25.80,-1.23",
+      "filename": "processed_cacabd232ce3c9b66f651ba702e07bc6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

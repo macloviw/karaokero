@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - PACAS DE KILOS.mp3",
+      "loudnorm": "-16.03,1.11,11.70,-26.24,-0.01",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - PACAS DE KILOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d17102aa-c2ee-4c41-9301-15f851162d43",
+    "title": "BANDA MACHOS - PACAS DE KILOS",
+    "titles": {
+      "spa": "BANDA MACHOS - PACAS DE KILOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:08:08.945Z",
+    "modified_at": "2022-11-03T02:08:09.374Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae16f12b30ec1ba24bb85056396d9e27.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2867011,
+      "gain": -5.73,
+      "duration": 204,
+      "loudnorm": "-16.03,1.11,11.70,-26.24,-0.01",
+      "filename": "processed_075d5ba4258c464fdf8008d7decb4f1b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

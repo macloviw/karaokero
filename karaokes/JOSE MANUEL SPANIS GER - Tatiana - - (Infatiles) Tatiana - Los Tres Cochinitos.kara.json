@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Los Tres Cochinitos.mp3",
+      "loudnorm": "-19.50,-3.10,6.40,-29.69,0.64",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Los Tres Cochinitos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aa5211b2-b1d0-4c8e-a6bf-162071888e37",
+    "title": "(Infatiles) Tatiana - Los Tres Cochinitos",
+    "titles": {
+      "spa": "(Infatiles) Tatiana - Los Tres Cochinitos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "30e92243-2ccd-4213-80a5-5dd0d694985b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:36:34.983Z",
+    "modified_at": "2022-11-04T08:36:35.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_af1aa59fdeab0b0d9a3681542f496606.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2562696,
+      "gain": 0.61,
+      "duration": 160,
+      "loudnorm": "-19.50,-3.10,6.40,-29.69,0.64",
+      "filename": "processed_bf4fbac3f5788f755c1177f9f5e8ef50.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

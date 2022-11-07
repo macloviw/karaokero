@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bonnie Tyler - - Bonnie Tyler - Holding Out For A Hero.mp3",
+      "loudnorm": "-16.35,-1.86,2.40,-26.41,-0.46",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bonnie Tyler - - Bonnie Tyler - Holding Out For A Hero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b3f96d53-8a00-4beb-b4f4-e36b0e5c6066",
+    "title": "Bonnie Tyler - Holding Out For A Hero",
+    "titles": {
+      "spa": "Bonnie Tyler - Holding Out For A Hero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "963b53b7-bfb8-4166-8538-4df470b1f7dd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:07:33.483Z",
+    "modified_at": "2022-11-04T00:07:33.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8b1cb93b37085f79988d155bdf8bd02.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4370695,
+      "gain": -1.74,
+      "duration": 273,
+      "loudnorm": "-16.35,-1.86,2.40,-26.41,-0.46",
+      "filename": "processed_2ced2a6a518aa8e8e3f78fb87d017e04.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

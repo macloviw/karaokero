@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dawn - - Dawn - candida.mp3",
+      "loudnorm": "-15.28,-2.57,1.70,-25.41,-0.55",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dawn - - Dawn - candida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0b35760-b84e-4052-bf26-2c0f85293266",
+    "title": "Dawn - candida",
+    "titles": {
+      "spa": "Dawn - candida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "282c1450-5f6a-4096-a97d-92fb99bbec8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:18:15.910Z",
+    "modified_at": "2022-11-04T00:18:16.295Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_86dcf92b6fbb675ebd8af8f7d32b2403.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3154852,
+      "gain": -0.87,
+      "duration": 197,
+      "loudnorm": "-15.28,-2.57,1.70,-25.41,-0.55",
+      "filename": "processed_e2487bce774d0302333226ae27889e54.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

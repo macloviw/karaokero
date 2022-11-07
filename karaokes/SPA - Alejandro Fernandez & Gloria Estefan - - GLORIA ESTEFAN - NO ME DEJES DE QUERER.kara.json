@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - NO ME DEJES DE QUERER.MP3",
+      "loudnorm": "-11.44,1.06,5.20,-21.49,-1.18",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - NO ME DEJES DE QUERER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99ea5af8-3eac-479f-bb34-3186fd5aa350",
+    "title": "GLORIA ESTEFAN   -   NO ME DEJES DE QUERER",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   NO ME DEJES DE QUERER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:34:56.501Z",
+    "modified_at": "2022-11-03T05:34:57.080Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3527125,
+      "gain": -7.84,
+      "duration": 220,
+      "loudnorm": "-11.44,1.06,5.20,-21.49,-1.18",
+      "filename": "processed_71ddd2d4d3e75e199e9211c6b810a548.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3527125,
+      "gain": -7.84,
+      "duration": 220,
+      "loudnorm": "-11.44,1.06,5.20,-21.49,-1.18",
+      "filename": "processed_f13d4be35202115125f9b06dc9f01a3b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

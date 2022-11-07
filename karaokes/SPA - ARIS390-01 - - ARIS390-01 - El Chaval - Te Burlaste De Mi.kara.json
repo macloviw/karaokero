@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS390-01 - - ARIS390-01 - El Chaval - Te Burlaste De Mi.mp3",
+      "loudnorm": "-10.96,3.24,2.80,-20.98,-0.31",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS390-01 - - ARIS390-01 - El Chaval - Te Burlaste De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cc0c3f67-ab5d-4fcb-afec-bdb524bfcad9",
+    "title": "ARIS390-01 - El Chaval - Te Burlaste De Mi",
+    "titles": {
+      "spa": "ARIS390-01 - El Chaval - Te Burlaste De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "e963ef9c-db64-4bb2-8f25-aec1d39ac57b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:40:07.856Z",
+    "modified_at": "2022-11-03T21:40:08.351Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_97066fa26d22e9257e1f986076d35c3c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4406638,
+      "gain": -6.94,
+      "duration": 275,
+      "loudnorm": "-10.96,3.24,2.80,-20.98,-0.31",
+      "filename": "processed_2f68ba9c2719281577842a04c1b8b556.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

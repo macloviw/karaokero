@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Miramar - - Grupo Miramar - Una Lagrima Y Un Recuerdo.mp3",
+      "loudnorm": "-13.47,0.71,2.20,-23.68,0.10",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Miramar - - Grupo Miramar - Una Lagrima Y Un Recuerdo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6ba5341e-d0cb-4aba-b446-7a285e7a2f31",
+    "title": "Grupo Miramar - Una Lagrima Y Un Recuerdo",
+    "titles": {
+      "spa": "Grupo Miramar - Una Lagrima Y Un Recuerdo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "058b9630-40e6-4a19-869d-d2753e896fc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:46:46.657Z",
+    "modified_at": "2022-11-03T05:46:47.082Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_32ef0fff9133955b5d5bbf87fe700a07.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2522655,
+      "gain": -3.21,
+      "duration": 180,
+      "loudnorm": "-13.47,0.71,2.20,-23.68,0.10",
+      "filename": "processed_856148b839891bf644153f5d966cc5a4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

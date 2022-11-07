@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Black Eyed Peas, The - - Black Eyed Peas - My Humps (Radio Version).mp3",
+      "loudnorm": "-11.20,3.58,5.50,-21.34,-1.06",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Black Eyed Peas, The - - Black Eyed Peas - My Humps (Radio Version).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c040c82-a155-4c7b-9bc1-716416bf7863",
+    "title": "Black Eyed Peas - My Humps (Radio Version)",
+    "titles": {
+      "spa": "Black Eyed Peas - My Humps (Radio Version)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6cabde9f-cce8-4160-8c87-02a17170e84e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:04:00.225Z",
+    "modified_at": "2022-11-04T00:04:00.616Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f298c01502521f29dd03b618138516e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3866830,
+      "gain": -4.06,
+      "duration": 241,
+      "loudnorm": "-11.20,3.58,5.50,-21.34,-1.06",
+      "filename": "processed_196fe50e59669442fb2e850010669c79.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

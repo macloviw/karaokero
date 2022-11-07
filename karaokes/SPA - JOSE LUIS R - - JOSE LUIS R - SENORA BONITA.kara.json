@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - SENORA BONITA.MP3",
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - SENORA BONITA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5505579e-9abb-47bc-ba92-a73878ae0740",
+    "title": "JOSE LUIS R   -   SEÑORA BONITA",
+    "titles": {
+      "spa": "JOSE LUIS R   -   SEÑORA BONITA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:25:03.078Z",
+    "modified_at": "2022-11-03T07:25:03.538Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2447537,
+      "gain": -3.71,
+      "duration": 152,
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "filename": "processed_c421fabae962a7ea09b05a0c92504f60.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2447537,
+      "gain": -3.71,
+      "duration": 152,
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "filename": "processed_a2932bf5eeeb44600949622af0c32620.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

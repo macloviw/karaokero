@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - quitame la vida - alex bueno.mp3",
+      "loudnorm": "-11.46,3.57,3.00,-21.56,-0.21",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - quitame la vida - alex bueno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dc22b181-ded1-4e74-84b5-0380a0e8ba73",
+    "title": "quitame la vida - alex bueno",
+    "titles": {
+      "spa": "quitame la vida - alex bueno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:07:17.746Z",
+    "modified_at": "2022-11-04T02:07:18.122Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d9c4919c18c59b9bc018097557000761.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5858420,
+      "gain": -5.96,
+      "duration": 243,
+      "loudnorm": "-11.46,3.57,3.00,-21.56,-0.21",
+      "filename": "processed_e47f203745b29b0b3d9060c3765aed3a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

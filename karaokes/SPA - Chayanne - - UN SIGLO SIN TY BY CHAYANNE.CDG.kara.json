@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - UN SIGLO SIN TY BY CHAYANNE.CDG.MP3",
+      "loudnorm": "-14.41,0.53,6.80,-24.67,-0.43",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - UN SIGLO SIN TY BY CHAYANNE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1623b137-d2a3-46c4-be17-50be33fa993f",
+    "title": "UN SIGLO SIN TY BY CHAYANNE.CDG",
+    "titles": {
+      "spa": "UN SIGLO SIN TY BY CHAYANNE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:23:07.125Z",
+    "modified_at": "2022-11-03T03:23:07.733Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4593339,
+      "gain": -3.32,
+      "duration": 286,
+      "loudnorm": "-14.41,0.53,6.80,-24.67,-0.43",
+      "filename": "processed_a784faa27feb5a79c78d89c63f2dcaa8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4593339,
+      "gain": -3.32,
+      "duration": 286,
+      "loudnorm": "-14.41,0.53,6.80,-24.67,-0.43",
+      "filename": "processed_d50831ca26de89936b756549d83123a1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

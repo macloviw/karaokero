@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - En El Jardin De Mis Amores.MP3",
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - En El Jardin De Mis Amores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3731c581-1386-47c5-bc34-06ee01daf34e",
+    "title": "Gloria Estefan - En El Jardin De Mis Amores",
+    "titles": {
+      "spa": "Gloria Estefan - En El Jardin De Mis Amores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:36:58.166Z",
+    "modified_at": "2022-11-03T05:36:58.818Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4513792,
+      "gain": 2.83,
+      "duration": 281,
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "filename": "processed_a0221e5ac0fa2c404b533c74a05c628f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4513792,
+      "gain": 2.83,
+      "duration": 281,
+      "loudnorm": "-18.64,0.42,8.50,-28.97,-0.97",
+      "filename": "processed_93d71c5e6be0fe43cbf7bf8ae4f12697.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

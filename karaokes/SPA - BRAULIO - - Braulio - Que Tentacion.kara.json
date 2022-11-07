@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - Braulio - Que Tentacion.mp3",
+      "loudnorm": "-14.87,1.60,10.50,-25.05,-1.61",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - Braulio - Que Tentacion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "19013bd8-d1af-422c-ba64-88368e96bf81",
+    "title": "Braulio - Que Tentación",
+    "titles": {
+      "spa": "Braulio - Que Tentación"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:32:26.815Z",
+    "modified_at": "2022-11-03T02:32:27.246Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c61efba439edab3c776cb39e1fef3d28.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4765696,
+      "gain": -4.26,
+      "duration": 297,
+      "loudnorm": "-14.87,1.60,10.50,-25.05,-1.61",
+      "filename": "processed_2079e536bfc2dc9954d449307d269002.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

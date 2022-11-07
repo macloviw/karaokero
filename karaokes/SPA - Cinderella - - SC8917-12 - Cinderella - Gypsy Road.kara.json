@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cinderella - - SC8917-12 - Cinderella - Gypsy Road.mp3",
+      "loudnorm": "-14.01,2.02,3.20,-24.08,-0.90",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cinderella - - SC8917-12 - Cinderella - Gypsy Road.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e873a17-a144-4bd4-b943-b3611a68d719",
+    "title": "SC8917-12 - Cinderella - Gypsy Road",
+    "titles": {
+      "spa": "SC8917-12 - Cinderella - Gypsy Road"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6d66611b-fcf0-41d7-9d6a-56ec5acb5a37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:40:44.589Z",
+    "modified_at": "2022-11-03T15:40:45.132Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecd4fc30f7bbb7d88f7bdec9ab8fc93c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4202496,
+      "gain": -4.36,
+      "duration": 262,
+      "loudnorm": "-14.01,2.02,3.20,-24.08,-0.90",
+      "filename": "processed_e6a3e2217f2a7842a0bebcce7e2f4122.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

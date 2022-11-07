@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - La Mecedora.mp3",
+      "loudnorm": "-13.24,1.15,2.80,-23.27,-0.11",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - La Mecedora.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7b6f748-1a19-4a70-a812-58f2bb5813b7",
+    "title": "Banda Real - La Mecedora",
+    "titles": {
+      "spa": "Banda Real - La Mecedora"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:39:24.674Z",
+    "modified_at": "2022-11-04T02:39:25.065Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_37dae202373e75641a1df36c2ea19944.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5079972,
+      "gain": -4.05,
+      "duration": 317,
+      "loudnorm": "-13.24,1.15,2.80,-23.27,-0.11",
+      "filename": "processed_92d4e85aed5c3c5291e52a09df0c5b98.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DOBLE T & EL CROK - - DOBLE T & EL CROK - KITIPO.mp3",
+      "loudnorm": "-8.94,2.04,2.90,-18.98,-1.08",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DOBLE T & EL CROK - - DOBLE T & EL CROK - KITIPO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3e5e7d65-690a-4e64-b0ea-0923638bc34c",
+    "title": "DOBLE T & EL CROK   -   KITIPO",
+    "titles": {
+      "spa": "DOBLE T & EL CROK   -   KITIPO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "05118e36-30d7-4a48-89b6-013201929887"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:46:43.592Z",
+    "modified_at": "2022-11-03T23:46:43.977Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5d381f8f8115057b34664371ad5be80b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3404791,
+      "gain": -8.06,
+      "duration": 212,
+      "loudnorm": "-8.94,2.04,2.90,-18.98,-1.08",
+      "filename": "processed_50490115ff08a36be4060c7fca0fe460.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

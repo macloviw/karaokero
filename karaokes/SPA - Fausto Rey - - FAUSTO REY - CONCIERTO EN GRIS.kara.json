@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fausto Rey - - FAUSTO REY - CONCIERTO EN GRIS.mp3",
+      "loudnorm": "-17.65,-0.12,4.80,-27.72,-0.79",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fausto Rey - - FAUSTO REY - CONCIERTO EN GRIS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "66973820-7ced-431e-bf91-79d4b4201757",
+    "title": "FAUSTO REY - CONCIERTO EN GRIS",
+    "titles": {
+      "spa": "FAUSTO REY - CONCIERTO EN GRIS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7c2d7693-0c8d-4752-84f4-31b48ea72490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:14:02.926Z",
+    "modified_at": "2022-11-03T05:14:03.334Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ddb292e0950777bdedcf3c0f6647c201.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4313351,
+      "gain": 1.25,
+      "duration": 269,
+      "loudnorm": "-17.65,-0.12,4.80,-27.72,-0.79",
+      "filename": "processed_c6a67241b997ef28846fb78565b0f8c4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

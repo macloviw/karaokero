@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISABEL PANTOJA - - 04.- Se me enamora el alma.mp3",
+      "loudnorm": "-12.00,1.93,2.90,-22.07,0.21",
+      "duration": 312,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISABEL PANTOJA - - 04.- Se me enamora el alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a5797591-ac5c-41ad-8e84-be64269c8412",
+    "title": "04.- Se me enamora el alma",
+    "titles": {
+      "spa": "04.- Se me enamora el alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ca0a4963-49c9-4f5a-886d-ed2e8febd3e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:52:09.186Z",
+    "modified_at": "2022-11-03T05:52:09.617Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a6a43e9c08565c938d61251ebe61ed62.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5008425,
+      "gain": -3.81,
+      "duration": 312,
+      "loudnorm": "-12.00,1.93,2.90,-22.07,0.21",
+      "filename": "processed_53d9424a1074d8967cda1c4a175796eb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

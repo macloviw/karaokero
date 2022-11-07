@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - VOY A PERDER LA CABEZA POR TU AMOR.MP3",
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "duration": 334,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - VOY A PERDER LA CABEZA POR TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "541e3f81-3350-4b84-8db4-2eb01aed628e",
+    "title": "JOSE LUIS R   -   VOY A PERDER LA CABEZA POR TU AMOR",
+    "titles": {
+      "spa": "JOSE LUIS R   -   VOY A PERDER LA CABEZA POR TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:25:50.074Z",
+    "modified_at": "2022-11-03T07:25:50.725Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5351517,
+      "gain": -1.69,
+      "duration": 334,
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "filename": "processed_864b4fc7b5cb77fc5865a3fc8a02a19c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5351517,
+      "gain": -1.69,
+      "duration": 334,
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "filename": "processed_7a4bff058f9b9b7523400ba01e9c0f7b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

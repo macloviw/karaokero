@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - CAMBIA DE VIDA-ANTHONY SANTOS-MERENGUE.mp3",
+      "loudnorm": "-11.33,-0.33,7.50,-21.37,-1.35",
+      "duration": 348,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - CAMBIA DE VIDA-ANTHONY SANTOS-MERENGUE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "857ef41f-5341-4737-865b-4b0e3dc30619",
+    "title": "CAMBIA DE VIDA-ANTHONY SANTOS-MERENGUE",
+    "titles": {
+      "spa": "CAMBIA DE VIDA-ANTHONY SANTOS-MERENGUE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:52:38.091Z",
+    "modified_at": "2022-11-02T22:52:38.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f38c97865582b221853740571dc47a04.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4189590,
+      "gain": -10.06,
+      "duration": 348,
+      "loudnorm": "-11.33,-0.33,7.50,-21.37,-1.35",
+      "filename": "processed_3bdd209cf0624245fc336ae5206d0477.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

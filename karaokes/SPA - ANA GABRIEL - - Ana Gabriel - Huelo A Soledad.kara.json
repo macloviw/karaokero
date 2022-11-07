@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - Ana Gabriel - Huelo A Soledad.mp3",
+      "loudnorm": "-15.63,0.12,11.20,-26.00,-1.28",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - Ana Gabriel - Huelo A Soledad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b13d72cf-ebde-488b-921c-ce260f6b3651",
+    "title": "Ana Gabriel - Huelo A Soledad",
+    "titles": {
+      "spa": "Ana Gabriel - Huelo A Soledad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:42:14.708Z",
+    "modified_at": "2022-11-03T01:42:15.140Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_504a1f0e0fa3dd27daf751742c4ce3ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5725509,
+      "gain": -1.04,
+      "duration": 238,
+      "loudnorm": "-15.63,0.12,11.20,-26.00,-1.28",
+      "filename": "processed_595d2b99e76736183ba34e09ee75124b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Brand New Heavies - - Brand New Heavies - Midnight At The Oasis.MP3",
+      "loudnorm": "-18.29,0.05,3.70,-28.39,-0.65",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Brand New Heavies - - Brand New Heavies - Midnight At The Oasis.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "098a3c9d-c9c5-402f-bd6b-ed7962ab98e0",
+    "title": "Brand New Heavies - Midnight At The Oasis",
+    "titles": {
+      "spa": "Brand New Heavies - Midnight At The Oasis"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "eef7465e-1701-4a10-8422-f2f5fe089342"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:08:58.406Z",
+    "modified_at": "2022-11-04T00:08:59.188Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3988680,
+      "gain": 1.31,
+      "duration": 249,
+      "loudnorm": "-18.29,0.05,3.70,-28.39,-0.65",
+      "filename": "processed_ec05bf323ecd5607277732104b4b02f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3988680,
+      "gain": 1.31,
+      "duration": 249,
+      "loudnorm": "-18.29,0.05,3.70,-28.39,-0.65",
+      "filename": "processed_049b66115b114474f1fe5d80361b125f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

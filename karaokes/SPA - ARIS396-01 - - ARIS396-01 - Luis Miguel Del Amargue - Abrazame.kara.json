@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS396-01 - - ARIS396-01 - Luis Miguel Del Amargue - Abrazame.mp3",
+      "loudnorm": "-24.23,-5.72,2.40,-34.23,-0.17",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS396-01 - - ARIS396-01 - Luis Miguel Del Amargue - Abrazame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3efe5391-1cfe-417e-bcfe-fdf6fdf7fc55",
+    "title": "ARIS396-01 - Luis Miguel Del Amargue - Abrazame",
+    "titles": {
+      "spa": "ARIS396-01 - Luis Miguel Del Amargue - Abrazame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64ac6d55-95af-41fd-8570-24f51e5917b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:40:49.569Z",
+    "modified_at": "2022-11-03T21:40:49.978Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e583d828a3e2d6ecf4bbeb9f4b8e4e0f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4916967,
+      "gain": 5.61,
+      "duration": 307,
+      "loudnorm": "-24.23,-5.72,2.40,-34.23,-0.17",
+      "filename": "processed_eb3116911a72f463acf821eb79cff470.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camila - - CAMILA-PERDERTE DE NUEVO.mp3",
+      "loudnorm": "-16.49,0.48,14.30,-27.99,-0.74",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camila - - CAMILA-PERDERTE DE NUEVO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06d4f5f3-b9d2-466c-ac2c-b328092f8c20",
+    "title": "CAMILA-PERDERTE DE NUEVO",
+    "titles": {
+      "spa": "CAMILA-PERDERTE DE NUEVO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b4e5c91-dc93-4341-8d71-2d3c8d03ce0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:44:17.758Z",
+    "modified_at": "2022-11-03T02:44:18.166Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a426095ee46827aa91035a7e08dc009c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2734621,
+      "gain": -3.33,
+      "duration": 195,
+      "loudnorm": "-16.49,0.48,14.30,-27.99,-0.74",
+      "filename": "processed_c887fb4d051524faac5b21788e754a52.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA BARBARA - - ANA BARBARA - TE REGALO LA LLUVIA.MP3",
+      "loudnorm": "-9.42,3.36,2.60,-19.52,0.22",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA BARBARA - - ANA BARBARA - TE REGALO LA LLUVIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "953fd467-ae30-4377-bc51-1a44eb229a37",
+    "title": "ANA BARBARA   -   TE REGALO LA LLUVIA",
+    "titles": {
+      "spa": "ANA BARBARA   -   TE REGALO LA LLUVIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3fa72ba-27c9-42eb-8aad-c0bfb0a48d9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:35:54.748Z",
+    "modified_at": "2022-11-03T01:35:55.358Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3332774,
+      "gain": -7.07,
+      "duration": 208,
+      "loudnorm": "-9.42,3.36,2.60,-19.52,0.22",
+      "filename": "processed_2a5aa3f8bb0c2df46113691db27a236d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3332774,
+      "gain": -7.07,
+      "duration": 208,
+      "loudnorm": "-9.42,3.36,2.60,-19.52,0.22",
+      "filename": "processed_317249aa50335601b9203581ce864c12.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

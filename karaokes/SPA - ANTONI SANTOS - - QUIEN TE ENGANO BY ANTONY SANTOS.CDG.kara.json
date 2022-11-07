@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - QUIEN TE ENGANO BY ANTONY SANTOS.CDG.MP3",
+      "loudnorm": "-11.91,-1.07,3.60,-22.02,-0.83",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - QUIEN TE ENGANO BY ANTONY SANTOS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62880a7c-3a02-465d-95cc-5fda1666638e",
+    "title": "QUIEN TE ENGAÑO BY ANTONY SANTOS.CDG",
+    "titles": {
+      "spa": "QUIEN TE ENGAÑO BY ANTONY SANTOS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:56:21.318Z",
+    "modified_at": "2022-11-02T22:56:21.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3491181,
+      "gain": -6.51,
+      "duration": 218,
+      "loudnorm": "-11.91,-1.07,3.60,-22.02,-0.83",
+      "filename": "processed_df999c5246680c1d4f50b1ecf3cc689a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3491181,
+      "gain": -6.51,
+      "duration": 218,
+      "loudnorm": "-11.91,-1.07,3.60,-22.02,-0.83",
+      "filename": "processed_61ac25e371635d1948e5f8cefd2a5d13.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

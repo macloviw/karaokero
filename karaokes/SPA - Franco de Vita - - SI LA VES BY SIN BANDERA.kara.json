@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - SI LA VES BY SIN BANDERA.MP3",
+      "loudnorm": "-12.39,-0.49,5.20,-22.53,-1.42",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - SI LA VES BY SIN BANDERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "45f69b2a-256f-42a0-b468-454c416ea7ab",
+    "title": "SI LA VES BY SIN BANDERA",
+    "titles": {
+      "spa": "SI LA VES BY SIN BANDERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:29:52.315Z",
+    "modified_at": "2022-11-03T05:29:53.001Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4212996,
+      "gain": -3.81,
+      "duration": 263,
+      "loudnorm": "-12.39,-0.49,5.20,-22.53,-1.42",
+      "filename": "processed_ae88e661c16606da285945d50dcb76dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4212996,
+      "gain": -3.81,
+      "duration": 263,
+      "loudnorm": "-12.39,-0.49,5.20,-22.53,-1.42",
+      "filename": "processed_d2c45aa4de4518ca1fadbf3434db30f0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

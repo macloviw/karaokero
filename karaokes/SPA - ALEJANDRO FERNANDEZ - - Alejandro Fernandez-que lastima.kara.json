@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-que lastima.MP3",
+      "loudnorm": "-9.63,3.61,6.90,-19.87,-0.55",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-que lastima.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "56ba0261-e4af-407b-9f32-91aa56a32516",
+    "title": "Alejandro Fernandez-que lastima",
+    "titles": {
+      "spa": "Alejandro Fernandez-que lastima"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:50:17.779Z",
+    "modified_at": "2022-11-03T00:50:18.473Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4324302,
+      "gain": -8.47,
+      "duration": 270,
+      "loudnorm": "-9.63,3.61,6.90,-19.87,-0.55",
+      "filename": "processed_350465627948f51dd748ae58e0c2a1e9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4324302,
+      "gain": -8.47,
+      "duration": 270,
+      "loudnorm": "-9.63,3.61,6.90,-19.87,-0.55",
+      "filename": "processed_d4c894bb87d18bf041061bc7012a7fae.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

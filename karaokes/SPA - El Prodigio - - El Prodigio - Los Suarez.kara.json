@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Prodigio - - El Prodigio - Los Suarez.mp3",
+      "loudnorm": "-7.20,1.22,4.00,-17.22,-0.24",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Prodigio - - El Prodigio - Los Suarez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "16d7d329-25b5-4693-a28d-7d68dfa6e541",
+    "title": "El Prodigio - Los Suarez",
+    "titles": {
+      "spa": "El Prodigio - Los Suarez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c1b3cba1-935f-47b1-bfe6-13fd4f6da36e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:10:33.432Z",
+    "modified_at": "2022-11-04T03:10:33.822Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7fec75da9ded0399c58b171a0fd4290b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5413490,
+      "gain": -12.68,
+      "duration": 250,
+      "loudnorm": "-7.20,1.22,4.00,-17.22,-0.24",
+      "filename": "processed_96c2fb45736daae094e5f053c162c9d7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

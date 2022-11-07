@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-me dedique a perderte.MP3",
+      "loudnorm": "-9.13,4.33,4.10,-19.24,0.39",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-me dedique a perderte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "95befd54-1a96-4498-8099-50556b2a42a0",
+    "title": "Alejandro Fernandez-me dedique a perderte",
+    "titles": {
+      "spa": "Alejandro Fernandez-me dedique a perderte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:49:09.768Z",
+    "modified_at": "2022-11-03T00:49:10.280Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3731636,
+      "gain": -8.87,
+      "duration": 233,
+      "loudnorm": "-9.13,4.33,4.10,-19.24,0.39",
+      "filename": "processed_7300973c5af54cee183273f98cd4d64a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3731636,
+      "gain": -8.87,
+      "duration": 233,
+      "loudnorm": "-9.13,4.33,4.10,-19.24,0.39",
+      "filename": "processed_33e563e566356f30bad260d38f3a552d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

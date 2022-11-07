@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 12 - Todo Por Nada.mp3",
+      "loudnorm": "-16.49,-0.08,9.10,-26.56,1.07",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 12 - Todo Por Nada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92f325ce-4a44-4157-ae44-eb0b09cd6a7b",
+    "title": "Camilo Sesto - 12 - Todo Por Nada",
+    "titles": {
+      "spa": "Camilo Sesto - 12 - Todo Por Nada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:52:55.737Z",
+    "modified_at": "2022-11-03T02:52:56.139Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_48e3338fc7dcc194f84e94cc48fdf5ba.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4827225,
+      "gain": -2.73,
+      "duration": 201,
+      "loudnorm": "-16.49,-0.08,9.10,-26.56,1.07",
+      "filename": "processed_ca808bfed1bc506c80a524c9b088d7fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

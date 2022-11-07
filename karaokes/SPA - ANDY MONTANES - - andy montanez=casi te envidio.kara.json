@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY MONTANES - - andy montanez=casi te envidio.MP3",
+      "loudnorm": "-18.67,-1.05,5.00,-28.75,-0.63",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY MONTANES - - andy montanez=casi te envidio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "27eb552b-e8d4-40c6-98c0-6aad39eff176",
+    "title": "andy montanez=casi te envidio",
+    "titles": {
+      "spa": "andy montanez=casi te envidio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7ded384e-080e-4fe2-8082-45859c13632f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T17:18:43.102Z",
+    "modified_at": "2022-11-03T17:18:44.199Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8090324,
+      "gain": -0.62,
+      "duration": 337,
+      "loudnorm": "-18.67,-1.05,5.00,-28.75,-0.63",
+      "filename": "processed_c10ed0e477ed7b44efa4cf83134129b1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8090324,
+      "gain": -0.62,
+      "duration": 337,
+      "loudnorm": "-18.67,-1.05,5.00,-28.75,-0.63",
+      "filename": "processed_fb47841ccabeecaecf3b8bd8255ec65c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

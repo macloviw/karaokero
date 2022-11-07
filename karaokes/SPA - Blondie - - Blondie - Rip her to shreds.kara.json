@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - Rip her to shreds.mp3",
+      "loudnorm": "-9.60,2.70,2.20,-19.65,-1.02",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - Rip her to shreds.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "48c678c5-5856-46d3-92d2-2fd591845ea1",
+    "title": "Blondie - Rip her to shreds",
+    "titles": {
+      "spa": "Blondie - Rip her to shreds"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:13:12.426Z",
+    "modified_at": "2022-11-03T15:13:12.839Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9a744a6ea76111a2a522a2f827cc4048.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3615315,
+      "gain": -6.5,
+      "duration": 225,
+      "loudnorm": "-9.60,2.70,2.20,-19.65,-1.02",
+      "filename": "processed_b1f98623a7db67ef7a9bc875c30b2fd7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

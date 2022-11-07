@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Mas Que Un Loco.MP3",
+      "loudnorm": "-14.46,3.10,4.70,-24.67,0.14",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Mas Que Un Loco.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b51be535-0307-418d-af37-3f3b29775b7a",
+    "title": "Toño Rosario   -   Mas Que Un Loco",
+    "titles": {
+      "spa": "Toño Rosario   -   Mas Que Un Loco"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:17:02.324Z",
+    "modified_at": "2022-11-04T11:17:02.773Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3446588,
+      "gain": -2.6,
+      "duration": 215,
+      "loudnorm": "-14.46,3.10,4.70,-24.67,0.14",
+      "filename": "processed_aea70cd1939db2aa993a229c76d537c8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3446588,
+      "gain": -2.6,
+      "duration": 215,
+      "loudnorm": "-14.46,3.10,4.70,-24.67,0.14",
+      "filename": "processed_88379d2b8ef2cd43564a9ada0a6e58b0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

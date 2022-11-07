@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - WILLIE GONZALEZ - DOBLE VIDA.mp3",
+      "loudnorm": "-12.36,-0.25,3.70,-22.39,-0.24",
+      "duration": 346,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - WILLIE GONZALEZ - DOBLE VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d126858-b522-421a-93db-51b5b9f0dddd",
+    "title": "WILLIE GONZALEZ  -  DOBLE VIDA",
+    "titles": {
+      "spa": "WILLIE GONZALEZ  -  DOBLE VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:48:19.838Z",
+    "modified_at": "2022-11-04T08:48:20.233Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a8a9c15397b9974adb1de7732280f5f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 13848333,
+      "gain": -6.12,
+      "duration": 346,
+      "loudnorm": "-12.36,-0.25,3.70,-22.39,-0.24",
+      "filename": "processed_e277eb6cb9384bd771dfd18606f58b21.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

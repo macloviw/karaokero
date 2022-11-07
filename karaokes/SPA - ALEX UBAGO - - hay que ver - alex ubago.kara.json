@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX UBAGO - - hay que ver - alex ubago.mp3",
+      "loudnorm": "-14.81,-0.07,6.80,-25.10,-0.58",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX UBAGO - - hay que ver - alex ubago.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eeb38d14-7688-41cc-bd1e-c32973407bdd",
+    "title": "hay que ver - alex ubago",
+    "titles": {
+      "spa": "hay que ver - alex ubago"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b55c95d-31be-42a1-88a3-d1e0b29146c6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:17:18.564Z",
+    "modified_at": "2022-11-03T01:17:18.974Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3aa8633fb3d8c83ac50c7221473904e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6847102,
+      "gain": -3.11,
+      "duration": 285,
+      "loudnorm": "-14.81,-0.07,6.80,-25.10,-0.58",
+      "filename": "processed_766221d9cb34c96cefe7b415cf45a4ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

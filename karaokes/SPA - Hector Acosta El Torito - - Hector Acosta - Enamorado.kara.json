@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - Enamorado.mp3",
+      "loudnorm": "-11.89,2.25,6.50,-21.95,-1.47",
+      "duration": 339,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector Acosta - Enamorado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "46300202-e25d-4757-8bdc-6eb48d3d1a48",
+    "title": "Hector Acosta - Enamorado",
+    "titles": {
+      "spa": "Hector Acosta - Enamorado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:29:31.888Z",
+    "modified_at": "2022-11-04T03:29:32.276Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4dce4217cab4e71b5819f723d2165fb4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10867452,
+      "gain": -7.21,
+      "duration": 339,
+      "loudnorm": "-11.89,2.25,6.50,-21.95,-1.47",
+      "filename": "processed_d088aadb7e56e271e3d5ade6c7975c93.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Barbara Streisand - - Barbara Streisand - Evegreen.MP3",
+      "loudnorm": "-26.52,-9.93,6.40,-36.61,-1.03",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Barbara Streisand - - Barbara Streisand - Evegreen.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a478902-2e4a-4992-a982-f6a6eeb4f5c3",
+    "title": "Barbara Streisand - Evegreen",
+    "titles": {
+      "spa": "Barbara Streisand - Evegreen"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "faaa46f9-462f-4503-b1aa-379535d57d19"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:58:08.193Z",
+    "modified_at": "2022-11-03T23:58:08.700Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7601729,
+      "gain": 9.58,
+      "duration": 189,
+      "loudnorm": "-26.52,-9.93,6.40,-36.61,-1.03",
+      "filename": "processed_7c24cef2a9d5b87f68b6a43ff2fdb641.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7601729,
+      "gain": 9.58,
+      "duration": 189,
+      "loudnorm": "-26.52,-9.93,6.40,-36.61,-1.03",
+      "filename": "processed_57e483aa593e1944f64fab53568cfd7c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Compreder mas y amarse menos.mp3",
+      "loudnorm": "-9.61,5.92,9.50,-19.82,-0.55",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Compreder mas y amarse menos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3d054ec-999b-4c90-b977-888992531a4e",
+    "title": "Anthony Rios - Compreder mas y amarse menos",
+    "titles": {
+      "spa": "Anthony Rios - Compreder mas y amarse menos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:50:34.830Z",
+    "modified_at": "2022-11-03T01:50:35.242Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1a818e236b4e24b20668487d955efbca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3335615,
+      "gain": -8.35,
+      "duration": 208,
+      "loudnorm": "-9.61,5.92,9.50,-19.82,-0.55",
+      "filename": "processed_6c58a7892f6f142796421b1d5b88bd21.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

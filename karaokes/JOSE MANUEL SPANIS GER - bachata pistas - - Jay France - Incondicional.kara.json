@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - bachata pistas - - Jay France - Incondicional.mp3",
+      "loudnorm": "-11.46,1.41,3.80,-21.53,-1.16",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - bachata pistas - - Jay France - Incondicional.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4204346,
+      "audiogain": -6.39
+    }
+  ],
+  "data": {
+    "kid": "6fa0aa9b-ef14-4b6a-a740-8d520268c9da",
+    "title": "Jay France - Incondicional",
+    "titles": {
+      "spa": "Jay France - Incondicional"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f7e5dfe1-9449-4f3a-b289-1bb32ff5d3c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:11:37.938Z",
+    "modified_at": "2022-11-04T20:32:07.957Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1289ba8c5973764806f8c2198f89f43e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4204346,
+      "gain": -6.39,
+      "duration": 262,
+      "loudnorm": "-11.46,1.41,3.80,-21.53,-1.16",
+      "filename": "processed_548567e8d36cebdec0f378814ed01f3e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

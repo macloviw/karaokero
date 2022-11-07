@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Oke-830_alejandro Fernandez - Solitario Y Solo.mp3",
+      "loudnorm": "-12.51,1.15,8.50,-22.73,-1.53",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Oke-830_alejandro Fernandez - Solitario Y Solo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d7e093f-582e-4680-b570-d94a47b03b79",
+    "title": "Oke-830_alejandro Fernandez - Solitario Y Solo",
+    "titles": {
+      "spa": "Oke-830_alejandro Fernandez - Solitario Y Solo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:55:46.314Z",
+    "modified_at": "2022-11-03T00:55:46.846Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8dcff4f60b1bdf73c7f1da9185126218.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6330368,
+      "gain": -5.78,
+      "duration": 263,
+      "loudnorm": "-12.51,1.15,8.50,-22.73,-1.53",
+      "filename": "processed_4e78a6174a3a878e40e61aedb57a789b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

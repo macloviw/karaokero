@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - David Bisbal - Llorare Las Penas.MP3",
+      "loudnorm": "-14.91,-0.06,5.60,-24.93,-0.33",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - David Bisbal - Llorare Las Penas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fb1adf96-1e7f-4370-9227-9eeceed89682",
+    "title": "David Bisbal - Llorare Las Penas",
+    "titles": {
+      "spa": "David Bisbal - Llorare Las Penas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:06:41.253Z",
+    "modified_at": "2022-11-03T04:06:41.743Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4063232,
+      "gain": -1.23,
+      "duration": 253,
+      "loudnorm": "-14.91,-0.06,5.60,-24.93,-0.33",
+      "filename": "processed_600f0ecbb2a3a644294601be0d84d165.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4063232,
+      "gain": -1.23,
+      "duration": 253,
+      "loudnorm": "-14.91,-0.06,5.60,-24.93,-0.33",
+      "filename": "processed_5e00424502600c531fb8175467278524.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FELIX DE OLEO - - felix d'oleo-soy como soy.mp3",
+      "loudnorm": "-20.94,-1.35,10.30,-31.14,-1.15",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FELIX DE OLEO - - felix d'oleo-soy como soy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e0ae7158-ba51-4a8c-b0c8-1b73694cd31e",
+    "title": "felix d'oleo-soy como soy",
+    "titles": {
+      "spa": "felix d'oleo-soy como soy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9462ab44-1f8d-4228-bc99-60dd8f7bc279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:17:52.135Z",
+    "modified_at": "2022-11-03T05:17:52.560Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a9306260b4111bb490b67392331b5de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5801057,
+      "gain": 1.08,
+      "duration": 241,
+      "loudnorm": "-20.94,-1.35,10.30,-31.14,-1.15",
+      "filename": "processed_82d8424a2a8e402e434c295b1dc626ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

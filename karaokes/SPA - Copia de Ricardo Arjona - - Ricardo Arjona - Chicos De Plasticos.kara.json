@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Chicos De Plasticos.mp3",
+      "loudnorm": "-13.41,0.88,5.30,-23.84,-1.13",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Chicos De Plasticos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c88803d-952f-4a3a-835d-d12523f88c5b",
+    "title": "Ricardo Arjona - Chicos De Plasticos",
+    "titles": {
+      "spa": "Ricardo Arjona - Chicos De Plasticos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:56:15.276Z",
+    "modified_at": "2022-11-03T11:56:15.687Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_733cad6892a4f0ea0d4c506ac1ebba48.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6000108,
+      "gain": -5.5,
+      "duration": 249,
+      "loudnorm": "-13.41,0.88,5.30,-23.84,-1.13",
+      "filename": "processed_2afc4f68a547eaffa3e2a9634163809c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

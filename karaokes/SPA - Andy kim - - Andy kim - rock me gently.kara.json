@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Andy kim - - Andy kim - rock me gently.mp3",
+      "loudnorm": "-14.51,-2.03,4.70,-24.72,-1.24",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Andy kim - - Andy kim - rock me gently.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b2f9ca2-57b6-4353-8347-d39d5d8fbe72",
+    "title": "Andy kim - rock me gently",
+    "titles": {
+      "spa": "Andy kim - rock me gently"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "39eab87f-48bc-43a4-a0c8-04a9a48b078c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:53:57.508Z",
+    "modified_at": "2022-11-03T23:53:57.888Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_95939261e08530394f8140cabe47e781.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3586603,
+      "gain": -3.35,
+      "duration": 224,
+      "loudnorm": "-14.51,-2.03,4.70,-24.72,-1.24",
+      "filename": "processed_72445447fa7125716260d143d2eeb115.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

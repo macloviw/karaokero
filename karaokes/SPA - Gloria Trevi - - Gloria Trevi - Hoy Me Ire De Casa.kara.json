@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Hoy Me Ire De Casa.mp3",
+      "loudnorm": "-11.89,1.26,8.00,-22.21,-0.14",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Hoy Me Ire De Casa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6e731c0f-9515-435c-b6a2-4053fcf94aea",
+    "title": "Gloria Trevi - Hoy Me Ire De Casa",
+    "titles": {
+      "spa": "Gloria Trevi - Hoy Me Ire De Casa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:41:53.188Z",
+    "modified_at": "2022-11-03T05:41:53.611Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_174d7f19b18b8ce21c61a319401e60c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6329251,
+      "gain": -5.52,
+      "duration": 263,
+      "loudnorm": "-11.89,1.26,8.00,-22.21,-0.14",
+      "filename": "processed_3e9abaf3d84f0ff53b1326e36546eae5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

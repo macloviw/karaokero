@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Mi Vida.mp3",
+      "loudnorm": "-16.81,0.19,8.00,-27.21,-0.84",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Mi Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bd0fe8a-4335-4aae-8c11-99329a0011b5",
+    "title": "Jose Jose - Mi Vida",
+    "titles": {
+      "spa": "Jose Jose - Mi Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:59:27.294Z",
+    "modified_at": "2022-11-03T06:59:27.766Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b754aa47145c3d5865eddbc934fa5852.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3950295,
+      "gain": -2.11,
+      "duration": 246,
+      "loudnorm": "-16.81,0.19,8.00,-27.21,-0.84",
+      "filename": "processed_b87c1e54567a372ff332206286642dc4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

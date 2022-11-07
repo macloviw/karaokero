@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beck - - Beck - E-Pro.mp3",
+      "loudnorm": "-9.15,3.49,4.80,-19.19,-1.01",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beck - - Beck - E-Pro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6764c0d0-1991-4985-a79d-6b90dba7018c",
+    "title": "Beck - E-Pro",
+    "titles": {
+      "spa": "Beck - E-Pro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b3a5f91b-f9ef-4386-b699-7ceb274ec3f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:59:21.938Z",
+    "modified_at": "2022-11-03T23:59:22.323Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_880937922688c1fc69230e4751221ae1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3572812,
+      "gain": -7.19,
+      "duration": 223,
+      "loudnorm": "-9.15,3.49,4.80,-19.19,-1.01",
+      "filename": "processed_8c1d6b2982a8818cb551167ea2d8830c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

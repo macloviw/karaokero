@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - David Bisbal - Me Derrumbo.mp3",
+      "loudnorm": "-15.83,-4.30,9.90,-26.24,-0.89",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - David Bisbal - Me Derrumbo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1ba9196b-ea89-4e53-800a-f3d2bb85f058",
+    "title": "David Bisbal - Me Derrumbo",
+    "titles": {
+      "spa": "David Bisbal - Me Derrumbo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:06:51.966Z",
+    "modified_at": "2022-11-03T04:06:52.390Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7918a1ede276b86d026c7f1232b03691.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9969664,
+      "gain": -2.41,
+      "duration": 249,
+      "loudnorm": "-15.83,-4.30,9.90,-26.24,-0.89",
+      "filename": "processed_b8e095a6f7e607c8b194b373d9f1fabc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

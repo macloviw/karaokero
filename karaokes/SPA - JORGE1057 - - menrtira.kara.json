@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JORGE1057 - - menrtira.mp3",
+      "loudnorm": "-17.06,-0.37,4.10,-27.20,-0.93",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JORGE1057 - - menrtira.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92fabe7b-e014-4182-b481-120d0fe323a0",
+    "title": "menrtira",
+    "titles": {
+      "spa": "menrtira"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ebd6bc90-06fc-49e8-8199-efb87bbf65a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:52:36.463Z",
+    "modified_at": "2022-11-04T03:52:36.891Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5ac1e310910e6ada7985ba511b66e057.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7104147,
+      "gain": -0.54,
+      "duration": 295,
+      "loudnorm": "-17.06,-0.37,4.10,-27.20,-0.93",
+      "filename": "processed_c36f10bf6cef417f7228bfe28d79a435.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

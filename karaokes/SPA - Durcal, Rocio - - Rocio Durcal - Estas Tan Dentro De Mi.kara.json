@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Estas Tan Dentro De Mi.mp3",
+      "loudnorm": "-10.53,0.21,4.30,-20.59,0.69",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Estas Tan Dentro De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79433a12-ac74-47b7-ba49-82b8100c74b4",
+    "title": "Rocio Durcal - Estas Tan Dentro De Mi",
+    "titles": {
+      "spa": "Rocio Durcal - Estas Tan Dentro De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:43:26.817Z",
+    "modified_at": "2022-11-03T12:43:27.224Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_58eac79ffda1a4f86afdd3387d54355b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4388248,
+      "gain": -6.87,
+      "duration": 182,
+      "loudnorm": "-10.53,0.21,4.30,-20.59,0.69",
+      "filename": "processed_57d104afa478e5f2b5e71961f1b88370.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

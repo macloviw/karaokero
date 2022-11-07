@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cri-Cri - - (Infatiles) - Tema De Cri-Cri (Salida).mp3",
+      "loudnorm": "-13.96,-0.20,6.20,-24.50,-1.33",
+      "duration": 42,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cri-Cri - - (Infatiles) - Tema De Cri-Cri (Salida).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d1bcaa89-91a6-4112-8835-57b8b9bcc1f5",
+    "title": "(Infatiles)  - Tema De Cri-Cri (Salida)",
+    "titles": {
+      "spa": "(Infatiles)  - Tema De Cri-Cri (Salida)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "65fe2370-92b8-4b26-a2c8-12b3fc7cac46"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:52:32.992Z",
+    "modified_at": "2022-11-04T02:52:33.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c0cda026e8c32023188c15007e91c79.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1012892,
+      "gain": -7.07,
+      "duration": 42,
+      "loudnorm": "-13.96,-0.20,6.20,-24.50,-1.33",
+      "filename": "processed_9735a2409c79155b73332ff293cbabbb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

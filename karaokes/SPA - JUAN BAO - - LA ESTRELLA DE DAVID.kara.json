@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUAN BAO - - LA ESTRELLA DE DAVID.mp3",
+      "loudnorm": "-7.12,-0.31,3.80,-17.22,-2.25",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUAN BAO - - LA ESTRELLA DE DAVID.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2699f743-9b8d-494a-8ea8-4cb13e1cd73f",
+    "title": "LA ESTRELLA DE DAVID",
+    "titles": {
+      "spa": "LA ESTRELLA DE DAVID"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b2e02e1-bd39-4365-98d2-a7694cde7ce9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:38:29.605Z",
+    "modified_at": "2022-11-03T22:38:29.989Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e4521a58573ab5dcd14b517ec3e8e0e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3627480,
+      "gain": -10.08,
+      "duration": 226,
+      "loudnorm": "-7.12,-0.31,3.80,-17.22,-2.25",
+      "filename": "processed_524d9f0c62993d65d0c80ec75f14cd82.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 11.- Nicola Di Bari - trota mundos.mp3",
+      "loudnorm": "-9.37,3.00,3.80,-19.73,-1.15",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - 11.- Nicola Di Bari - trota mundos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3822874e-1054-40bf-bf69-5329041f580d",
+    "title": "11.- Nicola Di Bari - trota mundos",
+    "titles": {
+      "spa": "11.- Nicola Di Bari - trota mundos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:41:01.520Z",
+    "modified_at": "2022-11-04T07:41:01.900Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8981cd5d21dc4c4c01a66b95a7e48f4e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3028580,
+      "gain": -6.62,
+      "duration": 189,
+      "loudnorm": "-9.37,3.00,3.80,-19.73,-1.15",
+      "filename": "processed_86ce98baa514c4ee24be280e6bd4c9f3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

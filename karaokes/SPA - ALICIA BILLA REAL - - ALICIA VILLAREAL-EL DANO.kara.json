@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-EL DANO.mp3",
+      "loudnorm": "-10.27,1.51,2.90,-20.32,0.07",
+      "duration": 161,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLAREAL-EL DANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5eb3679b-7cb6-4114-ae89-b344d34ab19a",
+    "title": "ALICIA VILLAREAL-EL DAÑO",
+    "titles": {
+      "spa": "ALICIA VILLAREAL-EL DAÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:23:20.555Z",
+    "modified_at": "2022-11-03T01:23:20.981Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e33d4c979bca9bc2655cb5c131d0d537.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2269434,
+      "gain": -7.04,
+      "duration": 161,
+      "loudnorm": "-10.27,1.51,2.90,-20.32,0.07",
+      "filename": "processed_d87fdd1a3e5d17b22d11461e8c53a538.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

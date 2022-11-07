@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Joel - - Billy Joel - The entertainer.mp3",
+      "loudnorm": "-16.58,-3.40,6.90,-26.71,-1.26",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Joel - - Billy Joel - The entertainer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "067c202c-f412-4848-a4f6-438794767bb8",
+    "title": "Billy Joel - The entertainer",
+    "titles": {
+      "spa": "Billy Joel - The entertainer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "86768663-73b7-4abf-aaf6-17bab636a302"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:06:01.535Z",
+    "modified_at": "2022-11-03T15:06:01.985Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_986e59f50bd0c5b0742b5e9f049f5c96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5450910,
+      "gain": -0.77,
+      "duration": 227,
+      "loudnorm": "-16.58,-3.40,6.90,-26.71,-1.26",
+      "filename": "processed_9635864f69fe1e0a542784eb450f5101.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

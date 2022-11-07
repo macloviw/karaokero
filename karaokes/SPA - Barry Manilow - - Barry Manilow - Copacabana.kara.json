@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Barry Manilow - - Barry Manilow - Copacabana.mp3",
+      "loudnorm": "-6.35,7.82,5.50,-16.48,-0.90",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Barry Manilow - - Barry Manilow - Copacabana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "48426615-46f4-473f-ab62-96cc237c84e6",
+    "title": "Barry Manilow - Copacabana",
+    "titles": {
+      "spa": "Barry Manilow - Copacabana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b221082e-898d-488e-b256-a171915b8efd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:52:36.484Z",
+    "modified_at": "2022-11-03T14:52:36.938Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_63629f98210d5e3768dfcda6fcc22771.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3572046,
+      "gain": -9.67,
+      "duration": 223,
+      "loudnorm": "-6.35,7.82,5.50,-16.48,-0.90",
+      "filename": "processed_69c2c620c17f5e66474f34ebc0913be5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

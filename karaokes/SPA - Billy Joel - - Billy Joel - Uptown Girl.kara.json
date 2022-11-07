@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Joel - - Billy Joel - Uptown Girl.mp3",
+      "loudnorm": "-17.32,-0.23,2.80,-27.61,-0.04",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Joel - - Billy Joel - Uptown Girl.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "57868f4a-1981-4b96-8dc4-96e95bea3a1c",
+    "title": "Billy Joel - Uptown Girl",
+    "titles": {
+      "spa": "Billy Joel - Uptown Girl"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "86768663-73b7-4abf-aaf6-17bab636a302"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:06:43.068Z",
+    "modified_at": "2022-11-03T15:06:43.504Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_877de35bcb67402a4e8ae365e14dd4f4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4876634,
+      "gain": -0.2,
+      "duration": 203,
+      "loudnorm": "-17.32,-0.23,2.80,-27.61,-0.04",
+      "filename": "processed_94fffae12166953066c229b15aa0f6c0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

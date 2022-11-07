@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CARTEL DE LOS SAPOS - - RATON Y QUESO PISTA.mp3",
+      "loudnorm": "-12.52,-0.81,3.10,-22.77,-0.37",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CARTEL DE LOS SAPOS - - RATON Y QUESO PISTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4798190f-d4c7-496e-a2f1-472d296caed7",
+    "title": "RATON Y QUESO PISTA",
+    "titles": {
+      "spa": "RATON Y QUESO PISTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "240b7bf7-7a84-4b6c-898b-596af30e8a18"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:49:11.106Z",
+    "modified_at": "2022-11-03T21:49:11.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_230fa63d25abd588f95c7d9b3759c759.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3044009,
+      "gain": -2.84,
+      "duration": 190,
+      "loudnorm": "-12.52,-0.81,3.10,-22.77,-0.37",
+      "filename": "processed_948fa7d0ff9f14ee1c6b8ae165614994.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

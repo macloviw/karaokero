@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - Cristian Castro - Despues De Ti Que.mp3",
+      "loudnorm": "-10.51,0.22,8.60,-20.77,-0.85",
+      "duration": 334,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - Cristian Castro - Despues De Ti Que.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3ac4bf1c-f95b-497e-bf5d-5052c1b1be59",
+    "title": "Cristian Castro - Despues De Ti Que",
+    "titles": {
+      "spa": "Cristian Castro - Despues De Ti Que"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:44:04.691Z",
+    "modified_at": "2022-11-03T03:44:05.137Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b1e7fa94c5884cbd2158ee03c479b7f0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5359586,
+      "gain": -8.77,
+      "duration": 334,
+      "loudnorm": "-10.51,0.22,8.60,-20.77,-0.85",
+      "filename": "processed_620352b6c22c5e4a2e321d7470c8e852.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

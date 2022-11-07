@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anoranzas - - Anoranzas - Las Horas Negras.mp3",
+      "loudnorm": "-13.48,1.46,1.70,-23.56,0.04",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anoranzas - - Anoranzas - Las Horas Negras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c1f320c-3dfb-4a47-af3a-33c775066ee3",
+    "title": "Añoranzas - Las Horas Negras",
+    "titles": {
+      "spa": "Añoranzas - Las Horas Negras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "8b4a1f80-8295-4761-b964-14fcb6902ddd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:19:00.020Z",
+    "modified_at": "2022-11-02T23:19:00.479Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ff4194a5a6e2dfcf9a897483a907d29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7450230,
+      "gain": -4.49,
+      "duration": 186,
+      "loudnorm": "-13.48,1.46,1.70,-23.56,0.04",
+      "filename": "processed_d6d0bca0fa29cc66284ce4c0b453da3b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - No Artist - - Banda Cuisillos - No Se Lo Digas A Ella.mp3",
+      "loudnorm": "-18.34,-1.19,5.60,-28.45,0.04",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - No Artist - - Banda Cuisillos - No Se Lo Digas A Ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cabb59ba-4c5b-4955-bcc8-193512822148",
+    "title": "Banda Cuisillos - No Se Lo Digas A Ella",
+    "titles": {
+      "spa": "Banda Cuisillos - No Se Lo Digas A Ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:29:44.289Z",
+    "modified_at": "2022-11-04T11:29:44.661Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca1c6d5d13511039103afae7550d3a13.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3585221,
+      "gain": 0.08,
+      "duration": 223,
+      "loudnorm": "-18.34,-1.19,5.60,-28.45,0.04",
+      "filename": "processed_f71a0e776e35bf32515af1eb4528f287.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

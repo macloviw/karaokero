@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blues Brothers - - Blues Brothers - Everybody Needs Somebody.mp3",
+      "loudnorm": "-14.35,0.27,3.20,-24.38,-0.73",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blues Brothers - - Blues Brothers - Everybody Needs Somebody.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e00b8b12-eb80-404e-9862-8f1b4472817b",
+    "title": "Blues Brothers - Everybody Needs Somebody",
+    "titles": {
+      "spa": "Blues Brothers - Everybody Needs Somebody"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f059dfec-bee0-426d-af92-5df526f8c39c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:05:22.763Z",
+    "modified_at": "2022-11-04T00:05:23.154Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43f80bf18fdfc28505041e231da04bd4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3509281,
+      "gain": -4.13,
+      "duration": 219,
+      "loudnorm": "-14.35,0.27,3.20,-24.38,-0.73",
+      "filename": "processed_58a44a0abf45c2731786b7b5bbbb8739.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

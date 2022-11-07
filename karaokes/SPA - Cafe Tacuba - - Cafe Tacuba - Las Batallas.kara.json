@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cafe Tacuba - - Cafe Tacuba - Las Batallas.MP3",
+      "loudnorm": "-11.78,0.87,2.70,-21.92,-0.54",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cafe Tacuba - - Cafe Tacuba - Las Batallas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6a9834b-5821-4035-a787-e8b270c1112d",
+    "title": "Cafe Tacuba - Las Batallas",
+    "titles": {
+      "spa": "Cafe Tacuba - Las Batallas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "616a5005-e679-4d8d-900f-2fd1cf5a7234"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:35:00.408Z",
+    "modified_at": "2022-11-03T02:35:00.948Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5029902,
+      "gain": -5.42,
+      "duration": 209,
+      "loudnorm": "-11.78,0.87,2.70,-21.92,-0.54",
+      "filename": "processed_91c49bb24bb8f7f0c96e2d23030926f0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5029902,
+      "gain": -5.42,
+      "duration": 209,
+      "loudnorm": "-11.78,0.87,2.70,-21.92,-0.54",
+      "filename": "processed_a32f8777e1efee8c9495de7a37205a91.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

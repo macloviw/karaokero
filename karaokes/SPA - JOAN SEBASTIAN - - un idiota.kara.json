@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOAN SEBASTIAN - - un idiota.mp3",
+      "loudnorm": "-17.60,-0.61,6.50,-27.74,-1.09",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOAN SEBASTIAN - - un idiota.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9927951c-c480-400d-9451-4d78c1b0c727",
+    "title": "un idiota",
+    "titles": {
+      "spa": "un idiota"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a0fdbf62-b24f-4e2f-b7e4-2517d8c3e966"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:24:49.731Z",
+    "modified_at": "2022-11-03T06:24:50.133Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2917b92dbad84d97533054647808b10b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4918012,
+      "gain": -0.63,
+      "duration": 204,
+      "loudnorm": "-17.60,-0.61,6.50,-27.74,-1.09",
+      "filename": "processed_8b76e10b471bab51e6cb42523290efa4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Nene la Amenaza - - El Nene la Amenaza - mujeriego MAK.mp3",
+      "loudnorm": "-14.65,0.76,5.70,-24.85,-0.71",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Nene la Amenaza - - El Nene la Amenaza - mujeriego MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31320843-5d49-476b-abd9-9ab5bba98647",
+    "title": "El Nene la Amenaza - mujeriego MAK",
+    "titles": {
+      "spa": "El Nene la Amenaza - mujeriego MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "634666a5-37ba-471e-8c42-ec99748184a1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:09:39.288Z",
+    "modified_at": "2022-11-04T03:09:39.676Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_088689deac3ca95f8f1fb0f2b6c45f92.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3173242,
+      "gain": -4.71,
+      "duration": 198,
+      "loudnorm": "-14.65,0.76,5.70,-24.85,-0.71",
+      "filename": "processed_d98846c48e2751860eef18f8ef0cd087.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

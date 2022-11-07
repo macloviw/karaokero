@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - AMAR Y QUERER.mp3",
+      "loudnorm": "-13.31,-2.26,3.60,-23.37,0.43",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - AMAR Y QUERER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31c0de27-f146-4ba5-a835-e1c7d4b3346d",
+    "title": "AMAR Y QUERER",
+    "titles": {
+      "spa": "AMAR Y QUERER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:47:37.286Z",
+    "modified_at": "2022-11-03T06:47:37.715Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b9838928ceee65eb79ac9118a7ac1c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6161858,
+      "gain": -4.95,
+      "duration": 256,
+      "loudnorm": "-13.31,-2.26,3.60,-23.37,0.43",
+      "filename": "processed_5c0361f4a116cc89cc6010f65afc817d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - Anthony Santos - Pegame tu vicio TZ.mp3",
+      "loudnorm": "-9.23,2.22,2.40,-19.28,-0.53",
+      "duration": 362,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - Anthony Santos - Pegame tu vicio TZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8db107e7-2622-41e5-adde-a60bd4c88fe0",
+    "title": "Anthony Santos - Pégame tu vicio TZ",
+    "titles": {
+      "spa": "Anthony Santos - Pégame tu vicio TZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:45:14.940Z",
+    "modified_at": "2022-11-02T22:45:15.664Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_007b052cca053a98b1527f1dc90bb16b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8713078,
+      "gain": -9.62,
+      "duration": 362,
+      "loudnorm": "-9.23,2.22,2.40,-19.28,-0.53",
+      "filename": "processed_025c9635b8c7ef93bc6292f25004dcb2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

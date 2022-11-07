@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - RAMON ORLANDO - UN DIA MAS.mp3",
+      "loudnorm": "-18.13,-0.54,5.30,-28.21,0.03",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - RAMON ORLANDO - UN DIA MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2359d838-3bea-46cd-ab59-d039136e3455",
+    "title": "RAMON ORLANDO - UN DIA MAS",
+    "titles": {
+      "spa": "RAMON ORLANDO - UN DIA MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a0a26cc0-ce64-4b52-9ab8-aa6d4927ebb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:18:08.112Z",
+    "modified_at": "2022-11-04T08:18:08.496Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6c8baa70c192a105575bbfbb25c1f40e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11400978,
+      "gain": -1.07,
+      "duration": 284,
+      "loudnorm": "-18.13,-0.54,5.30,-28.21,0.03",
+      "filename": "processed_dc69a8ccc0cd462409f26b51e10b40db.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

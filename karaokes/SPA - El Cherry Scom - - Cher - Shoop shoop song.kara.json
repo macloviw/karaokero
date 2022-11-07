@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Cherry Scom - - Cher - Shoop shoop song.MP3",
+      "loudnorm": "-14.22,-1.14,4.50,-24.66,-0.45",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Cherry Scom - - Cher - Shoop shoop song.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b6880ea2-d34b-4ebb-8c98-f148714f0a56",
+    "title": "Cher - Shoop shoop song",
+    "titles": {
+      "spa": "Cher - Shoop shoop song"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "efe828ee-8be1-4b52-beb3-a488b4bac4ab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:38:55.972Z",
+    "modified_at": "2022-11-03T15:38:56.482Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2653208,
+      "gain": -3.44,
+      "duration": 165,
+      "loudnorm": "-14.22,-1.14,4.50,-24.66,-0.45",
+      "filename": "processed_101f77ca761518976256fb1645a16eca.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2653208,
+      "gain": -3.44,
+      "duration": 165,
+      "loudnorm": "-14.22,-1.14,4.50,-24.66,-0.45",
+      "filename": "processed_75b96ce1d9c69ac2519612c7b0208cbc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

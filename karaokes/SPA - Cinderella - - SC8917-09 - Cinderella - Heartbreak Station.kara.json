@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cinderella - - SC8917-09 - Cinderella - Heartbreak Station.mp3",
+      "loudnorm": "-10.69,3.68,11.00,-20.84,-2.20",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cinderella - - SC8917-09 - Cinderella - Heartbreak Station.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63d52b7b-32ca-448b-9c59-a044e646453e",
+    "title": "SC8917-09 - Cinderella - Heartbreak Station",
+    "titles": {
+      "spa": "SC8917-09 - Cinderella - Heartbreak Station"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6d66611b-fcf0-41d7-9d6a-56ec5acb5a37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:14:21.301Z",
+    "modified_at": "2022-11-04T00:14:21.701Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9aeb6fd0b5335f52d4d5de76f345c15.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4526080,
+      "gain": -7.73,
+      "duration": 282,
+      "loudnorm": "-10.69,3.68,11.00,-20.84,-2.20",
+      "filename": "processed_54948505c07f4c520a16c429f69c4c20.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

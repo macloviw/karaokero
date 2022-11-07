@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - BRAULIO - DEJALO VOLVER.mp3",
+      "loudnorm": "-10.64,1.31,6.10,-20.79,-0.68",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - BRAULIO - DEJALO VOLVER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "159142b2-5317-4ae3-ae60-5d5e2c36802f",
+    "title": "BRAULIO - DEJALO VOLVER",
+    "titles": {
+      "spa": "BRAULIO - DEJALO VOLVER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:43:33.307Z",
+    "modified_at": "2022-11-04T02:43:33.696Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d400110d9e6d69fddceea1ed148e65ae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4454286,
+      "gain": -7.01,
+      "duration": 278,
+      "loudnorm": "-10.64,1.31,6.10,-20.79,-0.68",
+      "filename": "processed_0c2304c0415717e9f7a6614864dfc70f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

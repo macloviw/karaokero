@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Cristiano - Tengo Un Nuevo Amor.MP3",
+      "loudnorm": "-19.16,-1.92,8.80,-29.20,-0.70",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Cristiano - Tengo Un Nuevo Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "429aa1ed-02ff-4c95-83f7-72518b696b14",
+    "title": "Cristiano - Tengo Un Nuevo Amor",
+    "titles": {
+      "spa": "Cristiano - Tengo Un Nuevo Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:02:35.905Z",
+    "modified_at": "2022-11-03T14:02:36.407Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5073780,
+      "gain": -0.24,
+      "duration": 316,
+      "loudnorm": "-19.16,-1.92,8.80,-29.20,-0.70",
+      "filename": "processed_23e6273379a3aad38c9967848f356379.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5073780,
+      "gain": -0.24,
+      "duration": 316,
+      "loudnorm": "-19.16,-1.92,8.80,-29.20,-0.70",
+      "filename": "processed_66a94a4da4662870912ce3b7f1e08301.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - NUNCA VOY A OLVIDARTE.MP3",
+      "loudnorm": "-7.98,0.46,4.30,-18.18,-0.46",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - NUNCA VOY A OLVIDARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c188d1e9-49fb-480c-99b9-0c37f3b9645f",
+    "title": "CRISTIAN CASTRO   -   NUNCA VOY A OLVIDARTE",
+    "titles": {
+      "spa": "CRISTIAN CASTRO   -   NUNCA VOY A OLVIDARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:42:23.580Z",
+    "modified_at": "2022-11-03T03:42:24.200Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10425044,
+      "gain": -9.68,
+      "duration": 260,
+      "loudnorm": "-7.98,0.46,4.30,-18.18,-0.46",
+      "filename": "processed_383b930d811da457e4cb203b2bcea987.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10425044,
+      "gain": -9.68,
+      "duration": 260,
+      "loudnorm": "-7.98,0.46,4.30,-18.18,-0.46",
+      "filename": "processed_247aade6831687e2929ee834a5d8ea88.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

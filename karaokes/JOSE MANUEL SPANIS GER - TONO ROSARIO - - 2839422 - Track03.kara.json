@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - 2839422 - Track03.MP3",
+      "loudnorm": "-10.99,1.83,3.40,-21.08,-0.29",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - 2839422 - Track03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2df0f719-bc89-41cb-b6e5-4b0f5cf8cd7e",
+    "title": "2839422 - Track03",
+    "titles": {
+      "spa": "2839422 - Track03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:09:28.792Z",
+    "modified_at": "2022-11-04T11:09:29.238Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3863297,
+      "gain": -8.29,
+      "duration": 241,
+      "loudnorm": "-10.99,1.83,3.40,-21.08,-0.29",
+      "filename": "processed_86bb722878a374abd3ff9b6c342d25e3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3863297,
+      "gain": -8.29,
+      "duration": 241,
+      "loudnorm": "-10.99,1.83,3.40,-21.08,-0.29",
+      "filename": "processed_f7a3ec96054fac1dab3c1bcf2bed05b7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

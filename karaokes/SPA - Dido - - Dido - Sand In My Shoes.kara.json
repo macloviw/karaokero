@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dido - - Dido - Sand In My Shoes.mp3",
+      "loudnorm": "-10.45,3.53,14.10,-20.96,-1.83",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dido - - Dido - Sand In My Shoes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "717e1a20-e25b-4375-92de-aa1207a1585e",
+    "title": "Dido - Sand In My Shoes",
+    "titles": {
+      "spa": "Dido - Sand In My Shoes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f7ddb659-6caf-48b1-b926-038fa3cf6d77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:03:37.409Z",
+    "modified_at": "2022-11-03T16:03:38.001Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0b28b969da9b0d4f8465cf4e654d4ffc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5064508,
+      "gain": -7.35,
+      "duration": 316,
+      "loudnorm": "-10.45,3.53,14.10,-20.96,-1.83",
+      "filename": "processed_9f0b80b5635c2b9a17cebef38a7398b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

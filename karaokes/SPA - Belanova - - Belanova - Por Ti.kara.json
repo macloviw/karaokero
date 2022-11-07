@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Belanova - - Belanova - Por Ti.mp3",
+      "loudnorm": "-10.48,4.27,5.60,-20.51,-0.89",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Belanova - - Belanova - Por Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a5265714-1478-4a84-a1f6-ba8bc3ce82c2",
+    "title": "Belanova - Por Ti",
+    "titles": {
+      "spa": "Belanova - Por Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b710c5f7-17b4-402b-87cd-b3dc39e28688"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:13:31.302Z",
+    "modified_at": "2022-11-03T02:13:31.805Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_673f2956e423decf8260388178888033.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5325885,
+      "gain": -8.35,
+      "duration": 221,
+      "loudnorm": "-10.48,4.27,5.60,-20.51,-0.89",
+      "filename": "processed_4e80501f4f7b215e0f64b48cf16e4cf2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

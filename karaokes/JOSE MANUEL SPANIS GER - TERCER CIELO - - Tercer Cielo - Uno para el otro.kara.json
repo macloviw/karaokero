@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TERCER CIELO - - Tercer Cielo - Uno para el otro.mp3",
+      "loudnorm": "-10.53,1.92,11.00,-20.93,-1.77",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TERCER CIELO - - Tercer Cielo - Uno para el otro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3af902db-fe08-4bf8-8446-8b1cc097af33",
+    "title": "Tercer Cielo - Uno para el otro",
+    "titles": {
+      "spa": "Tercer Cielo - Uno para el otro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2000f7c7-8665-4e06-a7af-1375d1c6f94b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:38:49.280Z",
+    "modified_at": "2022-11-04T08:38:49.655Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f23e9dea7f5fdba1191daf3ad7c73ea6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3242622,
+      "gain": -7.69,
+      "duration": 202,
+      "loudnorm": "-10.53,1.92,11.00,-20.93,-1.77",
+      "filename": "processed_010a3108b0eab349d28edad7e47fb36b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

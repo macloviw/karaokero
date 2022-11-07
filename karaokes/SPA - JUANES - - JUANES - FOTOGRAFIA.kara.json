@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - FOTOGRAFIA.MP3",
+      "loudnorm": "-13.78,2.34,6.20,-23.86,-0.99",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - FOTOGRAFIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "57617f17-9fd2-4a0d-a39c-86b70ac5f777",
+    "title": "JUANES   -   FOTOGRAFIA",
+    "titles": {
+      "spa": "JUANES   -   FOTOGRAFIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:53:26.730Z",
+    "modified_at": "2022-11-03T07:53:27.219Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4009868,
+      "gain": -2.45,
+      "duration": 250,
+      "loudnorm": "-13.78,2.34,6.20,-23.86,-0.99",
+      "filename": "processed_7d60f315070f230dbed55900d4c1d7fb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4009868,
+      "gain": -2.45,
+      "duration": 250,
+      "loudnorm": "-13.78,2.34,6.20,-23.86,-0.99",
+      "filename": "processed_142433572e271b4eb02a0ef293d302b9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

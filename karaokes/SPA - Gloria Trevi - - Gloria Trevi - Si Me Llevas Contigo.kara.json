@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Si Me Llevas Contigo.mp3",
+      "loudnorm": "-16.29,-1.75,11.10,-26.67,-1.68",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Si Me Llevas Contigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e1d0e9b-3c94-47f7-8570-f544cad0de65",
+    "title": "Gloria Trevi - Si Me Llevas Contigo",
+    "titles": {
+      "spa": "Gloria Trevi - Si Me Llevas Contigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:43:25.830Z",
+    "modified_at": "2022-11-03T05:43:26.239Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b757f132ef308646331950868cf6bea0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5467210,
+      "gain": -1.71,
+      "duration": 227,
+      "loudnorm": "-16.29,-1.75,11.10,-26.67,-1.68",
+      "filename": "processed_4cf68d9fc60d9307bf92792a7dabd0e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

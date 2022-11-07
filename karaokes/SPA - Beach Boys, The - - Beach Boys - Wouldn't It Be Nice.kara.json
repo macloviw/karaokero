@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys, The - - Beach Boys - Wouldn't It Be Nice.mp3",
+      "loudnorm": "-13.39,1.56,6.60,-23.75,-0.84",
+      "duration": 156,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys, The - - Beach Boys - Wouldn't It Be Nice.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30c9cbfa-9152-4960-adb8-8e1d7751811f",
+    "title": "Beach Boys - Wouldn't It Be Nice",
+    "titles": {
+      "spa": "Beach Boys - Wouldn't It Be Nice"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5fd859bb-4dd1-4aaf-b93a-bdd08d035cc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:59:11.697Z",
+    "modified_at": "2022-11-03T23:59:12.082Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b3653276285c066d4db567312d42325.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2501466,
+      "gain": -3.92,
+      "duration": 156,
+      "loudnorm": "-13.39,1.56,6.60,-23.75,-0.84",
+      "filename": "processed_dd2670d2ffd79d1931a40f9b731f3454.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

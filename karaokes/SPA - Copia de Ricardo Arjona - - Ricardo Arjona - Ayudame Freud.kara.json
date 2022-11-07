@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Ayudame Freud.mp3",
+      "loudnorm": "-14.71,1.78,10.40,-24.99,-1.60",
+      "duration": 400,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Ayudame Freud.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f07c042-d73e-49f4-9b55-b359cc70343c",
+    "title": "Ricardo Arjona - Ayudame Freud",
+    "titles": {
+      "spa": "Ricardo Arjona - Ayudame Freud"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:55:45.369Z",
+    "modified_at": "2022-11-03T11:55:45.787Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7da87022e6cbb68931b4f2a27450a7c2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9618329,
+      "gain": -2.55,
+      "duration": 400,
+      "loudnorm": "-14.71,1.78,10.40,-24.99,-1.60",
+      "filename": "processed_36950c20c6785e3e005d52996bc2991d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

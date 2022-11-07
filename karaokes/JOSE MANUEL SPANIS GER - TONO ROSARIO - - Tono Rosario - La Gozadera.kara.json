@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - La Gozadera.MP3",
+      "loudnorm": "-10.72,2.31,4.80,-20.75,-0.42",
+      "duration": 494,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - La Gozadera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2246010c-4bdd-4823-a4cd-0a45f57bab5c",
+    "title": "Toño Rosario   -   La Gozadera",
+    "titles": {
+      "spa": "Toño Rosario   -   La Gozadera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:16:43.392Z",
+    "modified_at": "2022-11-04T11:16:44.665Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11880782,
+      "gain": -8.94,
+      "duration": 494,
+      "loudnorm": "-10.72,2.31,4.80,-20.75,-0.42",
+      "filename": "processed_39f316ef7cac188ace5f9862fdaa7add.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11880782,
+      "gain": -8.94,
+      "duration": 494,
+      "loudnorm": "-10.72,2.31,4.80,-20.75,-0.42",
+      "filename": "processed_4b46eb0826ed98ddc50921dec0ac3167.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

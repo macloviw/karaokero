@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - AZUL BY CRISTIAN CASTRO.CDG.MP3",
+      "loudnorm": "-9.60,0.09,3.00,-19.79,0.04",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - AZUL BY CRISTIAN CASTRO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "274a98e1-bbe1-41e6-ad8d-35e4448e7c96",
+    "title": "AZUL BY CRISTIAN CASTRO.CDG",
+    "titles": {
+      "spa": "AZUL BY CRISTIAN CASTRO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:40:27.546Z",
+    "modified_at": "2022-11-03T03:40:28.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10385337,
+      "gain": -7.88,
+      "duration": 259,
+      "loudnorm": "-9.60,0.09,3.00,-19.79,0.04",
+      "filename": "processed_174e196e73738eacb1b550fa6fbe670a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10385337,
+      "gain": -7.88,
+      "duration": 259,
+      "loudnorm": "-9.60,0.09,3.00,-19.79,0.04",
+      "filename": "processed_f6480298663ce148232df10c7740d9ac.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

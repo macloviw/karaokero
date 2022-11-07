@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - EL CASO DE DOS MUJERES (J).mp3",
+      "loudnorm": "-12.14,0.50,3.50,-22.18,0.30",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - EL CASO DE DOS MUJERES (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70f9e8fe-79c5-4e13-bdb0-28d2d908fbea",
+    "title": "DARIO GOMEZ - EL CASO DE DOS MUJERES (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - EL CASO DE DOS MUJERES (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:01:07.635Z",
+    "modified_at": "2022-11-03T04:01:08.038Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e03c654cc3d7ae3a00eaa473850a639.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6041486,
+      "gain": -5.93,
+      "duration": 251,
+      "loudnorm": "-12.14,0.50,3.50,-22.18,0.30",
+      "filename": "processed_b04f6943de1f4243ccec7dec29024c5d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

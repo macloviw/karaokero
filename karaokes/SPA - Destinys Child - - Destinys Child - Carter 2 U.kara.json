@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Destinys Child - - Destinys Child - Carter 2 U.mp3",
+      "loudnorm": "-8.79,5.97,6.50,-19.02,-1.48",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Destinys Child - - Destinys Child - Carter 2 U.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26dc15fa-f34b-4440-9ca0-c3adf187b8de",
+    "title": "Destinys Child - Carter 2 U",
+    "titles": {
+      "spa": "Destinys Child - Carter 2 U"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a64f7412-0cb0-4fa0-abc6-84c5cb941106"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:56:22.841Z",
+    "modified_at": "2022-11-03T15:56:23.339Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a685150add9e3c879654c2fd526c6fa7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4280320,
+      "gain": -8.16,
+      "duration": 267,
+      "loudnorm": "-8.79,5.97,6.50,-19.02,-1.48",
+      "filename": "processed_20625fa9c3a0c7582f9c3cbf645d92a5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

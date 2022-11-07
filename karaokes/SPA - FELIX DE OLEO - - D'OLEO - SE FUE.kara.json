@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FELIX DE OLEO - - D'OLEO - SE FUE.mp3",
+      "loudnorm": "-12.16,0.43,4.00,-22.27,-0.59",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FELIX DE OLEO - - D'OLEO - SE FUE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fcb61230-a2fa-4bab-bc65-f488c2f72a05",
+    "title": "D'OLEO  -  SE FUE",
+    "titles": {
+      "spa": "D'OLEO  -  SE FUE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9462ab44-1f8d-4228-bc99-60dd8f7bc279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:59:24.645Z",
+    "modified_at": "2022-11-04T02:59:25.116Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e8b483fe7a5e561b9737bdc45b6e5aad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3444079,
+      "gain": -5.57,
+      "duration": 215,
+      "loudnorm": "-12.16,0.43,4.00,-22.27,-0.59",
+      "filename": "processed_e9d24c9107e09a7aaf8f4d2d1e398eb4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

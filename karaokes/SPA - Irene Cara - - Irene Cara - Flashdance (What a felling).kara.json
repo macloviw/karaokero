@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Irene Cara - - Irene Cara - Flashdance (What a felling).MP3",
+      "loudnorm": "-15.19,0.81,6.10,-25.41,-1.36",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Irene Cara - - Irene Cara - Flashdance (What a felling).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b546a6f1-cb7e-44c3-9e10-7e708a46ec8c",
+    "title": "Irene Cara - Flashdance (What a felling)",
+    "titles": {
+      "spa": "Irene Cara - Flashdance (What a felling)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "cc110deb-69d8-4ab2-bf3a-5cf285193664"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:04:25.773Z",
+    "modified_at": "2022-11-04T01:04:26.330Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3866508,
+      "gain": -4.35,
+      "duration": 241,
+      "loudnorm": "-15.19,0.81,6.10,-25.41,-1.36",
+      "filename": "processed_1e6759a42a76e01bb2ddb90c8fae1e5f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3866508,
+      "gain": -4.35,
+      "duration": 241,
+      "loudnorm": "-15.19,0.81,6.10,-25.41,-1.36",
+      "filename": "processed_dbd706cf4fb9b32c4e48bc6f10d00c6e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

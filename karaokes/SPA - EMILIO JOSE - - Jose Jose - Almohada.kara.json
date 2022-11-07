@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose - Almohada.MP3",
+      "loudnorm": "-13.83,-0.75,3.90,-23.94,-0.39",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose - Almohada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b8a8bce1-98af-46be-b20a-7578f028322a",
+    "title": "Jose Jose - Almohada",
+    "titles": {
+      "spa": "Jose Jose - Almohada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:55:37.401Z",
+    "modified_at": "2022-11-03T06:55:37.865Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3411897,
+      "gain": -4.15,
+      "duration": 213,
+      "loudnorm": "-13.83,-0.75,3.90,-23.94,-0.39",
+      "filename": "processed_d4cd076c70d640e64916b60ea4deb471.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3411897,
+      "gain": -4.15,
+      "duration": 213,
+      "loudnorm": "-13.83,-0.75,3.90,-23.94,-0.39",
+      "filename": "processed_051866e111ae511056b6a0bead245f57.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

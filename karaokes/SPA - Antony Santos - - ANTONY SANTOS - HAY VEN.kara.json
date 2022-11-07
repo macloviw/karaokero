@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - HAY VEN.mp3",
+      "loudnorm": "-13.04,1.36,3.40,-23.14,-0.28",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - HAY VEN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f15b4eb9-e4f6-4e05-abfe-61c5e130ad40",
+    "title": "ANTONY SANTOS - HAY VEN",
+    "titles": {
+      "spa": "ANTONY SANTOS - HAY VEN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:59:49.955Z",
+    "modified_at": "2022-11-02T22:59:50.398Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c47302a50de213c49ccae1ecaad1b03.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4610474,
+      "gain": -5.38,
+      "duration": 288,
+      "loudnorm": "-13.04,1.36,3.40,-23.14,-0.28",
+      "filename": "processed_1a3394a76ec940d52388b025ed40fb0e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

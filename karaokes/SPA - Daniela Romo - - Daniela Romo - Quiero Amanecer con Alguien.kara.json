@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniela Romo - - Daniela Romo - Quiero Amanecer con Alguien.mp3",
+      "loudnorm": "-12.53,0.65,6.90,-22.65,-0.40",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniela Romo - - Daniela Romo - Quiero Amanecer con Alguien.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "901999f3-7e4a-42ae-b9f6-ccbadeb07d13",
+    "title": "Daniela Romo - Quiero Amanecer con Alguien",
+    "titles": {
+      "spa": "Daniela Romo - Quiero Amanecer con Alguien"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c9055891-729e-44ce-bf42-3b359f73ae48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:53:11.351Z",
+    "modified_at": "2022-11-03T03:53:11.758Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc387d5617f0e02219c4358c12702ecf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3510116,
+      "gain": -5.42,
+      "duration": 219,
+      "loudnorm": "-12.53,0.65,6.90,-22.65,-0.40",
+      "filename": "processed_cd83d5a7e739b24f54550d9712fd7dd7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

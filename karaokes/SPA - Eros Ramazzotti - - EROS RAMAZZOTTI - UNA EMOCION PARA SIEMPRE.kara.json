@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eros Ramazzotti - - EROS RAMAZZOTTI - UNA EMOCION PARA SIEMPRE.mp3",
+      "loudnorm": "-7.47,3.57,1.80,-17.56,-0.71",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eros Ramazzotti - - EROS RAMAZZOTTI - UNA EMOCION PARA SIEMPRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4dfb563f-cc7c-47de-b89c-385ccb3c5899",
+    "title": "EROS RAMAZZOTTI   -   UNA EMOCION PARA SIEMPRE",
+    "titles": {
+      "spa": "EROS RAMAZZOTTI   -   UNA EMOCION PARA SIEMPRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "843e9e40-f886-40ad-a984-60617d3b8d50"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:12:40.367Z",
+    "modified_at": "2022-11-03T05:12:40.777Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee4783897b17ec7c522b2551b8303654.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4211530,
+      "gain": -8.59,
+      "duration": 263,
+      "loudnorm": "-7.47,3.57,1.80,-17.56,-0.71",
+      "filename": "processed_2be5c551a79e6df809b37f0eb0587b6a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

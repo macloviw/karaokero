@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Yo No Se Que Me Paso.mp3",
+      "loudnorm": "-10.53,-0.29,3.90,-20.56,-0.59",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Yo No Se Que Me Paso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c17524f-d017-463e-bac4-9d69b45b769a",
+    "title": "Juan Gabriel - Yo No Se Que Me Paso",
+    "titles": {
+      "spa": "Juan Gabriel - Yo No Se Que Me Paso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:51:12.970Z",
+    "modified_at": "2022-11-03T07:51:13.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_edf8cdfaab94e3496aef0f693955db3d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7563693,
+      "gain": -6.61,
+      "duration": 315,
+      "loudnorm": "-10.53,-0.29,3.90,-20.56,-0.59",
+      "filename": "processed_d15198d45c9ef2081389b5590466fc8b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

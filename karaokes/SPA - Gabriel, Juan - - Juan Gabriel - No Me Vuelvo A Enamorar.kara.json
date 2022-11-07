@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - No Me Vuelvo A Enamorar.MP3",
+      "loudnorm": "-15.64,0.29,4.70,-25.92,-1.05",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - No Me Vuelvo A Enamorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3bb7c59d-753e-4f18-bac2-cf2df1bebde1",
+    "title": "Juan Gabriel - No Me Vuelvo A Enamorar",
+    "titles": {
+      "spa": "Juan Gabriel - No Me Vuelvo A Enamorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:49:02.745Z",
+    "modified_at": "2022-11-03T07:49:03.210Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3444736,
+      "gain": -0.9,
+      "duration": 215,
+      "loudnorm": "-15.64,0.29,4.70,-25.92,-1.05",
+      "filename": "processed_4190be0ebdcebcad27fe5e06061ace6e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3444736,
+      "gain": -0.9,
+      "duration": 215,
+      "loudnorm": "-15.64,0.29,4.70,-25.92,-1.05",
+      "filename": "processed_b62a47a5665fb2a106544c1f650401be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

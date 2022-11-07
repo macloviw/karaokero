@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Nunca Te Olvidare - (Multi Karaoke).mp3",
+      "loudnorm": "-12.05,0.24,4.80,-22.10,0.33",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Nunca Te Olvidare - (Multi Karaoke).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "73e174fb-de70-4eb5-b522-b8b33d6b03c5",
+    "title": "Enrique Iglesias - Nunca Te Olvidare - (Multi Karaoke)",
+    "titles": {
+      "spa": "Enrique Iglesias - Nunca Te Olvidare - (Multi Karaoke)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:03:59.718Z",
+    "modified_at": "2022-11-03T05:04:00.143Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61d62e480cfea549d008b8a5e7015ece.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4231772,
+      "gain": -6.63,
+      "duration": 264,
+      "loudnorm": "-12.05,0.24,4.80,-22.10,0.33",
+      "filename": "processed_c821dc00d2c0566ad24d6dfb9e0b4d3b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

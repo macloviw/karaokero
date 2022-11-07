@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Claudia de Colombia - - CLAUDIA DE COLOMBIA - Llamarada.MP3",
+      "loudnorm": "-16.99,-0.01,3.70,-27.11,-0.46",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Claudia de Colombia - - CLAUDIA DE COLOMBIA - Llamarada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9b3ffc2e-95c2-4dfc-8b23-83bd6e1c486d",
+    "title": "CLAUDIA DE COLOMBIA - Llamarada",
+    "titles": {
+      "spa": "CLAUDIA DE COLOMBIA - Llamarada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3808d2e2-bf78-4090-b0e8-e2114d7da0f6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:34:49.429Z",
+    "modified_at": "2022-11-03T03:34:49.929Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4023508,
+      "gain": -0.68,
+      "duration": 200,
+      "loudnorm": "-16.99,-0.01,3.70,-27.11,-0.46",
+      "filename": "processed_03b054815bc87142761120b302ba4a3d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4023508,
+      "gain": -0.68,
+      "duration": 200,
+      "loudnorm": "-16.99,-0.01,3.70,-27.11,-0.46",
+      "filename": "processed_0d42f9dcf5e39b3bf9d31dc9e08d711b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

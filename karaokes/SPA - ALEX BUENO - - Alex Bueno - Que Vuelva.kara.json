@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno - Que Vuelva.mp3",
+      "loudnorm": "-13.71,-0.35,1.00,-23.74,-0.40",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno - Que Vuelva.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "595eac38-da72-4f1a-be67-b9416be462f8",
+    "title": "Alex Bueno - Que Vuelva",
+    "titles": {
+      "spa": "Alex Bueno - Que Vuelva"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:03:07.517Z",
+    "modified_at": "2022-11-04T02:03:07.929Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5077adf3aabc5aa8885b74f43a1f526a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4837002,
+      "gain": -1.45,
+      "duration": 302,
+      "loudnorm": "-13.71,-0.35,1.00,-23.74,-0.40",
+      "filename": "processed_13318296c7c6a4972b496a80bee5e4e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

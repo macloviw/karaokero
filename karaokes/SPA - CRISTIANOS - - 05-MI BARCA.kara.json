@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - 05-MI BARCA.mp3",
+      "loudnorm": "-12.70,0.95,14.60,-23.33,-1.91",
+      "duration": 353,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - 05-MI BARCA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69278ac7-42c0-4640-94af-4419eecb09e7",
+    "title": "05-MI BARCA",
+    "titles": {
+      "spa": "05-MI BARCA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:55:58.622Z",
+    "modified_at": "2022-11-04T02:55:59.012Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5589a6c5a29e7d1f1a95a75ca705ebfe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8495951,
+      "gain": -6.6,
+      "duration": 353,
+      "loudnorm": "-12.70,0.95,14.60,-23.33,-1.91",
+      "filename": "processed_0da6237a1a1aa908bb2b88283a176cb4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tocando Fondo.mp3",
+      "loudnorm": "-10.95,0.91,7.70,-21.12,-0.57",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Tocando Fondo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc3293cb-89a3-4a7b-b757-1e03be97aeda",
+    "title": "Ricardo Arjona - Tocando Fondo",
+    "titles": {
+      "spa": "Ricardo Arjona - Tocando Fondo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:04:54.887Z",
+    "modified_at": "2022-11-03T12:04:55.338Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_526740408ab6ba62ab195f8e758afa4e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6489747,
+      "gain": -7.21,
+      "duration": 270,
+      "loudnorm": "-10.95,0.91,7.70,-21.12,-0.57",
+      "filename": "processed_57d0523479c3149f27e5f074b54a3c5e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dj Otzi - - Dj Otzi - Hey Baby.mp3",
+      "loudnorm": "-14.61,-2.21,4.80,-24.74,-0.59",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dj Otzi - - Dj Otzi - Hey Baby.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "542c5429-43cd-4bd6-a6ce-4b8cc87378fd",
+    "title": "Dj Otzi - Hey Baby",
+    "titles": {
+      "spa": "Dj Otzi - Hey Baby"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fff07c2c-c439-4527-9e7c-819d87eda310"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:21:36.577Z",
+    "modified_at": "2022-11-04T00:21:36.968Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2947565cd9cca4a0433faefc9cfe31a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3825676,
+      "gain": -2.37,
+      "duration": 238,
+      "loudnorm": "-14.61,-2.21,4.80,-24.74,-0.59",
+      "filename": "processed_737a8e3562043b02c024efc5fa8d2663.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

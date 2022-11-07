@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - CON LOS ANOS QUE ME QUEDAN.MP3",
+      "loudnorm": "-12.41,1.06,7.00,-22.61,-1.24",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - CON LOS ANOS QUE ME QUEDAN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6ec0d9bc-1f11-4222-a0bd-005066af56eb",
+    "title": "GLORIA ESTEFAN   -   CON LOS AÑOS QUE ME QUEDAN",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   CON LOS AÑOS QUE ME QUEDAN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:34:15.187Z",
+    "modified_at": "2022-11-03T05:34:16.014Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4444546,
+      "gain": -5.1,
+      "duration": 277,
+      "loudnorm": "-12.41,1.06,7.00,-22.61,-1.24",
+      "filename": "processed_54acf9aabfa037acf6c72544b7c0b628.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4444546,
+      "gain": -5.1,
+      "duration": 277,
+      "loudnorm": "-12.41,1.06,7.00,-22.61,-1.24",
+      "filename": "processed_b01c996fbb1cda3ffd70ad292591bbeb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

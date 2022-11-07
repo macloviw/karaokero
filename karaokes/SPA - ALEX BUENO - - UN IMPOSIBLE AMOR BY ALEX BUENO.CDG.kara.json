@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - UN IMPOSIBLE AMOR BY ALEX BUENO.CDG.MP3",
+      "loudnorm": "-11.67,0.04,2.50,-21.73,-0.88",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - UN IMPOSIBLE AMOR BY ALEX BUENO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "451eebc8-1f1f-45c4-ab76-ef6e39e0ef9b",
+    "title": "UN IMPOSIBLE AMOR BY ALEX BUENO.CDG",
+    "titles": {
+      "spa": "UN IMPOSIBLE AMOR BY ALEX BUENO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:07:35.951Z",
+    "modified_at": "2022-11-04T02:07:36.583Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8647672,
+      "gain": -5.41,
+      "duration": 216,
+      "loudnorm": "-11.67,0.04,2.50,-21.73,-0.88",
+      "filename": "processed_035226574e3a36a9c603d8a32ec5fb43.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8647672,
+      "gain": -5.41,
+      "duration": 216,
+      "loudnorm": "-11.67,0.04,2.50,-21.73,-0.88",
+      "filename": "processed_ae954b27d9f09a126c877dc5033976ee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

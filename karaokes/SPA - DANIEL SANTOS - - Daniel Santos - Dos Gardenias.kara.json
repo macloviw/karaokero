@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL SANTOS - - Daniel Santos - Dos Gardenias.MP3",
+      "loudnorm": "-12.13,-0.08,5.80,-23.06,-1.09",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL SANTOS - - Daniel Santos - Dos Gardenias.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd182bf4-64d9-4107-9b91-d91c9d0208dc",
+    "title": "Daniel Santos - Dos Gardenias",
+    "titles": {
+      "spa": "Daniel Santos - Dos Gardenias"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a7f5db32-849e-4766-b5f8-6e3b888a5952"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:52:29.119Z",
+    "modified_at": "2022-11-03T03:52:29.575Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2924544,
+      "gain": -5.6,
+      "duration": 182,
+      "loudnorm": "-12.13,-0.08,5.80,-23.06,-1.09",
+      "filename": "processed_97e2db2ad1c6227aed448fb5eb365130.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2924544,
+      "gain": -5.6,
+      "duration": 182,
+      "loudnorm": "-12.13,-0.08,5.80,-23.06,-1.09",
+      "filename": "processed_c2a5f0af1b157e1aeb9f82622037d9f0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

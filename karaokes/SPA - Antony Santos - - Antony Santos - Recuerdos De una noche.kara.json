@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - Antony Santos - Recuerdos De una noche.mp3",
+      "loudnorm": "-14.28,0.40,3.10,-24.37,0.03",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - Antony Santos - Recuerdos De una noche.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d040629-44c9-42fd-933d-fa93385f246d",
+    "title": "Antony Santos - Recuerdos De una noche",
+    "titles": {
+      "spa": "Antony Santos - Recuerdos De una noche"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:33:16.784Z",
+    "modified_at": "2022-11-04T02:33:17.167Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9d729ce480dd082e7dd4db24a7cd0593.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6923078,
+      "gain": -2.63,
+      "duration": 288,
+      "loudnorm": "-14.28,0.40,3.10,-24.37,0.03",
+      "filename": "processed_9229baccfc6d302a91a91d997276dcd0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY MONTANES - - ANDY MONTANE - COBARDE COBARDE.mp3",
+      "loudnorm": "-16.59,-1.15,4.80,-26.61,-1.00",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY MONTANES - - ANDY MONTANE - COBARDE COBARDE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9044b961-1258-40fc-a060-9494700ed890",
+    "title": "ANDY MONTANE - COBARDE COBARDE...",
+    "titles": {
+      "spa": "ANDY MONTANE - COBARDE COBARDE..."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7ded384e-080e-4fe2-8082-45859c13632f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T17:13:51.762Z",
+    "modified_at": "2022-11-03T17:13:52.208Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_24338e75ca899305cee91b5a9f764d30.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3690964,
+      "gain": -2.78,
+      "duration": 230,
+      "loudnorm": "-16.59,-1.15,4.80,-26.61,-1.00",
+      "filename": "processed_755ef8c17dbc1c79a5c60dc5171608ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

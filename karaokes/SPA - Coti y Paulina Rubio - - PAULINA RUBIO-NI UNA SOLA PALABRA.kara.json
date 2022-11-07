@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO-NI UNA SOLA PALABRA.mp3",
+      "loudnorm": "-12.66,1.00,9.70,-23.07,-0.65",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO-NI UNA SOLA PALABRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d997214f-b0a7-4690-956b-3b973c13b11b",
+    "title": "PAULINA RUBIO-NI UNA SOLA PALABRA",
+    "titles": {
+      "spa": "PAULINA RUBIO-NI UNA SOLA PALABRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:20:33.361Z",
+    "modified_at": "2022-11-03T11:20:33.800Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51304fc22b2a72854328e852e366a0af.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3246621,
+      "gain": -5.21,
+      "duration": 231,
+      "loudnorm": "-12.66,1.00,9.70,-23.07,-0.65",
+      "filename": "processed_ca3227afed6b8dcbec5c89f116e4fdf2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

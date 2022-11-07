@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Def Leppard - - Def Leppard - Rock Rock (Till You Drop).mp3",
+      "loudnorm": "-8.93,1.49,2.30,-19.00,-0.96",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Def Leppard - - Def Leppard - Rock Rock (Till You Drop).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e61ad6d9-883e-4feb-a5eb-e8e8fc954cf3",
+    "title": "Def Leppard - Rock Rock (Till You Drop)",
+    "titles": {
+      "spa": "Def Leppard - Rock Rock (Till You Drop)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9506261b-e3d0-4a55-89f5-95bec7bd8dec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:53:07.705Z",
+    "modified_at": "2022-11-03T15:53:08.168Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d263e5b326b55b1d36ead3a27dce976f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4984782,
+      "gain": -8.14,
+      "duration": 249,
+      "loudnorm": "-8.93,1.49,2.30,-19.00,-0.96",
+      "filename": "processed_d9c813dc94dd7816359e8e0cb1e4adc6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

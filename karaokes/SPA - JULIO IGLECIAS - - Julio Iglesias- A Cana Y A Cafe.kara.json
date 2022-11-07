@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- A Cana Y A Cafe.mp3",
+      "loudnorm": "-12.52,0.54,5.60,-22.84,-0.96",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- A Cana Y A Cafe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf35304f-51e1-4275-b046-417117473b7d",
+    "title": "Julio Iglesias- A Cana Y A Cafe",
+    "titles": {
+      "spa": "Julio Iglesias- A Cana Y A Cafe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:01:11.521Z",
+    "modified_at": "2022-11-03T08:01:11.944Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43c0b8f9a6ab88bce97bdcdb3dbf87fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3902998,
+      "gain": -6.38,
+      "duration": 243,
+      "loudnorm": "-12.52,0.54,5.60,-22.84,-0.96",
+      "filename": "processed_c8f5eaa930fb8bfadc4452c8fba44df7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAULIN RODRIGUEZ - - Raulin Rodriguez - Corazon Con Candado.mp3",
+      "loudnorm": "-12.88,-2.14,2.20,-22.94,-0.60",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAULIN RODRIGUEZ - - Raulin Rodriguez - Corazon Con Candado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51e785d4-9d73-4c32-8729-40b45bd3cfdb",
+    "title": "Raulin Rodriguez - Corazon Con Candado",
+    "titles": {
+      "spa": "Raulin Rodriguez - Corazon Con Candado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:19:59.677Z",
+    "modified_at": "2022-11-04T08:20:00.061Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_362582ec1c8c53dcbc985f88330b0423.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10822321,
+      "gain": -6.13,
+      "duration": 270,
+      "loudnorm": "-12.88,-2.14,2.20,-22.94,-0.60",
+      "filename": "processed_428ca45b265922b84e2ee167a532a3b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

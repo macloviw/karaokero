@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Frank Sinatra - - Frank Sinatra - Moon River.MP3",
+      "loudnorm": "-11.17,1.10,2.90,-21.20,-0.52",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Frank Sinatra - - Frank Sinatra - Moon River.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf8f711b-27bf-439e-a1bc-fece5acffda2",
+    "title": "Frank Sinatra - Moon River",
+    "titles": {
+      "spa": "Frank Sinatra - Moon River"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e2c69552-50ef-4a23-bc44-deea6027eee3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:47:48.868Z",
+    "modified_at": "2022-11-04T00:47:49.302Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3276478,
+      "gain": -6.15,
+      "duration": 204,
+      "loudnorm": "-11.17,1.10,2.90,-21.20,-0.52",
+      "filename": "processed_a30fe6eb2847a79252c6a64bce1192c5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3276478,
+      "gain": -6.15,
+      "duration": 204,
+      "loudnorm": "-11.17,1.10,2.90,-21.20,-0.52",
+      "filename": "processed_e54668b7583fa2467c1e37f9063a407a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

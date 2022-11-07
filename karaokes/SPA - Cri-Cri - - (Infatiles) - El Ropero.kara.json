@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cri-Cri - - (Infatiles) - El Ropero.mp3",
+      "loudnorm": "-14.39,-0.07,3.70,-24.51,0.01",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cri-Cri - - (Infatiles) - El Ropero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "061fc482-7452-40f4-914c-5c11e1c376aa",
+    "title": "(Infatiles)  - El Ropero",
+    "titles": {
+      "spa": "(Infatiles)  - El Ropero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "65fe2370-92b8-4b26-a2c8-12b3fc7cac46"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:51:39.928Z",
+    "modified_at": "2022-11-04T02:51:40.300Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9a63c4131a32294aca0c00492d364787.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4172021,
+      "gain": -3.13,
+      "duration": 173,
+      "loudnorm": "-14.39,-0.07,3.70,-24.51,0.01",
+      "filename": "processed_a1ecc2a0499a13e71d01de920d13ddda.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - 14 pecado original.mp3",
+      "loudnorm": "-11.15,0.04,5.50,-21.25,-0.74",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - 14 pecado original.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e92e3f6f-ac8b-455a-be70-dd8f9c45e047",
+    "title": "14 pecado original",
+    "titles": {
+      "spa": "14 pecado original"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:38:43.103Z",
+    "modified_at": "2022-11-03T01:38:43.547Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61e066ab5a1bdca629df33e958983cfb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4439657,
+      "gain": -7.55,
+      "duration": 184,
+      "loudnorm": "-11.15,0.04,5.50,-21.25,-0.74",
+      "filename": "processed_03951e5a96df05b9a5aa82e91db89440.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

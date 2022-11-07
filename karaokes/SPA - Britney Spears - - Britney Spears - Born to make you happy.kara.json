@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Britney Spears - - Britney Spears - Born to make you happy.mp3",
+      "loudnorm": "-10.79,1.79,5.10,-20.83,-0.94",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Britney Spears - - Britney Spears - Born to make you happy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9a1a5c82-f79b-476e-88aa-6837a756d2ce",
+    "title": "Britney Spears - Born to make you happy",
+    "titles": {
+      "spa": "Britney Spears - Born to make you happy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "1730868a-1882-4a56-b682-529f88d74565"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:32:23.912Z",
+    "modified_at": "2022-11-03T23:32:24.296Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8a958e367b8e5bcb79580a3a28dcfffa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3720768,
+      "gain": -6.22,
+      "duration": 232,
+      "loudnorm": "-10.79,1.79,5.10,-20.83,-0.94",
+      "filename": "processed_9ca306a127bbd0c2bde59ac749fc92b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

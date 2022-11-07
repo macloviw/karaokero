@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-tantita pena.MP3",
+      "loudnorm": "-8.91,4.06,3.40,-19.07,-0.96",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - Alejandro Fernandez-tantita pena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2255c459-7de6-41bb-a4a2-e6aa68d20c44",
+    "title": "Alejandro Fernandez-tantita pena",
+    "titles": {
+      "spa": "Alejandro Fernandez-tantita pena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:51:08.258Z",
+    "modified_at": "2022-11-03T00:51:08.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3523493,
+      "gain": -8.99,
+      "duration": 220,
+      "loudnorm": "-8.91,4.06,3.40,-19.07,-0.96",
+      "filename": "processed_55c06cf34d895fd8919c14737509b22b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3523493,
+      "gain": -8.99,
+      "duration": 220,
+      "loudnorm": "-8.91,4.06,3.40,-19.07,-0.96",
+      "filename": "processed_ffa730d7f409d9af8f7493e4e1e65aef.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

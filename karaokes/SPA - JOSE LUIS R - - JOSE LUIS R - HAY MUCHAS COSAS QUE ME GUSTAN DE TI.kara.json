@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - HAY MUCHAS COSAS QUE ME GUSTAN DE TI.MP3",
+      "loudnorm": "-12.84,2.24,6.40,-23.04,-0.07",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE LUIS R - - JOSE LUIS R - HAY MUCHAS COSAS QUE ME GUSTAN DE TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a4ec0cb-730c-45b3-b543-2a5815aaaee1",
+    "title": "JOSE LUIS R   -   HAY MUCHAS COSAS QUE ME GUSTAN DE TI",
+    "titles": {
+      "spa": "JOSE LUIS R   -   HAY MUCHAS COSAS QUE ME GUSTAN DE TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1e5e029-7371-4aa3-b1a3-b94eadf7dc04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:24:32.808Z",
+    "modified_at": "2022-11-03T07:24:33.273Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3157649,
+      "gain": -5.79,
+      "duration": 197,
+      "loudnorm": "-12.84,2.24,6.40,-23.04,-0.07",
+      "filename": "processed_e294cb7c8b57cea9a1c136a9678bf963.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3157649,
+      "gain": -5.79,
+      "duration": 197,
+      "loudnorm": "-12.84,2.24,6.40,-23.04,-0.07",
+      "filename": "processed_15afdb40d37a0f8eb8b2c0a6cc49c735.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

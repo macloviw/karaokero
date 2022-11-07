@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-AMIGA SI LA VES.mp3",
+      "loudnorm": "-11.34,2.90,4.30,-21.35,0.17",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-AMIGA SI LA VES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a18f45ef-f391-4710-b895-26848971a666",
+    "title": "JENNI RIVERA-AMIGA SI LA VES",
+    "titles": {
+      "spa": "JENNI RIVERA-AMIGA SI LA VES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:31:54.718Z",
+    "modified_at": "2022-11-03T22:31:55.110Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3ce0bd71dc5eb65d362a2f342360e956.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3729000,
+      "gain": -5.91,
+      "duration": 266,
+      "loudnorm": "-11.34,2.90,4.30,-21.35,0.17",
+      "filename": "processed_9164144e77ba61033624bbedff6d0d9a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

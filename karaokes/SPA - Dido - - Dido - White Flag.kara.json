@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dido - - Dido - White Flag.mp3",
+      "loudnorm": "-12.99,2.90,5.30,-23.44,-1.06",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dido - - Dido - White Flag.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a6368cc-07f7-417d-b247-de2db23eb7cf",
+    "title": "Dido - White Flag",
+    "titles": {
+      "spa": "Dido - White Flag"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f7ddb659-6caf-48b1-b926-038fa3cf6d77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:04:03.279Z",
+    "modified_at": "2022-11-03T16:04:03.734Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ff659524879ed799320ddb390d3e6d9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3838080,
+      "gain": -5.13,
+      "duration": 239,
+      "loudnorm": "-12.99,2.90,5.30,-23.44,-1.06",
+      "filename": "processed_c712b62bd9350320828ffbf037669740.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

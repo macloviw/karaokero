@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - ABSURDO OTONO.mp3",
+      "loudnorm": "-13.73,0.13,6.00,-23.85,-0.81",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - ABSURDO OTONO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "42068e19-2ce9-444f-8fb3-f1b9153e0c7f",
+    "title": "ANTHONY RIOS   -   ABSURDO OTOÑO",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   ABSURDO OTOÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:47:13.203Z",
+    "modified_at": "2022-11-03T01:47:13.661Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_581418f89efd175f910ecdbbb7e13c41.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6342711,
+      "gain": -4.13,
+      "duration": 226,
+      "loudnorm": "-13.73,0.13,6.00,-23.85,-0.81",
+      "filename": "processed_309a3958b5b9bc03667786cb6234f4cd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danilo Montero - - Danilo Montero - Hay Momentos.mp3",
+      "loudnorm": "-10.99,1.06,9.60,-21.33,-1.62",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danilo Montero - - Danilo Montero - Hay Momentos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "28654eb7-1f93-4487-9eaa-fa640443bf37",
+    "title": "Danilo Montero - Hay Momentos",
+    "titles": {
+      "spa": "Danilo Montero - Hay Momentos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "79c9f3f8-00de-471a-b910-9289f5d5d29d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:35:35.841Z",
+    "modified_at": "2022-11-03T23:35:36.217Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ef95caf5ba49dba7beef4c6d78d0d17c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4276654,
+      "gain": -7.28,
+      "duration": 267,
+      "loudnorm": "-10.99,1.06,9.60,-21.33,-1.62",
+      "filename": "processed_2e23835780fae59f8e085c6e902a9422.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

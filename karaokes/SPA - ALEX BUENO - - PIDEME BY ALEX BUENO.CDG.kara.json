@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - PIDEME BY ALEX BUENO.CDG.MP3",
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - PIDEME BY ALEX BUENO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "252d211c-957a-49af-a303-cb57af1d4a9f",
+    "title": "PIDEME BY ALEX BUENO.CDG",
+    "titles": {
+      "spa": "PIDEME BY ALEX BUENO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:06:01.968Z",
+    "modified_at": "2022-11-04T02:06:02.409Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3871106,
+      "gain": -0.59,
+      "duration": 241,
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "filename": "processed_797085b6c3aa4e1492fab6125be87fe3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3871106,
+      "gain": -0.59,
+      "duration": 241,
+      "loudnorm": "-16.33,0.41,1.90,-26.35,0.28",
+      "filename": "processed_43c7df6666366865c112024c9761f31f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

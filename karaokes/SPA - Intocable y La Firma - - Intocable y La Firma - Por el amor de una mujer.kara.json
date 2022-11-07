@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Intocable y La Firma - - Intocable y La Firma - Por el amor de una mujer.mp3",
+      "loudnorm": "-10.48,1.73,2.80,-20.61,-0.09",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Intocable y La Firma - - Intocable y La Firma - Por el amor de una mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4d761217-83b8-4700-b16a-9724f144104a",
+    "title": "Intocable y La Firma - Por el amor de una mujer",
+    "titles": {
+      "spa": "Intocable y La Firma - Por el amor de una mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "914f3a10-a37c-4fec-82c8-11961a36fb30"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:25:16.795Z",
+    "modified_at": "2022-11-03T22:25:17.170Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b43b62ed95552604f0e04bf168f53766.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5204513,
+      "gain": -6.38,
+      "duration": 216,
+      "loudnorm": "-10.48,1.73,2.80,-20.61,-0.09",
+      "filename": "processed_21dce6ed33b483183e84dad96a15bd6c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

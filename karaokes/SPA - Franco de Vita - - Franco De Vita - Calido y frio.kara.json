@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - Franco De Vita - Calido y frio.mp3",
+      "loudnorm": "-9.32,7.59,5.40,-19.38,-1.45",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - Franco De Vita - Calido y frio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "edc9aea5-6ee5-4e09-b299-caf4b8b81ca9",
+    "title": "Franco De Vita - Calido y frio",
+    "titles": {
+      "spa": "Franco De Vita - Calido y frio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:27:43.186Z",
+    "modified_at": "2022-11-03T05:27:43.681Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9cab8c4cc4b6c2f660df24d44e6657f5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4434849,
+      "gain": -8.47,
+      "duration": 277,
+      "loudnorm": "-9.32,7.59,5.40,-19.38,-1.45",
+      "filename": "processed_705fa403cb921b54f52ea5b15673ad8e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

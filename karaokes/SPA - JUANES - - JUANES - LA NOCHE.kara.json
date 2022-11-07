@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - LA NOCHE.MP3",
+      "loudnorm": "-12.82,1.68,2.90,-23.07,-0.68",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - LA NOCHE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "91ea347b-0a27-4f14-a0a5-1e834eefec7c",
+    "title": "JUANES   -   LA NOCHE",
+    "titles": {
+      "spa": "JUANES   -   LA NOCHE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:53:52.097Z",
+    "modified_at": "2022-11-03T07:53:52.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2960373,
+      "gain": -4.05,
+      "duration": 184,
+      "loudnorm": "-12.82,1.68,2.90,-23.07,-0.68",
+      "filename": "processed_36a9dec5597df936e2316d0ae5348b12.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2960373,
+      "gain": -4.05,
+      "duration": 184,
+      "loudnorm": "-12.82,1.68,2.90,-23.07,-0.68",
+      "filename": "processed_2c0c405b2b2942dc2092969a77e13a95.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

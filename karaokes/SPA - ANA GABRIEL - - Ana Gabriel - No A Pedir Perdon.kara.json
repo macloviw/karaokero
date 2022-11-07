@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - Ana Gabriel - No A Pedir Perdon.mp3",
+      "loudnorm": "-10.46,1.46,6.50,-20.83,-1.09",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - Ana Gabriel - No A Pedir Perdon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d86482a4-2fae-4676-9f33-204437f4d6d6",
+    "title": "Ana Gabriel - No A Pedir Perdon",
+    "titles": {
+      "spa": "Ana Gabriel - No A Pedir Perdon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:42:45.550Z",
+    "modified_at": "2022-11-03T01:42:45.982Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ef928b602d0def93ef7ff8a4370abb4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5704193,
+      "gain": -5.81,
+      "duration": 237,
+      "loudnorm": "-10.46,1.46,6.50,-20.83,-1.09",
+      "filename": "processed_6239bae147a85dc6b51886d95fa39c82.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

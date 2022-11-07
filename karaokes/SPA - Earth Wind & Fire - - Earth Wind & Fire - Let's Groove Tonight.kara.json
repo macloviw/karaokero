@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Let's Groove Tonight.mp3",
+      "loudnorm": "-18.91,0.12,3.30,-29.08,-0.39",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Earth Wind & Fire - - Earth Wind & Fire - Let's Groove Tonight.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90e9acf9-92ac-4ba0-bad7-56eca6bde96e",
+    "title": "Earth Wind & Fire - Let's Groove Tonight",
+    "titles": {
+      "spa": "Earth Wind & Fire - Let's Groove Tonight"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a9c40ef9-1609-42f2-b547-4cf04f1bf901"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:18:50.061Z",
+    "modified_at": "2022-11-03T16:18:50.619Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4a9b4bf2d45c275b2c13b9f8ca77f50.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4053046,
+      "gain": 0.01,
+      "duration": 253,
+      "loudnorm": "-18.91,0.12,3.30,-29.08,-0.39",
+      "filename": "processed_d10ada4257047890cd7d5fffaaf0c899.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Gaynor - - Gloria Gaynor - I Will Survive.mp3",
+      "loudnorm": "-17.14,1.16,9.90,-27.49,-1.32",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Gaynor - - Gloria Gaynor - I Will Survive.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bc0f3cd3-d1e6-4114-a3a4-1ff0eebfb687",
+    "title": "Gloria Gaynor - I Will Survive",
+    "titles": {
+      "spa": "Gloria Gaynor - I Will Survive"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3c59b4af-dbd9-4dad-927e-06fc5d717c17"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:53:08.436Z",
+    "modified_at": "2022-11-04T00:53:08.814Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2f6ba4aee87a71b444174e0529d418b8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3602904,
+      "gain": -1.08,
+      "duration": 225,
+      "loudnorm": "-17.14,1.16,9.90,-27.49,-1.32",
+      "filename": "processed_5fdd65231f42f8b9ad40d88a84693952.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

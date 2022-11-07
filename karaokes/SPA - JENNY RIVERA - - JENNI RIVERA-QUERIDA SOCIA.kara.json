@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-QUERIDA SOCIA.mp3",
+      "loudnorm": "-11.25,1.72,4.00,-21.49,-0.33",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-QUERIDA SOCIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb0f174f-cef8-45d7-95e4-aff0b55ce0c3",
+    "title": "JENNI RIVERA-QUERIDA SOCIA",
+    "titles": {
+      "spa": "JENNI RIVERA-QUERIDA SOCIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:14.344Z",
+    "modified_at": "2022-11-03T06:16:14.843Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_291b2c91995ed98538d1043bffd6cf6b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2271628,
+      "gain": -6.51,
+      "duration": 162,
+      "loudnorm": "-11.25,1.72,4.00,-21.49,-0.33",
+      "filename": "processed_b8e6be8be077b7584fb13d76866f9c8d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eric Clapton - - Eric Clapton - I Shot The Sheriff.MP3",
+      "loudnorm": "-13.18,0.44,2.60,-23.27,-0.59",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eric Clapton - - Eric Clapton - I Shot The Sheriff.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6589a76-b1c2-43e0-aae9-d312eb44b0bb",
+    "title": "Eric Clapton - I Shot The Sheriff",
+    "titles": {
+      "spa": "Eric Clapton - I Shot The Sheriff"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e9f768a3-0bd7-47ff-b061-0c8e9b51a7c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:36:08.588Z",
+    "modified_at": "2022-11-04T00:36:09.591Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11776097,
+      "gain": -4.45,
+      "duration": 294,
+      "loudnorm": "-13.18,0.44,2.60,-23.27,-0.59",
+      "filename": "processed_d299a276f44aa8deab44d1381b64a89f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11776097,
+      "gain": -4.45,
+      "duration": 294,
+      "loudnorm": "-13.18,0.44,2.60,-23.27,-0.59",
+      "filename": "processed_2c81ccb91545aa06d6179936b4d9d24e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

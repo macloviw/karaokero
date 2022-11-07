@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS391-01 - - ARIS391-01 - Yoskar Sarante - Se Ma A Acansado El Alma.mp3",
+      "loudnorm": "-10.14,3.71,2.50,-20.22,-0.31",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS391-01 - - ARIS391-01 - Yoskar Sarante - Se Ma A Acansado El Alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c682f209-c564-42c8-b405-ff3333d7cc35",
+    "title": "ARIS391-01 - Yoskar Sarante - Se Ma A Acansado El Alma",
+    "titles": {
+      "spa": "ARIS391-01 - Yoskar Sarante - Se Ma A Acansado El Alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "e8eef330-29fa-4c9c-a970-6f4f5fbd4a4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:40:22.991Z",
+    "modified_at": "2022-11-03T21:40:23.468Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_578a92bb905931a5cb77aab88e06c17e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4679984,
+      "gain": -7.4,
+      "duration": 292,
+      "loudnorm": "-10.14,3.71,2.50,-20.22,-0.31",
+      "filename": "processed_4a08769bd1dfcef959dcd3275aa6a742.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

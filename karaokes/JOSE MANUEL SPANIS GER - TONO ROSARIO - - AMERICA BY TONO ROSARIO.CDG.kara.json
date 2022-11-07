@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - AMERICA BY TONO ROSARIO.CDG.MP3",
+      "loudnorm": "-11.19,1.23,1.70,-21.25,-0.62",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - AMERICA BY TONO ROSARIO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1450406-3c10-4403-8e3b-117bb34f8fc7",
+    "title": "AMERICA BY TOÑO ROSARIO.CDG",
+    "titles": {
+      "spa": "AMERICA BY TOÑO ROSARIO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:13:37.820Z",
+    "modified_at": "2022-11-04T11:13:38.389Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4364664,
+      "gain": -6.69,
+      "duration": 272,
+      "loudnorm": "-11.19,1.23,1.70,-21.25,-0.62",
+      "filename": "processed_51eff34a1be59f2a00af5406e1b44590.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4364664,
+      "gain": -6.69,
+      "duration": 272,
+      "loudnorm": "-11.19,1.23,1.70,-21.25,-0.62",
+      "filename": "processed_107d3667d620548c0597b9b2e796f024.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

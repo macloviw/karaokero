@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS382-01 - - ARIS382-01 - Luis Miguel Del Amargue - De Rodrilla.mp3",
+      "loudnorm": "-13.57,3.32,6.80,-23.64,-1.08",
+      "duration": 325,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS382-01 - - ARIS382-01 - Luis Miguel Del Amargue - De Rodrilla.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "edeb9469-858c-4a76-bd20-6cc353cd15c3",
+    "title": "ARIS382-01 - Luis Miguel Del Amargue - De Rodrilla",
+    "titles": {
+      "spa": "ARIS382-01 - Luis Miguel Del Amargue - De Rodrilla"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4f3c1ba8-aeed-48b5-bbac-dbc131ae9c6d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:39:30.275Z",
+    "modified_at": "2022-11-03T21:39:30.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_681115269f0848ec6e47f675f05065bf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5215807,
+      "gain": -4.41,
+      "duration": 325,
+      "loudnorm": "-13.57,3.32,6.80,-23.64,-1.08",
+      "filename": "processed_bd0efbd2091ae862d306696adf737b5d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

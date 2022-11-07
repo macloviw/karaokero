@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FAUSTO REY kara funn - - 02 TODAVIA CREO EN EL AMOR.mp3",
+      "loudnorm": "-18.91,-3.56,4.50,-28.95,-0.06",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FAUSTO REY kara funn - - 02 TODAVIA CREO EN EL AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b1c2493-d967-407b-b1cc-05841cae364d",
+    "title": "02 TODAVIA CREO EN EL AMOR",
+    "titles": {
+      "spa": "02 TODAVIA CREO EN EL AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d15379a4-fa39-41cc-9354-a04aad771e37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:16:26.115Z",
+    "modified_at": "2022-11-03T22:16:26.528Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b93dc4187e933c8ad9b94255b5ac8cf9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3515885,
+      "gain": 1.36,
+      "duration": 219,
+      "loudnorm": "-18.91,-3.56,4.50,-28.95,-0.06",
+      "filename": "processed_3b4ba178849212858b885efdede4898a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

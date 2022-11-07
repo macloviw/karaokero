@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - popurri de fernando villalona MAK.mp3",
+      "loudnorm": "-16.46,-3.18,3.40,-26.62,-0.28",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - popurri de fernando villalona MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b99c8cb-bf6c-4f43-bedf-27692be0c8d9",
+    "title": "Banda Real - popurri de fernando villalona MAK",
+    "titles": {
+      "spa": "Banda Real - popurri de fernando villalona MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:40:25.065Z",
+    "modified_at": "2022-11-04T02:40:25.448Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0cc6770f479b61054a8fda1cf9b6fd8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5176521,
+      "gain": -3.41,
+      "duration": 323,
+      "loudnorm": "-16.46,-3.18,3.40,-26.62,-0.28",
+      "filename": "processed_b312ec176316510628bde9828e0c7a50.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

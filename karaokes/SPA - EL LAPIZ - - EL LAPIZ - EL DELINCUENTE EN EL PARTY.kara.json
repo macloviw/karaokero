@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL LAPIZ - - EL LAPIZ - EL DELINCUENTE EN EL PARTY.mp3",
+      "loudnorm": "-14.24,2.45,3.50,-24.62,-0.14",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL LAPIZ - - EL LAPIZ - EL DELINCUENTE EN EL PARTY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4f91ce33-51fe-4f59-ad90-ad69f9991e62",
+    "title": "EL LAPIZ                             -   EL DELINCUENTE EN EL PARTY",
+    "titles": {
+      "spa": "EL LAPIZ                             -   EL DELINCUENTE EN EL PARTY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d8323fbc-37f8-4c03-9e86-819f8aa16ff8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:08:59.263Z",
+    "modified_at": "2022-11-04T03:08:59.654Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eaa8b91a9a80d30080cdd09b25c314b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4399953,
+      "gain": -6.33,
+      "duration": 274,
+      "loudnorm": "-14.24,2.45,3.50,-24.62,-0.14",
+      "filename": "processed_24393ef64ca831bd25200dd5c0975662.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

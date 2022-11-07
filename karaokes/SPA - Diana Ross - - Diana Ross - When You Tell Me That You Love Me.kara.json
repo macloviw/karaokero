@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diana Ross - - Diana Ross - When You Tell Me That You Love Me.MP3",
+      "loudnorm": "-17.13,-0.79,13.80,-27.69,-2.22",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diana Ross - - Diana Ross - When You Tell Me That You Love Me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bab18df8-ae6d-4161-bb00-28a45667e82a",
+    "title": "Diana Ross - When You Tell Me That You Love Me",
+    "titles": {
+      "spa": "Diana Ross - When You Tell Me That You Love Me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "11bf1126-ac02-41c6-a5a8-9046a3770bc9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:01:27.272Z",
+    "modified_at": "2022-11-03T16:01:27.942Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4164641,
+      "gain": -1.94,
+      "duration": 260,
+      "loudnorm": "-17.13,-0.79,13.80,-27.69,-2.22",
+      "filename": "processed_084f466adbbb45692fd47c9008b5c16e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4164641,
+      "gain": -1.94,
+      "duration": 260,
+      "loudnorm": "-17.13,-0.79,13.80,-27.69,-2.22",
+      "filename": "processed_18986e7c0340192557ad6acea2fb1f31.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

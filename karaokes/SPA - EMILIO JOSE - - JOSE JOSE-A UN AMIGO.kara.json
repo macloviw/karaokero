@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE-A UN AMIGO.mp3",
+      "loudnorm": "-9.61,4.13,6.30,-19.79,-1.23",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE-A UN AMIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3395ba0-218e-4daf-befe-bb604700a0f9",
+    "title": "JOSE JOSE-A UN AMIGO",
+    "titles": {
+      "spa": "JOSE JOSE-A UN AMIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:03:20.283Z",
+    "modified_at": "2022-11-03T07:03:20.697Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_872465e9195bc9edf2fbbcb3ddfcb8e1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4619380,
+      "gain": -8.42,
+      "duration": 288,
+      "loudnorm": "-9.61,4.13,6.30,-19.79,-1.23",
+      "filename": "processed_38be1072f45f99984414c9947b9612ed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

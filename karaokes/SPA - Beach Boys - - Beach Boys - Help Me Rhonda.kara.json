@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - Help Me Rhonda.mp3",
+      "loudnorm": "-13.13,1.53,3.30,-23.26,-0.73",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - Help Me Rhonda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1ecbd9f1-7c3e-4736-9fae-c8e528960fa2",
+    "title": "Beach Boys - Help Me Rhonda",
+    "titles": {
+      "spa": "Beach Boys - Help Me Rhonda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:54:57.929Z",
+    "modified_at": "2022-11-03T14:54:58.366Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c6900b3d8ba774b1f2431438ed4a1eab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3512800,
+      "gain": -4.72,
+      "duration": 219,
+      "loudnorm": "-13.13,1.53,3.30,-23.26,-0.73",
+      "filename": "processed_0d933b60c8a4d9f471c27170aedeaf4b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GEOVANNY POLANCO - - Geovanny Polanco - La Grama Chapia.mp3",
+      "loudnorm": "-12.76,0.40,3.00,-22.82,-0.40",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GEOVANNY POLANCO - - Geovanny Polanco - La Grama Chapia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d865bed-e099-4196-b82a-d6685b419f0e",
+    "title": "Geovanny Polanco - La Grama Chapia",
+    "titles": {
+      "spa": "Geovanny Polanco - La Grama Chapia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ccd45d64-b03c-4304-9627-d68c9071e9fe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:23:41.788Z",
+    "modified_at": "2022-11-04T03:23:42.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a6b714e33f3ac217a5438d6b1f72129b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7624508,
+      "gain": -5.2,
+      "duration": 317,
+      "loudnorm": "-12.76,0.40,3.00,-22.82,-0.40",
+      "filename": "processed_221b879910fd04a6813d30356076c3a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

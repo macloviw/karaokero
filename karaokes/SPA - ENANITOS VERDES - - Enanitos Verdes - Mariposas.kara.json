@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Mariposas.mp3",
+      "loudnorm": "-16.19,-1.01,1.70,-26.40,-0.40",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Mariposas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1162f94-99cb-4136-b81c-b175f6bfd9c9",
+    "title": "Enanitos Verdes - Mariposas",
+    "titles": {
+      "spa": "Enanitos Verdes - Mariposas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:48:13.708Z",
+    "modified_at": "2022-11-03T04:48:14.131Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa8af6a4005091b11e6ac4f60debffad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3780417,
+      "gain": -0.25,
+      "duration": 236,
+      "loudnorm": "-16.19,-1.01,1.70,-26.40,-0.40",
+      "filename": "processed_6bcf3c5a6411bb4307be566517d6fd09.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

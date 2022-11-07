@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - David Bisbal - Como Olvidar.mp3",
+      "loudnorm": "-10.99,2.60,6.30,-21.05,-0.73",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - David Bisbal - Como Olvidar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17a40245-19f8-4441-aeed-003c0a44b3e3",
+    "title": "David Bisbal - Cómo Olvidar",
+    "titles": {
+      "spa": "David Bisbal - Cómo Olvidar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:05:56.130Z",
+    "modified_at": "2022-11-03T04:05:56.569Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e95e025d3d135c76767e56a173d36f49.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4294784,
+      "gain": -7.98,
+      "duration": 268,
+      "loudnorm": "-10.99,2.60,6.30,-21.05,-0.73",
+      "filename": "processed_c960c6642ea2a18b11aa173626f938e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

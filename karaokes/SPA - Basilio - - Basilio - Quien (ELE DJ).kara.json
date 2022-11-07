@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Basilio - - Basilio - Quien (ELE DJ).mp3",
+      "loudnorm": "-10.78,1.49,8.00,-20.88,-1.16",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Basilio - - Basilio - Quien (ELE DJ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f9057a5f-c93d-4515-bc12-ab4552fb78b3",
+    "title": "Basilio - Quien (ELE DJ).",
+    "titles": {
+      "spa": "Basilio - Quien (ELE DJ)."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1b4f31aa-3c62-47b0-9cc9-276825c48da9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:41:02.418Z",
+    "modified_at": "2022-11-04T02:41:02.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33d5dfcc260c5d077885c2436260a12d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6671977,
+      "gain": -5.45,
+      "duration": 208,
+      "loudnorm": "-10.78,1.49,8.00,-20.88,-1.16",
+      "filename": "processed_054d56f25d3f8af1c561ca94458f4abf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

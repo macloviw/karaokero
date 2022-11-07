@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - Darlin'.mp3",
+      "loudnorm": "-13.48,0.70,4.50,-23.81,-0.95",
+      "duration": 149,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - Darlin'.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "42e3b2f9-4cbf-4750-84aa-ed7fc56f63c2",
+    "title": "Beach Boys - Darlin'",
+    "titles": {
+      "spa": "Beach Boys - Darlin'"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:54:10.359Z",
+    "modified_at": "2022-11-03T14:54:10.808Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_41a874f7d12cde44849da0040a463f10.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2394339,
+      "gain": -4.05,
+      "duration": 149,
+      "loudnorm": "-13.48,0.70,4.50,-23.81,-0.95",
+      "filename": "processed_71e9335ccdc17a81e6a4f3e7db3a5873.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROES DEL SILENCIO - - Opio.mp3",
+      "loudnorm": "-12.45,0.58,3.10,-22.50,-0.27",
+      "duration": 345,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROES DEL SILENCIO - - Opio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b3703d0b-f2fe-4d49-a502-52eae5c49796",
+    "title": "Opio",
+    "titles": {
+      "spa": "Opio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d5ee7ba4-687b-4267-ad47-8286e9db03a7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:08:09.937Z",
+    "modified_at": "2022-11-03T05:08:10.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a59c32e88741f524fd1112516397ebb2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5531367,
+      "gain": -4.36,
+      "duration": 345,
+      "loudnorm": "-12.45,0.58,3.10,-22.50,-0.27",
+      "filename": "processed_211b7d50d82b0ef50d4552faf0245c7e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

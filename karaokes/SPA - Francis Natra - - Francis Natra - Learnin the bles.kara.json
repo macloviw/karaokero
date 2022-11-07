@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Francis Natra - - Francis Natra - Learnin the bles.MP3",
+      "loudnorm": "-18.49,-0.25,5.70,-28.72,-0.35",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Francis Natra - - Francis Natra - Learnin the bles.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c4ac27c5-2526-4cf3-80b2-3ebbd456ecec",
+    "title": "Francis Natra - Learnin the bles",
+    "titles": {
+      "spa": "Francis Natra - Learnin the bles"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1545075a-6d71-4001-b4a1-f4fe538b5567"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:45:24.556Z",
+    "modified_at": "2022-11-04T00:45:24.994Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3153888,
+      "gain": 0.04,
+      "duration": 196,
+      "loudnorm": "-18.49,-0.25,5.70,-28.72,-0.35",
+      "filename": "processed_74f8612cce975e4e28871b8f864424be.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3153888,
+      "gain": 0.04,
+      "duration": 196,
+      "loudnorm": "-18.49,-0.25,5.70,-28.72,-0.35",
+      "filename": "processed_49cd212e650cf7a9e26548aac4f1f111.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

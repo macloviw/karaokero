@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos feat Susy - - ANTONY SANTOS Y SUSI - YO SIN TI BACHATA.mp3",
+      "loudnorm": "-10.99,1.40,3.30,-21.16,-0.38",
+      "duration": 318,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos feat Susy - - ANTONY SANTOS Y SUSI - YO SIN TI BACHATA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7b24ad2-4b22-4517-9e6b-8f01717241a5",
+    "title": "ANTONY SANTOS Y SUSI - YO SIN TI BACHATA",
+    "titles": {
+      "spa": "ANTONY SANTOS Y SUSI - YO SIN TI BACHATA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7b41a9a-bda2-4b7f-a377-733a82d89144"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:31:15.431Z",
+    "modified_at": "2022-11-04T02:31:15.820Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d2ef8eec18da2f59ae30c6cf27688034.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7645813,
+      "gain": -8.24,
+      "duration": 318,
+      "loudnorm": "-10.99,1.40,3.30,-21.16,-0.38",
+      "filename": "processed_96207b8e6c82dcd0455d9f387bf5dfd3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

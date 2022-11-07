@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - O TU O YO.CDG.MP3",
+      "loudnorm": "-19.48,-0.04,8.00,-29.79,-1.25",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - O TU O YO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "314d085b-e953-4d5e-a9d5-33a2461aeb76",
+    "title": "O TU O YO.CDG",
+    "titles": {
+      "spa": "O TU O YO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:11:11.198Z",
+    "modified_at": "2022-11-03T07:11:11.836Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9786611,
+      "gain": 2.93,
+      "duration": 244,
+      "loudnorm": "-19.48,-0.04,8.00,-29.79,-1.25",
+      "filename": "processed_43fdac14a23d5d74cf397a54ecd10895.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9786611,
+      "gain": 2.93,
+      "duration": 244,
+      "loudnorm": "-19.48,-0.04,8.00,-29.79,-1.25",
+      "filename": "processed_b67365c544fe09e8affa8430adb99e27.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

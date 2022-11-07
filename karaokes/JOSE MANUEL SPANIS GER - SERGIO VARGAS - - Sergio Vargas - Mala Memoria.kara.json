@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - Mala Memoria.mp3",
+      "loudnorm": "-11.38,3.92,4.90,-21.42,-0.95",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - Mala Memoria.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b09515a6-a839-4cbd-b7e7-6b9c04de5685",
+    "title": "Sergio Vargas - Mala Memoria",
+    "titles": {
+      "spa": "Sergio Vargas - Mala Memoria"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "073b4cf7-9ec2-4fea-ab61-59e4d53bb98a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:03:03.581Z",
+    "modified_at": "2022-11-04T11:03:03.966Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e1a2fee40e305fafdfed7b8fadcc23ab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4800640,
+      "gain": -6.92,
+      "duration": 300,
+      "loudnorm": "-11.38,3.92,4.90,-21.42,-0.95",
+      "filename": "processed_2132d0377cd047850ea6a56e0623e15f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4385-12 - - CDJ-KAR4385-12 - Cristian Castro - Es Mejor Asi.mp3",
+      "loudnorm": "-9.44,1.24,1.70,-19.63,-0.30",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4385-12 - - CDJ-KAR4385-12 - Cristian Castro - Es Mejor Asi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "de5c7a79-c716-446c-b186-3a6d548cf589",
+    "title": "CDJ-KAR4385-12 - Cristian Castro - Es Mejor Asi",
+    "titles": {
+      "spa": "CDJ-KAR4385-12 - Cristian Castro - Es Mejor Asi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cff5cfba-f28b-4927-88f6-0a7f1382cb8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:51:37.577Z",
+    "modified_at": "2022-11-03T21:51:37.997Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_da2ba63a58f9dfbc646de2e407b19af3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3856186,
+      "gain": -7.73,
+      "duration": 240,
+      "loudnorm": "-9.44,1.24,1.70,-19.63,-0.30",
+      "filename": "processed_ac047add6e121ec9ca38430c981be620.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

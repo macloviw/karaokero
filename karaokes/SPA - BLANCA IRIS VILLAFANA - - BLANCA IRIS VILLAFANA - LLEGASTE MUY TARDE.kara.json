@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BLANCA IRIS VILLAFANA - - BLANCA IRIS VILLAFANA - LLEGASTE MUY TARDE.mp3",
+      "loudnorm": "-12.69,2.23,3.20,-22.79,-0.56",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BLANCA IRIS VILLAFANA - - BLANCA IRIS VILLAFANA - LLEGASTE MUY TARDE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90d70e6a-f469-4acc-a80b-cbc51a2eeea2",
+    "title": "BLANCA IRIS VILLAFAÑA - LLEGASTE MUY TARDE",
+    "titles": {
+      "spa": "BLANCA IRIS VILLAFAÑA - LLEGASTE MUY TARDE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bdd377c1-e7ee-4624-a033-b6d8d9792296"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:18:49.803Z",
+    "modified_at": "2022-11-03T02:18:50.216Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_20c3672f834ccbee06e9cb94a281cc1c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2897808,
+      "gain": -5.23,
+      "duration": 180,
+      "loudnorm": "-12.69,2.23,3.20,-22.79,-0.56",
+      "filename": "processed_fe5741bfe9ff9dee1b69df42b96054b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

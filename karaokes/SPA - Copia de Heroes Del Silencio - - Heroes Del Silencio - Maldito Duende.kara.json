@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Heroes Del Silencio - - Heroes Del Silencio - Maldito Duende.mp3",
+      "loudnorm": "-13.23,0.45,4.00,-23.36,-0.74",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Heroes Del Silencio - - Heroes Del Silencio - Maldito Duende.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a3b98de5-76d0-468c-84c2-7e2da8630d72",
+    "title": "Héroes Del Silencio - Maldito Duende",
+    "titles": {
+      "spa": "Héroes Del Silencio - Maldito Duende"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aef9c8b5-0eeb-4889-aa6b-23296dec83a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:50:21.920Z",
+    "modified_at": "2022-11-03T05:50:22.339Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f6684f2ae1146a20a56c329071f947ab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4138310,
+      "gain": -3.16,
+      "duration": 258,
+      "loudnorm": "-13.23,0.45,4.00,-23.36,-0.74",
+      "filename": "processed_df124c64ccce2993834fef2e36f29015.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

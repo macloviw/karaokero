@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTI-un segundo de paz.mp3",
+      "loudnorm": "-13.99,-1.17,3.10,-24.21,-0.44",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTI-un segundo de paz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d54363af-3da4-4e32-a57f-76b9b3e8837d",
+    "title": "EROS RAMAZZOTI-un segundo de paz",
+    "titles": {
+      "spa": "EROS RAMAZZOTI-un segundo de paz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:11:17.994Z",
+    "modified_at": "2022-11-03T05:11:18.403Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_903decad1aedd492870175d766c5f6bc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6680336,
+      "gain": -2.8,
+      "duration": 278,
+      "loudnorm": "-13.99,-1.17,3.10,-24.21,-0.44",
+      "filename": "processed_7d587677df81ecd19567c76cee5fa12f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

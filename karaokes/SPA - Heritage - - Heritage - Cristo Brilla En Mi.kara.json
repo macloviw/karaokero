@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Heritage - - Heritage - Cristo Brilla En Mi.mp3",
+      "loudnorm": "-7.52,1.39,6.50,-17.67,-0.77",
+      "duration": 335,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Heritage - - Heritage - Cristo Brilla En Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3784451-e7b7-4337-84ad-eaed8638f7e8",
+    "title": "Heritage - Cristo Brilla En Mi",
+    "titles": {
+      "spa": "Heritage - Cristo Brilla En Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "52db07f3-1582-4935-bdf6-f40298232f86"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:12:01.303Z",
+    "modified_at": "2022-11-03T14:12:01.770Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2a31bd5ae26da8320c786c329bf8517d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5377977,
+      "gain": -9.26,
+      "duration": 335,
+      "loudnorm": "-7.52,1.39,6.50,-17.67,-0.77",
+      "filename": "processed_e48ad04b8ead74a2fe77197642822a88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - EL RATON.mp3",
+      "loudnorm": "-17.34,0.04,5.50,-27.39,-1.00",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - EL RATON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "936eef9f-4589-41df-babc-ed853045f541",
+    "title": "CHEO FELICIANO   -  EL RATON",
+    "titles": {
+      "spa": "CHEO FELICIANO   -  EL RATON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d01c2c87-0edc-4494-b664-c796d8d06e3d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:25:24.636Z",
+    "modified_at": "2022-11-03T03:25:25.118Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_80a491e6188fef5ffe2dbed55948abb2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6482224,
+      "gain": -1.68,
+      "duration": 269,
+      "loudnorm": "-17.34,0.04,5.50,-27.39,-1.00",
+      "filename": "processed_7843624ec14ad0d185d993c588cf2866.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

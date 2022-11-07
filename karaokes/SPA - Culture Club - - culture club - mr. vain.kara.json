@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Culture Club - - culture club - mr. vain.mp3",
+      "loudnorm": "-8.98,9.18,5.10,-19.06,-0.69",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Culture Club - - culture club - mr. vain.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "44a726aa-810d-4bdd-ad91-f7ecddb3f431",
+    "title": "culture club - mr. vain",
+    "titles": {
+      "spa": "culture club - mr. vain"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7de7c01e-6cef-45c2-aa53-53ac13dc7150"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:45:02.122Z",
+    "modified_at": "2022-11-03T15:45:02.721Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a39da0bf856ff657dd761d7ee60ad8ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3412469,
+      "gain": -8.29,
+      "duration": 213,
+      "loudnorm": "-8.98,9.18,5.10,-19.06,-0.69",
+      "filename": "processed_cf1e5888441a808321ad0bc6f161f66c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

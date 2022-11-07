@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Super Don Miguelo Feat Antony Santos - - Don Miguelo - la hoja se volteo MAK.mp3",
+      "loudnorm": "-13.14,1.65,6.80,-23.33,-1.07",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Super Don Miguelo Feat Antony Santos - - Don Miguelo - la hoja se volteo MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd38a063-6387-49a1-9be6-e8fd1c59dd9d",
+    "title": "Don Miguelo - la hoja se volteo MAK",
+    "titles": {
+      "spa": "Don Miguelo - la hoja se volteo MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "578d8c92-7927-4009-bdc9-e199c53f3c18"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:37:30.912Z",
+    "modified_at": "2022-11-04T11:37:31.309Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_23eb8327278dcbeb5c05afe9098082c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3350875,
+      "gain": -4.75,
+      "duration": 209,
+      "loudnorm": "-13.14,1.65,6.80,-23.33,-1.07",
+      "filename": "processed_bbc623b912be5fbefd4e7ea3377ea154.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

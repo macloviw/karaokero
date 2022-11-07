@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ednita Nasario - - SI NO ME AMAS.mp3",
+      "loudnorm": "-13.90,1.10,12.00,-24.32,-1.43",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ednita Nasario - - SI NO ME AMAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "07f25574-9f0d-47e8-9804-21fc706a57b8",
+    "title": "SI NO ME AMAS",
+    "titles": {
+      "spa": "SI NO ME AMAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "00a99fbc-5413-4920-b699-7030435aaf75"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:19:22.982Z",
+    "modified_at": "2022-11-03T04:19:23.414Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_26a6a3d84faa1d7a1adcbb8f372aa999.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4011244,
+      "gain": -4.65,
+      "duration": 254,
+      "loudnorm": "-13.90,1.10,12.00,-24.32,-1.43",
+      "filename": "processed_1b93b0a4122bf675065848ad9a55eace.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

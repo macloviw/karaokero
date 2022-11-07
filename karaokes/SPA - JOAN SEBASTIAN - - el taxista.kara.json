@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOAN SEBASTIAN - - el taxista.mp3",
+      "loudnorm": "-15.94,0.31,2.90,-26.06,0.00",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOAN SEBASTIAN - - el taxista.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3dfc125f-4dfc-4fce-9d55-96f56f618a71",
+    "title": "el taxista",
+    "titles": {
+      "spa": "el taxista"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a0fdbf62-b24f-4e2f-b7e4-2517d8c3e966"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:23:30.229Z",
+    "modified_at": "2022-11-03T06:23:30.650Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8ec88ad438a2511675f466eb66acb71.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4984467,
+      "gain": -0.1,
+      "duration": 207,
+      "loudnorm": "-15.94,0.31,2.90,-26.06,0.00",
+      "filename": "processed_b85f1852b0ebd2845bf4365d1d421d09.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

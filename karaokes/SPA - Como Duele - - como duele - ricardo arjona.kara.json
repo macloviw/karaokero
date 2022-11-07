@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Como Duele - - como duele - ricardo arjona.mp3",
+      "loudnorm": "-12.26,0.55,8.10,-22.40,-1.53",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Como Duele - - como duele - ricardo arjona.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d3a48ba5-e797-4327-8997-ff73d875a894",
+    "title": "como duele - ricardo arjona",
+    "titles": {
+      "spa": "como duele - ricardo arjona"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bfe4f7fb-1e1f-435d-9995-db0d77639e22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:35:29.811Z",
+    "modified_at": "2022-11-03T03:35:30.275Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_80c1b46f81f857d0474653842c5532f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4916758,
+      "gain": -5.39,
+      "duration": 204,
+      "loudnorm": "-12.26,0.55,8.10,-22.40,-1.53",
+      "filename": "processed_b519a8272694d43f7ad7ac1d96b00a39.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

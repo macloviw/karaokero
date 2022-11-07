@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISMAEL MIRANDA - - Ismael Miranda - Caretas.mp3",
+      "loudnorm": "-9.29,0.20,5.30,-19.33,-1.29",
+      "duration": 347,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISMAEL MIRANDA - - Ismael Miranda - Caretas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2a62ce26-35db-4fa4-b764-9d9a76a88862",
+    "title": "Ismael Miranda - Caretas",
+    "titles": {
+      "spa": "Ismael Miranda - Caretas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d550ef25-05e0-42c1-9c6d-74c4d145626a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:35:42.257Z",
+    "modified_at": "2022-11-04T03:35:42.658Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b966ae3fa89add0d6bdfb11323f63ddb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5560625,
+      "gain": -9.22,
+      "duration": 347,
+      "loudnorm": "-9.29,0.20,5.30,-19.33,-1.29",
+      "filename": "processed_9b967481b03d70e69b29d50c3aad9683.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

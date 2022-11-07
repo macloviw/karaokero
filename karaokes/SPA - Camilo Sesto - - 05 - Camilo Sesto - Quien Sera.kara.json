@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - 05 - Camilo Sesto - Quien Sera.mp3",
+      "loudnorm": "-11.68,0.24,4.40,-21.88,-0.37",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - 05 - Camilo Sesto - Quien Sera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d18d70e2-6648-481b-a5b9-c2e738c46d14",
+    "title": "05 - Camilo Sesto - Quién Será",
+    "titles": {
+      "spa": "05 - Camilo Sesto - Quién Será"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:45:21.749Z",
+    "modified_at": "2022-11-03T02:45:22.158Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_014cc6953bc87fe8cbec3b9c6a556ef3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4455700,
+      "gain": -5.01,
+      "duration": 185,
+      "loudnorm": "-11.68,0.24,4.40,-21.88,-0.37",
+      "filename": "processed_41d31294dd9f1319cfc70befb9646a68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

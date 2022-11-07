@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - glory days.mp3",
+      "loudnorm": "-13.67,-2.36,7.20,-23.92,-0.84",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - glory days.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3557797a-20ac-4841-a0bd-9a7ea9160a34",
+    "title": "Bruce Springsteen - glory days",
+    "titles": {
+      "spa": "Bruce Springsteen - glory days"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:28:27.732Z",
+    "modified_at": "2022-11-03T15:28:28.173Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_577b0adc9896d12b74c4fd1d6c47ae11.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3778865,
+      "gain": -4.85,
+      "duration": 236,
+      "loudnorm": "-13.67,-2.36,7.20,-23.92,-0.84",
+      "filename": "processed_1c515d07f4231fb2669f0f61c3a859a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

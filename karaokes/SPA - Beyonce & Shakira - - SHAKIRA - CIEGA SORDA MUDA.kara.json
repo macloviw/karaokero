@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - CIEGA SORDA MUDA.MP3",
+      "loudnorm": "-7.72,2.19,3.10,-17.88,-0.78",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - CIEGA SORDA MUDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "67dccccf-0972-4694-8e9f-03c5481043a4",
+    "title": "SHAKIRA   -   CIEGA SORDA MUDA",
+    "titles": {
+      "spa": "SHAKIRA   -   CIEGA SORDA MUDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:59:55.680Z",
+    "modified_at": "2022-11-03T12:59:56.275Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4406929,
+      "gain": -8.23,
+      "duration": 275,
+      "loudnorm": "-7.72,2.19,3.10,-17.88,-0.78",
+      "filename": "processed_578cce610b63c37c85bb43ac5203f73d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4406929,
+      "gain": -8.23,
+      "duration": 275,
+      "loudnorm": "-7.72,2.19,3.10,-17.88,-0.78",
+      "filename": "processed_cc2d9aaafcb4efb17f9a5e4cebac0986.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Donna Summer - - Donna Summer - On the radio.MP3",
+      "loudnorm": "-18.18,0.34,8.60,-28.59,-1.78",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Donna Summer - - Donna Summer - On the radio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a2a38d8a-865a-4661-9390-f6877fcb124d",
+    "title": "Donna Summer - On the radio",
+    "titles": {
+      "spa": "Donna Summer - On the radio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6e3ba4fa-c395-414e-85a4-3dc72bb8c1e1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:12:01.512Z",
+    "modified_at": "2022-11-03T16:12:02.308Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4438694,
+      "gain": 0.56,
+      "duration": 277,
+      "loudnorm": "-18.18,0.34,8.60,-28.59,-1.78",
+      "filename": "processed_ab6fe4629ca5a76a4321ea1a93afe9ce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4438694,
+      "gain": 0.56,
+      "duration": 277,
+      "loudnorm": "-18.18,0.34,8.60,-28.59,-1.78",
+      "filename": "processed_6f0b2aab744fef6dd4644cde52ceea03.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

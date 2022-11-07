@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Amaury Gutierrez - - Amaury Gutierrez - Perdoname Todo KK.mp3",
+      "loudnorm": "-8.93,2.40,6.20,-19.03,-1.49",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Amaury Gutierrez - - Amaury Gutierrez - Perdoname Todo KK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4df4b2c9-89fe-4fca-9287-41a527a0320d",
+    "title": "Amaury Gutiérrez - Perdoname Todo KK",
+    "titles": {
+      "spa": "Amaury Gutiérrez - Perdoname Todo KK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b56b8b2c-15f4-4eb5-aada-604dd91a1d76"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:34:23.271Z",
+    "modified_at": "2022-11-03T01:34:23.697Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9386331ec5ba7a27ae858e47890b2b70.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4826684,
+      "gain": -9.07,
+      "duration": 200,
+      "loudnorm": "-8.93,2.40,6.20,-19.03,-1.49",
+      "filename": "processed_6fa2174c96a06a5364dc6558035d4acf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

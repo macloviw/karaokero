@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Ay ven DJSC.mp3",
+      "loudnorm": "-8.84,7.85,3.40,-18.94,-0.27",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Ay ven DJSC.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f952c3a5-1db0-4ff9-9ee7-7c80b3bc54ed",
+    "title": "Anthony Santos - Ay ven DJSC",
+    "titles": {
+      "spa": "Anthony Santos - Ay ven DJSC"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:40:20.590Z",
+    "modified_at": "2022-11-02T20:40:20.978Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f798511d1c9387d3b6ee4d44b398076b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4716136,
+      "gain": -9.5,
+      "duration": 294,
+      "loudnorm": "-8.84,7.85,3.40,-18.94,-0.27",
+      "filename": "processed_92d95f40a7680ff7f1e13aa52c3a5229.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

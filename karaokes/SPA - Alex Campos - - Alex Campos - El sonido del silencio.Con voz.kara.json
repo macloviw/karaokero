@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alex Campos - - Alex Campos - El sonido del silencio.Con voz.mp3",
+      "loudnorm": "-13.41,0.93,6.70,-23.76,-1.18",
+      "duration": 336,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alex Campos - - Alex Campos - El sonido del silencio.Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "490d7181-bf2a-4fd2-9802-776ddc16c338",
+    "title": "Alex Campos - El sonido del silencio.Con voz",
+    "titles": {
+      "spa": "Alex Campos - El sonido del silencio.Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7a30161-674c-48e6-918f-8994db748b2c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:20:45.132Z",
+    "modified_at": "2022-11-04T02:20:45.529Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03b495c88c9f77fe38a71225e5320056.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8067752,
+      "gain": -3.85,
+      "duration": 336,
+      "loudnorm": "-13.41,0.93,6.70,-23.76,-1.18",
+      "filename": "processed_a0ea0848ad84a4f981aade8798df7c81.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

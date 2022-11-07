@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Fue Ese Tequila.mp3",
+      "loudnorm": "-15.81,0.01,3.20,-25.92,0.06",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Fue Ese Tequila.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8ad7c32c-cddf-455e-82c5-879b2a49bfdb",
+    "title": "Gloria Trevi - Fue Ese Tequila",
+    "titles": {
+      "spa": "Gloria Trevi - Fue Ese Tequila"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:41:42.414Z",
+    "modified_at": "2022-11-03T05:41:42.818Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f73433a7f40d779e728d55ee4182fa5b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7025989,
+      "gain": -2.08,
+      "duration": 175,
+      "loudnorm": "-15.81,0.01,3.20,-25.92,0.06",
+      "filename": "processed_1c13163834b85280e7c3f74ab25a04bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

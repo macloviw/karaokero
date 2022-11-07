@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Experiencia religiosa.mp3",
+      "loudnorm": "-8.99,0.99,8.60,-19.24,-1.48",
+      "duration": 338,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Experiencia religiosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6d2ce8f-93c4-4ca4-bd42-987fba4143aa",
+    "title": "Enrique Iglesias - Experiencia religiosa",
+    "titles": {
+      "spa": "Enrique Iglesias - Experiencia religiosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:03:37.733Z",
+    "modified_at": "2022-11-03T05:03:38.151Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6359c254c76e7e1f277d8c221ddee7f5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5418179,
+      "gain": -8.89,
+      "duration": 338,
+      "loudnorm": "-8.99,0.99,8.60,-19.24,-1.48",
+      "filename": "processed_67fe2f39d806f4a3b6867635abe0b4c2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Que Bueno Baila Ested.MP3",
+      "loudnorm": "-13.24,0.57,4.90,-23.34,-1.20",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Que Bueno Baila Ested.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8680d068-1c19-407d-8670-38a671307078",
+    "title": "Oscar D'Leon - Que Bueno Baila Ested",
+    "titles": {
+      "spa": "Oscar D'Leon - Que Bueno Baila Ested"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:03:59.215Z",
+    "modified_at": "2022-11-04T08:03:59.763Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3788800,
+      "gain": -6.26,
+      "duration": 236,
+      "loudnorm": "-13.24,0.57,4.90,-23.34,-1.20",
+      "filename": "processed_9af6b6a1e0e852e4ac7bb9613fc96cdc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3788800,
+      "gain": -6.26,
+      "duration": 236,
+      "loudnorm": "-13.24,0.57,4.90,-23.34,-1.20",
+      "filename": "processed_5e491f8b9dd15d054d5bf55715f91322.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

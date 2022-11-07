@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - 07 - NO SE TU - MANZANERO.mp3",
+      "loudnorm": "-14.16,0.31,4.60,-24.24,-0.15",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - 07 - NO SE TU - MANZANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "527bdd50-6eb3-4da5-a83e-12c5d1a8d3c4",
+    "title": "07 - NO SE TU - MANZANERO",
+    "titles": {
+      "spa": "07 - NO SE TU - MANZANERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:58:09.435Z",
+    "modified_at": "2022-11-03T01:58:09.932Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9712a6d04be0a0fed350930edb6c171b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5133678,
+      "gain": -3.62,
+      "duration": 213,
+      "loudnorm": "-14.16,0.31,4.60,-24.24,-0.15",
+      "filename": "processed_04715e2aec4921dcb44aa86c00eb01ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Human Touch.mp3",
+      "loudnorm": "-11.50,1.92,2.50,-21.58,-0.76",
+      "duration": 330,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Human Touch.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "75dcef26-d0bd-4c62-8c8e-e67682275bb2",
+    "title": "Bruce Springsteen - Human Touch",
+    "titles": {
+      "spa": "Bruce Springsteen - Human Touch"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:28:42.000Z",
+    "modified_at": "2022-11-03T15:28:42.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a3e02adbccbb6d210599e6810a3d0e4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5283518,
+      "gain": -4.55,
+      "duration": 330,
+      "loudnorm": "-11.50,1.92,2.50,-21.58,-0.76",
+      "filename": "processed_86d754b05705b718bd9f8bf1c46f4a77.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

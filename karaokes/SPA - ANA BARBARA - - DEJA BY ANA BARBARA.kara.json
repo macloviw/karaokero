@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA BARBARA - - DEJA BY ANA BARBARA.MP3",
+      "loudnorm": "-11.71,-0.09,6.70,-21.77,-1.52",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA BARBARA - - DEJA BY ANA BARBARA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62c333a0-212a-4ee3-8d14-6cdc43571730",
+    "title": "DEJA BY ANA BARBARA",
+    "titles": {
+      "spa": "DEJA BY ANA BARBARA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3fa72ba-27c9-42eb-8aad-c0bfb0a48d9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:37:17.561Z",
+    "modified_at": "2022-11-03T01:37:18.032Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3693473,
+      "gain": -5.64,
+      "duration": 230,
+      "loudnorm": "-11.71,-0.09,6.70,-21.77,-1.52",
+      "filename": "processed_325e052aaab550dfd2199bbcf268ed22.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3693473,
+      "gain": -5.64,
+      "duration": 230,
+      "loudnorm": "-11.71,-0.09,6.70,-21.77,-1.52",
+      "filename": "processed_c49bc733b5b8a8f6c316c0f39e2ca135.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

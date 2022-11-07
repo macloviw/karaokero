@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Vete Y Alejate De Mi.mp3",
+      "loudnorm": "-10.32,3.42,3.40,-20.35,0.54",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Vete Y Alejate De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4897fdd3-8605-41e3-8334-71fbcb5c5a66",
+    "title": "Anthony Santos - Vete Y Alejate De Mi",
+    "titles": {
+      "spa": "Anthony Santos - Vete Y Alejate De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:37:16.731Z",
+    "modified_at": "2022-11-02T22:37:17.294Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_815ee1da0acfa2fd8f89161938d145b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4576696,
+      "gain": -8.37,
+      "duration": 285,
+      "loudnorm": "-10.32,3.42,3.40,-20.35,0.54",
+      "filename": "processed_c8114069a02a02e5955e8aaa6bbee007.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

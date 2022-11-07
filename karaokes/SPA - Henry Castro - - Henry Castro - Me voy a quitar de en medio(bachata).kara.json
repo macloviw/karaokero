@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Henry Castro - - Henry Castro - Me voy a quitar de en medio(bachata).mp3",
+      "loudnorm": "-8.85,5.00,3.70,-18.94,0.24",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Henry Castro - - Henry Castro - Me voy a quitar de en medio(bachata).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cea426ae-6b40-4d06-aed7-85cb8fedb06a",
+    "title": "Henry Castro - Me voy a quitar de en medio(bachata)",
+    "titles": {
+      "spa": "Henry Castro - Me voy a quitar de en medio(bachata)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "28e2f309-8ae9-462b-b57f-0e3a7059b7aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:51:13.977Z",
+    "modified_at": "2022-11-02T23:51:14.398Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05eb2aa2b3d3b400fbb78c7d0d315b6d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3234126,
+      "gain": -9.62,
+      "duration": 202,
+      "loudnorm": "-8.85,5.00,3.70,-18.94,0.24",
+      "filename": "processed_7be3be82473b5061df7f001ee0e6f434.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - BALILAMOS.MP3",
+      "loudnorm": "-11.92,0.90,4.40,-22.00,-0.33",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - BALILAMOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e9369bb-8b36-4bd3-ae02-94dd17c7327a",
+    "title": "ENRIQUE IGLESIAS   -   BALILAMOS",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   BALILAMOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:13:09.701Z",
+    "modified_at": "2022-11-03T22:13:10.266Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8510790,
+      "gain": -6.27,
+      "duration": 212,
+      "loudnorm": "-11.92,0.90,4.40,-22.00,-0.33",
+      "filename": "processed_21381d817b65984a680454f90052db1c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8510790,
+      "gain": -6.27,
+      "duration": 212,
+      "loudnorm": "-11.92,0.90,4.40,-22.00,-0.33",
+      "filename": "processed_512e8ba8d710b44533786b9bf190e7d4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

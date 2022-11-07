@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Yo te vi en un tren.MP3",
+      "loudnorm": "-9.97,0.92,2.90,-20.08,-0.19",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Yo te vi en un tren.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65f40bef-a21d-49e9-9e9c-9edfaa4d9b96",
+    "title": "Enanitos Verdes - Yo te vi en un tren",
+    "titles": {
+      "spa": "Enanitos Verdes - Yo te vi en un tren"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:49:51.913Z",
+    "modified_at": "2022-11-03T04:49:52.524Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9819192,
+      "gain": -8.19,
+      "duration": 245,
+      "loudnorm": "-9.97,0.92,2.90,-20.08,-0.19",
+      "filename": "processed_09544b53ab1dc99ccc4bbd9d2e68554c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9819192,
+      "gain": -8.19,
+      "duration": 245,
+      "loudnorm": "-9.97,0.92,2.90,-20.08,-0.19",
+      "filename": "processed_4948e6ec8cac423ebe7c6f0332e32db4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

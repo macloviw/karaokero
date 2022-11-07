@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chiquito Team Band - - Chiquito Team Band - Punto Y Aparte Intro.mp3",
+      "loudnorm": "-12.30,1.83,14.60,-22.92,-2.03",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chiquito Team Band - - Chiquito Team Band - Punto Y Aparte Intro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "91ae8236-9261-4840-a841-a8fab35948bd",
+    "title": "Chiquito Team Band - Punto Y Aparte Intro",
+    "titles": {
+      "spa": "Chiquito Team Band - Punto Y Aparte Intro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9a14cca7-3cfb-4d17-a77a-76979aac6e6e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:48:32.421Z",
+    "modified_at": "2022-11-04T02:48:32.812Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_649dad3491f9b1ff62fcc08884b4bfe1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4424612,
+      "gain": -6.98,
+      "duration": 276,
+      "loudnorm": "-12.30,1.83,14.60,-22.92,-2.03",
+      "filename": "processed_c67a6589fdd83a7556f5f7bf167aade8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

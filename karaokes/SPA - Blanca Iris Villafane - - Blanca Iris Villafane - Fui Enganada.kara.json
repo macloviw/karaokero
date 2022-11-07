@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blanca Iris Villafane - - Blanca Iris Villafane - Fui Enganada.mp3",
+      "loudnorm": "-12.69,3.13,3.00,-22.85,-0.56",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blanca Iris Villafane - - Blanca Iris Villafane - Fui Enganada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "55d79030-0707-4545-8419-d8277a5adf6c",
+    "title": "Blanca Iris Villafañe - Fuí Engañada",
+    "titles": {
+      "spa": "Blanca Iris Villafañe - Fuí Engañada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2fd2e23d-09d2-4808-9a45-14f65884667e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:19:35.197Z",
+    "modified_at": "2022-11-03T02:19:35.646Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d92b10b1fdbcf0d3f0b1c49691c12ceb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2814216,
+      "gain": -4.87,
+      "duration": 175,
+      "loudnorm": "-12.69,3.13,3.00,-22.85,-0.56",
+      "filename": "processed_294876d45ed440da45fd4a59e958e637.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

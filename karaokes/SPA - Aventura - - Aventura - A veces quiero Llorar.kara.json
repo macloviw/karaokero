@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - A veces quiero Llorar.mp3",
+      "loudnorm": "-14.58,-2.62,1.50,-24.60,-0.46",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - A veces quiero Llorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b5f46cba-dc25-4685-9150-873d73abdfb2",
+    "title": "Aventura - A veces quiero Llorar",
+    "titles": {
+      "spa": "Aventura - A veces quiero Llorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:09:42.326Z",
+    "modified_at": "2022-11-02T23:09:42.766Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1e4b5b741c471f41d1a29ca5b3376c52.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3925098,
+      "gain": -1.06,
+      "duration": 245,
+      "loudnorm": "-14.58,-2.62,1.50,-24.60,-0.46",
+      "filename": "processed_d868ea04b0961152e242a4602d5f0ebd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

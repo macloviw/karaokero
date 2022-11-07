@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DIANGO - - DYANGO - A DONDE VAS AMOR.mp3",
+      "loudnorm": "-13.26,0.60,9.40,-23.45,-0.17",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DIANGO - - DYANGO - A DONDE VAS AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "044071ef-8a7d-4328-966a-305f5ba276a0",
+    "title": "DYANGO - A DONDE VAS AMOR",
+    "titles": {
+      "spa": "DYANGO - A DONDE VAS AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1fb819a0-27aa-445b-a47f-ac4a1bb22285"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:02:17.657Z",
+    "modified_at": "2022-11-03T22:02:18.052Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a3ec6429f5fd1c0589812ea6d6093077.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5617048,
+      "gain": -5.88,
+      "duration": 233,
+      "loudnorm": "-13.26,0.60,9.40,-23.45,-0.17",
+      "filename": "processed_bae4276904686491b46cb263a72ded7d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

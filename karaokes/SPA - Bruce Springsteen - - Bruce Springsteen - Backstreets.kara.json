@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Backstreets.mp3",
+      "loudnorm": "-11.97,0.78,3.40,-22.02,-0.65",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Backstreets.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f86abab-0a96-4f62-a38e-2ecb4b60ea76",
+    "title": "Bruce Springsteen - Backstreets",
+    "titles": {
+      "spa": "Bruce Springsteen - Backstreets"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:10:18.919Z",
+    "modified_at": "2022-11-04T00:10:19.309Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_237e3a986fb7da241561c30119d79716.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5059492,
+      "gain": -4.4,
+      "duration": 316,
+      "loudnorm": "-11.97,0.78,3.40,-22.02,-0.65",
+      "filename": "processed_ea1cfecfa7e210eb4a5649b449b8e44c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

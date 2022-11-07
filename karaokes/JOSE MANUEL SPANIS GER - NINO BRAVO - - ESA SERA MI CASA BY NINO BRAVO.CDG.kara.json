@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - ESA SERA MI CASA BY NINO BRAVO.CDG.MP3",
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - ESA SERA MI CASA BY NINO BRAVO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c4a5a156-0893-46b6-832a-7af476f0e988",
+    "title": "ESA SERA MI CASA BY NINO BRAVO.CDG",
+    "titles": {
+      "spa": "ESA SERA MI CASA BY NINO BRAVO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:42:15.696Z",
+    "modified_at": "2022-11-04T07:42:16.130Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3233300,
+      "gain": 4.59,
+      "duration": 201,
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "filename": "processed_bb7630952901c1c5587185aa35d31c01.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3233300,
+      "gain": 4.59,
+      "duration": 201,
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "filename": "processed_ac515a17d830a553b2b0ecef2371edc0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

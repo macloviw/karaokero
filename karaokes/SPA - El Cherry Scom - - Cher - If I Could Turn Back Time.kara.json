@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Cherry Scom - - Cher - If I Could Turn Back Time.mp3",
+      "loudnorm": "-14.83,-1.63,8.50,-24.96,-1.52",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Cherry Scom - - Cher - If I Could Turn Back Time.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "32c00f06-e946-4190-a9c1-c04bd579031f",
+    "title": "Cher - If I Could Turn Back Time",
+    "titles": {
+      "spa": "Cher - If I Could Turn Back Time"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "efe828ee-8be1-4b52-beb3-a488b4bac4ab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:38:40.973Z",
+    "modified_at": "2022-11-03T15:38:41.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84c3835f1e452d677d5f2008cc4d0cbe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4257010,
+      "gain": -2.47,
+      "duration": 265,
+      "loudnorm": "-14.83,-1.63,8.50,-24.96,-1.52",
+      "filename": "processed_b320fc55de1b9c1319484aa40f537a3e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - Danny Rivera - Odiame (Version de Charlie Zaa).mp3",
+      "loudnorm": "-18.63,-4.19,5.00,-28.81,0.13",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - Danny Rivera - Odiame (Version de Charlie Zaa).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "33215117-91fe-44a5-b5aa-db67030788cd",
+    "title": "Danny Rivera - Odiame (Version de Charlie Zaa)",
+    "titles": {
+      "spa": "Danny Rivera - Odiame (Version de Charlie Zaa)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:59:35.491Z",
+    "modified_at": "2022-11-03T03:59:35.940Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c08a561105bc39331f3a2ed1fc4a99d3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3905536,
+      "gain": 1.75,
+      "duration": 162,
+      "loudnorm": "-18.63,-4.19,5.00,-28.81,0.13",
+      "filename": "processed_9931597ce349af9d5339e7d5936b87c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

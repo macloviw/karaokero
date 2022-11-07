@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christian Castro - - Christian Castro - Lloran Las Rosas.mp3",
+      "loudnorm": "-10.09,2.61,13.60,-20.88,-2.03",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christian Castro - - Christian Castro - Lloran Las Rosas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7de9c7bd-00c5-49dd-b70a-d932e1ac003b",
+    "title": "Christian Castro - Lloran Las Rosas",
+    "titles": {
+      "spa": "Christian Castro - Lloran Las Rosas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27dd2042-d853-49be-87b4-70122a2b96b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:27:26.346Z",
+    "modified_at": "2022-11-03T03:27:26.792Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8722d56418109368b0683429815fb07c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4204423,
+      "gain": -8.39,
+      "duration": 262,
+      "loudnorm": "-10.09,2.61,13.60,-20.88,-2.03",
+      "filename": "processed_e11ad2bf7b606a929bcde6608a334029.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Benjamin & Jose Mirabal - - jose jose - tus ojos.mp3",
+      "loudnorm": "-11.89,1.21,3.10,-22.03,-0.29",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Benjamin & Jose Mirabal - - jose jose - tus ojos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4482738a-b96b-48b3-8133-5b2aadabbed0",
+    "title": "jose jose - tus ojos",
+    "titles": {
+      "spa": "jose jose - tus ojos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d57f9ff8-9a2c-4682-ba9c-00bc1e48626b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:57:16.581Z",
+    "modified_at": "2022-11-04T03:57:16.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c730ee32053c475f311f91ad6b421a63.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8407985,
+      "gain": -4.66,
+      "duration": 213,
+      "loudnorm": "-11.89,1.21,3.10,-22.03,-0.29",
+      "filename": "processed_17585edb7bddd372936a8e32040cba34.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

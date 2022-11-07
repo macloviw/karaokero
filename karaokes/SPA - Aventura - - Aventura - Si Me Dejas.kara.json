@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura - Si Me Dejas.mp3",
+      "loudnorm": "-10.33,0.92,4.20,-20.48,-0.46",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura - Si Me Dejas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1c87afc4-ed0d-4675-870e-ec9d0ba5ce61",
+    "title": "Aventura - Si Me Dejas",
+    "titles": {
+      "spa": "Aventura - Si Me Dejas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:15:52.452Z",
+    "modified_at": "2022-11-02T23:15:52.878Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f44df586bee10ee091e36a5e48febcd9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6939889,
+      "gain": -8.72,
+      "duration": 289,
+      "loudnorm": "-10.33,0.92,4.20,-20.48,-0.46",
+      "filename": "processed_0984056cb237834da44315985ea47ec3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

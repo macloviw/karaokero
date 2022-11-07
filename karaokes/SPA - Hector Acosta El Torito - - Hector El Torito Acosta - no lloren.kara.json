@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Hector Acosta El Torito - - Hector El Torito Acosta - no lloren.mp3",
+      "loudnorm": "-12.50,-1.24,3.90,-22.60,-0.38",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Hector Acosta El Torito - - Hector El Torito Acosta - no lloren.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fb209d09-daf0-4343-8149-c89003a0aa63",
+    "title": "Hector El Torito Acosta - no lloren",
+    "titles": {
+      "spa": "Hector El Torito Acosta - no lloren"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:50:22.587Z",
+    "modified_at": "2022-11-02T23:50:23.011Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56ba26826fb1752ba469b46fecab8a66.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5723849,
+      "gain": -4.44,
+      "duration": 238,
+      "loudnorm": "-12.50,-1.24,3.90,-22.60,-0.38",
+      "filename": "processed_9b416435c40c1b4f0367bd1a627a9825.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

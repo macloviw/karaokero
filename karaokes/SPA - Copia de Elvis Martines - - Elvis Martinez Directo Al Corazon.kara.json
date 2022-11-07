@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Elvis Martines - - Elvis Martinez Directo Al Corazon.mp3",
+      "loudnorm": "-14.49,1.20,4.10,-24.60,0.06",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Elvis Martines - - Elvis Martinez Directo Al Corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2ada592-1c83-45e0-a605-a95b81cdad6d",
+    "title": "Elvis Martinez  Directo Al Corazon",
+    "titles": {
+      "spa": "Elvis Martinez  Directo Al Corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "bd1ef7d5-d183-440a-8998-d6db7e8ec1a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:33:40.192Z",
+    "modified_at": "2022-11-02T23:33:40.634Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ee629c51cec6d3e901bf2dff7252ae7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3318609,
+      "gain": -3.76,
+      "duration": 207,
+      "loudnorm": "-14.49,1.20,4.10,-24.60,0.06",
+      "filename": "processed_714ba98964c263b362dbfeaa24a5480a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

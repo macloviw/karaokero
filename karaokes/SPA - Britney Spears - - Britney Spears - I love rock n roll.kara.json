@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Britney Spears - - Britney Spears - I love rock n roll.mp3",
+      "loudnorm": "-13.65,-1.17,2.90,-23.90,-0.87",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Britney Spears - - Britney Spears - I love rock n roll.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ebe6ff6-a42b-4351-9699-a2b80a514777",
+    "title": "Britney Spears - I love rock n roll",
+    "titles": {
+      "spa": "Britney Spears - I love rock n roll"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "1730868a-1882-4a56-b682-529f88d74565"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:51:30.095Z",
+    "modified_at": "2022-11-03T13:51:30.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e85627058ef3f853b2214062d0783d09.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3186200,
+      "gain": -4.4,
+      "duration": 199,
+      "loudnorm": "-13.65,-1.17,2.90,-23.90,-0.87",
+      "filename": "processed_0bc4232b4634530fcdd688c31b32a3b4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

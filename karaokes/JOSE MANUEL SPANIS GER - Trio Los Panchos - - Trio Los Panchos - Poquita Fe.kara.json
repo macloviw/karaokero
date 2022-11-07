@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Trio Los Panchos - - Trio Los Panchos - Poquita Fe.MP3",
+      "loudnorm": "-16.25,-3.27,2.40,-26.33,-0.54",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Trio Los Panchos - - Trio Los Panchos - Poquita Fe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2e7a69cb-217a-4e8a-9226-0fa513d62dbb",
+    "title": "Trio Los Panchos - Poquita Fe",
+    "titles": {
+      "spa": "Trio Los Panchos - Poquita Fe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7ba77c76-1d4d-42b5-8491-bc04f16fa0f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:44:23.222Z",
+    "modified_at": "2022-11-04T08:44:23.655Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2561405,
+      "gain": -0.6,
+      "duration": 182,
+      "loudnorm": "-16.25,-3.27,2.40,-26.33,-0.54",
+      "filename": "processed_1a4a997176db007beb0332018f175b29.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2561405,
+      "gain": -0.6,
+      "duration": 182,
+      "loudnorm": "-16.25,-3.27,2.40,-26.33,-0.54",
+      "filename": "processed_120cd366f5604d185fa67487d9759acf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA FT GABY MORENO - FUISTE TU (RIGO).mp3",
+      "loudnorm": "-13.07,-0.11,6.90,-23.19,-1.42",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA FT GABY MORENO - FUISTE TU (RIGO).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "951f3830-3748-4a3b-8291-7534dc263063",
+    "title": "RICARDO ARJONA FT GABY MORENO - FUISTE TU (RIGO)",
+    "titles": {
+      "spa": "RICARDO ARJONA FT GABY MORENO - FUISTE TU (RIGO)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:05:37.820Z",
+    "modified_at": "2022-11-03T12:05:38.278Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34a5c7160e53adff72f3d4bc1cf30cf8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10918183,
+      "gain": -4.88,
+      "duration": 272,
+      "loudnorm": "-13.07,-0.11,6.90,-23.19,-1.42",
+      "filename": "processed_338d2278de2330b6eb64288ace8d253a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

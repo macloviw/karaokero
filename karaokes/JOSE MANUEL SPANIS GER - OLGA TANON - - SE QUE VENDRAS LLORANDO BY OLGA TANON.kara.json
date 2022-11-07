@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - SE QUE VENDRAS LLORANDO BY OLGA TANON.MP3",
+      "loudnorm": "-13.04,1.10,2.50,-23.05,-0.27",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - SE QUE VENDRAS LLORANDO BY OLGA TANON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae5340eb-2581-42ee-b4c7-990591e2dc5f",
+    "title": "SE QUE VENDRAS LLORANDO BY OLGA TAÑON",
+    "titles": {
+      "spa": "SE QUE VENDRAS LLORANDO BY OLGA TAÑON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8abbde97-cb0b-4c2a-9574-14022714476e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:56:42.148Z",
+    "modified_at": "2022-11-04T07:56:42.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4737535,
+      "gain": -5.62,
+      "duration": 295,
+      "loudnorm": "-13.04,1.10,2.50,-23.05,-0.27",
+      "filename": "processed_18baea031eb51bd8c0f70d2282f3c674.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4737535,
+      "gain": -5.62,
+      "duration": 295,
+      "loudnorm": "-13.04,1.10,2.50,-23.05,-0.27",
+      "filename": "processed_13cab50a483bfdf5829e51171daef15b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

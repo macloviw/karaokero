@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Devora Cox - - Devora Cox - No Body's Suppose To Be Here.MP3",
+      "loudnorm": "-10.09,0.98,5.30,-20.33,-0.43",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Devora Cox - - Devora Cox - No Body's Suppose To Be Here.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65ec78f5-ec3e-4734-935b-8e6dcb3bb869",
+    "title": "Devora Cox - No Body's Suppose To Be Here",
+    "titles": {
+      "spa": "Devora Cox - No Body's Suppose To Be Here"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01730e6c-d7a2-43cb-9034-2f06e1b7a307"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:20:25.863Z",
+    "modified_at": "2022-11-04T00:20:26.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9481501,
+      "gain": -7.79,
+      "duration": 236,
+      "loudnorm": "-10.09,0.98,5.30,-20.33,-0.43",
+      "filename": "processed_e7e023f6ace770786c9756637b15ca21.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9481501,
+      "gain": -7.79,
+      "duration": 236,
+      "loudnorm": "-10.09,0.98,5.30,-20.33,-0.43",
+      "filename": "processed_aff004bff0591b1e82600344449a21df.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

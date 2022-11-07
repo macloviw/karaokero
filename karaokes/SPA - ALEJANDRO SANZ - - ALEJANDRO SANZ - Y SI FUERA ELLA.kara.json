@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - Y SI FUERA ELLA.mp3",
+      "loudnorm": "-8.41,6.68,8.60,-18.64,-1.37",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - Y SI FUERA ELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ece83fdd-28df-454d-b96b-e1eba256f0da",
+    "title": "ALEJANDRO SANZ   -   Y SI FUERA ELLA",
+    "titles": {
+      "spa": "ALEJANDRO SANZ   -   Y SI FUERA ELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:06:24.925Z",
+    "modified_at": "2022-11-03T01:06:25.377Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c6791da70f0fb7cbc09b57db040d3770.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7754062,
+      "gain": -9.64,
+      "duration": 323,
+      "loudnorm": "-8.41,6.68,8.60,-18.64,-1.37",
+      "filename": "processed_46acc51df384037084f6d8af89aff26b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

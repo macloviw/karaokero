@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JIMMY BAUER - - JIMMY BAUER - TE RECORDARE.mp3",
+      "loudnorm": "-13.63,1.02,4.50,-23.66,-0.70",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JIMMY BAUER - - JIMMY BAUER - TE RECORDARE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c392e9cf-3c17-457b-baa0-714caf22a49a",
+    "title": "JIMMY BAUER - TE RECORDARE",
+    "titles": {
+      "spa": "JIMMY BAUER - TE RECORDARE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "defae15e-425f-42a5-afc6-11df8c4ea322"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:51:35.247Z",
+    "modified_at": "2022-11-02T23:51:35.746Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e981818c654dbd9cdd119af2f6f1a6a2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6156843,
+      "gain": -4.66,
+      "duration": 256,
+      "loudnorm": "-13.63,1.02,4.50,-23.66,-0.70",
+      "filename": "processed_05390ced1b0b3bce1b126d4c4411ec19.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

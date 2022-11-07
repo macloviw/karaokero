@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - FRANCO DE VITA - SERA.MP3",
+      "loudnorm": "-10.30,2.75,8.70,-20.52,-1.44",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - FRANCO DE VITA - SERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ffdbd211-6c09-40b3-8975-2a0295ce31c1",
+    "title": "FRANCO DE VITA   -   SERA",
+    "titles": {
+      "spa": "FRANCO DE VITA   -   SERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:27:11.145Z",
+    "modified_at": "2022-11-03T05:27:11.653Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4010286,
+      "gain": -7.27,
+      "duration": 250,
+      "loudnorm": "-10.30,2.75,8.70,-20.52,-1.44",
+      "filename": "processed_a4407b95944f799fc7dfaf22c8598819.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4010286,
+      "gain": -7.27,
+      "duration": 250,
+      "loudnorm": "-10.30,2.75,8.70,-20.52,-1.44",
+      "filename": "processed_5c92ff0b7fcdf11e791b7663ddd7d9e5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Nada Mas Decidete.MP3",
+      "loudnorm": "-13.18,0.47,1.40,-23.29,-0.82",
+      "duration": 137,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Nada Mas Decidete.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d360c0b7-0413-4a47-a531-75547cbcbeb2",
+    "title": "Juan Gabriel - Nada Mas Decidete",
+    "titles": {
+      "spa": "Juan Gabriel - Nada Mas Decidete"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:48:38.614Z",
+    "modified_at": "2022-11-03T07:48:39.134Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4409147,
+      "gain": -4.62,
+      "duration": 137,
+      "loudnorm": "-13.18,0.47,1.40,-23.29,-0.82",
+      "filename": "processed_1842f16ca23c3ebe33f274e0848ac016.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4409147,
+      "gain": -4.62,
+      "duration": 137,
+      "loudnorm": "-13.18,0.47,1.40,-23.29,-0.82",
+      "filename": "processed_4a4e9797ff5cbb44e3f7c716e025a72c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

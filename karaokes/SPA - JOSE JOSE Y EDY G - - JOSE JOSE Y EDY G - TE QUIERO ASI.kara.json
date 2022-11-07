@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE JOSE Y EDY G - - JOSE JOSE Y EDY G - TE QUIERO ASI.mp3",
+      "loudnorm": "-18.10,0.96,8.80,-28.37,-1.45",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE JOSE Y EDY G - - JOSE JOSE Y EDY G - TE QUIERO ASI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "214e2523-c3a8-4fe0-a031-f8ca17bfc6b0",
+    "title": "JOSE JOSE Y EDY G - TE QUIERO ASI",
+    "titles": {
+      "spa": "JOSE JOSE Y EDY G - TE QUIERO ASI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1105ec76-8966-4bc1-8f6a-d941d55c077e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:37:33.533Z",
+    "modified_at": "2022-11-03T22:37:33.913Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e0ae60dc453680771268a9fbc418590a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2550301,
+      "gain": 0.14,
+      "duration": 182,
+      "loudnorm": "-18.10,0.96,8.80,-28.37,-1.45",
+      "filename": "processed_2eca451301659a62cd2a061e8e7d73d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

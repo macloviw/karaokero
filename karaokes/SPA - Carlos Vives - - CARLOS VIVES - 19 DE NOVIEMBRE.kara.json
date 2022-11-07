@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Vives - - CARLOS VIVES - 19 DE NOVIEMBRE.mp3",
+      "loudnorm": "-16.28,0.19,7.50,-26.48,-1.31",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Vives - - CARLOS VIVES - 19 DE NOVIEMBRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "578ab63c-3f4e-4fcc-9a20-adb637751cbd",
+    "title": "CARLOS VIVES - 19 DE NOVIEMBRE",
+    "titles": {
+      "spa": "CARLOS VIVES - 19 DE NOVIEMBRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2df0daff-f39b-4d55-a141-e4ddd47ab30f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:01:02.139Z",
+    "modified_at": "2022-11-03T03:01:02.569Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_863e6133ad793e11127a67157fcf4375.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4127628,
+      "gain": -1.79,
+      "duration": 294,
+      "loudnorm": "-16.28,0.19,7.50,-26.48,-1.31",
+      "filename": "processed_a79ed303776cbbf5bdc0abd985258b98.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

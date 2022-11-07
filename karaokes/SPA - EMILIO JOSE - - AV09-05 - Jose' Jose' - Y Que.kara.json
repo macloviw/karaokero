@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - AV09-05 - Jose' Jose' - Y Que.mp3",
+      "loudnorm": "-18.87,0.41,9.40,-29.18,-1.42",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - AV09-05 - Jose' Jose' - Y Que.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e363198e-65cf-405f-9a78-a5ffd02f67d1",
+    "title": "AV09-05 - Jose' Jose' - Y Que",
+    "titles": {
+      "spa": "AV09-05 - Jose' Jose' - Y Que"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:48:30.124Z",
+    "modified_at": "2022-11-03T06:48:30.533Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_86addea9d8ea92b778c62fdde87b323b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2834695,
+      "gain": 0.43,
+      "duration": 177,
+      "loudnorm": "-18.87,0.41,9.40,-29.18,-1.42",
+      "filename": "processed_3154727c2836e1f06eb7aaf59af8a9d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

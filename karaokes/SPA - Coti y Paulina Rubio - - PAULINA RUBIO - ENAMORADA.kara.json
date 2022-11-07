@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - ENAMORADA.MP3",
+      "loudnorm": "-15.67,1.00,15.40,-26.88,-0.43",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - ENAMORADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e336080-64f9-4e70-acf1-bde471ba57ea",
+    "title": "PAULINA RUBIO   -   ENAMORADA",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   ENAMORADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:17:05.003Z",
+    "modified_at": "2022-11-03T11:17:05.614Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8251656,
+      "gain": -2.71,
+      "duration": 206,
+      "loudnorm": "-15.67,1.00,15.40,-26.88,-0.43",
+      "filename": "processed_ff43722e9f5ab2817da8faf34a1353fe.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8251656,
+      "gain": -2.71,
+      "duration": 206,
+      "loudnorm": "-15.67,1.00,15.40,-26.88,-0.43",
+      "filename": "processed_4e4ab4a949eb2a68f709c4ff81572036.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Atlantic Starr - - Atlantic Starr - Always.MP3",
+      "loudnorm": "-17.66,0.30,4.00,-27.83,0.03",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Atlantic Starr - - Atlantic Starr - Always.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6a22add9-e800-47f5-ba8e-e0244c703422",
+    "title": "Atlantic Starr - Always",
+    "titles": {
+      "spa": "Atlantic Starr - Always"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "755be66a-f5f6-422b-b927-84e0bd024b2f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:56:25.376Z",
+    "modified_at": "2022-11-03T23:56:25.967Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3700160,
+      "gain": -0.73,
+      "duration": 231,
+      "loudnorm": "-17.66,0.30,4.00,-27.83,0.03",
+      "filename": "processed_b8864bf12a4488a538f97e8a87dbb49e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3700160,
+      "gain": -0.73,
+      "duration": 231,
+      "loudnorm": "-17.66,0.30,4.00,-27.83,0.03",
+      "filename": "processed_5e11084957637fd0900d5546a79baabc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

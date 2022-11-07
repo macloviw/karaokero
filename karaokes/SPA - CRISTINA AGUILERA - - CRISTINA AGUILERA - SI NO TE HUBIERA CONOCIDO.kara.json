@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - SI NO TE HUBIERA CONOCIDO.MP3",
+      "loudnorm": "-16.70,-0.32,3.60,-26.77,-0.81",
+      "duration": 304,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTINA AGUILERA - - CRISTINA AGUILERA - SI NO TE HUBIERA CONOCIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be009984-4c3c-4355-b4d3-04d393324b0c",
+    "title": "CRISTINA AGUILERA   -   SI NO TE HUBIERA CONOCIDO",
+    "titles": {
+      "spa": "CRISTINA AGUILERA   -   SI NO TE HUBIERA CONOCIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0c9a186e-f056-41ff-94df-f44112bd1f30"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:47:31.758Z",
+    "modified_at": "2022-11-03T03:47:32.313Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4878387,
+      "gain": -0.2,
+      "duration": 304,
+      "loudnorm": "-16.70,-0.32,3.60,-26.77,-0.81",
+      "filename": "processed_d5acd19ae4ec674222b2070ff123ac5f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4878387,
+      "gain": -0.2,
+      "duration": 304,
+      "loudnorm": "-16.70,-0.32,3.60,-26.77,-0.81",
+      "filename": "processed_b5d69b29392846dd4d9491498fe05adb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

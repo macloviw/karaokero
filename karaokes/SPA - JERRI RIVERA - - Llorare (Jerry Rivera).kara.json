@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JERRI RIVERA - - Llorare (Jerry Rivera).mp3",
+      "loudnorm": "-17.88,-0.42,6.90,-27.99,-1.25",
+      "duration": 311,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JERRI RIVERA - - Llorare (Jerry Rivera).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d8cafe6-3e78-4b35-9cfe-d5956cc7df12",
+    "title": "Llorare (Jerry Rivera)",
+    "titles": {
+      "spa": "Llorare (Jerry Rivera)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0b1cdaef-6fb7-42cf-8f7d-05ef490866a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:42:27.365Z",
+    "modified_at": "2022-11-04T03:42:27.765Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_25efcfb1bf86dba5c0cbcb5676537594.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4979951,
+      "gain": -0.58,
+      "duration": 311,
+      "loudnorm": "-17.88,-0.42,6.90,-27.99,-1.25",
+      "filename": "processed_286293802e0c823f24b436cca8e43466.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

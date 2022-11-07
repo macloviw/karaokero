@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Your Song.mp3",
+      "loudnorm": "-17.08,-2.56,4.00,-27.18,-1.11",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Your Song.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0f7a6496-27b2-4d61-a286-ed7c1d8669ea",
+    "title": "Elton John - Your Song",
+    "titles": {
+      "spa": "Elton John - Your Song"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:29:27.765Z",
+    "modified_at": "2022-11-04T00:29:28.159Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57865a20076602d2453930a4174d0332.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4928992,
+      "gain": -0.02,
+      "duration": 246,
+      "loudnorm": "-17.08,-2.56,4.00,-27.18,-1.11",
+      "filename": "processed_0bd0f72e7fc4b8e2004c829f6b4b205b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL CHABAL - - DONDE ESTAN ESOS AMIGOS EL CHAVAL.mp3",
+      "loudnorm": "-11.04,1.30,3.30,-21.12,-0.78",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL CHABAL - - DONDE ESTAN ESOS AMIGOS EL CHAVAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a21f76ed-de8e-4ab3-a7dd-a001c96e4670",
+    "title": "DONDE ESTAN ESOS AMIGOS EL CHAVAL",
+    "titles": {
+      "spa": "DONDE ESTAN ESOS AMIGOS EL CHAVAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "a9f7658c-6721-4bcc-b2cc-642c3f5d0dd0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:23:51.382Z",
+    "modified_at": "2022-11-02T23:23:51.839Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f02abba71366cf08c4e94df45c8b8a67.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7019510,
+      "gain": -7.6,
+      "duration": 292,
+      "loudnorm": "-11.04,1.30,3.30,-21.12,-0.78",
+      "filename": "processed_f4825fc60276e62f61ce2742e6de4ce5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

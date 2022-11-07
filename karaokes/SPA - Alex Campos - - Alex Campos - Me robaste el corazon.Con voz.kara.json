@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alex Campos - - Alex Campos - Me robaste el corazon.Con voz.mp3",
+      "loudnorm": "-15.37,0.28,9.80,-25.84,-1.07",
+      "duration": 739,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alex Campos - - Alex Campos - Me robaste el corazon.Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec7ce857-1082-4c46-b674-be7e48bab440",
+    "title": "Alex Campos - Me robaste el corazon.Con voz",
+    "titles": {
+      "spa": "Alex Campos - Me robaste el corazon.Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7a30161-674c-48e6-918f-8994db748b2c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:21:30.834Z",
+    "modified_at": "2022-11-04T02:21:31.242Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee89f8ba2257c5e184445b343b15bf4b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 17745179,
+      "gain": -3.03,
+      "duration": 739,
+      "loudnorm": "-15.37,0.28,9.80,-25.84,-1.07",
+      "filename": "processed_1e7fd607001580329a38055ed8ade28a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

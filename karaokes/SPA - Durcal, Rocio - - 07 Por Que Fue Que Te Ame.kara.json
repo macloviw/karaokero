@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - 07 Por Que Fue Que Te Ame.mp3",
+      "loudnorm": "-14.98,1.32,12.20,-25.36,-1.06",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - 07 Por Que Fue Que Te Ame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c3ac2e5-c68c-49c4-a3ce-5ba772452ad3",
+    "title": "07 Por Que Fue Que Te Ame",
+    "titles": {
+      "spa": "07 Por Que Fue Que Te Ame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:39:21.816Z",
+    "modified_at": "2022-11-03T12:39:22.240Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05b55d0884556d31217f0540ccd0b5ca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6546942,
+      "gain": -2.77,
+      "duration": 272,
+      "loudnorm": "-14.98,1.32,12.20,-25.36,-1.06",
+      "filename": "processed_35a9a2a6a8b8a0afa83c659ae23d1335.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

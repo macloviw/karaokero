@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Corazon culpable TZ.mp3",
+      "loudnorm": "-9.19,3.15,3.80,-19.26,-0.83",
+      "duration": 353,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Corazon culpable TZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f69d8948-a10d-497b-adc8-df57921dd13b",
+    "title": "Anthony Santos - Corazón culpable TZ",
+    "titles": {
+      "spa": "Anthony Santos - Corazón culpable TZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:43:41.102Z",
+    "modified_at": "2022-11-02T20:43:41.865Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f0eacde6d7c062aea417167594efa6a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5653359,
+      "gain": -9.41,
+      "duration": 353,
+      "loudnorm": "-9.19,3.15,3.80,-19.26,-0.83",
+      "filename": "processed_7b66c4660b823877ee31e680d0caa942.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

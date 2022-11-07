@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - FRANK REYES - ELLA ES ASI.mp3",
+      "loudnorm": "-14.73,2.66,1.70,-24.76,0.13",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - FRANK REYES - ELLA ES ASI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70e70084-9513-40a4-ae66-21ff3aa3863a",
+    "title": "FRANK REYES - ELLA ES ASI",
+    "titles": {
+      "spa": "FRANK REYES - ELLA ES ASI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:43:17.132Z",
+    "modified_at": "2022-11-02T23:43:17.583Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7757bb26f72d5b280f74b5b403b73b20.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3485800,
+      "gain": -3.9,
+      "duration": 248,
+      "loudnorm": "-14.73,2.66,1.70,-24.76,0.13",
+      "filename": "processed_23b2492c6829397a00eab36c17ce0de5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

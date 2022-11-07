@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - Antony Santos - En Casa De Mi Compadre.mp3",
+      "loudnorm": "-14.43,0.34,1.90,-24.47,-0.30",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - Antony Santos - En Casa De Mi Compadre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b72196cc-6d02-457e-af81-b1e430f42015",
+    "title": "Antony Santos - En Casa De Mi Compadre",
+    "titles": {
+      "spa": "Antony Santos - En Casa De Mi Compadre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:32:38.053Z",
+    "modified_at": "2022-11-04T02:32:38.458Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e76479ba2e6f7a7fc41efd5eb39b08b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10903617,
+      "gain": -4.53,
+      "duration": 272,
+      "loudnorm": "-14.43,0.34,1.90,-24.47,-0.30",
+      "filename": "processed_14abd6863e1bd8d590cf675250edbe30.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

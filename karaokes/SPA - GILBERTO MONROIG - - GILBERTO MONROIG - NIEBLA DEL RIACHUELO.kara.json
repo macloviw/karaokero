@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GILBERTO MONROIG - - GILBERTO MONROIG - NIEBLA DEL RIACHUELO.mp3",
+      "loudnorm": "-15.14,0.44,3.00,-25.29,0.10",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GILBERTO MONROIG - - GILBERTO MONROIG - NIEBLA DEL RIACHUELO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d76cb25b-1bbd-4f0e-bbbe-90c2f24ee798",
+    "title": "GILBERTO MONROIG - NIEBLA DEL RIACHUELO",
+    "titles": {
+      "spa": "GILBERTO MONROIG - NIEBLA DEL RIACHUELO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c22b1843-b757-410a-bed5-61b5ddd55b80"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:32:50.993Z",
+    "modified_at": "2022-11-03T05:32:51.414Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3f544c78e8753c68a252a2b6248af666.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3239279,
+      "gain": -2.49,
+      "duration": 202,
+      "loudnorm": "-15.14,0.44,3.00,-25.29,0.10",
+      "filename": "processed_780ce4d81279280d7c7a4a57e82510c8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

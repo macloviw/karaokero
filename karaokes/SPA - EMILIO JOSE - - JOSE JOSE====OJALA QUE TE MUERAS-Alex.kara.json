@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE====OJALA QUE TE MUERAS-Alex.mp3",
+      "loudnorm": "-12.98,-0.61,1.40,-23.05,-0.31",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE====OJALA QUE TE MUERAS-Alex.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3cf6a08b-5793-4e91-a0fd-487bb3569138",
+    "title": "JOSE JOSE====OJALA QUE TE MUERAS-Alex",
+    "titles": {
+      "spa": "JOSE JOSE====OJALA QUE TE MUERAS-Alex"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:04:54.700Z",
+    "modified_at": "2022-11-03T07:04:55.118Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7b0cf731f6e47749fcf58a7971de40d7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4281252,
+      "gain": 0.32,
+      "duration": 267,
+      "loudnorm": "-12.98,-0.61,1.40,-23.05,-0.31",
+      "filename": "processed_2c8ffdd0030d917413118376dd7b436b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

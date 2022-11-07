@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Baltimora - - Baltimora - Tarzan Boy.mp3",
+      "loudnorm": "-9.10,2.32,3.50,-19.19,-0.96",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Baltimora - - Baltimora - Tarzan Boy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "718ffa5e-6384-4915-8afb-e95b6913ae3b",
+    "title": "Baltimora - Tarzan Boy",
+    "titles": {
+      "spa": "Baltimora - Tarzan Boy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "44fbe2d5-2ffa-48de-813c-4a697289ebca"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:57:38.846Z",
+    "modified_at": "2022-11-03T23:57:39.240Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_00a1fcb87d1bc299da138bab51e1fe96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3522110,
+      "gain": -9.14,
+      "duration": 220,
+      "loudnorm": "-9.10,2.32,3.50,-19.19,-0.96",
+      "filename": "processed_86b314bf1df0c346db0f1f18b312ac9e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

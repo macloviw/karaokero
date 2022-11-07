@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - TU SABES BIEN BY EDNITA NZ.CDG.MP3",
+      "loudnorm": "-9.45,2.33,6.10,-19.50,-1.42",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - TU SABES BIEN BY EDNITA NZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae0f4e27-748a-4191-af02-05b2d6e955b9",
+    "title": "TU SABES BIEN BY EDNITA NZ.CDG",
+    "titles": {
+      "spa": "TU SABES BIEN BY EDNITA NZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:28:37.857Z",
+    "modified_at": "2022-11-03T04:28:38.629Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 12293321,
+      "gain": -7.67,
+      "duration": 307,
+      "loudnorm": "-9.45,2.33,6.10,-19.50,-1.42",
+      "filename": "processed_9ebbf67de27cf30b3cb80d4392fa3645.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12293321,
+      "gain": -7.67,
+      "duration": 307,
+      "loudnorm": "-9.45,2.33,6.10,-19.50,-1.42",
+      "filename": "processed_3d7e283ca59c961a6f46f9eb15d54523.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

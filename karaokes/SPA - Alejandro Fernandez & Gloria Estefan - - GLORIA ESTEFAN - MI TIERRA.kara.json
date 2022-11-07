@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - MI TIERRA.MP3",
+      "loudnorm": "-10.25,0.44,4.20,-20.30,-1.09",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - GLORIA ESTEFAN - MI TIERRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "19919ced-5de0-4445-9668-b40836b5a74b",
+    "title": "GLORIA ESTEFAN   -   MI TIERRA",
+    "titles": {
+      "spa": "GLORIA ESTEFAN   -   MI TIERRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:34:38.665Z",
+    "modified_at": "2022-11-03T05:34:39.434Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11682056,
+      "gain": -9.04,
+      "duration": 292,
+      "loudnorm": "-10.25,0.44,4.20,-20.30,-1.09",
+      "filename": "processed_556ddb098c27b823df677c5a43b534d0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11682056,
+      "gain": -9.04,
+      "duration": 292,
+      "loudnorm": "-10.25,0.44,4.20,-20.30,-1.09",
+      "filename": "processed_750d2835fb62f326af96ff0886f9074a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

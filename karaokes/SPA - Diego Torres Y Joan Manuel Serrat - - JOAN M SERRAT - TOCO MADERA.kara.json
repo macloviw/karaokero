@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diego Torres Y Joan Manuel Serrat - - JOAN M SERRAT - TOCO MADERA.MP3",
+      "loudnorm": "-14.23,0.95,5.00,-24.27,-0.75",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diego Torres Y Joan Manuel Serrat - - JOAN M SERRAT - TOCO MADERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d1fa136-1bfa-4621-a89c-c13ae5354e24",
+    "title": "JOAN M SERRAT   -   TOCO MADERA",
+    "titles": {
+      "spa": "JOAN M SERRAT   -   TOCO MADERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f4ba6b97-0e26-4892-97e8-84b30000db4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:21:37.720Z",
+    "modified_at": "2022-11-03T06:21:38.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4514892,
+      "gain": -3.91,
+      "duration": 282,
+      "loudnorm": "-14.23,0.95,5.00,-24.27,-0.75",
+      "filename": "processed_fb060702e1d156a526a812b40295f052.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4514892,
+      "gain": -3.91,
+      "duration": 282,
+      "loudnorm": "-14.23,0.95,5.00,-24.27,-0.75",
+      "filename": "processed_5006d329357dc6ecfc555a6635056a24.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

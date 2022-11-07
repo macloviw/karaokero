@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - 02 - Amar es lo que quiero (David Bisbal).mp3",
+      "loudnorm": "-14.65,-0.61,12.40,-25.33,-1.55",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - 02 - Amar es lo que quiero (David Bisbal).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "56b3edc7-0b4a-4942-8821-1c75662d8796",
+    "title": "02 - Amar es lo que quiero  (David Bisbal)",
+    "titles": {
+      "spa": "02 - Amar es lo que quiero  (David Bisbal)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:01:10.954Z",
+    "modified_at": "2022-11-03T22:01:11.430Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6d5a8358f5d27d34148e8514120c43fa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5034112,
+      "gain": -3.12,
+      "duration": 209,
+      "loudnorm": "-14.65,-0.61,12.40,-25.33,-1.55",
+      "filename": "processed_aacbb4e9f74bea40643cde0197af369f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Amada amante.mp3",
+      "loudnorm": "-12.57,0.62,6.40,-22.74,-0.30",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Amada amante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "223634ba-e599-4d78-accb-b0a2d61ba1f6",
+    "title": "Anthony Rios - Amada amante",
+    "titles": {
+      "spa": "Anthony Rios - Amada amante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:49:28.915Z",
+    "modified_at": "2022-11-03T01:49:29.343Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_425e0f128ae303db1cef3bed7021d308.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3334563,
+      "gain": -5.78,
+      "duration": 208,
+      "loudnorm": "-12.57,0.62,6.40,-22.74,-0.30",
+      "filename": "processed_1449a369ce6e3c589908c55ff3a2d3af.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

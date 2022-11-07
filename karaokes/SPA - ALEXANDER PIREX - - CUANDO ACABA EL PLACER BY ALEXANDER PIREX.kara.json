@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDER PIREX - - CUANDO ACABA EL PLACER BY ALEXANDER PIREX.MP3",
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDER PIREX - - CUANDO ACABA EL PLACER BY ALEXANDER PIREX.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3c02ab5-2b4b-4a3a-873f-f8be50d19c52",
+    "title": "CUANDO ACABA EL PLACER BY ALEXANDER PIREX",
+    "titles": {
+      "spa": "CUANDO ACABA EL PLACER BY ALEXANDER PIREX"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "acd7e23f-2b4c-464b-80ad-36b2d0d0bbb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:20:17.365Z",
+    "modified_at": "2022-11-03T01:20:17.990Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4485088,
+      "gain": -0.22,
+      "duration": 280,
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "filename": "processed_2ff2d17ef9997aa5cb1faa42fef9202b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4485088,
+      "gain": -0.22,
+      "duration": 280,
+      "loudnorm": "-16.63,0.60,3.60,-26.85,-0.33",
+      "filename": "processed_284115f4253f28b9ff232c21728604c1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

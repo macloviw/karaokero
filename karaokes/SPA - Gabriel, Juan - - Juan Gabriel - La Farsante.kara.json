@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - La Farsante.mp3",
+      "loudnorm": "-13.61,-0.46,4.20,-23.65,-0.58",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - La Farsante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9724ce69-c8f7-4ad6-bc35-56bfc548e1b6",
+    "title": "Juan Gabriel - La Farsante",
+    "titles": {
+      "spa": "Juan Gabriel - La Farsante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:47:18.873Z",
+    "modified_at": "2022-11-03T07:47:19.280Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ddb25effc3bae061c454f1998303f7d1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2995894,
+      "gain": -5.29,
+      "duration": 186,
+      "loudnorm": "-13.61,-0.46,4.20,-23.65,-0.58",
+      "filename": "processed_d486b95a07531531a59ceb8f97186c49.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - The Circle Of Life.mp3",
+      "loudnorm": "-17.24,-1.85,8.00,-27.27,-1.32",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - The Circle Of Life.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b218bff8-c8fc-496b-9e24-f8e63d7109d7",
+    "title": "Elton John - The Circle Of Life",
+    "titles": {
+      "spa": "Elton John - The Circle Of Life"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:29:05.829Z",
+    "modified_at": "2022-11-04T00:29:06.208Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_37bce63b73d308c06437378fb1746dbf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4962815,
+      "gain": -1,
+      "duration": 310,
+      "loudnorm": "-17.24,-1.85,8.00,-27.27,-1.32",
+      "filename": "processed_42ae382c61397af5a4ad87119e0fe394.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

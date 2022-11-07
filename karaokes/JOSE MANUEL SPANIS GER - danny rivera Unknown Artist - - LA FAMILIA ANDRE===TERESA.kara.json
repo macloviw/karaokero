@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - LA FAMILIA ANDRE===TERESA.mp3",
+      "loudnorm": "-5.42,2.02,4.10,-15.66,-0.91",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - LA FAMILIA ANDRE===TERESA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03c0e7c0-c063-42fa-a6ce-673d9a35b55a",
+    "title": "LA FAMILIA ANDRE===TERESA",
+    "titles": {
+      "spa": "LA FAMILIA ANDRE===TERESA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:47:21.891Z",
+    "modified_at": "2022-11-04T08:47:22.264Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0f1ee07e69dc266232d890c0c359e73.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4526078,
+      "gain": -12.01,
+      "duration": 188,
+      "loudnorm": "-5.42,2.02,4.10,-15.66,-0.91",
+      "filename": "processed_8e8d8480f067acd2aae829c0957df0bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

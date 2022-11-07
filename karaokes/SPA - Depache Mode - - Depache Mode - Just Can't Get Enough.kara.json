@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Depache Mode - - Depache Mode - Just Can't Get Enough.MP3",
+      "loudnorm": "-20.77,-1.41,6.50,-31.00,-0.44",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Depache Mode - - Depache Mode - Just Can't Get Enough.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52e32bab-2035-4d1b-b6e2-e5c5f0a52bea",
+    "title": "Depache Mode - Just Can't Get Enough",
+    "titles": {
+      "spa": "Depache Mode - Just Can't Get Enough"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "93cd5cda-a86a-4f3e-9f78-4745ecda30f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:54:33.485Z",
+    "modified_at": "2022-11-03T15:54:34.061Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3826512,
+      "gain": 1.71,
+      "duration": 239,
+      "loudnorm": "-20.77,-1.41,6.50,-31.00,-0.44",
+      "filename": "processed_df86995593b4e01966822b2485a348ef.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3826512,
+      "gain": 1.71,
+      "duration": 239,
+      "loudnorm": "-20.77,-1.41,6.50,-31.00,-0.44",
+      "filename": "processed_5881a8414edb8952ed9fc178ee78165e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

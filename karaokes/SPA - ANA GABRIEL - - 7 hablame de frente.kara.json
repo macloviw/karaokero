@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - 7 hablame de frente.mp3",
+      "loudnorm": "-13.05,-0.13,7.10,-23.12,-0.75",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - 7 hablame de frente.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "19b4c827-13a0-4503-8b47-1ab7598fee7e",
+    "title": "7 hablame de frente",
+    "titles": {
+      "spa": "7 hablame de frente"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:39:44.738Z",
+    "modified_at": "2022-11-03T01:39:45.159Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d0ac9e2630cc1e7807c591746c771e58.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5433982,
+      "gain": -6.01,
+      "duration": 226,
+      "loudnorm": "-13.05,-0.13,7.10,-23.12,-0.75",
+      "filename": "processed_d4fe693e6e0cd93d20154d1df35c5874.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

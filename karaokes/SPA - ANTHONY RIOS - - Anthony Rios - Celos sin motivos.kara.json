@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Celos sin motivos.mp3",
+      "loudnorm": "-10.33,0.70,2.50,-20.40,-0.24",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - Anthony Rios - Celos sin motivos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aa66055c-70e8-48d7-92dc-1e2dab9802a2",
+    "title": "Anthony Rios - Celos sin motivos",
+    "titles": {
+      "spa": "Anthony Rios - Celos sin motivos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:50:06.554Z",
+    "modified_at": "2022-11-03T01:50:06.969Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f69dc90112f779db6a5be6d22fed7708.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2767820,
+      "gain": -5.28,
+      "duration": 172,
+      "loudnorm": "-10.33,0.70,2.50,-20.40,-0.24",
+      "filename": "processed_190a2ba542ce2f7a55edfdea1e1f5b23.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

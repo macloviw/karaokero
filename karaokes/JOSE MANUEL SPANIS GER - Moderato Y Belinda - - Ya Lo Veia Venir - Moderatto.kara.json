@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Moderato Y Belinda - - Ya Lo Veia Venir - Moderatto.mp3",
+      "loudnorm": "-13.11,0.34,2.30,-23.17,-0.45",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Moderato Y Belinda - - Ya Lo Veia Venir - Moderatto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3c218994-b308-4b1a-ac8d-56f7d9a783ab",
+    "title": "Ya Lo Veia Venir - Moderatto",
+    "titles": {
+      "spa": "Ya Lo Veia Venir - Moderatto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "77507e6f-6e9c-4fcc-a3f3-aa973dae9638"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:30:38.576Z",
+    "modified_at": "2022-11-04T07:30:38.962Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3474b33db8002b76ef736fa4553a27b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5534292,
+      "gain": -3.66,
+      "duration": 230,
+      "loudnorm": "-13.11,0.34,2.30,-23.17,-0.45",
+      "filename": "processed_3587576bab0cbfa183bff0689e2b495f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

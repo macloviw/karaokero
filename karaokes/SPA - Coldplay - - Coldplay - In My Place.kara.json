@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coldplay - - Coldplay - In My Place.mp3",
+      "loudnorm": "-6.29,5.10,5.90,-16.32,-0.63",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coldplay - - Coldplay - In My Place.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "77a180e8-6d3e-4469-9a22-831f79a6b333",
+    "title": "Coldplay - In My Place",
+    "titles": {
+      "spa": "Coldplay - In My Place"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "66e94b45-6aa7-4588-9e8e-cb875e9c004d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:41:45.108Z",
+    "modified_at": "2022-11-03T15:41:45.591Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_627c2d5ee6f334d5a28b50b54da45341.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3857229,
+      "gain": -8.57,
+      "duration": 240,
+      "loudnorm": "-6.29,5.10,5.90,-16.32,-0.63",
+      "filename": "processed_b812748c57ebb94b4f02a6c7bfb4d0e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

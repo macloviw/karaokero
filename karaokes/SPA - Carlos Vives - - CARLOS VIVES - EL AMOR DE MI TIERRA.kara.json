@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Vives - - CARLOS VIVES - EL AMOR DE MI TIERRA.mp3",
+      "loudnorm": "-18.73,0.03,8.70,-28.99,-1.48",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Vives - - CARLOS VIVES - EL AMOR DE MI TIERRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ddbe334e-a1e5-4f5d-a5e3-7542cda92b67",
+    "title": "CARLOS VIVES - EL AMOR DE MI TIERRA",
+    "titles": {
+      "spa": "CARLOS VIVES - EL AMOR DE MI TIERRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2df0daff-f39b-4d55-a141-e4ddd47ab30f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:02:02.018Z",
+    "modified_at": "2022-11-03T03:02:02.430Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d1c9b8dad4d93c4ccdbfa185b916b973.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3004154,
+      "gain": 0.02,
+      "duration": 214,
+      "loudnorm": "-18.73,0.03,8.70,-28.99,-1.48",
+      "filename": "processed_bd42ab37544b7838084578e5c701cab7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

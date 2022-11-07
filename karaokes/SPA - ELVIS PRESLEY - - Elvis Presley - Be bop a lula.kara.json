@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Be bop a lula.mp3",
+      "loudnorm": "-11.13,1.27,3.90,-21.54,-1.54",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Be bop a lula.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "060b12c5-132a-4568-ac60-dbb8c9ab5fde",
+    "title": "Elvis Presley - Be bop a lula",
+    "titles": {
+      "spa": "Elvis Presley - Be bop a lula"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:30:14.335Z",
+    "modified_at": "2022-11-04T00:30:14.713Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84a0880502ae7149b0cfba3bed069ee1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2543377,
+      "gain": -8.81,
+      "duration": 158,
+      "loudnorm": "-11.13,1.27,3.90,-21.54,-1.54",
+      "filename": "processed_c7417949766be446bf5f7d14fe0d0101.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

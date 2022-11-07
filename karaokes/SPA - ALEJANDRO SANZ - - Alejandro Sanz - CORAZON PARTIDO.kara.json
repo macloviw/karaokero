@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - Alejandro Sanz - CORAZON PARTIDO.MP3",
+      "loudnorm": "-12.54,0.63,5.00,-22.68,-1.14",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - Alejandro Sanz - CORAZON PARTIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1df23d37-4f81-475f-b169-096990521565",
+    "title": "Alejandro Sanz - CORAZON PARTIDO",
+    "titles": {
+      "spa": "Alejandro Sanz - CORAZON PARTIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:07:39.715Z",
+    "modified_at": "2022-11-03T01:07:40.270Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5185383,
+      "gain": -4.77,
+      "duration": 215,
+      "loudnorm": "-12.54,0.63,5.00,-22.68,-1.14",
+      "filename": "processed_78928e8a80569d61222c0bb8bf70b51e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5185383,
+      "gain": -4.77,
+      "duration": 215,
+      "loudnorm": "-12.54,0.63,5.00,-22.68,-1.14",
+      "filename": "processed_d3650db6027876347d22e6e1fabfc4b4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

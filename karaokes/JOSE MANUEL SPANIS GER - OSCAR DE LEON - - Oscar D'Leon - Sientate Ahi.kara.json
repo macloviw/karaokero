@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Sientate Ahi.MP3",
+      "loudnorm": "-17.71,-0.40,5.10,-27.73,-0.20",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Sientate Ahi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4f9707e2-f8b1-4f1b-b3b7-32e8b53ca3cb",
+    "title": "Oscar D'Leon - Sientate Ahi",
+    "titles": {
+      "spa": "Oscar D'Leon - Sientate Ahi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:04:22.235Z",
+    "modified_at": "2022-11-04T08:04:22.817Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4507648,
+      "gain": -1.05,
+      "duration": 281,
+      "loudnorm": "-17.71,-0.40,5.10,-27.73,-0.20",
+      "filename": "processed_1092585b6d0e33634eb526c195fcc137.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4507648,
+      "gain": -1.05,
+      "duration": 281,
+      "loudnorm": "-17.71,-0.40,5.10,-27.73,-0.20",
+      "filename": "processed_e97d371e3ea777295e391226ff0632da.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

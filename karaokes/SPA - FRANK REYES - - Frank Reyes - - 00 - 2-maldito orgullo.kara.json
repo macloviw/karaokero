@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 2-maldito orgullo.mp3",
+      "loudnorm": "-10.37,1.14,8.10,-20.71,-0.79",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 2-maldito orgullo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "659efee8-efb1-4e71-abf4-cc86798642d8",
+    "title": "Frank Reyes  -  - 00 - 2-maldito orgullo",
+    "titles": {
+      "spa": "Frank Reyes  -  - 00 - 2-maldito orgullo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:42:13.400Z",
+    "modified_at": "2022-11-02T23:42:13.834Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8afc8e7831aa5889fe06ab9b40f7e0e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5334519,
+      "gain": -8.22,
+      "duration": 272,
+      "loudnorm": "-10.37,1.14,8.10,-20.71,-0.79",
+      "filename": "processed_182e28807f50c36207d14f38eecc8861.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

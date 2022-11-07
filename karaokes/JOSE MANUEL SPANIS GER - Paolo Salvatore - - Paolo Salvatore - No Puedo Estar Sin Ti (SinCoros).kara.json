@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Paolo Salvatore - - Paolo Salvatore - No Puedo Estar Sin Ti (SinCoros).mp3",
+      "loudnorm": "-15.05,-0.21,2.80,-25.08,-0.11",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Paolo Salvatore - - Paolo Salvatore - No Puedo Estar Sin Ti (SinCoros).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09d7c505-2703-4b89-9b9c-5f08452a24b5",
+    "title": "Paolo Salvatore - No Puedo Estar Sin Ti (SinCoros)",
+    "titles": {
+      "spa": "Paolo Salvatore - No Puedo Estar Sin Ti (SinCoros)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "49f55ee2-b03b-4a9c-a43d-27564a71a299"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:08:16.473Z",
+    "modified_at": "2022-11-04T08:08:16.856Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_75a6e8dff7642aa96d882e720565af6c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3497161,
+      "gain": -1.85,
+      "duration": 218,
+      "loudnorm": "-15.05,-0.21,2.80,-25.08,-0.11",
+      "filename": "processed_dea2990558240a13207e0e27bd17e210.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

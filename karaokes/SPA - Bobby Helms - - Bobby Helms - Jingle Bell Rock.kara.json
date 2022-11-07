@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bobby Helms - - Bobby Helms - Jingle Bell Rock.MP3",
+      "loudnorm": "-12.02,-0.19,3.60,-22.16,-1.09",
+      "duration": 139,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bobby Helms - - Bobby Helms - Jingle Bell Rock.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2740d544-0cc4-439b-8d55-68ae1a50eb2b",
+    "title": "Bobby Helms - Jingle Bell Rock",
+    "titles": {
+      "spa": "Bobby Helms - Jingle Bell Rock"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "f257baa4-422e-4571-9bc8-3e551d69cdc8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:06:41.740Z",
+    "modified_at": "2022-11-04T00:06:42.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5589256,
+      "gain": -4.85,
+      "duration": 139,
+      "loudnorm": "-12.02,-0.19,3.60,-22.16,-1.09",
+      "filename": "processed_29062f155a620f552c906deda614a0e9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5589256,
+      "gain": -4.85,
+      "duration": 139,
+      "loudnorm": "-12.02,-0.19,3.60,-22.16,-1.09",
+      "filename": "processed_19b3ab55547dfdef563f58fc7db8aa6c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

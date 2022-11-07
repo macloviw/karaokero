@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - ANTHONY_SANTOS_-_COMO_HACES_FALTA.mp3",
+      "loudnorm": "-13.22,1.09,2.50,-23.29,-0.32",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - ANTHONY_SANTOS_-_COMO_HACES_FALTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f608b829-a546-4bfc-9ac7-eaddf216b161",
+    "title": "ANTHONY_SANTOS_-_COMO_HACES_FALTA",
+    "titles": {
+      "spa": "ANTHONY_SANTOS_-_COMO_HACES_FALTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:49:53.365Z",
+    "modified_at": "2022-11-02T22:49:53.960Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a3a79074d003a800c00af89a6ce69f93.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5764442,
+      "gain": -5.18,
+      "duration": 292,
+      "loudnorm": "-13.22,1.09,2.50,-23.29,-0.32",
+      "filename": "processed_b133ede8540b8c74d446d7dc060055a4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

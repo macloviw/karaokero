@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Keys - - Alicia Keys - You dont know my name.mp3",
+      "loudnorm": "-5.72,6.22,12.50,-16.17,-1.28",
+      "duration": 434,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Keys - - Alicia Keys - You dont know my name.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b15a13f-684c-41d1-b24d-23d135f7557e",
+    "title": "Alicia Keys - You dont know my name",
+    "titles": {
+      "spa": "Alicia Keys - You dont know my name"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c0c516c3-1e30-4f8b-a088-517607342f9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:43:38.137Z",
+    "modified_at": "2022-11-03T14:43:38.566Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d759bf898a9051176214799908f55bdd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6946029,
+      "gain": -11.92,
+      "duration": 434,
+      "loudnorm": "-5.72,6.22,12.50,-16.17,-1.28",
+      "filename": "processed_62ee39671f8584d9b83e02290157309a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

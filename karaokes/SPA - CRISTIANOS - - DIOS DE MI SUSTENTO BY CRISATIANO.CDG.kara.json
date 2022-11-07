@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - DIOS DE MI SUSTENTO BY CRISATIANO.CDG.MP3",
+      "loudnorm": "-18.96,-0.24,4.60,-29.02,-0.35",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - DIOS DE MI SUSTENTO BY CRISATIANO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e3cfc8b-d494-4e51-a31d-dedc459533d0",
+    "title": "DIOS DE MI SUSTENTO BY CRISATIANO.CDG",
+    "titles": {
+      "spa": "DIOS DE MI SUSTENTO BY CRISATIANO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:04:05.563Z",
+    "modified_at": "2022-11-03T14:04:06.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4128567,
+      "gain": 0.36,
+      "duration": 257,
+      "loudnorm": "-18.96,-0.24,4.60,-29.02,-0.35",
+      "filename": "processed_0fd1e5a7572f5d54943e37339e38e271.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4128567,
+      "gain": 0.36,
+      "duration": 257,
+      "loudnorm": "-18.96,-0.24,4.60,-29.02,-0.35",
+      "filename": "processed_0649cfd3cf625acb503ff31308fb7cde.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

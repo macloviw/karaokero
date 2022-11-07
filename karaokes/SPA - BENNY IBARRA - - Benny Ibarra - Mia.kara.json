@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BENNY IBARRA - - Benny Ibarra - Mia.mp3",
+      "loudnorm": "-12.70,0.36,9.20,-22.98,-1.59",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BENNY IBARRA - - Benny Ibarra - Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a69badbc-4d4e-43be-a9a7-1c63a16d7144",
+    "title": "Benny Ibarra - Mia",
+    "titles": {
+      "spa": "Benny Ibarra - Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23df6d6b-b905-4ea2-b614-fb41aea29a26"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:14:43.609Z",
+    "modified_at": "2022-11-03T02:14:44.152Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e435d9c46bffd457f2c474ba85e7966b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4924281,
+      "gain": -5.21,
+      "duration": 205,
+      "loudnorm": "-12.70,0.36,9.20,-22.98,-1.59",
+      "filename": "processed_72ced74e5089723e7c9266ec01afa7e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - Natural Mystic.mp3",
+      "loudnorm": "-12.86,0.49,1.70,-23.23,-0.59",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - Natural Mystic.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6dfd04db-6b1b-4d65-bee9-e9b07b9db03d",
+    "title": "Bob Marley - Natural Mystic",
+    "titles": {
+      "spa": "Bob Marley - Natural Mystic"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:23:19.476Z",
+    "modified_at": "2022-11-03T02:23:19.992Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_39773898311296c971f20ccea8b562c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3240533,
+      "gain": -0.37,
+      "duration": 202,
+      "loudnorm": "-12.86,0.49,1.70,-23.23,-0.59",
+      "filename": "processed_40c71f5ff04a13f950aef02b18984c23.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

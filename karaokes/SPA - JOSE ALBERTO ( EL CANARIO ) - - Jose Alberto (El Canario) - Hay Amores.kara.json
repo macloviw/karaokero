@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Hay Amores.MP3",
+      "loudnorm": "-14.09,-1.58,4.40,-24.13,-0.97",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Hay Amores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8027ebec-8d97-418d-9397-73d7d87f16d4",
+    "title": "Jose Alberto (El Canario) - Hay Amores",
+    "titles": {
+      "spa": "Jose Alberto (El Canario) - Hay Amores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9422437f-ee93-4c3f-8df1-b151aebcc9ac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:54:25.483Z",
+    "modified_at": "2022-11-04T03:54:26.179Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4317184,
+      "gain": -4.31,
+      "duration": 269,
+      "loudnorm": "-14.09,-1.58,4.40,-24.13,-0.97",
+      "filename": "processed_0f3d4a1829546ba84033b399e7c78c75.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4317184,
+      "gain": -4.31,
+      "duration": 269,
+      "loudnorm": "-14.09,-1.58,4.40,-24.13,-0.97",
+      "filename": "processed_f32a90c5b3e882817527290a47ec7f8a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

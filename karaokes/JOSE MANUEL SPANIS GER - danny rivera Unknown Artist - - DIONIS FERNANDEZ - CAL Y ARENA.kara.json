@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - DIONIS FERNANDEZ - CAL Y ARENA.mp3",
+      "loudnorm": "-16.36,-2.84,2.20,-26.40,-0.01",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - DIONIS FERNANDEZ - CAL Y ARENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15fe4966-c74d-42b7-902e-d744bdf27e5c",
+    "title": "DIONIS FERNANDEZ - CAL Y ARENA",
+    "titles": {
+      "spa": "DIONIS FERNANDEZ - CAL Y ARENA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:50:39.877Z",
+    "modified_at": "2022-11-04T09:50:40.278Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2a0314f76c49056f3d67b4abd0b915ab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8910788,
+      "gain": -2.37,
+      "duration": 278,
+      "loudnorm": "-16.36,-2.84,2.20,-26.40,-0.01",
+      "filename": "processed_4c7e24122e506b53c6cb1fde41cea5ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

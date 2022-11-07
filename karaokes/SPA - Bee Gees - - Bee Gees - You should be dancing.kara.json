@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bee Gees - - Bee Gees - You should be dancing.MP3",
+      "loudnorm": "-25.40,-5.52,4.10,-35.48,-0.31",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bee Gees - - Bee Gees - You should be dancing.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "25c17170-d87e-49b6-b174-ade572df9803",
+    "title": "Bee Gees - You should be dancing",
+    "titles": {
+      "spa": "Bee Gees - You should be dancing"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ccbe9d4d-5ef0-424a-9b4d-5398f995d8c7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:57:38.537Z",
+    "modified_at": "2022-11-03T14:57:39.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10281893,
+      "gain": 7.53,
+      "duration": 257,
+      "loudnorm": "-25.40,-5.52,4.10,-35.48,-0.31",
+      "filename": "processed_940c8a82ca26c5c863b079ccd0d10019.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10281893,
+      "gain": 7.53,
+      "duration": 257,
+      "loudnorm": "-25.40,-5.52,4.10,-35.48,-0.31",
+      "filename": "processed_7259f2f4aaf3b07d1ba77d6941f56439.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno-Ese hombre soy yo.mp3",
+      "loudnorm": "-10.05,8.96,5.20,-20.21,-0.09",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno-Ese hombre soy yo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a657d36-659b-4200-b40b-888e7421f8b6",
+    "title": "Alex Bueno-Ese hombre soy yo",
+    "titles": {
+      "spa": "Alex Bueno-Ese hombre soy yo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:04:10.427Z",
+    "modified_at": "2022-11-04T02:04:10.846Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a74a15debc650b6ff67acb0ed4dd311c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3971751,
+      "gain": -10.39,
+      "duration": 248,
+      "loudnorm": "-10.05,8.96,5.20,-20.21,-0.09",
+      "filename": "processed_53202963dfe0cea186fa70c7703ffe5c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

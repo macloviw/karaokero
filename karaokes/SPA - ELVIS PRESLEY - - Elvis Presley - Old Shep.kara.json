@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Old Shep.MP3",
+      "loudnorm": "-15.63,-2.99,3.60,-25.71,-0.36",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - Old Shep.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b9126fbd-5818-42cc-bf77-3dd7ebd56d28",
+    "title": "Elvis Presley - Old Shep",
+    "titles": {
+      "spa": "Elvis Presley - Old Shep"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:32:17.770Z",
+    "modified_at": "2022-11-04T00:32:18.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4210199,
+      "gain": 0.13,
+      "duration": 263,
+      "loudnorm": "-15.63,-2.99,3.60,-25.71,-0.36",
+      "filename": "processed_8ab4d4d485d02fe52aabdcaf30dfd5e2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4210199,
+      "gain": 0.13,
+      "duration": 263,
+      "loudnorm": "-15.63,-2.99,3.60,-25.71,-0.36",
+      "filename": "processed_3187cdfe72e951a86f19a59e1c8a9a64.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

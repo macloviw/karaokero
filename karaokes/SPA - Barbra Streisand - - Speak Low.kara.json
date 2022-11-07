@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Barbra Streisand - - Speak Low.MP3",
+      "loudnorm": "-12.33,-0.04,7.70,-22.68,-1.06",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Barbra Streisand - - Speak Low.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef4d55a3-bbb2-4fb7-8bab-efc301281c87",
+    "title": "Speak Low",
+    "titles": {
+      "spa": "Speak Low"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "ef880948-6570-4746-81c9-40133143cd74"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:58:29.437Z",
+    "modified_at": "2022-11-02T21:58:30.440Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3936256,
+      "gain": -4.76,
+      "duration": 245,
+      "loudnorm": "-12.33,-0.04,7.70,-22.68,-1.06",
+      "filename": "processed_ae47af512f937174163e981f7bdf6da8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3936256,
+      "gain": -4.76,
+      "duration": 245,
+      "loudnorm": "-12.33,-0.04,7.70,-22.68,-1.06",
+      "filename": "processed_e13028033341691c9098d31f62830b90.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

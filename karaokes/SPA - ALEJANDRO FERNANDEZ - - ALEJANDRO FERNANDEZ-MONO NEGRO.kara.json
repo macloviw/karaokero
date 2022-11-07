@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ-MONO NEGRO.mp3",
+      "loudnorm": "-10.13,0.46,3.00,-20.31,-0.01",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ-MONO NEGRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e18ee429-eb73-4bd6-9b6a-4fc6a84e0c46",
+    "title": "ALEJANDRO FERNANDEZ-MOÑO NEGRO",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ-MOÑO NEGRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:49:20.755Z",
+    "modified_at": "2022-11-03T00:49:21.171Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e34ad9d6a2ea425ba85e87cc8ffaf1bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3328177,
+      "gain": -7.4,
+      "duration": 237,
+      "loudnorm": "-10.13,0.46,3.00,-20.31,-0.01",
+      "filename": "processed_4c2638b91db0b105637058c6c64d60cc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

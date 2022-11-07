@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RICARDO MONTANER - - Ricardo Montaner - Viene del alma.mp3",
+      "loudnorm": "-12.16,2.04,6.00,-22.25,-0.41",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RICARDO MONTANER - - Ricardo Montaner - Viene del alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "de83c3a4-02a4-4a50-bf96-af909a7d895f",
+    "title": "Ricardo Montaner - Viene del alma",
+    "titles": {
+      "spa": "Ricardo Montaner - Viene del alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:23:49.090Z",
+    "modified_at": "2022-11-04T08:23:49.532Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_96b98fa4767c8cb34d9520cd0131d651.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9170121,
+      "gain": -4.84,
+      "duration": 229,
+      "loudnorm": "-12.16,2.04,6.00,-22.25,-0.41",
+      "filename": "processed_c25e2c23b71079630d14d320242c0617.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

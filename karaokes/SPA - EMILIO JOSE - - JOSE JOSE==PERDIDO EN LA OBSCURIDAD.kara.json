@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE==PERDIDO EN LA OBSCURIDAD.mp3",
+      "loudnorm": "-15.65,0.99,8.20,-25.84,-0.87",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE==PERDIDO EN LA OBSCURIDAD.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3639232d-b580-47ee-a155-426a409cccbc",
+    "title": "JOSE JOSE==PERDIDO EN LA OBSCURIDAD",
+    "titles": {
+      "spa": "JOSE JOSE==PERDIDO EN LA OBSCURIDAD"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:06:14.903Z",
+    "modified_at": "2022-11-03T07:06:15.314Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_088c39b44991c02e1889e3a054dbfd42.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3747517,
+      "gain": -1.96,
+      "duration": 234,
+      "loudnorm": "-15.65,0.99,8.20,-25.84,-0.87",
+      "filename": "processed_bd0a975eecae77699aa4d810a19e950e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

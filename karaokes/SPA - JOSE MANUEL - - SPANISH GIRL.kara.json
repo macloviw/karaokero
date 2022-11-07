@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE MANUEL - - SPANISH GIRL.mp3",
+      "loudnorm": "-19.62,0.31,1.60,-29.71,-0.20",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE MANUEL - - SPANISH GIRL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b3779293-747b-4974-af9f-a0412afbee17",
+    "title": "SPANISH GIRL",
+    "titles": {
+      "spa": "SPANISH GIRL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9311b61f-882b-460f-bf3d-982dfb729f42"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:55:52.468Z",
+    "modified_at": "2022-11-02T23:55:52.902Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_169468aca2273c1b0c88e6f13170603a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4842442,
+      "gain": 2.34,
+      "duration": 302,
+      "loudnorm": "-19.62,0.31,1.60,-29.71,-0.20",
+      "filename": "processed_beec8d57cd026f3175f15ff0aef6a8e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

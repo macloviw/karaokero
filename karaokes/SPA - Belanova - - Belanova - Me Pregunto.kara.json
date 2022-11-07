@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Belanova - - Belanova - Me Pregunto.mp3",
+      "loudnorm": "-5.05,6.32,1.60,-15.20,-0.36",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Belanova - - Belanova - Me Pregunto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ae95d5b-1c88-4798-8998-d18ce1fa9c37",
+    "title": "Belanova - Me Pregunto",
+    "titles": {
+      "spa": "Belanova - Me Pregunto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b710c5f7-17b4-402b-87cd-b3dc39e28688"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:13:06.236Z",
+    "modified_at": "2022-11-03T02:13:06.802Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_155c3ce72fcd3f53cfa6a172a3ffa446.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2918783,
+      "gain": -8.98,
+      "duration": 182,
+      "loudnorm": "-5.05,6.32,1.60,-15.20,-0.36",
+      "filename": "processed_ac34b76cdf618e62244e3c98f30ff55e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

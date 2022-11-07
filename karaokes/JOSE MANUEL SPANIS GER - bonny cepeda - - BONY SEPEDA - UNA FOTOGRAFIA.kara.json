@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - BONY SEPEDA - UNA FOTOGRAFIA.mp3",
+      "loudnorm": "-10.66,2.08,1.70,-20.75,0.18",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - BONY SEPEDA - UNA FOTOGRAFIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09a851e1-b997-4012-83f5-05117005072c",
+    "title": "BONY SEPEDA - UNA FOTOGRAFIA",
+    "titles": {
+      "spa": "BONY SEPEDA - UNA FOTOGRAFIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "ec4b38a9-877e-4ff7-ae26-009d4a36d64d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:18:22.132Z",
+    "modified_at": "2022-11-04T09:18:22.529Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4c35c81526a6a5ab4297418091bd015.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5898091,
+      "gain": -7.08,
+      "duration": 245,
+      "loudnorm": "-10.66,2.08,1.70,-20.75,0.18",
+      "filename": "processed_b8d567c593eea3d3faabcc6a208234e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

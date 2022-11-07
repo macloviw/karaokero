@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - Christian Castro - Angel.mp3",
+      "loudnorm": "-22.08,-8.58,6.00,-32.13,-0.30",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - Christian Castro - Angel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d70499b-5901-4e6f-b560-430e3f9e59f2",
+    "title": "Christian Castro - Angel",
+    "titles": {
+      "spa": "Christian Castro - Angel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:40:40.085Z",
+    "modified_at": "2022-11-03T03:40:40.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a25225530155b4ae71c174bc346cd4c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6904283,
+      "gain": 4.17,
+      "duration": 287,
+      "loudnorm": "-22.08,-8.58,6.00,-32.13,-0.30",
+      "filename": "processed_6d8f5b3ab0e58eaac4c1783272f69b21.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - ELLA ME ENGANO.mp3",
+      "loudnorm": "-7.91,3.37,1.40,-17.92,0.03",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - ELLA ME ENGANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "23beb896-aed2-4371-a6cc-8e4b7c8738ee",
+    "title": "ELVIS MARTINEZ - ELLA ME ENGAÑO",
+    "titles": {
+      "spa": "ELVIS MARTINEZ - ELLA ME ENGAÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:12:47.527Z",
+    "modified_at": "2022-11-04T03:12:47.912Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1b67371147d1197a1717a57d9da4436f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6776126,
+      "gain": -9.83,
+      "duration": 251,
+      "loudnorm": "-7.91,3.37,1.40,-17.92,0.03",
+      "filename": "processed_31fc681ff95845a4ec6f3aae1fa5493f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

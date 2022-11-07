@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNIFER PENA - - ENTRE EL DELIRIO Y LA LO OKK.mp3",
+      "loudnorm": "-8.64,0.86,6.30,-18.69,-1.61",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNIFER PENA - - ENTRE EL DELIRIO Y LA LO OKK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e547b84e-0b6a-4698-9802-ec1ccbc426e8",
+    "title": "ENTRE EL DELIRIO Y LA LO OKK",
+    "titles": {
+      "spa": "ENTRE EL DELIRIO Y LA LO OKK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8398a2d4-d84e-4569-8240-3393dd51475d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:31:32.016Z",
+    "modified_at": "2022-11-03T22:31:32.405Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eea9a5ff9877eb7ca539cc72836abce2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6994433,
+      "gain": -8.7,
+      "duration": 291,
+      "loudnorm": "-8.64,0.86,6.30,-18.69,-1.61",
+      "filename": "processed_8ab25354ed9ccdf8ac4f5e0fb273333b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

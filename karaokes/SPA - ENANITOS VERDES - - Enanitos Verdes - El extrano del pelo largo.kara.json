@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - El extrano del pelo largo.mp3",
+      "loudnorm": "-14.57,0.01,2.90,-24.60,-0.83",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - El extrano del pelo largo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "48508cba-09d6-47ab-869d-e6a64fd09c80",
+    "title": "Enanitos Verdes - El extraño del pelo largo",
+    "titles": {
+      "spa": "Enanitos Verdes - El extraño del pelo largo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:47:10.270Z",
+    "modified_at": "2022-11-03T04:47:10.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3fd670539787c2274b52da3c6190a632.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2994654,
+      "gain": -2.73,
+      "duration": 187,
+      "loudnorm": "-14.57,0.01,2.90,-24.60,-0.83",
+      "filename": "processed_a4ba8e490706f978ce114ccb2d0ec58c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

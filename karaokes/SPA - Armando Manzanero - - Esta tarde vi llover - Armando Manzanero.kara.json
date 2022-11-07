@@ -1,0 +1,54 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Armando Manzanero - - Esta tarde vi llover - Armando Manzanero.mp3",
+      "audiogain": -3.31,
+      "loudnorm": "-11.82,0.16,1.40,-21.89,-0.14",
+      "filesize": 4074474,
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Armando Manzanero - - Esta tarde vi llover - Armando Manzanero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-10-27T15:11:52.436Z",
+    "ignoreHooks": false,
+    "kid": "f4b772ff-eb48-468d-a0f8-774f22918faa",
+    "modified_at": "2022-10-27T18:47:52.530Z",
+    "repository": "Local",
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "singers": [
+        "3d1623d9-5d7d-43b1-ae40-44695a78739a"
+      ],
+      "songtypes": [
+        "c97c09af-8b82-4275-9375-caccc09a7a9f"
+      ]
+    },
+    "titles": {
+      "spa": "Esta tarde vi llover - Armando Manzanero"
+    },
+    "titles_default_language": "spa",
+    "title": "Esta tarde vi llover - Armando Manzanero",
+    "year": 2022
+  }
+}

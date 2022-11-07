@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - ADIOS LE PIDO.MP3",
+      "loudnorm": "-14.72,1.51,4.90,-25.00,0.16",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - ADIOS LE PIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7ef95998-0972-44a8-ad68-2588e17c644a",
+    "title": "JUANES   -   ADIOS LE PIDO",
+    "titles": {
+      "spa": "JUANES   -   ADIOS LE PIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:39:13.280Z",
+    "modified_at": "2022-11-03T22:39:13.717Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3363703,
+      "gain": -2.34,
+      "duration": 210,
+      "loudnorm": "-14.72,1.51,4.90,-25.00,0.16",
+      "filename": "processed_83bdfaeb1b6b7564c790dd75371e56f6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3363703,
+      "gain": -2.34,
+      "duration": 210,
+      "loudnorm": "-14.72,1.51,4.90,-25.00,0.16",
+      "filename": "processed_fd781bc9d6f866664c844eb56f854c8f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

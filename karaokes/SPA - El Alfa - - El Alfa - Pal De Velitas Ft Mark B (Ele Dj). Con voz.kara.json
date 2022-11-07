@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Alfa - - El Alfa - Pal De Velitas Ft Mark B (Ele Dj). Con voz.mp3",
+      "loudnorm": "-6.77,1.27,2.40,-16.86,-1.01",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Alfa - - El Alfa - Pal De Velitas Ft Mark B (Ele Dj). Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3647a64-5c86-4f8c-8d8a-66196ff2c5c3",
+    "title": "El Alfa - Pal De Velitas Ft Mark B (Ele Dj). Con voz",
+    "titles": {
+      "spa": "El Alfa - Pal De Velitas Ft Mark B (Ele Dj). Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "ef09847f-d1bc-4708-a343-465a669864b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:35:43.891Z",
+    "modified_at": "2022-11-03T14:35:44.338Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7e8ed8e1437ef7031098fba10777687f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5744631,
+      "gain": -10.83,
+      "duration": 205,
+      "loudnorm": "-6.77,1.27,2.40,-16.86,-1.01",
+      "filename": "processed_ebe967fa5709b2392d940d7d2e253c18.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROES DEL SILENCIO - - Sirena varada.mp3",
+      "loudnorm": "-12.85,0.50,3.50,-22.92,-0.71",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROES DEL SILENCIO - - Sirena varada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a86a1a94-0b76-4571-aea1-ee2e52d64c76",
+    "title": "Sirena varada",
+    "titles": {
+      "spa": "Sirena varada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d5ee7ba4-687b-4267-ad47-8286e9db03a7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:08:21.106Z",
+    "modified_at": "2022-11-03T05:08:21.511Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42b6bc7110c2da2e91e28afabc07a197.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4194733,
+      "gain": -3.41,
+      "duration": 262,
+      "loudnorm": "-12.85,0.50,3.50,-22.92,-0.71",
+      "filename": "processed_d1bbfff2b272dcfa221be49ec2139b38.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

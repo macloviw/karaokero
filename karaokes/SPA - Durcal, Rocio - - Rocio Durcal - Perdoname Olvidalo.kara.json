@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Perdoname Olvidalo.mp3",
+      "loudnorm": "-10.67,-0.12,3.90,-20.73,0.04",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Perdoname Olvidalo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f9f1d2a-72bb-4a18-aafe-7532ca5dfc05",
+    "title": "Rocio Durcal - Perdoname Olvidalo",
+    "titles": {
+      "spa": "Rocio Durcal - Perdoname Olvidalo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:44:22.847Z",
+    "modified_at": "2022-11-03T12:44:23.291Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6608282442e26a7205d04caa564da258.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5192611,
+      "gain": -6.83,
+      "duration": 216,
+      "loudnorm": "-10.67,-0.12,3.90,-20.73,0.04",
+      "filename": "processed_4cbf03a5cb85e2874451a9f8aad8c2b0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

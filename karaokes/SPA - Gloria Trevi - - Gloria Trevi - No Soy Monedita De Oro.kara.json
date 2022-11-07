@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - No Soy Monedita De Oro.mp3",
+      "loudnorm": "-11.22,0.10,3.70,-21.29,0.02",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - No Soy Monedita De Oro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "818e9354-de48-4a0f-b703-aa57f7cb7a05",
+    "title": "Gloria Trevi - No Soy Monedita De Oro",
+    "titles": {
+      "spa": "Gloria Trevi - No Soy Monedita De Oro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:42:40.916Z",
+    "modified_at": "2022-11-03T05:42:41.343Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_94e88db3841327b59d19a686641c4915.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9121009,
+      "gain": -6.76,
+      "duration": 227,
+      "loudnorm": "-11.22,0.10,3.70,-21.29,0.02",
+      "filename": "processed_b1e89d543caa794fe6bd55a5f5fdba1c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

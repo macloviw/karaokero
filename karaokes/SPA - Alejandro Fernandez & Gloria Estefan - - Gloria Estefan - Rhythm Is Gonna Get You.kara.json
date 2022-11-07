@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Rhythm Is Gonna Get You.mp3",
+      "loudnorm": "-8.52,7.09,3.70,-18.57,-1.20",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Rhythm Is Gonna Get You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c65e66eb-e736-4ce2-8295-3dd357087814",
+    "title": "Gloria Estefan - Rhythm Is Gonna Get You",
+    "titles": {
+      "spa": "Gloria Estefan - Rhythm Is Gonna Get You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:52:37.703Z",
+    "modified_at": "2022-11-04T00:52:38.087Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_45906625c5f8af355cfa1f396af53cbb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3922849,
+      "gain": -9.03,
+      "duration": 245,
+      "loudnorm": "-8.52,7.09,3.70,-18.57,-1.20",
+      "filename": "processed_b30603e8833c0050bc7d0c5fbae49077.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

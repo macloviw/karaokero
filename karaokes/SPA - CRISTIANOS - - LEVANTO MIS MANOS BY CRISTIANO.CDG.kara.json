@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - LEVANTO MIS MANOS BY CRISTIANO.CDG.MP3",
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - LEVANTO MIS MANOS BY CRISTIANO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c5ccf0a1-3fd6-43e8-b11b-bb6d0aa7b303",
+    "title": "LEVANTO MIS MANOS BY CRISTIANO.CDG",
+    "titles": {
+      "spa": "LEVANTO MIS MANOS BY CRISTIANO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:04:30.659Z",
+    "modified_at": "2022-11-03T14:04:31.247Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5115788,
+      "gain": 0.52,
+      "duration": 319,
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "filename": "processed_f3abb24f6269cff6d86dd1975247f5bb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5115788,
+      "gain": 0.52,
+      "duration": 319,
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "filename": "processed_9480e24cca4a035e9aa3b33a14f8479d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

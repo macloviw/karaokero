@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - 02 - QUIMERAS.mp3",
+      "loudnorm": "-11.93,1.31,2.00,-22.02,-0.06",
+      "duration": 375,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - 02 - QUIMERAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "18515c20-b1ff-4434-b379-34dcec140eb2",
+    "title": "02 - QUIMERAS",
+    "titles": {
+      "spa": "02 - QUIMERAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:10:14.901Z",
+    "modified_at": "2022-11-03T03:10:15.323Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1db7c239fd65076ab79d4a8d0e1518a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6009094,
+      "gain": -4.62,
+      "duration": 375,
+      "loudnorm": "-11.93,1.31,2.00,-22.02,-0.06",
+      "filename": "processed_a4cfb50c84e347acc46cf4d32121e300.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAMBOY ESTEVES - - hoy no estoy para nadie.mp3",
+      "loudnorm": "-18.19,-3.21,10.50,-28.68,-0.89",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAMBOY ESTEVES - - hoy no estoy para nadie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7537d98f-aedd-4bcd-ad69-7c1354b9c9dc",
+    "title": "hoy no estoy para nadie",
+    "titles": {
+      "spa": "hoy no estoy para nadie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0dfcfcbc-120c-4694-bcc1-77026445f360"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:37:52.445Z",
+    "modified_at": "2022-11-03T02:37:52.868Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7354ef3ec94c88a4b5977f3d029a6c47.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4126815,
+      "gain": 1.47,
+      "duration": 171,
+      "loudnorm": "-18.19,-3.21,10.50,-28.68,-0.89",
+      "filename": "processed_e130c5875de662597ec4dfed4b23c6f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

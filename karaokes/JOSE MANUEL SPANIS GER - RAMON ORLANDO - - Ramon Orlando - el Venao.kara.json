@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - Ramon Orlando - el Venao.mp3",
+      "loudnorm": "-10.19,1.32,2.40,-20.33,0.14",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - Ramon Orlando - el Venao.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca096c6f-c6b5-4ebe-bf66-54e5d58798ab",
+    "title": "Ramon Orlando - el Venao",
+    "titles": {
+      "spa": "Ramon Orlando - el Venao"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a0a26cc0-ce64-4b52-9ab8-aa6d4927ebb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:58:49.487Z",
+    "modified_at": "2022-11-04T10:58:49.869Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03e1b6e2d40a978e9cef944b4834a900.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5433982,
+      "gain": -7.56,
+      "duration": 226,
+      "loudnorm": "-10.19,1.32,2.40,-20.33,0.14",
+      "filename": "processed_2e595272b737d3d013c88633cd728cf8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - DAVID BISBAL - QUIERO PERDERME EN TU CUERPO.MP3",
+      "loudnorm": "-16.45,-0.07,10.90,-26.81,-1.70",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - DAVID BISBAL - QUIERO PERDERME EN TU CUERPO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7045f7d3-0966-43b6-a17b-568a662faede",
+    "title": "DAVID BISBAL   -   QUIERO PERDERME EN TU CUERPO",
+    "titles": {
+      "spa": "DAVID BISBAL   -   QUIERO PERDERME EN TU CUERPO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:05:23.056Z",
+    "modified_at": "2022-11-03T04:05:23.667Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4027422,
+      "gain": -1.46,
+      "duration": 251,
+      "loudnorm": "-16.45,-0.07,10.90,-26.81,-1.70",
+      "filename": "processed_a0edc4da0a4fbc558359ab54366d62bf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4027422,
+      "gain": -1.46,
+      "duration": 251,
+      "loudnorm": "-16.45,-0.07,10.90,-26.81,-1.70",
+      "filename": "processed_7563a9f290f86aaa81059cae9a94fc54.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VILLALONA - - Fernando Villalona - Para olvidarme de ti.mp3",
+      "loudnorm": "-12.99,-1.29,5.40,-23.36,-1.23",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VILLALONA - - Fernando Villalona - Para olvidarme de ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "83922da2-a136-4686-9551-2edd8de24069",
+    "title": "Fernando Villalona   -   Para olvidarme de ti",
+    "titles": {
+      "spa": "Fernando Villalona   -   Para olvidarme de ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:18:11.321Z",
+    "modified_at": "2022-11-04T03:18:11.697Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e725086cc6f6e58171bd2725b3dc2e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2968024,
+      "gain": -4.95,
+      "duration": 185,
+      "loudnorm": "-12.99,-1.29,5.40,-23.36,-1.23",
+      "filename": "processed_36cced5ae3377f73986d08dc2f227711.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

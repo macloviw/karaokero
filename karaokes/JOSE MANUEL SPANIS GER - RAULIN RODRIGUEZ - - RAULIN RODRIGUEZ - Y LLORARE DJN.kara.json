@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ - Y LLORARE DJN.mp3",
+      "loudnorm": "-14.79,0.77,1.30,-24.88,-0.05",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ - Y LLORARE DJN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b373c1a-099d-44bb-b723-404bd4c3f4d2",
+    "title": "RAULIN RODRIGUEZ - Y LLORARE DJN",
+    "titles": {
+      "spa": "RAULIN RODRIGUEZ - Y LLORARE DJN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:20:23.233Z",
+    "modified_at": "2022-11-04T08:20:23.620Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7c6935554094013b87859f760b6ab3ef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4468697,
+      "gain": -2.52,
+      "duration": 278,
+      "loudnorm": "-14.79,0.77,1.30,-24.88,-0.05",
+      "filename": "processed_93f339edf9f0dfa2197f445519376049.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

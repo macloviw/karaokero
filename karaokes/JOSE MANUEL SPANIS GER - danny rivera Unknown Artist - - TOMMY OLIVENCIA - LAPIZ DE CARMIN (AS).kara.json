@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - TOMMY OLIVENCIA - LAPIZ DE CARMIN (AS).mp3",
+      "loudnorm": "-10.47,4.31,3.40,-20.70,-0.67",
+      "duration": 335,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - TOMMY OLIVENCIA - LAPIZ DE CARMIN (AS).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "82dfe6ad-2777-4b82-a29e-3efcd295b135",
+    "title": "TOMMY OLIVENCIA - LAPIZ DE CARMIN (AS)",
+    "titles": {
+      "spa": "TOMMY OLIVENCIA - LAPIZ DE CARMIN (AS)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:47:55.661Z",
+    "modified_at": "2022-11-04T08:47:56.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d0974f3de566dc5cc8e7ee58f9c8ffc3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 13419880,
+      "gain": -7.27,
+      "duration": 335,
+      "loudnorm": "-10.47,4.31,3.40,-20.70,-0.67",
+      "filename": "processed_2d3c700afefc3e1f5c78c69e5523a71f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

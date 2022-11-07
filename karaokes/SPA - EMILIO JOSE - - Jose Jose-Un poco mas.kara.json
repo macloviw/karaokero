@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Jose Jose-Un poco mas.mp3",
+      "loudnorm": "-6.90,12.10,6.90,-17.01,-1.30",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Jose Jose-Un poco mas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d579e25e-5d74-4881-8b6d-8c29c7ebf3b6",
+    "title": "José José-Un poco mas",
+    "titles": {
+      "spa": "José José-Un poco mas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:34:24.323Z",
+    "modified_at": "2022-11-03T07:34:24.722Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bcbea295cfc2dbdcec97691f04feea85.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2763012,
+      "gain": -10.84,
+      "duration": 172,
+      "loudnorm": "-6.90,12.10,6.90,-17.01,-1.30",
+      "filename": "processed_fd32d01070f829b3df8bea203d3aa144.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

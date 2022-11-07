@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLES AZNAVOUR - - YO TE DARE CALOR.MP3",
+      "loudnorm": "-16.34,0.37,4.60,-26.80,-0.42",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLES AZNAVOUR - - YO TE DARE CALOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e85fc2a-e45c-4cc2-8d88-6d70625d9fc6",
+    "title": "YO TE DARE CALOR",
+    "titles": {
+      "spa": "YO TE DARE CALOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "662909a5-fdf8-4eb2-aba8-527bad614f2b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:09:39.905Z",
+    "modified_at": "2022-11-03T03:09:40.355Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3329560,
+      "gain": -0.42,
+      "duration": 207,
+      "loudnorm": "-16.34,0.37,4.60,-26.80,-0.42",
+      "filename": "processed_f74f5e7c5b1c508d414b5c603046c417.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3329560,
+      "gain": -0.42,
+      "duration": 207,
+      "loudnorm": "-16.34,0.37,4.60,-26.80,-0.42",
+      "filename": "processed_531b476b0cc333f93b1e5b4bb108dd4c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

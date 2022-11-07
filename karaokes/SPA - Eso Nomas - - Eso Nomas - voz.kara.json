@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eso Nomas - - Eso Nomas - voz.mp3",
+      "loudnorm": "-17.86,-0.88,6.30,-28.14,-1.06",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eso Nomas - - Eso Nomas - voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "779f7d1d-55d3-475b-9798-3f00aca4d8d8",
+    "title": "Eso Nomas - voz",
+    "titles": {
+      "spa": "Eso Nomas - voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "647b2954-1183-44f8-8818-560c63d90573"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:15:32.528Z",
+    "modified_at": "2022-11-03T22:15:32.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6093a5067151122689a18963658239f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5886632,
+      "gain": 0.92,
+      "duration": 245,
+      "loudnorm": "-17.86,-0.88,6.30,-28.14,-1.06",
+      "filename": "processed_2f222000ee25106a49ef49a70c4edef4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

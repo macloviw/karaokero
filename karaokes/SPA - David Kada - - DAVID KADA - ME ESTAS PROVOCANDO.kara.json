@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Kada - - DAVID KADA - ME ESTAS PROVOCANDO.mp3",
+      "loudnorm": "-10.09,2.46,3.90,-20.19,-1.27",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Kada - - DAVID KADA - ME ESTAS PROVOCANDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bdad5cb4-ae27-4025-81a8-79faf1f86591",
+    "title": "DAVID KADA - ME ESTAS PROVOCANDO",
+    "titles": {
+      "spa": "DAVID KADA - ME ESTAS PROVOCANDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7d96dfe9-f1e8-4044-9985-7c1c577f5c83"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:01:10.271Z",
+    "modified_at": "2022-11-04T03:01:10.654Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b1fb3a0770aefd257ed3468d94371da.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4020027,
+      "gain": -7.84,
+      "duration": 251,
+      "loudnorm": "-10.09,2.46,3.90,-20.19,-1.27",
+      "filename": "processed_f3eead995deef2cbabd12e698a80e576.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

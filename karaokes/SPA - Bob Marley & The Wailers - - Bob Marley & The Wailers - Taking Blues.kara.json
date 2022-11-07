@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley & The Wailers - - Bob Marley & The Wailers - Taking Blues.mp3",
+      "loudnorm": "-14.37,1.49,3.40,-24.47,-0.65",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley & The Wailers - - Bob Marley & The Wailers - Taking Blues.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3ad20ba-c1a2-489b-87fa-db43d61181a4",
+    "title": "Bob Marley & The Wailers - Taking Blues",
+    "titles": {
+      "spa": "Bob Marley & The Wailers - Taking Blues"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b3214b8a-ccd2-4178-8fec-bfd365ff309c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:26:15.478Z",
+    "modified_at": "2022-11-03T02:26:15.910Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cb960204dfb1c68d68e775a756fadeca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4172581,
+      "gain": -5.6,
+      "duration": 260,
+      "loudnorm": "-14.37,1.49,3.40,-24.47,-0.65",
+      "filename": "processed_eb653e6d97bd811a77168b491b7ba7a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

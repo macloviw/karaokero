@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Me quiero morir LP.mp3",
+      "loudnorm": "-10.58,9.92,1.40,-20.62,-0.11",
+      "duration": 404,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Me quiero morir LP.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b16b85cc-f457-4e41-b203-2a927477d5c3",
+    "title": "Anthony Santos - Me quiero morir LP",
+    "titles": {
+      "spa": "Anthony Santos - Me quiero morir LP"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:12:49.149Z",
+    "modified_at": "2022-11-02T22:12:49.917Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_de87596307581ae0f6aaa12b2ec0c23d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6480760,
+      "gain": -8.37,
+      "duration": 404,
+      "loudnorm": "-10.58,9.92,1.40,-20.62,-0.11",
+      "filename": "processed_e1e76b4c61af7217a03f921cada066d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

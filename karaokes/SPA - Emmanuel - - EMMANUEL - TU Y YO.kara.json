@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - EMMANUEL - TU Y YO.mp3",
+      "loudnorm": "-15.56,-2.35,12.10,-26.04,-1.46",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - EMMANUEL - TU Y YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "acbde21c-167b-4459-b153-f4276a19de47",
+    "title": "EMMANUEL - TU Y YO",
+    "titles": {
+      "spa": "EMMANUEL - TU Y YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:45:50.943Z",
+    "modified_at": "2022-11-03T04:45:51.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6bebf06fddf8d69db7254ff894582f3b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3775393,
+      "gain": -1.45,
+      "duration": 235,
+      "loudnorm": "-15.56,-2.35,12.10,-26.04,-1.46",
+      "filename": "processed_69afae9c75fc454b18242d3dcf50762e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

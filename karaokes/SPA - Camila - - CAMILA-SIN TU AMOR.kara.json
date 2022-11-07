@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camila - - CAMILA-SIN TU AMOR.mp3",
+      "loudnorm": "-11.88,1.26,18.30,-23.56,-0.99",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camila - - CAMILA-SIN TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34448100-0cbe-41ba-a31b-d4e24f8832a4",
+    "title": "CAMILA-SIN TU AMOR",
+    "titles": {
+      "spa": "CAMILA-SIN TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b4e5c91-dc93-4341-8d71-2d3c8d03ce0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:44:25.920Z",
+    "modified_at": "2022-11-03T02:44:26.370Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9a829d9393cc7b4428931a9290ca6a5c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2522874,
+      "gain": -3.91,
+      "duration": 180,
+      "loudnorm": "-11.88,1.26,18.30,-23.56,-0.99",
+      "filename": "processed_b451fa1f19966579106415743ee7f00e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

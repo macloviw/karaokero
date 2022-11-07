@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - WILFRIDO VARGAS - - WILFRIDO VARGAS-EL AFRICANO.mp3",
+      "loudnorm": "-13.59,0.10,3.20,-23.64,-0.70",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - WILFRIDO VARGAS - - WILFRIDO VARGAS-EL AFRICANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31f8089e-a3d6-47df-8a15-9150934f4aaa",
+    "title": "WILFRIDO VARGAS-EL AFRICANO",
+    "titles": {
+      "spa": "WILFRIDO VARGAS-EL AFRICANO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "b9fc3b01-d314-412f-b660-7382901de128"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:21:10.352Z",
+    "modified_at": "2022-11-04T11:21:10.735Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f680c79f27f003ffc80186d94c1cc7fa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4667236,
+      "gain": -4.92,
+      "duration": 194,
+      "loudnorm": "-13.59,0.10,3.20,-23.64,-0.70",
+      "filename": "processed_15f0d02fc727df39166ae1ae6df21618.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

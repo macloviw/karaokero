@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - MENTIROSO_New1.mp3",
+      "loudnorm": "-12.68,0.38,7.50,-22.82,-1.11",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - MENTIROSO_New1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "868e2b40-3431-4ee2-b31f-3db8c535fc97",
+    "title": "MENTIROSO_New1",
+    "titles": {
+      "spa": "MENTIROSO_New1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:51:25.592Z",
+    "modified_at": "2022-11-03T11:51:26.008Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3ac4763df2b586a4dd08191969d0ebc8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3814726,
+      "gain": -5.24,
+      "duration": 238,
+      "loudnorm": "-12.68,0.38,7.50,-22.82,-1.11",
+      "filename": "processed_6479071f1a9b47d13c9989d02734bb88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

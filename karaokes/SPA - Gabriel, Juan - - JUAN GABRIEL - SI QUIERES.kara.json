@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - SI QUIERES.MP3",
+      "loudnorm": "-16.58,-2.26,3.60,-26.60,0.08",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - SI QUIERES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3657ca3-007d-4af7-9a18-ede0ddaa990c",
+    "title": "JUAN GABRIEL   -   SI QUIERES",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   SI QUIERES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:41:57.375Z",
+    "modified_at": "2022-11-03T07:41:57.995Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4226789,
+      "gain": -1.39,
+      "duration": 264,
+      "loudnorm": "-16.58,-2.26,3.60,-26.60,0.08",
+      "filename": "processed_f980809c8be9d55002044e5fefcc2148.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4226789,
+      "gain": -1.39,
+      "duration": 264,
+      "loudnorm": "-16.58,-2.26,3.60,-26.60,0.08",
+      "filename": "processed_930fbf4e2b8bb860adac84bdc758f7d6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

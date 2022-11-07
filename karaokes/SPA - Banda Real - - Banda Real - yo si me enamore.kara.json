@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - yo si me enamore.mp3",
+      "loudnorm": "-17.46,-0.39,3.60,-27.46,-0.34",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - yo si me enamore.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d4ed07c-6e3b-4614-8154-cd00254a3019",
+    "title": "Banda Real - yo si me enamore",
+    "titles": {
+      "spa": "Banda Real - yo si me enamore"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:40:52.765Z",
+    "modified_at": "2022-11-04T02:40:53.146Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cda9bbb3d789f85752fcaed1881f3919.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6075341,
+      "gain": 1.17,
+      "duration": 253,
+      "loudnorm": "-17.46,-0.39,3.60,-27.46,-0.34",
+      "filename": "processed_ba9175d44e3d0de171ab1cfe39978bca.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

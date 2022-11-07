@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - COMOHAN PASADO LOS AOS.mp3",
+      "loudnorm": "-11.03,0.54,2.20,-21.12,-0.01",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - COMOHAN PASADO LOS AOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4ce90d05-6b50-406f-aaef-3b57a96ee86f",
+    "title": "COMOHAN PASADO LOS AOS",
+    "titles": {
+      "spa": "COMOHAN PASADO LOS AOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:40:54.620Z",
+    "modified_at": "2022-11-03T12:40:55.135Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c073184418486d67796bf4ef17bf8f6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5043399,
+      "gain": -5.48,
+      "duration": 210,
+      "loudnorm": "-11.03,0.54,2.20,-21.12,-0.01",
+      "filename": "processed_e69a59aa80c6b4c59374cdaab89dc4f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

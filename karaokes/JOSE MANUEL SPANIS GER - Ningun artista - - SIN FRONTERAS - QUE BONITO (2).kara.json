@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Ningun artista - - SIN FRONTERAS - QUE BONITO (2).mp3",
+      "loudnorm": "-11.26,1.36,2.90,-21.29,-0.50",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Ningun artista - - SIN FRONTERAS - QUE BONITO (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "89fc0f96-0524-437b-9a7a-c98ff3d2ef21",
+    "title": "SIN FRONTERAS - QUE BONITO (2)",
+    "titles": {
+      "spa": "SIN FRONTERAS - QUE BONITO (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:57:48.006Z",
+    "modified_at": "2022-11-04T09:57:48.396Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a349ce6887da4ee92ec9df16d91aa06e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4284586,
+      "gain": -7.77,
+      "duration": 267,
+      "loudnorm": "-11.26,1.36,2.90,-21.29,-0.50",
+      "filename": "processed_7d008ea32750202ff1efb3d0d531b9eb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Alex Bueno-Que nadie opine.mp3",
+      "loudnorm": "-7.36,9.74,2.00,-17.54,0.17",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Alex Bueno-Que nadie opine.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81b248a7-a371-4f87-afec-caaafb9b26ea",
+    "title": "Alex Bueno-Que nadie opine",
+    "titles": {
+      "spa": "Alex Bueno-Que nadie opine"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:20:16.857Z",
+    "modified_at": "2022-11-04T11:20:17.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a3cb04b9896975e082fb2acfe0d5329.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3594639,
+      "gain": -10.71,
+      "duration": 224,
+      "loudnorm": "-7.36,9.74,2.00,-17.54,0.17",
+      "filename": "processed_a1600619c91f1247e1642417b4480e26.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

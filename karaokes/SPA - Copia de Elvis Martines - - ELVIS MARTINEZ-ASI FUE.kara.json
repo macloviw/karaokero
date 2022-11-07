@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Elvis Martines - - ELVIS MARTINEZ-ASI FUE.mp3",
+      "loudnorm": "-11.20,0.58,2.60,-21.35,-0.10",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Elvis Martines - - ELVIS MARTINEZ-ASI FUE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e162a5bd-e48c-46a3-b449-0db457a8ac5f",
+    "title": "ELVIS MARTINEZ-ASI FUE",
+    "titles": {
+      "spa": "ELVIS MARTINEZ-ASI FUE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "bd1ef7d5-d183-440a-8998-d6db7e8ec1a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:34:04.069Z",
+    "modified_at": "2022-11-02T23:34:04.549Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ffc55882d679429ed179930fd32e385a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7445202,
+      "gain": -7.92,
+      "duration": 310,
+      "loudnorm": "-11.20,0.58,2.60,-21.35,-0.10",
+      "filename": "processed_6b7fac262fa4b916f4bc732830c766b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

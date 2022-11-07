@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Daniel - - Danny Daniel - Nina No Te Pintes Tanto.mp3",
+      "loudnorm": "-15.38,0.14,3.60,-25.45,-0.11",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Daniel - - Danny Daniel - Nina No Te Pintes Tanto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a58162c3-54c2-42aa-856f-4e7125155849",
+    "title": "Danny Daniel - Nina No Te Pintes Tanto",
+    "titles": {
+      "spa": "Danny Daniel - Nina No Te Pintes Tanto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bc5eced1-bcf4-4da1-9422-d8cb15a13412"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:56:13.330Z",
+    "modified_at": "2022-11-03T03:56:13.754Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5316856156b76a7bfe976ac3d3c66587.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3886570,
+      "gain": -2.81,
+      "duration": 242,
+      "loudnorm": "-15.38,0.14,3.60,-25.45,-0.11",
+      "filename": "processed_fc971534a2289f07d68ea1b08b0a9477.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

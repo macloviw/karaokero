@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Tu Carcel.mp3",
+      "loudnorm": "-15.55,2.01,2.50,-25.60,0.14",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Tu Carcel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85912f8d-0ebb-44ce-95d4-cfab53434aa6",
+    "title": "Anthony Santos - Tu Carcel",
+    "titles": {
+      "spa": "Anthony Santos - Tu Carcel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:22:04.222Z",
+    "modified_at": "2022-11-02T22:22:04.830Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9bcdba5f8e7e49a7c7c8d0fef74f199f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4460975,
+      "gain": -4.41,
+      "duration": 278,
+      "loudnorm": "-15.55,2.01,2.50,-25.60,0.14",
+      "filename": "processed_6cc6637bfd20bc502535dfe4af7341b2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

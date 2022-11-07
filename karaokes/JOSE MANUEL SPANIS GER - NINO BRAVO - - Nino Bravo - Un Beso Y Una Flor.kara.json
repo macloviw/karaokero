@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - Nino Bravo - Un Beso Y Una Flor.mp3",
+      "loudnorm": "-9.63,6.85,8.50,-19.92,-1.36",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NINO BRAVO - - Nino Bravo - Un Beso Y Una Flor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87cefe3f-a0e9-47fc-b40c-35b2341be597",
+    "title": "Nino Bravo - Un Beso Y Una Flor",
+    "titles": {
+      "spa": "Nino Bravo - Un Beso Y Una Flor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:44:26.353Z",
+    "modified_at": "2022-11-04T07:44:26.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_94cb5af4a123e02035adb2a3fd8b5a9f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4628236,
+      "gain": -8.43,
+      "duration": 289,
+      "loudnorm": "-9.63,6.85,8.50,-19.92,-1.36",
+      "filename": "processed_9fb83b38728742c98f61216881eb410f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

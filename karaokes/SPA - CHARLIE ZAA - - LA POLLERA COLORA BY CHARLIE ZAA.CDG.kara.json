@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - LA POLLERA COLORA BY CHARLIE ZAA.CDG.MP3",
+      "loudnorm": "-9.85,3.49,2.20,-19.94,-0.81",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - LA POLLERA COLORA BY CHARLIE ZAA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "979298a3-0b4c-402e-9f3b-673bf1dc9ff3",
+    "title": "LA POLLERA COLORA BY CHARLIE ZAA.CDG",
+    "titles": {
+      "spa": "LA POLLERA COLORA BY CHARLIE ZAA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:13:00.883Z",
+    "modified_at": "2022-11-03T03:13:01.359Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4183321,
+      "gain": -6.61,
+      "duration": 261,
+      "loudnorm": "-9.85,3.49,2.20,-19.94,-0.81",
+      "filename": "processed_f4a3d00ffabe41e843694c953ad81901.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4183321,
+      "gain": -6.61,
+      "duration": 261,
+      "loudnorm": "-9.85,3.49,2.20,-19.94,-0.81",
+      "filename": "processed_7b17f914f2d0924cc5d30e456b45ad75.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

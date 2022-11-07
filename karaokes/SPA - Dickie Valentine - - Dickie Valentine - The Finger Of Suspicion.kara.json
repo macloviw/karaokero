@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dickie Valentine - - Dickie Valentine - The Finger Of Suspicion.mp3",
+      "loudnorm": "-14.78,0.09,4.20,-24.82,-0.70",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dickie Valentine - - Dickie Valentine - The Finger Of Suspicion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b4c42e8e-8009-4b97-bb0b-300836ecd680",
+    "title": "Dickie Valentine - The Finger Of Suspicion",
+    "titles": {
+      "spa": "Dickie Valentine - The Finger Of Suspicion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a37558ea-d447-4254-86b3-134ec63451c5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:20:57.227Z",
+    "modified_at": "2022-11-04T00:20:57.614Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca1e095f1d2129fc7df2d8a2c83e16aa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2917869,
+      "gain": -2.95,
+      "duration": 182,
+      "loudnorm": "-14.78,0.09,4.20,-24.82,-0.70",
+      "filename": "processed_644996a28bbf400094000c708e9f1269.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

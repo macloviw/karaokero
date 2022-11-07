@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Poder Del Norte - - SP-460495_El Poder Del Norte_Enamorate De Alguien_scl1564-01.mp3",
+      "loudnorm": "-12.18,0.27,2.50,-22.27,-0.70",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Poder Del Norte - - SP-460495_El Poder Del Norte_Enamorate De Alguien_scl1564-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12afdd38-f576-41a6-8ad1-70799516ff8a",
+    "title": "SP-460495_El Poder Del Norte_Enamórate De Alguien_scl1564-01",
+    "titles": {
+      "spa": "SP-460495_El Poder Del Norte_Enamórate De Alguien_scl1564-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "153e976b-ccac-423f-89a1-5c150c4683a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:05:03.310Z",
+    "modified_at": "2022-11-03T22:05:03.734Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1b0586ee198efe97d88e1059acb45357.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3856522,
+      "gain": -3.99,
+      "duration": 241,
+      "loudnorm": "-12.18,0.27,2.50,-22.27,-0.70",
+      "filename": "processed_a765c92a8c01a746d44cb127f10a89ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

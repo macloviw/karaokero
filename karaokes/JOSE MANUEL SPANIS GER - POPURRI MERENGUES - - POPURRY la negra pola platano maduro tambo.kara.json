@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - POPURRI MERENGUES - - POPURRY la negra pola platano maduro tambo.MP3",
+      "loudnorm": "-10.32,4.28,2.60,-20.34,-0.19",
+      "duration": 374,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - POPURRI MERENGUES - - POPURRY la negra pola platano maduro tambo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e56493d0-1739-4efe-bd7f-bc1ea6c1602c",
+    "title": "POPURRY la negra pola platano maduro tambo",
+    "titles": {
+      "spa": "POPURRY la negra pola platano maduro tambo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "0288d228-5642-42dd-8358-d188da27cbad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:55:29.236Z",
+    "modified_at": "2022-11-04T10:55:29.847Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5986944,
+      "gain": -9.38,
+      "duration": 374,
+      "loudnorm": "-10.32,4.28,2.60,-20.34,-0.19",
+      "filename": "processed_539e5717e4fa0bad1fe42560193db81b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5986944,
+      "gain": -9.38,
+      "duration": 374,
+      "loudnorm": "-10.32,4.28,2.60,-20.34,-0.19",
+      "filename": "processed_1fedc899edcfa9800145771b1302ae7c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

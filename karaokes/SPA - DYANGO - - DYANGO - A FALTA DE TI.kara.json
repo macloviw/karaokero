@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DYANGO - - DYANGO - A FALTA DE TI.mp3",
+      "loudnorm": "-11.39,0.19,3.40,-21.47,-0.99",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DYANGO - - DYANGO - A FALTA DE TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4ee5ca0b-a737-4a25-9c25-3ba608706d54",
+    "title": "DYANGO - A FALTA DE TI",
+    "titles": {
+      "spa": "DYANGO - A FALTA DE TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dfe7efba-e53e-412b-98c6-fec7cea6e924"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:17:16.141Z",
+    "modified_at": "2022-11-03T04:17:16.563Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c230f05d93ac89c61c7eaff01cf84b8d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8582028,
+      "gain": -5.74,
+      "duration": 214,
+      "loudnorm": "-11.39,0.19,3.40,-21.47,-0.99",
+      "filename": "processed_243b74b235e5bf0872707829808cc680.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

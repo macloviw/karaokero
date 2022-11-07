@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - George Michael - - George Michael - faith.mp3",
+      "loudnorm": "-20.66,0.49,6.90,-31.11,-1.83",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - George Michael - - George Michael - faith.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f29868b-644d-4a32-9ab9-3e799186f05f",
+    "title": "George Michael - faith",
+    "titles": {
+      "spa": "George Michael - faith"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3e248bac-31b5-4e16-9daa-c472e0d78fd0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:51:01.033Z",
+    "modified_at": "2022-11-04T00:51:01.424Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8debfcf5422923177526ba41ddba4235.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3202499,
+      "gain": 2.4,
+      "duration": 200,
+      "loudnorm": "-20.66,0.49,6.90,-31.11,-1.83",
+      "filename": "processed_b41945ea6a94e75e21dec14e602ee167.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

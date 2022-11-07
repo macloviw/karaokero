@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY PENA - - Andy Pena - Quiero volar.mp3",
+      "loudnorm": "-11.43,3.37,2.50,-21.47,-0.62",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY PENA - - Andy Pena - Quiero volar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a81d2a44-8b18-4dcd-812a-62ee2e8f5442",
+    "title": "Andy Peña - Quiero volar",
+    "titles": {
+      "spa": "Andy Peña - Quiero volar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b63e83fb-55e4-44fa-a3dd-341983d37a91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:25:41.052Z",
+    "modified_at": "2022-11-04T02:25:41.436Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f85fa8c807c5c6279e152bc08ba17f98.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3722990,
+      "gain": -6.22,
+      "duration": 265,
+      "loudnorm": "-11.43,3.37,2.50,-21.47,-0.62",
+      "filename": "processed_263d51e5e9971a06203f2d8aa205edc6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

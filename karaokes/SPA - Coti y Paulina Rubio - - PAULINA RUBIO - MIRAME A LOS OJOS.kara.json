@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - MIRAME A LOS OJOS.MP3",
+      "loudnorm": "-11.90,0.91,4.00,-21.95,-0.21",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - MIRAME A LOS OJOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87e0b13f-a9ec-4d13-83aa-b812390bedab",
+    "title": "PAULINA RUBIO   -   MIRAME A LOS OJOS",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   MIRAME A LOS OJOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:17:47.414Z",
+    "modified_at": "2022-11-03T11:17:48.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9661223,
+      "gain": -5.83,
+      "duration": 241,
+      "loudnorm": "-11.90,0.91,4.00,-21.95,-0.21",
+      "filename": "processed_457d5a410d3bc97f6f01a1fdbf442cf0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9661223,
+      "gain": -5.83,
+      "duration": 241,
+      "loudnorm": "-11.90,0.91,4.00,-21.95,-0.21",
+      "filename": "processed_06be9745dc87f1d03b87f6455120eb4c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - No Artist - - 01 -Fuiste Mia Un Verano Leonardo Favio.mp3",
+      "loudnorm": "-12.19,0.60,7.40,-22.45,-1.01",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - No Artist - - 01 -Fuiste Mia Un Verano Leonardo Favio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f730417f-feb0-46f8-ae54-51a5a5825363",
+    "title": "01 -Fuiste Mia Un Verano Leonardo Favio",
+    "titles": {
+      "spa": "01 -Fuiste Mia Un Verano Leonardo Favio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:44:59.545Z",
+    "modified_at": "2022-11-04T07:44:59.912Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f0ab6857ce2a5a80cac61f7281c5962b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3384182,
+      "gain": -7.1,
+      "duration": 211,
+      "loudnorm": "-12.19,0.60,7.40,-22.45,-1.01",
+      "filename": "processed_7904d52312b6257bdbaf3d3f066b925b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

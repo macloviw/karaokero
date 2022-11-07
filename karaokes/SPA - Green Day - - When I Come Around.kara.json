@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Green Day - - When I Come Around.mp3",
+      "loudnorm": "-24.30,-9.93,2.40,-34.40,-0.32",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Green Day - - When I Come Around.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bc6bcc2d-8fce-49c0-b656-12c66083e8b0",
+    "title": "When I Come Around",
+    "titles": {
+      "spa": "When I Come Around"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "ecae45cb-656d-4434-ba3a-b6521b25499e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:57:03.218Z",
+    "modified_at": "2022-11-02T21:57:04.251Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7bb741d35859e7a2bb16784101cc61fe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3022983,
+      "gain": 6.97,
+      "duration": 188,
+      "loudnorm": "-24.30,-9.93,2.40,-34.40,-0.32",
+      "filename": "processed_1f348f1f0986b381aae8a1e25d47851c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

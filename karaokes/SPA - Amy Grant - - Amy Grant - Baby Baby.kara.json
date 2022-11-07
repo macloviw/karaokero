@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Amy Grant - - Amy Grant - Baby Baby.mp3",
+      "loudnorm": "-19.30,-0.78,4.40,-29.44,-0.88",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Amy Grant - - Amy Grant - Baby Baby.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c11efad9-54e1-470d-91cd-52559d27c056",
+    "title": "Amy Grant - Baby Baby",
+    "titles": {
+      "spa": "Amy Grant - Baby Baby"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3060d916-891e-4334-9aea-e250b913cf98"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:53:35.491Z",
+    "modified_at": "2022-11-03T23:53:35.868Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a75688e6525e08a29895a5401f169037.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3800181,
+      "gain": 1.27,
+      "duration": 237,
+      "loudnorm": "-19.30,-0.78,4.40,-29.44,-0.88",
+      "filename": "processed_a6d59f910d041460e11af051f4121c8c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

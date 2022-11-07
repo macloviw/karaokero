@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Everybody - - Everybody - Talking.mp3",
+      "loudnorm": "-12.94,0.14,1.30,-23.18,-0.80",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Everybody - - Everybody - Talking.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d904015-bf03-49f7-a0ae-d2c5394bc150",
+    "title": "Everybody - Talking",
+    "titles": {
+      "spa": "Everybody - Talking"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9c07e118-9003-40b1-b4b1-a3c48c013b07"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:39:28.650Z",
+    "modified_at": "2022-11-04T00:39:29.030Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9248c8c37f6e41980154dbc973446af8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3711658,
+      "gain": -3.71,
+      "duration": 185,
+      "loudnorm": "-12.94,0.14,1.30,-23.18,-0.80",
+      "filename": "processed_4cc2d5a900803c5b90e23e8c3658ca41.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

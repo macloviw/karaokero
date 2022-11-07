@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - 4 con un mismo corazon.mp3",
+      "loudnorm": "-11.55,0.09,2.60,-21.58,-0.42",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - 4 con un mismo corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1ef3455-155a-4bee-8237-9a4cd18bd49a",
+    "title": "4 con un mismo corazon",
+    "titles": {
+      "spa": "4 con un mismo corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:39:14.150Z",
+    "modified_at": "2022-11-03T01:39:14.574Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d53cbba753805eeaaf528f6ba31c525d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5558743,
+      "gain": -5.8,
+      "duration": 231,
+      "loudnorm": "-11.55,0.09,2.60,-21.58,-0.42",
+      "filename": "processed_d157c558741e10ce6882d73269a3887e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

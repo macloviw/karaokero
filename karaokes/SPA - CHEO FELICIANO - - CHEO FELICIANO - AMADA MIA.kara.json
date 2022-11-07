@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - AMADA MIA.mp3",
+      "loudnorm": "-16.09,-1.02,3.20,-26.25,-0.62",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - AMADA MIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1973ddf2-54e2-4b37-9a34-eba5adfab663",
+    "title": "CHEO FELICIANO   -  AMADA MIA",
+    "titles": {
+      "spa": "CHEO FELICIANO   -  AMADA MIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d01c2c87-0edc-4494-b664-c796d8d06e3d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:25:12.546Z",
+    "modified_at": "2022-11-03T03:25:12.996Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6e353d18f58308b2d03cd5f2c3211918.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6559337,
+      "gain": -1.63,
+      "duration": 273,
+      "loudnorm": "-16.09,-1.02,3.20,-26.25,-0.62",
+      "filename": "processed_9d7b4f77b39f73aca656c200a66df0de.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

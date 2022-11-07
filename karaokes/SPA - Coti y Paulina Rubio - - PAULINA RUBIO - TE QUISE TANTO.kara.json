@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - TE QUISE TANTO.MP3",
+      "loudnorm": "-15.05,-1.78,5.30,-25.09,-0.94",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - TE QUISE TANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "941e1e63-add6-42db-a36a-bcb9387ccf95",
+    "title": "PAULINA RUBIO   -   TE QUISE TANTO",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   TE QUISE TANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:19:00.785Z",
+    "modified_at": "2022-11-03T11:19:01.252Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3426397,
+      "gain": -2.57,
+      "duration": 214,
+      "loudnorm": "-15.05,-1.78,5.30,-25.09,-0.94",
+      "filename": "processed_35331a33772c2e3e9f2650336d50f90c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3426397,
+      "gain": -2.57,
+      "duration": 214,
+      "loudnorm": "-15.05,-1.78,5.30,-25.09,-0.94",
+      "filename": "processed_a3259e9a033015d0e3f667e857649888.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Basement Jaxx - - Basement Jaxx - Where's Your Head At.mp3",
+      "loudnorm": "-12.66,1.00,3.80,-22.73,-0.17",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Basement Jaxx - - Basement Jaxx - Where's Your Head At.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7c52712f-c5d5-43a7-bdee-7c63e32aec83",
+    "title": "Basement Jaxx - Where's Your Head At",
+    "titles": {
+      "spa": "Basement Jaxx - Where's Your Head At"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d8150bbf-bf07-437e-8719-45ae065447f9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:58:56.312Z",
+    "modified_at": "2022-11-03T23:58:56.702Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7173c3ffe1db398290dba6bc3ab7f174.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4914460,
+      "gain": -4.85,
+      "duration": 307,
+      "loudnorm": "-12.66,1.00,3.80,-22.73,-0.17",
+      "filename": "processed_d992f4f97443e5fc68be06bb060ffe05.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Creed - - My Sacrifice.mp3",
+      "loudnorm": "-12.13,0.98,4.50,-22.26,-0.75",
+      "duration": 314,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Creed - - My Sacrifice.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef4e63f5-bd84-4907-b74e-eec53d0eb9ec",
+    "title": "My Sacrifice",
+    "titles": {
+      "spa": "My Sacrifice"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "8db4b37a-8504-46a9-a70e-337c207b850e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:57:51.185Z",
+    "modified_at": "2022-11-02T21:57:51.751Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3bdc84113a5117e9f2a3902ce04ccfd7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5030235,
+      "gain": -4.06,
+      "duration": 314,
+      "loudnorm": "-12.13,0.98,4.50,-22.26,-0.75",
+      "filename": "processed_bb7db1098a78bd2dcb0266d304d80397.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

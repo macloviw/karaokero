@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno - Quiero Abrazarte Tanto.mp3",
+      "loudnorm": "-12.88,0.86,3.40,-23.08,-0.49",
+      "duration": 322,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno - Quiero Abrazarte Tanto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba912d17-e019-4937-9a59-77bc61e67344",
+    "title": "Alex Bueno - Quiero Abrazarte Tanto",
+    "titles": {
+      "spa": "Alex Bueno - Quiero Abrazarte Tanto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:19:33.674Z",
+    "modified_at": "2022-11-04T02:19:34.058Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f2a5b301147a7b07c77c49a44a9e1798.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7753145,
+      "gain": -4.9,
+      "duration": 322,
+      "loudnorm": "-12.88,0.86,3.40,-23.08,-0.49",
+      "filename": "processed_15301e2fec537e849c9555e919aa483e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - El Chicle Se Me Pego.mp3",
+      "loudnorm": "-8.95,4.89,2.70,-19.06,-0.82",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - El Chicle Se Me Pego.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "af5edd0d-38ec-4b44-a88f-73ddbe33c876",
+    "title": "Anthony Santos - El Chicle Se Me Pego.",
+    "titles": {
+      "spa": "Anthony Santos - El Chicle Se Me Pego."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:06:06.526Z",
+    "modified_at": "2022-11-02T22:06:07.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca109d528a0b73b6fa272a8cc9bdd570.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6821278,
+      "gain": -8.44,
+      "duration": 284,
+      "loudnorm": "-8.95,4.89,2.70,-19.06,-0.82",
+      "filename": "processed_990d236001f8f6b35144220f84e83a98.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

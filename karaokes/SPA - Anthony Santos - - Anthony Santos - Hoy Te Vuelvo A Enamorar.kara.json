@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Hoy Te Vuelvo A Enamorar.mp3",
+      "loudnorm": "-14.38,1.69,2.10,-24.44,0.17",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Hoy Te Vuelvo A Enamorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2a7fffcd-7e41-4797-93ad-5b7fabb8fdc6",
+    "title": "Anthony Santos - Hoy Te Vuelvo A Enamorar",
+    "titles": {
+      "spa": "Anthony Santos - Hoy Te Vuelvo A Enamorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:07:37.332Z",
+    "modified_at": "2022-11-02T22:07:37.934Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_60b5abefeb179130c7daa8e0e55135bd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3316603,
+      "gain": -3.75,
+      "duration": 207,
+      "loudnorm": "-14.38,1.69,2.10,-24.44,0.17",
+      "filename": "processed_39526a5af69ef09f2f801df58a968b35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

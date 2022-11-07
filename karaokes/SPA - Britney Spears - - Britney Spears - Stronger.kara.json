@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Britney Spears - - Britney Spears - Stronger.mp3",
+      "loudnorm": "-8.46,2.55,4.90,-18.82,-0.60",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Britney Spears - - Britney Spears - Stronger.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6b0cb36-9f66-4031-935c-5e4dcc91636b",
+    "title": "Britney Spears - Stronger",
+    "titles": {
+      "spa": "Britney Spears - Stronger"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "1730868a-1882-4a56-b682-529f88d74565"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:53:06.394Z",
+    "modified_at": "2022-11-03T13:53:06.807Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fc990815e3c96db783806e0d4fe98491.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3388697,
+      "gain": -8.59,
+      "duration": 211,
+      "loudnorm": "-8.46,2.55,4.90,-18.82,-0.60",
+      "filename": "processed_4b7a852d4e0f8729ecb3c0577eea4453.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

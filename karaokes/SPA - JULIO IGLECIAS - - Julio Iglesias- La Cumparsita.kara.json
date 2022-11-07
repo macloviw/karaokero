@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- La Cumparsita.mp3",
+      "loudnorm": "-18.13,-2.17,7.40,-28.17,0.76",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- La Cumparsita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "86d3faab-81f0-4b06-9fe1-567ede6363ad",
+    "title": "Julio Iglesias- La Cumparsita",
+    "titles": {
+      "spa": "Julio Iglesias- La Cumparsita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:04:38.332Z",
+    "modified_at": "2022-11-03T08:04:38.751Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6b976937d033c359f68e60d1b4b3ab39.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2599801,
+      "gain": -1.48,
+      "duration": 162,
+      "loudnorm": "-18.13,-2.17,7.40,-28.17,0.76",
+      "filename": "processed_c51f7d1c92cf822204f59c6e9a70c523.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE - UNA MANANA.MP3",
+      "loudnorm": "-9.49,1.00,4.70,-19.57,-1.20",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE - UNA MANANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "22e4b40a-740f-43d8-ae8a-1baf3f2731ca",
+    "title": "JOSE JOSE   -   UNA MAÑANA",
+    "titles": {
+      "spa": "JOSE JOSE   -   UNA MAÑANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:54:28.667Z",
+    "modified_at": "2022-11-03T06:54:29.192Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3043964,
+      "gain": -8.91,
+      "duration": 190,
+      "loudnorm": "-9.49,1.00,4.70,-19.57,-1.20",
+      "filename": "processed_110e776af3192e611d658a5c36c5b123.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3043964,
+      "gain": -8.91,
+      "duration": 190,
+      "loudnorm": "-9.49,1.00,4.70,-19.57,-1.20",
+      "filename": "processed_835e8279175270632e39ce1ca964ae3a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

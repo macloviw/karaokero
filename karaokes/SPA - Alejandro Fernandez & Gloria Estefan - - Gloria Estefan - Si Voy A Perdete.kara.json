@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Si Voy A Perdete.mp3",
+      "loudnorm": "-15.51,0.93,7.40,-25.67,-0.99",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Si Voy A Perdete.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2b654a1-24ef-49fe-9cc9-721f461a90fc",
+    "title": "Gloria Estefan - Si Voy A Perdete",
+    "titles": {
+      "spa": "Gloria Estefan - Si Voy A Perdete"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:38:17.244Z",
+    "modified_at": "2022-11-03T05:38:17.658Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_035eae522e2b7ecf06705bce8d56a5e4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3954826,
+      "gain": -1.99,
+      "duration": 247,
+      "loudnorm": "-15.51,0.93,7.40,-25.67,-0.99",
+      "filename": "processed_ffb451bac429c1e5b8431867fb5e5f31.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

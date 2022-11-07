@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Big Bopper - - Big Bopper - Chantilly Lace.mp3",
+      "loudnorm": "-14.32,0.57,5.00,-24.78,-1.00",
+      "duration": 142,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Big Bopper - - Big Bopper - Chantilly Lace.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94fb0f92-15d1-46e6-9352-0559761cfe9b",
+    "title": "Big Bopper - Chantilly Lace",
+    "titles": {
+      "spa": "Big Bopper - Chantilly Lace"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "0f46bd67-5aa8-4f99-bb2f-fd28a958c07b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:01:03.415Z",
+    "modified_at": "2022-11-04T00:01:03.797Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_69bf1de8ac4ef87d78441413befccfae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2274630,
+      "gain": -3.51,
+      "duration": 142,
+      "loudnorm": "-14.32,0.57,5.00,-24.78,-1.00",
+      "filename": "processed_f8a354d8651d4909de8b6de022b41779.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

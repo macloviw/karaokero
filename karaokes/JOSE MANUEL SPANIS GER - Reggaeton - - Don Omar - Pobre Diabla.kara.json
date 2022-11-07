@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Reggaeton - - Don Omar - Pobre Diabla.mp3",
+      "loudnorm": "-13.18,0.87,4.30,-23.22,-0.83",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Reggaeton - - Don Omar - Pobre Diabla.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e7fdf321-06aa-40ff-9fc3-59061e7dd154",
+    "title": "Don Omar - Pobre Diabla",
+    "titles": {
+      "spa": "Don Omar - Pobre Diabla"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:45:36.488Z",
+    "modified_at": "2022-11-04T11:45:36.905Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_07990245a4019d6a1e7cf0960af03cce.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4196406,
+      "gain": -5.41,
+      "duration": 262,
+      "loudnorm": "-13.18,0.87,4.30,-23.22,-0.83",
+      "filename": "processed_a20217c537059add99ad70b7d9aed355.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

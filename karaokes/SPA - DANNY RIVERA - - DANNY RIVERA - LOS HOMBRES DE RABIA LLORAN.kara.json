@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - LOS HOMBRES DE RABIA LLORAN.mp3",
+      "loudnorm": "-14.50,0.50,8.80,-24.74,-0.27",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - DANNY RIVERA - LOS HOMBRES DE RABIA LLORAN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "177c673a-10f6-4eb8-8c31-cf228cdd801f",
+    "title": "DANNY RIVERA - LOS HOMBRES DE RABIA LLORAN",
+    "titles": {
+      "spa": "DANNY RIVERA - LOS HOMBRES DE RABIA LLORAN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:00:15.230Z",
+    "modified_at": "2022-11-04T03:00:15.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1327de2c18179c34100778b5b23a97ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9103205,
+      "gain": -3.67,
+      "duration": 227,
+      "loudnorm": "-14.50,0.50,8.80,-24.74,-0.27",
+      "filename": "processed_72a8c09ba882001e9c6219058e6584fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

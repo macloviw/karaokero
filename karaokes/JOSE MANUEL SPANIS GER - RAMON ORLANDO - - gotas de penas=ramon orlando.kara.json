@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - gotas de penas=ramon orlando.MP3",
+      "loudnorm": "-14.46,0.95,4.30,-24.53,-0.52",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAMON ORLANDO - - gotas de penas=ramon orlando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b3d8b19-be33-4548-9c3c-39b17efc20fa",
+    "title": "gotas de penas=ramon orlando",
+    "titles": {
+      "spa": "gotas de penas=ramon orlando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a0a26cc0-ce64-4b52-9ab8-aa6d4927ebb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:58:27.644Z",
+    "modified_at": "2022-11-04T10:58:28.338Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6847888,
+      "gain": -5.4,
+      "duration": 285,
+      "loudnorm": "-14.46,0.95,4.30,-24.53,-0.52",
+      "filename": "processed_14c07999ba0731949347b48d0da55143.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6847888,
+      "gain": -5.4,
+      "duration": 285,
+      "loudnorm": "-14.46,0.95,4.30,-24.53,-0.52",
+      "filename": "processed_fb3394ecb80e99e9c17bee5222a87466.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

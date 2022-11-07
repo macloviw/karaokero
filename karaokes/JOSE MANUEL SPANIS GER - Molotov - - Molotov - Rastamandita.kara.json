@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Molotov - - Molotov - Rastamandita.mp3",
+      "loudnorm": "-14.40,0.60,3.20,-24.48,-0.55",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Molotov - - Molotov - Rastamandita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94fb5ad1-8438-4ad1-b111-a23703f88187",
+    "title": "Molotov - Rastamandita",
+    "titles": {
+      "spa": "Molotov - Rastamandita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d8871f50-bdb1-49fc-8476-da5b985ed95b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:31:24.604Z",
+    "modified_at": "2022-11-04T07:31:24.989Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a905a6c3695de8d305d9cf2ce826bcff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5775664,
+      "gain": -4.34,
+      "duration": 240,
+      "loudnorm": "-14.40,0.60,3.20,-24.48,-0.55",
+      "filename": "processed_7e51d752185b23769250cc7ef871b17e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

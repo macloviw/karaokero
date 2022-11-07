@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - POR TU AMOR.MP3",
+      "loudnorm": "-25.75,-11.46,4.60,-35.81,0.23",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - POR TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "206098f2-bf29-4836-99fc-9f92f4fc1d9c",
+    "title": "CHARLIE ZAA   -   POR TU AMOR",
+    "titles": {
+      "spa": "CHARLIE ZAA   -   POR TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:11:20.013Z",
+    "modified_at": "2022-11-03T03:11:20.574Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3028082,
+      "gain": 7.35,
+      "duration": 189,
+      "loudnorm": "-25.75,-11.46,4.60,-35.81,0.23",
+      "filename": "processed_d535306bf6b0ba21905fb0d99c8218a8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3028082,
+      "gain": 7.35,
+      "duration": 189,
+      "loudnorm": "-25.75,-11.46,4.60,-35.81,0.23",
+      "filename": "processed_576d61562be5c7d31193d752119bb72e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

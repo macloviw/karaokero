@@ -1,0 +1,51 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - - CM - Vivir mi vida Marc.mp3",
+      "audiogain": -4.86,
+      "loudnorm": "-11.52,3.47,3.90,-21.57,-0.75",
+      "filesize": 8756239,
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - - CM - Vivir mi vida Marc.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-10-24T21:50:04.401Z",
+    "ignoreHooks": false,
+    "kid": "885ec101-46d5-4d72-8848-781e26356c43",
+    "modified_at": "2022-10-24T21:50:05.260Z",
+    "repository": "Local",
+    "tags": {
+      "authors": [
+        "ee7bbd52-7328-4346-a0f7-eb7d4b205ea8"
+      ],
+      "collections": [
+        "efe171c0-e8a1-4d03-98c0-60ecf741ad52"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "songtypes": [
+        "2ddb5358-e674-46fa-a6e1-7f5c5d56f8fa"
+      ]
+    },
+    "titles": {
+      "spa": "Vivir mi vida Marc"
+    },
+    "titles_default_language": "spa",
+    "title": "Vivir mi vida Marc",
+    "year": 2022
+  }
+}

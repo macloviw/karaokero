@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Basilio - - BASILIO - TE QUIERO A TI.mp3",
+      "loudnorm": "-20.01,-1.90,5.70,-30.25,-0.70",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Basilio - - BASILIO - TE QUIERO A TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "71010edd-8d84-453f-bc5d-45a5e89d549e",
+    "title": "BASILIO - TE QUIERO A TI",
+    "titles": {
+      "spa": "BASILIO - TE QUIERO A TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b4f31aa-3c62-47b0-9cc9-276825c48da9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:11:22.133Z",
+    "modified_at": "2022-11-03T02:11:23.034Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_52183ee3a5b98137beafcfc3cabe2f38.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4635262,
+      "gain": 2.48,
+      "duration": 193,
+      "loudnorm": "-20.01,-1.90,5.70,-30.25,-0.70",
+      "filename": "processed_be106c967394f3726287a65d8f1c7809.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

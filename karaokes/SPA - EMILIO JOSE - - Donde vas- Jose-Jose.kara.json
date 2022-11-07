@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Donde vas- Jose-Jose.mp3",
+      "loudnorm": "-13.43,0.03,12.70,-24.00,-1.54",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Donde vas- Jose-Jose.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a7c70728-1c75-40f9-b14a-ae4f788f4744",
+    "title": "Donde vas- Josè-Josè",
+    "titles": {
+      "spa": "Donde vas- Josè-Josè"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:49:43.418Z",
+    "modified_at": "2022-11-03T06:49:43.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_af3b09244f03622db86665446f0ab75d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4724287,
+      "gain": -3.94,
+      "duration": 196,
+      "loudnorm": "-13.43,0.03,12.70,-24.00,-1.54",
+      "filename": "processed_b6962630eff062b09270ebb1e3c5b632.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

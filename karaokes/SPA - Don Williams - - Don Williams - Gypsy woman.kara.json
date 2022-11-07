@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Don Williams - - Don Williams - Gypsy woman.mp3",
+      "loudnorm": "-17.73,-1.69,1.50,-27.80,-0.36",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Don Williams - - Don Williams - Gypsy woman.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "77fa5bb5-ff5a-4acc-8324-5e3ce31ddfcc",
+    "title": "Don Williams - Gypsy woman",
+    "titles": {
+      "spa": "Don Williams - Gypsy woman"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e8f4b449-9335-4b77-8c53-b442d80009f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:22:08.429Z",
+    "modified_at": "2022-11-04T00:22:08.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_102fe6cffe61d74df2a5920636b2839f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3441990,
+      "gain": 2.95,
+      "duration": 215,
+      "loudnorm": "-17.73,-1.69,1.50,-27.80,-0.36",
+      "filename": "processed_b6b42aaba9a8601d86b6f339ed8d59c2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

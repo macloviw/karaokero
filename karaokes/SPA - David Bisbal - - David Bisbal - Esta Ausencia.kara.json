@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - David Bisbal - Esta Ausencia.mp3",
+      "loudnorm": "-10.52,2.83,6.10,-20.71,-1.37",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - David Bisbal - Esta Ausencia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd95126f-f9ad-4381-9e27-6c603614c84a",
+    "title": "David Bisbal - Esta Ausencia",
+    "titles": {
+      "spa": "David Bisbal - Esta Ausencia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:06:21.245Z",
+    "modified_at": "2022-11-03T04:06:21.684Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1f3e446ec635255838f24ad82841f6b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4845080,
+      "gain": -7.07,
+      "duration": 302,
+      "loudnorm": "-10.52,2.83,6.10,-20.71,-1.37",
+      "filename": "processed_f8ee2a38495c2da35d23c83a205340ed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

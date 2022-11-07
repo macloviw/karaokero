@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Donna Summer - - Donna Summer - She works hard, for the money.mp3",
+      "loudnorm": "-9.89,5.37,5.30,-20.08,-1.27",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Donna Summer - - Donna Summer - She works hard, for the money.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62c01320-709c-4f73-876f-b81b558244a2",
+    "title": "Donna Summer - She works hard, for the money",
+    "titles": {
+      "spa": "Donna Summer - She works hard, for the money"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6e3ba4fa-c395-414e-85a4-3dc72bb8c1e1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:12:16.080Z",
+    "modified_at": "2022-11-03T16:12:16.868Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c0c3b7e56948ac243e7581373bdfc5a6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3883363,
+      "gain": -9.47,
+      "duration": 242,
+      "loudnorm": "-9.89,5.37,5.30,-20.08,-1.27",
+      "filename": "processed_e345d3fe469c87dafc1befa3095d7d2d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

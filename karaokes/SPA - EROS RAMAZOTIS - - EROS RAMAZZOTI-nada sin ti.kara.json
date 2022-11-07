@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTI-nada sin ti.mp3",
+      "loudnorm": "-12.52,0.02,13.20,-23.09,-1.34",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - EROS RAMAZZOTI-nada sin ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bc13821-0f3c-4f8e-a19a-d3c38aa0814c",
+    "title": "EROS RAMAZZOTI-nada sin ti",
+    "titles": {
+      "spa": "EROS RAMAZZOTI-nada sin ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:10:43.223Z",
+    "modified_at": "2022-11-03T05:10:43.641Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_504a1ec42d18bfaa0b00f73c0d99c142.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7780614,
+      "gain": -5.4,
+      "duration": 324,
+      "loudnorm": "-12.52,0.02,13.20,-23.09,-1.34",
+      "filename": "processed_895798243efd28321c20b1c22ead2644.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

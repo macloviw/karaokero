@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - All 4 One - - All 4 One - I Swear.mp3",
+      "loudnorm": "-8.01,9.13,6.80,-18.16,-1.68",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - All 4 One - - All 4 One - I Swear.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26b8ac9a-1ad9-4018-9088-b0a7e1588bd4",
+    "title": "All 4 One - I Swear",
+    "titles": {
+      "spa": "All 4 One - I Swear"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7ebb5043-481d-4161-a05f-3b7a0b915397"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:52:44.174Z",
+    "modified_at": "2022-11-03T23:52:44.557Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd25d9f5b96b13afae616f3c4852e038.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4342480,
+      "gain": -9.43,
+      "duration": 271,
+      "loudnorm": "-8.01,9.13,6.80,-18.16,-1.68",
+      "filename": "processed_7d7d4a16bdd52c73a80a71b077f8f983.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

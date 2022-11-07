@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Francis Natra - - Francis Natra - New york new york.MP3",
+      "loudnorm": "-17.69,-1.66,6.70,-27.87,-1.00",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Francis Natra - - Francis Natra - New york new york.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "215538da-63e7-424c-ab83-2ddeba3e53d1",
+    "title": "Francis Natra - New york new york",
+    "titles": {
+      "spa": "Francis Natra - New york new york"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1545075a-6d71-4001-b4a1-f4fe538b5567"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:47:15.746Z",
+    "modified_at": "2022-11-04T00:47:16.188Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3553875,
+      "gain": -0.67,
+      "duration": 221,
+      "loudnorm": "-17.69,-1.66,6.70,-27.87,-1.00",
+      "filename": "processed_3df1954a2fab60e34634a3bbb1ba5413.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3553875,
+      "gain": -0.67,
+      "duration": 221,
+      "loudnorm": "-17.69,-1.66,6.70,-27.87,-1.00",
+      "filename": "processed_242fa334cf5f3928fdf36ef3863841e8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

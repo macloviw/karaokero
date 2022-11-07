@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Don't Let The Sun Go Down On Me.mp3",
+      "loudnorm": "-18.10,1.05,17.00,-28.98,-2.05",
+      "duration": 347,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Don't Let The Sun Go Down On Me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "092d0853-ce41-4291-bcda-cfd2c5522d13",
+    "title": "Elton John - Don't Let The Sun Go Down On Me",
+    "titles": {
+      "spa": "Elton John - Don't Let The Sun Go Down On Me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:25:37.500Z",
+    "modified_at": "2022-11-04T00:25:37.888Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_41d9d0ae2b24f205603ccfc8f886375f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5554355,
+      "gain": 0.18,
+      "duration": 347,
+      "loudnorm": "-18.10,1.05,17.00,-28.98,-2.05",
+      "filename": "processed_862bdd399aa052d31f4e5c7b01b6459d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

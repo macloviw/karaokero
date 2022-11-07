@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - D.L.G. - - SP-460609_D.L.G._Volvere_scl2207-04.mp3",
+      "loudnorm": "-16.78,0.22,2.90,-26.86,-0.56",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - D.L.G. - - SP-460609_D.L.G._Volvere_scl2207-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2074c07d-7f67-49da-b9cd-db45b9e5cf39",
+    "title": "SP-460609_D.L.G._Volveré_scl2207-04",
+    "titles": {
+      "spa": "SP-460609_D.L.G._Volveré_scl2207-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "c6b9d124-c2cb-419c-ae27-7a5a005588b5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:43:25.074Z",
+    "modified_at": "2022-11-03T21:43:25.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c1151f92a9f66b6e0ceb139a58aae290.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4681866,
+      "gain": -0.88,
+      "duration": 292,
+      "loudnorm": "-16.78,0.22,2.90,-26.86,-0.56",
+      "filename": "processed_9e60279fa2e47ef733bd2bb5ce7bf353.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

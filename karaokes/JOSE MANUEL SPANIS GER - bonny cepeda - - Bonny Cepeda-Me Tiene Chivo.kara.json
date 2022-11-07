@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - Bonny Cepeda-Me Tiene Chivo.mp3",
+      "loudnorm": "-15.22,0.83,4.00,-25.29,-0.39",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - Bonny Cepeda-Me Tiene Chivo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05a8606a-3f7e-4af1-98fd-96e785660664",
+    "title": "Bonny Cepeda-Me Tiene Chivo",
+    "titles": {
+      "spa": "Bonny Cepeda-Me Tiene Chivo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "ec4b38a9-877e-4ff7-ae26-009d4a36d64d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:17:34.979Z",
+    "modified_at": "2022-11-04T09:17:35.362Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ee01328e29ebbb9ae5746d28e8ff889.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3900073,
+      "gain": -3.68,
+      "duration": 243,
+      "loudnorm": "-15.22,0.83,4.00,-25.29,-0.39",
+      "filename": "processed_00866b88abf855d719c6102dc34ea10c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

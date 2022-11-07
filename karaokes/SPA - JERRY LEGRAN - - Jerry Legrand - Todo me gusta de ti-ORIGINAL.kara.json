@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JERRY LEGRAN - - Jerry Legrand - Todo me gusta de ti-ORIGINAL.mp3",
+      "loudnorm": "-11.60,1.62,5.30,-21.78,-0.44",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JERRY LEGRAN - - Jerry Legrand - Todo me gusta de ti-ORIGINAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3d90d5e6-e46c-4a24-a060-4a200e5815eb",
+    "title": "Jerry Legrand - Todo me gusta de tí-ORIGINAL",
+    "titles": {
+      "spa": "Jerry Legrand - Todo me gusta de tí-ORIGINAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5e28eb03-284d-44d2-b436-6aaa98bf1b1a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:43:49.924Z",
+    "modified_at": "2022-11-04T03:43:50.315Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f5c1b341d52375fc5f4ed6e1f067ebe7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4386030,
+      "gain": -7.27,
+      "duration": 274,
+      "loudnorm": "-11.60,1.62,5.30,-21.78,-0.44",
+      "filename": "processed_87acf67e3ca94f3828eada660045e68b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christina Aguilera - - Christina Aguilera - Falsas Esperanzas.MP3",
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christina Aguilera - - Christina Aguilera - Falsas Esperanzas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c836997b-3bc8-4de4-bb30-4af4c5bf7dff",
+    "title": "Christina Aguilera - Falsas Esperanzas",
+    "titles": {
+      "spa": "Christina Aguilera - Falsas Esperanzas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4d8cb367-6ee7-4268-a4e3-bdc3d7e6b8ae"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:32:32.531Z",
+    "modified_at": "2022-11-03T03:32:33.028Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3100672,
+      "gain": -3.36,
+      "duration": 193,
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "filename": "processed_0ba69027f4a8d9aa437b899e61e2b44d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3100672,
+      "gain": -3.36,
+      "duration": 193,
+      "loudnorm": "-13.88,-0.08,4.00,-24.18,-0.69",
+      "filename": "processed_3d9f456ec3db2221b92c7da81a3b0bff.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

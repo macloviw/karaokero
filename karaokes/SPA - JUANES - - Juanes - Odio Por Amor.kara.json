@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - Juanes - Odio Por Amor.mp3",
+      "loudnorm": "-14.20,0.93,9.70,-24.65,-1.12",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - Juanes - Odio Por Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8694e997-6b02-489a-b1a1-631ecf57fcf0",
+    "title": "Juanes - Odio Por Amor",
+    "titles": {
+      "spa": "Juanes - Odio Por Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:56:19.263Z",
+    "modified_at": "2022-11-03T07:56:19.753Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8944603437670be2e06c0d1928538dd8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6247122,
+      "gain": -2.88,
+      "duration": 260,
+      "loudnorm": "-14.20,0.93,9.70,-24.65,-1.12",
+      "filename": "processed_a9e0b2ee5afaee46291bd79065512693.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

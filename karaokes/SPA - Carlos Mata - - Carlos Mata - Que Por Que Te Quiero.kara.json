@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Mata - - Carlos Mata - Que Por Que Te Quiero.mp3",
+      "loudnorm": "-10.87,2.29,3.00,-21.00,-0.41",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Mata - - Carlos Mata - Que Por Que Te Quiero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0116578c-0ba5-4d86-9c59-878d3ce63957",
+    "title": "Carlos Mata - Que Por Que Te Quiero",
+    "titles": {
+      "spa": "Carlos Mata - Que Por Que Te Quiero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68dfdcb3-0f31-4f3c-bf53-c435c654a8b4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:46:24.515Z",
+    "modified_at": "2022-11-04T02:46:24.925Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_80bfd6fe8d4272ad6a08debe8f37ade5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3329958,
+      "gain": -6.54,
+      "duration": 207,
+      "loudnorm": "-10.87,2.29,3.00,-21.00,-0.41",
+      "filename": "processed_370f4db5aa97fe03e0c847eadcd9734d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

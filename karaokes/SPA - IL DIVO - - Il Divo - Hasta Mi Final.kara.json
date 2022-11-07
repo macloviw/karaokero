@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - IL DIVO - - Il Divo - Hasta Mi Final.mp3",
+      "loudnorm": "-14.87,0.19,6.90,-24.93,-1.22",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - IL DIVO - - Il Divo - Hasta Mi Final.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b2601d5-4703-4e3a-ba85-9e7bf5614969",
+    "title": "Il Divo - Hasta Mi Final",
+    "titles": {
+      "spa": "Il Divo - Hasta Mi Final"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d13b4e66-cc3d-4e9e-8689-229c3a5c4035"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:31:49.797Z",
+    "modified_at": "2022-11-04T03:31:50.175Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a39dc22b096ab1a2956acffe6a762da9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3724113,
+      "gain": -2.09,
+      "duration": 232,
+      "loudnorm": "-14.87,0.19,6.90,-24.93,-1.22",
+      "filename": "processed_dadde374ae04353e0a4065d394a0e5f6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

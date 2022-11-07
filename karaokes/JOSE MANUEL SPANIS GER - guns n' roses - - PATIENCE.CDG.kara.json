@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - PATIENCE.CDG.MP3",
+      "loudnorm": "-18.82,-4.03,7.40,-28.96,-0.86",
+      "duration": 371,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - PATIENCE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "366cc34f-706b-4294-91e2-675d14c44db9",
+    "title": "PATIENCE.CDG",
+    "titles": {
+      "spa": "PATIENCE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:20:07.184Z",
+    "modified_at": "2022-11-04T10:20:07.670Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5938332,
+      "gain": -0.04,
+      "duration": 371,
+      "loudnorm": "-18.82,-4.03,7.40,-28.96,-0.86",
+      "filename": "processed_e641a161ad4c9d6173f4edc96aab8991.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5938332,
+      "gain": -0.04,
+      "duration": 371,
+      "loudnorm": "-18.82,-4.03,7.40,-28.96,-0.86",
+      "filename": "processed_cece543ec5bc0cdb52e34dfcdce12366.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

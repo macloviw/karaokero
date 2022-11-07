@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANDY MONTANEZ - - ANDY MONTANEZ - BAGABUNDO.mp3",
+      "loudnorm": "-15.18,-0.66,4.70,-25.21,-1.05",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANDY MONTANEZ - - ANDY MONTANEZ - BAGABUNDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4530ebb2-e484-4115-9355-7e915fabbae5",
+    "title": "ANDY MONTANEZ - BAGABUNDO",
+    "titles": {
+      "spa": "ANDY MONTANEZ - BAGABUNDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "aec45d0e-c61c-4a75-8c5b-9c1b16cb8e82"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T17:17:24.876Z",
+    "modified_at": "2022-11-03T17:17:25.313Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3d5749e9f38da7f974b9e139158cd6bd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4666481,
+      "gain": -3.95,
+      "duration": 291,
+      "loudnorm": "-15.18,-0.66,4.70,-25.21,-1.05",
+      "filename": "processed_9a853574189da5465c832f29f0910e5f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

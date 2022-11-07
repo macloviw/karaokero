@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JORGE1057 - - rojo relativo.mp3",
+      "loudnorm": "-15.28,-0.21,6.30,-25.46,-1.00",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JORGE1057 - - rojo relativo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d010a7db-75e7-4883-a2e4-42b0f41458fc",
+    "title": "rojo relativo",
+    "titles": {
+      "spa": "rojo relativo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ebd6bc90-06fc-49e8-8199-efb87bbf65a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:52:48.096Z",
+    "modified_at": "2022-11-04T03:52:48.486Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_36f45f33b16a6dbb09176891c465a6d3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6099791,
+      "gain": -3.51,
+      "duration": 254,
+      "loudnorm": "-15.28,-0.21,6.30,-25.46,-1.00",
+      "filename": "processed_b895d740d962072ae314f920d7a9aa51.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

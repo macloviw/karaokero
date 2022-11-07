@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANNY RIVERA - - Danny Rivera - Tanta Vanidad.mp3",
+      "loudnorm": "-10.12,4.59,4.10,-20.16,-0.81",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANNY RIVERA - - Danny Rivera - Tanta Vanidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e76415b-78fd-43dd-a8bb-be25f8b3c569",
+    "title": "Danny Rivera - Tanta Vanidad",
+    "titles": {
+      "spa": "Danny Rivera - Tanta Vanidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1c274115-8056-4325-a59c-67752bd14c13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:59:53.228Z",
+    "modified_at": "2022-11-03T03:59:53.652Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e40515cfb385f3550973cf7e506fba93.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3843308,
+      "gain": -9.13,
+      "duration": 240,
+      "loudnorm": "-10.12,4.59,4.10,-20.16,-0.81",
+      "filename": "processed_71171ce16f267af89ed771939eb9d9a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

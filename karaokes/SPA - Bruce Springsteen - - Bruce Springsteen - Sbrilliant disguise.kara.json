@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Sbrilliant disguise.mp3",
+      "loudnorm": "-18.42,0.62,1.30,-28.60,-0.31",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Sbrilliant disguise.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "274663e5-1ac8-4bcb-a821-2aec47618e2f",
+    "title": "Bruce Springsteen - Sbrilliant disguise",
+    "titles": {
+      "spa": "Bruce Springsteen - Sbrilliant disguise"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:29:46.691Z",
+    "modified_at": "2022-11-03T15:29:47.154Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34b15e78ad8a51066d6268af7e2b68f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4146669,
+      "gain": 0.56,
+      "duration": 259,
+      "loudnorm": "-18.42,0.62,1.30,-28.60,-0.31",
+      "filename": "processed_bde68f5c7c38d448f94169df494557ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

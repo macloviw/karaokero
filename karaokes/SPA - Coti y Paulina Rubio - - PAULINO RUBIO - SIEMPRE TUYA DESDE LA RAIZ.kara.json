@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINO RUBIO - SIEMPRE TUYA DESDE LA RAIZ.MP3",
+      "loudnorm": "-12.83,0.20,5.70,-23.22,-0.88",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINO RUBIO - SIEMPRE TUYA DESDE LA RAIZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90229518-0a56-4957-b382-ecb05af57eb9",
+    "title": "PAULINO RUBIO   -   SIEMPRE TUYA DESDE LA RAIZ",
+    "titles": {
+      "spa": "PAULINO RUBIO   -   SIEMPRE TUYA DESDE LA RAIZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:20:54.922Z",
+    "modified_at": "2022-11-03T11:20:55.706Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10908831,
+      "gain": -6.15,
+      "duration": 272,
+      "loudnorm": "-12.83,0.20,5.70,-23.22,-0.88",
+      "filename": "processed_9c9595125f4b576116f25f0808753d8d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10908831,
+      "gain": -6.15,
+      "duration": 272,
+      "loudnorm": "-12.83,0.20,5.70,-23.22,-0.88",
+      "filename": "processed_eb18c195ea056a60155ae3df13e102e8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CABAS - - Cabas - Mi Bombon.mp3",
+      "loudnorm": "-8.49,4.87,2.10,-18.56,-0.98",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CABAS - - Cabas - Mi Bombon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "25e44a86-628d-47e5-b390-ff9020c8c47e",
+    "title": "Cabas - Mi Bombón",
+    "titles": {
+      "spa": "Cabas - Mi Bombón"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b58a9a27-3ac7-4215-8561-a1f8d4e5ad7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:34:21.878Z",
+    "modified_at": "2022-11-03T02:34:22.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56eeb9e561ff370efb7e5ef6232dd2d2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3354662,
+      "gain": -8.92,
+      "duration": 209,
+      "loudnorm": "-8.49,4.87,2.10,-18.56,-0.98",
+      "filename": "processed_989f45adc1b9a60ab479df89b0130b5a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

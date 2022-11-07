@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Con nosotros esta.mp3",
+      "loudnorm": "-15.04,0.15,2.70,-25.25,0.57",
+      "duration": 130,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cantos Religiosos - - Cantos Religiosos - Con nosotros esta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60f1c560-80bd-4b15-a23f-9c4e38bfe402",
+    "title": "Cantos Religiosos - Con nosotros esta",
+    "titles": {
+      "spa": "Cantos Religiosos - Con nosotros esta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "a9b10b5f-f794-4090-946b-f8647a0ff742"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:57:52.947Z",
+    "modified_at": "2022-11-03T13:57:53.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4cf5825a3e100aea615c19efb5e1ff02.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3126221,
+      "gain": -1.74,
+      "duration": 130,
+      "loudnorm": "-15.04,0.15,2.70,-25.25,0.57",
+      "filename": "processed_e19529b6f43d38ec65ca42aaf9b42cfc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

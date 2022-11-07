@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Pollito Chicken.mp3",
+      "loudnorm": "-18.27,-2.66,4.10,-28.47,-0.23",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Tatiana - - (Infatiles) Tatiana - Pollito Chicken.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aec2b752-bde9-4ac1-a251-eb7b259932b7",
+    "title": "(Infatiles) Tatiana - Pollito Chicken",
+    "titles": {
+      "spa": "(Infatiles) Tatiana - Pollito Chicken"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "30e92243-2ccd-4213-80a5-5dd0d694985b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:36:54.410Z",
+    "modified_at": "2022-11-04T08:36:54.799Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_985ffa0f4931030abf25e5b898174ce8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3762657,
+      "gain": -0.23,
+      "duration": 235,
+      "loudnorm": "-18.27,-2.66,4.10,-28.47,-0.23",
+      "filename": "processed_5754b123bb55afacbeaa49c5d83723fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

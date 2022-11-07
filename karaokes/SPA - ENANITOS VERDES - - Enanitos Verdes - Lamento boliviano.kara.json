@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Lamento boliviano.mp3",
+      "loudnorm": "-7.73,4.27,2.80,-17.82,-1.14",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Lamento boliviano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9e3564c1-5e8b-4856-baa5-088884a949d1",
+    "title": "Enanitos Verdes - Lamento boliviano",
+    "titles": {
+      "spa": "Enanitos Verdes - Lamento boliviano"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:47:51.101Z",
+    "modified_at": "2022-11-03T04:47:51.530Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5217a514aac0c56663bf2f9cb6dd3f82.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3635506,
+      "gain": -9.71,
+      "duration": 227,
+      "loudnorm": "-7.73,4.27,2.80,-17.82,-1.14",
+      "filename": "processed_a1fcc4c7ebb84c31d84bf982e32575d8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

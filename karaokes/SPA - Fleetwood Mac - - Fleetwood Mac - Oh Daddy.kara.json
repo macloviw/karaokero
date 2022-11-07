@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Oh Daddy.mp3",
+      "loudnorm": "-11.18,0.86,3.70,-21.27,-1.00",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Oh Daddy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eca3be1a-5728-4cda-a25d-1ef920b830fb",
+    "title": "Fleetwood Mac - Oh Daddy",
+    "titles": {
+      "spa": "Fleetwood Mac - Oh Daddy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7269b91c-1e09-4b6e-a857-8facb8dbbec2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:42:25.478Z",
+    "modified_at": "2022-11-04T00:42:25.869Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c86312572b3b7312bf9e6665c058bd29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4099021,
+      "gain": -5.04,
+      "duration": 256,
+      "loudnorm": "-11.18,0.86,3.70,-21.27,-1.00",
+      "filename": "processed_168e4db6c86777f4243a322cfe6fcc0d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX MATOS - - ALEX MATOS - AMOR PERFECTO.mp3",
+      "loudnorm": "-13.29,1.61,4.40,-23.39,-1.15",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX MATOS - - ALEX MATOS - AMOR PERFECTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78cc714d-4f80-495d-a44f-5dca6b6c2972",
+    "title": "ALEX MATOS   -   AMOR PERFECTO",
+    "titles": {
+      "spa": "ALEX MATOS   -   AMOR PERFECTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5caf80fc-8c72-470b-af5a-70c274ca7c42"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:22:33.361Z",
+    "modified_at": "2022-11-04T02:22:33.740Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1a61d586e74ba9831f6ede3c1a2ebaaa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4656997,
+      "gain": -5.17,
+      "duration": 290,
+      "loudnorm": "-13.29,1.61,4.40,-23.39,-1.15",
+      "filename": "processed_7450077fcea9ebce19c1dc0403fa5de0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

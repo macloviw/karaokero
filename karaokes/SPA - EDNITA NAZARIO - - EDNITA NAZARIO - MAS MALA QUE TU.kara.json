@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - EDNITA NAZARIO - MAS MALA QUE TU.MP3",
+      "loudnorm": "-15.64,-1.99,12.40,-26.10,-1.27",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - EDNITA NAZARIO - MAS MALA QUE TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a61c40dd-daa2-4ccc-b2a8-f07e7ce85d95",
+    "title": "EDNITA NAZARIO   -   MAS MALA QUE TU",
+    "titles": {
+      "spa": "EDNITA NAZARIO   -   MAS MALA QUE TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:21:29.070Z",
+    "modified_at": "2022-11-03T04:21:29.688Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4591249,
+      "gain": -0.52,
+      "duration": 286,
+      "loudnorm": "-15.64,-1.99,12.40,-26.10,-1.27",
+      "filename": "processed_34ac0477fb089da63214e2b6b8619dce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4591249,
+      "gain": -0.52,
+      "duration": 286,
+      "loudnorm": "-15.64,-1.99,12.40,-26.10,-1.27",
+      "filename": "processed_e22264d7ac0183cbc126ae1bde320fe4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

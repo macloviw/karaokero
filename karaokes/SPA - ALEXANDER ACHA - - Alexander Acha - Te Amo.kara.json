@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDER ACHA - - Alexander Acha - Te Amo.mp3",
+      "loudnorm": "-12.91,0.78,9.40,-23.24,-1.70",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDER ACHA - - Alexander Acha - Te Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "71090f4c-6765-4d91-b7ef-aa0334332f7a",
+    "title": "Alexander Acha - Te Amo",
+    "titles": {
+      "spa": "Alexander Acha - Te Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "f5cfc7eb-8811-4773-80a3-2e0402754bbc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:11:06.271Z",
+    "modified_at": "2022-11-04T02:11:06.651Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d0c571804b81a88ca527b2f762da028.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5659053,
+      "gain": -4.67,
+      "duration": 235,
+      "loudnorm": "-12.91,0.78,9.40,-23.24,-1.70",
+      "filename": "processed_3fb4fd842c006cb33ec843f39ea58886.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

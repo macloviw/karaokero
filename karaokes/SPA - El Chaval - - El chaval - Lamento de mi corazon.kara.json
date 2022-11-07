@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Chaval - - El chaval - Lamento de mi corazon.MP3",
+      "loudnorm": "-14.14,3.15,2.70,-24.15,-0.45",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Chaval - - El chaval - Lamento de mi corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65d88726-741c-42e3-bea3-4fe61efa0627",
+    "title": "El chaval - Lamento de mi corazon",
+    "titles": {
+      "spa": "El chaval - Lamento de mi corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "009e04f7-e40f-471b-9f49-4eb3541709a6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:26:39.026Z",
+    "modified_at": "2022-11-02T23:26:39.656Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4525341,
+      "gain": -4.3,
+      "duration": 282,
+      "loudnorm": "-14.14,3.15,2.70,-24.15,-0.45",
+      "filename": "processed_62e3007cc1dbfadc4ee85f95664bfa94.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4525341,
+      "gain": -4.3,
+      "duration": 282,
+      "loudnorm": "-14.14,3.15,2.70,-24.15,-0.45",
+      "filename": "processed_44fd1b165f4f55f898b33deffddd8428.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

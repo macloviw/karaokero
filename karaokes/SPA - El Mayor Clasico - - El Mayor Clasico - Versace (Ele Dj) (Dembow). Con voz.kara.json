@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Mayor Clasico - - El Mayor Clasico - Versace (Ele Dj) (Dembow). Con voz.mp3",
+      "loudnorm": "-6.57,2.02,2.80,-16.67,-1.46",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Mayor Clasico - - El Mayor Clasico - Versace (Ele Dj) (Dembow). Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ac8009f0-fd92-4dd7-b7d8-7886b9bad53f",
+    "title": "El Mayor Clasico - Versace (Ele Dj) (Dembow). Con voz",
+    "titles": {
+      "spa": "El Mayor Clasico - Versace (Ele Dj) (Dembow). Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "9812d17e-7d9f-49b1-b2ad-918290e4fb20"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:47:33.726Z",
+    "modified_at": "2022-11-03T23:47:34.108Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0249b05b8ae0832e89f851443045cde2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4738186,
+      "gain": -10.35,
+      "duration": 169,
+      "loudnorm": "-6.57,2.02,2.80,-16.67,-1.46",
+      "filename": "processed_866a3d8d8ad2f1fae9ad97ee19223838.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

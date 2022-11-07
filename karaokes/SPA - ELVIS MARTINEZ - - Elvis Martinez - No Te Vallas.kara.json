@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - No Te Vallas.mp3",
+      "loudnorm": "-14.52,-3.07,2.20,-24.55,-0.61",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - Elvis Martinez - No Te Vallas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b2d9b5c-5aac-4430-bb8f-73e8bc0be0a7",
+    "title": "Elvis Martinez - No Te Vallas",
+    "titles": {
+      "spa": "Elvis Martinez - No Te Vallas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:13:18.736Z",
+    "modified_at": "2022-11-04T03:13:19.137Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c54dc32106dbb2ace38fe2c2b268414f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4047195,
+      "gain": -3.11,
+      "duration": 252,
+      "loudnorm": "-14.52,-3.07,2.20,-24.55,-0.61",
+      "filename": "processed_9f5ca3fee6554e618b1449a7ade4354d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

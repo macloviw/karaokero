@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - BONNY CEPEDA====MEDLEY DE EXITOS.mp3",
+      "loudnorm": "-11.69,0.49,2.60,-21.74,-0.54",
+      "duration": 594,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - bonny cepeda - - BONNY CEPEDA====MEDLEY DE EXITOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9aaae84b-5c18-4c49-98e2-af93339703ed",
+    "title": "BONNY CEPEDA====MEDLEY DE EXITOS",
+    "titles": {
+      "spa": "BONNY CEPEDA====MEDLEY DE EXITOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "ec4b38a9-877e-4ff7-ae26-009d4a36d64d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:17:59.011Z",
+    "modified_at": "2022-11-04T09:17:59.406Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_01afa247d7fbda11e2a95e11614abc6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9510643,
+      "gain": -7.41,
+      "duration": 594,
+      "loudnorm": "-11.69,0.49,2.60,-21.74,-0.54",
+      "filename": "processed_c5048326b91f3c0422b7a5a1f8b30d30.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

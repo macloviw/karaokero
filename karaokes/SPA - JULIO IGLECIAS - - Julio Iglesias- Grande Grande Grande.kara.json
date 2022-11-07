@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Grande Grande Grande.mp3",
+      "loudnorm": "-16.86,-0.50,3.70,-27.13,0.16",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Grande Grande Grande.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2d055d8-eeba-40a7-b855-b963e4bd3aa3",
+    "title": "Julio Iglesias- Grande Grande Grande",
+    "titles": {
+      "spa": "Julio Iglesias- Grande Grande Grande"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:04:10.555Z",
+    "modified_at": "2022-11-03T08:04:10.980Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0882ab1bdf18c720a37c764a904a80fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3625891,
+      "gain": -0.38,
+      "duration": 226,
+      "loudnorm": "-16.86,-0.50,3.70,-27.13,0.16",
+      "filename": "processed_5132a5a1f99eff4a8e2e81f7057a314e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

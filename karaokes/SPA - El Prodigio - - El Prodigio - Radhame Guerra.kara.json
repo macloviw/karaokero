@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Prodigio - - El Prodigio - Radhame Guerra.mp3",
+      "loudnorm": "-10.97,2.94,1.70,-21.01,-0.38",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Prodigio - - El Prodigio - Radhame Guerra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e140b634-6690-4c3e-906c-35a99ff7f459",
+    "title": "El Prodigio - Radhame Guerra",
+    "titles": {
+      "spa": "El Prodigio - Radhame Guerra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c1b3cba1-935f-47b1-bfe6-13fd4f6da36e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:10:45.307Z",
+    "modified_at": "2022-11-04T03:10:45.705Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_67af0324bd2df0ffff157f6f0f5e5cf6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4238955,
+      "gain": -7.53,
+      "duration": 264,
+      "loudnorm": "-10.97,2.94,1.70,-21.01,-0.38",
+      "filename": "processed_80adb3fa9ed27fab91141fb6a2c7811d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PROYECTO UNO - - ANOTHER NIGTH.mp3",
+      "loudnorm": "-10.22,1.69,3.70,-20.43,-0.77",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PROYECTO UNO - - ANOTHER NIGTH.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "019bbf0c-52f7-4e9a-b246-37f1c99816f5",
+    "title": "ANOTHER NIGTH",
+    "titles": {
+      "spa": "ANOTHER NIGTH"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "98d952f1-2649-4ec6-a590-ed60e906dbaa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:55:43.113Z",
+    "modified_at": "2022-11-04T10:55:43.498Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b929a0677141bec60b6e62b075dcae96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7521219,
+      "gain": -7.03,
+      "duration": 313,
+      "loudnorm": "-10.22,1.69,3.70,-20.43,-0.77",
+      "filename": "processed_107e35fa14da4c7fb4079f90747c0552.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

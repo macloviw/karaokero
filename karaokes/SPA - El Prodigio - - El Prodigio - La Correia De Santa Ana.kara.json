@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Prodigio - - El Prodigio - La Correia De Santa Ana.mp3",
+      "loudnorm": "-13.37,1.50,3.30,-23.44,-0.46",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Prodigio - - El Prodigio - La Correia De Santa Ana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "646a2a73-5bc0-43eb-827d-79109736206c",
+    "title": "El Prodigio - La Correia De Santa Ana",
+    "titles": {
+      "spa": "El Prodigio - La Correia De Santa Ana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c1b3cba1-935f-47b1-bfe6-13fd4f6da36e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:10:01.279Z",
+    "modified_at": "2022-11-04T03:10:01.670Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_185d194957bf0781d9ae4594445a37a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4159564,
+      "gain": -3.76,
+      "duration": 225,
+      "loudnorm": "-13.37,1.50,3.30,-23.44,-0.46",
+      "filename": "processed_cb3f10ee960485f0fcc6263596a4e49a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Black Sabbath - - Black Sabbath - Snowblind.mp3",
+      "loudnorm": "-9.22,1.12,3.10,-19.24,-0.96",
+      "duration": 348,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Black Sabbath - - Black Sabbath - Snowblind.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5f1d7c70-9895-4c52-804c-54a50cd53b53",
+    "title": "Black Sabbath - Snowblind",
+    "titles": {
+      "spa": "Black Sabbath - Snowblind"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a3880988-0c88-4d77-aef4-a868b54d61d0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:10:35.226Z",
+    "modified_at": "2022-11-03T15:10:35.627Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7984348ac73cf16400decdffaec07643.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6967476,
+      "gain": -7.27,
+      "duration": 348,
+      "loudnorm": "-9.22,1.12,3.10,-19.24,-0.96",
+      "filename": "processed_e9f69b3c56f5143bfd86732c0b0d93d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

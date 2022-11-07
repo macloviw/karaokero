@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JADE451-07 - - JADE451-07 - Alex Ubago - Me Arrepiento.mp3",
+      "loudnorm": "-11.22,0.88,4.00,-21.37,-0.92",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JADE451-07 - - JADE451-07 - Alex Ubago - Me Arrepiento.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "98384fba-adc8-4ae5-ac22-a424b12d0d41",
+    "title": "JADE451-07 - Alex Ubago - Me Arrepiento",
+    "titles": {
+      "spa": "JADE451-07 - Alex Ubago - Me Arrepiento"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ebc9387f-2fa8-44ee-9670-dc214eb007fc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:29:47.926Z",
+    "modified_at": "2022-11-03T22:29:48.299Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3e8e6f8c37e5b40a4ec55ce9e347faa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5155621,
+      "gain": -5.93,
+      "duration": 214,
+      "loudnorm": "-11.22,0.88,4.00,-21.37,-0.92",
+      "filename": "processed_c3900d5363649f5e6c122061495703e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

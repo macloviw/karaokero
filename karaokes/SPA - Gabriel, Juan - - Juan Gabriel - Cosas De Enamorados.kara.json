@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Cosas De Enamorados.mp3",
+      "loudnorm": "-17.41,-0.66,4.30,-27.47,0.46",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Cosas De Enamorados.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "59245103-c99a-4425-af2e-60b9fac51473",
+    "title": "Juan Gabriel - Cosas De Enamorados",
+    "titles": {
+      "spa": "Juan Gabriel - Cosas De Enamorados"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:45:02.712Z",
+    "modified_at": "2022-11-03T07:45:03.115Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e0d5867f43ee001c51ca20d1755743e2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3129692,
+      "gain": -1.59,
+      "duration": 195,
+      "loudnorm": "-17.41,-0.66,4.30,-27.47,0.46",
+      "filename": "processed_a87cd4c7310dc4e993ea73b652e8996a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

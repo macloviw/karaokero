@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - el picotiao.mp3",
+      "loudnorm": "-15.27,0.09,3.30,-25.28,-0.36",
+      "duration": 328,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - el picotiao.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1094e32c-bc2e-4dc0-b7f5-8d092f676572",
+    "title": "Banda Real - el picotiao",
+    "titles": {
+      "spa": "Banda Real - el picotiao"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:37:50.566Z",
+    "modified_at": "2022-11-04T02:37:50.973Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7dae19b3f227f02f76d54255a003f5f3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5256571,
+      "gain": -3.33,
+      "duration": 328,
+      "loudnorm": "-15.27,0.09,3.30,-25.28,-0.36",
+      "filename": "processed_26e108f961e900372e3651ac9f039e37.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

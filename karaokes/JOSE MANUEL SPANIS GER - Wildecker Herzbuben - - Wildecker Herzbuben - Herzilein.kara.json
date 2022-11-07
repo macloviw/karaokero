@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Wildecker Herzbuben - - Wildecker Herzbuben - Herzilein.mp3",
+      "loudnorm": "-16.27,-2.26,2.70,-26.37,-0.59",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Wildecker Herzbuben - - Wildecker Herzbuben - Herzilein.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4602cd4a-1c89-4bb4-b433-8707548d7a0b",
+    "title": "Wildecker Herzbuben - Herzilein",
+    "titles": {
+      "spa": "Wildecker Herzbuben - Herzilein"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "cab1a90b-b76a-426b-b9b5-2eb373ca793c"
+      ],
+      "singers": [
+        "8054ae07-933a-4c71-bcd7-9096981a3d13"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:01:40.429Z",
+    "modified_at": "2022-11-04T09:01:40.827Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3615d245db2aa4ee29b1c5f5b966672f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3469440,
+      "gain": -1.48,
+      "duration": 216,
+      "loudnorm": "-16.27,-2.26,2.70,-26.37,-0.59",
+      "filename": "processed_40dd82f1cb6782a5da85d5c8388083b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

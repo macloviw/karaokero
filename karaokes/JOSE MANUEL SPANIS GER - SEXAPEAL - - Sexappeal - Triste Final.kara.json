@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SEXAPEAL - - Sexappeal - Triste Final.mp3",
+      "loudnorm": "-14.29,0.81,8.80,-24.68,-1.25",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SEXAPEAL - - Sexappeal - Triste Final.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f2e6d7a-05c2-4641-af6c-8d54fc3370cf",
+    "title": "Sexappeal - Triste Final",
+    "titles": {
+      "spa": "Sexappeal - Triste Final"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0e755f9b-204c-4c05-88fd-06b71dfc0006"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:30:56.727Z",
+    "modified_at": "2022-11-04T08:30:57.104Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f53ba96c9d00055653f4bacc72ba529.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7091609,
+      "gain": -4.46,
+      "duration": 295,
+      "loudnorm": "-14.29,0.81,8.80,-24.68,-1.25",
+      "filename": "processed_835d8877c44b6d957d5c390c884550a8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

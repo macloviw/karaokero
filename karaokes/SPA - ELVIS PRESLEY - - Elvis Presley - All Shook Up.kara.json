@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - All Shook Up.mp3",
+      "loudnorm": "-14.74,-0.32,4.10,-25.26,-1.15",
+      "duration": 135,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS PRESLEY - - Elvis Presley - All Shook Up.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dcb90abe-c376-472b-bd4e-18199b756ac8",
+    "title": "Elvis Presley - All Shook Up",
+    "titles": {
+      "spa": "Elvis Presley - All Shook Up"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fdebe8fe-ade4-4e2b-adec-46fc7f4e42c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:31:19.225Z",
+    "modified_at": "2022-11-03T04:31:19.648Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f776f6568faf4dd1275b2b8e402fb71e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2721617,
+      "gain": -2.75,
+      "duration": 135,
+      "loudnorm": "-14.74,-0.32,4.10,-25.26,-1.15",
+      "filename": "processed_c9aed96a7a6a1df2de378266308fb1e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

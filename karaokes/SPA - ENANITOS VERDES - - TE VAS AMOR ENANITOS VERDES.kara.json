@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - TE VAS AMOR ENANITOS VERDES.mp3",
+      "loudnorm": "-11.96,-1.39,3.30,-22.05,-0.41",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - TE VAS AMOR ENANITOS VERDES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "977a2181-0b74-4a87-a3a5-0eabc0c25d53",
+    "title": "TE VAS AMOR ENANITOS VERDES",
+    "titles": {
+      "spa": "TE VAS AMOR ENANITOS VERDES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:50:01.520Z",
+    "modified_at": "2022-11-03T04:50:01.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_793904ca2717117fc102195b3967cbad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5219726,
+      "gain": -6.57,
+      "duration": 217,
+      "loudnorm": "-11.96,-1.39,3.30,-22.05,-0.41",
+      "filename": "processed_c227441ca08ba53670996370366d01da.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

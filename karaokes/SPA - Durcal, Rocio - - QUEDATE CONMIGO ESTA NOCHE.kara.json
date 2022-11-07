@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - QUEDATE CONMIGO ESTA NOCHE.mp3",
+      "loudnorm": "-16.09,0.30,6.90,-26.16,-0.54",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - QUEDATE CONMIGO ESTA NOCHE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b03a9fa8-3bf3-4e4c-ac43-3aa38474c520",
+    "title": "QUEDATE CONMIGO ESTA NOCHE",
+    "titles": {
+      "spa": "QUEDATE CONMIGO ESTA NOCHE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:41:42.986Z",
+    "modified_at": "2022-11-03T12:41:43.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f0866c57bd292629b185755d148abe8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5649022,
+      "gain": -3.01,
+      "duration": 235,
+      "loudnorm": "-16.09,0.30,6.90,-26.16,-0.54",
+      "filename": "processed_c14027e02b95a8b508322b9795d89c01.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

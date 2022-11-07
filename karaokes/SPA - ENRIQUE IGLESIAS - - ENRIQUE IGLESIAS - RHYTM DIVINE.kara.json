@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - RHYTM DIVINE.MP3",
+      "loudnorm": "-8.98,1.40,1.80,-19.06,-0.82",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - RHYTM DIVINE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8086585-ae43-42c1-beac-8cb2ec7a44ff",
+    "title": "ENRIQUE IGLESIAS   -   RHYTM DIVINE",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   RHYTM DIVINE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:00:02.353Z",
+    "modified_at": "2022-11-03T05:00:02.947Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8542137,
+      "gain": -6.57,
+      "duration": 213,
+      "loudnorm": "-8.98,1.40,1.80,-19.06,-0.82",
+      "filename": "processed_c4f01f2b9db5de9207d41da65c852f08.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8542137,
+      "gain": -6.57,
+      "duration": 213,
+      "loudnorm": "-8.98,1.40,1.80,-19.06,-0.82",
+      "filename": "processed_60a02b93fbf97a91f3bc49753553b78f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

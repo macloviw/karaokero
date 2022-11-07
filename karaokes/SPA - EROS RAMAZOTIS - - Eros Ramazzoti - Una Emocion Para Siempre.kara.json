@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Una Emocion Para Siempre.mp3",
+      "loudnorm": "-13.67,0.79,3.80,-23.76,-0.81",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Una Emocion Para Siempre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4cddbcaf-e68b-4302-9f02-bdf7863c785a",
+    "title": "Eros Ramazzoti - Una Emocion Para Siempre",
+    "titles": {
+      "spa": "Eros Ramazzoti - Una Emocion Para Siempre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:10:18.810Z",
+    "modified_at": "2022-11-03T05:10:19.233Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_057011474963d138e76f3fba86ac8f25.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5852407,
+      "gain": -4.05,
+      "duration": 243,
+      "loudnorm": "-13.67,0.79,3.80,-23.76,-0.81",
+      "filename": "processed_57f2ee449ac3d360c06a5545099b8f88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

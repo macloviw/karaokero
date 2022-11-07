@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - SOLO PIENSO ENTI.mp3",
+      "loudnorm": "-12.56,0.44,4.20,-22.65,-0.47",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - SOLO PIENSO ENTI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c47e772-d164-4257-87dd-280442e4c657",
+    "title": "SOLO PIENSO ENTI",
+    "titles": {
+      "spa": "SOLO PIENSO ENTI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:22:06.236Z",
+    "modified_at": "2022-11-03T03:22:06.647Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6ebfce12fbd246e6a82ec55f1004e34.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7106655,
+      "gain": -4.73,
+      "duration": 295,
+      "loudnorm": "-12.56,0.44,4.20,-22.65,-0.47",
+      "filename": "processed_4a998cd6480a8c1404ce9c82358a710d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

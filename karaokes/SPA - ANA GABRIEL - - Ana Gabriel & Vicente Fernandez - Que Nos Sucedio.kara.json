@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA GABRIEL - - Ana Gabriel & Vicente Fernandez - Que Nos Sucedio.mp3",
+      "loudnorm": "-11.65,0.64,2.80,-21.69,-0.82",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA GABRIEL - - Ana Gabriel & Vicente Fernandez - Que Nos Sucedio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9e6ff5af-b120-4345-a6a4-0e2041319b8b",
+    "title": "Ana Gabriel & Vicente Fernandez - Que Nos Sucedio",
+    "titles": {
+      "spa": "Ana Gabriel & Vicente Fernandez - Que Nos Sucedio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "625e8eb2-17b7-451f-a30e-e646442f030d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:24:08.512Z",
+    "modified_at": "2022-11-04T02:24:08.883Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_388abad88e53f83ece79f2e4d30ec1dc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5473019,
+      "gain": -5.45,
+      "duration": 227,
+      "loudnorm": "-11.65,0.64,2.80,-21.69,-0.82",
+      "filename": "processed_fc49cca813d1af15e1a715e28fdc6d7a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

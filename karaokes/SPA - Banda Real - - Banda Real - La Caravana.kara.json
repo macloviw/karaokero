@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - La Caravana.mp3",
+      "loudnorm": "-15.01,0.97,4.90,-25.16,-0.68",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - La Caravana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bbd513fd-90bf-415b-9667-02d39f77d0f9",
+    "title": "Banda Real - La Caravana",
+    "titles": {
+      "spa": "Banda Real - La Caravana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:38:42.545Z",
+    "modified_at": "2022-11-04T02:38:42.931Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2d38ef327a39288c1703fa7df28b1a40.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4431696,
+      "gain": -1.47,
+      "duration": 240,
+      "loudnorm": "-15.01,0.97,4.90,-25.16,-0.68",
+      "filename": "processed_09710aa1d62f7301cd7211d8070d9542.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

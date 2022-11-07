@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - Ednita Nazario - Eres Libre.mp3",
+      "loudnorm": "-13.14,-1.17,3.30,-23.19,-0.75",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - Ednita Nazario - Eres Libre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dcafa2b7-ee73-4ed2-a4a2-963c75899d47",
+    "title": "Ednita Nazario - Eres Libre",
+    "titles": {
+      "spa": "Ednita Nazario - Eres Libre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:24:34.872Z",
+    "modified_at": "2022-11-03T04:24:35.312Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_53c4e6d4b662ca501797c7b7cb536c3b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3988970,
+      "gain": -3.79,
+      "duration": 249,
+      "loudnorm": "-13.14,-1.17,3.30,-23.19,-0.75",
+      "filename": "processed_d8103d1c973ec3e84556928a0e3514f7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

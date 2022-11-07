@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - NI TU NI ELLA.MP3",
+      "loudnorm": "-13.35,-1.38,2.50,-23.47,-0.62",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - NI TU NI ELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "59e15828-8feb-403c-bacd-480b550df7c7",
+    "title": "ALVARO TORREZ   -   NI TU NI ELLA",
+    "titles": {
+      "spa": "ALVARO TORREZ   -   NI TU NI ELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f0041111-b0f0-4aa9-ad5b-b854e26a4ceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:32:40.435Z",
+    "modified_at": "2022-11-03T01:32:41.059Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5022583,
+      "gain": -3.22,
+      "duration": 313,
+      "loudnorm": "-13.35,-1.38,2.50,-23.47,-0.62",
+      "filename": "processed_b13a6367c569a6235cef931a939dde65.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5022583,
+      "gain": -3.22,
+      "duration": 313,
+      "loudnorm": "-13.35,-1.38,2.50,-23.47,-0.62",
+      "filename": "processed_ee97fe1afadd7c78e3227d2db001c994.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

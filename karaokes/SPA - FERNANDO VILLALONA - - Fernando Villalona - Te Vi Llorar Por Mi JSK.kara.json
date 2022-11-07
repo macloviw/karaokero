@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VILLALONA - - Fernando Villalona - Te Vi Llorar Por Mi JSK.mp3",
+      "loudnorm": "-14.26,1.28,4.50,-24.36,-0.44",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VILLALONA - - Fernando Villalona - Te Vi Llorar Por Mi JSK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94d54ee7-8ade-4fd7-8620-5c33e25c5eb9",
+    "title": "Fernando Villalona - Te Vi Llorar Por Mi JSK",
+    "titles": {
+      "spa": "Fernando Villalona - Te Vi Llorar Por Mi JSK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:19:27.819Z",
+    "modified_at": "2022-11-04T03:19:28.209Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f3208dff47bdaba596c5620af15ed28f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10618360,
+      "gain": -2.98,
+      "duration": 265,
+      "loudnorm": "-14.26,1.28,4.50,-24.36,-0.44",
+      "filename": "processed_f2eea017e49cc85a6dca557a4dd4b942.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

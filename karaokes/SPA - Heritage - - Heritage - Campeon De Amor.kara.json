@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Heritage - - Heritage - Campeon De Amor.mp3",
+      "loudnorm": "-16.47,-1.21,9.70,-26.80,-1.45",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Heritage - - Heritage - Campeon De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "84f3b2d9-22e7-409d-8ed4-c6fb2cd78e7f",
+    "title": "Heritage - Campeon De Amor",
+    "titles": {
+      "spa": "Heritage - Campeon De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "52db07f3-1582-4935-bdf6-f40298232f86"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:36:47.884Z",
+    "modified_at": "2022-11-03T23:36:48.263Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42eaad2448e244a42366f07a3738c8a2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4095261,
+      "gain": -1.48,
+      "duration": 255,
+      "loudnorm": "-16.47,-1.21,9.70,-26.80,-1.45",
+      "filename": "processed_2961e77698682c6cd8c5d3a1469aedea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diana Ross - - Diana Ross - Not Over You Yet.MP3",
+      "loudnorm": "-15.99,-3.37,6.90,-26.25,-0.45",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diana Ross - - Diana Ross - Not Over You Yet.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "517e6195-92aa-4946-a02b-230af4bd6784",
+    "title": "Diana Ross - Not Over You Yet",
+    "titles": {
+      "spa": "Diana Ross - Not Over You Yet"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "11bf1126-ac02-41c6-a5a8-9046a3770bc9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:00:21.523Z",
+    "modified_at": "2022-11-03T16:00:22.687Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4066839,
+      "gain": 0.77,
+      "duration": 254,
+      "loudnorm": "-15.99,-3.37,6.90,-26.25,-0.45",
+      "filename": "processed_ab0175ef19629f1a34da171752b14e94.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4066839,
+      "gain": 0.77,
+      "duration": 254,
+      "loudnorm": "-15.99,-3.37,6.90,-26.25,-0.45",
+      "filename": "processed_47ac70dbe42860ff17856c237ac04d3a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

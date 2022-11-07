@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - QUISIERA SER BY CHAYANNE.CDG.MP3",
+      "loudnorm": "-11.90,2.17,9.20,-22.08,-1.31",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - QUISIERA SER BY CHAYANNE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ee8fd235-3ebe-4860-887b-506be4e09c7c",
+    "title": "QUISIERA SER BY CHAYANNE.CDG",
+    "titles": {
+      "spa": "QUISIERA SER BY CHAYANNE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:21:33.456Z",
+    "modified_at": "2022-11-03T03:21:34.051Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4367223,
+      "gain": -6.02,
+      "duration": 272,
+      "loudnorm": "-11.90,2.17,9.20,-22.08,-1.31",
+      "filename": "processed_c2693000e72284e747a768703fc788cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4367223,
+      "gain": -6.02,
+      "duration": 272,
+      "loudnorm": "-11.90,2.17,9.20,-22.08,-1.31",
+      "filename": "processed_70465ccf31b6a96732bed4f78934b593.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

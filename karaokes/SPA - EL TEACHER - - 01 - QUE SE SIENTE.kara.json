@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL TEACHER - - 01 - QUE SE SIENTE.mp3",
+      "loudnorm": "-17.99,-1.17,4.00,-28.04,-0.73",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL TEACHER - - 01 - QUE SE SIENTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f9b95f0a-3239-4f4d-9039-57e396a8894d",
+    "title": "01 - QUE SE SIENTE",
+    "titles": {
+      "spa": "01 - QUE SE SIENTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9577ed66-bd46-4496-a4cb-95a8cff5c148"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:05:16.169Z",
+    "modified_at": "2022-11-03T22:05:16.619Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_46757901f0d56c04a4d1f727b3c63a89.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3654730,
+      "gain": 1.33,
+      "duration": 228,
+      "loudnorm": "-17.99,-1.17,4.00,-28.04,-0.73",
+      "filename": "processed_8563f064be8fc5e4301d646ca1b26650.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

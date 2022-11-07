@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - DONDE ESTAS CORAZON.MP3",
+      "loudnorm": "-10.22,2.03,4.40,-20.38,-0.42",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - DONDE ESTAS CORAZON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5fe7ea94-a640-4902-b3cd-bf6f64e282b2",
+    "title": "SHAKIRA   -   DONDE ESTAS CORAZON",
+    "titles": {
+      "spa": "SHAKIRA   -   DONDE ESTAS CORAZON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:00:12.076Z",
+    "modified_at": "2022-11-03T13:00:12.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3143857,
+      "gain": -6.83,
+      "duration": 196,
+      "loudnorm": "-10.22,2.03,4.40,-20.38,-0.42",
+      "filename": "processed_d6bb54ff8502f11ff364377a5f1c1fd1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3143857,
+      "gain": -6.83,
+      "duration": 196,
+      "loudnorm": "-10.22,2.03,4.40,-20.38,-0.42",
+      "filename": "processed_4281e288c95dda9b1fc58cee5600cd8c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

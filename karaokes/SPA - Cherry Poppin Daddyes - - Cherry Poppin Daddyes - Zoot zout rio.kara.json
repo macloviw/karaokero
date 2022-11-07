@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cherry Poppin Daddyes - - Cherry Poppin Daddyes - Zoot zout rio.MP3",
+      "loudnorm": "-17.71,0.13,4.30,-27.77,-0.56",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cherry Poppin Daddyes - - Cherry Poppin Daddyes - Zoot zout rio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90b7af73-1897-42bc-bfd5-a881c80901e1",
+    "title": "Cherry Poppin Daddyes - Zoot zout rio",
+    "titles": {
+      "spa": "Cherry Poppin Daddyes - Zoot zout rio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5819474b-b7e7-4751-b1bd-888bdbdade75"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:13:38.350Z",
+    "modified_at": "2022-11-04T00:13:38.901Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3992025,
+      "gain": -0.51,
+      "duration": 249,
+      "loudnorm": "-17.71,0.13,4.30,-27.77,-0.56",
+      "filename": "processed_83ee8fbdee081bc9e82d2f576263d083.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3992025,
+      "gain": -0.51,
+      "duration": 249,
+      "loudnorm": "-17.71,0.13,4.30,-27.77,-0.56",
+      "filename": "processed_fd162a40006ebdece7731af0c33e9d3b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

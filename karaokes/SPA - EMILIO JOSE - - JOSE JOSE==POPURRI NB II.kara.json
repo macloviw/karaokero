@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - JOSE JOSE==POPURRI NB II.mp3",
+      "loudnorm": "-12.13,1.14,10.50,-22.45,-1.26",
+      "duration": 424,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - JOSE JOSE==POPURRI NB II.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ab47a373-c7f1-49a4-8108-caeb21c0bc82",
+    "title": "JOSE JOSE==POPURRI NB II",
+    "titles": {
+      "spa": "JOSE JOSE==POPURRI NB II"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:06:31.478Z",
+    "modified_at": "2022-11-03T07:06:31.888Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ed190abac08fef9cc64c222a72361e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10189314,
+      "gain": -5.49,
+      "duration": 424,
+      "loudnorm": "-12.13,1.14,10.50,-22.45,-1.26",
+      "filename": "processed_f6a69cada7c7d78e19eb0ff3ba39cc35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Britney Spears - - Britney Spears - Opps!...I Did It Again.mp3",
+      "loudnorm": "-15.37,0.23,10.60,-25.71,-0.73",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Britney Spears - - Britney Spears - Opps!...I Did It Again.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "999b4351-56e8-49d6-af60-dbe19fd00e1d",
+    "title": "Britney Spears - Opps!...I Did It Again",
+    "titles": {
+      "spa": "Britney Spears - Opps!...I Did It Again"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "1730868a-1882-4a56-b682-529f88d74565"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:52:19.066Z",
+    "modified_at": "2022-11-03T13:52:19.485Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ed0f52841cbe66f1b100042243c8a71.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5001394,
+      "gain": -3.5,
+      "duration": 208,
+      "loudnorm": "-15.37,0.23,10.60,-25.71,-0.73",
+      "filename": "processed_0b34bdbbd263d6250803027357608b70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

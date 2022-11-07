@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Gray - - David Gray - This Year's Love.mp3",
+      "loudnorm": "-15.97,-1.06,6.30,-26.08,-1.01",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Gray - - David Gray - This Year's Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63dff042-1d1a-46c1-ac2b-9f23ecd9e845",
+    "title": "David Gray - This Year's Love",
+    "titles": {
+      "spa": "David Gray - This Year's Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "518808d2-b388-40e0-9a77-39095405260c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:50:03.312Z",
+    "modified_at": "2022-11-03T15:50:03.791Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4388709f6bc2be33b0ce1c9632b82613.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4187211,
+      "gain": -1.43,
+      "duration": 261,
+      "loudnorm": "-15.97,-1.06,6.30,-26.08,-1.01",
+      "filename": "processed_e9f54b388bd82a9e69160aad824d38e7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

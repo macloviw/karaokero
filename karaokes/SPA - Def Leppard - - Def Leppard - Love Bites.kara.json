@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Def Leppard - - Def Leppard - Love Bites.MP3",
+      "loudnorm": "-18.85,-0.77,10.60,-29.50,-1.59",
+      "duration": 343,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Def Leppard - - Def Leppard - Love Bites.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f9cac9f-41b6-4003-99d7-c83ff9bbb1b6",
+    "title": "Def Leppard - Love Bites",
+    "titles": {
+      "spa": "Def Leppard - Love Bites"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9506261b-e3d0-4a55-89f5-95bec7bd8dec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:52:53.403Z",
+    "modified_at": "2022-11-03T15:52:54.138Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5490408,
+      "gain": 2.71,
+      "duration": 343,
+      "loudnorm": "-18.85,-0.77,10.60,-29.50,-1.59",
+      "filename": "processed_2d106b186f690523d98090aa31a57597.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5490408,
+      "gain": 2.71,
+      "duration": 343,
+      "loudnorm": "-18.85,-0.77,10.60,-29.50,-1.59",
+      "filename": "processed_170b324f8ee7bd0f3defac4b3d2c13d9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

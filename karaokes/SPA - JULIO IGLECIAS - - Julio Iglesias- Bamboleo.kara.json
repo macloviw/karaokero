@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Bamboleo.mp3",
+      "loudnorm": "-15.47,-0.58,5.10,-25.69,-0.36",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO IGLECIAS - - Julio Iglesias- Bamboleo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "27098cb0-e1b5-481a-96f1-8468f08ab52f",
+    "title": "Julio Iglesias- Bamboleo",
+    "titles": {
+      "spa": "Julio Iglesias- Bamboleo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a539fb0a-fecc-42e4-ab13-bdbf2b7297f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:02:21.065Z",
+    "modified_at": "2022-11-03T08:02:21.589Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0fe94d19d3abd5c5db52c9d72a0a91df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4629411,
+      "gain": -2.02,
+      "duration": 289,
+      "loudnorm": "-15.47,-0.58,5.10,-25.69,-0.36",
+      "filename": "processed_8831114a1bae28fa4e3bfa1abac39663.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

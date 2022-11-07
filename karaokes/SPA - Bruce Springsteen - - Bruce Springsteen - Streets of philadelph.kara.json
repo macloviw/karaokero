@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Streets of philadelph.mp3",
+      "loudnorm": "-17.47,-0.10,6.00,-27.67,-1.24",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bruce Springsteen - - Bruce Springsteen - Streets of philadelph.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8373084f-eaf7-4049-833a-537f5ac4a36f",
+    "title": "Bruce Springsteen - Streets of philadelph",
+    "titles": {
+      "spa": "Bruce Springsteen - Streets of philadelph"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "519e51c8-b6b2-45d6-bf2b-2b45f97931a8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:30:10.258Z",
+    "modified_at": "2022-11-03T15:30:10.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_413c0472f5d8266e7e6e7e1eae588e69.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4146669,
+      "gain": 0.16,
+      "duration": 259,
+      "loudnorm": "-17.47,-0.10,6.00,-27.67,-1.24",
+      "filename": "processed_18bd7d391a7cbd1a0bb3d3706093d33c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

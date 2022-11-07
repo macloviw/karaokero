@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ISABEL PANTOJA - - 05.- Bueneos dias tristeza.mp3",
+      "loudnorm": "-14.30,0.40,6.90,-24.57,-0.30",
+      "duration": 340,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ISABEL PANTOJA - - 05.- Bueneos dias tristeza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63fb3ad2-dcd3-476b-9b1b-3afe3c9ba25c",
+    "title": "05.- Bueneos dias tristeza",
+    "titles": {
+      "spa": "05.- Bueneos dias tristeza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ca0a4963-49c9-4f5a-886d-ed2e8febd3e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:52:23.044Z",
+    "modified_at": "2022-11-03T05:52:23.474Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0dec9d77d79dcc330f2055e96fbc64e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5443102,
+      "gain": -2.47,
+      "duration": 340,
+      "loudnorm": "-14.30,0.40,6.90,-24.57,-0.30",
+      "filename": "processed_8d0f66cd0854a2fb6ad5d76df318891b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

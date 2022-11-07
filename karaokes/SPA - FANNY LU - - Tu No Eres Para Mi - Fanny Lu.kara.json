@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FANNY LU - - Tu No Eres Para Mi - Fanny Lu.mp3",
+      "loudnorm": "-13.34,1.52,9.90,-23.57,-1.46",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FANNY LU - - Tu No Eres Para Mi - Fanny Lu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca8ee3d4-9f95-4cb5-80ea-d177d835517b",
+    "title": "Tu No Eres Para Mi - Fanny Lu",
+    "titles": {
+      "spa": "Tu No Eres Para Mi - Fanny Lu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "64041063-c1b1-4327-915d-d192ed7b3d98"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:13:35.075Z",
+    "modified_at": "2022-11-03T05:13:35.508Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_203b52b1c441f5e449375a2d22a61d17.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5209538,
+      "gain": -4.52,
+      "duration": 216,
+      "loudnorm": "-13.34,1.52,9.90,-23.57,-1.46",
+      "filename": "processed_a27351238febc0fd29446c43d5ad6dc4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

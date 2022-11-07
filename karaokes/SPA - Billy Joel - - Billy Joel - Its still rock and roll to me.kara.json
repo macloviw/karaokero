@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Joel - - Billy Joel - Its still rock and roll to me.MP3",
+      "loudnorm": "-18.44,0.09,4.80,-28.67,-0.94",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Joel - - Billy Joel - Its still rock and roll to me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bcc9546-e095-4251-bc5b-d5eef8a7a3e1",
+    "title": "Billy Joel - Its still rock and roll to me",
+    "titles": {
+      "spa": "Billy Joel - Its still rock and roll to me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "86768663-73b7-4abf-aaf6-17bab636a302"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:04:27.910Z",
+    "modified_at": "2022-11-03T15:04:28.450Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2771873,
+      "gain": 0.46,
+      "duration": 173,
+      "loudnorm": "-18.44,0.09,4.80,-28.67,-0.94",
+      "filename": "processed_8f1b36e771fd0c16bedb3e3e610b6405.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2771873,
+      "gain": 0.46,
+      "duration": 173,
+      "loudnorm": "-18.44,0.09,4.80,-28.67,-0.94",
+      "filename": "processed_a07bd6321860616d72ac38bcdbc75f45.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

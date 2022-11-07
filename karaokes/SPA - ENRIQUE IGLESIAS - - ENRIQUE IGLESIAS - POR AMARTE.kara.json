@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - POR AMARTE.MP3",
+      "loudnorm": "-7.94,0.19,2.90,-18.16,-0.18",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - POR AMARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8ca59366-0147-4f69-a0d4-e0bd4743a31c",
+    "title": "ENRIQUE IGLESIAS   -   POR AMARTE",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   POR AMARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:59:24.602Z",
+    "modified_at": "2022-11-03T04:59:25.232Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9765713,
+      "gain": -8.83,
+      "duration": 244,
+      "loudnorm": "-7.94,0.19,2.90,-18.16,-0.18",
+      "filename": "processed_defbccc5051459925a14f53ab421c351.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9765713,
+      "gain": -8.83,
+      "duration": 244,
+      "loudnorm": "-7.94,0.19,2.90,-18.16,-0.18",
+      "filename": "processed_3cded98db888b0448b0342373be61902.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

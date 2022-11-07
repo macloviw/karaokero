@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - ODIAME.mp3",
+      "loudnorm": "-16.05,-1.76,2.80,-26.11,-0.46",
+      "duration": 390,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - ODIAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ba81aca-e030-4a0b-a3a4-bcf097d06078",
+    "title": "CHARLIE ZAA   -   ODIAME",
+    "titles": {
+      "spa": "CHARLIE ZAA   -   ODIAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:11:04.545Z",
+    "modified_at": "2022-11-03T03:11:04.979Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4854571885aa06e28080112df7c8e380.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6255563,
+      "gain": 0.17,
+      "duration": 390,
+      "loudnorm": "-16.05,-1.76,2.80,-26.11,-0.46",
+      "filename": "processed_bda295a4ca557112890930233827a0e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO LERNER - - Alejandro Lerner - Algo De Mi En Tu Corazon.mp3",
+      "loudnorm": "-11.21,1.55,4.90,-21.29,-1.22",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO LERNER - - Alejandro Lerner - Algo De Mi En Tu Corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "320fde80-a2cd-4d4e-a64b-5b9e74b079c5",
+    "title": "Alejandro Lerner - Algo De Mi En Tu Corazon",
+    "titles": {
+      "spa": "Alejandro Lerner - Algo De Mi En Tu Corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "f03216d1-7fab-4c4f-a09c-8089e62877a1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:58:17.548Z",
+    "modified_at": "2022-11-04T01:58:17.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02cffbd5a81ae96b238a3d5f14dc9482.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6941240,
+      "gain": -5.8,
+      "duration": 289,
+      "loudnorm": "-11.21,1.55,4.90,-21.29,-1.22",
+      "filename": "processed_2615f4fad4aa07912e9fb311db8e0d35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

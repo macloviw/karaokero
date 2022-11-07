@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - A Gatas.mp3",
+      "loudnorm": "-11.40,2.66,11.10,-21.84,-1.20",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - A Gatas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "511f4765-0d43-4112-85af-89ea6d9f13ac",
+    "title": "Gloria Trevi - A Gatas",
+    "titles": {
+      "spa": "Gloria Trevi - A Gatas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:39:42.876Z",
+    "modified_at": "2022-11-03T05:39:43.315Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79a1e2ca294ecd0bd28b4ae9eea2fcca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8833662,
+      "gain": -6.02,
+      "duration": 220,
+      "loudnorm": "-11.40,2.66,11.10,-21.84,-1.20",
+      "filename": "processed_c38dee20b0bcf2ad13301cfe96f44fdf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

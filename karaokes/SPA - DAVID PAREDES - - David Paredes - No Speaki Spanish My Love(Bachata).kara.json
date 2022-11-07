@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DAVID PAREDES - - David Paredes - No Speaki Spanish My Love(Bachata).mp3",
+      "loudnorm": "-8.13,5.43,1.30,-18.17,-0.54",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DAVID PAREDES - - David Paredes - No Speaki Spanish My Love(Bachata).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bdfe3fff-7080-46fa-bc10-7b004aea632b",
+    "title": "David Paredes - No Speaki Spanish My Love(Bachata)",
+    "titles": {
+      "spa": "David Paredes - No Speaki Spanish My Love(Bachata)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "231b51eb-66c7-40c7-82a0-41861c666cd2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:22:35.495Z",
+    "modified_at": "2022-11-02T23:22:35.949Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0a650e37f6c68dea96ac21bf1d5153be.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4825930,
+      "gain": -8.25,
+      "duration": 301,
+      "loudnorm": "-8.13,5.43,1.30,-18.17,-0.54",
+      "filename": "processed_e6819f4455d3b492f15bee145ceb7c89.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

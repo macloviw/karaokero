@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - TE DARIA MI VIDA.MP3",
+      "loudnorm": "-13.02,0.02,2.30,-23.33,-0.08",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - TE DARIA MI VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a24ec5f-5c17-47cf-af2f-3ff98fa3a519",
+    "title": "PAULINA RUBIO   -   TE DARIA MI VIDA",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   TE DARIA MI VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:18:43.101Z",
+    "modified_at": "2022-11-03T11:18:43.731Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10210839,
+      "gain": -4.91,
+      "duration": 255,
+      "loudnorm": "-13.02,0.02,2.30,-23.33,-0.08",
+      "filename": "processed_46139e356e596a63a506ddf4ca4c2a6f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10210839,
+      "gain": -4.91,
+      "duration": 255,
+      "loudnorm": "-13.02,0.02,2.30,-23.33,-0.08",
+      "filename": "processed_fcf4e3a20f98fd780a9480e88129eb0b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

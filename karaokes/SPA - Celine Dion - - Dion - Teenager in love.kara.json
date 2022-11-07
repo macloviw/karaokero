@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Celine Dion - - Dion - Teenager in love.mp3",
+      "loudnorm": "-11.87,2.41,3.80,-22.26,-1.18",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Celine Dion - - Dion - Teenager in love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d431e547-59af-44fd-85d1-fb67b1132e9f",
+    "title": "Dion - Teenager in love",
+    "titles": {
+      "spa": "Dion - Teenager in love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5fc6426c-7261-4250-a283-a8645c8b1afb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:04:38.537Z",
+    "modified_at": "2022-11-03T16:04:38.988Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_48e610478c63886c82249b978c2ae2ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2841683,
+      "gain": -4.43,
+      "duration": 177,
+      "loudnorm": "-11.87,2.41,3.80,-22.26,-1.18",
+      "filename": "processed_e2d360361ecc04c8a63f3da4518614b4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

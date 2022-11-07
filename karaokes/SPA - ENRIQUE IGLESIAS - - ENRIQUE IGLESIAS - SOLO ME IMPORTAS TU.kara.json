@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - SOLO ME IMPORTAS TU.MP3",
+      "loudnorm": "-9.78,0.25,10.50,-20.24,-0.60",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - ENRIQUE IGLESIAS - SOLO ME IMPORTAS TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "682277fd-f5de-43c2-a748-b0b8495bc7a6",
+    "title": "ENRIQUE IGLESIAS   -   SOLO ME IMPORTAS TU",
+    "titles": {
+      "spa": "ENRIQUE IGLESIAS   -   SOLO ME IMPORTAS TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:00:57.139Z",
+    "modified_at": "2022-11-03T05:00:57.853Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9046823,
+      "gain": -8.33,
+      "duration": 226,
+      "loudnorm": "-9.78,0.25,10.50,-20.24,-0.60",
+      "filename": "processed_96d3bd4d61ad8fdb9d2b3b9493908f8e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9046823,
+      "gain": -8.33,
+      "duration": 226,
+      "loudnorm": "-9.78,0.25,10.50,-20.24,-0.60",
+      "filename": "processed_261cf550c21a425bf389080d54ed13e7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

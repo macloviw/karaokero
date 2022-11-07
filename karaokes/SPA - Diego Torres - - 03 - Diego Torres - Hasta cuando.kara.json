@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diego Torres - - 03 - Diego Torres - Hasta cuando.mp3",
+      "loudnorm": "-14.34,-1.09,11.90,-24.72,-2.13",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diego Torres - - 03 - Diego Torres - Hasta cuando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5153515c-3e6c-480e-a131-a3444d5a36d4",
+    "title": "03 - Diego Torres - Hasta cuando",
+    "titles": {
+      "spa": "03 - Diego Torres - Hasta cuando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8abc4391-5a6e-4c15-a74b-43d28684cd27"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:09:52.008Z",
+    "modified_at": "2022-11-03T04:09:52.465Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0819289bb3b89cba5c5760fc23603271.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5974144,
+      "gain": -4.5,
+      "duration": 248,
+      "loudnorm": "-14.34,-1.09,11.90,-24.72,-2.13",
+      "filename": "processed_7851081fc185c2ec86bc835572891624.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

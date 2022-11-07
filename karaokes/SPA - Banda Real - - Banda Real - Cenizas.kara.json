@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - Cenizas.mp3",
+      "loudnorm": "-14.07,1.65,3.80,-24.10,-0.63",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - Cenizas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cee3a8b7-1022-42d5-82cd-b3cb56446ea1",
+    "title": "Banda Real - Cenizas",
+    "titles": {
+      "spa": "Banda Real - Cenizas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:36:23.274Z",
+    "modified_at": "2022-11-04T02:36:23.667Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_452a1b31e3470c3a06e573b1e517c5e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4915715,
+      "gain": -2.66,
+      "duration": 307,
+      "loudnorm": "-14.07,1.65,3.80,-24.10,-0.63",
+      "filename": "processed_98a782ab9a774913f46e71187e683bab.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - Dime Donde.mp3",
+      "loudnorm": "-11.68,1.87,6.60,-21.76,-1.30",
+      "duration": 321,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - Dime Donde.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd63e20a-c396-405a-a38c-fa45760eca7e",
+    "title": "Sergio Vargas - Dime Donde",
+    "titles": {
+      "spa": "Sergio Vargas - Dime Donde"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "073b4cf7-9ec2-4fea-ab61-59e4d53bb98a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:01:56.825Z",
+    "modified_at": "2022-11-04T11:01:57.215Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2d6b9736aea893c77c12be6059bbbb6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5146752,
+      "gain": -8.27,
+      "duration": 321,
+      "loudnorm": "-11.68,1.87,6.60,-21.76,-1.30",
+      "filename": "processed_07e59d41bc372ab6b527dd9a843ff870.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - HOMBRE LIBRE.mp3",
+      "loudnorm": "-15.73,1.81,4.50,-25.76,-0.34",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - HOMBRE LIBRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2cf8d5ae-cecb-444c-8a7d-506af4b5d71c",
+    "title": "ANTHONY RIOS - HOMBRE LIBRE",
+    "titles": {
+      "spa": "ANTHONY RIOS - HOMBRE LIBRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:28:44.492Z",
+    "modified_at": "2022-11-04T02:28:44.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_385a6db01f3fb6fdd425db6aa15d0227.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4026714,
+      "gain": -3.68,
+      "duration": 251,
+      "loudnorm": "-15.73,1.81,4.50,-25.76,-0.34",
+      "filename": "processed_4f3dda03611dcb4fc656dca4519819cc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cri-Cri - - (Infatiles) - El Raton Vaquero (Multiplex).mp3",
+      "loudnorm": "-14.62,-0.04,6.10,-24.85,-0.08",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cri-Cri - - (Infatiles) - El Raton Vaquero (Multiplex).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c7afa37-8404-4cd6-9f06-ca955f7838ab",
+    "title": "(Infatiles)  - El Raton Vaquero (Multiplex)",
+    "titles": {
+      "spa": "(Infatiles)  - El Raton Vaquero (Multiplex)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "65fe2370-92b8-4b26-a2c8-12b3fc7cac46"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:51:23.569Z",
+    "modified_at": "2022-11-04T02:51:23.965Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_30d9109d9b20e18552f4b6e8e9f9f8ed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4623436,
+      "gain": -3.14,
+      "duration": 192,
+      "loudnorm": "-14.62,-0.04,6.10,-24.85,-0.08",
+      "filename": "processed_a18efd422eca740c1617bd99bb4ce250.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

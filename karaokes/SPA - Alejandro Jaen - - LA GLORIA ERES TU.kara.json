@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Jaen - - LA GLORIA ERES TU.mp3",
+      "loudnorm": "-13.07,0.54,2.20,-23.10,-0.13",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Jaen - - LA GLORIA ERES TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78d9cfa3-cd3e-488b-9b5e-0c9b243a13c7",
+    "title": "LA GLORIA ERES TU",
+    "titles": {
+      "spa": "LA GLORIA ERES TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e4c64010-3124-46c9-b585-ed319edec6bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:56:34.738Z",
+    "modified_at": "2022-11-03T05:56:35.149Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0b7841565039cf0ed193d90e9ce8ee9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3464142,
+      "gain": -3.05,
+      "duration": 216,
+      "loudnorm": "-13.07,0.54,2.20,-23.10,-0.13",
+      "filename": "processed_aac0ba29c8f86ed7bf7ecb268f5d577a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

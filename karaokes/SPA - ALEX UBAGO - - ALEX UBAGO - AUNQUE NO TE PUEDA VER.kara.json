@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX UBAGO - - ALEX UBAGO - AUNQUE NO TE PUEDA VER.MP3",
+      "loudnorm": "-13.82,2.30,8.10,-24.26,-0.86",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX UBAGO - - ALEX UBAGO - AUNQUE NO TE PUEDA VER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f17b23b-77b4-40c6-992e-0cebe5aa3b7c",
+    "title": "ALEX UBAGO   -   AUNQUE NO TE PUEDA VER",
+    "titles": {
+      "spa": "ALEX UBAGO   -   AUNQUE NO TE PUEDA VER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b55c95d-31be-42a1-88a3-d1e0b29146c6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:15:39.908Z",
+    "modified_at": "2022-11-03T01:15:40.556Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4416253,
+      "gain": -4.66,
+      "duration": 275,
+      "loudnorm": "-13.82,2.30,8.10,-24.26,-0.86",
+      "filename": "processed_29df118f558aff0803d3e51cd7b7bfd7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4416253,
+      "gain": -4.66,
+      "duration": 275,
+      "loudnorm": "-13.82,2.30,8.10,-24.26,-0.86",
+      "filename": "processed_199f7a327dc64fe7f9a945b5becd8ce8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

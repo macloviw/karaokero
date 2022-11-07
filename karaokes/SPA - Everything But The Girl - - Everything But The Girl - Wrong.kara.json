@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Everything But The Girl - - Everything But The Girl - Wrong.mp3",
+      "loudnorm": "-8.67,8.48,3.80,-18.68,-0.67",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Everything But The Girl - - Everything But The Girl - Wrong.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87e2ce83-231e-4633-be6f-00f532cbc26e",
+    "title": "Everything But The Girl - Wrong",
+    "titles": {
+      "spa": "Everything But The Girl - Wrong"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "169c1406-8af4-4052-8d3b-115a8eeec9ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:39:50.530Z",
+    "modified_at": "2022-11-04T00:39:50.916Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_553c81960b2e6e039243f7d1c7e6d508.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3995982,
+      "gain": -9.18,
+      "duration": 249,
+      "loudnorm": "-8.67,8.48,3.80,-18.68,-0.67",
+      "filename": "processed_42e74b409d1f9fbe8c6f5901cc0cd85d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Negro - - NEGROS-TAL PARECE QUE YO.mp3",
+      "loudnorm": "-12.03,2.14,7.30,-22.46,-1.55",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Negro - - NEGROS-TAL PARECE QUE YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1643fafe-120d-4734-b9a1-18ab75507797",
+    "title": "NEGROS-TAL PARECE QUE YO",
+    "titles": {
+      "spa": "NEGROS-TAL PARECE QUE YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6428b7e8-d64d-408c-ac54-12e78779a519"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:47:15.958Z",
+    "modified_at": "2022-11-03T05:47:16.379Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_423b6e13f25952031b25e452cb2d7684.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2965021,
+      "gain": -4.9,
+      "duration": 211,
+      "loudnorm": "-12.03,2.14,7.30,-22.46,-1.55",
+      "filename": "processed_5840e3c7c0ffcff107a0edde989b145b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

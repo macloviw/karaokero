@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAPHAEL - - RAPHAEL - MI GRAN NOCHE - copia.mp3",
+      "loudnorm": "-18.63,-8.78,5.40,-28.84,0.06",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAPHAEL - - RAPHAEL - MI GRAN NOCHE - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec344e9a-f099-42f4-a597-717cabe7f017",
+    "title": "RAPHAEL - MI GRAN NOCHE - copia",
+    "titles": {
+      "spa": "RAPHAEL - MI GRAN NOCHE - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:18:32.972Z",
+    "modified_at": "2022-11-04T08:18:33.348Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44ce99dd19881ba127d5ab8c10b70eb9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4297151,
+      "gain": 0.45,
+      "duration": 178,
+      "loudnorm": "-18.63,-8.78,5.40,-28.84,0.06",
+      "filename": "processed_990eed4b407f7279c118b097839b8750.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

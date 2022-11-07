@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos verdes - Solo dame otra oportunidad.mp3",
+      "loudnorm": "-10.79,2.45,5.30,-20.98,-0.80",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos verdes - Solo dame otra oportunidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fad54d9-eaa8-4254-a9d0-3fce26ef0315",
+    "title": "Enanitos verdes - Solo dame otra oportunidad",
+    "titles": {
+      "spa": "Enanitos verdes - Solo dame otra oportunidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:49:02.092Z",
+    "modified_at": "2022-11-03T04:49:02.504Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e76f9b560a9d22404baf8a534830bed6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3136238,
+      "gain": -6.17,
+      "duration": 196,
+      "loudnorm": "-10.79,2.45,5.30,-20.98,-0.80",
+      "filename": "processed_7887ec933e809f5949d9022a283c0a35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

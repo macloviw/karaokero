@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - POR QUE ES TAN CRUEL EL AMOR_New1.mp3",
+      "loudnorm": "-13.97,1.39,8.40,-24.26,-1.38",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - POR QUE ES TAN CRUEL EL AMOR_New1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8621f249-75e9-40dd-8135-9e5c8586db38",
+    "title": "POR QUE ES TAN CRUEL EL AMOR_New1",
+    "titles": {
+      "spa": "POR QUE ES TAN CRUEL EL AMOR_New1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:53:23.842Z",
+    "modified_at": "2022-11-03T11:53:24.254Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e56e198c9da85948923d705d06a14b1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4227670,
+      "gain": -4.59,
+      "duration": 264,
+      "loudnorm": "-13.97,1.39,8.40,-24.26,-1.38",
+      "filename": "processed_526211a11bee07386529bcf8ed51ec41.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

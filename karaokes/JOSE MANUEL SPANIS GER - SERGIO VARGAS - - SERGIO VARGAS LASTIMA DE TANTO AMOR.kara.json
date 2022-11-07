@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - SERGIO VARGAS LASTIMA DE TANTO AMOR.mp3",
+      "loudnorm": "-10.94,6.15,3.60,-21.10,-0.23",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - SERGIO VARGAS LASTIMA DE TANTO AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "837330a3-f6d7-47f5-884c-eecd3d5ceeaa",
+    "title": "SERGIO VARGAS LASTIMA DE TANTO AMOR",
+    "titles": {
+      "spa": "SERGIO VARGAS LASTIMA DE TANTO AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "073b4cf7-9ec2-4fea-ab61-59e4d53bb98a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:03:56.201Z",
+    "modified_at": "2022-11-04T11:03:56.589Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6873df8664e161b97d58889b9ab3e75e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4126720,
+      "gain": -7.97,
+      "duration": 257,
+      "loudnorm": "-10.94,6.15,3.60,-21.10,-0.23",
+      "filename": "processed_7f5b9eab92a69a7767e614696199bdf8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

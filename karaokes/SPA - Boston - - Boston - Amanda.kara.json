@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Boston - - Boston - Amanda.MP3",
+      "loudnorm": "-9.92,1.60,2.60,-19.97,-0.00",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Boston - - Boston - Amanda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a187d7f4-8843-4708-b331-5aaa5df4c5eb",
+    "title": "Boston - Amanda",
+    "titles": {
+      "spa": "Boston - Amanda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "06f0f30a-ee4a-48b6-a759-e1c10da4a283"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:08:09.333Z",
+    "modified_at": "2022-11-04T00:08:09.811Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4088154,
+      "gain": -7.26,
+      "duration": 255,
+      "loudnorm": "-9.92,1.60,2.60,-19.97,-0.00",
+      "filename": "processed_5dc493e7ee4e8749ee88609338163f57.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4088154,
+      "gain": -7.26,
+      "duration": 255,
+      "loudnorm": "-9.92,1.60,2.60,-19.97,-0.00",
+      "filename": "processed_bcc28f47b44b63a131bc5efc4c139317.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

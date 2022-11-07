@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - FRANK REYES - EXTRANO MI PUEBLO.mp3",
+      "loudnorm": "-13.43,-0.50,2.50,-23.45,-0.28",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - FRANK REYES - EXTRANO MI PUEBLO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf49dee3-84ca-4864-9682-9dbdd56976f2",
+    "title": "FRANK REYES - EXTRANO MI PUEBLO",
+    "titles": {
+      "spa": "FRANK REYES - EXTRANO MI PUEBLO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:43:29.558Z",
+    "modified_at": "2022-11-02T23:43:29.995Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd8124707563ffb8936244f792bd4ac7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6906034,
+      "gain": -3.71,
+      "duration": 287,
+      "loudnorm": "-13.43,-0.50,2.50,-23.45,-0.28",
+      "filename": "processed_361ca7f394402aa29aa1884e90d2f14b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

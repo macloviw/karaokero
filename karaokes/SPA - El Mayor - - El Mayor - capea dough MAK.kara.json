@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Mayor - - El Mayor - capea dough MAK.mp3",
+      "loudnorm": "-13.63,2.53,3.90,-23.94,-0.89",
+      "duration": 140,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Mayor - - El Mayor - capea dough MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "982cb60d-3f23-4552-9b2b-9473f60bb528",
+    "title": "El Mayor - capea dough MAK",
+    "titles": {
+      "spa": "El Mayor - capea dough MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "b28b129b-02a0-4845-a395-4bb5be7b62f7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:47:25.734Z",
+    "modified_at": "2022-11-03T23:47:26.108Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_db50c986303a0eae9038240da696a586.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3382640,
+      "gain": -5.1,
+      "duration": 140,
+      "loudnorm": "-13.63,2.53,3.90,-23.94,-0.89",
+      "filename": "processed_343ee330d2b348c10043e6f549fc1659.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

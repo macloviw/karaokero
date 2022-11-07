@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Pequeno huracan RK.mp3",
+      "loudnorm": "-9.98,1.59,2.80,-20.02,0.52",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Pequeno huracan RK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "14b799fd-e95e-4005-9d54-52de041afce1",
+    "title": "Anthony Santos - Pequeño huracán RK",
+    "titles": {
+      "spa": "Anthony Santos - Pequeño huracán RK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:16:47.518Z",
+    "modified_at": "2022-11-02T22:16:48.042Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8457100a9279daf9e1f18e200d909611.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6507476,
+      "gain": -8.69,
+      "duration": 271,
+      "loudnorm": "-9.98,1.59,2.80,-20.02,0.52",
+      "filename": "processed_55e1a09f4fb4eaa6a2ae24e123f8db78.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Canaveral - - Grupo Canaveral - Hasta El Cielo Lloro.mp3",
+      "loudnorm": "-11.61,0.41,2.30,-21.63,-0.15",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Canaveral - - Grupo Canaveral - Hasta El Cielo Lloro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3e59fa33-bbb2-4aaf-b2a0-07679115a071",
+    "title": "Grupo Canaveral - Hasta El Cielo Lloro",
+    "titles": {
+      "spa": "Grupo Canaveral - Hasta El Cielo Lloro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af484613-b6b0-48b7-aff7-2af99da9eea6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:21:39.667Z",
+    "modified_at": "2022-11-03T22:21:40.042Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_998bd813b8cb717591c97abf41f64672.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5453824,
+      "gain": -6.64,
+      "duration": 227,
+      "loudnorm": "-11.61,0.41,2.30,-21.63,-0.15",
+      "filename": "processed_e4f21ba919ac40bbfcf5c1a90a6a84c1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FAUSTO REY kara funn - - FAUSTO_REY_-_A_LAS_PUERTAS_DEL_CIELO.mp3",
+      "loudnorm": "-13.91,0.54,4.50,-23.97,-0.82",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FAUSTO REY kara funn - - FAUSTO_REY_-_A_LAS_PUERTAS_DEL_CIELO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb6e19a4-3c90-4198-be69-48f0b0144852",
+    "title": "FAUSTO_REY_-_A_LAS_PUERTAS_DEL_CIELO",
+    "titles": {
+      "spa": "FAUSTO_REY_-_A_LAS_PUERTAS_DEL_CIELO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d15379a4-fa39-41cc-9354-a04aad771e37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:17:02.423Z",
+    "modified_at": "2022-11-03T05:17:02.834Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d532c1aa29bc82fc81e54c8db1502d7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6023808,
+      "gain": -2.18,
+      "duration": 215,
+      "loudnorm": "-13.91,0.54,4.50,-23.97,-0.82",
+      "filename": "processed_8e6590e7cf9b42d368f7b2afdec8051d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

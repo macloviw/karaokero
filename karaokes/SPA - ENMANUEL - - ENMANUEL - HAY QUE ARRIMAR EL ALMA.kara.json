@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENMANUEL - - ENMANUEL - HAY QUE ARRIMAR EL ALMA.MP3",
+      "loudnorm": "-13.54,1.10,8.10,-23.56,-1.17",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENMANUEL - - ENMANUEL - HAY QUE ARRIMAR EL ALMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "322d5996-ae25-44a3-877f-92a9e68737e3",
+    "title": "ENMANUEL   -   HAY QUE ARRIMAR EL ALMA",
+    "titles": {
+      "spa": "ENMANUEL   -   HAY QUE ARRIMAR EL ALMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08c4180-989b-4833-9d6f-085703b5bcac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:52:20.810Z",
+    "modified_at": "2022-11-03T04:52:21.635Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4378557,
+      "gain": -4.83,
+      "duration": 273,
+      "loudnorm": "-13.54,1.10,8.10,-23.56,-1.17",
+      "filename": "processed_856e6c819a4f40dfd2ea39962e67f95d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4378557,
+      "gain": -4.83,
+      "duration": 273,
+      "loudnorm": "-13.54,1.10,8.10,-23.56,-1.17",
+      "filename": "processed_5dd2fca3f21ca0c491d3afafdb170071.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

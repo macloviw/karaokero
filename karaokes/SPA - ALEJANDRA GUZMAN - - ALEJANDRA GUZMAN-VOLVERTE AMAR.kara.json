@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - ALEJANDRA GUZMAN-VOLVERTE AMAR.mp3",
+      "loudnorm": "-15.58,-0.97,14.80,-26.48,-1.52",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - ALEJANDRA GUZMAN-VOLVERTE AMAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a146c07-3d1e-47bd-bf6e-fb1261f7f269",
+    "title": "ALEJANDRA GUZMAN-VOLVERTE AMAR",
+    "titles": {
+      "spa": "ALEJANDRA GUZMAN-VOLVERTE AMAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:37:06.030Z",
+    "modified_at": "2022-11-03T00:37:06.486Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d7b028fa42478c6b102507ee1c62504.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3294164,
+      "gain": -1.53,
+      "duration": 235,
+      "loudnorm": "-15.58,-0.97,14.80,-26.48,-1.52",
+      "filename": "processed_95bef01ccf8ab23907f532520c9b084a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

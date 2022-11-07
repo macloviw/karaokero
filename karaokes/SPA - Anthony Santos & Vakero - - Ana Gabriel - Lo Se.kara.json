@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - Ana Gabriel - Lo Se.mp3",
+      "loudnorm": "-10.06,0.20,4.70,-20.40,-0.62",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - Ana Gabriel - Lo Se.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db34d051-2a26-4458-8a89-a32b49e91e0f",
+    "title": "Ana Gabriel - Lo Se",
+    "titles": {
+      "spa": "Ana Gabriel - Lo Se"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:31:14.514Z",
+    "modified_at": "2022-11-03T13:31:14.915Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ac62938abb4919b3e9b72b6861e6abd9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4098721,
+      "gain": -7.37,
+      "duration": 170,
+      "loudnorm": "-10.06,0.20,4.70,-20.40,-0.62",
+      "filename": "processed_e694dc1cbc167a4985d66fc6dafa6721.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

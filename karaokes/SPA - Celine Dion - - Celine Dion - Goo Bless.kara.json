@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Celine Dion - - Celine Dion - Goo Bless.MP3",
+      "loudnorm": "-13.64,1.51,21.00,-25.77,-1.82",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Celine Dion - - Celine Dion - Goo Bless.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8dd5fdc-4550-4e0d-a0f6-23c7d984c0a1",
+    "title": "Celine Dion - Goo Bless",
+    "titles": {
+      "spa": "Celine Dion - Goo Bless"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "5fc6426c-7261-4250-a283-a8645c8b1afb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:54:04.175Z",
+    "modified_at": "2022-11-03T13:54:04.669Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3697653,
+      "gain": -4.77,
+      "duration": 230,
+      "loudnorm": "-13.64,1.51,21.00,-25.77,-1.82",
+      "filename": "processed_bf3ee8becd5a22d1f7787800bba75287.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3697653,
+      "gain": -4.77,
+      "duration": 230,
+      "loudnorm": "-13.64,1.51,21.00,-25.77,-1.82",
+      "filename": "processed_ae3394fe1c9944bf061ff9508d0e16fd.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

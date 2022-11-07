@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EL TORITO - - El Torito - - 00 - 7-No Soy Un Hombre Malo ( Ronald ).mp3",
+      "loudnorm": "-6.28,3.91,2.80,-16.37,-0.52",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EL TORITO - - El Torito - - 00 - 7-No Soy Un Hombre Malo ( Ronald ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fbd7507-3219-4b75-93c0-47e3f201d6ac",
+    "title": "El Torito  -  - 00 - 7-No Soy Un Hombre Malo ( Ronald )",
+    "titles": {
+      "spa": "El Torito  -  - 00 - 7-No Soy Un Hombre Malo ( Ronald )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:28:59.108Z",
+    "modified_at": "2022-11-02T23:28:59.541Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6560d169458e2ec1e904b5af833b1b48.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9344950,
+      "gain": -9.85,
+      "duration": 233,
+      "loudnorm": "-6.28,3.91,2.80,-16.37,-0.52",
+      "filename": "processed_b98262dd17265cc2dd69327fec7f0e5b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

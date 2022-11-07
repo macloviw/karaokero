@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - SI NO ME AMAS BY EDNITA NAZARIO.MP3",
+      "loudnorm": "-16.82,-0.74,11.50,-27.20,-1.44",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - SI NO ME AMAS BY EDNITA NAZARIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "013bdb8e-263b-49bf-9703-f07f7df9fd0b",
+    "title": "SI NO ME AMAS BY EDNITA NAZARIO",
+    "titles": {
+      "spa": "SI NO ME AMAS BY EDNITA NAZARIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:27:38.071Z",
+    "modified_at": "2022-11-03T04:27:38.556Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4070054,
+      "gain": -1.82,
+      "duration": 254,
+      "loudnorm": "-16.82,-0.74,11.50,-27.20,-1.44",
+      "filename": "processed_6f26e6cff8f155b20e1bea2991e8dc22.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4070054,
+      "gain": -1.82,
+      "duration": 254,
+      "loudnorm": "-16.82,-0.74,11.50,-27.20,-1.44",
+      "filename": "processed_7924e6c03cdcb8aea211adf188da2201.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - No Artist - - 05 - LAMENTO BORINCANO - JAVIER SOLIS.mp3",
+      "loudnorm": "-13.09,1.32,6.10,-23.14,-0.10",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - No Artist - - 05 - LAMENTO BORINCANO - JAVIER SOLIS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7642652f-d866-4924-9f82-8f3fdbf61bfb",
+    "title": "05 - LAMENTO BORINCANO - JAVIER SOLIS",
+    "titles": {
+      "spa": "05 - LAMENTO BORINCANO - JAVIER SOLIS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:45:21.003Z",
+    "modified_at": "2022-11-04T07:45:21.381Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecdc0a7af2ed845a0a92b1996ccc7b0e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4210905,
+      "gain": -5.92,
+      "duration": 263,
+      "loudnorm": "-13.09,1.32,6.10,-23.14,-0.10",
+      "filename": "processed_698b3f802b70a43075305e9d42bd373c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

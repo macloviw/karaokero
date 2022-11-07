@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA BARBARA - - Ana Barbara - Mala.mp3",
+      "loudnorm": "-11.87,1.56,6.30,-21.93,0.29",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA BARBARA - - Ana Barbara - Mala.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9b5288b7-2ee2-45ca-ab72-8036f70f1fe7",
+    "title": "Ana Barbara - Mala",
+    "titles": {
+      "spa": "Ana Barbara - Mala"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3fa72ba-27c9-42eb-8aad-c0bfb0a48d9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:36:17.413Z",
+    "modified_at": "2022-11-03T01:36:17.845Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b63c4e3a5a11dcdff6f6eeffa16b7f68.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6630808,
+      "gain": -7.19,
+      "duration": 276,
+      "loudnorm": "-11.87,1.56,6.30,-21.93,0.29",
+      "filename": "processed_aec6762a1c884f91b9f15560dae97e90.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

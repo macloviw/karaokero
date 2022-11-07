@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - QUIEN TE ROBO EL CORAZON - EDNITA.mp3",
+      "loudnorm": "-17.81,-0.28,4.10,-27.85,-0.82",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - QUIEN TE ROBO EL CORAZON - EDNITA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "98e57211-9e54-44ab-979a-a1cae26397da",
+    "title": "QUIEN TE ROBO EL CORAZON - EDNITA",
+    "titles": {
+      "spa": "QUIEN TE ROBO EL CORAZON - EDNITA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:26:55.266Z",
+    "modified_at": "2022-11-03T04:26:55.687Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9ffc9108775d3dc56af41aa59b5c4fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6018289,
+      "gain": 0.29,
+      "duration": 250,
+      "loudnorm": "-17.81,-0.28,4.10,-27.85,-0.82",
+      "filename": "processed_080448301480ce2e18c709ef25759d9d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

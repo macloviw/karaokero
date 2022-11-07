@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DYANGO - - DYANGO - YO MANANA.MP3",
+      "loudnorm": "-13.46,1.40,14.80,-24.34,-1.69",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DYANGO - - DYANGO - YO MANANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0853c26a-67fe-4410-a031-4553ca204f7c",
+    "title": "DYANGO   -   YO MAÑANA",
+    "titles": {
+      "spa": "DYANGO   -   YO MAÑANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dfe7efba-e53e-412b-98c6-fec7cea6e924"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:17:06.285Z",
+    "modified_at": "2022-11-03T04:17:06.782Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3746554,
+      "gain": -2.79,
+      "duration": 234,
+      "loudnorm": "-13.46,1.40,14.80,-24.34,-1.69",
+      "filename": "processed_6dd4f5d6dcd3a2364be78a8175141922.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3746554,
+      "gain": -2.79,
+      "duration": 234,
+      "loudnorm": "-13.46,1.40,14.80,-24.34,-1.69",
+      "filename": "processed_0c32e948eb013a2a357b4f889db8c967.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDER PIREX - - USTED SE ME LLEVO LA VIDA BY ALEXANDER PIREX.MP3",
+      "loudnorm": "-14.77,0.96,9.80,-25.26,-1.77",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDER PIREX - - USTED SE ME LLEVO LA VIDA BY ALEXANDER PIREX.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "acb531b2-0350-40a7-9efa-82541e1b617b",
+    "title": "USTED SE ME LLEVO LA VIDA BY ALEXANDER PIREX",
+    "titles": {
+      "spa": "USTED SE ME LLEVO LA VIDA BY ALEXANDER PIREX"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "acd7e23f-2b4c-464b-80ad-36b2d0d0bbb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:20:41.312Z",
+    "modified_at": "2022-11-03T01:20:41.952Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4786018,
+      "gain": -3.2,
+      "duration": 299,
+      "loudnorm": "-14.77,0.96,9.80,-25.26,-1.77",
+      "filename": "processed_41b479f6b54f7370ea0c4bc3ec12d127.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4786018,
+      "gain": -3.2,
+      "duration": 299,
+      "loudnorm": "-14.77,0.96,9.80,-25.26,-1.77",
+      "filename": "processed_05ce3882fd843f5777305151455fca28.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

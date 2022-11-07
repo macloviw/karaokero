@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - PORQUE TEQUIERO.MP3",
+      "loudnorm": "-13.55,1.54,4.00,-23.81,-0.40",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - PORQUE TEQUIERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8a0f8ba3-d6ae-41be-b5ef-dd98ab1e1cd4",
+    "title": "ANGELES NEGROS   -   PORQUE TEQUIERO",
+    "titles": {
+      "spa": "ANGELES NEGROS   -   PORQUE TEQUIERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:26:51.587Z",
+    "modified_at": "2022-11-04T02:26:52.017Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2905620,
+      "gain": -3.86,
+      "duration": 181,
+      "loudnorm": "-13.55,1.54,4.00,-23.81,-0.40",
+      "filename": "processed_c6cfe8f6e88db1df6b9d1d9b51c7b57e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2905620,
+      "gain": -3.86,
+      "duration": 181,
+      "loudnorm": "-13.55,1.54,4.00,-23.81,-0.40",
+      "filename": "processed_d3e1f2b8b6ea1d0eed6c7d3e434a24b4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

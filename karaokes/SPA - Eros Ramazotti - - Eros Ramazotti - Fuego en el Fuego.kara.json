@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eros Ramazotti - - Eros Ramazotti - Fuego en el Fuego.MP3",
+      "loudnorm": "-12.41,1.93,2.60,-22.46,-0.60",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eros Ramazotti - - Eros Ramazotti - Fuego en el Fuego.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cac08608-d9a4-4b82-83d9-817065feed2c",
+    "title": "Eros Ramazotti - Fuego en el Fuego",
+    "titles": {
+      "spa": "Eros Ramazotti - Fuego en el Fuego"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc8ca79d-c8c6-4384-9eea-eac1b7b22008"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:15:05.419Z",
+    "modified_at": "2022-11-03T22:15:06.076Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4065280,
+      "gain": -3.82,
+      "duration": 254,
+      "loudnorm": "-12.41,1.93,2.60,-22.46,-0.60",
+      "filename": "processed_e432325ec3f0ea9cdac813caf9c725cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4065280,
+      "gain": -3.82,
+      "duration": 254,
+      "loudnorm": "-12.41,1.93,2.60,-22.46,-0.60",
+      "filename": "processed_7638da30f5bb4e59e514b7a8243a21c2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

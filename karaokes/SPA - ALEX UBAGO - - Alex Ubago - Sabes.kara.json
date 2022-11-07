@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX UBAGO - - Alex Ubago - Sabes.mp3",
+      "loudnorm": "-13.26,2.01,11.60,-23.79,-0.86",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX UBAGO - - Alex Ubago - Sabes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f12d156-b8d0-484e-afd0-135a799fe51d",
+    "title": "Alex Ubago - Sabes",
+    "titles": {
+      "spa": "Alex Ubago - Sabes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b55c95d-31be-42a1-88a3-d1e0b29146c6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:16:33.759Z",
+    "modified_at": "2022-11-03T01:16:34.194Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_35bd9128701c5e911916d569e19b711d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6673442,
+      "gain": -2.78,
+      "duration": 277,
+      "loudnorm": "-13.26,2.01,11.60,-23.79,-0.86",
+      "filename": "processed_f76e96d7e4ec19f24897373a096abfa7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anita Harris - - Anita Harris - Trains and boats and planes.mp3",
+      "loudnorm": "-16.66,1.47,3.60,-26.88,-0.33",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anita Harris - - Anita Harris - Trains and boats and planes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b72c6b5-4e9f-49d1-a645-b79eaf9eb574",
+    "title": "Anita Harris - Trains and boats and planes",
+    "titles": {
+      "spa": "Anita Harris - Trains and boats and planes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d67dfe46-022c-41f8-88f8-2ae2b70feb60"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:54:06.731Z",
+    "modified_at": "2022-11-03T23:54:07.108Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56c03b8c640c0da835515c31bdda43ec.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3180766,
+      "gain": -0.19,
+      "duration": 198,
+      "loudnorm": "-16.66,1.47,3.60,-26.88,-0.33",
+      "filename": "processed_9f849c04852777b418c159cbb24c8e16.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

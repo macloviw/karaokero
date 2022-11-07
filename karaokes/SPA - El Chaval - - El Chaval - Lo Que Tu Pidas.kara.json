@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Chaval - - El Chaval - Lo Que Tu Pidas.mp3",
+      "loudnorm": "-17.60,-1.61,1.70,-27.64,-0.04",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Chaval - - El Chaval - Lo Que Tu Pidas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03965a12-9fd6-4781-a887-9304e67559e5",
+    "title": "El Chaval - Lo Que Tu Pidas",
+    "titles": {
+      "spa": "El Chaval - Lo Que Tu Pidas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "009e04f7-e40f-471b-9f49-4eb3541709a6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:26:52.798Z",
+    "modified_at": "2022-11-02T23:26:53.245Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_32bfdcb7fc490f2efdbd8c8dfc3c154e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4215763,
+      "gain": 1.76,
+      "duration": 263,
+      "loudnorm": "-17.60,-1.61,1.70,-27.64,-0.04",
+      "filename": "processed_c8961d78a097b69d4dda38ec7d5998ff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

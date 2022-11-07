@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Un Angel No Es.mp3",
+      "loudnorm": "-16.48,-0.10,3.70,-26.54,-0.41",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - Eros Ramazzoti - Un Angel No Es.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6629428-9e23-43a8-b34f-1f190e2adc6b",
+    "title": "Eros Ramazzoti - Un Angel No Es",
+    "titles": {
+      "spa": "Eros Ramazzoti - Un Angel No Es"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:09:56.370Z",
+    "modified_at": "2022-11-03T05:09:56.807Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b97df7861f4cfb11c8647befbeed04cd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6723841,
+      "gain": -1.36,
+      "duration": 279,
+      "loudnorm": "-16.48,-0.10,3.70,-26.54,-0.41",
+      "filename": "processed_131f89f07a36691576440fa37b4a4afb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

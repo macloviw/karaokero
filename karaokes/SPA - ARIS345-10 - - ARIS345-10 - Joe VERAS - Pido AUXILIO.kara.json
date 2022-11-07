@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS345-10 - - ARIS345-10 - Joe VERAS - Pido AUXILIO.mp3",
+      "loudnorm": "-14.72,-2.03,2.30,-24.76,-0.11",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS345-10 - - ARIS345-10 - Joe VERAS - Pido AUXILIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8520c6b4-56d5-4ea1-b441-c4acd047f7fa",
+    "title": "ARIS345-10 - Joe VERAS - Pido AUXILIO",
+    "titles": {
+      "spa": "ARIS345-10 - Joe VERAS - Pido AUXILIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "1d033986-0c5f-4fd7-8c5e-62f6584b2d4e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:36:03.592Z",
+    "modified_at": "2022-11-03T21:36:03.987Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02e297fbce4137223c158cd375c5d35e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4756052,
+      "gain": -2.5,
+      "duration": 297,
+      "loudnorm": "-14.72,-2.03,2.30,-24.76,-0.11",
+      "filename": "processed_ffb292d4df22322364df7cc155269d91.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

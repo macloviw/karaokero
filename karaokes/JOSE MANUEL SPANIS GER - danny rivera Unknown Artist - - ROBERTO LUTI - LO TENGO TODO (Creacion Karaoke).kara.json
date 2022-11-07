@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - ROBERTO LUTI - LO TENGO TODO (Creacion Karaoke).mp3",
+      "loudnorm": "-10.87,0.46,4.60,-21.11,-0.10",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - ROBERTO LUTI - LO TENGO TODO (Creacion Karaoke).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0cca5d00-3411-4688-ad79-92bb2503b629",
+    "title": "ROBERTO LUTI  - LO TENGO TODO (Creacion Karaoke)",
+    "titles": {
+      "spa": "ROBERTO LUTI  - LO TENGO TODO (Creacion Karaoke)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:47:41.378Z",
+    "modified_at": "2022-11-04T08:47:41.759Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_789e15662a2f3b2ecd2f23b2e6f3aa13.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4341903,
+      "gain": -6.52,
+      "duration": 162,
+      "loudnorm": "-10.87,0.46,4.60,-21.11,-0.10",
+      "filename": "processed_0bee84491a409e6256b6621bdc91198a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

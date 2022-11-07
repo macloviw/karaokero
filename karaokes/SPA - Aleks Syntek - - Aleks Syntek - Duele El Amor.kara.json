@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aleks Syntek - - Aleks Syntek - Duele El Amor.mp3",
+      "loudnorm": "-9.89,4.03,4.80,-19.98,-0.38",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aleks Syntek - - Aleks Syntek - Duele El Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60d53cc4-5ff2-4d78-9282-4f0f2d2a2118",
+    "title": "Aleks Syntek - Duele El Amor",
+    "titles": {
+      "spa": "Aleks Syntek - Duele El Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "6d33d0b9-6d3d-45c5-b782-be4efd072cc9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:59:19.674Z",
+    "modified_at": "2022-11-04T01:59:20.059Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3d76716b590cd18f95ad7e99ad6927f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4613316,
+      "gain": -9.32,
+      "duration": 288,
+      "loudnorm": "-9.89,4.03,4.80,-19.98,-0.38",
+      "filename": "processed_aafaa8509d16468c704f2594148aaae0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - REALMENTE NO ESTOY TAN SOLO BY RICARDO ARJONA.CDG.MP3",
+      "loudnorm": "-16.52,-0.36,11.60,-27.00,-1.60",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - REALMENTE NO ESTOY TAN SOLO BY RICARDO ARJONA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "66c3b759-81ad-49e7-a829-baa995d19668",
+    "title": "REALMENTE NO ESTOY TAN SOLO BY RICARDO ARJONA.CDG",
+    "titles": {
+      "spa": "REALMENTE NO ESTOY TAN SOLO BY RICARDO ARJONA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:54:43.210Z",
+    "modified_at": "2022-11-03T11:54:43.834Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3762018,
+      "gain": -2.32,
+      "duration": 235,
+      "loudnorm": "-16.52,-0.36,11.60,-27.00,-1.60",
+      "filename": "processed_47d98c22f9371ac95240b99c37d89428.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3762018,
+      "gain": -2.32,
+      "duration": 235,
+      "loudnorm": "-16.52,-0.36,11.60,-27.00,-1.60",
+      "filename": "processed_e0709518394d55d88756d96c78fa8b8f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

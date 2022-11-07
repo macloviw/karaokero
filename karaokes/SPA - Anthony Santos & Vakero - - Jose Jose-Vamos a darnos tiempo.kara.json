@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - Jose Jose-Vamos a darnos tiempo.mp3",
+      "loudnorm": "-6.79,11.89,11.10,-17.19,-1.24",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - Jose Jose-Vamos a darnos tiempo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "49eb67a1-bdb8-481f-b3cf-00199c8c291e",
+    "title": "José José-Vamos a darnos tiempo",
+    "titles": {
+      "spa": "José José-Vamos a darnos tiempo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:31:51.756Z",
+    "modified_at": "2022-11-03T13:31:52.169Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4cc85ddc8408c8c99a54948348fa2e9c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6309514,
+      "gain": -11.21,
+      "duration": 262,
+      "loudnorm": "-6.79,11.89,11.10,-17.19,-1.24",
+      "filename": "processed_51a7057e9c9938b067819334ba0c46a5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Idol - - Billy Idol - White wedding.MP3",
+      "loudnorm": "-12.43,0.02,3.10,-22.50,-0.59",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Idol - - Billy Idol - White wedding.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da375489-7ce7-47c2-b678-b2cd2d672d4c",
+    "title": "Billy Idol - White wedding",
+    "titles": {
+      "spa": "Billy Idol - White wedding"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a2791f85-ed86-44b8-aea4-82f4126c988f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:01:44.822Z",
+    "modified_at": "2022-11-03T15:01:45.460Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3843938,
+      "gain": -4.03,
+      "duration": 240,
+      "loudnorm": "-12.43,0.02,3.10,-22.50,-0.59",
+      "filename": "processed_36730b5bf0fd8b92aebe25b9509a3ffd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3843938,
+      "gain": -4.03,
+      "duration": 240,
+      "loudnorm": "-12.43,0.02,3.10,-22.50,-0.59",
+      "filename": "processed_092c8a00a8b542f5405ffad085aa2cec.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

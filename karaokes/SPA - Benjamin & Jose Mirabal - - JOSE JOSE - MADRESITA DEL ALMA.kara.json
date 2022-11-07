@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Benjamin & Jose Mirabal - - JOSE JOSE - MADRESITA DEL ALMA.MP3",
+      "loudnorm": "-9.83,1.93,3.10,-19.90,-0.88",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Benjamin & Jose Mirabal - - JOSE JOSE - MADRESITA DEL ALMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d045f8fd-e88e-403e-a3eb-7c0f3b410341",
+    "title": "JOSE JOSE - MADRESITA DEL ALMA",
+    "titles": {
+      "spa": "JOSE JOSE - MADRESITA DEL ALMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d57f9ff8-9a2c-4682-ba9c-00bc1e48626b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:56:55.130Z",
+    "modified_at": "2022-11-04T03:56:55.818Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4047613,
+      "gain": -7.02,
+      "duration": 252,
+      "loudnorm": "-9.83,1.93,3.10,-19.90,-0.88",
+      "filename": "processed_5bb8384d686643dbf0e420b4ab1fdeb8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4047613,
+      "gain": -7.02,
+      "duration": 252,
+      "loudnorm": "-9.83,1.93,3.10,-19.90,-0.88",
+      "filename": "processed_c6835d8c6273b02ec4a8a05b82a281fb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

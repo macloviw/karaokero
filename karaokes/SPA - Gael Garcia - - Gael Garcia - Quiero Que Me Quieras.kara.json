@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gael Garcia - - Gael Garcia - Quiero Que Me Quieras.mp3",
+      "loudnorm": "-12.47,1.14,2.00,-22.52,0.07",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gael Garcia - - Gael Garcia - Quiero Que Me Quieras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1e4363a-d8de-483e-b9a2-d6e029f54cff",
+    "title": "Gael Garcia - Quiero Que Me Quieras",
+    "titles": {
+      "spa": "Gael Garcia - Quiero Que Me Quieras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aad5a0d6-b2b4-49df-83ee-8ecc5b5bbf4b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:18:48.393Z",
+    "modified_at": "2022-11-03T22:18:48.788Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a432890a7915673ef4dfab222b3eba6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3845488,
+      "gain": -4.5,
+      "duration": 160,
+      "loudnorm": "-12.47,1.14,2.00,-22.52,0.07",
+      "filename": "processed_c35fc847a3f3b257ace1c20c231f5dac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Boyz II Men - - Boyz II Men - Water Runs Dry.mp3",
+      "loudnorm": "-7.44,6.51,4.70,-17.71,-0.49",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Boyz II Men - - Boyz II Men - Water Runs Dry.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "72085a31-3439-459d-aaad-ff2911aa848e",
+    "title": "Boyz II Men - Water Runs Dry",
+    "titles": {
+      "spa": "Boyz II Men - Water Runs Dry"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e7b4407e-8c5c-4c16-b47c-5a38036c2326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:24:25.297Z",
+    "modified_at": "2022-11-03T15:24:25.749Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_221c9c04ec61d610c0785b36a891152a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3311374,
+      "gain": -9.71,
+      "duration": 206,
+      "loudnorm": "-7.44,6.51,4.70,-17.71,-0.49",
+      "filename": "processed_7d09fa7fd23d8b2a25567c6460ef674f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

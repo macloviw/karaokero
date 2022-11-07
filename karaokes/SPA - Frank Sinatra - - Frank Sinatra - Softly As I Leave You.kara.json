@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Frank Sinatra - - Frank Sinatra - Softly As I Leave You.mp3",
+      "loudnorm": "-18.15,-2.59,3.00,-28.32,-0.56",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Frank Sinatra - - Frank Sinatra - Softly As I Leave You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1eaf0159-6e18-41f4-b62a-a2fc6d41817d",
+    "title": "Frank Sinatra - Softly As I Leave You",
+    "titles": {
+      "spa": "Frank Sinatra - Softly As I Leave You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e2c69552-50ef-4a23-bc44-deea6027eee3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:47:59.158Z",
+    "modified_at": "2022-11-04T00:47:59.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8e7e6bdca5042aa593365993f2c2df06.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3569885,
+      "gain": 3.51,
+      "duration": 222,
+      "loudnorm": "-18.15,-2.59,3.00,-28.32,-0.56",
+      "filename": "processed_6b6fcea51ebc151549b4f78cc000e9b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

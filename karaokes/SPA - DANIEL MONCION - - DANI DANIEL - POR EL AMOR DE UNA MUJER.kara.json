@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - POR EL AMOR DE UNA MUJER.MP3",
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - POR EL AMOR DE UNA MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34031e5b-4327-4a74-9fd2-34bc9fa85cd4",
+    "title": "DANI DANIEL   -   POR EL AMOR DE UNA MUJER",
+    "titles": {
+      "spa": "DANI DANIEL   -   POR EL AMOR DE UNA MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:50:04.017Z",
+    "modified_at": "2022-11-03T03:50:04.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4068800,
+      "gain": -1.46,
+      "duration": 254,
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "filename": "processed_44e2123f5c33e1c5ae095b168d7bd699.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4068800,
+      "gain": -1.46,
+      "duration": 254,
+      "loudnorm": "-15.46,0.93,3.70,-25.53,-0.30",
+      "filename": "processed_c27bb65467dace6b504c9b577d4b8263.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

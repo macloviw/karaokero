@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - SI NO PUEDO SER TU AMOR.mp3",
+      "loudnorm": "-16.61,-3.74,2.50,-26.65,-0.28",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - CHARLIE ZAA - SI NO PUEDO SER TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aded8183-72ba-41e1-92df-03fe17adc375",
+    "title": "CHARLIE ZAA   -   SI NO PUEDO SER TU AMOR",
+    "titles": {
+      "spa": "CHARLIE ZAA   -   SI NO PUEDO SER TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:11:28.527Z",
+    "modified_at": "2022-11-03T03:11:28.933Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5f4967857e3d1ea67c6f29f0bf88e980.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2960791,
+      "gain": -0.14,
+      "duration": 184,
+      "loudnorm": "-16.61,-3.74,2.50,-26.65,-0.28",
+      "filename": "processed_e1ea23621cd29a6ab55737db61526a74.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

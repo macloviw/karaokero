@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Villa Real & Pedro Fernandez - - 02_PEDRO FERNANDEZ_AMRTE ALA ANTIGUA.mp3",
+      "loudnorm": "-14.54,-0.14,4.30,-24.64,-0.54",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Villa Real & Pedro Fernandez - - 02_PEDRO FERNANDEZ_AMRTE ALA ANTIGUA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15ae8b58-9824-440d-a41e-5b9d8c474d5d",
+    "title": "02_PEDRO FERNANDEZ_AMRTE ALA ANTIGUA",
+    "titles": {
+      "spa": "02_PEDRO FERNANDEZ_AMRTE ALA ANTIGUA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4f858f71-b7c6-4a03-9aa2-324ad2223276"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:22:34.591Z",
+    "modified_at": "2022-11-03T11:22:35.065Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce75054a62d4b1e726b84898af512cfa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5155919,
+      "gain": -2.53,
+      "duration": 214,
+      "loudnorm": "-14.54,-0.14,4.30,-24.64,-0.54",
+      "filename": "processed_513a95b10fbecc3433874041f14a1e3c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

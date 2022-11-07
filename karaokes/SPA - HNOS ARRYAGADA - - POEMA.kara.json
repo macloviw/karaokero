@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - HNOS ARRYAGADA - - POEMA.mp3",
+      "loudnorm": "-12.62,0.42,5.40,-22.70,-0.71",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - HNOS ARRYAGADA - - POEMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9a20aee-f527-482f-b907-87d60c8b60cf",
+    "title": "POEMA",
+    "titles": {
+      "spa": "POEMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dc6c0979-f1b6-4134-b26b-ae4c09e54cf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:50:11.107Z",
+    "modified_at": "2022-11-03T05:50:11.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_36d77beddbc5698190ed7fd0626fd6d9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2637335,
+      "gain": -6.56,
+      "duration": 164,
+      "loudnorm": "-12.62,0.42,5.40,-22.70,-0.71",
+      "filename": "processed_6e25fb64b63672f531871632126a4354.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

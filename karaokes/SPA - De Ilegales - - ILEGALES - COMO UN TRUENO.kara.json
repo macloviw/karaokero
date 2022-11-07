@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - De Ilegales - - ILEGALES - COMO UN TRUENO.mp3",
+      "loudnorm": "-12.51,0.86,2.60,-22.56,-0.50",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - De Ilegales - - ILEGALES - COMO UN TRUENO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a4e65ca-589e-4d98-9aea-2dd4cebf87aa",
+    "title": "ILEGALES - COMO UN TRUENO",
+    "titles": {
+      "spa": "ILEGALES - COMO UN TRUENO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3e549f9c-8d43-4035-b8ca-c220d00a79f7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:32:32.237Z",
+    "modified_at": "2022-11-04T03:32:32.616Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_92c9c9c9824a571f2b767df2aebbda75.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4257717,
+      "gain": -4.8,
+      "duration": 265,
+      "loudnorm": "-12.51,0.86,2.60,-22.56,-0.50",
+      "filename": "processed_177286541613b2e548663ddddd5822ee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

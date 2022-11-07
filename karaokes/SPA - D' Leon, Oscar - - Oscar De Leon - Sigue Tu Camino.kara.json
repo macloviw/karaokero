@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - Sigue Tu Camino.mp3",
+      "loudnorm": "-15.20,-1.02,4.40,-25.24,-0.92",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - Sigue Tu Camino.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef414673-5e3c-4015-b249-9d769cdae3b5",
+    "title": "Oscar De Leon - Sigue Tu Camino",
+    "titles": {
+      "spa": "Oscar De Leon - Sigue Tu Camino"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "89b5218d-f117-42ac-b1db-ce4941c75170"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:58:51.909Z",
+    "modified_at": "2022-11-04T02:58:52.287Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f9b16bd3348ac9bd638b531729760ce.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3844096,
+      "gain": -3.1,
+      "duration": 240,
+      "loudnorm": "-15.20,-1.02,4.40,-25.24,-0.92",
+      "filename": "processed_da7e609cf3c77c0e8d6695199cb2752a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

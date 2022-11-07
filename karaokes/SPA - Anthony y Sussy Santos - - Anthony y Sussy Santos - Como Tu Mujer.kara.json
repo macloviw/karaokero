@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony y Sussy Santos - - Anthony y Sussy Santos - Como Tu Mujer.mp3",
+      "loudnorm": "-8.39,9.30,3.40,-18.43,-0.19",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony y Sussy Santos - - Anthony y Sussy Santos - Como Tu Mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b2d74a4-51dc-41f9-9f2b-d2059e09920d",
+    "title": "Anthony y Sussy Santos - Como Tu Mujer",
+    "titles": {
+      "spa": "Anthony y Sussy Santos - Como Tu Mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7a10fa16-a77e-47b2-9948-a161d39ec894"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:21:07.348Z",
+    "modified_at": "2022-11-03T10:21:07.901Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c3b59bb92e1b267777f8c7107d366eaa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5947181,
+      "gain": -9.13,
+      "duration": 247,
+      "loudnorm": "-8.39,9.30,3.40,-18.43,-0.19",
+      "filename": "processed_4d105e1e3d84772de778a9b9843bf985.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

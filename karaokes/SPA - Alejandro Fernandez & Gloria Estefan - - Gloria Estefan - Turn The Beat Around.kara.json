@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Turn The Beat Around.mp3",
+      "loudnorm": "-8.08,5.23,3.50,-18.13,-0.78",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Turn The Beat Around.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf9fa972-28bb-42df-b524-1cd023b6b1f2",
+    "title": "Gloria Estefan - Turn The Beat Around",
+    "titles": {
+      "spa": "Gloria Estefan - Turn The Beat Around"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:52:48.454Z",
+    "modified_at": "2022-11-04T00:52:48.836Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4b28a11b676458bc28086d629584358a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3874783,
+      "gain": -9.7,
+      "duration": 242,
+      "loudnorm": "-8.08,5.23,3.50,-18.13,-0.78",
+      "filename": "processed_631bfefc3c855a687f8e0aca4ee31aff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

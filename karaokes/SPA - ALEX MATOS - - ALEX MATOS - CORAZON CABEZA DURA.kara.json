@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX MATOS - - ALEX MATOS - CORAZON CABEZA DURA.mp3",
+      "loudnorm": "-9.14,3.15,3.60,-19.24,-0.60",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX MATOS - - ALEX MATOS - CORAZON CABEZA DURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0793f1fa-17d3-45b2-9f89-99156699a829",
+    "title": "ALEX MATOS   -   CORAZON CABEZA DURA",
+    "titles": {
+      "spa": "ALEX MATOS   -   CORAZON CABEZA DURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "5caf80fc-8c72-470b-af5a-70c274ca7c42"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:08:13.342Z",
+    "modified_at": "2022-11-04T02:08:13.744Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_caaf5dea608fc863a7bd7a5e3ecbc1c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4134130,
+      "gain": -8.42,
+      "duration": 258,
+      "loudnorm": "-9.14,3.15,3.60,-19.24,-0.60",
+      "filename": "processed_9f3f56cfe39a145bef3eb6e34f462807.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

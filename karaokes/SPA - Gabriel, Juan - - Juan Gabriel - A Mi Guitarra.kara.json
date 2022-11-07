@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - A Mi Guitarra.mp3",
+      "loudnorm": "-13.11,0.09,3.90,-23.25,0.31",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - A Mi Guitarra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a09bf4e0-50bc-41e9-90a9-c127d160fabf",
+    "title": "Juan Gabriel - A Mi Guitarra",
+    "titles": {
+      "spa": "Juan Gabriel - A Mi Guitarra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:43:20.311Z",
+    "modified_at": "2022-11-03T07:43:20.782Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f4594b15937ca8bad1558877da11841f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5706074,
+      "gain": -4.56,
+      "duration": 237,
+      "loudnorm": "-13.11,0.09,3.90,-23.25,0.31",
+      "filename": "processed_45f8b1dcdd144696e5da482c679bebb5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

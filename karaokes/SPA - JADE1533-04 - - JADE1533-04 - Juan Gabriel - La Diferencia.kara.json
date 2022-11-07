@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JADE1533-04 - - JADE1533-04 - Juan Gabriel - La Diferencia.mp3",
+      "loudnorm": "-14.00,-0.07,4.10,-24.15,-0.09",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JADE1533-04 - - JADE1533-04 - Juan Gabriel - La Diferencia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a7358ecb-1252-486b-8f8d-1d1909fdbc93",
+    "title": "JADE1533-04 - Juan Gabriel - La Diferencia",
+    "titles": {
+      "spa": "JADE1533-04 - Juan Gabriel - La Diferencia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b915e4fd-ed42-4b64-aabc-d45e1946608e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:27:29.064Z",
+    "modified_at": "2022-11-03T22:27:29.442Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bebeb6fd3397078cb8135a3ab443db18.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4706733,
+      "gain": -3.73,
+      "duration": 196,
+      "loudnorm": "-14.00,-0.07,4.10,-24.15,-0.09",
+      "filename": "processed_f842b15cd46454771c86f927c1d01c17.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

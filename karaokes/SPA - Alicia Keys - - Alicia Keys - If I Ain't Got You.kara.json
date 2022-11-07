@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Keys - - Alicia Keys - If I Ain't Got You.mp3",
+      "loudnorm": "-7.73,3.98,9.70,-17.96,-1.05",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Keys - - Alicia Keys - If I Ain't Got You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b4659b28-f491-41bd-89cd-a9d5afdb8bc7",
+    "title": "Alicia Keys - If I Ain't Got You",
+    "titles": {
+      "spa": "Alicia Keys - If I Ain't Got You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c0c516c3-1e30-4f8b-a088-517607342f9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:23:08.292Z",
+    "modified_at": "2022-11-04T02:23:08.669Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8fedc7a4c6f3b210aa3b80eacfbe5228.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3618992,
+      "gain": -8.27,
+      "duration": 226,
+      "loudnorm": "-7.73,3.98,9.70,-17.96,-1.05",
+      "filename": "processed_875993d8164b7e9bd9688644f83b976a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

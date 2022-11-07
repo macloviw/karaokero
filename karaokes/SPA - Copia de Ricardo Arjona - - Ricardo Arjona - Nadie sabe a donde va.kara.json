@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Nadie sabe a donde va.mp3",
+      "loudnorm": "-12.38,0.39,8.70,-22.59,-0.73",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Nadie sabe a donde va.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0b3aae3-995a-47f7-8c44-a8382cd2ae74",
+    "title": "Ricardo Arjona - Nadie sabe a donde va",
+    "titles": {
+      "spa": "Ricardo Arjona - Nadie sabe a donde va"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:00:19.571Z",
+    "modified_at": "2022-11-03T12:00:20.045Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ba476ec0d57fdbaded04368c0fec2a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7121074,
+      "gain": -6.15,
+      "duration": 296,
+      "loudnorm": "-12.38,0.39,8.70,-22.59,-0.73",
+      "filename": "processed_c577a3a7d13e76638ab29f6273a215fb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

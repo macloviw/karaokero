@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniela Romo - - Daniela Romo - Ruleta Rusa.mp3",
+      "loudnorm": "-9.29,3.90,3.80,-19.33,-0.91",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniela Romo - - Daniela Romo - Ruleta Rusa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "748ec584-85ba-4596-8f0e-2f6a49aab4f7",
+    "title": "Daniela Romo - Ruleta Rusa",
+    "titles": {
+      "spa": "Daniela Romo - Ruleta Rusa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c9055891-729e-44ce-bf42-3b359f73ae48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:53:21.474Z",
+    "modified_at": "2022-11-03T03:53:21.883Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8295a81677af4b58f1d8b921a897fece.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3873896,
+      "gain": -8.7,
+      "duration": 241,
+      "loudnorm": "-9.29,3.90,3.80,-19.33,-0.91",
+      "filename": "processed_09d76d079ed1bf11689e15b780b5bf54.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

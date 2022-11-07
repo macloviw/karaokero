@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Brook Benton - - Brook Benton - A house is not a home.mp3",
+      "loudnorm": "-18.41,-0.00,5.30,-28.50,-0.08",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Brook Benton - - Brook Benton - A house is not a home.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "094e8eb5-2473-4a12-ae0d-61aba9dd7cde",
+    "title": "Brook Benton - A house is not a home",
+    "titles": {
+      "spa": "Brook Benton - A house is not a home"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "92f1b6d5-795e-4da7-9604-e0ef15f0cab5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:10:05.171Z",
+    "modified_at": "2022-11-04T00:10:05.551Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_25d835c4419efc2f808fa00c6a4b3a23.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3227160,
+      "gain": 0.31,
+      "duration": 201,
+      "loudnorm": "-18.41,-0.00,5.30,-28.50,-0.08",
+      "filename": "processed_487322df0d2bfc96ee3264548eb16943.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

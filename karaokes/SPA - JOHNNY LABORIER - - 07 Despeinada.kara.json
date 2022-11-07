@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOHNNY LABORIER - - 07 Despeinada.mp3",
+      "loudnorm": "-22.41,-3.87,2.50,-32.82,-0.27",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOHNNY LABORIER - - 07 Despeinada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4ce75c0e-728f-479c-a681-c946cce91f22",
+    "title": "07 Despeinada",
+    "titles": {
+      "spa": "07 Despeinada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af55ac59-7c48-481c-ae7b-633a62a97ed0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:25:58.598Z",
+    "modified_at": "2022-11-03T06:25:59.031Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ed47b96dab511f5e49a1049cd06092ef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3669150,
+      "gain": 2.85,
+      "duration": 152,
+      "loudnorm": "-22.41,-3.87,2.50,-32.82,-0.27",
+      "filename": "processed_eff536bf94cfd18c22b5fbde744cbace.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

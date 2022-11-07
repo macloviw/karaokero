@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - TANTO ADIOS.MP3",
+      "loudnorm": "-12.85,1.37,4.30,-22.92,0.49",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - TANTO ADIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b040b4a4-3893-4fee-a49f-97b171454bff",
+    "title": "ANGELES NEGROS   -   TANTO ADIOS",
+    "titles": {
+      "spa": "ANGELES NEGROS   -   TANTO ADIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:27:25.035Z",
+    "modified_at": "2022-11-04T02:27:25.477Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2783576,
+      "gain": -5.07,
+      "duration": 173,
+      "loudnorm": "-12.85,1.37,4.30,-22.92,0.49",
+      "filename": "processed_95a60b8122127db3a3cedf8b544c28a5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2783576,
+      "gain": -5.07,
+      "duration": 173,
+      "loudnorm": "-12.85,1.37,4.30,-22.92,0.49",
+      "filename": "processed_55d85fe0137ad174786d478f4999c5bc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

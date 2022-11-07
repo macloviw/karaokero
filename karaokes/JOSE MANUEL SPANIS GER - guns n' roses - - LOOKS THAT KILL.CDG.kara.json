@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - LOOKS THAT KILL.CDG.MP3",
+      "loudnorm": "-13.61,-3.64,2.40,-23.83,-0.48",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - guns n' roses - - LOOKS THAT KILL.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5800f51a-36f4-40a4-942d-5b7c5eb5fcfc",
+    "title": "LOOKS THAT KILL.CDG",
+    "titles": {
+      "spa": "LOOKS THAT KILL.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "095db107-2bd2-4b75-afdb-18d4a32bff4f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:18:41.316Z",
+    "modified_at": "2022-11-04T10:18:41.767Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3985207,
+      "gain": -3.25,
+      "duration": 248,
+      "loudnorm": "-13.61,-3.64,2.40,-23.83,-0.48",
+      "filename": "processed_b8d01052f8941c3f8caa20d3c35edb27.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3985207,
+      "gain": -3.25,
+      "duration": 248,
+      "loudnorm": "-13.61,-3.64,2.40,-23.83,-0.48",
+      "filename": "processed_2910ef320c6d45b03d9f66b42f9a84a4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

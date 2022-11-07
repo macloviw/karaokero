@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - BRAULIO - EN LA CARCEL DE TU PIEL.MP3",
+      "loudnorm": "-14.33,0.05,5.80,-24.51,-0.82",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - BRAULIO - EN LA CARCEL DE TU PIEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7c033dc-a30b-4fdb-bce3-a9aa07d244a7",
+    "title": "BRAULIO   -   EN LA CARCEL DE TU PIEL",
+    "titles": {
+      "spa": "BRAULIO   -   EN LA CARCEL DE TU PIEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:30:56.642Z",
+    "modified_at": "2022-11-03T02:30:57.243Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4227207,
+      "gain": -3.64,
+      "duration": 264,
+      "loudnorm": "-14.33,0.05,5.80,-24.51,-0.82",
+      "filename": "processed_a1b81fee5b010e21bdd98cdc0b052663.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4227207,
+      "gain": -3.64,
+      "duration": 264,
+      "loudnorm": "-14.33,0.05,5.80,-24.51,-0.82",
+      "filename": "processed_bbaa7a70493d776851686ca5c19f5f55.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

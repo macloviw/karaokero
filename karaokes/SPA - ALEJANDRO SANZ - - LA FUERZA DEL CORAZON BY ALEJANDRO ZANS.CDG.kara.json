@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - LA FUERZA DEL CORAZON BY ALEJANDRO ZANS.CDG.MP3",
+      "loudnorm": "-12.77,-0.18,6.40,-22.89,-1.23",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - LA FUERZA DEL CORAZON BY ALEJANDRO ZANS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1c1737c8-3aeb-49ff-be7f-3fff4054c94c",
+    "title": "LA FUERZA DEL CORAZON BY ALEJANDRO ZANS.CDG",
+    "titles": {
+      "spa": "LA FUERZA DEL CORAZON BY ALEJANDRO ZANS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:11:41.533Z",
+    "modified_at": "2022-11-03T01:11:42.361Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11740570,
+      "gain": -4.98,
+      "duration": 293,
+      "loudnorm": "-12.77,-0.18,6.40,-22.89,-1.23",
+      "filename": "processed_606fd7d8cb39c6f5bade4d104f44ea97.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11740570,
+      "gain": -4.98,
+      "duration": 293,
+      "loudnorm": "-12.77,-0.18,6.40,-22.89,-1.23",
+      "filename": "processed_b772d4f942d06774d1b86980619bb5c8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

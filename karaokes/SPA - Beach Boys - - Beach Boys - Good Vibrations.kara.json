@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - Good Vibrations.mp3",
+      "loudnorm": "-11.89,3.32,7.20,-22.00,-0.68",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - Good Vibrations.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8663947-dcb8-46c1-bfd8-93f53a875295",
+    "title": "Beach Boys - Good Vibrations",
+    "titles": {
+      "spa": "Beach Boys - Good Vibrations"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:54:47.629Z",
+    "modified_at": "2022-11-03T14:54:48.097Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_70fefcaa3745c468e7d8b2c6542f20db.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3942494,
+      "gain": -5.22,
+      "duration": 246,
+      "loudnorm": "-11.89,3.32,7.20,-22.00,-0.68",
+      "filename": "processed_e80671dc8fa83813bb06e60dc788df76.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

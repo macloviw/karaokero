@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 04 - Hablame.mp3",
+      "loudnorm": "-9.94,0.78,9.70,-20.22,-0.44",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 04 - Hablame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "011953b5-462a-4074-a08b-96e30da766ff",
+    "title": "Camilo Sesto - 04 - Háblame",
+    "titles": {
+      "spa": "Camilo Sesto - 04 - Háblame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:51:52.279Z",
+    "modified_at": "2022-11-03T02:51:52.695Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1bd5f9c1c0d21f0585d137e62e8cee22.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6096142,
+      "gain": -9.02,
+      "duration": 253,
+      "loudnorm": "-9.94,0.78,9.70,-20.22,-0.44",
+      "filename": "processed_0fa9277e579f7bc2a43ef36ee21debc5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

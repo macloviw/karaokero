@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Frank Sinatra - - Frank Sinatra - Strangers in night.mp3",
+      "loudnorm": "-9.12,3.00,6.10,-19.32,-1.75",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Frank Sinatra - - Frank Sinatra - Strangers in night.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f115493-e808-4e8b-a8d6-27348f3202c6",
+    "title": "Frank Sinatra - Strangers in night",
+    "titles": {
+      "spa": "Frank Sinatra - Strangers in night"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e2c69552-50ef-4a23-bc44-deea6027eee3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:48:07.046Z",
+    "modified_at": "2022-11-04T00:48:07.452Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c56d5467e8df669ab9644e45d52fd96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2765520,
+      "gain": -8.88,
+      "duration": 172,
+      "loudnorm": "-9.12,3.00,6.10,-19.32,-1.75",
+      "filename": "processed_11bdc2cbc18e39e8db19f548a81837e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

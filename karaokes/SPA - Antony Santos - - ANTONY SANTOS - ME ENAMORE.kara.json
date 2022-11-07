@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - ME ENAMORE.MP3",
+      "loudnorm": "-9.62,2.44,3.60,-19.71,-0.05",
+      "duration": 342,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - ME ENAMORE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "64b09c0f-043f-426b-b6f6-1c2e25db94d9",
+    "title": "ANTONY SANTOS   -   ME ENAMORE",
+    "titles": {
+      "spa": "ANTONY SANTOS   -   ME ENAMORE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:58:42.984Z",
+    "modified_at": "2022-11-02T22:58:43.645Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5486518,
+      "gain": -9.1,
+      "duration": 342,
+      "loudnorm": "-9.62,2.44,3.60,-19.71,-0.05",
+      "filename": "processed_56edc8ad83054b80f6b049c6846693cf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5486518,
+      "gain": -9.1,
+      "duration": 342,
+      "loudnorm": "-9.62,2.44,3.60,-19.71,-0.05",
+      "filename": "processed_5a90e0e9546048e5065bed9ec32d44bd.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

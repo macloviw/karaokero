@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FAUSTO REY kara funn - - FAUSTO REY----PREVIOUS.mp3",
+      "loudnorm": "-17.12,-1.60,14.20,-27.90,0.19",
+      "duration": 418,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FAUSTO REY kara funn - - FAUSTO REY----PREVIOUS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "64359d39-da47-455b-954c-2e198f6f739e",
+    "title": "FAUSTO REY----PREVIOUS",
+    "titles": {
+      "spa": "FAUSTO REY----PREVIOUS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d15379a4-fa39-41cc-9354-a04aad771e37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:16:24.320Z",
+    "modified_at": "2022-11-03T05:16:24.768Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4a0fbb64994ced8f398c115b7b1c04a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10034680,
+      "gain": -1.75,
+      "duration": 418,
+      "loudnorm": "-17.12,-1.60,14.20,-27.90,0.19",
+      "filename": "processed_57967598e54a08580a41aabbc8b6720c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

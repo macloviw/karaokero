@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Barry Manilow - - Barry Manilow - Could it be magic.mp3",
+      "loudnorm": "-16.90,-1.74,3.00,-26.92,-0.53",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Barry Manilow - - Barry Manilow - Could it be magic.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0debbfa1-7981-423b-ac2f-9f3027835ba7",
+    "title": "Barry Manilow - Could it be magic",
+    "titles": {
+      "spa": "Barry Manilow - Could it be magic"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b221082e-898d-488e-b256-a171915b8efd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:52:46.388Z",
+    "modified_at": "2022-11-03T14:52:46.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f91bef53fb65ec24d72041782c1e389f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3650551,
+      "gain": -0.91,
+      "duration": 228,
+      "loudnorm": "-16.90,-1.74,3.00,-26.92,-0.53",
+      "filename": "processed_b7907b59106a6e3153f22435913edef6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

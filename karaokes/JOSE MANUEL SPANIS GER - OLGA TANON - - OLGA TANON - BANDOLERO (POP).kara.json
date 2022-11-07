@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - OLGA TANON - BANDOLERO (POP).mp3",
+      "loudnorm": "-9.90,6.05,5.60,-19.92,-1.09",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - OLGA TANON - BANDOLERO (POP).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a10a54ee-0549-4b4d-9770-6e408fe0ea47",
+    "title": "OLGA TAÑON   -   BANDOLERO (POP)",
+    "titles": {
+      "spa": "OLGA TAÑON   -   BANDOLERO (POP)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8abbde97-cb0b-4c2a-9574-14022714476e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:52:14.571Z",
+    "modified_at": "2022-11-04T07:52:14.975Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34d1a68eb8f859b4fb209cc1bcade252.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4453111,
+      "gain": -8.81,
+      "duration": 278,
+      "loudnorm": "-9.90,6.05,5.60,-19.92,-1.09",
+      "filename": "processed_fd609bff8cc5d8bddd9f36a7d839bcf1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

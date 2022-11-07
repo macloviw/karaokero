@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - Juanes - Un Dia Normal.mp3",
+      "loudnorm": "-10.45,2.03,3.40,-20.57,0.10",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - Juanes - Un Dia Normal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d998693-0da9-4bd1-a27d-3f3da21616e5",
+    "title": "Juanes - Un Dia Normal",
+    "titles": {
+      "spa": "Juanes - Un Dia Normal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:56:38.107Z",
+    "modified_at": "2022-11-03T07:56:38.538Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a093cf99fa2916c57aa50d9b80cab45b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5428967,
+      "gain": -7.81,
+      "duration": 226,
+      "loudnorm": "-10.45,2.03,3.40,-20.57,0.10",
+      "filename": "processed_03287b8da1a9df2b57163b82c8ad970e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

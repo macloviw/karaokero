@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - NUBE VIAJERA.mp3",
+      "loudnorm": "-14.50,0.08,5.30,-24.56,-0.49",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - NUBE VIAJERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "116ca335-2b5b-4917-aeef-9002252509fc",
+    "title": "ALEJANDRO FERNANDEZ   -   NUBE VIAJERA",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ   -   NUBE VIAJERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:39:57.405Z",
+    "modified_at": "2022-11-03T00:39:57.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0fc8daa0a7bf9b1a880cfc3e075bea68.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5986472,
+      "gain": -4.66,
+      "duration": 249,
+      "loudnorm": "-14.50,0.08,5.30,-24.56,-0.49",
+      "filename": "processed_311f00c426ea88f9520b554e88594d20.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

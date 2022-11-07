@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eagles - - Eagles - Hotel california.MP3",
+      "loudnorm": "-16.43,-3.56,10.00,-26.75,-1.81",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eagles - - Eagles - Hotel california.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2e5b399e-579c-4fd2-9834-3bda58cbbda2",
+    "title": "Eagles - Hotel california",
+    "titles": {
+      "spa": "Eagles - Hotel california"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fdf938dc-599e-46c3-ab3c-6ef02652a240"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:17:24.644Z",
+    "modified_at": "2022-11-03T16:17:25.596Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 12421844,
+      "gain": -2.32,
+      "duration": 310,
+      "loudnorm": "-16.43,-3.56,10.00,-26.75,-1.81",
+      "filename": "processed_84514913c58da7a9e055788c35b8e983.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12421844,
+      "gain": -2.32,
+      "duration": 310,
+      "loudnorm": "-16.43,-3.56,10.00,-26.75,-1.81",
+      "filename": "processed_07f220046125cdbbe8330c27eca84cfd.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

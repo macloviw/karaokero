@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Doble T y El Crok - - Doble T y El Crok - Kitipo (Dembow).mp3",
+      "loudnorm": "-8.94,2.04,2.90,-18.98,-1.08",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Doble T y El Crok - - Doble T y El Crok - Kitipo (Dembow).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7dfd202e-e7ad-46b9-b37c-aec137806213",
+    "title": "Doble T y El Crok - Kitipo (Dembow)",
+    "titles": {
+      "spa": "Doble T y El Crok - Kitipo (Dembow)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "1841707a-b76a-46be-b61d-91b080595f48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:46:53.124Z",
+    "modified_at": "2022-11-03T23:46:53.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8279534be763365c3eaec3145153131a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3404791,
+      "gain": -8.06,
+      "duration": 212,
+      "loudnorm": "-8.94,2.04,2.90,-18.98,-1.08",
+      "filename": "processed_abe51bf737654ee8fc440b8260a77635.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

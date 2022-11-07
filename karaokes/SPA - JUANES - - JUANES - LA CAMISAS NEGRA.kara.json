@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - LA CAMISAS NEGRA.mp3",
+      "loudnorm": "-9.21,5.38,3.60,-19.24,0.12",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - LA CAMISAS NEGRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6ce781ff-a00c-4d2a-95c3-29aadadeb833",
+    "title": "JUANES   -   LA CAMISAS NEGRA",
+    "titles": {
+      "spa": "JUANES   -   LA CAMISAS NEGRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:53:36.605Z",
+    "modified_at": "2022-11-03T07:53:37.024Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a8b9e5c768d6b49e2c6a0c356f128ad7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3605617,
+      "gain": -9.61,
+      "duration": 225,
+      "loudnorm": "-9.21,5.38,3.60,-19.24,0.12",
+      "filename": "processed_b0698c416090791d12afa1cc53192c31.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

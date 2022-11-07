@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - TRES PALABRAS (2).MP3",
+      "loudnorm": "-8.83,6.06,3.50,-18.97,-0.81",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ - - ELVIS MARTINEZ - TRES PALABRAS (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4b69876c-1c28-45c6-9b36-5123f02b34b0",
+    "title": "ELVIS MARTINEZ - TRES PALABRAS (2)",
+    "titles": {
+      "spa": "ELVIS MARTINEZ - TRES PALABRAS (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "0402c0f4-e666-4f49-860b-1793e536469b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:36:54.100Z",
+    "modified_at": "2022-11-02T23:36:54.801Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4304298,
+      "gain": -10.64,
+      "duration": 268,
+      "loudnorm": "-8.83,6.06,3.50,-18.97,-0.81",
+      "filename": "processed_eb0cb4e68b016f443d5c8e8f255c098d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4304298,
+      "gain": -10.64,
+      "duration": 268,
+      "loudnorm": "-8.83,6.06,3.50,-18.97,-0.81",
+      "filename": "processed_a00ec3f2f036a6b8b6c7fb3e1e7c011e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

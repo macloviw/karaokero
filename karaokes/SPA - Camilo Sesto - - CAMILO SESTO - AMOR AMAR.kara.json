@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - CAMILO SESTO - AMOR AMAR.MP3",
+      "loudnorm": "-11.64,0.10,9.50,-21.91,-1.87",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - CAMILO SESTO - AMOR AMAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3231c9dc-11f9-4ada-89a4-00e6f81f2f5d",
+    "title": "CAMILO SESTO   -   AMOR AMAR",
+    "titles": {
+      "spa": "CAMILO SESTO   -   AMOR AMAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:47:52.055Z",
+    "modified_at": "2022-11-03T02:47:52.794Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11497109,
+      "gain": -6.88,
+      "duration": 287,
+      "loudnorm": "-11.64,0.10,9.50,-21.91,-1.87",
+      "filename": "processed_51f5fd043008962908904bdc010e1719.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11497109,
+      "gain": -6.88,
+      "duration": 287,
+      "loudnorm": "-11.64,0.10,9.50,-21.91,-1.87",
+      "filename": "processed_83083d65e470ed5d2d3da2e1ac872a30.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

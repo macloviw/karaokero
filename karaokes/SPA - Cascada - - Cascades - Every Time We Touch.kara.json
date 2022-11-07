@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cascada - - Cascades - Every Time We Touch.mp3",
+      "loudnorm": "-8.41,5.90,6.80,-18.61,-1.60",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cascada - - Cascades - Every Time We Touch.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6a5a11cd-9741-40ed-825d-d68aba2a82ed",
+    "title": "Cascades - Every Time We Touch",
+    "titles": {
+      "spa": "Cascades - Every Time We Touch"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a8f83538-de7b-45a5-a87e-e856c1b598df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:12:58.035Z",
+    "modified_at": "2022-11-04T00:12:58.417Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_80b2aa431a68026eac07374bf5d68f59.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3432654,
+      "gain": -9.31,
+      "duration": 214,
+      "loudnorm": "-8.41,5.90,6.80,-18.61,-1.60",
+      "filename": "processed_0033ebfc1eebeebd73e63b5019396d2e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

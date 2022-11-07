@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Andrea Bocceli - - Andrea Bocceli - Solamente una vez.mp3",
+      "loudnorm": null,
+      "duration": null,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Andrea Bocceli - - Andrea Bocceli - Solamente una vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2da62762-79f1-4f66-93b5-3376bfa17233",
+    "title": "Andrea Bocceli - Solamente una vez",
+    "titles": {
+      "spa": "Andrea Bocceli - Solamente una vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cbc1cdb2-5002-4d5c-93d9-5b66e8e685f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:43:48.940Z",
+    "modified_at": "2022-11-03T01:43:49.491Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5aad652e80365618d83f0209cfd49842.cdg"
+    },
+    "mediafile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8fce0235352b2d03aa9be585fd973aa1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

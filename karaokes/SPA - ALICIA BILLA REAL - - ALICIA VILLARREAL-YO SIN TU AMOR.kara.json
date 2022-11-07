@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLARREAL-YO SIN TU AMOR.mp3",
+      "loudnorm": "-15.13,1.61,2.40,-25.16,0.02",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALICIA BILLA REAL - - ALICIA VILLARREAL-YO SIN TU AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69cdca1b-80df-4ebb-824c-48c370a0d01a",
+    "title": "ALICIA VILLARREAL-YO SIN TU AMOR",
+    "titles": {
+      "spa": "ALICIA VILLARREAL-YO SIN TU AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9a5f7f5c-349c-43f7-80a1-f59b8a5286fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:24:37.986Z",
+    "modified_at": "2022-11-03T01:24:38.393Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90fe9d188c82a28c5bd55bd32a54083e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2544084,
+      "gain": -2.82,
+      "duration": 181,
+      "loudnorm": "-15.13,1.61,2.40,-25.16,0.02",
+      "filename": "processed_a6fa79eda569310dab2bd806203d4862.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

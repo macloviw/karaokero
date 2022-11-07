@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - LA MANCHA.mp3",
+      "loudnorm": "-16.36,0.14,4.30,-26.72,-0.25",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - LA MANCHA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e14704a0-1492-40b2-95bc-3d7fe220669b",
+    "title": "ANTHONY RIOS   -   LA MANCHA",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   LA MANCHA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:48:16.499Z",
+    "modified_at": "2022-11-03T01:48:16.926Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02110e820aa2390bf93a2640fd45971c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6496311,
+      "gain": -3.16,
+      "duration": 231,
+      "loudnorm": "-16.36,0.14,4.30,-26.72,-0.25",
+      "filename": "processed_2aa4faeceb94314307dd278645491264.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

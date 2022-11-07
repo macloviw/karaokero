@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Cherry Scom - - Cher - Gypsies Tramps Ant Thieves.mp3",
+      "loudnorm": "-16.71,-2.29,2.50,-26.82,-0.40",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Cherry Scom - - Cher - Gypsies Tramps Ant Thieves.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf8e470c-21f9-49d8-87c9-660733ec56c8",
+    "title": "Cher - Gypsies Tramps Ant Thieves",
+    "titles": {
+      "spa": "Cher - Gypsies Tramps Ant Thieves"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "efe828ee-8be1-4b52-beb3-a488b4bac4ab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:38:28.248Z",
+    "modified_at": "2022-11-03T15:38:28.748Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f1cc19e98e16767d74bdfb04e2de41b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2754029,
+      "gain": 0.44,
+      "duration": 172,
+      "loudnorm": "-16.71,-2.29,2.50,-26.82,-0.40",
+      "filename": "processed_57708c2b093ac82542b84a4fee76eaee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 07el amor acaba.mp3",
+      "loudnorm": "-15.14,-0.16,4.20,-25.28,-0.36",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 07el amor acaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0bb76f0-ac2d-4f4d-b2df-4e72e7b9f562",
+    "title": "07el amor acaba",
+    "titles": {
+      "spa": "07el amor acaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:43:01.311Z",
+    "modified_at": "2022-11-03T06:43:01.712Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_296c0aa9892d5229f853650b39d217e2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6178785,
+      "gain": -1.74,
+      "duration": 257,
+      "loudnorm": "-15.14,-0.16,4.20,-25.28,-0.36",
+      "filename": "processed_1d2f8fc288f78b94abf83d050d5c9484.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

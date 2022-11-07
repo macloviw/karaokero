@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - EL ME ENGANO.MP3",
+      "loudnorm": "-14.87,2.01,13.50,-25.86,0.30",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coti y Paulina Rubio - - PAULINA RUBIO - EL ME ENGANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "541175cb-a6e4-4ab8-a574-6c93409fb87f",
+    "title": "PAULINA RUBIO   -   EL ME ENGAÑO",
+    "titles": {
+      "spa": "PAULINA RUBIO   -   EL ME ENGAÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0925f5f9-c398-4a1a-9c29-5a86e8b6f3cb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:16:25.701Z",
+    "modified_at": "2022-11-03T11:16:26.305Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9948570,
+      "gain": -2.62,
+      "duration": 248,
+      "loudnorm": "-14.87,2.01,13.50,-25.86,0.30",
+      "filename": "processed_60ef01857985e8198ee14d878a92b792.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9948570,
+      "gain": -2.62,
+      "duration": 248,
+      "loudnorm": "-14.87,2.01,13.50,-25.86,0.30",
+      "filename": "processed_41bc4218cd773d56e0cff5ac00f3360d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

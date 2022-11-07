@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alice cooper - - Alice cooper - Poison.mp3",
+      "loudnorm": "-15.72,-0.05,4.40,-25.76,-0.85",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alice cooper - - Alice cooper - Poison.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a6fdc3d-c725-4577-834e-55fe3741be31",
+    "title": "Alice cooper - Poison",
+    "titles": {
+      "spa": "Alice cooper - Poison"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec88b378-a7b0-49a6-b299-26e343d9b1ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:41:44.849Z",
+    "modified_at": "2022-11-03T14:41:45.294Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_935adb0786317040c6537f3d1275c496.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4713421,
+      "gain": -1.79,
+      "duration": 294,
+      "loudnorm": "-15.72,-0.05,4.40,-25.76,-0.85",
+      "filename": "processed_014a640b6f7d29b9d6955e52047e3d52.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

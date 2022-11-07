@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TUESKA - - Tueska - Habla Blah Blah.mp3",
+      "loudnorm": "-9.99,3.11,2.20,-20.05,-0.04",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TUESKA - - Tueska - Habla Blah Blah.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf08ae6b-d55e-46f9-95d4-bff0d7ad3c15",
+    "title": "Tueska - Habla Blah Blah",
+    "titles": {
+      "spa": "Tueska - Habla Blah Blah"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7725dc01-604b-47f0-af74-0750c59681aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:45:12.780Z",
+    "modified_at": "2022-11-04T08:45:13.159Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79790576598d6a46d407ecc6450121a1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3917627,
+      "gain": -6.39,
+      "duration": 244,
+      "loudnorm": "-9.99,3.11,2.20,-20.05,-0.04",
+      "filename": "processed_ebae13e014d26a4ef826000b941ed81a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

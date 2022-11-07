@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 01- A esa.mp3",
+      "loudnorm": "-18.48,-0.42,4.20,-28.55,-0.76",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 01- A esa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81adbdda-56b2-4a35-a13d-553a8f8bff97",
+    "title": "01- A esa",
+    "titles": {
+      "spa": "01- A esa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:36:59.760Z",
+    "modified_at": "2022-11-03T06:37:00.173Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79a16019cdd1a3dc51ed4042762d93d6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4620373,
+      "gain": -0.1,
+      "duration": 192,
+      "loudnorm": "-18.48,-0.42,4.20,-28.55,-0.76",
+      "filename": "processed_6f7ea9b84627a1c9cccab47cd2d037b0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS383-01 - - ARIS383-01 - Raulin Rodriguez - Parese Mentira.mp3",
+      "loudnorm": "-12.90,3.82,5.20,-22.94,-1.04",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS383-01 - - ARIS383-01 - Raulin Rodriguez - Parese Mentira.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f787c8db-ccc2-49d5-a061-1331ac6c1a1f",
+    "title": "ARIS383-01 - Raulin Rodriguez - Parese Mentira",
+    "titles": {
+      "spa": "ARIS383-01 - Raulin Rodriguez - Parese Mentira"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4b49bae8-8f0e-448f-8c2a-5acb072bbdaf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:39:41.578Z",
+    "modified_at": "2022-11-03T21:39:41.957Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe9b98510d4b92f536afee12d3d1e161.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3893385,
+      "gain": -5.51,
+      "duration": 243,
+      "loudnorm": "-12.90,3.82,5.20,-22.94,-1.04",
+      "filename": "processed_17dadca9fe95f229db537f672ff45d13.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FITO PAEZ - - Fito Paez - Dos dias en la vida.mp3",
+      "loudnorm": "-16.80,-1.85,3.30,-27.05,-0.68",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FITO PAEZ - - Fito Paez - Dos dias en la vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2e067bdf-3177-478c-91c6-986146bc7629",
+    "title": "Fito Paez - Dos dias en la vida",
+    "titles": {
+      "spa": "Fito Paez - Dos dias en la vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9ea2ac9c-da29-4a30-80da-699dac4babcd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:22:08.636Z",
+    "modified_at": "2022-11-03T05:22:09.069Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f6064dbbb1dd9138c541ffc9c1e0c0a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2810740,
+      "gain": -0.54,
+      "duration": 175,
+      "loudnorm": "-16.80,-1.85,3.30,-27.05,-0.68",
+      "filename": "processed_b342a09ffa2ade02d1da1c414f73b78a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

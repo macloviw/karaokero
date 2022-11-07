@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Shick - - El Shick - Prendelo (Dembow).mp3",
+      "loudnorm": "-5.98,5.58,7.20,-16.16,-3.46",
+      "duration": 70,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Shick - - El Shick - Prendelo (Dembow).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0363487-f1c1-4804-837b-c53d7bfa84ae",
+    "title": "El Shick - Prendelo (Dembow)",
+    "titles": {
+      "spa": "El Shick - Prendelo (Dembow)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "ecdaaf5c-fff2-4aa0-8d94-71eec6052e7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:47:57.498Z",
+    "modified_at": "2022-11-03T23:47:57.867Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_27f72c368bc7c8b1a31d8aa6800d36fa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1136065,
+      "gain": -10.25,
+      "duration": 70,
+      "loudnorm": "-5.98,5.58,7.20,-16.16,-3.46",
+      "filename": "processed_64dfa6654f1d3ca5f1274fb53fa8d01a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

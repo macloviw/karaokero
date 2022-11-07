@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - HACER EL AMOR CON OTRO BY ALEJANDRA GUZMAN.CDG.MP3",
+      "loudnorm": "-21.43,-0.71,6.90,-31.61,-1.35",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - HACER EL AMOR CON OTRO BY ALEJANDRA GUZMAN.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c7a2a94-d043-468f-a14b-15a9dfb9c89f",
+    "title": "HACER EL AMOR CON OTRO BY ALEJANDRA GUZMAN.CDG",
+    "titles": {
+      "spa": "HACER EL AMOR CON OTRO BY ALEJANDRA GUZMAN.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:37:40.723Z",
+    "modified_at": "2022-11-03T00:37:41.358Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4401914,
+      "gain": 4.99,
+      "duration": 274,
+      "loudnorm": "-21.43,-0.71,6.90,-31.61,-1.35",
+      "filename": "processed_b42ca351904b2a3f80d8f1a80e33fa5d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4401914,
+      "gain": 4.99,
+      "duration": 274,
+      "loudnorm": "-21.43,-0.71,6.90,-31.61,-1.35",
+      "filename": "processed_023c57866b1784e08b423e072ca667f5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

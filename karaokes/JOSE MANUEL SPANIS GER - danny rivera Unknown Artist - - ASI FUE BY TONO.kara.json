@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - ASI FUE BY TONO.mp3",
+      "loudnorm": "-17.22,-1.60,6.20,-27.24,-0.08",
+      "duration": 326,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - ASI FUE BY TONO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3e79c310-184b-4949-a11b-e5edcedf6438",
+    "title": "ASI FUE BY TOÑO",
+    "titles": {
+      "spa": "ASI FUE BY TOÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:20:30.609Z",
+    "modified_at": "2022-11-04T11:20:31.004Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_85f16146de1155b357bd94f0778f300f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5233243,
+      "gain": -3.18,
+      "duration": 326,
+      "loudnorm": "-17.22,-1.60,6.20,-27.24,-0.08",
+      "filename": "processed_0f9b06f4bf64401721768c6c4005e502.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA BARBARA - - Ana Barbara - Nada.mp3",
+      "loudnorm": "-11.66,1.94,3.70,-21.69,-0.43",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA BARBARA - - Ana Barbara - Nada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3be4520e-0918-4d83-9ac9-ced683b109ae",
+    "title": "Ana Barbara - Nada",
+    "titles": {
+      "spa": "Ana Barbara - Nada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3fa72ba-27c9-42eb-8aad-c0bfb0a48d9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:36:27.256Z",
+    "modified_at": "2022-11-03T01:36:27.685Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_edc27c66dae460316d2aae6f8ea9688c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5263455,
+      "gain": -6.24,
+      "duration": 219,
+      "loudnorm": "-11.66,1.94,3.70,-21.69,-0.43",
+      "filename": "processed_f1def4d3a59882b7e1aef253a4f69c0b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

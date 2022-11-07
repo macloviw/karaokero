@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Enamorado Por Primera Vez.MP3",
+      "loudnorm": "-10.70,-0.16,9.40,-20.85,-0.84",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Enamorado Por Primera Vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03620056-8e11-4fa5-b789-4f7707908445",
+    "title": "Enrique Iglesias - Enamorado Por Primera Vez",
+    "titles": {
+      "spa": "Enrique Iglesias - Enamorado Por Primera Vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:03:05.959Z",
+    "modified_at": "2022-11-03T05:03:06.836Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10901504,
+      "gain": -8.42,
+      "duration": 272,
+      "loudnorm": "-10.70,-0.16,9.40,-20.85,-0.84",
+      "filename": "processed_9f2be7f12d6027e85bb2076697261f94.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10901504,
+      "gain": -8.42,
+      "duration": 272,
+      "loudnorm": "-10.70,-0.16,9.40,-20.85,-0.84",
+      "filename": "processed_11c8ca7bb704cec67e3062e8029ce5be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

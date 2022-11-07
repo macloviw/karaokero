@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOHNNY LABORIER - - 08 La Novia De Mi Mejor Amigo.mp3",
+      "loudnorm": "-22.76,-6.21,4.50,-33.06,-0.01",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOHNNY LABORIER - - 08 La Novia De Mi Mejor Amigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "184858cf-db10-4714-8d43-299649038a0c",
+    "title": "08 La Novia De Mi Mejor Amigo",
+    "titles": {
+      "spa": "08 La Novia De Mi Mejor Amigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af55ac59-7c48-481c-ae7b-633a62a97ed0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:26:06.366Z",
+    "modified_at": "2022-11-03T06:26:06.782Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_50fe3be1cff6f3ac2ca31875e7d59457.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3894847,
+      "gain": 4.17,
+      "duration": 162,
+      "loudnorm": "-22.76,-6.21,4.50,-33.06,-0.01",
+      "filename": "processed_d420059c6c2994fad6bb4a1499493557.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

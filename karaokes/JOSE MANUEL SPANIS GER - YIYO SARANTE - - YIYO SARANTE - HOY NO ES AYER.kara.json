@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - YIYO SARANTE - - YIYO SARANTE - HOY NO ES AYER.mp3",
+      "loudnorm": "-14.72,2.68,6.20,-24.81,-1.26",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - YIYO SARANTE - - YIYO SARANTE - HOY NO ES AYER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d11e1a95-42df-442a-a7de-20fb6bf25efe",
+    "title": "YIYO SARANTE   -   HOY NO ES AYER",
+    "titles": {
+      "spa": "YIYO SARANTE   -   HOY NO ES AYER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "36751ca7-6d7d-4acd-be28-e337a2f2fdd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:54:01.996Z",
+    "modified_at": "2022-11-04T08:54:02.377Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e434a9569680e85decae3d1c01acfbe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3880011,
+      "gain": -4.38,
+      "duration": 242,
+      "loudnorm": "-14.72,2.68,6.20,-24.81,-1.26",
+      "filename": "processed_551cf9a621903c2d6f3807a77c0caa55.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

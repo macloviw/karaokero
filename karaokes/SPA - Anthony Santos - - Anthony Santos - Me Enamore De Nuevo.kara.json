@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Me Enamore De Nuevo.mp3",
+      "loudnorm": "-8.57,8.91,1.90,-18.66,-0.03",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Me Enamore De Nuevo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8bcfe6b-7566-4d52-b8c3-38eaf78d6355",
+    "title": "Anthony Santos - Me Enamore De Nuevo",
+    "titles": {
+      "spa": "Anthony Santos - Me Enamore De Nuevo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:11:26.083Z",
+    "modified_at": "2022-11-02T22:11:26.907Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7925c97d728b0de396a7625ef7822a00.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7564527,
+      "gain": -8.91,
+      "duration": 315,
+      "loudnorm": "-8.57,8.91,1.90,-18.66,-0.03",
+      "filename": "processed_4456f41f8c9268ece1c78e869c23adfa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

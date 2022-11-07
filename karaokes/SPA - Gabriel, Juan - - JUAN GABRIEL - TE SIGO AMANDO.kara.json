@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - TE SIGO AMANDO.MP3",
+      "loudnorm": "-15.40,-0.47,6.20,-25.47,-0.91",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - JUAN GABRIEL - TE SIGO AMANDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92f3b16f-59c3-40c4-bce5-c714e0a8265d",
+    "title": "JUAN GABRIEL   -   TE SIGO AMANDO",
+    "titles": {
+      "spa": "JUAN GABRIEL   -   TE SIGO AMANDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:42:12.686Z",
+    "modified_at": "2022-11-03T07:42:13.147Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2897261,
+      "gain": -2.83,
+      "duration": 180,
+      "loudnorm": "-15.40,-0.47,6.20,-25.47,-0.91",
+      "filename": "processed_6f096432ac8dd86c93a0a2394772cd5f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2897261,
+      "gain": -2.83,
+      "duration": 180,
+      "loudnorm": "-15.40,-0.47,6.20,-25.47,-0.91",
+      "filename": "processed_dd74868798173e6787cbfbc2e6203184.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FENANDEZ-QUE LASTIMA.mp3",
+      "loudnorm": "-17.38,-2.00,9.60,-27.91,-1.54",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FENANDEZ-QUE LASTIMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6bc99308-1842-41cf-a2e0-b500d8cf5ac4",
+    "title": "ALEJANDRO FENANDEZ-QUE LASTIMA",
+    "titles": {
+      "spa": "ALEJANDRO FENANDEZ-QUE LASTIMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:38:29.760Z",
+    "modified_at": "2022-11-03T00:38:30.187Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a34ffd14374153214e4e4a3d35876554.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3866508,
+      "gain": 0.39,
+      "duration": 276,
+      "loudnorm": "-17.38,-2.00,9.60,-27.91,-1.54",
+      "filename": "processed_4affbedcf0081fda72502daeb9643370.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

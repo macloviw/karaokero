@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Coldplay - - Yellow.mp3",
+      "loudnorm": "-19.43,-7.65,4.70,-29.48,-0.39",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Coldplay - - Yellow.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9a126deb-8e99-4e6e-9a75-3e2eedaff59e",
+    "title": "Yellow",
+    "titles": {
+      "spa": "Yellow"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "66e94b45-6aa7-4588-9e8e-cb875e9c004d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:31:40.760Z",
+    "modified_at": "2022-11-02T20:31:41.375Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a36cbc2436042cd1f13a110f149560c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4674551,
+      "gain": 3.2,
+      "duration": 292,
+      "loudnorm": "-19.43,-7.65,4.70,-29.48,-0.39",
+      "filename": "processed_5590e538b5f984fcbaf1f457f2fb2d8b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

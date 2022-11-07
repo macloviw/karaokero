@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - Por El Alcohol.mp3",
+      "loudnorm": "-9.28,2.51,2.20,-19.42,-0.05",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - Por El Alcohol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa49a710-364f-4a55-9c3a-0988e9cd211a",
+    "title": "Frank Reyes - Por El Alcohol",
+    "titles": {
+      "spa": "Frank Reyes - Por El Alcohol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:44:02.724Z",
+    "modified_at": "2022-11-02T23:44:03.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0c4fe47ae586917a9f3755d1d4bf3047.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4144108,
+      "gain": -8.08,
+      "duration": 258,
+      "loudnorm": "-9.28,2.51,2.20,-19.42,-0.05",
+      "filename": "processed_63a8a4bc5f418517f4a1faa472f6b116.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

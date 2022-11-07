@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4329-07 - - CDJ-KAR4329-07 - Ricardo Arjona - Quiero.mp3",
+      "loudnorm": "-9.62,2.06,10.80,-20.03,-2.04",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4329-07 - - CDJ-KAR4329-07 - Ricardo Arjona - Quiero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6f5247d0-a524-467a-834d-2419330560cd",
+    "title": "CDJ-KAR4329-07 - Ricardo Arjona - Quiero",
+    "titles": {
+      "spa": "CDJ-KAR4329-07 - Ricardo Arjona - Quiero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b39526b8-4f54-4bfb-a4b4-da87c07467eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:50:50.742Z",
+    "modified_at": "2022-11-03T21:50:51.168Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf5f54f73decf711e584da3b1de44014.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4682492,
+      "gain": -7.85,
+      "duration": 292,
+      "loudnorm": "-9.62,2.06,10.80,-20.03,-2.04",
+      "filename": "processed_ab0927d730ce97842020f4a672843b50.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

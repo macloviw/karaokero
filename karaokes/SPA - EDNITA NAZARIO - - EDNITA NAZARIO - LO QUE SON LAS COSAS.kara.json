@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - EDNITA NAZARIO - LO QUE SON LAS COSAS.MP3",
+      "loudnorm": "-12.38,0.82,13.00,-22.93,-1.78",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - EDNITA NAZARIO - LO QUE SON LAS COSAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a90836d-699f-493f-858a-dbbd47db9234",
+    "title": "EDNITA NAZARIO   -   LO QUE SON LAS COSAS",
+    "titles": {
+      "spa": "EDNITA NAZARIO   -   LO QUE SON LAS COSAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:21:06.093Z",
+    "modified_at": "2022-11-03T04:21:06.854Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10996603,
+      "gain": -6,
+      "duration": 274,
+      "loudnorm": "-12.38,0.82,13.00,-22.93,-1.78",
+      "filename": "processed_eb4f88e8ddd1ef04bd689572473c98be.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10996603,
+      "gain": -6,
+      "duration": 274,
+      "loudnorm": "-12.38,0.82,13.00,-22.93,-1.78",
+      "filename": "processed_50cdcfed5d80fb75cbb42ce173829eda.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

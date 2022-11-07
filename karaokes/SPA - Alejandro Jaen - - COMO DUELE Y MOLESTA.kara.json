@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Jaen - - COMO DUELE Y MOLESTA.mp3",
+      "loudnorm": "-12.67,1.03,2.10,-22.75,0.21",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Jaen - - COMO DUELE Y MOLESTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69d810c8-2b12-4933-8062-0425d149fc8c",
+    "title": "COMO DUELE Y MOLESTA",
+    "titles": {
+      "spa": "COMO DUELE Y MOLESTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e4c64010-3124-46c9-b585-ed319edec6bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:56:00.266Z",
+    "modified_at": "2022-11-03T05:56:00.701Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93b2d34b15a4d3428d670666356daff1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3271411,
+      "gain": -6.32,
+      "duration": 204,
+      "loudnorm": "-12.67,1.03,2.10,-22.75,0.21",
+      "filename": "processed_bfcf95417aa76962aeb90bcacb727bd4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

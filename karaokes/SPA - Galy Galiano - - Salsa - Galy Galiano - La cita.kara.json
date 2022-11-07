@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Galy Galiano - - Salsa - Galy Galiano - La cita.mp3",
+      "loudnorm": "-13.85,2.12,7.60,-24.10,-1.58",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Galy Galiano - - Salsa - Galy Galiano - La cita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8ab55d83-ed68-4f33-929c-6fd23e372d98",
+    "title": "Salsa - Galy Galiano - La cita",
+    "titles": {
+      "spa": "Salsa - Galy Galiano - La cita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0b888324-88ff-40e5-9723-85a036cab822"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:32:25.663Z",
+    "modified_at": "2022-11-03T05:32:26.084Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_40ec3700ec001900a187519aac62cec8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4666611,
+      "gain": -5.44,
+      "duration": 291,
+      "loudnorm": "-13.85,2.12,7.60,-24.10,-1.58",
+      "filename": "processed_b8c79cc972bc7974bfb37fd35733a8cc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

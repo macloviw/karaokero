@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - Juanes & Nelly Furtado - Fotografia.mp3",
+      "loudnorm": "-14.37,-0.22,6.20,-24.38,-1.39",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - Juanes & Nelly Furtado - Fotografia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "61c6e94d-5327-420d-a5a6-c7bc5dd8f5da",
+    "title": "Juanes & Nelly Furtado - Fotografia",
+    "titles": {
+      "spa": "Juanes & Nelly Furtado - Fotografia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:55:22.747Z",
+    "modified_at": "2022-11-03T07:55:23.169Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4c47bbece9de4b8ace8791039588933b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4042055,
+      "gain": -4.17,
+      "duration": 252,
+      "loudnorm": "-14.37,-0.22,6.20,-24.38,-1.39",
+      "filename": "processed_fd17b9c606e7657cf1337b23ee9379fa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

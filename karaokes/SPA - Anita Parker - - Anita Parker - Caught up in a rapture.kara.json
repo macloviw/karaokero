@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anita Parker - - Anita Parker - Caught up in a rapture.mp3",
+      "loudnorm": "-16.07,-1.74,3.20,-26.12,-0.29",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anita Parker - - Anita Parker - Caught up in a rapture.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "feb32113-e176-4509-95bd-b838f8024f9a",
+    "title": "Anita Parker - Caught up in a rapture",
+    "titles": {
+      "spa": "Anita Parker - Caught up in a rapture"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1ac196e9-1365-41f8-bbb4-b967e7f5cf15"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:54:18.845Z",
+    "modified_at": "2022-11-03T23:54:19.228Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9bd272040454cdab7726ab0119d4a873.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4306747,
+      "gain": -1.7,
+      "duration": 269,
+      "loudnorm": "-16.07,-1.74,3.20,-26.12,-0.29",
+      "filename": "processed_db85b2f0a73693726ca28fff987256e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

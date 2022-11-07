@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-07 - Alejandro Fernandez - De Nada Sirve Hablar.mp3",
+      "loudnorm": "-11.40,1.14,8.90,-21.46,-1.78",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-07 - Alejandro Fernandez - De Nada Sirve Hablar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "658c99d9-d13e-431d-ae1b-2ac171d40b74",
+    "title": "OKE0360-07 - Alejandro Fernandez - De Nada Sirve Hablar",
+    "titles": {
+      "spa": "OKE0360-07 - Alejandro Fernandez - De Nada Sirve Hablar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:57:19.719Z",
+    "modified_at": "2022-11-03T00:57:20.174Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b1ceed5144f4c5f56b1e641425225275.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3944697,
+      "gain": -5.97,
+      "duration": 197,
+      "loudnorm": "-11.40,1.14,8.90,-21.46,-1.78",
+      "filename": "processed_100569195ac9988f75b6cc6ef927d9be.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - IL DIVO - - IL DIVO - Heroe.mp3",
+      "loudnorm": "-14.19,1.32,7.80,-24.31,-1.11",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - IL DIVO - - IL DIVO - Heroe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c77cf7e2-823b-48a0-a906-a8143e5cf4b1",
+    "title": "IL DIVO - Heroe",
+    "titles": {
+      "spa": "IL DIVO - Heroe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d13b4e66-cc3d-4e9e-8689-229c3a5c4035"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:24:56.098Z",
+    "modified_at": "2022-11-03T22:24:56.493Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4cb0a8039f3da2a66dd63cfc1f3629eb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4358575,
+      "gain": -4.17,
+      "duration": 272,
+      "loudnorm": "-14.19,1.32,7.80,-24.31,-1.11",
+      "filename": "processed_b7bb2d4dbd04ddcdecb535f2418d5641.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

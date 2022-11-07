@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - NINA NO TE PINTES TANTO.MP3",
+      "loudnorm": "-15.38,0.31,3.70,-25.45,-0.13",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - NINA NO TE PINTES TANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d69a40f-efcf-42e4-a1cd-c37fd29a6014",
+    "title": "DANI DANIEL   -   NIÑA NO TE PINTES TANTO",
+    "titles": {
+      "spa": "DANI DANIEL   -   NIÑA NO TE PINTES TANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:49:43.806Z",
+    "modified_at": "2022-11-03T03:49:44.329Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3886152,
+      "gain": -2.79,
+      "duration": 242,
+      "loudnorm": "-15.38,0.31,3.70,-25.45,-0.13",
+      "filename": "processed_476cdcee1886452255a1c234ef53601c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3886152,
+      "gain": -2.79,
+      "duration": 242,
+      "loudnorm": "-15.38,0.31,3.70,-25.45,-0.13",
+      "filename": "processed_5e075c1734cc88cfb0cc546286f615e8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

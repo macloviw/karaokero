@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ORQUESTA JOVEN - - ORQUESTA JOVEN - QUE SERA DE MI.mp3",
+      "loudnorm": "-15.36,0.77,4.40,-25.40,0.39",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ORQUESTA JOVEN - - ORQUESTA JOVEN - QUE SERA DE MI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cc21f6ba-325e-4425-9d7c-ce45febaaaf0",
+    "title": "ORQUESTA JOVEN - QUE SERA DE MI",
+    "titles": {
+      "spa": "ORQUESTA JOVEN - QUE SERA DE MI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "07acb91c-2e0d-4c6f-97ac-55c76ed1b6d1"
+      ],
+      "singers": [
+        "244d2335-8321-4803-b19a-f7b788559cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:09:55.473Z",
+    "modified_at": "2022-11-04T09:09:55.847Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ab5af4396509f76930a1191a162012e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5481630,
+      "gain": -3.91,
+      "duration": 228,
+      "loudnorm": "-15.36,0.77,4.40,-25.40,0.39",
+      "filename": "processed_666f3fb4422e473409ed82042874c11e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

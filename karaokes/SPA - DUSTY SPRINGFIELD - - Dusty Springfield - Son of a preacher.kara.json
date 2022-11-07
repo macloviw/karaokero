@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DUSTY SPRINGFIELD - - Dusty Springfield - Son of a preacher.MP3",
+      "loudnorm": "-14.68,-0.17,2.30,-24.84,-0.32",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DUSTY SPRINGFIELD - - Dusty Springfield - Son of a preacher.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "162dcadc-2491-4ffa-a226-b2eb3bc1fb52",
+    "title": "Dusty Springfield - Son of a preacher",
+    "titles": {
+      "spa": "Dusty Springfield - Son of a preacher"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2e80125d-a94c-423c-b94e-b741f16074c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:16:17.062Z",
+    "modified_at": "2022-11-03T16:16:17.561Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2644941,
+      "gain": -1.53,
+      "duration": 165,
+      "loudnorm": "-14.68,-0.17,2.30,-24.84,-0.32",
+      "filename": "processed_8525a602c4ad9684c4a88dc30a5a0cc5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2644941,
+      "gain": -1.53,
+      "duration": 165,
+      "loudnorm": "-14.68,-0.17,2.30,-24.84,-0.32",
+      "filename": "processed_2969db596236c3238dc484ca5fbccf29.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

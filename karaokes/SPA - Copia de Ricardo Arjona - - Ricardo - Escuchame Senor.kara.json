@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo - Escuchame Senor.mp3",
+      "loudnorm": "-12.74,2.59,7.10,-22.94,-1.04",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo - Escuchame Senor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "368ab5ea-ae47-4509-a9bb-514d86a14f7b",
+    "title": "Ricardo - Escuchame Señor",
+    "titles": {
+      "spa": "Ricardo - Escuchame Señor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:29:08.298Z",
+    "modified_at": "2022-11-03T14:29:08.733Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_def18c87006bb6b27f808ea9c06325bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4252831,
+      "gain": -4.97,
+      "duration": 265,
+      "loudnorm": "-12.74,2.59,7.10,-22.94,-1.04",
+      "filename": "processed_576a54de53182237063a48ffeeca24de.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

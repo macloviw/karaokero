@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - TU REPUTACION2.mp3",
+      "loudnorm": "-16.78,-0.12,8.30,-27.02,-1.51",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - TU REPUTACION2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4207ee1d-285b-4b9c-968d-43696a1ef477",
+    "title": "RICARDO ARJONA - TU REPUTACION2",
+    "titles": {
+      "spa": "RICARDO ARJONA - TU REPUTACION2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:05:13.929Z",
+    "modified_at": "2022-11-03T12:05:14.381Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d29b824887f7cedee038a0d6eb6202a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1199953,
+      "gain": -0.75,
+      "duration": 299,
+      "loudnorm": "-16.78,-0.12,8.30,-27.02,-1.51",
+      "filename": "processed_e92c8244d06454116d67598007f68b5e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

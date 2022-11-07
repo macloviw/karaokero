@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Amada Mia.MP3",
+      "loudnorm": "-13.76,0.31,4.00,-23.81,-0.99",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOSE ALBERTO ( EL CANARIO ) - - Jose Alberto (El Canario) - Amada Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df85822c-2d98-4eb1-b24e-5d7a666b53ce",
+    "title": "Jose Alberto (El Canario) - Amada Mia",
+    "titles": {
+      "spa": "Jose Alberto (El Canario) - Amada Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9422437f-ee93-4c3f-8df1-b151aebcc9ac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:53:10.073Z",
+    "modified_at": "2022-11-04T03:53:10.692Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4145152,
+      "gain": -4.98,
+      "duration": 259,
+      "loudnorm": "-13.76,0.31,4.00,-23.81,-0.99",
+      "filename": "processed_f71e1d1b7dc61d0d045a6381bc8be4a8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4145152,
+      "gain": -4.98,
+      "duration": 259,
+      "loudnorm": "-13.76,0.31,4.00,-23.81,-0.99",
+      "filename": "processed_86624d413471971f95a84b67341b12cb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

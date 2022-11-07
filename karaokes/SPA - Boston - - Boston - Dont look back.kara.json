@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Boston - - Boston - Dont look back.mp3",
+      "loudnorm": "-14.70,-0.07,7.10,-24.76,-0.77",
+      "duration": 377,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Boston - - Boston - Dont look back.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f10488a4-239e-450a-ac14-bd4da9c917a7",
+    "title": "Boston - Dont look back",
+    "titles": {
+      "spa": "Boston - Dont look back"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "06f0f30a-ee4a-48b6-a759-e1c10da4a283"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:22:47.640Z",
+    "modified_at": "2022-11-03T15:22:48.165Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_95f9bd77a90cd0fef7759675d6570125.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6039606,
+      "gain": -3.25,
+      "duration": 377,
+      "loudnorm": "-14.70,-0.07,7.10,-24.76,-0.77",
+      "filename": "processed_e103e29ed3bfe7d663f434e26ea2f119.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

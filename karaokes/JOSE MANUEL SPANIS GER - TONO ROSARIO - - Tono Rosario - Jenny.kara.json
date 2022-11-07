@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Jenny.mp3",
+      "loudnorm": "-13.15,1.60,4.10,-23.17,-0.37",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TONO ROSARIO - - Tono Rosario - Jenny.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a1cb798-fe6f-4fb1-ba1a-60dabcff4ecc",
+    "title": "Toño Rosario - Jenny",
+    "titles": {
+      "spa": "Toño Rosario - Jenny"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "124f7781-9ff9-4376-90ce-751851cc5cc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:18:55.079Z",
+    "modified_at": "2022-11-04T11:18:55.463Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d60b669f5d7e08b02aee509c26c7105c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4098048,
+      "gain": -5.27,
+      "duration": 256,
+      "loudnorm": "-13.15,1.60,4.10,-23.17,-0.37",
+      "filename": "processed_2d09350b2e03fe9d6547ecd4cce94ca1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

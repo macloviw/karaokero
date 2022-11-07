@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Cristiano - Levanto mis manos.MP3",
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Cristiano - Levanto mis manos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78b0597c-b3a9-41fb-996c-60c35bf21e7b",
+    "title": "Cristiano - Levanto mis manos",
+    "titles": {
+      "spa": "Cristiano - Levanto mis manos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:00:29.646Z",
+    "modified_at": "2022-11-03T14:00:30.183Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5115788,
+      "gain": 0.55,
+      "duration": 319,
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "filename": "processed_c07cc545b187b08d918bcc570b435940.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5115788,
+      "gain": 0.55,
+      "duration": 319,
+      "loudnorm": "-19.23,-1.08,7.50,-29.35,-0.68",
+      "filename": "processed_63ebb81b89b65b491937dd6176ad760c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

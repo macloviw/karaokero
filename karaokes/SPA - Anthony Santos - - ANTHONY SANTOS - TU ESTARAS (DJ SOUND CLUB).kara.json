@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - ANTHONY SANTOS - TU ESTARAS (DJ SOUND CLUB).mp3",
+      "loudnorm": "-11.66,4.10,5.20,-21.84,0.14",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - ANTHONY SANTOS - TU ESTARAS (DJ SOUND CLUB).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9c57e079-8372-48c2-acff-0d4177450e5e",
+    "title": "ANTHONY SANTOS - TU ESTARAS (DJ SOUND CLUB)",
+    "titles": {
+      "spa": "ANTHONY SANTOS - TU ESTARAS (DJ SOUND CLUB)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:29:44.224Z",
+    "modified_at": "2022-11-04T02:29:44.605Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_55b39780a99aee471aa071599a7c0277.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4278745,
+      "gain": -7.45,
+      "duration": 267,
+      "loudnorm": "-11.66,4.10,5.20,-21.84,0.14",
+      "filename": "processed_71aebc87c4e6b95b2a26add3e68449d6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

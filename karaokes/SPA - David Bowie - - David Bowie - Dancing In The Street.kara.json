@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bowie - - David Bowie - Dancing In The Street.MP3",
+      "loudnorm": "-18.57,-1.75,3.50,-28.61,-0.28",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bowie - - David Bowie - Dancing In The Street.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "295fafb5-1c94-489d-9bc9-9775e2a5cdab",
+    "title": "David Bowie - Dancing In The Street",
+    "titles": {
+      "spa": "David Bowie - Dancing In The Street"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "20a26dc2-c959-4ddc-8912-a1432f2923e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:48:06.947Z",
+    "modified_at": "2022-11-03T15:48:08.988Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2832187,
+      "gain": 0.93,
+      "duration": 176,
+      "loudnorm": "-18.57,-1.75,3.50,-28.61,-0.28",
+      "filename": "processed_4e6332f5911dde2a7af909a92b43e099.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2832187,
+      "gain": 0.93,
+      "duration": 176,
+      "loudnorm": "-18.57,-1.75,3.50,-28.61,-0.28",
+      "filename": "processed_575a03b6d739e07fb3390125b0fa9a7b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

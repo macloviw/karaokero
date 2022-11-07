@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - Jenny Rivera - De Contrabando.mp3",
+      "loudnorm": "-13.71,0.18,8.10,-23.77,-1.76",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - Jenny Rivera - De Contrabando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c5c2ce3-7dcc-451a-9465-f75804b4a6a8",
+    "title": "Jenny Rivera - De Contrabando",
+    "titles": {
+      "spa": "Jenny Rivera - De Contrabando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:57.931Z",
+    "modified_at": "2022-11-03T06:16:58.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_339d5f701c9e3d853b174fa97b1fce1d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4768800,
+      "gain": -4.77,
+      "duration": 198,
+      "loudnorm": "-13.71,0.18,8.10,-23.77,-1.76",
+      "filename": "processed_f851cc9095ce709d11dfd0c3ee7d24de.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

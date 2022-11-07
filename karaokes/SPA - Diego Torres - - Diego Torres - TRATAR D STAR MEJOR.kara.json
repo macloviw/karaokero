@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diego Torres - - Diego Torres - TRATAR D STAR MEJOR.MP3",
+      "loudnorm": "-19.55,-3.39,6.00,-29.77,-1.05",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diego Torres - - Diego Torres - TRATAR D STAR MEJOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1174f552-2c32-4810-8d0d-3fa5f345c20f",
+    "title": "Diego Torres - TRATAR D STAR MEJOR",
+    "titles": {
+      "spa": "Diego Torres - TRATAR D STAR MEJOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8abc4391-5a6e-4c15-a74b-43d28684cd27"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:12:12.313Z",
+    "modified_at": "2022-11-03T04:12:12.828Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3683989,
+      "gain": 2.12,
+      "duration": 230,
+      "loudnorm": "-19.55,-3.39,6.00,-29.77,-1.05",
+      "filename": "processed_757771a540dc8755266b65977ba25e71.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3683989,
+      "gain": 2.12,
+      "duration": 230,
+      "loudnorm": "-19.55,-3.39,6.00,-29.77,-1.05",
+      "filename": "processed_a0edc287290ebd1a6a76edcb096d622d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

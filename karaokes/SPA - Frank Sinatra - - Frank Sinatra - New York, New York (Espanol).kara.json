@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Frank Sinatra - - Frank Sinatra - New York, New York (Espanol).mp3",
+      "loudnorm": "-10.05,0.74,5.30,-20.21,-0.38",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Frank Sinatra - - Frank Sinatra - New York, New York (Espanol).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c6d3da4-78b2-4774-9c0c-3487cbb586b9",
+    "title": "Frank Sinatra - New York, New York (Español)",
+    "titles": {
+      "spa": "Frank Sinatra - New York, New York (Español)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e2c69552-50ef-4a23-bc44-deea6027eee3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:18:40.428Z",
+    "modified_at": "2022-11-03T22:18:40.811Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d2354ea62ded8c62eaf6a3ff1b6eb1f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4399723,
+      "gain": -8.39,
+      "duration": 219,
+      "loudnorm": "-10.05,0.74,5.30,-20.21,-0.38",
+      "filename": "processed_49a4dd7bf198c6bb7a1437ab657001e7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

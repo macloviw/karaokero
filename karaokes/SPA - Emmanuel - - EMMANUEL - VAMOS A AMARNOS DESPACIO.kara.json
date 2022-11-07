@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - EMMANUEL - VAMOS A AMARNOS DESPACIO.mp3",
+      "loudnorm": "-20.83,-1.49,2.20,-30.91,-0.05",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - EMMANUEL - VAMOS A AMARNOS DESPACIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "02430cb7-fb0b-4cd2-8a87-07a6eb274059",
+    "title": "EMMANUEL - VAMOS A AMARNOS DESPACIO",
+    "titles": {
+      "spa": "EMMANUEL - VAMOS A AMARNOS DESPACIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:46:01.172Z",
+    "modified_at": "2022-11-03T04:46:01.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca2be0fd594c66f07fbbd60710b89b6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3778865,
+      "gain": 4.32,
+      "duration": 236,
+      "loudnorm": "-20.83,-1.49,2.20,-30.91,-0.05",
+      "filename": "processed_cb039a6efb794c084bfb544ee541d6bf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - Union city blue.mp3",
+      "loudnorm": "-14.31,-1.11,3.40,-24.51,-0.58",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - Union city blue.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0b70e96-8f5a-48c1-8a7f-88ccbae94423",
+    "title": "Blondie - Union city blue",
+    "titles": {
+      "spa": "Blondie - Union city blue"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:13:43.098Z",
+    "modified_at": "2022-11-03T15:13:43.514Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_972e3d190a5844bec66c0c4c01a328dc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3485876,
+      "gain": -1.86,
+      "duration": 217,
+      "loudnorm": "-14.31,-1.11,3.40,-24.51,-0.58",
+      "filename": "processed_05541a7f42705c149f57e60f12de4aaf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

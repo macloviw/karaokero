@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - 02 Me Nace Del Corazon.mp3",
+      "loudnorm": "-11.00,0.43,3.60,-21.02,0.37",
+      "duration": 168,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - 02 Me Nace Del Corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca9f3892-d6f6-422a-96d9-80eae4c01ddd",
+    "title": "02 Me Nace Del Corazon",
+    "titles": {
+      "spa": "02 Me Nace Del Corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:38:42.256Z",
+    "modified_at": "2022-11-03T12:38:42.687Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_370a6a20a2fe79702d9ff6347e44e3d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4049215,
+      "gain": -7.09,
+      "duration": 168,
+      "loudnorm": "-11.00,0.43,3.60,-21.02,0.37",
+      "filename": "processed_9c37ba38b77817b7aea43fdf624d0c92.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

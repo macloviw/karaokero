@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Caifanes - - CAIFANES - LA NEGRA TOMASA.mp3",
+      "loudnorm": "-9.35,1.25,7.30,-19.40,-1.16",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Caifanes - - CAIFANES - LA NEGRA TOMASA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bb7bfe5-4ddd-4675-94e4-8aac49e4b126",
+    "title": "CAIFANES - LA NEGRA TOMASA",
+    "titles": {
+      "spa": "CAIFANES - LA NEGRA TOMASA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c5ff4653-bb08-4ef5-94f5-f45c587bfdf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:36:16.484Z",
+    "modified_at": "2022-11-03T02:36:16.931Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e2f24b25894ad87aac37370b7338c58d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4974436,
+      "gain": -9.22,
+      "duration": 207,
+      "loudnorm": "-9.35,1.25,7.30,-19.40,-1.16",
+      "filename": "processed_5ddfbb17d600517d08c15c3f0f4b067d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

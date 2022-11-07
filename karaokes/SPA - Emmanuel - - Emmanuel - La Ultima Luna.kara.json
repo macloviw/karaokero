@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - Emmanuel - La Ultima Luna.MP3",
+      "loudnorm": "-11.89,0.78,8.00,-22.12,-1.49",
+      "duration": 365,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - Emmanuel - La Ultima Luna.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "440a15d0-8961-40b2-ab17-0ef22fa19523",
+    "title": "Emmanuel - La Ultima Luna",
+    "titles": {
+      "spa": "Emmanuel - La Ultima Luna"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:43:01.327Z",
+    "modified_at": "2022-11-03T04:43:01.964Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7320737,
+      "gain": -6.33,
+      "duration": 365,
+      "loudnorm": "-11.89,0.78,8.00,-22.12,-1.49",
+      "filename": "processed_ea101440f69dacd393998216e3a6c457.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7320737,
+      "gain": -6.33,
+      "duration": 365,
+      "loudnorm": "-11.89,0.78,8.00,-22.12,-1.49",
+      "filename": "processed_a8d79ac92ab9b4d5efe219ad69af7862.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

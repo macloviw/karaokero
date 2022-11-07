@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - War.mp3",
+      "loudnorm": "-16.41,0.89,3.90,-26.47,-0.50",
+      "duration": 343,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - War.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99723ace-1a10-4b87-9561-859a70c131a7",
+    "title": "Bob Marley - War",
+    "titles": {
+      "spa": "Bob Marley - War"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:24:35.106Z",
+    "modified_at": "2022-11-03T02:24:35.546Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a5c9e240a0fa8544ec121cabb93ae2ba.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5491661,
+      "gain": -1.5,
+      "duration": 343,
+      "loudnorm": "-16.41,0.89,3.90,-26.47,-0.50",
+      "filename": "processed_acf4aa7a86414cef87d3347436d01064.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

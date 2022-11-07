@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - FRANCO DE VITA - COMO DECIR QUE NO.MP3",
+      "loudnorm": "-16.71,0.14,10.70,-27.07,-0.61",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - FRANCO DE VITA - COMO DECIR QUE NO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "49b9204c-8255-4aa6-b66e-c96432dbb4ef",
+    "title": "FRANCO DE VITA   -   COMO DECIR QUE NO",
+    "titles": {
+      "spa": "FRANCO DE VITA   -   COMO DECIR QUE NO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:26:21.064Z",
+    "modified_at": "2022-11-03T05:26:21.563Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3977267,
+      "gain": -3.43,
+      "duration": 248,
+      "loudnorm": "-16.71,0.14,10.70,-27.07,-0.61",
+      "filename": "processed_77534f8f149178ac3fd10a4facd2e2c8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3977267,
+      "gain": -3.43,
+      "duration": 248,
+      "loudnorm": "-16.71,0.14,10.70,-27.07,-0.61",
+      "filename": "processed_79c93c78fed89b0f47ce862fc1ef97b7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

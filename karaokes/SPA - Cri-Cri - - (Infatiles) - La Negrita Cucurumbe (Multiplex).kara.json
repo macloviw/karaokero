@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cri-Cri - - (Infatiles) - La Negrita Cucurumbe (Multiplex).mp3",
+      "loudnorm": "-12.71,0.62,4.80,-22.82,-0.14",
+      "duration": 156,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cri-Cri - - (Infatiles) - La Negrita Cucurumbe (Multiplex).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b84357c-f4d7-4b4d-a7b2-e28989087e24",
+    "title": "(Infatiles)  - La Negrita Cucurumbe (Multiplex)",
+    "titles": {
+      "spa": "(Infatiles)  - La Negrita Cucurumbe (Multiplex)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "65fe2370-92b8-4b26-a2c8-12b3fc7cac46"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:52:04.975Z",
+    "modified_at": "2022-11-04T02:52:05.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5ae1ca05c22fbbd3485591ab693f12a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3746980,
+      "gain": -4.57,
+      "duration": 156,
+      "loudnorm": "-12.71,0.62,4.80,-22.82,-0.14",
+      "filename": "processed_a7a9285372422445e348c27621c27102.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

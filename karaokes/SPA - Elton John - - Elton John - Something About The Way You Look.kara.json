@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Something About The Way You Look.mp3",
+      "loudnorm": "-15.20,0.93,3.70,-25.34,-0.69",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Something About The Way You Look.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7da0a08d-e0b2-4bd7-9d0e-d95e96d3ebec",
+    "title": "Elton John - Something About The Way You Look",
+    "titles": {
+      "spa": "Elton John - Something About The Way You Look"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:28:52.302Z",
+    "modified_at": "2022-11-04T00:28:52.680Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a8628193db231eb811e81ffd9f5a8be.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4084393,
+      "gain": -2.09,
+      "duration": 255,
+      "loudnorm": "-15.20,0.93,3.70,-25.34,-0.69",
+      "filename": "processed_5b096c06d002aa197386ebbc6a1b1697.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

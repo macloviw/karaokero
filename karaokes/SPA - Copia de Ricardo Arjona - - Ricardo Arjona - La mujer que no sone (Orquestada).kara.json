@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - La mujer que no sone (Orquestada).mp3",
+      "loudnorm": "-8.05,2.15,3.90,-18.29,-0.15",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - La mujer que no sone (Orquestada).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87bb8d96-2eea-4329-aeda-93cf30ad2e44",
+    "title": "Ricardo Arjona - La mujer que no soñe (Orquestada)",
+    "titles": {
+      "spa": "Ricardo Arjona - La mujer que no soñe (Orquestada)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:58:50.070Z",
+    "modified_at": "2022-11-03T11:58:50.490Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e9caf39e9cb769ca3078599f75ea2392.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2993938,
+      "gain": -9.29,
+      "duration": 186,
+      "loudnorm": "-8.05,2.15,3.90,-18.29,-0.15",
+      "filename": "processed_d412312fab819a86b95b72d3e0287c99.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

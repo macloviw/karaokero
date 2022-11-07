@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - El reloj- Jose Jose.mp3",
+      "loudnorm": "-15.24,-0.23,3.80,-25.41,-0.40",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - El reloj- Jose Jose.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "316d5845-2c2d-45e4-8b86-c1074cb0fe30",
+    "title": "El reloj- Jose Jose",
+    "titles": {
+      "spa": "El reloj- Jose Jose"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:50:35.649Z",
+    "modified_at": "2022-11-03T06:50:36.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_951e664610fc8cb8f6b1b85d44379e7b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5413920,
+      "gain": -1.33,
+      "duration": 225,
+      "loudnorm": "-15.24,-0.23,3.80,-25.41,-0.40",
+      "filename": "processed_5019591bec0960915460960137cc10de.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - No Artist - - Banda El Recodo - Yo Se Que Te Acordaras.mp3",
+      "loudnorm": "-16.23,-2.02,5.20,-26.83,0.04",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - No Artist - - Banda El Recodo - Yo Se Que Te Acordaras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fdedc157-abcb-42f0-bdba-e6c059e45646",
+    "title": "Banda El Recodo - Yo Se Que Te Acordaras",
+    "titles": {
+      "spa": "Banda El Recodo - Yo Se Que Te Acordaras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:30:02.012Z",
+    "modified_at": "2022-11-04T11:30:02.385Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6b7feda3e92f2938d352e54715194587.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3137168,
+      "gain": -2.37,
+      "duration": 195,
+      "loudnorm": "-16.23,-2.02,5.20,-26.83,0.04",
+      "filename": "processed_c1ee7b3a778c0dfb833afc70b0c0cf57.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

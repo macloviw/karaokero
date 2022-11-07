@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VALADES - - Fernando Valades - Por que no he de llorar.mp3",
+      "loudnorm": "-12.82,1.58,4.30,-23.19,-0.82",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VALADES - - Fernando Valades - Por que no he de llorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3864c0a-1507-4ea0-a162-a7d75c5db4f4",
+    "title": "Fernando Valades - Por que no he de llorar",
+    "titles": {
+      "spa": "Fernando Valades - Por que no he de llorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a413dd09-2313-420e-94f3-b8eeb5070bf6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:18:43.707Z",
+    "modified_at": "2022-11-03T05:18:44.109Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ac6e4e89e68be2778bff1f252f7b53a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4926789,
+      "gain": -4,
+      "duration": 205,
+      "loudnorm": "-12.82,1.58,4.30,-23.19,-0.82",
+      "filename": "processed_bd526298d7c2c1c1f0aeeea4617f8030.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - UNA AVENTURA.mp3",
+      "loudnorm": "-16.81,0.82,7.70,-26.84,-0.66",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - UNA AVENTURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6d067a5-1481-4840-b261-eed2fb000d14",
+    "title": "BANDA EL RECODO - UNA AVENTURA",
+    "titles": {
+      "spa": "BANDA EL RECODO - UNA AVENTURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "73a34916-c1bb-45bb-aa8a-c0d9520f308e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:06:22.158Z",
+    "modified_at": "2022-11-03T02:06:22.577Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7e950dbaaeacc9ed85a128ff6f91dd6c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5467970,
+      "gain": -1.96,
+      "duration": 227,
+      "loudnorm": "-16.81,0.82,7.70,-26.84,-0.66",
+      "filename": "processed_6ac9d4058ca60f2d739a5acdd1846958.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

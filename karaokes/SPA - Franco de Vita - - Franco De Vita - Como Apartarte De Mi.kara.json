@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Franco de Vita - - Franco De Vita - Como Apartarte De Mi.mp3",
+      "loudnorm": "-13.62,-2.67,4.30,-23.74,-0.25",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Franco de Vita - - Franco De Vita - Como Apartarte De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30b0696f-44c7-4d0d-8111-8db9f30cb3e9",
+    "title": "Franco De Vita - Como Apartarte De Mì",
+    "titles": {
+      "spa": "Franco De Vita - Como Apartarte De Mì"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "81c29191-0d80-40f9-bdd7-b5bfbae9015c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:27:53.536Z",
+    "modified_at": "2022-11-03T05:27:54.109Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f667033e908fddb5ae5b324c398c9ddc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5440253,
+      "gain": -3.66,
+      "duration": 226,
+      "loudnorm": "-13.62,-2.67,4.30,-23.74,-0.25",
+      "filename": "processed_903618cd86e4a3d8e7beb96021ff9509.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

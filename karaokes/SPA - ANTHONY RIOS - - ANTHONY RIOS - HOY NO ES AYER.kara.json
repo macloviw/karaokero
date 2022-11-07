@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - HOY NO ES AYER.mp3",
+      "loudnorm": "-17.72,-3.20,4.30,-27.90,-0.51",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - HOY NO ES AYER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15335a5e-618d-4e06-a52b-d070c7097834",
+    "title": "ANTHONY RIOS - HOY NO ES AYER",
+    "titles": {
+      "spa": "ANTHONY RIOS - HOY NO ES AYER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:52:42.368Z",
+    "modified_at": "2022-11-03T01:52:42.783Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0508e6027a916c8e0bec8084aa3a48db.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7982574,
+      "gain": -1.32,
+      "duration": 285,
+      "loudnorm": "-17.72,-3.20,4.30,-27.90,-0.51",
+      "filename": "processed_0f2a69679f3f931f4811b26842d8128a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

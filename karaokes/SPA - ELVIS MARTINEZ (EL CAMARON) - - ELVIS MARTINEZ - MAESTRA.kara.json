@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELVIS MARTINEZ (EL CAMARON) - - ELVIS MARTINEZ - MAESTRA.mp3",
+      "loudnorm": "-14.08,-1.33,2.30,-24.16,-0.42",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELVIS MARTINEZ (EL CAMARON) - - ELVIS MARTINEZ - MAESTRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30533070-0ff2-4ca2-a699-a0ae04232d27",
+    "title": "ELVIS MARTINEZ - MAESTRA",
+    "titles": {
+      "spa": "ELVIS MARTINEZ - MAESTRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f5d32e50-be37-4c77-8fbd-f7b35980b1dc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:13:52.742Z",
+    "modified_at": "2022-11-04T03:13:53.124Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42c31eb00a55f600950936436b157632.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3964310,
+      "gain": -5.28,
+      "duration": 247,
+      "loudnorm": "-14.08,-1.33,2.30,-24.16,-0.42",
+      "filename": "processed_94c7acbcd516ab5e46b3d5c95db4737f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

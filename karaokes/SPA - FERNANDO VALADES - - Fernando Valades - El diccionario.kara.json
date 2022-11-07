@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FERNANDO VALADES - - Fernando Valades - El diccionario.mp3",
+      "loudnorm": "-12.39,0.67,2.70,-22.62,-1.10",
+      "duration": 117,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FERNANDO VALADES - - Fernando Valades - El diccionario.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b07d27ab-94a2-4a99-aa75-50c645e46e5e",
+    "title": "Fernando Valades - El diccionario",
+    "titles": {
+      "spa": "Fernando Valades - El diccionario"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a413dd09-2313-420e-94f3-b8eeb5070bf6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:18:34.558Z",
+    "modified_at": "2022-11-03T05:18:34.997Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b6be35b0abae4e1484c3ab9570ad336.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2819021,
+      "gain": -3.52,
+      "duration": 117,
+      "loudnorm": "-12.39,0.67,2.70,-22.62,-1.10",
+      "filename": "processed_021dc5ce43b69f45387ad57b0b3fd619.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

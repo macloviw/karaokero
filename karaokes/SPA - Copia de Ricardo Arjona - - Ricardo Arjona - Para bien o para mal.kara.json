@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Para bien o para mal.mp3",
+      "loudnorm": "-11.44,2.43,7.40,-21.67,-0.97",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - Para bien o para mal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60e71148-33b1-4ba4-8081-d46fc4c8e8df",
+    "title": "Ricardo Arjona - Para bien o para mal",
+    "titles": {
+      "spa": "Ricardo Arjona - Para bien o para mal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:00:57.586Z",
+    "modified_at": "2022-11-03T12:00:58.025Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8c8f240a4e84d10154eeceb3bdc7f6bc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5833342,
+      "gain": -6.13,
+      "duration": 242,
+      "loudnorm": "-11.44,2.43,7.40,-21.67,-0.97",
+      "filename": "processed_e449dfb297cf1aab75d16236305e1f60.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

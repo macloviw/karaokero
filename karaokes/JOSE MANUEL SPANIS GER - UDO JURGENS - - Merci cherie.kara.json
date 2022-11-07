@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - UDO JURGENS - - Merci cherie.mp3",
+      "loudnorm": "-20.29,-5.93,4.00,-30.42,-0.53",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - UDO JURGENS - - Merci cherie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "217b9789-4389-4845-9ff8-492e6d8e8e61",
+    "title": "Merci chérie",
+    "titles": {
+      "spa": "Merci chérie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "c6e8b397-1a6f-4190-9d4c-33ce3b0e292b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:23:39.192Z",
+    "modified_at": "2022-11-04T11:23:39.565Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fc52dbfc5d9f98939da57d5daab219c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3977216,
+      "gain": 1.92,
+      "duration": 165,
+      "loudnorm": "-20.29,-5.93,4.00,-30.42,-0.53",
+      "filename": "processed_1f8ca0ab675b4a1dd160df6e6740fd4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

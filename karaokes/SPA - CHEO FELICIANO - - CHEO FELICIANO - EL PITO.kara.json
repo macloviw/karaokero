@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - EL PITO.MP3",
+      "loudnorm": "-8.34,2.60,4.50,-18.50,-1.02",
+      "duration": 303,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - EL PITO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17dd78e6-d800-4930-ac3d-60cccc7d5677",
+    "title": "CHEO FELICIANO   -   EL PITO",
+    "titles": {
+      "spa": "CHEO FELICIANO   -   EL PITO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d01c2c87-0edc-4494-b664-c796d8d06e3d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:25:00.074Z",
+    "modified_at": "2022-11-03T03:25:00.720Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4865847,
+      "gain": -11.34,
+      "duration": 303,
+      "loudnorm": "-8.34,2.60,4.50,-18.50,-1.02",
+      "filename": "processed_3a4a06728e066ce1af57d0d7338f9792.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4865847,
+      "gain": -11.34,
+      "duration": 303,
+      "loudnorm": "-8.34,2.60,4.50,-18.50,-1.02",
+      "filename": "processed_a3cda491ac0b4f161b42e2f62b0501ea.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

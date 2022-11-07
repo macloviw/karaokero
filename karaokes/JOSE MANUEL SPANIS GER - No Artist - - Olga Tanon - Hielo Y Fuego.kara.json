@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - No Artist - - Olga Tanon - Hielo Y Fuego.mp3",
+      "loudnorm": "-15.76,-1.05,4.80,-25.83,-0.56",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - No Artist - - Olga Tanon - Hielo Y Fuego.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4370df24-50cb-4e9d-9393-72df29ef59b4",
+    "title": "Olga Tañon - Hielo Y Fuego",
+    "titles": {
+      "spa": "Olga Tañon - Hielo Y Fuego"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:45:30.100Z",
+    "modified_at": "2022-11-04T07:45:30.490Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a14c8492f777c2ef6c3bb92b36768f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3201534,
+      "gain": -2.62,
+      "duration": 199,
+      "loudnorm": "-15.76,-1.05,4.80,-25.83,-0.56",
+      "filename": "processed_b217352899ab5ca37d3a741989f76801.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

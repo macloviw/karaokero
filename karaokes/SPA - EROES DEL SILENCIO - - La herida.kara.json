@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROES DEL SILENCIO - - La herida.mp3",
+      "loudnorm": "-11.32,2.10,7.00,-21.55,-1.02",
+      "duration": 443,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROES DEL SILENCIO - - La herida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b9af4b60-128a-4b1c-a9f1-29148ef2f4c7",
+    "title": "La herida",
+    "titles": {
+      "spa": "La herida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d5ee7ba4-687b-4267-ad47-8286e9db03a7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:07:33.958Z",
+    "modified_at": "2022-11-03T05:07:34.384Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33612ac82309876fd5f10bd81b186b0b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7099549,
+      "gain": -5.31,
+      "duration": 443,
+      "loudnorm": "-11.32,2.10,7.00,-21.55,-1.02",
+      "filename": "processed_33d31e7463d6323dd04e614ad4a39b9b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

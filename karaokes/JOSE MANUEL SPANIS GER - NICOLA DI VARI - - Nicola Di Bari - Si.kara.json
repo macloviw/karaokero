@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - Nicola Di Bari - Si.mp3",
+      "loudnorm": "-12.94,-2.70,8.30,-23.08,-0.52",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NICOLA DI VARI - - Nicola Di Bari - Si.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2572ab25-35b2-4e47-9a48-ec82aeadbde8",
+    "title": "Nicola Di Bari - Si",
+    "titles": {
+      "spa": "Nicola Di Bari - Si"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:41:47.977Z",
+    "modified_at": "2022-11-04T07:41:48.350Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b1b8f412d851c11f434b3d2d9b3da725.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10541212,
+      "gain": -5.54,
+      "duration": 263,
+      "loudnorm": "-12.94,-2.70,8.30,-23.08,-0.52",
+      "filename": "processed_a186cdfa1504c30145fe5fcdfe610b99.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

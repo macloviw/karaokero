@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL SANTOS - - OBSECION DANIEL SANTOS.mp3",
+      "loudnorm": "-14.32,0.50,5.00,-24.61,1.05",
+      "duration": 155,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL SANTOS - - OBSECION DANIEL SANTOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "73ea9ceb-36dc-4c1b-b495-d47273da377c",
+    "title": "OBSECION DANIEL SANTOS",
+    "titles": {
+      "spa": "OBSECION DANIEL SANTOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a7f5db32-849e-4766-b5f8-6e3b888a5952"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:52:36.418Z",
+    "modified_at": "2022-11-03T03:52:36.849Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_29a943e6fbca05eeaa9bcb70180bb3e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2483108,
+      "gain": -2.56,
+      "duration": 155,
+      "loudnorm": "-14.32,0.50,5.00,-24.61,1.05",
+      "filename": "processed_f496aee70e6651a5c65fa6a09501b6bf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

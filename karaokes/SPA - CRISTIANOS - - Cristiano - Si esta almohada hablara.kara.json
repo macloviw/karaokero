@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - Cristiano - Si esta almohada hablara.MP3",
+      "loudnorm": "-20.76,-1.87,8.40,-30.91,-0.59",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - Cristiano - Si esta almohada hablara.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec48fb35-ddc8-4a58-bcf0-396c092655f7",
+    "title": "Cristiano - Si esta almohada hablara",
+    "titles": {
+      "spa": "Cristiano - Si esta almohada hablara"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:01:09.422Z",
+    "modified_at": "2022-11-03T14:01:10.173Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.27,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.40,-30.91,-0.59",
+      "filename": "processed_88b0e9a76427eb7c94d0b8088eeb2efe.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.27,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.40,-30.91,-0.59",
+      "filename": "processed_033269587fd4a37d74a80be64daa89d8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

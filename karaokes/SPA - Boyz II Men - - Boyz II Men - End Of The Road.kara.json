@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Boyz II Men - - Boyz II Men - End Of The Road.mp3",
+      "loudnorm": "-7.88,4.81,4.80,-17.97,-1.19",
+      "duration": 345,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Boyz II Men - - Boyz II Men - End Of The Road.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fd5d67a-4b05-4864-a043-aadc1c20b4ea",
+    "title": "Boyz II Men - End Of The Road",
+    "titles": {
+      "spa": "Boyz II Men - End Of The Road"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e7b4407e-8c5c-4c16-b47c-5a38036c2326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:08:36.988Z",
+    "modified_at": "2022-11-04T00:08:37.371Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c61e9f9908d8e24f8b71643bd23fec42.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5527812,
+      "gain": -9.63,
+      "duration": 345,
+      "loudnorm": "-7.88,4.81,4.80,-17.97,-1.19",
+      "filename": "processed_5bb704e41815e1ec6b7464108020af04.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

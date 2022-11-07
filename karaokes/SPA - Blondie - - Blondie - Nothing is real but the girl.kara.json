@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blondie - - Blondie - Nothing is real but the girl.MP3",
+      "loudnorm": "-14.54,-3.90,1.90,-24.70,-0.71",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blondie - - Blondie - Nothing is real but the girl.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ea33e5bb-6422-4f74-ba2d-d51e01f1ca40",
+    "title": "Blondie - Nothing is real but the girl",
+    "titles": {
+      "spa": "Blondie - Nothing is real but the girl"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "1f425fed-e5ec-4e7a-8ae8-bb8ac2df6190"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:12:37.762Z",
+    "modified_at": "2022-11-03T15:12:38.218Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3235100,
+      "gain": -2.15,
+      "duration": 202,
+      "loudnorm": "-14.54,-3.90,1.90,-24.70,-0.71",
+      "filename": "processed_5cef618b6e68279763c4533816b9e99e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3235100,
+      "gain": -2.15,
+      "duration": 202,
+      "loudnorm": "-14.54,-3.90,1.90,-24.70,-0.71",
+      "filename": "processed_5f13013e1d432c514682ff5f9efa12b2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

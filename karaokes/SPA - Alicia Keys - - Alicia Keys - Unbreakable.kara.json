@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alicia Keys - - Alicia Keys - Unbreakable.mp3",
+      "loudnorm": "-14.69,1.23,3.40,-24.76,-0.73",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alicia Keys - - Alicia Keys - Unbreakable.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ce0f40c-2d86-4d72-bccf-807c4a108b54",
+    "title": "Alicia Keys - Unbreakable",
+    "titles": {
+      "spa": "Alicia Keys - Unbreakable"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c0c516c3-1e30-4f8b-a088-517607342f9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:43:20.620Z",
+    "modified_at": "2022-11-03T14:43:21.043Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93c1572ffad3fffb35f6f489e58cf869.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4161298,
+      "gain": -2.04,
+      "duration": 259,
+      "loudnorm": "-14.69,1.23,3.40,-24.76,-0.73",
+      "filename": "processed_ec8ecb5b2d6cbe44dfcde7344e64f3f6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

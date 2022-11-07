@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - La Ventanita.MP3",
+      "loudnorm": "-9.65,3.43,3.40,-19.74,0.32",
+      "duration": 659,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SERGIO VARGAS - - Sergio Vargas - La Ventanita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6288532b-626c-463b-8ea0-7caa49200d4b",
+    "title": "Sergio Vargas - La Ventanita",
+    "titles": {
+      "spa": "Sergio Vargas - La Ventanita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "073b4cf7-9ec2-4fea-ab61-59e4d53bb98a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:02:48.535Z",
+    "modified_at": "2022-11-04T11:02:49.941Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 15829326,
+      "gain": -9.15,
+      "duration": 659,
+      "loudnorm": "-9.65,3.43,3.40,-19.74,0.32",
+      "filename": "processed_4c365a8a5800ecd31bb55a4b6d22cc70.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 15829326,
+      "gain": -9.15,
+      "duration": 659,
+      "loudnorm": "-9.65,3.43,3.40,-19.74,0.32",
+      "filename": "processed_75ec300672beda2139d245fcd4191e88.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

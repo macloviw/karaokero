@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Inside out.MP3",
+      "loudnorm": "-16.73,-2.56,3.40,-26.85,-1.02",
+      "duration": 298,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Inside out.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9b4591a0-9828-430e-99f4-0e3de2aafd4c",
+    "title": "Bryan Adams - Inside out",
+    "titles": {
+      "spa": "Bryan Adams - Inside out"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:34:26.858Z",
+    "modified_at": "2022-11-03T15:34:27.400Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2388733,
+      "gain": -0.44,
+      "duration": 298,
+      "loudnorm": "-16.73,-2.56,3.40,-26.85,-1.02",
+      "filename": "processed_7aeae49fbc4976ff05dc9dfcf4a57015.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2388733,
+      "gain": -0.44,
+      "duration": 298,
+      "loudnorm": "-16.73,-2.56,3.40,-26.85,-1.02",
+      "filename": "processed_33b4598adf6302bf466686845ebc7db4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

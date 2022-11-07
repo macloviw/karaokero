@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ TU BESOS.mp3",
+      "loudnorm": "-15.63,0.08,3.10,-26.10,-0.31",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ TU BESOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b61a3a10-5390-4c0a-b32a-a039c96f08f0",
+    "title": "RUBY PEREZ TU BESOS",
+    "titles": {
+      "spa": "RUBY PEREZ TU BESOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8d79ccf7-4508-4538-b5c8-4be333150e5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:00:57.836Z",
+    "modified_at": "2022-11-04T11:00:58.213Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e147ddad81a2c8587dec49a1b3b2998.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5767824,
+      "gain": -2.3,
+      "duration": 240,
+      "loudnorm": "-15.63,0.08,3.10,-26.10,-0.31",
+      "filename": "processed_49a4a11eff5a3cb94a0472fdb5559ba4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Summer Of ´69.MP3",
+      "loudnorm": "-9.93,1.72,2.40,-19.96,-0.36",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Summer Of ´69.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb9cb634-f27a-4987-a646-fe25730cf63c",
+    "title": "Bryan Adams - Summer Of ´69",
+    "titles": {
+      "spa": "Bryan Adams - Summer Of ´69"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:35:00.359Z",
+    "modified_at": "2022-11-03T15:35:00.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3125594,
+      "gain": -7.63,
+      "duration": 195,
+      "loudnorm": "-9.93,1.72,2.40,-19.96,-0.36",
+      "filename": "processed_9f6ffbc1352d189679a04eb29af54bd1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3125594,
+      "gain": -7.63,
+      "duration": 195,
+      "loudnorm": "-9.93,1.72,2.40,-19.96,-0.36",
+      "filename": "processed_5c136385dc7fe7dc255636d32ec0e714.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

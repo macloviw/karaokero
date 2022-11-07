@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aliyah - - Aliyah - More than a woman.mp3",
+      "loudnorm": "-14.72,0.71,3.70,-24.73,-0.30",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aliyah - - Aliyah - More than a woman.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7498bd3e-cdff-4d8c-a10b-1517a6703882",
+    "title": "Aliyah - More than a woman",
+    "titles": {
+      "spa": "Aliyah - More than a woman"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4141c285-8465-4942-ae49-2424f64df295"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:52:31.830Z",
+    "modified_at": "2022-11-03T23:52:32.214Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_50a926c0f8718d48f698e29dc438526e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3885027,
+      "gain": -2.56,
+      "duration": 242,
+      "loudnorm": "-14.72,0.71,3.70,-24.73,-0.30",
+      "filename": "processed_a6bceec0a617a47cefb3c0f675b4f885.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

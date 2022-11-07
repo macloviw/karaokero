@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - OTRA NOCHE.MP3",
+      "loudnorm": "-12.75,1.91,2.90,-23.00,-0.61",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - OTRA NOCHE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c9013999-f1b8-4799-ba69-c50257d630bd",
+    "title": "JUANES   -   OTRA NOCHE",
+    "titles": {
+      "spa": "JUANES   -   OTRA NOCHE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:54:43.478Z",
+    "modified_at": "2022-11-03T07:54:43.931Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2947416,
+      "gain": -4.31,
+      "duration": 184,
+      "loudnorm": "-12.75,1.91,2.90,-23.00,-0.61",
+      "filename": "processed_02924603599bb4da3f991faacb754e81.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2947416,
+      "gain": -4.31,
+      "duration": 184,
+      "loudnorm": "-12.75,1.91,2.90,-23.00,-0.61",
+      "filename": "processed_d5f0a2a209055bb0c953e489ebaac21e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Sarah.mp3",
+      "loudnorm": "-16.31,-3.26,6.30,-26.43,-1.02",
+      "duration": 366,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fleetwood Mac - - Fleetwood Mac - Sarah.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d8f8e714-b2b4-4689-aefc-1a1aad265d4c",
+    "title": "Fleetwood Mac - Sarah",
+    "titles": {
+      "spa": "Fleetwood Mac - Sarah"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7269b91c-1e09-4b6e-a857-8facb8dbbec2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:42:41.254Z",
+    "modified_at": "2022-11-04T00:42:41.642Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d44c253c26e6acb5174ae864bf3ac079.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5858630,
+      "gain": 0.38,
+      "duration": 366,
+      "loudnorm": "-16.31,-3.26,6.30,-26.43,-1.02",
+      "filename": "processed_ec43d66d1c05df322cee447edb9b7a83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

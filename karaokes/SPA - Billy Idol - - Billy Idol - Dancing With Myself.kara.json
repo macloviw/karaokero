@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Idol - - Billy Idol - Dancing With Myself.mp3",
+      "loudnorm": "-15.77,-0.28,1.80,-25.89,-0.49",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Idol - - Billy Idol - Dancing With Myself.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bac6a236-2aec-4075-baef-95cd6f8865f9",
+    "title": "Billy Idol - Dancing With Myself",
+    "titles": {
+      "spa": "Billy Idol - Dancing With Myself"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "a2791f85-ed86-44b8-aea4-82f4126c988f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:02:27.192Z",
+    "modified_at": "2022-11-04T00:02:27.572Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d82d358fc29adc3c400858e7c0d8d5ef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3074603,
+      "gain": -0.84,
+      "duration": 192,
+      "loudnorm": "-15.77,-0.28,1.80,-25.89,-0.49",
+      "filename": "processed_5b5da259d8adb6aea007a2ba38bc22d0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

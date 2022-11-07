@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - HE PEPO - - HE PEPO - RECONCILIACION.MP3",
+      "loudnorm": "-19.56,0.20,1.80,-29.62,0.03",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - HE PEPO - - HE PEPO - RECONCILIACION.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1e9b4201-18c6-4000-80c7-e7353114f66f",
+    "title": "HE PEPO   -   RECONCILIACION",
+    "titles": {
+      "spa": "HE PEPO   -   RECONCILIACION"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "6ac33fea-adb1-4bf3-b651-9fcbc33556c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:47:07.017Z",
+    "modified_at": "2022-11-02T23:47:07.528Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3281365,
+      "gain": 0.82,
+      "duration": 204,
+      "loudnorm": "-19.56,0.20,1.80,-29.62,0.03",
+      "filename": "processed_4e23359e68014ba9ad30fd5adffc3819.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3281365,
+      "gain": 0.82,
+      "duration": 204,
+      "loudnorm": "-19.56,0.20,1.80,-29.62,0.03",
+      "filename": "processed_86b0373fd609c2a37deaa5c758a51d9f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

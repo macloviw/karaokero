@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACILOS - - MUJER INGRATA TU TRAICION.mp3",
+      "loudnorm": "-10.75,2.38,9.40,-20.97,-1.97",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACILOS - - MUJER INGRATA TU TRAICION.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "520bf70a-9c6c-4640-9eaf-ddf783ab0f06",
+    "title": "MUJER INGRATA TU TRAICION",
+    "titles": {
+      "spa": "MUJER INGRATA TU TRAICION"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:04:15.048Z",
+    "modified_at": "2022-11-03T02:04:15.474Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a7100142aed87e71cc8f97eb4d75620b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7191449,
+      "gain": -8.36,
+      "duration": 299,
+      "loudnorm": "-10.75,2.38,9.40,-20.97,-1.97",
+      "filename": "processed_ece9e3f98346aeb8c87c2c5a9b25d3be.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

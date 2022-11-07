@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - LA Z.mp3",
+      "loudnorm": "-14.08,0.29,8.40,-24.44,-0.55",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTHONY RIOS - - ANTHONY RIOS - LA Z.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b1b2f273-17ed-4073-9ec5-b799fb3cbb06",
+    "title": "ANTHONY RIOS   -   LA Z",
+    "titles": {
+      "spa": "ANTHONY RIOS   -   LA Z"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:48:24.686Z",
+    "modified_at": "2022-11-03T01:48:25.096Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17f63dce4b384fe0fa25ad2d221e93fe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4925934,
+      "gain": -3.52,
+      "duration": 175,
+      "loudnorm": "-14.08,0.29,8.40,-24.44,-0.55",
+      "filename": "processed_936d5cb727bd394f2cb56605340faa9c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

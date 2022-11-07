@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX MATOS - - ALEX MATOS - QUE PENA ME DAS.mp3",
+      "loudnorm": "-8.78,2.84,3.00,-18.86,-0.33",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX MATOS - - ALEX MATOS - QUE PENA ME DAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "995ac0af-0a8f-4dd5-8123-c75ebe140df9",
+    "title": "ALEX MATOS   -   QUE PENA ME DAS",
+    "titles": {
+      "spa": "ALEX MATOS   -   QUE PENA ME DAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "5caf80fc-8c72-470b-af5a-70c274ca7c42"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:09:02.946Z",
+    "modified_at": "2022-11-04T02:09:03.320Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c480beb2582549ea760df82a5f46dc0c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4155923,
+      "gain": -8.77,
+      "duration": 259,
+      "loudnorm": "-8.78,2.84,3.00,-18.86,-0.33",
+      "filename": "processed_5062490cd0ff73d7d949a65b34bb426a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

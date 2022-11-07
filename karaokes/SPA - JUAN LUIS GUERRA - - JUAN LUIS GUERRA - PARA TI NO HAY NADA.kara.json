@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUAN LUIS GUERRA - - JUAN LUIS GUERRA - PARA TI NO HAY NADA.mp3",
+      "loudnorm": "-13.93,0.26,2.20,-23.96,-0.47",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUAN LUIS GUERRA - - JUAN LUIS GUERRA - PARA TI NO HAY NADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7dc06099-d5dc-4095-860f-e9dfabf9ace5",
+    "title": "JUAN LUIS GUERRA - PARA TI NO HAY NADA",
+    "titles": {
+      "spa": "JUAN LUIS GUERRA - PARA TI NO HAY NADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "5db5000d-2e54-44de-bb78-8ca46eeb3044"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:38:26.736Z",
+    "modified_at": "2022-11-03T23:38:27.125Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca56c867bd329c92260d6fcd5510eebe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3226508,
+      "gain": -5.09,
+      "duration": 230,
+      "loudnorm": "-13.93,0.26,2.20,-23.96,-0.47",
+      "filename": "processed_ddd87256d7de2a0a4168b91f2762de25.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

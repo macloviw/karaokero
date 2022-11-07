@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - FRANK REYES - PRINCESA.mp3",
+      "loudnorm": "-15.36,1.55,2.00,-25.39,-0.38",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - FRANK REYES - PRINCESA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd1c82d0-8c58-4418-95ac-1418710ed34f",
+    "title": "FRANK REYES - PRINCESA",
+    "titles": {
+      "spa": "FRANK REYES - PRINCESA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:44:24.713Z",
+    "modified_at": "2022-11-02T23:44:25.151Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6589e3f14821ded2f4e9730ff026b026.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5407651,
+      "gain": -1.66,
+      "duration": 225,
+      "loudnorm": "-15.36,1.55,2.00,-25.39,-0.38",
+      "filename": "processed_00b3b574e95580bdb85cc5bde6551600.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

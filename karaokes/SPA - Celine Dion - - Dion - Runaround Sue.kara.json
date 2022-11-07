@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Celine Dion - - Dion - Runaround Sue.MP3",
+      "loudnorm": "-10.79,1.81,5.00,-20.98,-0.60",
+      "duration": 163,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Celine Dion - - Dion - Runaround Sue.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06641fbf-aca8-4b71-885f-2e15afc05713",
+    "title": "Dion - Runaround Sue",
+    "titles": {
+      "spa": "Dion - Runaround Sue"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5fc6426c-7261-4250-a283-a8645c8b1afb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:04:28.305Z",
+    "modified_at": "2022-11-03T16:04:28.793Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2625297,
+      "gain": -8.25,
+      "duration": 163,
+      "loudnorm": "-10.79,1.81,5.00,-20.98,-0.60",
+      "filename": "processed_d71ebfc324974ad184ab001281aaa291.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2625297,
+      "gain": -8.25,
+      "duration": 163,
+      "loudnorm": "-10.79,1.81,5.00,-20.98,-0.60",
+      "filename": "processed_d41972e046d17a5a9355a81d71ead5e2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

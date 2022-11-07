@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bee Gees - - Bee Gees - How can you mend a broken he.mp3",
+      "loudnorm": "-27.21,-12.43,8.70,-37.32,-0.86",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bee Gees - - Bee Gees - How can you mend a broken he.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4afaf7c9-fef0-489c-9427-c4a2389362a3",
+    "title": "Bee Gees - How can you mend a broken he",
+    "titles": {
+      "spa": "Bee Gees - How can you mend a broken he"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ccbe9d4d-5ef0-424a-9b4d-5398f995d8c7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:56:32.307Z",
+    "modified_at": "2022-11-03T14:56:32.719Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e6378548dcd230f6cbeee732732f15de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5931772,
+      "gain": 8.71,
+      "duration": 247,
+      "loudnorm": "-27.21,-12.43,8.70,-37.32,-0.86",
+      "filename": "processed_70876b8e04399a4c7c818c58d8a4a4f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

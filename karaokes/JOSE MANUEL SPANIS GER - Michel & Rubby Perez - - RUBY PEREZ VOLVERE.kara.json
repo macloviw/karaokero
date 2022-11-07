@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ VOLVERE.mp3",
+      "loudnorm": "-6.69,1.17,3.00,-16.78,-0.55",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ VOLVERE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3284f466-edd2-4da5-9de4-4dbc115d0e3c",
+    "title": "RUBY PEREZ VOLVERE",
+    "titles": {
+      "spa": "RUBY PEREZ VOLVERE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8d79ccf7-4508-4538-b5c8-4be333150e5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:01:07.964Z",
+    "modified_at": "2022-11-04T11:01:08.360Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fb1ff1e4288a461d615a5c6de7ad3e96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5318921,
+      "gain": -12.24,
+      "duration": 221,
+      "loudnorm": "-6.69,1.17,3.00,-16.78,-0.55",
+      "filename": "processed_6e8d5811eab7b089f76abdf4e492cbbe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

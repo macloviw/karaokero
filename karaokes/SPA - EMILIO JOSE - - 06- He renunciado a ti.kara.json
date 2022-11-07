@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 06- He renunciado a ti.mp3",
+      "loudnorm": "-18.38,-0.51,9.20,-28.59,-0.72",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 06- He renunciado a ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0283caf4-df93-4566-883e-901502cf6f8a",
+    "title": "06- He renunciado a ti",
+    "titles": {
+      "spa": "06- He renunciado a ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:41:42.754Z",
+    "modified_at": "2022-11-03T06:41:43.279Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c9ed5e6cb9fb1f19051284198cf3af3d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6309973,
+      "gain": -0.12,
+      "duration": 262,
+      "loudnorm": "-18.38,-0.51,9.20,-28.59,-0.72",
+      "filename": "processed_87499860443d4d31bd4782ecfc8fa3ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

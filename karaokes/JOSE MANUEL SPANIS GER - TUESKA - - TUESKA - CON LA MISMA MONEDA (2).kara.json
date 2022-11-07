@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - TUESKA - - TUESKA - CON LA MISMA MONEDA (2).mp3",
+      "loudnorm": "-11.60,1.87,6.50,-21.69,-1.32",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - TUESKA - - TUESKA - CON LA MISMA MONEDA (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a39962b9-3bb1-4177-85cc-98239d7a2d16",
+    "title": "TUESKA                                    -    CON LA MISMA MONEDA (2)",
+    "titles": {
+      "spa": "TUESKA                                    -    CON LA MISMA MONEDA (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "7725dc01-604b-47f0-af74-0750c59681aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:19:56.920Z",
+    "modified_at": "2022-11-04T11:19:57.302Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_618655eca35b5c356ac2fe2ed175191b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3679808,
+      "gain": -7.46,
+      "duration": 229,
+      "loudnorm": "-11.60,1.87,6.50,-21.69,-1.32",
+      "filename": "processed_7b392bfaf20870bcb3e6c7796e83458d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

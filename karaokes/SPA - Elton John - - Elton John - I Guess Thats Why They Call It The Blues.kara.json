@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - I Guess Thats Why They Call It The Blues.mp3",
+      "loudnorm": "-14.22,-0.37,3.00,-24.27,-0.38",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - I Guess Thats Why They Call It The Blues.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c07af9fd-353e-41ab-b3e8-0f88f819479e",
+    "title": "Elton John - I Guess Thats Why They Call It The Blues",
+    "titles": {
+      "spa": "Elton John - I Guess Thats Why They Call It The Blues"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:26:20.604Z",
+    "modified_at": "2022-11-04T00:26:20.988Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8af14284abd2e3d016536f06f1bb2423.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5776378,
+      "gain": -3.27,
+      "duration": 288,
+      "loudnorm": "-14.22,-0.37,3.00,-24.27,-0.38",
+      "filename": "processed_dfe55d70d3a604caedc92d7ac622b6ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

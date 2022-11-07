@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CON BANDAS - - LA CHONA.mp3",
+      "loudnorm": "-13.48,0.69,2.70,-23.55,-0.02",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CON BANDAS - - LA CHONA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85dab5fd-4b53-4f36-b750-7fb79301730e",
+    "title": "LA CHONA",
+    "titles": {
+      "spa": "LA CHONA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "490bb69f-313d-4caa-8418-61ccbb610d05"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:36:09.965Z",
+    "modified_at": "2022-11-03T03:36:10.374Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c0e0f05bc1a91ae662af9f87310819ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4971928,
+      "gain": -3.94,
+      "duration": 207,
+      "loudnorm": "-13.48,0.69,2.70,-23.55,-0.02",
+      "filename": "processed_19dd2f7fd7a66a9cbb1c28427513e060.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

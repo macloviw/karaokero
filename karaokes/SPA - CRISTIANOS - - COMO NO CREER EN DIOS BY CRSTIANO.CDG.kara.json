@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - COMO NO CREER EN DIOS BY CRSTIANO.CDG.MP3",
+      "loudnorm": "-18.51,-0.48,14.50,-29.37,-1.45",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - COMO NO CREER EN DIOS BY CRSTIANO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97152344-18ac-4eef-a36f-4073f7da2ce2",
+    "title": "COMO NO CREER EN DIOS BY CRSTIANO.CDG",
+    "titles": {
+      "spa": "COMO NO CREER EN DIOS BY CRSTIANO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:02:55.974Z",
+    "modified_at": "2022-11-03T14:02:56.481Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4004853,
+      "gain": 0.74,
+      "duration": 250,
+      "loudnorm": "-18.51,-0.48,14.50,-29.37,-1.45",
+      "filename": "processed_a038705049f336892c39fae2397ab829.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4004853,
+      "gain": 0.74,
+      "duration": 250,
+      "loudnorm": "-18.51,-0.48,14.50,-29.37,-1.45",
+      "filename": "processed_7b4b86e541b44d7f4fce34ec613335a3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

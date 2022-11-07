@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - El Ultimo Beso.mp3",
+      "loudnorm": "-15.56,-0.10,5.20,-25.90,-0.34",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - El Ultimo Beso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c18cb459-609a-4660-a19d-ad8245c8832b",
+    "title": "Gloria Trevi - El Ultimo Beso",
+    "titles": {
+      "spa": "Gloria Trevi - El Ultimo Beso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:41:15.641Z",
+    "modified_at": "2022-11-03T05:41:16.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c2bd3301d90ad8335fbeb45f5274e326.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9421940,
+      "gain": -2.25,
+      "duration": 235,
+      "loudnorm": "-15.56,-0.10,5.20,-25.90,-0.34",
+      "filename": "processed_ca42afbf4ccded437935b82181570767.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

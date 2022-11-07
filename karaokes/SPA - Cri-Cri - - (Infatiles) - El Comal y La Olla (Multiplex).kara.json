@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Cri-Cri - - (Infatiles) - El Comal y La Olla (Multiplex).mp3",
+      "loudnorm": "-13.08,0.09,2.40,-23.18,-0.05",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Cri-Cri - - (Infatiles) - El Comal y La Olla (Multiplex).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c1572d8b-305e-4c91-b9bf-8818e947f2b0",
+    "title": "(Infatiles)  - El Comal y La Olla (Multiplex)",
+    "titles": {
+      "spa": "(Infatiles)  - El Comal y La Olla (Multiplex)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "65fe2370-92b8-4b26-a2c8-12b3fc7cac46"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:51:07.099Z",
+    "modified_at": "2022-11-04T02:51:07.479Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42e8579311596a6a48a20418fd929df7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5071072,
+      "gain": -3.36,
+      "duration": 211,
+      "loudnorm": "-13.08,0.09,2.40,-23.18,-0.05",
+      "filename": "processed_4c3ec3cbdd54dc277717a335350cb0d5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

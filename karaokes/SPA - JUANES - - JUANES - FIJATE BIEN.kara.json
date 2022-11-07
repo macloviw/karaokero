@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - JUANES - FIJATE BIEN.MP3",
+      "loudnorm": "-10.63,3.26,5.90,-20.76,-0.71",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - JUANES - FIJATE BIEN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "afa76a9c-27a3-4f92-bf68-f0140933a54b",
+    "title": "JUANES   -   FIJATE BIEN",
+    "titles": {
+      "spa": "JUANES   -   FIJATE BIEN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:53:06.912Z",
+    "modified_at": "2022-11-03T07:53:07.555Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4725832,
+      "gain": -5.46,
+      "duration": 295,
+      "loudnorm": "-10.63,3.26,5.90,-20.76,-0.71",
+      "filename": "processed_ec9db62aaf37427bdb3c7c13ea20e529.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4725832,
+      "gain": -5.46,
+      "duration": 295,
+      "loudnorm": "-10.63,3.26,5.90,-20.76,-0.71",
+      "filename": "processed_17650e928b35a6a8f01fd34bbc58ab63.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

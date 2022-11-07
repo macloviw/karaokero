@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eric Clapton - - Eric Clapton - Wonderful tonight.mp3",
+      "loudnorm": "-15.44,2.92,7.80,-25.62,-0.31",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eric Clapton - - Eric Clapton - Wonderful tonight.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ab3043b0-3b0d-470b-bf32-0db8e2b805d3",
+    "title": "Eric Clapton - Wonderful tonight",
+    "titles": {
+      "spa": "Eric Clapton - Wonderful tonight"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e9f768a3-0bd7-47ff-b061-0c8e9b51a7c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:36:43.280Z",
+    "modified_at": "2022-11-04T00:36:43.663Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0af6ebd5061f4c2177c5c56a616df684.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3030600,
+      "gain": -3.6,
+      "duration": 189,
+      "loudnorm": "-15.44,2.92,7.80,-25.62,-0.31",
+      "filename": "processed_06a78210cdb424b4c038892676aa41fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

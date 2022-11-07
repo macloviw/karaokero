@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Earth Wind & Fire - - Fur alle.mp3",
+      "loudnorm": "-18.98,-3.44,7.50,-29.11,-1.59",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Earth Wind & Fire - - Fur alle.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12931cf7-9b79-4e82-8539-ca7d502b0ecc",
+    "title": "Für alle",
+    "titles": {
+      "spa": "Für alle"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc21ffcd-42df-41eb-8abf-64d9549f6d70"
+      ],
+      "singers": [
+        "a9c40ef9-1609-42f2-b547-4cf04f1bf901"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:49:58.852Z",
+    "modified_at": "2022-11-03T23:49:59.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_54cd7c91ed5b035294993445273b8f2d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4400787,
+      "gain": 0.86,
+      "duration": 183,
+      "loudnorm": "-18.98,-3.44,7.50,-29.11,-1.59",
+      "filename": "processed_bd3e293e0df484b1ac97479f85518f2f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

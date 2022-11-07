@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - el refran.mp3",
+      "loudnorm": "-15.46,-0.11,5.40,-25.50,-0.13",
+      "duration": 476,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - el refran.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "666ebfba-2c80-4eab-81c3-21d6d6853146",
+    "title": "Banda Real - el refran",
+    "titles": {
+      "spa": "Banda Real - el refran"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:38:10.780Z",
+    "modified_at": "2022-11-04T02:38:11.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_304e60f398c51241e212fa2d696068cb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7624728,
+      "gain": -3.47,
+      "duration": 476,
+      "loudnorm": "-15.46,-0.11,5.40,-25.50,-0.13",
+      "filename": "processed_0d23128c918fff2da282b15a4566aa48.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

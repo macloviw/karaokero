@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDER PIREX - - ALEXANDER PIRES - QUITEMONOS LA ROPA.mp3",
+      "loudnorm": "-10.37,0.88,5.70,-20.61,-1.31",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDER PIREX - - ALEXANDER PIRES - QUITEMONOS LA ROPA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "67372fa8-0da6-4d5e-b046-b8591dae116d",
+    "title": "ALEXANDER PIRES - QUITEMONOS LA ROPA",
+    "titles": {
+      "spa": "ALEXANDER PIRES - QUITEMONOS LA ROPA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "acd7e23f-2b4c-464b-80ad-36b2d0d0bbb2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:19:01.959Z",
+    "modified_at": "2022-11-03T01:19:02.380Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_06780e0dca5a88c28873b9f83540dbdc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6632689,
+      "gain": -6.62,
+      "duration": 276,
+      "loudnorm": "-10.37,0.88,5.70,-20.61,-1.31",
+      "filename": "processed_bf4944ffbcd233e807aedfd6a5b06dc0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

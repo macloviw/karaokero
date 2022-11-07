@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - NO TENGO DINERO-JUAN GABRIEL.mp3",
+      "loudnorm": "-20.37,-3.42,10.10,-30.83,-0.91",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - NO TENGO DINERO-JUAN GABRIEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bfb6367-eb07-4090-a0b7-051d343f440d",
+    "title": "NO TENGO DINERO-JUAN GABRIEL",
+    "titles": {
+      "spa": "NO TENGO DINERO-JUAN GABRIEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:51:54.292Z",
+    "modified_at": "2022-11-03T07:51:54.715Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a427853de1f71d6e0335e9a29f47f833.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5378688,
+      "gain": 2.24,
+      "duration": 192,
+      "loudnorm": "-20.37,-3.42,10.10,-30.83,-0.91",
+      "filename": "processed_a68ad65e186129e0733c46c0a83419be.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

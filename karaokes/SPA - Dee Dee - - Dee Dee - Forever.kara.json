@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dee Dee - - Dee Dee - Forever.mp3",
+      "loudnorm": "-7.97,4.02,5.50,-18.08,-1.38",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dee Dee - - Dee Dee - Forever.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a2bff9c9-9999-4bf9-9688-27c4414f5465",
+    "title": "Dee Dee - Forever",
+    "titles": {
+      "spa": "Dee Dee - Forever"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3999530d-247b-4a55-a235-76db99392ee2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:18:35.443Z",
+    "modified_at": "2022-11-04T00:18:35.820Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_692754d7fe5fef4d6d8394f96e359d25.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4143325,
+      "gain": -9.25,
+      "duration": 258,
+      "loudnorm": "-7.97,4.02,5.50,-18.08,-1.38",
+      "filename": "processed_8659b58c1941ff230e9a54fd7af909a3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

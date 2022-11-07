@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Varon de la Bachata - - El Varon De La Bachata - Como Me Duele ( Jose Sonido ) 2017.mp3",
+      "loudnorm": "-10.89,0.16,6.80,-21.05,-0.92",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Varon de la Bachata - - El Varon De La Bachata - Como Me Duele ( Jose Sonido ) 2017.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "004e9511-eab0-4cee-b728-af6721dedd92",
+    "title": "El Varon De La Bachata - Como Me Duele ( Jose Sonido ) 2017",
+    "titles": {
+      "spa": "El Varon De La Bachata - Como Me Duele ( Jose Sonido ) 2017"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68e7f4cb-41a8-4b15-ab29-d6b5ff3ce778"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:12:25.503Z",
+    "modified_at": "2022-11-04T03:12:25.895Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d6124de91b69a806b2b2ff58aaf71dd4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10616270,
+      "gain": -7.9,
+      "duration": 265,
+      "loudnorm": "-10.89,0.16,6.80,-21.05,-0.92",
+      "filename": "processed_5b64f758fc4e9a12221984fc731a723a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

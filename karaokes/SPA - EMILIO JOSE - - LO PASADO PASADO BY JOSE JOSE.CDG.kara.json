@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - LO PASADO PASADO BY JOSE JOSE.CDG.MP3",
+      "loudnorm": "-15.01,-0.81,5.10,-25.22,-0.69",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - LO PASADO PASADO BY JOSE JOSE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e0ed1850-06c4-4fd7-ba7a-accc648c1e00",
+    "title": "LO PASADO PASADO BY JOSE JOSE.CDG",
+    "titles": {
+      "spa": "LO PASADO PASADO BY JOSE JOSE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:08:49.334Z",
+    "modified_at": "2022-11-03T07:08:49.900Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3601940,
+      "gain": -2.96,
+      "duration": 224,
+      "loudnorm": "-15.01,-0.81,5.10,-25.22,-0.69",
+      "filename": "processed_cfb95a06c4c02f647181b055d109f660.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3601940,
+      "gain": -2.96,
+      "duration": 224,
+      "loudnorm": "-15.01,-0.81,5.10,-25.22,-0.69",
+      "filename": "processed_8f5926b68eab6d169537127f98a40c64.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

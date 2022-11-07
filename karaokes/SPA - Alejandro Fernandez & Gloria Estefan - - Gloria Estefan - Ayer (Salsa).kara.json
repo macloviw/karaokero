@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Ayer (Salsa).mp3",
+      "loudnorm": "-14.75,2.57,8.70,-24.83,-1.66",
+      "duration": 320,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Fernandez & Gloria Estefan - - Gloria Estefan - Ayer (Salsa).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "146e5681-2864-43ce-9e85-c8e424521549",
+    "title": "Gloria Estefan - Ayer (Salsa)",
+    "titles": {
+      "spa": "Gloria Estefan - Ayer (Salsa)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d163f885-ab0e-48d0-9478-56e8a6da55f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:36:04.015Z",
+    "modified_at": "2022-11-03T05:36:04.453Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56548f1e0d31025cc905f9cbc7408336.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5135979,
+      "gain": -5.48,
+      "duration": 320,
+      "loudnorm": "-14.75,2.57,8.70,-24.83,-1.66",
+      "filename": "processed_3f29933a07cfc2825c3b8c71319b86a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

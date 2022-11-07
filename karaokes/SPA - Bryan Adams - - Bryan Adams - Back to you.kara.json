@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bryan Adams - - Bryan Adams - Back to you.mp3",
+      "loudnorm": "-14.56,1.97,2.30,-24.59,-0.59",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bryan Adams - - Bryan Adams - Back to you.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "39cc26c8-e7e6-40cb-8cc1-0da414b6ab0d",
+    "title": "Bryan Adams - Back to you",
+    "titles": {
+      "spa": "Bryan Adams - Back to you"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "50e5b660-07de-46ac-8290-90d32d6419b0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:32:07.520Z",
+    "modified_at": "2022-11-03T15:32:08.033Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b14def2af299c9a621b855cf91392c04.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4562410,
+      "gain": -3.38,
+      "duration": 285,
+      "loudnorm": "-14.56,1.97,2.30,-24.59,-0.59",
+      "filename": "processed_1df3970a2e70e08a1a3383a20877d99b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEXANDRE PIRES - - ALEXANDRE PIRES - ES POR AMOR.MP3",
+      "loudnorm": "-12.79,1.18,6.60,-22.86,-1.66",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEXANDRE PIRES - - ALEXANDRE PIRES - ES POR AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "37181dbc-1bd1-46a5-98ee-f569e9cb0175",
+    "title": "ALEXANDRE PIRES   -   ES POR AMOR",
+    "titles": {
+      "spa": "ALEXANDRE PIRES   -   ES POR AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5b7a64c0-20ab-4e5c-948a-e9079f654e95"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:22:09.484Z",
+    "modified_at": "2022-11-03T01:22:10.086Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4801612,
+      "gain": -5.16,
+      "duration": 299,
+      "loudnorm": "-12.79,1.18,6.60,-22.86,-1.66",
+      "filename": "processed_e5da5cc4379339a416fb762dc758c5ce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4801612,
+      "gain": -5.16,
+      "duration": 299,
+      "loudnorm": "-12.79,1.18,6.60,-22.86,-1.66",
+      "filename": "processed_9e7fa0f19590c9feb2f52959c7d06ec1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

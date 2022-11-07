@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - PIES DESCALSO.MP3",
+      "loudnorm": "-11.64,0.73,5.90,-21.75,-1.60",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - PIES DESCALSO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b6ab741b-df5d-49dc-8818-1dc45537d278",
+    "title": "SHAKIRA   -   PIES DESCALSO",
+    "titles": {
+      "spa": "SHAKIRA   -   PIES DESCALSO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:03:35.585Z",
+    "modified_at": "2022-11-03T13:03:36.262Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3346567,
+      "gain": -6.43,
+      "duration": 209,
+      "loudnorm": "-11.64,0.73,5.90,-21.75,-1.60",
+      "filename": "processed_e9d5110cc66713a0159d6832e6523d40.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3346567,
+      "gain": -6.43,
+      "duration": 209,
+      "loudnorm": "-11.64,0.73,5.90,-21.75,-1.60",
+      "filename": "processed_e37cef91d0cd71d4fc34e9997e6c8614.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - VICENTE FERNANDEZ - - Vicente Fernandez - El Rey (Tono Re).mp3",
+      "loudnorm": "-13.90,-0.15,9.30,-24.30,0.45",
+      "duration": 143,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - VICENTE FERNANDEZ - - Vicente Fernandez - El Rey (Tono Re).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd2c9238-f4a8-48d2-927b-909b2608f68a",
+    "title": "Vicente Fernandez - El Rey (Tono Re)",
+    "titles": {
+      "spa": "Vicente Fernandez - El Rey (Tono Re)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:49:05.289Z",
+    "modified_at": "2022-11-04T08:49:05.667Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2042b1a890f214184f43757df421852c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3445959,
+      "gain": -4.8,
+      "duration": 143,
+      "loudnorm": "-13.90,-0.15,9.30,-24.30,0.45",
+      "filename": "processed_cb1111c9be7751fc4732423ce7fe73b7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

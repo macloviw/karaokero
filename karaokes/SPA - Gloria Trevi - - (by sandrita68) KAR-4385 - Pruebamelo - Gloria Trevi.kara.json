@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - (by sandrita68) KAR-4385 - Pruebamelo - Gloria Trevi.mp3",
+      "loudnorm": "-10.44,0.29,3.80,-20.58,0.15",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - (by sandrita68) KAR-4385 - Pruebamelo - Gloria Trevi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "082d6dfd-75f7-45c3-aecd-85981f9b5217",
+    "title": "(by sandrita68) KAR-4385 - Pruebamelo  - Gloria Trevi",
+    "titles": {
+      "spa": "(by sandrita68) KAR-4385 - Pruebamelo  - Gloria Trevi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:20:55.792Z",
+    "modified_at": "2022-11-03T22:20:56.177Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_76483c0e45f14476c3b4210488737098.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4939904,
+      "gain": -7.34,
+      "duration": 205,
+      "loudnorm": "-10.44,0.29,3.80,-20.58,0.15",
+      "filename": "processed_b743e90da9913d4550859b56a4992b3d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

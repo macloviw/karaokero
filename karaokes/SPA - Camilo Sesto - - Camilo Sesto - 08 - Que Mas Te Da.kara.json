@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - Camilo Sesto - 08 - Que Mas Te Da.mp3",
+      "loudnorm": "-13.85,-0.16,3.80,-23.99,-0.14",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - Camilo Sesto - 08 - Que Mas Te Da.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1a31cf6-7896-4c7e-aa90-b37f18d62873",
+    "title": "Camilo Sesto - 08 - Que Mas Te Da",
+    "titles": {
+      "spa": "Camilo Sesto - 08 - Que Mas Te Da"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:52:20.498Z",
+    "modified_at": "2022-11-03T02:52:20.904Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bbb918f8d23c010b01cdb17fa688e8fc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5435982,
+      "gain": -4.71,
+      "duration": 226,
+      "loudnorm": "-13.85,-0.16,3.80,-23.99,-0.14",
+      "filename": "processed_7891c3f018e48c3671f384d5ed2f3769.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

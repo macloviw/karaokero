@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - Emmanuel - Si Ese Tiempo Pudiera Volver.MP3",
+      "loudnorm": "-12.33,0.52,12.60,-22.80,-2.14",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - Emmanuel - Si Ese Tiempo Pudiera Volver.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "239d435d-b04a-42cd-aa9f-fdf351e78799",
+    "title": "Emmanuel - Si Ese Tiempo Pudiera Volver",
+    "titles": {
+      "spa": "Emmanuel - Si Ese Tiempo Pudiera Volver"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:44:57.252Z",
+    "modified_at": "2022-11-03T04:44:57.919Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5322892,
+      "gain": -5.61,
+      "duration": 266,
+      "loudnorm": "-12.33,0.52,12.60,-22.80,-2.14",
+      "filename": "processed_8cd7ad8bccbe85d482ba268ec45ff377.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5322892,
+      "gain": -5.61,
+      "duration": 266,
+      "loudnorm": "-12.33,0.52,12.60,-22.80,-2.14",
+      "filename": "processed_ebae8ecd755b29668bf9441d6b9d7173.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

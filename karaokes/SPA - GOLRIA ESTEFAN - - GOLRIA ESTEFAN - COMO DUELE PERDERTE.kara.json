@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GOLRIA ESTEFAN - - GOLRIA ESTEFAN - COMO DUELE PERDERTE.MP3",
+      "loudnorm": "-20.77,-4.17,4.10,-30.86,-0.37",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GOLRIA ESTEFAN - - GOLRIA ESTEFAN - COMO DUELE PERDERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f09f1b4-5242-45ba-919a-410f9436c594",
+    "title": "GOLRIA ESTEFAN   -   COMO DUELE PERDERTE",
+    "titles": {
+      "spa": "GOLRIA ESTEFAN   -   COMO DUELE PERDERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f8ec4bf9-dd51-4688-82d7-36fcb0066242"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:21:19.474Z",
+    "modified_at": "2022-11-03T22:21:20.111Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4338384,
+      "gain": 3.7,
+      "duration": 271,
+      "loudnorm": "-20.77,-4.17,4.10,-30.86,-0.37",
+      "filename": "processed_6d693b36dac446d44c7b2f700d22b557.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4338384,
+      "gain": 3.7,
+      "duration": 271,
+      "loudnorm": "-20.77,-4.17,4.10,-30.86,-0.37",
+      "filename": "processed_68379363819ce026a7714e49da4f0f48.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

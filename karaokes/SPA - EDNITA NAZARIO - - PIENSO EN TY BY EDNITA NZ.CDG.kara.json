@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EDNITA NAZARIO - - PIENSO EN TY BY EDNITA NZ.CDG.MP3",
+      "loudnorm": "-11.65,1.79,4.90,-21.92,-0.53",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EDNITA NAZARIO - - PIENSO EN TY BY EDNITA NZ.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c51538f4-9d31-46cc-9cbd-5ec8d6af6f3b",
+    "title": "PIENSO EN TY BY EDNITA NZ.CDG",
+    "titles": {
+      "spa": "PIENSO EN TY BY EDNITA NZ.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3aaeaa08-bcf8-4b2d-822a-8f281ee94c28"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:26:23.140Z",
+    "modified_at": "2022-11-03T04:26:23.760Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10520129,
+      "gain": -3.59,
+      "duration": 262,
+      "loudnorm": "-11.65,1.79,4.90,-21.92,-0.53",
+      "filename": "processed_bc30bc624ae035c69e219e903142e51e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10520129,
+      "gain": -3.59,
+      "duration": 262,
+      "loudnorm": "-11.65,1.79,4.90,-21.92,-0.53",
+      "filename": "processed_40411ae6c1ab4fdd009eafc63c76d1ee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

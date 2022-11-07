@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - Es la mujer (VFL).mp3",
+      "loudnorm": "-15.52,-1.37,4.50,-25.59,0.28",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - ALEJANDRO FERNANDEZ - Es la mujer (VFL).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4d519365-2608-4eda-afee-940c31d7d57e",
+    "title": "ALEJANDRO FERNANDEZ - Es la mujer (VFL)",
+    "titles": {
+      "spa": "ALEJANDRO FERNANDEZ - Es la mujer (VFL)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:43:26.283Z",
+    "modified_at": "2022-11-03T00:43:26.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3bceb1118279c64266a58bb2c408f8c5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5042100,
+      "gain": -3.46,
+      "duration": 180,
+      "loudnorm": "-15.52,-1.37,4.50,-25.59,0.28",
+      "filename": "processed_5c24bbed706a8bae22a4076f0ab92a4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

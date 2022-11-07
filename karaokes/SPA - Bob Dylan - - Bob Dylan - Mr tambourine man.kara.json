@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Dylan - - Bob Dylan - Mr tambourine man.mp3",
+      "loudnorm": "-12.22,2.22,1.70,-22.27,-0.63",
+      "duration": 159,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Dylan - - Bob Dylan - Mr tambourine man.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3cc3c05d-f717-4e82-9e9f-426c2db3d774",
+    "title": "Bob Dylan - Mr tambourine man",
+    "titles": {
+      "spa": "Bob Dylan - Mr tambourine man"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "74a88b06-04eb-405c-a6d2-4412b555243f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:15:37.472Z",
+    "modified_at": "2022-11-03T15:15:37.890Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc4a86c143deb8304c073ac0a1a3a45b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2552155,
+      "gain": -6.32,
+      "duration": 159,
+      "loudnorm": "-12.22,2.22,1.70,-22.27,-0.63",
+      "filename": "processed_6772de898bd1de536250ca1bf579f0f2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

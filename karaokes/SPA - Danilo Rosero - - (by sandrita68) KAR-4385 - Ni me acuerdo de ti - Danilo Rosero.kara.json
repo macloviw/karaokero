@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danilo Rosero - - (by sandrita68) KAR-4385 - Ni me acuerdo de ti - Danilo Rosero.mp3",
+      "loudnorm": "-11.18,0.46,4.20,-21.36,-0.39",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danilo Rosero - - (by sandrita68) KAR-4385 - Ni me acuerdo de ti - Danilo Rosero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed2d48fe-6c3f-4f8d-bd6f-ce31a47d01af",
+    "title": "(by sandrita68) KAR-4385 - Ni me acuerdo de ti  - Danilo Rosero",
+    "titles": {
+      "spa": "(by sandrita68) KAR-4385 - Ni me acuerdo de ti  - Danilo Rosero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "12833099-a7a4-4322-ac1c-1a60ea8194df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:00:19.741Z",
+    "modified_at": "2022-11-03T22:00:20.142Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e97ed1f721711402a844bec121b20d7d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4997248,
+      "gain": -5.71,
+      "duration": 208,
+      "loudnorm": "-11.18,0.46,4.20,-21.36,-0.39",
+      "filename": "processed_b3ae44dc91ae1864c7f071ea30370d61.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

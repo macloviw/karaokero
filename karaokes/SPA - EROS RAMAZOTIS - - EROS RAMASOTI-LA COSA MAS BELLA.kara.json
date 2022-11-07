@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EROS RAMAZOTIS - - EROS RAMASOTI-LA COSA MAS BELLA.mp3",
+      "loudnorm": "-11.89,0.44,2.30,-22.07,-0.61",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EROS RAMAZOTIS - - EROS RAMASOTI-LA COSA MAS BELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0fa0474f-4a08-4303-9f74-cc9b99e0a776",
+    "title": "EROS RAMASOTI-LA COSA MAS BELLA",
+    "titles": {
+      "spa": "EROS RAMASOTI-LA COSA MAS BELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6048fc86-7378-49b0-9f40-d80833798516"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:08:44.215Z",
+    "modified_at": "2022-11-03T05:08:44.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2fb56d67f636e395a96651da913c6b07.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6485985,
+      "gain": -4.39,
+      "duration": 270,
+      "loudnorm": "-11.89,0.44,2.30,-22.07,-0.61",
+      "filename": "processed_85d95e9578ab0542ff630f535957f87a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

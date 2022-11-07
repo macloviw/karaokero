@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billy Ocean - - Billy Ocean - Suddenly.mp3",
+      "loudnorm": "-19.22,-3.64,7.80,-29.53,-1.10",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billy Ocean - - Billy Ocean - Suddenly.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "396fde7b-4ede-4045-93cd-3e44431fc2fa",
+    "title": "Billy Ocean - Suddenly",
+    "titles": {
+      "spa": "Billy Ocean - Suddenly"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3232ed06-afde-4f6b-98dc-c46c8a38ef91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:07:38.622Z",
+    "modified_at": "2022-11-03T15:07:39.047Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6276f3b5c385d10b856ae7c2e1906155.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5073684,
+      "gain": 0.57,
+      "duration": 253,
+      "loudnorm": "-19.22,-3.64,7.80,-29.53,-1.10",
+      "filename": "processed_75e5eef25d7afa73ec79df8f44dfb448.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

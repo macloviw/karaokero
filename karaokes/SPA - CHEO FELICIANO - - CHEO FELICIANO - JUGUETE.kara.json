@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - JUGUETE.mp3",
+      "loudnorm": "-19.23,-3.46,4.50,-29.29,0.07",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHEO FELICIANO - - CHEO FELICIANO - JUGUETE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15ea6279-f984-4789-9ab4-d1e00e2159d5",
+    "title": "CHEO FELICIANO - JUGUETE",
+    "titles": {
+      "spa": "CHEO FELICIANO - JUGUETE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d01c2c87-0edc-4494-b664-c796d8d06e3d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:25:37.051Z",
+    "modified_at": "2022-11-03T03:25:37.498Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b40980122c0f804ae332ba6d4fb63b37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4101530,
+      "gain": 2.19,
+      "duration": 256,
+      "loudnorm": "-19.23,-3.46,4.50,-29.29,0.07",
+      "filename": "processed_3b052c805e4113212685a2bfc43e5cd0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

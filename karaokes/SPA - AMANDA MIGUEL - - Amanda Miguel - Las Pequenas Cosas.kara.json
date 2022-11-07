@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - AMANDA MIGUEL - - Amanda Miguel - Las Pequenas Cosas.mp3",
+      "loudnorm": "-13.28,0.76,6.50,-23.39,-1.06",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - AMANDA MIGUEL - - Amanda Miguel - Las Pequenas Cosas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "29a42e14-e853-4422-83a3-30e4b86a0e38",
+    "title": "Amanda Miguel - Las Pequenas Cosas",
+    "titles": {
+      "spa": "Amanda Miguel - Las Pequenas Cosas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9af3e124-8d69-4c0f-9475-8069454fa00f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:23:46.054Z",
+    "modified_at": "2022-11-04T02:23:46.478Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f1e3368a0d351f39563d31ed1da4166d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3978103,
+      "gain": -3.62,
+      "duration": 248,
+      "loudnorm": "-13.28,0.76,6.50,-23.39,-1.06",
+      "filename": "processed_cc5f5dab4a8bcb207ff9d687132af600.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

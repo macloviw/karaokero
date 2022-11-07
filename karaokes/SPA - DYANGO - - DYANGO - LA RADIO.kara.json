@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DYANGO - - DYANGO - LA RADIO.MP3",
+      "loudnorm": "-13.31,1.76,6.40,-23.50,-1.48",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DYANGO - - DYANGO - LA RADIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0853d85c-e064-474d-9ab6-96dad7081cc1",
+    "title": "DYANGO   -   LA RADIO",
+    "titles": {
+      "spa": "DYANGO   -   LA RADIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dfe7efba-e53e-412b-98c6-fec7cea6e924"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:16:30.532Z",
+    "modified_at": "2022-11-03T04:16:31.011Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3242495,
+      "gain": -3.63,
+      "duration": 202,
+      "loudnorm": "-13.31,1.76,6.40,-23.50,-1.48",
+      "filename": "processed_3043955ee3835c0d2d9227fba361a172.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3242495,
+      "gain": -3.63,
+      "duration": 202,
+      "loudnorm": "-13.31,1.76,6.40,-23.50,-1.48",
+      "filename": "processed_087d852e4789e106852c7e7fe7eaf676.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

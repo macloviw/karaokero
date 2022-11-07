@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - CORAZON DURO.mp3",
+      "loudnorm": "-14.85,1.01,5.00,-24.94,0.71",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - CORAZON DURO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "89ab1b0a-6c23-4804-9c73-4e223a636c84",
+    "title": "ANTONY SANTOS - CORAZON DURO",
+    "titles": {
+      "spa": "ANTONY SANTOS - CORAZON DURO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:59:07.715Z",
+    "modified_at": "2022-11-02T22:59:08.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_04fa8f73bffc4714af8261b084708a1f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3677980,
+      "gain": -5.54,
+      "duration": 262,
+      "loudnorm": "-14.85,1.01,5.00,-24.94,0.71",
+      "filename": "processed_c03a2572e15929ae1b83115ce209e4b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

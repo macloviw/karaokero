@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Badlands - - Badlands - In A Dream.mp3",
+      "loudnorm": "-16.09,0.05,22.70,-27.11,-1.57",
+      "duration": 150,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Badlands - - Badlands - In A Dream.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d0c6ad4-4d19-4dd8-8380-5dd208a2551f",
+    "title": "Badlands - In A Dream",
+    "titles": {
+      "spa": "Badlands - In A Dream"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "379101d9-9f81-4eec-b95c-2b2cd970ede7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:57:19.403Z",
+    "modified_at": "2022-11-03T23:57:19.779Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_873bc91b935877e659dbe7384100b982.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3009925,
+      "gain": -0.59,
+      "duration": 150,
+      "loudnorm": "-16.09,0.05,22.70,-27.11,-1.57",
+      "filename": "processed_ae600de12c56a1d7bdaa2f5420f3e646.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

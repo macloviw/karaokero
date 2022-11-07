@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Mi Bajo y Yo.MP3",
+      "loudnorm": "-15.34,0.44,4.20,-25.36,-0.63",
+      "duration": 321,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - Oscar D'Leon - Mi Bajo y Yo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "744c8154-fd4c-4071-88fe-c94ce25a6c37",
+    "title": "Oscar D'Leon - Mi Bajo y Yo",
+    "titles": {
+      "spa": "Oscar D'Leon - Mi Bajo y Yo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:03:15.442Z",
+    "modified_at": "2022-11-04T08:03:16.183Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5140480,
+      "gain": -4.34,
+      "duration": 321,
+      "loudnorm": "-15.34,0.44,4.20,-25.36,-0.63",
+      "filename": "processed_0282ba0db7906039b27b5cb18645dbd6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5140480,
+      "gain": -4.34,
+      "duration": 321,
+      "loudnorm": "-15.34,0.44,4.20,-25.36,-0.63",
+      "filename": "processed_928cd2e168031d0ed9d8165869f0c32a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

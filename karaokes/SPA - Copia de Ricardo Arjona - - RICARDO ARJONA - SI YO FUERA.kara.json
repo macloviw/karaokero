@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - SI YO FUERA.mp3",
+      "loudnorm": "-9.40,1.28,4.10,-19.62,-0.23",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - SI YO FUERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24d8bda7-cc23-478a-812a-21e9a9cb1e6e",
+    "title": "RICARDO ARJONA - SI YO FUERA",
+    "titles": {
+      "spa": "RICARDO ARJONA - SI YO FUERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:03:33.311Z",
+    "modified_at": "2022-11-03T12:03:33.743Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f7dcdd4aad3542225403d5ece85acdd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4612771,
+      "gain": -8.58,
+      "duration": 288,
+      "loudnorm": "-9.40,1.28,4.10,-19.62,-0.23",
+      "filename": "processed_df97102b0df9584d9868e5ad085d427b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

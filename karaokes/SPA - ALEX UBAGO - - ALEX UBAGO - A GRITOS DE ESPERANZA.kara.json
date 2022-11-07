@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX UBAGO - - ALEX UBAGO - A GRITOS DE ESPERANZA.MP3",
+      "loudnorm": "-15.71,-0.10,12.90,-26.34,-1.41",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX UBAGO - - ALEX UBAGO - A GRITOS DE ESPERANZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "984bdfcb-bb4e-4988-bf61-762eebfdd547",
+    "title": "ALEX UBAGO   -   A GRITOS DE ESPERANZA",
+    "titles": {
+      "spa": "ALEX UBAGO   -   A GRITOS DE ESPERANZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b55c95d-31be-42a1-88a3-d1e0b29146c6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:15:17.432Z",
+    "modified_at": "2022-11-03T01:15:18.064Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4398988,
+      "gain": -1.33,
+      "duration": 274,
+      "loudnorm": "-15.71,-0.10,12.90,-26.34,-1.41",
+      "filename": "processed_3fb16e87d2577c0d22f7bcd85d8e106d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4398988,
+      "gain": -1.33,
+      "duration": 274,
+      "loudnorm": "-15.71,-0.10,12.90,-26.34,-1.41",
+      "filename": "processed_ef8b674ad3b98e3ba2236ae75804654b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Camilo Sesto - - CAMILO SESTO - SI TU TE VAS.MP3",
+      "loudnorm": "-10.52,0.21,13.80,-21.11,-1.62",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Camilo Sesto - - CAMILO SESTO - SI TU TE VAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "959a1a82-f5d1-4031-b9d9-794c39a56b04",
+    "title": "CAMILO SESTO   -   SI TU TE VAS",
+    "titles": {
+      "spa": "CAMILO SESTO   -   SI TU TE VAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5f446a42-8e55-45db-bf9c-553390f49100"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:50:07.731Z",
+    "modified_at": "2022-11-03T02:50:08.338Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8938154,
+      "gain": -7.57,
+      "duration": 223,
+      "loudnorm": "-10.52,0.21,13.80,-21.11,-1.62",
+      "filename": "processed_8d4ac47c8151f2afe16eb7740899c891.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8938154,
+      "gain": -7.57,
+      "duration": 223,
+      "loudnorm": "-10.52,0.21,13.80,-21.11,-1.62",
+      "filename": "processed_6dd3e8de6eeac0729111487613641184.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

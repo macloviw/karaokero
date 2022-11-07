@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Everly Brothers - - Everly Brothers - Bye bye love.mp3",
+      "loudnorm": "-19.52,-1.67,4.40,-29.70,-0.02",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Everly Brothers - - Everly Brothers - Bye bye love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2cc19037-6a83-4fa7-9e99-45dcc19c5108",
+    "title": "Everly Brothers - Bye bye love",
+    "titles": {
+      "spa": "Everly Brothers - Bye bye love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "24be17c3-6efb-4400-bd13-4884aba29fdf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:38:45.871Z",
+    "modified_at": "2022-11-04T00:38:46.254Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0c59c8f17dfdfcd1a8b6f63ed81c3e8a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3180672,
+      "gain": -0.25,
+      "duration": 158,
+      "loudnorm": "-19.52,-1.67,4.40,-29.70,-0.02",
+      "filename": "processed_047bcd2bd4eec5996636a8bd86a5321e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

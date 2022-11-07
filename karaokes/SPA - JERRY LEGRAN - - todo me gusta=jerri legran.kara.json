@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JERRY LEGRAN - - todo me gusta=jerri legran.MP3",
+      "loudnorm": "-17.23,0.26,5.60,-27.38,-0.62",
+      "duration": 363,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JERRY LEGRAN - - todo me gusta=jerri legran.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1120ee0b-6100-492b-913b-d1b9c07c086b",
+    "title": "todo me gusta=jerri legran",
+    "titles": {
+      "spa": "todo me gusta=jerri legran"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5e28eb03-284d-44d2-b436-6aaa98bf1b1a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:44:19.863Z",
+    "modified_at": "2022-11-04T03:44:20.476Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5823522,
+      "gain": -1.29,
+      "duration": 363,
+      "loudnorm": "-17.23,0.26,5.60,-27.38,-0.62",
+      "filename": "processed_0b974f2bfc3101a89434ddcac13bfeac.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5823522,
+      "gain": -1.29,
+      "duration": 363,
+      "loudnorm": "-17.23,0.26,5.60,-27.38,-0.62",
+      "filename": "processed_16b2b1ce0f7b4fb9c2cf82527a901ab2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

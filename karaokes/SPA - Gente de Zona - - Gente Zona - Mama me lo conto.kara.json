@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gente de Zona - - Gente Zona - Mama me lo conto.mp3",
+      "loudnorm": "-9.64,1.12,3.10,-19.76,-0.36",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gente de Zona - - Gente Zona - Mama me lo conto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e631b4c4-1888-4a0e-babb-ebb13d13c957",
+    "title": "Gente Zona - Mama me lo conto",
+    "titles": {
+      "spa": "Gente Zona - Mama me lo conto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "10779a6d-4bc7-4eec-bcb2-3ba6a8bd74c9"
+      ],
+      "singers": [
+        "ae1d5495-9eda-4439-99c9-281c259adf1f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:45:47.533Z",
+    "modified_at": "2022-11-03T23:45:48.055Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3db893ff1f708221b091ac7554ff2776.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6554466,
+      "gain": -7.92,
+      "duration": 242,
+      "loudnorm": "-9.64,1.12,3.10,-19.76,-0.36",
+      "filename": "processed_50927200aa4b32e33a2c1169fa0806ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

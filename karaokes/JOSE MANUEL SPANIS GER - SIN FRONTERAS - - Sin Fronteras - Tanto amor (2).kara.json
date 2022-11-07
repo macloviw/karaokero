@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - Sin Fronteras - Tanto amor (2).mp3",
+      "loudnorm": "-12.88,1.48,2.90,-22.90,-0.37",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - SIN FRONTERAS - - Sin Fronteras - Tanto amor (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e11d2740-5c8f-4b55-bf52-bd91021df0b2",
+    "title": "Sin Fronteras - Tanto amor (2)",
+    "titles": {
+      "spa": "Sin Fronteras - Tanto amor (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8972e7b5-3692-46b4-94b2-07d5a7c21298"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:06:11.450Z",
+    "modified_at": "2022-11-04T11:06:11.836Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd48954f8de75a9b7f3151afb2480b27.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4041761,
+      "gain": -6.65,
+      "duration": 252,
+      "loudnorm": "-12.88,1.48,2.90,-22.90,-0.37",
+      "filename": "processed_ce4e3bd31b8499b7cd191cd1de49e0f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

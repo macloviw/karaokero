@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bisbal - - David Bisbal - Permitame Senora.mp3",
+      "loudnorm": "-13.61,-0.84,5.00,-23.67,-0.69",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bisbal - - David Bisbal - Permitame Senora.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca0eec77-0904-424e-acd7-09ea7715ebd9",
+    "title": "David Bisbal - Permitame Señora",
+    "titles": {
+      "spa": "David Bisbal - Permitame Señora"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f5f4a676-5cec-461d-af33-3bc98e91b416"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:07:03.993Z",
+    "modified_at": "2022-11-03T04:07:04.466Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6647a7113fce75ed80d0a3c096a8961.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4567007,
+      "gain": -4.16,
+      "duration": 285,
+      "loudnorm": "-13.61,-0.84,5.00,-23.67,-0.69",
+      "filename": "processed_9d489fbbfe7621c6984d5f7440275e79.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

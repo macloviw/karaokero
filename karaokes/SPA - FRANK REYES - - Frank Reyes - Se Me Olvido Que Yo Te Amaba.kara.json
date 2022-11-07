@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - Se Me Olvido Que Yo Te Amaba.mp3",
+      "loudnorm": "-21.04,-2.81,3.30,-31.11,-0.71",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - Se Me Olvido Que Yo Te Amaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a469f79-d363-47b6-a8fa-5ff864f33e27",
+    "title": "Frank Reyes - Se Me Olvido Que Yo Te Amaba",
+    "titles": {
+      "spa": "Frank Reyes - Se Me Olvido Que Yo Te Amaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:44:45.542Z",
+    "modified_at": "2022-11-02T23:44:45.963Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4917a838c8376fb8af611e071f538bb0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3508028,
+      "gain": 2.31,
+      "duration": 219,
+      "loudnorm": "-21.04,-2.81,3.30,-31.11,-0.71",
+      "filename": "processed_8e1a2ab48e74a30bbb31a009eac2c667.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

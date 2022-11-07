@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Vives - - Carlos Vives - Maria Teresa.MP3",
+      "loudnorm": "-10.56,0.54,6.50,-20.94,-0.23",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Vives - - Carlos Vives - Maria Teresa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1fac7b9e-eb97-450c-8007-bc08bad3197a",
+    "title": "Carlos Vives - Maria Teresa",
+    "titles": {
+      "spa": "Carlos Vives - Maria Teresa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2df0daff-f39b-4d55-a141-e4ddd47ab30f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:03:16.819Z",
+    "modified_at": "2022-11-03T03:03:17.470Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8853504,
+      "gain": -6.61,
+      "duration": 221,
+      "loudnorm": "-10.56,0.54,6.50,-20.94,-0.23",
+      "filename": "processed_5c2ab1044a98f2e9fb8fe5592ae75c6b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8853504,
+      "gain": -6.61,
+      "duration": 221,
+      "loudnorm": "-10.56,0.54,6.50,-20.94,-0.23",
+      "filename": "processed_e5ef87568906256cb0260f0ba97eafda.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

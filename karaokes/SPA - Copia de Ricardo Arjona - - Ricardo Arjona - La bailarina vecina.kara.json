@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - La bailarina vecina.mp3",
+      "loudnorm": "-12.77,-0.21,4.20,-23.00,-0.90",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - Ricardo Arjona - La bailarina vecina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "91471c64-a284-4c99-87b1-221077247357",
+    "title": "Ricardo Arjona - La bailarina vecina",
+    "titles": {
+      "spa": "Ricardo Arjona - La bailarina vecina"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:58:31.849Z",
+    "modified_at": "2022-11-03T11:58:32.279Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d8e92e747df0359aae893a2ee757dfad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5975030,
+      "gain": -3.62,
+      "duration": 248,
+      "loudnorm": "-12.77,-0.21,4.20,-23.00,-0.90",
+      "filename": "processed_710b0557dc0dc1037cdbf015bb5a244a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

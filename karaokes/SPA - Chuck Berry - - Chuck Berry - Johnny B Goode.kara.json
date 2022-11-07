@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chuck Berry - - Chuck Berry - Johnny B Goode.mp3",
+      "loudnorm": "-12.78,-0.43,3.40,-22.85,-0.98",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chuck Berry - - Chuck Berry - Johnny B Goode.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "74f13e7f-0ebf-4c04-8c43-45268d3438fd",
+    "title": "Chuck Berry - Johnny B Goode",
+    "titles": {
+      "spa": "Chuck Berry - Johnny B Goode"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6e8e5b0a-846a-4107-b56d-309b0f75d359"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:14:08.712Z",
+    "modified_at": "2022-11-04T00:14:09.098Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_843d19f6b0df038d77d8abecbbb04919.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2898643,
+      "gain": -4.54,
+      "duration": 181,
+      "loudnorm": "-12.78,-0.43,3.40,-22.85,-0.98",
+      "filename": "processed_fc388cffcabac6637567f9b7ae15bcb1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

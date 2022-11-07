@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - OSCAR DE LEON - CALCULADORA.mp3",
+      "loudnorm": "-10.42,0.99,3.10,-20.47,-0.30",
+      "duration": 304,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - OSCAR DE LEON - CALCULADORA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d8d74ae0-8c19-4ea7-8163-6b7e6c70a5ff",
+    "title": "OSCAR DE LEON   -   CALCULADORA",
+    "titles": {
+      "spa": "OSCAR DE LEON   -   CALCULADORA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:04:58.399Z",
+    "modified_at": "2022-11-04T08:04:58.797Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_451e7641f2a3f2ddcea71bee6f5e8c57.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7303168,
+      "gain": -8.19,
+      "duration": 304,
+      "loudnorm": "-10.42,0.99,3.10,-20.47,-0.30",
+      "filename": "processed_4ee6eb3d878302ef371df81e92706c64.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

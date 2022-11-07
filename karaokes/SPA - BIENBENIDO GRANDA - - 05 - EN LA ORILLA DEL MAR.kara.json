@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BIENBENIDO GRANDA - - 05 - EN LA ORILLA DEL MAR.mp3",
+      "loudnorm": "-17.82,0.13,4.30,-27.92,-0.18",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BIENBENIDO GRANDA - - 05 - EN LA ORILLA DEL MAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc5f3a42-b3f9-4bfe-9f23-b0ba1066f4ac",
+    "title": "05 - EN LA ORILLA DEL MAR",
+    "titles": {
+      "spa": "05 - EN LA ORILLA DEL MAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27cc5aa0-c303-40c3-97eb-1098bee87372"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:16:22.724Z",
+    "modified_at": "2022-11-03T02:16:23.152Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9ac5c24acea98d7190c2d7c51383efef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3042838,
+      "gain": 0.2,
+      "duration": 190,
+      "loudnorm": "-17.82,0.13,4.30,-27.92,-0.18",
+      "filename": "processed_611ccbe99086f85fb3634cb99f12c661.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

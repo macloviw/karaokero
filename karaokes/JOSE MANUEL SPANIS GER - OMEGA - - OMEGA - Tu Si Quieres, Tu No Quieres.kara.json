@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OMEGA - - OMEGA - Tu Si Quieres, Tu No Quieres.mp3",
+      "loudnorm": "-9.91,4.29,3.00,-19.93,-0.76",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OMEGA - - OMEGA - Tu Si Quieres, Tu No Quieres.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "baf9bf39-7f99-43b6-97a4-6d581bc2d225",
+    "title": "OMEGA - Tu Si Quieres, Tu No Quieres",
+    "titles": {
+      "spa": "OMEGA - Tu Si Quieres, Tu No Quieres"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9fbf837d-a0e4-4cca-9e87-1b306226c172"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:58:36.214Z",
+    "modified_at": "2022-11-04T07:58:36.594Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2917e69f981f51dffa8a2a4e4a182b70.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4616874,
+      "gain": -7.98,
+      "duration": 288,
+      "loudnorm": "-9.91,4.29,3.00,-19.93,-0.76",
+      "filename": "processed_d6e652bea7390bbef845b31a2c4e9562.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

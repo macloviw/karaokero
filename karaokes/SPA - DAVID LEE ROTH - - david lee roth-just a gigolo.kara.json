@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DAVID LEE ROTH - - david lee roth-just a gigolo.mp3",
+      "loudnorm": "-18.09,-3.38,8.50,-28.29,-1.10",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DAVID LEE ROTH - - david lee roth-just a gigolo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b5b077e7-e97c-4df9-a814-439e9df861cf",
+    "title": "david lee roth-just a gigolo",
+    "titles": {
+      "spa": "david lee roth-just a gigolo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5e9e81ea-5903-49ce-824f-0668808fe59c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:17:57.570Z",
+    "modified_at": "2022-11-04T00:17:57.950Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_413fe1815d427b92d501402ee8c15601.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4168821,
+      "gain": -2.19,
+      "duration": 260,
+      "loudnorm": "-18.09,-3.38,8.50,-28.29,-1.10",
+      "filename": "processed_49966751cececb50378acefe200926a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

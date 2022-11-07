@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christian Castro - - Christian Castro - No Hace Falta.mp3",
+      "loudnorm": "-7.88,2.96,6.10,-18.20,-1.24",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christian Castro - - Christian Castro - No Hace Falta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d29daec2-10b8-4dc4-9d68-5e344d42ad01",
+    "title": "Christian Castro - No Hace Falta",
+    "titles": {
+      "spa": "Christian Castro - No Hace Falta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27dd2042-d853-49be-87b4-70122a2b96b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:28:30.406Z",
+    "modified_at": "2022-11-03T03:28:30.816Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1b542aec6a8a259086b69b33d7e67f33.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4628782,
+      "gain": -9.11,
+      "duration": 289,
+      "loudnorm": "-7.88,2.96,6.10,-18.20,-1.24",
+      "filename": "processed_01579909405b8bd6440b41f752026210.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

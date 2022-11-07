@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JERRI RIVERA - - Herida mortal (Jerry Rivera)(Leo).mp3",
+      "loudnorm": "-8.07,4.19,6.30,-18.33,-1.10",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JERRI RIVERA - - Herida mortal (Jerry Rivera)(Leo).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1f95bc7-1702-4198-94ed-f62c08c7229c",
+    "title": "Herida mortal (Jerry Rivera)(Leo)",
+    "titles": {
+      "spa": "Herida mortal (Jerry Rivera)(Leo)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0b1cdaef-6fb7-42cf-8f7d-05ef490866a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:42:13.610Z",
+    "modified_at": "2022-11-04T03:42:13.990Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f16cc2b8510badcd09fc95e615702dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3956496,
+      "gain": -8.46,
+      "duration": 247,
+      "loudnorm": "-8.07,4.19,6.30,-18.33,-1.10",
+      "filename": "processed_1fee9ac1601df624e96a4404ebef7caa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

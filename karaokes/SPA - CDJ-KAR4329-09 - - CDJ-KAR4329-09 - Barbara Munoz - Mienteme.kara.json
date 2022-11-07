@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CDJ-KAR4329-09 - - CDJ-KAR4329-09 - Barbara Munoz - Mienteme.mp3",
+      "loudnorm": "-6.83,2.96,4.80,-16.87,-0.63",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CDJ-KAR4329-09 - - CDJ-KAR4329-09 - Barbara Munoz - Mienteme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70c2f83b-3d8c-4aa2-b53f-6d4ef155182f",
+    "title": "CDJ-KAR4329-09 - Barbara Muñoz - Mienteme",
+    "titles": {
+      "spa": "CDJ-KAR4329-09 - Barbara Muñoz - Mienteme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "98813f8a-e388-45c8-a3a7-930530857870"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:51:13.387Z",
+    "modified_at": "2022-11-03T21:51:13.779Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1b4247bbf9a03aac3bfe6c2dfd828aab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3700705,
+      "gain": -10.34,
+      "duration": 231,
+      "loudnorm": "-6.83,2.96,4.80,-16.87,-0.63",
+      "filename": "processed_235369a63ac47c357111edce92e03772.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

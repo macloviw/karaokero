@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Essex - - David Essex - Rock On.MP3",
+      "loudnorm": "-14.19,0.69,4.10,-24.60,-0.63",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Essex - - David Essex - Rock On.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6bf2383-75ef-408e-91d3-3f4cd4d2616b",
+    "title": "David Essex - Rock On",
+    "titles": {
+      "spa": "David Essex - Rock On"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d692bc86-f0b1-4d9e-a984-b5c9c23acafc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:49:35.428Z",
+    "modified_at": "2022-11-03T15:49:35.982Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3650551,
+      "gain": -2.31,
+      "duration": 228,
+      "loudnorm": "-14.19,0.69,4.10,-24.60,-0.63",
+      "filename": "processed_e732da7c0d0e8ff1fb3a31960b23b206.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3650551,
+      "gain": -2.31,
+      "duration": 228,
+      "loudnorm": "-14.19,0.69,4.10,-24.60,-0.63",
+      "filename": "processed_9a360433deef2d05bbc8a1c616444f2b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - Olga Tanon - Sobrevivir.MP3",
+      "loudnorm": "-14.77,1.42,13.10,-25.24,-1.40",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - Olga Tanon - Sobrevivir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "334f3d69-aabd-4cd8-9d86-a9533b2f9d27",
+    "title": "Olga Tañon - Sobrevivir",
+    "titles": {
+      "spa": "Olga Tañon - Sobrevivir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8abbde97-cb0b-4c2a-9574-14022714476e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:54:31.867Z",
+    "modified_at": "2022-11-04T07:54:32.316Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3729408,
+      "gain": -2.88,
+      "duration": 232,
+      "loudnorm": "-14.77,1.42,13.10,-25.24,-1.40",
+      "filename": "processed_1fe3771a51ad0295193af3c23bf73387.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3729408,
+      "gain": -2.88,
+      "duration": 232,
+      "loudnorm": "-14.77,1.42,13.10,-25.24,-1.40",
+      "filename": "processed_ef1adf63e4b9c124b8159f2d572ce825.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

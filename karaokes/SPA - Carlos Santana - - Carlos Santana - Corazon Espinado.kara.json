@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Santana - - Carlos Santana - Corazon Espinado.mp3",
+      "loudnorm": "-11.50,1.44,3.70,-21.55,-0.69",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Santana - - Carlos Santana - Corazon Espinado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62d11388-f46a-43f1-bd72-4482fb45ee5c",
+    "title": "Carlos Santana - Corazon Espinado",
+    "titles": {
+      "spa": "Carlos Santana - Corazon Espinado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "90c3edd7-affb-4304-9246-5682e7c4f709"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:37:06.157Z",
+    "modified_at": "2022-11-03T15:37:06.656Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_389e53d265f2456b924f507765104176.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4711749,
+      "gain": -5.04,
+      "duration": 294,
+      "loudnorm": "-11.50,1.44,3.70,-21.55,-0.69",
+      "filename": "processed_c054c5254ae61862aeb04e290315d4b3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

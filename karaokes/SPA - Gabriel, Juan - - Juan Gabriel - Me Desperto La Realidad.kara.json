@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Me Desperto La Realidad.MP3",
+      "loudnorm": "-13.54,0.82,2.80,-23.64,0.08",
+      "duration": 148,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Me Desperto La Realidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c24069c1-193c-4a04-95fc-add3745ac3b7",
+    "title": "Juan Gabriel - Me Desperto La Realidad",
+    "titles": {
+      "spa": "Juan Gabriel - Me Desperto La Realidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:47:57.489Z",
+    "modified_at": "2022-11-03T07:47:57.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4741843,
+      "gain": -4.03,
+      "duration": 148,
+      "loudnorm": "-13.54,0.82,2.80,-23.64,0.08",
+      "filename": "processed_ccde94a3370617cf2cdf835d1f4c5427.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4741843,
+      "gain": -4.03,
+      "duration": 148,
+      "loudnorm": "-13.54,0.82,2.80,-23.64,0.08",
+      "filename": "processed_d6abaa5846473660c552cc5fc521be68.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

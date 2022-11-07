@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Vete, alejate de mi DJSC.mp3",
+      "loudnorm": "-10.75,6.81,4.90,-20.76,-1.28",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Vete, alejate de mi DJSC.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1599d6a3-35a8-43f3-b53e-a7c66f03f3a2",
+    "title": "Anthony Santos - Vete, aléjate de mi DJSC",
+    "titles": {
+      "spa": "Anthony Santos - Vete, aléjate de mi DJSC"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:37:33.663Z",
+    "modified_at": "2022-11-02T22:37:34.372Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c35b9a73b8d5e0f9e87a910f7fa8ac3f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4380097,
+      "gain": -9.04,
+      "duration": 273,
+      "loudnorm": "-10.75,6.81,4.90,-20.76,-1.28",
+      "filename": "processed_7402f9ea7c9d40ce5295b63da553e831.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

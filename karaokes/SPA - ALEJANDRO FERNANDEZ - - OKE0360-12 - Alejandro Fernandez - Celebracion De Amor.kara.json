@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-12 - Alejandro Fernandez - Celebracion De Amor.mp3",
+      "loudnorm": "-11.90,0.73,12.10,-22.39,-1.69",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-12 - Alejandro Fernandez - Celebracion De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "191e12a8-33e4-4a27-8451-b0a414b9d40b",
+    "title": "OKE0360-12 - Alejandro Fernandez - Celebracion De Amor",
+    "titles": {
+      "spa": "OKE0360-12 - Alejandro Fernandez - Celebracion De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:58:09.797Z",
+    "modified_at": "2022-11-03T00:58:10.208Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_633586ccb3baf6fa50ce0659258f0ea7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4430575,
+      "gain": -5.74,
+      "duration": 221,
+      "loudnorm": "-11.90,0.73,12.10,-22.39,-1.69",
+      "filename": "processed_68f5672c0ac8e7ff33136686ee1acc92.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

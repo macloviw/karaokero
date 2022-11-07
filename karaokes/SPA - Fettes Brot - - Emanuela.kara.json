@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fettes Brot - - Emanuela.mp3",
+      "loudnorm": "-13.11,1.21,3.90,-23.34,-0.36",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fettes Brot - - Emanuela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2bb34368-1b41-43f0-9b18-8dde336c2525",
+    "title": "Emanuela",
+    "titles": {
+      "spa": "Emanuela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e3bfc249-d68f-46ce-9461-a297acdac294"
+      ],
+      "singers": [
+        "0b7c16ba-a6ef-4202-a994-1fc047856a8e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:50:17.841Z",
+    "modified_at": "2022-11-03T23:50:18.251Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_68a1a2073133ed1a80b74b22c02a5d16.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4831232,
+      "gain": -5.1,
+      "duration": 201,
+      "loudnorm": "-13.11,1.21,3.90,-23.34,-0.36",
+      "filename": "processed_2157d86e78c92298232b61a1ac97295d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

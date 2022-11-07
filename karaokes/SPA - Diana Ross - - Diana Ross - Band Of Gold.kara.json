@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Diana Ross - - Diana Ross - Band Of Gold.mp3",
+      "loudnorm": "-17.65,-1.12,3.60,-27.78,-0.13",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Diana Ross - - Diana Ross - Band Of Gold.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3af9de65-9eec-4f75-92a9-bbbabe18afd4",
+    "title": "Diana Ross - Band Of Gold",
+    "titles": {
+      "spa": "Diana Ross - Band Of Gold"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "11bf1126-ac02-41c6-a5a8-9046a3770bc9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:58:24.474Z",
+    "modified_at": "2022-11-03T15:58:25.017Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_717323f46d73c6ac2b062ad6a77f6a15.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3006476,
+      "gain": -1.26,
+      "duration": 187,
+      "loudnorm": "-17.65,-1.12,3.60,-27.78,-0.13",
+      "filename": "processed_99e46672a2afe52b02a96eb2bdfeb733.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

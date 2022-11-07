@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Destiny's Child - - Destiny's Child - Say My Name.mp3",
+      "loudnorm": "-6.99,6.05,6.10,-17.38,-1.47",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Destiny's Child - - Destiny's Child - Say My Name.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "136695eb-05ca-47e5-a2f4-b29dec64b9ee",
+    "title": "Destiny's Child - Say My Name",
+    "titles": {
+      "spa": "Destiny's Child - Say My Name"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "9dbee8a6-6299-482a-a6eb-d2fddd36f239"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:55:44.746Z",
+    "modified_at": "2022-11-03T15:55:45.260Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a9750842434fa258f36e2aaf797c5bd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4603704,
+      "gain": -9.54,
+      "duration": 287,
+      "loudnorm": "-6.99,6.05,6.10,-17.38,-1.47",
+      "filename": "processed_ae9a0f8c1c5a4b55efe82f338abcc143.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

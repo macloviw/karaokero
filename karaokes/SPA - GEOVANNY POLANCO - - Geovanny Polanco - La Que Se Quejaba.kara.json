@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - GEOVANNY POLANCO - - Geovanny Polanco - La Que Se Quejaba.mp3",
+      "loudnorm": "-17.63,-1.32,2.40,-27.66,-0.53",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - GEOVANNY POLANCO - - Geovanny Polanco - La Que Se Quejaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e2311dd-46b6-4d4a-bfba-4f1ebc257003",
+    "title": "Geovanny Polanco - La Que Se Quejaba",
+    "titles": {
+      "spa": "Geovanny Polanco - La Que Se Quejaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ccd45d64-b03c-4304-9627-d68c9071e9fe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:24:10.895Z",
+    "modified_at": "2022-11-04T03:24:11.280Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_95f76fd669a9a02ffc6ff5313995a0a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4620207,
+      "gain": -0.67,
+      "duration": 288,
+      "loudnorm": "-17.63,-1.32,2.40,-27.66,-0.53",
+      "filename": "processed_820343bd9fe268404389c27b5cbd5c48.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

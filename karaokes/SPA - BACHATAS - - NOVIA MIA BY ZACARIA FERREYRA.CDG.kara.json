@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BACHATAS - - NOVIA MIA BY ZACARIA FERREYRA.CDG.MP3",
+      "loudnorm": "-16.99,1.26,2.90,-27.11,-0.08",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BACHATAS - - NOVIA MIA BY ZACARIA FERREYRA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d7d6918-21de-4acc-bc74-3f3174acb5f3",
+    "title": "NOVIA MIA BY ZACARIA FERREYRA.CDG",
+    "titles": {
+      "spa": "NOVIA MIA BY ZACARIA FERREYRA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "a93bf822-9e1a-49b1-a1c2-f6529ad5fb37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:20:31.877Z",
+    "modified_at": "2022-11-02T23:20:32.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2913143,
+      "gain": -3.54,
+      "duration": 181,
+      "loudnorm": "-16.99,1.26,2.90,-27.11,-0.08",
+      "filename": "processed_9cc1a0937d84f0698f8f8db9dfca30be.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2913143,
+      "gain": -3.54,
+      "duration": 181,
+      "loudnorm": "-16.99,1.26,2.90,-27.11,-0.08",
+      "filename": "processed_f578c4d4bc00a67de6fbc109cd949de7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - Rocio Durcal - De Serenata.mp3",
+      "loudnorm": "-11.73,0.47,4.50,-21.85,-0.42",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - Rocio Durcal - De Serenata.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a463f2fc-28ea-46bc-8430-68a3be0518d5",
+    "title": "Rocio Durcal - De Serenata",
+    "titles": {
+      "spa": "Rocio Durcal - De Serenata"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:43:01.961Z",
+    "modified_at": "2022-11-03T12:43:02.460Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d6d7f537a4a2dd6216ee807ac2ab68a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4392010,
+      "gain": -5.66,
+      "duration": 182,
+      "loudnorm": "-11.73,0.47,4.50,-21.85,-0.42",
+      "filename": "processed_736918ee7057f9baa0b5b2ca8e63941c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

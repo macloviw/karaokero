@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 04- Entre ella y tu.mp3",
+      "loudnorm": "-15.70,-0.17,6.00,-25.77,0.19",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 04- Entre ella y tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0acc3cdb-0601-40d9-a3a8-bc1b06c11c59",
+    "title": "04- Entre ella y tu",
+    "titles": {
+      "spa": "04- Entre ella y tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:39:38.616Z",
+    "modified_at": "2022-11-03T06:39:39.048Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b55cfc13998d744e335d18402289623.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5273016,
+      "gain": -2.69,
+      "duration": 219,
+      "loudnorm": "-15.70,-0.17,6.00,-25.77,0.19",
+      "filename": "processed_7cd6f9bf169779caf8d096dc4e758d50.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

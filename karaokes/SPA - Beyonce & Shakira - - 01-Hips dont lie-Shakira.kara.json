@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - 01-Hips dont lie-Shakira.mp3",
+      "loudnorm": "-12.31,-0.05,5.60,-22.37,-0.77",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - 01-Hips dont lie-Shakira.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd96348e-d55f-4831-955e-aa08e1b4225c",
+    "title": "01-Hips dont lie-Shakira",
+    "titles": {
+      "spa": "01-Hips dont lie-Shakira"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:59:04.912Z",
+    "modified_at": "2022-11-03T12:59:05.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0bd23a7882a01e5810c737cd6d1da84e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5353472,
+      "gain": -6.13,
+      "duration": 222,
+      "loudnorm": "-12.31,-0.05,5.60,-22.37,-0.77",
+      "filename": "processed_55b32c0755e465043f10726b4b31aada.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

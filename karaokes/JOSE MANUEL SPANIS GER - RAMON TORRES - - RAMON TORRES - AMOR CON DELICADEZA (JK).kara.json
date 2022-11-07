@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - RAMON TORRES - - RAMON TORRES - AMOR CON DELICADEZA (JK).mp3",
+      "loudnorm": "-8.81,2.70,2.20,-18.89,0.07",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - RAMON TORRES - - RAMON TORRES - AMOR CON DELICADEZA (JK).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "43220eec-29e3-4a7b-8c1b-b1327df3814f",
+    "title": "RAMON TORRES - AMOR CON DELICADEZA (JK)",
+    "titles": {
+      "spa": "RAMON TORRES - AMOR CON DELICADEZA (JK)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d37a8535-2d7f-45fb-80a2-07791e67e106"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:18:17.117Z",
+    "modified_at": "2022-11-04T08:18:17.500Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f2df6c2c5de5e5234cf3a9313bd4bbef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3106703,
+      "gain": -7.83,
+      "duration": 194,
+      "loudnorm": "-8.81,2.70,2.20,-18.89,0.07",
+      "filename": "processed_89629d4ba0f5cce6fe6928704c1c0e27.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

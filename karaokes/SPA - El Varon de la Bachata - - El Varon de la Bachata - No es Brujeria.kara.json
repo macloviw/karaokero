@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Varon de la Bachata - - El Varon de la Bachata - No es Brujeria.mp3",
+      "loudnorm": "-10.12,3.07,2.00,-20.17,0.02",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Varon de la Bachata - - El Varon de la Bachata - No es Brujeria.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1cd1c0f1-f9d3-43c4-9ed9-0ea53ee498f2",
+    "title": "El Varon de la Bachata - No es Brujeria",
+    "titles": {
+      "spa": "El Varon de la Bachata - No es Brujeria"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "68e7f4cb-41a8-4b15-ab29-d6b5ff3ce778"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:31:41.728Z",
+    "modified_at": "2022-11-02T23:31:42.165Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4155975281dbd5cc61867ffbebfa8d23.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4007823,
+      "gain": -7.74,
+      "duration": 250,
+      "loudnorm": "-10.12,3.07,2.00,-20.17,0.02",
+      "filename": "processed_966d8660d1e222590dec4e2e712f1774.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

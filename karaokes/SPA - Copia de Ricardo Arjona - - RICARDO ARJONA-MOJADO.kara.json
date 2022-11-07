@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA-MOJADO.mp3",
+      "loudnorm": "-10.54,2.51,11.40,-21.12,-1.51",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA-MOJADO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0b14f2a-cc80-47e6-be5f-b5c25d28e621",
+    "title": "RICARDO ARJONA-MOJADO",
+    "titles": {
+      "spa": "RICARDO ARJONA-MOJADO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:06:01.296Z",
+    "modified_at": "2022-11-03T12:06:01.710Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_091b8a2e737b1a32afda9aa493f7ee33.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3779101,
+      "gain": -6.46,
+      "duration": 269,
+      "loudnorm": "-10.54,2.51,11.40,-21.12,-1.51",
+      "filename": "processed_358e2f25f4338091a0179602d4d87762.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

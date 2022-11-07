@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Belanova - - ROSA PASTEL.mp3",
+      "loudnorm": "-12.04,0.64,2.50,-22.22,-0.39",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Belanova - - ROSA PASTEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0f68d4e-11b4-4a67-8660-d1eb1bbcbf59",
+    "title": "ROSA PASTEL",
+    "titles": {
+      "spa": "ROSA PASTEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b710c5f7-17b4-402b-87cd-b3dc39e28688"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:13:41.168Z",
+    "modified_at": "2022-11-03T02:13:41.652Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_817ad31de2bfe3e5ca992c31f87fbb19.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4550625,
+      "gain": -5.04,
+      "duration": 189,
+      "loudnorm": "-12.04,0.64,2.50,-22.22,-0.39",
+      "filename": "processed_25634105f7b6da7f7e8ad9b7e875071c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

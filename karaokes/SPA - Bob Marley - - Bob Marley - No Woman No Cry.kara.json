@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bob Marley - - Bob Marley - No Woman No Cry.mp3",
+      "loudnorm": "-11.78,2.14,3.10,-21.97,-0.53",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bob Marley - - Bob Marley - No Woman No Cry.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65521316-dfca-4c6a-892b-96b2208707b0",
+    "title": "Bob Marley - No Woman No Cry",
+    "titles": {
+      "spa": "Bob Marley - No Woman No Cry"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b504938-4288-4375-9aa4-24fec0c197e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:23:32.810Z",
+    "modified_at": "2022-11-03T02:23:33.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0158b50b64f940844c3382e0d2f15cf1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4430881,
+      "gain": -5.5,
+      "duration": 276,
+      "loudnorm": "-11.78,2.14,3.10,-21.97,-0.53",
+      "filename": "processed_e5f216ed1f3b35720c59dcbffc2600e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

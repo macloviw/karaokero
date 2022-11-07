@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - High School Musical - - High School Musical - When There Was Me And You.mp3",
+      "loudnorm": "-8.29,4.03,10.00,-18.66,-1.84",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - High School Musical - - High School Musical - When There Was Me And You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed6e666a-5d74-4578-a62f-332c258d6b86",
+    "title": "High School Musical - When There Was Me And You",
+    "titles": {
+      "spa": "High School Musical - When There Was Me And You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c16b6be1-bc08-476d-9994-4d2e926bae7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:01:54.984Z",
+    "modified_at": "2022-11-04T01:01:55.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ef552131d8e7d23372ad821013d7f2e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3133646,
+      "gain": -9.11,
+      "duration": 195,
+      "loudnorm": "-8.29,4.03,10.00,-18.66,-1.84",
+      "filename": "processed_7f731b4d46dfb2e8d927c0f152b03b5c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

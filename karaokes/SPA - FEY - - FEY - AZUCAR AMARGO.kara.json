@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FEY - - FEY - AZUCAR AMARGO.MP3",
+      "loudnorm": "-17.80,-0.60,11.70,-28.24,-1.26",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FEY - - FEY - AZUCAR AMARGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5f1cb9a3-8e74-469d-90ef-8604ace2dc46",
+    "title": "FEY                                   -   AZUCAR AMARGO",
+    "titles": {
+      "spa": "FEY                                   -   AZUCAR AMARGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "79fd212c-9e96-4d03-a41f-9c5227a61509"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:21:02.965Z",
+    "modified_at": "2022-11-03T05:21:03.714Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4684036,
+      "gain": 3.61,
+      "duration": 292,
+      "loudnorm": "-17.80,-0.60,11.70,-28.24,-1.26",
+      "filename": "processed_57f492ed19b647eed5fcd3e22b16780b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4684036,
+      "gain": 3.61,
+      "duration": 292,
+      "loudnorm": "-17.80,-0.60,11.70,-28.24,-1.26",
+      "filename": "processed_a630112f2e3bcae30af5a8192ccd48eb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

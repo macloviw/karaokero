@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Annie Lennox - - Annie Lennox - No More I Love Yous.mp3",
+      "loudnorm": "-10.13,6.78,8.20,-20.26,-1.43",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Annie Lennox - - Annie Lennox - No More I Love Yous.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c51075b7-507b-4053-a66b-8e4759b36271",
+    "title": "Annie Lennox - No More I Love Yous",
+    "titles": {
+      "spa": "Annie Lennox - No More I Love Yous"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c3f3ed8d-7836-4072-ba5a-de08ffc58d40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:55:13.789Z",
+    "modified_at": "2022-11-03T23:55:14.171Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4dbd7d39d5157ef1ab0de70b84ac0d4b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4155235,
+      "gain": -8.35,
+      "duration": 259,
+      "loudnorm": "-10.13,6.78,8.20,-20.26,-1.43",
+      "filename": "processed_9404cf75ccfe0f3796b5ae8eaf141cab.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

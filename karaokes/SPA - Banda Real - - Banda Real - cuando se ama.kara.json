@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda Real - - Banda Real - cuando se ama.mp3",
+      "loudnorm": "-13.98,0.23,5.00,-24.02,-0.75",
+      "duration": 333,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda Real - - Banda Real - cuando se ama.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a64187af-0f52-41b1-b1c6-fb544652f36d",
+    "title": "Banda Real - cuando se ama",
+    "titles": {
+      "spa": "Banda Real - cuando se ama"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f3db8aa0-5e9e-4779-8c06-c659b6e0aff4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:36:49.996Z",
+    "modified_at": "2022-11-04T02:36:50.383Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ed9b922fcec61e602ffd7f3b06792b82.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5336819,
+      "gain": -4.13,
+      "duration": 333,
+      "loudnorm": "-13.98,0.23,5.00,-24.02,-0.75",
+      "filename": "processed_fa9ab257afa8460b0893afd5bbc891ee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

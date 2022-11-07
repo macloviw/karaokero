@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - ESTA TRISTEZA MIA.mp3",
+      "loudnorm": "-13.12,1.80,13.60,-23.76,1.07",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - ESTA TRISTEZA MIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0a87d38-978d-4086-84af-d6b139ef1361",
+    "title": "BANDA MACHOS - ESTA TRISTEZA MIA",
+    "titles": {
+      "spa": "BANDA MACHOS - ESTA TRISTEZA MIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:06:53.814Z",
+    "modified_at": "2022-11-03T02:06:54.245Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cd2d2a99b77ab8068b568044e7da02ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2310760,
+      "gain": -7.29,
+      "duration": 164,
+      "loudnorm": "-13.12,1.80,13.60,-23.76,1.07",
+      "filename": "processed_a8dc9a72843399658ae6fe675b3d3fc8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

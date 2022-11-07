@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gipsy King - - Gipsy Kings - Volare.mp3",
+      "loudnorm": "-6.64,9.81,6.30,-17.08,-1.47",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gipsy King - - Gipsy Kings - Volare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "edbfc537-ee9b-4aef-8602-8c726cae4c48",
+    "title": "Gipsy Kings - Volare",
+    "titles": {
+      "spa": "Gipsy Kings - Volare"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e3c5f9c1-054a-4e6e-99e4-61801423c982"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:19:30.744Z",
+    "modified_at": "2022-11-03T22:19:31.137Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_53881b5e4a65825e2a4cc03a0dee9c23.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5478702,
+      "gain": -9.45,
+      "duration": 228,
+      "loudnorm": "-6.64,9.81,6.30,-17.08,-1.47",
+      "filename": "processed_1099823a985af031593c4baa47a54d14.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

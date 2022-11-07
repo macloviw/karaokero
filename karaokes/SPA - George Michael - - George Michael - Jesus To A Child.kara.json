@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - George Michael - - George Michael - Jesus To A Child.mp3",
+      "loudnorm": "-7.42,11.68,3.60,-17.47,0.09",
+      "duration": 425,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - George Michael - - George Michael - Jesus To A Child.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6df8b335-2548-48a7-bb8f-74207908586b",
+    "title": "George Michael - Jesus To A Child",
+    "titles": {
+      "spa": "George Michael - Jesus To A Child"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3e248bac-31b5-4e16-9daa-c472e0d78fd0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:51:32.331Z",
+    "modified_at": "2022-11-04T00:51:32.727Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b2924515dd03f22799b069f033af4b8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6803005,
+      "gain": -9.48,
+      "duration": 425,
+      "loudnorm": "-7.42,11.68,3.60,-17.47,0.09",
+      "filename": "processed_3968b955b402d0b4c3f71292aa03751a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PROYECTO UNO - - PROYECTO UNO - MIL HORAS.MP3",
+      "loudnorm": "-16.32,-0.29,2.90,-26.39,-0.57",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PROYECTO UNO - - PROYECTO UNO - MIL HORAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "11d95733-0071-4fd7-a6dd-9c90a9c6549d",
+    "title": "PROYECTO UNO     -   MIL HORAS",
+    "titles": {
+      "spa": "PROYECTO UNO     -   MIL HORAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "98d952f1-2649-4ec6-a590-ed60e906dbaa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:55:59.429Z",
+    "modified_at": "2022-11-04T10:55:59.861Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3036023,
+      "gain": -2.7,
+      "duration": 189,
+      "loudnorm": "-16.32,-0.29,2.90,-26.39,-0.57",
+      "filename": "processed_09b987132db0481e48f87715d495b999.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3036023,
+      "gain": -2.7,
+      "duration": 189,
+      "loudnorm": "-16.32,-0.29,2.90,-26.39,-0.57",
+      "filename": "processed_ca6091194e43ee43c0f696885d24e872.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

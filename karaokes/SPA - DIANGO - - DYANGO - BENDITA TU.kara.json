@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DIANGO - - DYANGO - BENDITA TU.mp3",
+      "loudnorm": "-14.24,0.27,4.60,-24.41,-0.10",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DIANGO - - DYANGO - BENDITA TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a102c3b-626d-405a-a817-9eb11a6a2e26",
+    "title": "DYANGO - BENDITA TU",
+    "titles": {
+      "spa": "DYANGO - BENDITA TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1fb819a0-27aa-445b-a47f-ac4a1bb22285"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:09:07.892Z",
+    "modified_at": "2022-11-03T04:09:08.352Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_771b372e41d392f4610cfd5f695a08d8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6423292,
+      "gain": -2.39,
+      "duration": 267,
+      "loudnorm": "-14.24,0.27,4.60,-24.41,-0.10",
+      "filename": "processed_ed1950076197fd3690b25a2ef6f320bd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

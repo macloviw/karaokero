@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PIMPINELA - - Pimpinela - Solo Hay Un Ganador Pista.MP3",
+      "loudnorm": "-17.55,-2.14,13.80,-28.47,-1.48",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PIMPINELA - - Pimpinela - Solo Hay Un Ganador Pista.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1429370-bb23-4484-986f-a484352491e7",
+    "title": "Pimpinela - Solo Hay Un  Ganador Pista",
+    "titles": {
+      "spa": "Pimpinela - Solo Hay Un  Ganador Pista"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b2cd9cad-b4b4-4c56-bc1d-b3dc31d242f7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:11:26.015Z",
+    "modified_at": "2022-11-04T08:11:26.572Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4467243,
+      "gain": 1.06,
+      "duration": 279,
+      "loudnorm": "-17.55,-2.14,13.80,-28.47,-1.48",
+      "filename": "processed_a2c4651c9be440df17a1b89b228a6ac3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4467243,
+      "gain": 1.06,
+      "duration": 279,
+      "loudnorm": "-17.55,-2.14,13.80,-28.47,-1.48",
+      "filename": "processed_abf58b7c0f9b4ea1078f0fcdb5761bf7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

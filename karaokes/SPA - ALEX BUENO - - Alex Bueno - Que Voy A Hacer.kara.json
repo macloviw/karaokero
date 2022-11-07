@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno - Que Voy A Hacer.MP3",
+      "loudnorm": "-11.88,0.07,2.10,-21.92,-0.65",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno - Que Voy A Hacer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "739678d7-2702-4b1f-8f3f-1ce410fd5e04",
+    "title": "Alex Bueno - Que Voy A Hacer",
+    "titles": {
+      "spa": "Alex Bueno - Que Voy A Hacer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:02:53.988Z",
+    "modified_at": "2022-11-04T02:02:54.782Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10227712,
+      "gain": -5.63,
+      "duration": 255,
+      "loudnorm": "-11.88,0.07,2.10,-21.92,-0.65",
+      "filename": "processed_19da33dbc70a19163bb4742f84d183df.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10227712,
+      "gain": -5.63,
+      "duration": 255,
+      "loudnorm": "-11.88,0.07,2.10,-21.92,-0.65",
+      "filename": "processed_20df6a0e93908781da9f5f1c5818bea4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

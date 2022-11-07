@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Blas Duran - - Duran Duran - Notorious.mp3",
+      "loudnorm": "-17.40,-1.92,3.30,-27.46,-0.84",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Blas Duran - - Duran Duran - Notorious.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d228dc0-9e14-44a3-b451-3a1cb1080e36",
+    "title": "Duran Duran - Notorious",
+    "titles": {
+      "spa": "Duran Duran - Notorious"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3af94bd5-9b70-422c-a63b-2195a0bad3b3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:14:01.667Z",
+    "modified_at": "2022-11-03T16:14:02.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_07fdf470cdaacdbbf5de00ffadde3543.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4146669,
+      "gain": -0.57,
+      "duration": 259,
+      "loudnorm": "-17.40,-1.92,3.30,-27.46,-0.84",
+      "filename": "processed_5739b2bc76f96351d04963cbd2f1dd63.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

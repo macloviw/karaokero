@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - Anthony_Santos-_A_Donde_Estara.mp3",
+      "loudnorm": "-5.72,1.78,2.50,-15.82,0.10",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - Anthony_Santos-_A_Donde_Estara.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4af69035-a8ae-4d51-917a-9640853fa808",
+    "title": "Anthony_Santos-_A_Donde_Estara",
+    "titles": {
+      "spa": "Anthony_Santos-_A_Donde_Estara"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:49:36.267Z",
+    "modified_at": "2022-11-02T22:49:36.907Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_06bbb68a55fe0aafe47cf8b8b1e7934e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6115865,
+      "gain": -12.77,
+      "duration": 260,
+      "loudnorm": "-5.72,1.78,2.50,-15.82,0.10",
+      "filename": "processed_ad3b8b67a1fa8a70e1e92b891150264f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

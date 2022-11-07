@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - Negros - Buscando paz LP.mp3",
+      "loudnorm": "-8.11,9.27,5.60,-18.37,-0.68",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - Negros - Buscando paz LP.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e426bdf7-db12-43d7-ba23-30b7c42728b2",
+    "title": "Negros - Buscando paz LP",
+    "titles": {
+      "spa": "Negros - Buscando paz LP"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:49:32.274Z",
+    "modified_at": "2022-11-03T10:49:32.821Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_13af3d2903d468abbecee5bc95cc148e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4390964,
+      "gain": -9.1,
+      "duration": 274,
+      "loudnorm": "-8.11,9.27,5.60,-18.37,-0.68",
+      "filename": "processed_0d27e0c17cf16de39217d37b1b3fbbd3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

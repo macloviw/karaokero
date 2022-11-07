@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - PABLO MILANES - - Pablo Milanes - De Que Callada Manera.mp3",
+      "loudnorm": "-9.05,0.04,2.10,-19.12,0.10",
+      "duration": 130,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - PABLO MILANES - - Pablo Milanes - De Que Callada Manera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2bc78cc-935d-42e3-8e0e-9dad8db38f48",
+    "title": "Pablo Milanes - De Que Callada Manera",
+    "titles": {
+      "spa": "Pablo Milanes - De Que Callada Manera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "33165d6f-e28f-4736-8664-c4bb072f106d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:07:12.945Z",
+    "modified_at": "2022-11-04T08:07:13.316Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_30b3b252ead0e14b92080a7f34154c58.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3135213,
+      "gain": -9,
+      "duration": 130,
+      "loudnorm": "-9.05,0.04,2.10,-19.12,0.10",
+      "filename": "processed_72ce37d44680cf680592b077d0abeae1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

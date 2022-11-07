@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - El Eecuento De Los Danos.mp3",
+      "loudnorm": "-12.52,1.98,8.90,-22.71,-1.73",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - El Eecuento De Los Danos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2b0116c-987d-4947-b14b-e14659532ef1",
+    "title": "Gloria Trevi - El Eecuento De Los Daños",
+    "titles": {
+      "spa": "Gloria Trevi - El Eecuento De Los Daños"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:40:54.306Z",
+    "modified_at": "2022-11-03T05:40:54.749Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2de72a1656fe0ffe2cb9870ed7694727.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5794472,
+      "gain": -3.9,
+      "duration": 241,
+      "loudnorm": "-12.52,1.98,8.90,-22.71,-1.73",
+      "filename": "processed_0c49f91500d519bf7486fd7a6c83587c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JOE VERAS - - JOE VERAS - AFERRADO ARIS388-01.mp3",
+      "loudnorm": "-12.23,1.04,2.50,-22.42,-0.17",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JOE VERAS - - JOE VERAS - AFERRADO ARIS388-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb409ac2-a6fe-4f61-b74a-d5ac48398c2d",
+    "title": "JOE VERAS - AFERRADO ARIS388-01",
+    "titles": {
+      "spa": "JOE VERAS - AFERRADO ARIS388-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "143ea420-7bc8-4464-9680-87cbb5ebb183"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:53:30.807Z",
+    "modified_at": "2022-11-02T23:53:31.261Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a760f6b98593e11dae0476652c503e8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4329735,
+      "gain": -5.92,
+      "duration": 270,
+      "loudnorm": "-12.23,1.04,2.50,-22.42,-0.17",
+      "filename": "processed_9ffc53f15e7ce22ba8ab92d90341d903.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

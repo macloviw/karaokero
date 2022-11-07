@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura y Anthony Santos - Ciego de amor.mp3",
+      "loudnorm": "-7.13,5.96,3.70,-17.30,-0.48",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura y Anthony Santos - Ciego de amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c5b22c6d-df8f-411a-b68a-87d38f3a20e8",
+    "title": "Aventura y Anthony Santos - Ciego de amor",
+    "titles": {
+      "spa": "Aventura y Anthony Santos - Ciego de amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:18:13.198Z",
+    "modified_at": "2022-11-02T23:18:13.645Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_91ef4883508c73af9183804e3afb79e8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7612800,
+      "gain": -9.31,
+      "duration": 317,
+      "loudnorm": "-7.13,5.96,3.70,-17.30,-0.48",
+      "filename": "processed_bfec8f0f820839ffb889fa6d4e23a193.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

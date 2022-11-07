@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Billi Vera - - Billi Vera - At this moment.MP3",
+      "loudnorm": "-16.37,0.58,9.30,-26.77,-1.64",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Billi Vera - - Billi Vera - At this moment.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d75050e2-1583-471d-9623-fe767f7a0b20",
+    "title": "Billi Vera - At this moment",
+    "titles": {
+      "spa": "Billi Vera - At this moment"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "aec1ac8a-c4a9-463e-8dba-af5e496f9015"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:02:04.997Z",
+    "modified_at": "2022-11-04T00:02:05.428Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3310667,
+      "gain": -2.66,
+      "duration": 206,
+      "loudnorm": "-16.37,0.58,9.30,-26.77,-1.64",
+      "filename": "processed_d2cdc5c76db22a77c194f055adfa6e90.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3310667,
+      "gain": -2.66,
+      "duration": 206,
+      "loudnorm": "-16.37,0.58,9.30,-26.77,-1.64",
+      "filename": "processed_d730c56094ed4b03258dba6fa194a6e6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

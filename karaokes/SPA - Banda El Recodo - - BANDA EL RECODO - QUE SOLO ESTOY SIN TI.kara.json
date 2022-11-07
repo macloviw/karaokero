@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - QUE SOLO ESTOY SIN TI.mp3",
+      "loudnorm": "-16.03,-0.13,7.40,-26.60,-0.85",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Banda El Recodo - - BANDA EL RECODO - QUE SOLO ESTOY SIN TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "76f7dfae-2463-4f4b-a513-8ff38c49e206",
+    "title": "BANDA EL RECODO - QUE SOLO ESTOY SIN TI",
+    "titles": {
+      "spa": "BANDA EL RECODO - QUE SOLO ESTOY SIN TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "73a34916-c1bb-45bb-aa8a-c0d9520f308e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:05:38.564Z",
+    "modified_at": "2022-11-03T02:05:39.004Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_85a041ba47208b64931e3010e42a2e88.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5471114,
+      "gain": -2.06,
+      "duration": 227,
+      "loudnorm": "-16.03,-0.13,7.40,-26.60,-0.85",
+      "filename": "processed_2d6032935a0325cc2b3e31041bc928fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

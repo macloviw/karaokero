@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO MONTANER - - ALEJANDRO MONTANER-VOY A VOLVERTE LOCA.mp3",
+      "loudnorm": "-11.62,2.80,13.30,-22.21,-1.32",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO MONTANER - - ALEJANDRO MONTANER-VOY A VOLVERTE LOCA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd4244a0-2b53-4939-b3b3-75e977ed6a46",
+    "title": "ALEJANDRO MONTANER-VOY A VOLVERTE LOCA",
+    "titles": {
+      "spa": "ALEJANDRO MONTANER-VOY A VOLVERTE LOCA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "706b3f2d-49e3-4726-aa04-dc9e7cf4f92b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:01:15.231Z",
+    "modified_at": "2022-11-03T01:01:15.653Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f192a80cd419916a8adc169d2cb69e31.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3334760,
+      "gain": -6.47,
+      "duration": 238,
+      "loudnorm": "-11.62,2.80,13.30,-22.21,-1.32",
+      "filename": "processed_84007d9abf40af6ce4fc2ba89eb0c3b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Tona La Negra - - TONA LA NEGRA - CENIZAS (Smith K).mp3",
+      "loudnorm": "-14.11,0.12,7.30,-24.30,0.01",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Tona La Negra - - TONA LA NEGRA - CENIZAS (Smith K).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "feef0d01-85d3-45e0-944e-0383305093ba",
+    "title": "TOÑA LA NEGRA - CENIZAS (Smith K)",
+    "titles": {
+      "spa": "TOÑA LA NEGRA - CENIZAS (Smith K)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3da91e81-e33b-4dfe-ac94-99f4260fb3ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:41:26.891Z",
+    "modified_at": "2022-11-04T08:41:27.270Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_142771b899b01b64539623da2c3e9c67.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8323753,
+      "gain": -3.94,
+      "duration": 208,
+      "loudnorm": "-14.11,0.12,7.30,-24.30,0.01",
+      "filename": "processed_b339c1cea02c0d80d6cc09f4d89454e2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

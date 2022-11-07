@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Dionne Warwick - - Dionne Warwick - Anyone Who Had A Heart.MP3",
+      "loudnorm": "-9.27,1.39,1.80,-19.33,0.10",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Dionne Warwick - - Dionne Warwick - Anyone Who Had A Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d8ab76c-eecc-4c5e-b91a-33d6e26cf902",
+    "title": "Dionne Warwick - Anyone Who Had A Heart",
+    "titles": {
+      "spa": "Dionne Warwick - Anyone Who Had A Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "00e1498d-1ae7-4328-9c1f-7fb687921d44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:05:06.167Z",
+    "modified_at": "2022-11-03T16:05:06.740Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3104697,
+      "gain": -7.09,
+      "duration": 193,
+      "loudnorm": "-9.27,1.39,1.80,-19.33,0.10",
+      "filename": "processed_2e487d4f2aca1197daa45e0637b269f6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3104697,
+      "gain": -7.09,
+      "duration": 193,
+      "loudnorm": "-9.27,1.39,1.80,-19.33,0.10",
+      "filename": "processed_ae434ea18c1b1fb8170b5e6eeed1f584.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Carlos Santana - - Carlos Santana - Evil Way.MP3",
+      "loudnorm": "-17.22,-0.05,6.00,-27.40,-0.99",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Carlos Santana - - Carlos Santana - Evil Way.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da26eaf3-2935-46cc-a52e-7c6535cb0091",
+    "title": "Carlos Santana - Evil Way",
+    "titles": {
+      "spa": "Carlos Santana - Evil Way"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "90c3edd7-affb-4304-9246-5682e7c4f709"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:47:47.545Z",
+    "modified_at": "2022-11-03T21:47:48.135Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7601729,
+      "gain": -1.8,
+      "duration": 189,
+      "loudnorm": "-17.22,-0.05,6.00,-27.40,-0.99",
+      "filename": "processed_4b9f32c75ddefa61c5e1f168f58db4b5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7601729,
+      "gain": -1.8,
+      "duration": 189,
+      "loudnorm": "-17.22,-0.05,6.00,-27.40,-0.99",
+      "filename": "processed_27875167319d7522f2d640944092b192.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - PARA QUE ME QUIERAS COMO QUIERO.mp3",
+      "loudnorm": "-12.33,0.76,9.40,-22.66,-1.40",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - PARA QUE ME QUIERAS COMO QUIERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6bed7f0b-9138-458a-914b-604e4edf033b",
+    "title": "PARA QUE ME QUIERAS COMO QUIERO",
+    "titles": {
+      "spa": "PARA QUE ME QUIERAS COMO QUIERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:52:41.154Z",
+    "modified_at": "2022-11-03T11:52:41.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_31f502c088ae475faa976d4f5a8a4b22.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4000300,
+      "gain": -6.25,
+      "duration": 249,
+      "loudnorm": "-12.33,0.76,9.40,-22.66,-1.40",
+      "filename": "processed_91f1a8ec8c50afff3c686f914be951e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

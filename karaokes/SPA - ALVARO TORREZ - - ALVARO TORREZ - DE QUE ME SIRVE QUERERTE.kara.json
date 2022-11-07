@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - DE QUE ME SIRVE QUERERTE.MP3",
+      "loudnorm": "-12.74,-0.04,3.10,-22.94,-0.60",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALVARO TORREZ - - ALVARO TORREZ - DE QUE ME SIRVE QUERERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d1fdd854-db57-4a45-a0f0-e5f7fca081d7",
+    "title": "ALVARO TORREZ   -   DE QUE ME SIRVE QUERERTE",
+    "titles": {
+      "spa": "ALVARO TORREZ   -   DE QUE ME SIRVE QUERERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f0041111-b0f0-4aa9-ad5b-b854e26a4ceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:31:09.648Z",
+    "modified_at": "2022-11-03T01:31:10.149Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3759511,
+      "gain": -3.42,
+      "duration": 234,
+      "loudnorm": "-12.74,-0.04,3.10,-22.94,-0.60",
+      "filename": "processed_2abcc81e70a5099b30c8750694074372.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3759511,
+      "gain": -3.42,
+      "duration": 234,
+      "loudnorm": "-12.74,-0.04,3.10,-22.94,-0.60",
+      "filename": "processed_69d5786cf3c9d77391d9bea12e4d63e3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

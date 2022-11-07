@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DAVID LEE ROTH - - david lee roth-just like paradise.mp3",
+      "loudnorm": "-18.13,-1.86,3.50,-28.15,-0.86",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DAVID LEE ROTH - - david lee roth-just like paradise.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "275a8ca8-037f-4607-8822-67e6d7e62687",
+    "title": "david lee roth-just like paradise",
+    "titles": {
+      "spa": "david lee roth-just like paradise"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "5e9e81ea-5903-49ce-824f-0668808fe59c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:50:51.084Z",
+    "modified_at": "2022-11-03T15:50:51.604Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2d81e8a02d02becaeb375aefe3184647.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4076870,
+      "gain": -0.04,
+      "duration": 254,
+      "loudnorm": "-18.13,-1.86,3.50,-28.15,-0.86",
+      "filename": "processed_e6f5f40f0cd09f15060bafa092cd45d6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

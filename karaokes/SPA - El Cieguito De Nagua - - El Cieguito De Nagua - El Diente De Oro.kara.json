@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Cieguito De Nagua - - El Cieguito De Nagua - El Diente De Oro.mp3",
+      "loudnorm": "-9.41,7.05,2.60,-19.44,0.35",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Cieguito De Nagua - - El Cieguito De Nagua - El Diente De Oro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24ba1120-1246-4b44-aac0-bddfd1048adf",
+    "title": "El Cieguito De Nagua - El Diente De Oro",
+    "titles": {
+      "spa": "El Cieguito De Nagua - El Diente De Oro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9096e485-aabd-4494-8c81-91d712451174"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:06:26.275Z",
+    "modified_at": "2022-11-04T03:06:26.664Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a959a3133cc6860e85dce111df17b0f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5181537,
+      "gain": -8.96,
+      "duration": 323,
+      "loudnorm": "-9.41,7.05,2.60,-19.44,0.35",
+      "filename": "processed_20e66b5c987adbb14d0cc95ecf82563f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

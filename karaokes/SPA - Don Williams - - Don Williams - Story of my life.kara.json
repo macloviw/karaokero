@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Don Williams - - Don Williams - Story of my life.mp3",
+      "loudnorm": "-18.34,-0.26,1.70,-28.48,-0.18",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Don Williams - - Don Williams - Story of my life.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0fb5216-e6e4-4cf1-924b-555f6745099f",
+    "title": "Don Williams - Story of my life",
+    "titles": {
+      "spa": "Don Williams - Story of my life"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e8f4b449-9335-4b77-8c53-b442d80009f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:09:28.515Z",
+    "modified_at": "2022-11-03T16:09:28.972Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b1c44251ec6328e2b077cbd1c18af2fd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3091323,
+      "gain": 2.35,
+      "duration": 193,
+      "loudnorm": "-18.34,-0.26,1.70,-28.48,-0.18",
+      "filename": "processed_54ecda2de20b6894ecd8d4273cf7f5e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - El Ciego De Nagua - - El Ciego De Nagua - San Antonio.mp3",
+      "loudnorm": "-12.38,2.70,5.80,-22.42,-1.19",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - El Ciego De Nagua - - El Ciego De Nagua - San Antonio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb7cb80b-9c44-43d2-8f98-11ecb9f68948",
+    "title": "El Ciego De Nagua - San Antonio",
+    "titles": {
+      "spa": "El Ciego De Nagua - San Antonio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7bd70528-8442-4678-812d-041e952b1de5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:05:58.774Z",
+    "modified_at": "2022-11-04T03:05:59.161Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17820911b0b1fc1f5b35808219ea2d7f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5289414,
+      "gain": -3.98,
+      "duration": 296,
+      "loudnorm": "-12.38,2.70,5.80,-22.42,-1.19",
+      "filename": "processed_e4db5848a213da5d9a6d2c8790917b6a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - UNA NOCHE BY ALEJANDRO ZAN Y GOR.CDG.MP3",
+      "loudnorm": "-11.65,1.60,4.20,-21.82,-0.50",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - UNA NOCHE BY ALEJANDRO ZAN Y GOR.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69c8af0f-117f-4e53-8a76-3085fd6709be",
+    "title": "UNA NOCHE BY ALEJANDRO ZAN Y GOR.CDG",
+    "titles": {
+      "spa": "UNA NOCHE BY ALEJANDRO ZAN Y GOR.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:14:21.405Z",
+    "modified_at": "2022-11-03T01:14:22.046Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4055876,
+      "gain": -5.69,
+      "duration": 253,
+      "loudnorm": "-11.65,1.60,4.20,-21.82,-0.50",
+      "filename": "processed_ffb82283b98d74a876c606d865b7bc4d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4055876,
+      "gain": -5.69,
+      "duration": 253,
+      "loudnorm": "-11.65,1.60,4.20,-21.82,-0.50",
+      "filename": "processed_6dfc4a7570da98fc45cb9f2580f5c5e4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - Negros - En un solo dias.MP3",
+      "loudnorm": "-18.56,0.87,6.40,-28.68,-0.88",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - Negros - En un solo dias.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "550555a1-3821-4b32-88d4-62bca12c8187",
+    "title": "Negros - En un solo dias",
+    "titles": {
+      "spa": "Negros - En un solo dias"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:49:57.809Z",
+    "modified_at": "2022-11-03T10:49:58.543Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4217723,
+      "gain": 1.83,
+      "duration": 263,
+      "loudnorm": "-18.56,0.87,6.40,-28.68,-0.88",
+      "filename": "processed_da5cc0a8c42a900d1216a8090d0d8908.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4217723,
+      "gain": 1.83,
+      "duration": 263,
+      "loudnorm": "-18.56,0.87,6.40,-28.68,-0.88",
+      "filename": "processed_ff35341561f6d218ae0e372083b5d3e6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

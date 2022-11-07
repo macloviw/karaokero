@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - Mariana Mambo.mp3",
+      "loudnorm": "-9.24,1.82,2.70,-19.42,-1.03",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - Mariana Mambo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b12e0f35-ac0f-4f85-be10-85410f6e0479",
+    "title": "Mariana Mambo",
+    "titles": {
+      "spa": "Mariana Mambo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:55:04.564Z",
+    "modified_at": "2022-11-03T13:55:04.969Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93cf4ac6bfccb3fba09dcff627e4bb5b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3929747,
+      "gain": -8.16,
+      "duration": 245,
+      "loudnorm": "-9.24,1.82,2.70,-19.42,-1.03",
+      "filename": "processed_96ad06ccb85a8fbf36ffb0fae168e677.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

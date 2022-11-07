@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAPTAN AND NEIL - - Captain And Neal- Love will keep us together.MP3",
+      "loudnorm": "-15.20,0.21,4.00,-25.34,-0.68",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAPTAN AND NEIL - - Captain And Neal- Love will keep us together.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d755630-a3f8-4392-a772-71298e11ee3f",
+    "title": "Captain And Neal- Love will keep us together",
+    "titles": {
+      "spa": "Captain And Neal- Love will keep us together"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7b604519-99f5-4851-b9e3-abbdae93a03c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:12:27.197Z",
+    "modified_at": "2022-11-04T00:12:27.639Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3289306,
+      "gain": -2.79,
+      "duration": 205,
+      "loudnorm": "-15.20,0.21,4.00,-25.34,-0.68",
+      "filename": "processed_16c1229815bf56e3a43703bd1f6b5295.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3289306,
+      "gain": -2.79,
+      "duration": 205,
+      "loudnorm": "-15.20,0.21,4.00,-25.34,-0.68",
+      "filename": "processed_c31018c3c17362c7dd3bc97f6f57509f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

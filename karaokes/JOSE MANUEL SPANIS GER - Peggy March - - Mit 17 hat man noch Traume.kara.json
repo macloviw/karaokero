@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Peggy March - - Mit 17 hat man noch Traume.mp3",
+      "loudnorm": "-20.91,-7.14,5.00,-31.04,-0.84",
+      "duration": 167,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Peggy March - - Mit 17 hat man noch Traume.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e991b8e5-b14a-4b0d-8ac4-886488a6a709",
+    "title": "Mit 17 hat man noch Träume",
+    "titles": {
+      "spa": "Mit 17 hat man noch Träume"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "1acab63f-6a1f-4c17-95d5-67fa534fe7ad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:23:05.857Z",
+    "modified_at": "2022-11-04T11:23:06.232Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02185808dad36317e837aaa33b7272d0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4022183,
+      "gain": 2.73,
+      "duration": 167,
+      "loudnorm": "-20.91,-7.14,5.00,-31.04,-0.84",
+      "filename": "processed_634c763445b6f3c70bf24731ba767ef0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

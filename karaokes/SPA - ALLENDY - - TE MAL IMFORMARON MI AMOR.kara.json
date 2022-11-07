@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALLENDY - - TE MAL IMFORMARON MI AMOR.mp3",
+      "loudnorm": "-16.35,1.28,3.40,-26.50,0.71",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALLENDY - - TE MAL IMFORMARON MI AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "275a07dd-e62a-4609-b396-375c0a985aa5",
+    "title": "TE MAL IMFORMARON MI AMOR",
+    "titles": {
+      "spa": "TE MAL IMFORMARON MI AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "e0696246-03ec-4b4f-9163-32fa25365f78"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:02:20.552Z",
+    "modified_at": "2022-11-02T22:02:21.317Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1893c9db4f70c042c7592717de6d347a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4214713,
+      "gain": -1.9,
+      "duration": 263,
+      "loudnorm": "-16.35,1.28,3.40,-26.50,0.71",
+      "filename": "processed_26e9b647143a09c10b92e2a872082187.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

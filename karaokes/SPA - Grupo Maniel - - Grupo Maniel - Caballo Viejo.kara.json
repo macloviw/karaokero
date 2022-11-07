@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Grupo Maniel - - Grupo Maniel - Caballo Viejo.MP3",
+      "loudnorm": "-20.82,-0.72,4.10,-30.85,0.25",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Grupo Maniel - - Grupo Maniel - Caballo Viejo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "43c1ff26-e33f-429c-8516-10a3ebbf74a7",
+    "title": "Grupo Maniel - Caballo Viejo",
+    "titles": {
+      "spa": "Grupo Maniel - Caballo Viejo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2158f936-db9c-4ddf-ab8b-41932cae21c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:22:28.887Z",
+    "modified_at": "2022-11-03T22:22:29.481Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4288512,
+      "gain": 1.14,
+      "duration": 267,
+      "loudnorm": "-20.82,-0.72,4.10,-30.85,0.25",
+      "filename": "processed_3c33ee8070cab747db285e0946c37817.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4288512,
+      "gain": 1.14,
+      "duration": 267,
+      "loudnorm": "-20.82,-0.72,4.10,-30.85,0.25",
+      "filename": "processed_bf0cc5f310ef3eb52b3b3ff18dad034e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - CUANTO LAMENTO.mp3",
+      "loudnorm": "-15.08,-1.04,2.40,-25.11,-0.33",
+      "duration": 328,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - CUANTO LAMENTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e4c3e74-b32e-44de-a7dd-21a053de4b54",
+    "title": "ANTONY SANTOS - CUANTO LAMENTO",
+    "titles": {
+      "spa": "ANTONY SANTOS - CUANTO LAMENTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:59:21.773Z",
+    "modified_at": "2022-11-02T22:59:22.218Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e3b439ba0f208485b102dde5a632e7b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5260819,
+      "gain": -2.36,
+      "duration": 328,
+      "loudnorm": "-15.08,-1.04,2.40,-25.11,-0.33",
+      "filename": "processed_1f121822abd24f8dbc0ce8a829c3ceef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

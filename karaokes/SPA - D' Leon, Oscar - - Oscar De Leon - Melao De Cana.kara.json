@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - Melao De Cana.mp3",
+      "loudnorm": "-16.08,-0.85,3.30,-26.11,-0.41",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - D' Leon, Oscar - - Oscar De Leon - Melao De Cana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7134d869-5f3c-48e2-baba-835886cb955a",
+    "title": "Oscar De Leon - Melao De Caña",
+    "titles": {
+      "spa": "Oscar De Leon - Melao De Caña"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "89b5218d-f117-42ac-b1db-ce4941c75170"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:58:18.250Z",
+    "modified_at": "2022-11-04T02:58:18.632Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5bde5f5c2de2060ef4cd2c4293242e37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4159488,
+      "gain": -2.46,
+      "duration": 259,
+      "loudnorm": "-16.08,-0.85,3.30,-26.11,-0.41",
+      "filename": "processed_2843e07778c41868dd8a5abe50df3931.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alex Campos - - Alex Campos - Sueno de Morir.Con voz.mp3",
+      "loudnorm": "-14.11,0.25,13.80,-24.70,-2.17",
+      "duration": 346,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alex Campos - - Alex Campos - Sueno de Morir.Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e74cf428-135c-4c3d-abf6-d10356d5915f",
+    "title": "Alex Campos - Sueño de Morir.Con voz",
+    "titles": {
+      "spa": "Alex Campos - Sueño de Morir.Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d7a30161-674c-48e6-918f-8994db748b2c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:22:08.753Z",
+    "modified_at": "2022-11-04T02:22:09.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_883b19a9184318e49456f8f0c27be9e2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8325424,
+      "gain": -4.98,
+      "duration": 346,
+      "loudnorm": "-14.11,0.25,13.80,-24.70,-2.17",
+      "filename": "processed_934a9999b78b50b7ab3b40656771a3c8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

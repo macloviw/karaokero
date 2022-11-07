@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - POPURRI (2).mp3",
+      "loudnorm": "-8.80,9.50,3.60,-18.84,-0.17",
+      "duration": 521,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - POPURRI (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4cc61f77-c5d3-47e3-ba69-aa8ba4122c00",
+    "title": "ANTONY SANTOS - POPURRI (2)",
+    "titles": {
+      "spa": "ANTONY SANTOS - POPURRI (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:01:12.621Z",
+    "modified_at": "2022-11-02T23:01:13.051Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cbcdf0479f29332a072d23e9d954342f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7307564,
+      "gain": -11.27,
+      "duration": 521,
+      "loudnorm": "-8.80,9.50,3.60,-18.84,-0.17",
+      "filename": "processed_871b382eea4bb22afa7deb6ed4192b36.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

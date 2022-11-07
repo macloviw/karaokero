@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - ME GUSTAS MUCHO.mp3",
+      "loudnorm": "-16.97,-3.58,4.10,-27.11,-0.08",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - ROCIO DURCAL - ME GUSTAS MUCHO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c9b9b65e-1986-4859-86df-a29fef8f74a6",
+    "title": "ROCIO DURCAL - ME GUSTAS MUCHO",
+    "titles": {
+      "spa": "ROCIO DURCAL - ME GUSTAS MUCHO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:44:03.567Z",
+    "modified_at": "2022-11-03T12:44:03.978Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e46c60daeb4c11af6f182f059f4e6c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2806301,
+      "gain": -0.43,
+      "duration": 200,
+      "loudnorm": "-16.97,-3.58,4.10,-27.11,-0.08",
+      "filename": "processed_c8a4be8f5f9df987b6a17c3424d406a6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

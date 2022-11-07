@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - CON ELLA BY CRISTIAN CASTRO.MP3",
+      "loudnorm": "-9.85,2.29,8.80,-20.05,-1.79",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - CON ELLA BY CRISTIAN CASTRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "20ef9e5e-922f-472b-b8a0-3151eb31e6d5",
+    "title": "CON ELLA BY CRISTIAN CASTRO",
+    "titles": {
+      "spa": "CON ELLA BY CRISTIAN CASTRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:03:18.790Z",
+    "modified_at": "2022-11-03T14:03:19.494Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4722906,
+      "gain": -8.26,
+      "duration": 295,
+      "loudnorm": "-9.85,2.29,8.80,-20.05,-1.79",
+      "filename": "processed_680349f70fb08c96bf6ad3e4886a9202.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4722906,
+      "gain": -8.26,
+      "duration": 295,
+      "loudnorm": "-9.85,2.29,8.80,-20.05,-1.79",
+      "filename": "processed_71150763f8638fbc7ed17f2df54926e1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

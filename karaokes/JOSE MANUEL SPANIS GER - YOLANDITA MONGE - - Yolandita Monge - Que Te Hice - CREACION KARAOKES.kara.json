@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monge - Que Te Hice - CREACION KARAOKES.mp3",
+      "loudnorm": "-16.04,0.45,2.20,-26.21,-0.44",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - YOLANDITA MONGE - - Yolandita Monge - Que Te Hice - CREACION KARAOKES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4bafac6a-cfa9-4cf8-a850-902f8bbf3356",
+    "title": "Yolandita Monge - Que Te Hice  - CREACION KARAOKES",
+    "titles": {
+      "spa": "Yolandita Monge - Que Te Hice  - CREACION KARAOKES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:55:58.473Z",
+    "modified_at": "2022-11-04T08:55:58.857Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_76ac43a9368cf14b650dc2b1e5386b30.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2977219,
+      "gain": -0.14,
+      "duration": 185,
+      "loudnorm": "-16.04,0.45,2.20,-26.21,-0.44",
+      "filename": "processed_bcd8f41ef7bae79cf5fe074c12eccbb3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

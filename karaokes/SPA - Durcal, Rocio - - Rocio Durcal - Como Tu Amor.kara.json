@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Como Tu Amor.mp3",
+      "loudnorm": "-11.73,1.61,5.50,-22.04,-0.14",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Durcal, Rocio - - Rocio Durcal - Como Tu Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b37727b-bc40-4009-82db-65919f42e776",
+    "title": "Rocio Durcal - Como Tu Amor",
+    "titles": {
+      "spa": "Rocio Durcal - Como Tu Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c81e37c0-f6b7-4726-8c30-9eca8585d733"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:42:21.263Z",
+    "modified_at": "2022-11-03T12:42:21.666Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5079cc653781969d999a0895dd2961e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4041632,
+      "gain": -5.55,
+      "duration": 252,
+      "loudnorm": "-11.73,1.61,5.50,-22.04,-0.14",
+      "filename": "processed_9bbaca183d22944f1efb103fd572590c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Daniela Romo - - Daniela Romo - Si Dios me quita la vida.mp3",
+      "loudnorm": "-16.28,-1.23,4.00,-26.32,-0.71",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Daniela Romo - - Daniela Romo - Si Dios me quita la vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "393943d8-799e-438c-843f-368f5bdc7c18",
+    "title": "Daniela Romo - Si Dios me quita la vida",
+    "titles": {
+      "spa": "Daniela Romo - Si Dios me quita la vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c9055891-729e-44ce-bf42-3b359f73ae48"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:53:41.375Z",
+    "modified_at": "2022-11-03T03:53:41.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b82834fae87d5c28f0916f52b260bcca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3906760,
+      "gain": -2.07,
+      "duration": 244,
+      "loudnorm": "-16.28,-1.23,4.00,-26.32,-0.71",
+      "filename": "processed_eba09496abd90abdb9f89b9f6bb91e11.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos & Vakero - - VA - 05 - Juana La Cubana.mp3",
+      "loudnorm": "-11.60,0.37,2.20,-21.77,0.35",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos & Vakero - - VA - 05 - Juana La Cubana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9fd65383-72a2-4059-a0be-1b19ea558207",
+    "title": "VA - 05 - Juana La Cubana",
+    "titles": {
+      "spa": "VA - 05 - Juana La Cubana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bf66762f-69f7-4fd3-a45c-2bff7b2a272f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:33:02.424Z",
+    "modified_at": "2022-11-03T13:33:02.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_95490df8aa3c4943ab4fcf466704153c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4315645,
+      "gain": -6.08,
+      "duration": 179,
+      "loudnorm": "-11.60,0.37,2.20,-21.77,0.35",
+      "filename": "processed_8fab3f03143af55f68fa9d96f1ad0232.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

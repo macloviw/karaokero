@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BOBY CAPO - - BOBY CAPO - POQUITA FE.mp3",
+      "loudnorm": "-10.74,0.13,2.90,-20.85,0.08",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BOBY CAPO - - BOBY CAPO - POQUITA FE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e64e3f1d-7d5f-4b27-b2c4-294a304ed25a",
+    "title": "BOBY CAPO - POQUITA FE",
+    "titles": {
+      "spa": "BOBY CAPO - POQUITA FE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "626118a1-4e14-49a6-ac4d-994b522c4443"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:26:57.176Z",
+    "modified_at": "2022-11-03T02:26:57.699Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56aad710010a4135dbc2dacc47991280.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4136219,
+      "gain": -6.59,
+      "duration": 172,
+      "loudnorm": "-10.74,0.13,2.90,-20.85,0.08",
+      "filename": "processed_2409c9b1ca09e8be72dfefe2dc2d6d4e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

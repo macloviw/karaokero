@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EXITOS CUBANOS - - EXITOS CUBANOS - El Paralitico.mp3",
+      "loudnorm": "-16.72,-0.97,3.90,-26.77,-0.71",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EXITOS CUBANOS - - EXITOS CUBANOS - El Paralitico.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0658286-8251-4d7b-bd81-a74278b16962",
+    "title": "EXITOS CUBANOS - El Paralitico",
+    "titles": {
+      "spa": "EXITOS CUBANOS - El Paralitico"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1b2d6eab-7d8c-4f9f-9675-1331f00a7876"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:15:39.369Z",
+    "modified_at": "2022-11-04T03:15:39.751Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b9e8205a32a691338dd1d9bb6121206f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4969630,
+      "gain": -2.62,
+      "duration": 248,
+      "loudnorm": "-16.72,-0.97,3.90,-26.77,-0.71",
+      "filename": "processed_f9b08059c0097870eb20d4ad3531470e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Par de Ases - Jose Jos y Juan Gabriel - 03 Jos Jos - Amar y Querer.mp3",
+      "loudnorm": "-18.12,-0.15,8.30,-28.42,-0.94",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Par de Ases - Jose Jos y Juan Gabriel - 03 Jos Jos - Amar y Querer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b4542a0-1a71-4661-aef7-81bbe0bee95e",
+    "title": "Par de Ases - Jose Jos y Juan Gabriel - 03 Jos Jos - Amar y Querer",
+    "titles": {
+      "spa": "Par de Ases - Jose Jos y Juan Gabriel - 03 Jos Jos - Amar y Querer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:34:53.703Z",
+    "modified_at": "2022-11-03T07:34:54.108Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_88385ce0648ff85f4c57baa15d0d0c5f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5475987,
+      "gain": -0.52,
+      "duration": 228,
+      "loudnorm": "-18.12,-0.15,8.30,-28.42,-0.94",
+      "filename": "processed_9792541ac6dbc265e73e1f2307cd077a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

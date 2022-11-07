@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eric Clapton - - Eric Clapton - Tears In Heaven.mp3",
+      "loudnorm": "-8.10,7.22,4.00,-18.16,-0.97",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eric Clapton - - Eric Clapton - Tears In Heaven.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "039cc0ab-438a-4df4-ab82-bb52ee6abd4f",
+    "title": "Eric Clapton - Tears In Heaven",
+    "titles": {
+      "spa": "Eric Clapton - Tears In Heaven"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e9f768a3-0bd7-47ff-b061-0c8e9b51a7c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:36:34.195Z",
+    "modified_at": "2022-11-04T00:36:34.582Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_abce3c142be0bc45a475488334aa7424.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4535870,
+      "gain": -9.11,
+      "duration": 283,
+      "loudnorm": "-8.10,7.22,4.00,-18.16,-0.97",
+      "filename": "processed_f30f7ff03aa7710b94493ddd6aa35183.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danilo Montero - - rojo - eres todopoderoso.mp3",
+      "loudnorm": "-14.60,0.08,8.20,-24.74,-1.69",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danilo Montero - - rojo - eres todopoderoso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c51a0df-ef96-4f1e-9eb5-523e3b389a2b",
+    "title": "rojo - eres todopoderoso",
+    "titles": {
+      "spa": "rojo - eres todopoderoso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "79c9f3f8-00de-471a-b910-9289f5d5d29d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:08:11.517Z",
+    "modified_at": "2022-11-03T14:08:11.934Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1c75a0a989be39e5ff9c166da2b4b024.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3634250,
+      "gain": -4.13,
+      "duration": 226,
+      "loudnorm": "-14.60,0.08,8.20,-24.74,-1.69",
+      "filename": "processed_d11a782293404cc62c231b361cf0cc68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

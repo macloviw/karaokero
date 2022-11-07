@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BARRIO BOYZ - - BARRIO BOYZ - ERES ASI.mp3",
+      "loudnorm": "-14.41,-0.27,5.50,-24.51,-1.12",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BARRIO BOYZ - - BARRIO BOYZ - ERES ASI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fed7668-e991-48c5-beeb-b3da9a349072",
+    "title": "BARRIO BOYZ    -    ERES ASI",
+    "titles": {
+      "spa": "BARRIO BOYZ    -    ERES ASI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "586dd300-2479-4ae1-ae36-6adb87cc48d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:08:45.361Z",
+    "modified_at": "2022-11-03T02:08:45.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4c6d4d7f657ba1a5de466c7ba76a167a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5858420,
+      "gain": -2.07,
+      "duration": 243,
+      "loudnorm": "-14.41,-0.27,5.50,-24.51,-1.12",
+      "filename": "processed_eb23c8a261e2a458bbc5fa8346487841.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

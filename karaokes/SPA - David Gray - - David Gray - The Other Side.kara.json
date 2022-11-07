@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Gray - - David Gray - The Other Side.mp3",
+      "loudnorm": "-22.45,-2.02,6.70,-32.64,-0.92",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Gray - - David Gray - The Other Side.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "35793abc-06a3-496f-9a09-f2e6456d45f1",
+    "title": "David Gray - The Other Side",
+    "titles": {
+      "spa": "David Gray - The Other Side"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "518808d2-b388-40e0-9a77-39095405260c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:17:31.874Z",
+    "modified_at": "2022-11-04T00:17:32.265Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_83ab9fa5d27f1917e08b954804210f05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6638332,
+      "gain": 3.19,
+      "duration": 276,
+      "loudnorm": "-22.45,-2.02,6.70,-32.64,-0.92",
+      "filename": "processed_4d1778df617248802ba0302b7b44c1ef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

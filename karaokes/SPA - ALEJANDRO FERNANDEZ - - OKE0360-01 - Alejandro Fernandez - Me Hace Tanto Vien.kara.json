@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-01 - Alejandro Fernandez - Me Hace Tanto Vien.mp3",
+      "loudnorm": "-11.32,1.47,4.30,-21.42,-0.48",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO FERNANDEZ - - OKE0360-01 - Alejandro Fernandez - Me Hace Tanto Vien.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0889ec03-e824-4f38-808e-f904afc56215",
+    "title": "OKE0360-01 - Alejandro Fernandez - Me Hace Tanto Vien",
+    "titles": {
+      "spa": "OKE0360-01 - Alejandro Fernandez - Me Hace Tanto Vien"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "500b7f75-13f4-41b3-be1c-57df0fc01f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:56:18.533Z",
+    "modified_at": "2022-11-03T00:56:18.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44b7c076eb0ef232e364f2e6a688e24f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3879389,
+      "gain": -6.36,
+      "duration": 193,
+      "loudnorm": "-11.32,1.47,4.30,-21.42,-0.48",
+      "filename": "processed_6083872013e9c166065232916ee14acf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

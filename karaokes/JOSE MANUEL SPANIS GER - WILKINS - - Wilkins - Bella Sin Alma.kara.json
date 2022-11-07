@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - WILKINS - - Wilkins - Bella Sin Alma.mp3",
+      "loudnorm": "-17.91,1.43,13.00,-28.46,-2.60",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - WILKINS - - Wilkins - Bella Sin Alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c432e295-fc96-4459-9b6e-d42db68c1ab2",
+    "title": "Wilkins - Bella Sin Alma",
+    "titles": {
+      "spa": "Wilkins - Bella Sin Alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "052fcd66-33f2-458b-8dac-ac00286efc67"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:52:04.789Z",
+    "modified_at": "2022-11-04T08:52:05.179Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7c4bbc342713224779b3ab74eb094541.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4592214,
+      "gain": -0.25,
+      "duration": 286,
+      "loudnorm": "-17.91,1.43,13.00,-28.46,-2.60",
+      "filename": "processed_4f30feaa479d582263ec068d0f822a8a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

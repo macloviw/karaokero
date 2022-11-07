@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - psia - - Jerry vargas - ojitos mexicanos.mp3",
+      "loudnorm": "-10.88,3.17,5.00,-20.93,-1.06",
+      "duration": 351,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - psia - - Jerry vargas - ojitos mexicanos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa964809-ac8b-4f21-881b-e3b1851eb8bd",
+    "title": "Jerry vargas - ojitos mexicanos.",
+    "titles": {
+      "spa": "Jerry vargas - ojitos mexicanos."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b88ff313-19d8-4c0b-8836-c9098143c9a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:15:25.101Z",
+    "modified_at": "2022-11-04T08:15:25.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9bdd57e48387e61eac933863329f642a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5622064,
+      "gain": -9.6,
+      "duration": 351,
+      "loudnorm": "-10.88,3.17,5.00,-20.93,-1.06",
+      "filename": "processed_a0eb3bdc0a52b2c0930f3c0fc75a1d79.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

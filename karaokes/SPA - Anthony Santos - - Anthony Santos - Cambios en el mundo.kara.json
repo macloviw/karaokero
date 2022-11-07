@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Anthony Santos - - Anthony Santos - Cambios en el mundo.mp3",
+      "loudnorm": "-9.55,9.16,2.50,-19.58,-0.46",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Anthony Santos - - Anthony Santos - Cambios en el mundo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5dea6b61-10a4-49c4-80dd-781217b50da0",
+    "title": "Anthony Santos - Cambios en el mundo",
+    "titles": {
+      "spa": "Anthony Santos - Cambios en el mundo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "75746b0e-9a81-4cd3-a8f6-1d14f4ebd08b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:41:44.316Z",
+    "modified_at": "2022-11-02T20:41:44.771Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_be4eddc9577add513f0f92ab0bd94346.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7416099,
+      "gain": -8.33,
+      "duration": 308,
+      "loudnorm": "-9.55,9.16,2.50,-19.58,-0.46",
+      "filename": "processed_44d68498aa234f0781aaebe7d387d1b4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

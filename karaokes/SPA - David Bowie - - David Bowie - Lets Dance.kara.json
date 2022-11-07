@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - David Bowie - - David Bowie - Lets Dance.mp3",
+      "loudnorm": "-17.73,0.27,3.80,-27.80,-0.52",
+      "duration": 410,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - David Bowie - - David Bowie - Lets Dance.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a55283e5-1d22-46b5-9b6e-42c21718e424",
+    "title": "David Bowie - Lets Dance",
+    "titles": {
+      "spa": "David Bowie - Lets Dance"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "20a26dc2-c959-4ddc-8912-a1432f2923e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:48:43.418Z",
+    "modified_at": "2022-11-03T15:48:44.270Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8c3e5e4279a9bf35f45e58af1e0f1e34.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9843870,
+      "gain": -2.05,
+      "duration": 410,
+      "loudnorm": "-17.73,0.27,3.80,-27.80,-0.52",
+      "filename": "processed_37a5181143c6d4424bd533b0031dd57e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

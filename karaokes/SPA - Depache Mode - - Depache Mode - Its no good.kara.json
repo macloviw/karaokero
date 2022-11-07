@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Depache Mode - - Depache Mode - Its no good.mp3",
+      "loudnorm": "-22.56,-7.37,0.90,-32.59,-0.11",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Depache Mode - - Depache Mode - Its no good.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb5bef0a-7d10-4afc-9e6b-904979163e2e",
+    "title": "Depache Mode - Its no good",
+    "titles": {
+      "spa": "Depache Mode - Its no good"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "93cd5cda-a86a-4f3e-9f78-4745ecda30f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T15:54:08.637Z",
+    "modified_at": "2022-11-03T15:54:09.135Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7090639f25b0711ec7a3a7cf61c4ab5f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4185745,
+      "gain": 7.34,
+      "duration": 261,
+      "loudnorm": "-22.56,-7.37,0.90,-32.59,-0.11",
+      "filename": "processed_da0957e7b57988eb3eac5dd0b67c9f86.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

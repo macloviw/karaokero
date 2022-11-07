@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Big Brovaz - - Big Brovaz - Baby Boy.mp3",
+      "loudnorm": "-9.82,6.49,8.10,-20.02,-1.73",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Big Brovaz - - Big Brovaz - Baby Boy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "af63a265-97de-4f81-a6ee-a86ecfa25ccb",
+    "title": "Big Brovaz - Baby Boy",
+    "titles": {
+      "spa": "Big Brovaz - Baby Boy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3a6ce771-19d2-45d6-b1eb-57d27ab92675"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:01:15.195Z",
+    "modified_at": "2022-11-04T00:01:15.593Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_16900f081a1d00cd2c76f5808390f80b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4198528,
+      "gain": -8.18,
+      "duration": 262,
+      "loudnorm": "-9.82,6.49,8.10,-20.02,-1.73",
+      "filename": "processed_2b0d6e9d676169a8b6f427af0370baeb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

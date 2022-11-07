@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fausto Rey - - Fausto Rey - Yo Te Propongo.mp3",
+      "loudnorm": "-20.09,-3.88,3.70,-30.12,-0.42",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fausto Rey - - Fausto Rey - Yo Te Propongo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ffdec28d-78ac-4aa8-9b7b-f46820d30255",
+    "title": "Fausto Rey - Yo Te Propongo",
+    "titles": {
+      "spa": "Fausto Rey - Yo Te Propongo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7c2d7693-0c8d-4752-84f4-31b48ea72490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:15:39.116Z",
+    "modified_at": "2022-11-03T05:15:39.528Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_210243c900f0d6696ff025dfcdc04027.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4194315,
+      "gain": 3.83,
+      "duration": 261,
+      "loudnorm": "-20.09,-3.88,3.70,-30.12,-0.42",
+      "filename": "processed_356894271bba9e55b66021e4289f783c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 4-soy tuyo.mp3",
+      "loudnorm": "-17.91,-1.35,3.10,-27.98,-0.65",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FRANK REYES - - Frank Reyes - - 00 - 4-soy tuyo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "578b82e1-5af3-4fe5-8304-f13caa76a485",
+    "title": "Frank Reyes  -  - 00 - 4-soy tuyo",
+    "titles": {
+      "spa": "Frank Reyes  -  - 00 - 4-soy tuyo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:42:33.430Z",
+    "modified_at": "2022-11-02T23:42:33.850Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2dbce33fbab439b69e937e5450cc11bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5752573,
+      "gain": -1.51,
+      "duration": 239,
+      "loudnorm": "-17.91,-1.35,3.10,-27.98,-0.65",
+      "filename": "processed_9b56bfd6779544ea43c93b75b829ea05.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

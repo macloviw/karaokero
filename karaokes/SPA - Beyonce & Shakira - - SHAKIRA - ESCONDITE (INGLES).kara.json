@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beyonce & Shakira - - SHAKIRA - ESCONDITE (INGLES).mp3",
+      "loudnorm": "-7.87,4.40,3.50,-18.02,-1.02",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beyonce & Shakira - - SHAKIRA - ESCONDITE (INGLES).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "227c2590-10d7-4a31-9ad2-fae812fa8329",
+    "title": "SHAKIRA   -   ESCONDITE (INGLES)",
+    "titles": {
+      "spa": "SHAKIRA   -   ESCONDITE (INGLES)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa64f58a-d7b6-4bde-a323-5925f96a94bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:00:33.142Z",
+    "modified_at": "2022-11-03T13:00:33.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c55602fad6d070dcc172760500caf4cf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3242283,
+      "gain": -8.67,
+      "duration": 202,
+      "loudnorm": "-7.87,4.40,3.50,-18.02,-1.02",
+      "filename": "processed_6b2c8074e913b4f703e7ac31f37a8bfb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

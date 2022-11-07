@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX MATOS - - ALEX MATOS - UNA NOCHE NO ES BASTANTE.mp3",
+      "loudnorm": "-7.64,2.03,5.20,-17.80,-1.78",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX MATOS - - ALEX MATOS - UNA NOCHE NO ES BASTANTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e24e893e-ba17-4d1d-b2ec-a3e71a01f633",
+    "title": "ALEX MATOS   -   UNA NOCHE NO ES BASTANTE",
+    "titles": {
+      "spa": "ALEX MATOS   -   UNA NOCHE NO ES BASTANTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "5caf80fc-8c72-470b-af5a-70c274ca7c42"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:09:58.049Z",
+    "modified_at": "2022-11-04T02:09:58.437Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3b6d457d34bad9cccd093bec1a11d176.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6579400,
+      "gain": -11.12,
+      "duration": 274,
+      "loudnorm": "-7.64,2.03,5.20,-17.80,-1.78",
+      "filename": "processed_e24e4cb5496b8e0023b0da0b63528689.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

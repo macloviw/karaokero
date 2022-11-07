@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Aventura - - Aventura y Thalia - No no no.mp3",
+      "loudnorm": "-7.70,8.47,4.20,-17.86,-0.93",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Aventura - - Aventura y Thalia - No no no.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7a3407a1-6ec7-4fab-8ebc-83330c8c9c20",
+    "title": "Aventura y Thalía - No no no",
+    "titles": {
+      "spa": "Aventura y Thalía - No no no"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "7630c819-b103-4823-8ccd-3dd63e13c0df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:18:24.930Z",
+    "modified_at": "2022-11-02T23:18:25.376Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74a6ddb02bc28e26fc0321f12c3b4f6f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6215981,
+      "gain": -8.38,
+      "duration": 258,
+      "loudnorm": "-7.70,8.47,4.20,-17.86,-0.93",
+      "filename": "processed_7e5722721b59d20bd8c912ce2fd82db8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

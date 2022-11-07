@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - ME LLAMO RAQUEL.mp3",
+      "loudnorm": "-14.35,-0.33,4.40,-24.48,-0.61",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BANDA MACHOS - - BANDA MACHOS - ME LLAMO RAQUEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "86d3184a-a037-4d8b-a4a7-fd8ed6820cf8",
+    "title": "BANDA MACHOS - ME LLAMO RAQUEL",
+    "titles": {
+      "spa": "BANDA MACHOS - ME LLAMO RAQUEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:07:50.671Z",
+    "modified_at": "2022-11-03T02:07:51.091Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2bb115e20c26b38ba5e2ac0a021230a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2474964,
+      "gain": -4.52,
+      "duration": 176,
+      "loudnorm": "-14.35,-0.33,4.40,-24.48,-0.61",
+      "filename": "processed_05528dad32604e400dd5368dee2677c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

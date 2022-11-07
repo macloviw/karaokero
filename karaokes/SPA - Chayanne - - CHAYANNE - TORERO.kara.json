@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - CHAYANNE - TORERO.MP3",
+      "loudnorm": "-12.25,0.77,3.20,-22.32,-0.77",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - CHAYANNE - TORERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0f8d1de5-cd72-47a7-a3c4-fcc3263f5323",
+    "title": "CHAYANNE - TORERO",
+    "titles": {
+      "spa": "CHAYANNE - TORERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:20:10.802Z",
+    "modified_at": "2022-11-03T03:20:11.373Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3551367,
+      "gain": -4.3,
+      "duration": 221,
+      "loudnorm": "-12.25,0.77,3.20,-22.32,-0.77",
+      "filename": "processed_21c3186958e716b0e0698007fb3889db.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3551367,
+      "gain": -4.3,
+      "duration": 221,
+      "loudnorm": "-12.25,0.77,3.20,-22.32,-0.77",
+      "filename": "processed_9f4baa77ad5370934ee29bd0e77c4fae.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

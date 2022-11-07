@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Backstreet Boys - - Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3",
+      "loudnorm": "-9.11,6.60,10.00,-19.32,-1.67",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Backstreet Boys - - Backstreet Boys - Show Me The Meaning Of Being Lonely.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a4a9a82-d7f3-43f5-95cf-b1ce4c2e2f6e",
+    "title": "Backstreet Boys - Show Me The Meaning Of Being Lonely",
+    "titles": {
+      "spa": "Backstreet Boys - Show Me The Meaning Of Being Lonely"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2ed19d75-95b4-48f1-b362-51c355212d7b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:50:53.064Z",
+    "modified_at": "2022-11-03T14:50:53.488Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a355272a261fe6730c3815b67954252.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4046983,
+      "gain": -9.57,
+      "duration": 252,
+      "loudnorm": "-9.11,6.60,10.00,-19.32,-1.67",
+      "filename": "processed_08496b8e6257136652f93764a2052d30.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CHARLIE ZAA - - Charlie Zaa - Celos Sin Motivo.mp3",
+      "loudnorm": "-16.65,-2.96,2.20,-26.69,-0.20",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CHARLIE ZAA - - Charlie Zaa - Celos Sin Motivo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5467ff22-d24c-470c-88c6-1d2771fee8df",
+    "title": "Charlie Zaa - Celos Sin Motivo",
+    "titles": {
+      "spa": "Charlie Zaa - Celos Sin Motivo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "855d460b-03c9-4d8e-99f3-9f9938bca5f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:11:37.183Z",
+    "modified_at": "2022-11-03T03:11:37.587Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_35326647609a1d8c75eef5f1370bf4c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3170188,
+      "gain": -1.01,
+      "duration": 198,
+      "loudnorm": "-16.65,-2.96,2.20,-26.69,-0.20",
+      "filename": "processed_299c0e706e21b6c78d8a19828031b33d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

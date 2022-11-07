@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ELAX UBAGO - - ELAX UBAGO - DOS HOMBRES UN DESTINO.MP3",
+      "loudnorm": "-16.71,0.70,5.70,-26.90,-0.81",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ELAX UBAGO - - ELAX UBAGO - DOS HOMBRES UN DESTINO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "38e17349-d957-4dab-ae00-3ff023b7b046",
+    "title": "ELAX UBAGO   -   DOS HOMBRES UN DESTINO",
+    "titles": {
+      "spa": "ELAX UBAGO   -   DOS HOMBRES UN DESTINO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "089401eb-04f4-4c35-80b5-4674b1874d57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:05:40.931Z",
+    "modified_at": "2022-11-03T22:05:41.598Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3716590,
+      "gain": -1.12,
+      "duration": 232,
+      "loudnorm": "-16.71,0.70,5.70,-26.90,-0.81",
+      "filename": "processed_973470e683ba59351cb964517406c5d2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3716590,
+      "gain": -1.12,
+      "duration": 232,
+      "loudnorm": "-16.71,0.70,5.70,-26.90,-0.81",
+      "filename": "processed_97a50364fe7361c05cf02f1f02e9b7d8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

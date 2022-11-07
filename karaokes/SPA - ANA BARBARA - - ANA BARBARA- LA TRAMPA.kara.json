@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANA BARBARA - - ANA BARBARA- LA TRAMPA.mp3",
+      "loudnorm": "-16.26,1.53,5.90,-26.35,-1.18",
+      "duration": 199,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANA BARBARA - - ANA BARBARA- LA TRAMPA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2ece367-8ee4-49ad-bebe-6529977eb48e",
+    "title": "ANA BARBARA- LA TRAMPA",
+    "titles": {
+      "spa": "ANA BARBARA- LA TRAMPA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3fa72ba-27c9-42eb-8aad-c0bfb0a48d9b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:36:58.907Z",
+    "modified_at": "2022-11-03T01:36:59.330Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bcf5f07e098a61dd0289e49f4fa59aab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2788017,
+      "gain": -2.02,
+      "duration": 199,
+      "loudnorm": "-16.26,1.53,5.90,-26.35,-1.18",
+      "filename": "processed_b0ad2fbb6563c98cfb0a73d9ee47f1e7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

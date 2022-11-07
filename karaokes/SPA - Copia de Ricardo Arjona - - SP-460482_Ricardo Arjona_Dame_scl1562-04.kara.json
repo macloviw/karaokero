@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - SP-460482_Ricardo Arjona_Dame_scl1562-04.mp3",
+      "loudnorm": "-14.37,0.61,12.60,-24.82,-1.50",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - SP-460482_Ricardo Arjona_Dame_scl1562-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8951f071-0065-45a6-a385-69908938424a",
+    "title": "SP-460482_Ricardo Arjona_Dame_scl1562-04",
+    "titles": {
+      "spa": "SP-460482_Ricardo Arjona_Dame_scl1562-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:08:39.397Z",
+    "modified_at": "2022-11-03T12:08:39.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a16317231f998b9443fe7c01b49b30da.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3829898,
+      "gain": -5.13,
+      "duration": 239,
+      "loudnorm": "-14.37,0.61,12.60,-24.82,-1.50",
+      "filename": "processed_c3de4b3d2614fb9ca1653c0e7c249125.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

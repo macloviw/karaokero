@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alice cooper - - Alice cooper - No more mr nice.mp3",
+      "loudnorm": "-18.48,-2.87,4.80,-28.57,-0.43",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alice cooper - - Alice cooper - No more mr nice.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c7d5ac2-ac0f-4492-8562-f8bb93094ba3",
+    "title": "Alice cooper - No more mr nice",
+    "titles": {
+      "spa": "Alice cooper - No more mr nice"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec88b378-a7b0-49a6-b299-26e343d9b1ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:41:32.692Z",
+    "modified_at": "2022-11-03T14:41:33.156Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bace7994272a73b0ed553d2e1eca89fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2949924,
+      "gain": 0.8,
+      "duration": 184,
+      "loudnorm": "-18.48,-2.87,4.80,-28.57,-0.43",
+      "filename": "processed_4aca3f1dd59bee9d68c0154647c0b62c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

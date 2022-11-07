@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Danny Berrios - - Danny Berrios - Para el Rey.mp3",
+      "loudnorm": "-16.22,0.61,8.60,-26.34,-1.65",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Danny Berrios - - Danny Berrios - Para el Rey.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "67f0c48a-19a9-481a-baee-d8c684fb1bd7",
+    "title": "Danny Berrios - Para el Rey",
+    "titles": {
+      "spa": "Danny Berrios - Para el Rey"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "463aadbc-7139-4f06-a1cf-2847f5d755e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:10:04.130Z",
+    "modified_at": "2022-11-03T14:10:04.553Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8213ab32d0da881f41a92d92cd1f8f81.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3936854,
+      "gain": -2.58,
+      "duration": 245,
+      "loudnorm": "-16.22,0.61,8.60,-26.34,-1.65",
+      "filename": "processed_416dda24fe442e8b4509dd05b2eefe51.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

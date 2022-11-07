@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - MANANA MANANA.MP3",
+      "loudnorm": "-6.31,2.23,1.60,-16.39,-0.30",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIAN CASTRO - - CRISTIAN CASTRO - MANANA MANANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87c7ae45-beff-45cf-89bc-51fbd781f90f",
+    "title": "CRISTIAN CASTRO   -   MAÑANA MAÑANA",
+    "titles": {
+      "spa": "CRISTIAN CASTRO   -   MAÑANA MAÑANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6a77d3c6-b41d-4bf7-8d65-1d800b5c6ad7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:42:02.854Z",
+    "modified_at": "2022-11-03T03:42:03.455Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9262072,
+      "gain": -9.48,
+      "duration": 231,
+      "loudnorm": "-6.31,2.23,1.60,-16.39,-0.30",
+      "filename": "processed_2e33ce4bd00b4e5a8774201d6f1dc148.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9262072,
+      "gain": -9.48,
+      "duration": 231,
+      "loudnorm": "-6.31,2.23,1.60,-16.39,-0.30",
+      "filename": "processed_16dd68b61590ac1a189dd58cfb339c78.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

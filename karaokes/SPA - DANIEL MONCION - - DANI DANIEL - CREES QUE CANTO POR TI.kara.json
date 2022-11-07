@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL MONCION - - DANI DANIEL - CREES QUE CANTO POR TI.MP3",
+      "loudnorm": "-13.94,0.43,5.50,-24.07,-0.97",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL MONCION - - DANI DANIEL - CREES QUE CANTO POR TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c39a2b61-6546-4d10-a023-f1ea8a7c7c38",
+    "title": "DANI DANIEL   -   CREES QUE CANTO POR TI",
+    "titles": {
+      "spa": "DANI DANIEL   -   CREES QUE CANTO POR TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6d2c353e-1fcd-4416-b486-522558ad22d9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:48:29.179Z",
+    "modified_at": "2022-11-03T03:48:29.787Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4243507,
+      "gain": -3.29,
+      "duration": 265,
+      "loudnorm": "-13.94,0.43,5.50,-24.07,-0.97",
+      "filename": "processed_e6bef6ea06ae9a58becf81f43090f1f8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4243507,
+      "gain": -3.29,
+      "duration": 265,
+      "loudnorm": "-13.94,0.43,5.50,-24.07,-0.97",
+      "filename": "processed_8c64aa7cf4d26087cd2592668f0ed14c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

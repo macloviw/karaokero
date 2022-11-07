@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Que Voy Hacer Sin El.mp3",
+      "loudnorm": "-11.53,1.27,11.60,-22.10,-0.99",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Que Voy Hacer Sin El.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bcad32cd-5429-4a65-868e-e9a866cf6c59",
+    "title": "Gloria Trevi - Que Voy Hacer Sin El",
+    "titles": {
+      "spa": "Gloria Trevi - Que Voy Hacer Sin El"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:43:16.128Z",
+    "modified_at": "2022-11-03T05:43:16.575Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_15b615cdc278dfe9113b49513d1d81c4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4966286,
+      "gain": -5.17,
+      "duration": 206,
+      "loudnorm": "-11.53,1.27,11.60,-22.10,-0.99",
+      "filename": "processed_51b1b7590778114aeb25e53aa1fbc39a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

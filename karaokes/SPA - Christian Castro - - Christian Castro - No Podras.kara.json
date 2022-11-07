@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Christian Castro - - Christian Castro - No Podras.mp3",
+      "loudnorm": "-5.45,4.23,2.40,-15.52,-0.41",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Christian Castro - - Christian Castro - No Podras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9affcb44-e6ad-4fb3-869a-f5f15f80e689",
+    "title": "Christian Castro - No Podras",
+    "titles": {
+      "spa": "Christian Castro - No Podras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27dd2042-d853-49be-87b4-70122a2b96b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:28:40.630Z",
+    "modified_at": "2022-11-03T03:28:41.070Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_af2df2bc060456c139e456da85131ac9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3820031,
+      "gain": -9.4,
+      "duration": 238,
+      "loudnorm": "-5.45,4.23,2.40,-15.52,-0.41",
+      "filename": "processed_d7855c4f1c73b46fb10ebc59f524775a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

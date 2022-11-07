@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - AMOR POR TI.MP3",
+      "loudnorm": "-11.57,1.99,4.70,-21.65,-0.06",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANGELES NEGROS - - ANGELES NEGROS - AMOR POR TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db56734e-5eaa-4b05-b3d8-09472245b3e5",
+    "title": "ANGELES NEGROS   -   AMOR POR TI",
+    "titles": {
+      "spa": "ANGELES NEGROS   -   AMOR POR TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bfa031e7-bdf8-45b5-a097-873142ada1c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:26:15.883Z",
+    "modified_at": "2022-11-04T02:26:16.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3319398,
+      "gain": -5.82,
+      "duration": 207,
+      "loudnorm": "-11.57,1.99,4.70,-21.65,-0.06",
+      "filename": "processed_7367529f4cba48e2352ab77f105eb767.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3319398,
+      "gain": -5.82,
+      "duration": 207,
+      "loudnorm": "-11.57,1.99,4.70,-21.65,-0.06",
+      "filename": "processed_80584ce96256f4a873985447479b90d8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

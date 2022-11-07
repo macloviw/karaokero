@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Tu carcel.mp3",
+      "loudnorm": "-8.16,4.67,2.80,-18.23,-0.25",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENANITOS VERDES - - Enanitos Verdes - Tu carcel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "319c1038-c8b4-4df8-bee0-2f0bcba04e7c",
+    "title": "Enanitos Verdes - Tu carcel",
+    "titles": {
+      "spa": "Enanitos Verdes - Tu carcel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f775bb39-fa77-4b5d-9e20-26b682de4daa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:49:23.791Z",
+    "modified_at": "2022-11-03T04:49:24.202Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_89b5051c38c7fbfb400767aff7a0535e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3595800,
+      "gain": -9.55,
+      "duration": 224,
+      "loudnorm": "-8.16,4.67,2.80,-18.23,-0.25",
+      "filename": "processed_411c69b34e60b40c6216e6e9d2e0bf38.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

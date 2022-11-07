@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-LAS MISMAS COSTRUMBRES.mp3",
+      "loudnorm": "-10.67,2.89,4.90,-21.10,-1.01",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - JENNI RIVERA-LAS MISMAS COSTRUMBRES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "386210ac-c871-4d3d-8bde-1148fe66fa66",
+    "title": "JENNI RIVERA-LAS MISMAS COSTRUMBRES",
+    "titles": {
+      "spa": "JENNI RIVERA-LAS MISMAS COSTRUMBRES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:00.362Z",
+    "modified_at": "2022-11-03T06:16:00.778Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_99c138adce82249c2ab9ed3a0d14898e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3153731,
+      "gain": -6.66,
+      "duration": 225,
+      "loudnorm": "-10.67,2.89,4.90,-21.10,-1.01",
+      "filename": "processed_4876ae6193875183416b6e68bf049f8a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

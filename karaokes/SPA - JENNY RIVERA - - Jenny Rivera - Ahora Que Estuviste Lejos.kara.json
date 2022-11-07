@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JENNY RIVERA - - Jenny Rivera - Ahora Que Estuviste Lejos.mp3",
+      "loudnorm": "-14.72,0.26,6.20,-25.16,0.28",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JENNY RIVERA - - Jenny Rivera - Ahora Que Estuviste Lejos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "512fdba8-cb79-4d9d-b325-10da0e788282",
+    "title": "Jenny Rivera - Ahora Que Estuviste Lejos",
+    "titles": {
+      "spa": "Jenny Rivera - Ahora Que Estuviste Lejos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "18ec3fe3-71ee-46f5-80ca-532ae38000c1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:16:41.487Z",
+    "modified_at": "2022-11-03T06:16:41.909Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6d3c1c8bc2075a81064a563f55c0d0a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5317372,
+      "gain": -4.01,
+      "duration": 221,
+      "loudnorm": "-14.72,0.26,6.20,-25.16,0.28",
+      "filename": "processed_04eb7b8eecb5f9c1a04b2e31d2ccc435.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

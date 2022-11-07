@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Saturday nights alright.MP3",
+      "loudnorm": "-13.28,0.03,2.10,-23.46,-0.21",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Saturday nights alright.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe7d434c-e2e4-4fc5-90c4-b59b5ec70853",
+    "title": "Elton John - Saturday nights alright",
+    "titles": {
+      "spa": "Elton John - Saturday nights alright"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:28:40.714Z",
+    "modified_at": "2022-11-04T00:28:41.291Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4762195,
+      "gain": -5.51,
+      "duration": 297,
+      "loudnorm": "-13.28,0.03,2.10,-23.46,-0.21",
+      "filename": "processed_f7cbd2dfd43e6dc8bd9ffdc53dd87049.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4762195,
+      "gain": -5.51,
+      "duration": 297,
+      "loudnorm": "-13.28,0.03,2.10,-23.46,-0.21",
+      "filename": "processed_78ca7612dd388d7884309c579d127d9e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

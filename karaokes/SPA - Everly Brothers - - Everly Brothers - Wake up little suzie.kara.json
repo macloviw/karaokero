@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Everly Brothers - - Everly Brothers - Wake up little suzie.mp3",
+      "loudnorm": "-13.21,1.16,5.20,-23.56,-0.82",
+      "duration": 128,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Everly Brothers - - Everly Brothers - Wake up little suzie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0fbac53-879c-43e8-bd75-a759adfe704f",
+    "title": "Everly Brothers - Wake up little suzie",
+    "titles": {
+      "spa": "Everly Brothers - Wake up little suzie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "24be17c3-6efb-4400-bd13-4884aba29fdf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:38:59.951Z",
+    "modified_at": "2022-11-04T00:39:00.331Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c9b4eb878cec7383afcc41b1945161d1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2058963,
+      "gain": -4.15,
+      "duration": 128,
+      "loudnorm": "-13.21,1.16,5.20,-23.56,-0.82",
+      "filename": "processed_18a73e81c6837d949169b8cebae72831.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

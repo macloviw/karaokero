@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - TE CONOZCO2.mp3",
+      "loudnorm": "-17.93,-0.87,13.50,-28.43,-1.15",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Copia de Ricardo Arjona - - RICARDO ARJONA - TE CONOZCO2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d8178535-204c-402c-b4a7-46c7d10a50f7",
+    "title": "RICARDO ARJONA - TE CONOZCO2",
+    "titles": {
+      "spa": "RICARDO ARJONA - TE CONOZCO2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d10d2d59-ff1e-48f8-b304-152d3d0f7375"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:04:09.863Z",
+    "modified_at": "2022-11-03T12:04:10.267Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ec5397705c20628fc16cd9d615c360b5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1024723,
+      "gain": -1.92,
+      "duration": 255,
+      "loudnorm": "-17.93,-0.87,13.50,-28.43,-1.15",
+      "filename": "processed_240ce2b4d1cc596447be7f84f640027f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - SP-460647_Enrique Iglesias_Nunca Te Olvidare_scl2235-01.mp3",
+      "loudnorm": "-13.75,0.13,5.90,-23.88,-1.13",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - SP-460647_Enrique Iglesias_Nunca Te Olvidare_scl2235-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d52231f-cef4-4428-a3cf-790232882c62",
+    "title": "SP-460647_Enrique Iglesias_Nunca Te Olvidare_scl2235-01",
+    "titles": {
+      "spa": "SP-460647_Enrique Iglesias_Nunca Te Olvidare_scl2235-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:06:05.481Z",
+    "modified_at": "2022-11-03T05:06:05.898Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e48648dee4c379f19fa9b51aa65db40.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4450442,
+      "gain": -4.09,
+      "duration": 278,
+      "loudnorm": "-13.75,0.13,5.90,-23.88,-1.13",
+      "filename": "processed_ea724b58f3cd3ac40b45ac340a9eb26f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - Alex Bueno - Jardin Prohibido (con coros).mp3",
+      "loudnorm": "-13.42,1.93,3.30,-23.48,-1.02",
+      "duration": 336,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - Alex Bueno - Jardin Prohibido (con coros).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2a79a1ed-63d6-485b-99c2-e1e50679c44a",
+    "title": "Alex Bueno - Jardin Prohibido (con coros)",
+    "titles": {
+      "spa": "Alex Bueno - Jardin Prohibido (con coros)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:19:19.156Z",
+    "modified_at": "2022-11-04T02:19:19.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5c61a835c86b713d3ff99561275b3511.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4714780,
+      "gain": -3.8,
+      "duration": 336,
+      "loudnorm": "-13.42,1.93,3.30,-23.48,-1.02",
+      "filename": "processed_236220475d8a5facf2b4cba94020f168.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

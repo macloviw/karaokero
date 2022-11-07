@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - HOY NO ESTOY PARA NADIE.mp3",
+      "loudnorm": "-7.45,7.40,10.20,-17.98,-1.49",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CAMBOY ESTEVEZ - - CAMBOY ESTEVEZ - HOY NO ESTOY PARA NADIE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "956ec570-1951-4177-999e-717ffe8a0e11",
+    "title": "CAMBOY ESTEVEZ   -   HOY NO ESTOY PARA NADIE",
+    "titles": {
+      "spa": "CAMBOY ESTEVEZ   -   HOY NO ESTOY PARA NADIE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e1cc707-0a71-4f3c-a38d-c9dd3dcc7268"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:39:13.262Z",
+    "modified_at": "2022-11-03T02:39:13.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_29814fa050dde050bed60d3039d487f1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2752144,
+      "gain": -9.33,
+      "duration": 171,
+      "loudnorm": "-7.45,7.40,10.20,-17.98,-1.49",
+      "filename": "processed_c91aed9216754c69d5fdb5dbd5a97fd6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

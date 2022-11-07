@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ - PERRO AJENO.mp3",
+      "loudnorm": "-15.32,0.55,4.10,-25.39,-0.98",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel & Rubby Perez - - RUBY PEREZ - PERRO AJENO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "86dd7fce-faee-4458-a604-e6bea94e381d",
+    "title": "RUBY PEREZ   -   PERRO AJENO",
+    "titles": {
+      "spa": "RUBY PEREZ   -   PERRO AJENO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "8d79ccf7-4508-4538-b5c8-4be333150e5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:00:09.154Z",
+    "modified_at": "2022-11-04T11:00:09.551Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4cf64874320866d182ff3258c8d4627c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6503540,
+      "gain": -4.04,
+      "duration": 270,
+      "loudnorm": "-15.32,0.55,4.10,-25.39,-0.98",
+      "filename": "processed_f579f9ad70173fbe97d9964596b9e382.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

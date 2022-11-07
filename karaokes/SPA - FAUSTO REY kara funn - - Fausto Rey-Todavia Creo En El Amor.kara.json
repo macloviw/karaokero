@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - FAUSTO REY kara funn - - Fausto Rey-Todavia Creo En El Amor.mp3",
+      "loudnorm": "-6.99,8.54,4.60,-17.03,-0.77",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - FAUSTO REY kara funn - - Fausto Rey-Todavia Creo En El Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae175e85-26c5-45fe-b2da-75f922546b49",
+    "title": "Fausto Rey-Todavia Creo En El Amor",
+    "titles": {
+      "spa": "Fausto Rey-Todavia Creo En El Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d15379a4-fa39-41cc-9354-a04aad771e37"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:16:43.568Z",
+    "modified_at": "2022-11-03T05:16:43.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21e0cf2ce0b127f8d832deca2bb5bf37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3651174,
+      "gain": -10.56,
+      "duration": 228,
+      "loudnorm": "-6.99,8.54,4.60,-17.03,-0.77",
+      "filename": "processed_7b87145d863240795668afd6c0658708.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

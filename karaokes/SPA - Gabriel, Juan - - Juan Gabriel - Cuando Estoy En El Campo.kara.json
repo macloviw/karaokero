@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Cuando Estoy En El Campo.MP3",
+      "loudnorm": "-14.85,0.07,2.00,-24.94,0.02",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gabriel, Juan - - Juan Gabriel - Cuando Estoy En El Campo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b5b6331-6613-43f5-b46c-1d3c3156e514",
+    "title": "Juan Gabriel - Cuando Estoy En El Campo",
+    "titles": {
+      "spa": "Juan Gabriel - Cuando Estoy En El Campo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "aa9513d1-bf2c-4478-8b3a-43f0b6febceb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:45:43.230Z",
+    "modified_at": "2022-11-03T07:45:43.839Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7527959,
+      "gain": -3.16,
+      "duration": 235,
+      "loudnorm": "-14.85,0.07,2.00,-24.94,0.02",
+      "filename": "processed_9f29cf8c326d53bffb0f0664e6896c47.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7527959,
+      "gain": -3.16,
+      "duration": 235,
+      "loudnorm": "-14.85,0.07,2.00,-24.94,0.02",
+      "filename": "processed_e019d7a136b89dc6a0178acb0a38f0a4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

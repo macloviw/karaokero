@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Beach Boys - - Beach Boys - 409.mp3",
+      "loudnorm": "-12.55,4.93,4.00,-22.76,-1.16",
+      "duration": 135,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Beach Boys - - Beach Boys - 409.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e39f04bc-27b6-4f4e-851f-1959a857dccd",
+    "title": "Beach Boys - 409",
+    "titles": {
+      "spa": "Beach Boys - 409"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4c0fe59a-5d2a-4fac-ba35-6c72e706f691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:59:03.376Z",
+    "modified_at": "2022-11-03T23:59:03.760Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47d2a1f2ccd57633a900b334d9b66c9a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2161987,
+      "gain": -5.27,
+      "duration": 135,
+      "loudnorm": "-12.55,4.93,4.00,-22.76,-1.16",
+      "filename": "processed_8c32576f68d8ca7df7cd557647f9ef9b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

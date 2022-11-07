@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DANIEL SANTOS - - BAJO UN PALMAR.mp3",
+      "loudnorm": "-14.56,0.43,1.70,-24.63,0.08",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DANIEL SANTOS - - BAJO UN PALMAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "379ea0bd-0bd9-4304-9576-d0b5073de09b",
+    "title": "BAJO UN PALMAR",
+    "titles": {
+      "spa": "BAJO UN PALMAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a7f5db32-849e-4766-b5f8-6e3b888a5952"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:59:51.006Z",
+    "modified_at": "2022-11-03T21:59:51.395Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b791c1b1ff83434a1718cb04e0ba6bc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2907337,
+      "gain": -1.19,
+      "duration": 181,
+      "loudnorm": "-14.56,0.43,1.70,-24.63,0.08",
+      "filename": "processed_e8b00c234dcaf24fa97be5d957b1df57.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

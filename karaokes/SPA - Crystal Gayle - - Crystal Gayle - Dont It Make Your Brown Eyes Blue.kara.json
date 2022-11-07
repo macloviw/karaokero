@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Crystal Gayle - - Crystal Gayle - Dont It Make Your Brown Eyes Blue.mp3",
+      "loudnorm": "-17.50,-3.10,4.10,-27.74,-0.78",
+      "duration": 167,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Crystal Gayle - - Crystal Gayle - Dont It Make Your Brown Eyes Blue.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ccee6cdf-3e69-4fda-bd99-0df992fed344",
+    "title": "Crystal Gayle - Dont It Make Your Brown Eyes Blue",
+    "titles": {
+      "spa": "Crystal Gayle - Dont It Make Your Brown Eyes Blue"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4794f3f9-fb75-4ac5-877e-5f91a82bd2d6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:15:54.163Z",
+    "modified_at": "2022-11-04T00:15:54.536Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_505b1664226f799177d6efc89947eb52.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3361096,
+      "gain": -0.18,
+      "duration": 167,
+      "loudnorm": "-17.50,-3.10,4.10,-27.74,-0.78",
+      "filename": "processed_089bfe8d30dc810d24f2bdfabc4dce81.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

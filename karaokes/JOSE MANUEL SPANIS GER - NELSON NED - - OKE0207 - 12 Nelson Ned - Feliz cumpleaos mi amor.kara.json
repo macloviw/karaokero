@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - NELSON NED - - OKE0207 - 12 Nelson Ned - Feliz cumpleaos mi amor.mp3",
+      "loudnorm": "-11.30,1.13,3.80,-21.48,0.18",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - NELSON NED - - OKE0207 - 12 Nelson Ned - Feliz cumpleaos mi amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b773c2cc-b019-462e-89d8-ce5a9aa87053",
+    "title": "OKE0207 - 12 Nelson Ned - Feliz cumpleaos mi amor",
+    "titles": {
+      "spa": "OKE0207 - 12 Nelson Ned - Feliz cumpleaos mi amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8b8f7b9f-1b15-4543-b0c8-99f48e096f56"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:38:39.978Z",
+    "modified_at": "2022-11-04T07:38:40.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5cb81fb713c7fa062ea49dbde2c1161.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6403230,
+      "gain": -4.75,
+      "duration": 266,
+      "loudnorm": "-11.30,1.13,3.80,-21.48,0.18",
+      "filename": "processed_3429f229b773e5d8e0bd52d72d320cc8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

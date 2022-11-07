@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRA GUZMAN - - ALEJANDRA GUZMAN-VERANO PELIGROSO.mp3",
+      "loudnorm": "-12.87,1.05,5.10,-23.09,-1.15",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRA GUZMAN - - ALEJANDRA GUZMAN-VERANO PELIGROSO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a4321ad8-b8e7-4af2-a08b-854299c9239e",
+    "title": "ALEJANDRA GUZMAN-VERANO PELIGROSO",
+    "titles": {
+      "spa": "ALEJANDRA GUZMAN-VERANO PELIGROSO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc01c9d1-b8f2-4ea8-96f6-9a431dcc9b02"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:36:55.434Z",
+    "modified_at": "2022-11-03T00:36:55.845Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_76c2eaa4fd54e45926057dfba0a037c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2704268,
+      "gain": -5.8,
+      "duration": 193,
+      "loudnorm": "-12.87,1.05,5.10,-23.09,-1.15",
+      "filename": "processed_2b41b66a260bc002358e7794d804a50d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

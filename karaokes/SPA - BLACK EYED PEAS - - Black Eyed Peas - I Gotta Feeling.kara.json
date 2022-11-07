@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - I Gotta Feeling.mp3",
+      "loudnorm": "-11.37,1.02,6.50,-21.39,-1.33",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BLACK EYED PEAS - - Black Eyed Peas - I Gotta Feeling.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3734b23d-b561-4116-9e6f-7d0559f63684",
+    "title": "Black Eyed Peas - I Gotta Feeling",
+    "titles": {
+      "spa": "Black Eyed Peas - I Gotta Feeling"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "14d79f2a-121f-4b24-92fb-855e4780ea80"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:32:04.588Z",
+    "modified_at": "2022-11-03T23:32:04.977Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72aafdbdf9a09a2f00339bb0edf44f26.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7015122,
+      "gain": -5.61,
+      "duration": 292,
+      "loudnorm": "-11.37,1.02,6.50,-21.39,-1.33",
+      "filename": "processed_3206332667db0d998658e2b129669865.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

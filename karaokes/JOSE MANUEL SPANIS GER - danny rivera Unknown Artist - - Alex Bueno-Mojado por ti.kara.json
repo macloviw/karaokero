@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Alex Bueno-Mojado por ti.mp3",
+      "loudnorm": "-5.99,11.76,1.70,-16.02,-0.24",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - danny rivera Unknown Artist - - Alex Bueno-Mojado por ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf10ca11-939c-444e-b56f-11b01fbd1cb8",
+    "title": "Alex Bueno-Mojado por ti",
+    "titles": {
+      "spa": "Alex Bueno-Mojado por ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "80cb9618-abba-407e-b761-441e47f921bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:20:07.111Z",
+    "modified_at": "2022-11-04T11:20:07.491Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_efd90445a3668597d414e81765ef8399.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3584214,
+      "gain": -11.47,
+      "duration": 223,
+      "loudnorm": "-5.99,11.76,1.70,-16.02,-0.24",
+      "filename": "processed_12420eb8de11daa57915ce96f9ee602e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

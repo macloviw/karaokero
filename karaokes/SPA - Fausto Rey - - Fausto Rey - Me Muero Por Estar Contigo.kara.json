@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Fausto Rey - - Fausto Rey - Me Muero Por Estar Contigo.mp3",
+      "loudnorm": "-20.10,-4.41,3.50,-30.27,-0.14",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Fausto Rey - - Fausto Rey - Me Muero Por Estar Contigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b5176b86-9025-41c0-ab84-7e024aa3ef3c",
+    "title": "Fausto Rey - Me Muero Por Estar Contigo",
+    "titles": {
+      "spa": "Fausto Rey - Me Muero Por Estar Contigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7c2d7693-0c8d-4752-84f4-31b48ea72490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:14:46.745Z",
+    "modified_at": "2022-11-03T05:14:47.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7da1fa20c4abd9b9d1cd42af15daffe3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5076209,
+      "gain": 4.66,
+      "duration": 317,
+      "loudnorm": "-20.10,-4.41,3.50,-30.27,-0.14",
+      "filename": "processed_ddf66510cd1697ac3068961e8eb54f95.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

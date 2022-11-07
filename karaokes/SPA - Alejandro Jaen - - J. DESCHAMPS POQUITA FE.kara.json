@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Alejandro Jaen - - J. DESCHAMPS POQUITA FE.mp3",
+      "loudnorm": "-12.91,1.88,1.60,-23.02,0.10",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Alejandro Jaen - - J. DESCHAMPS POQUITA FE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5639a0b9-3f0a-4a14-8766-5f6d7eb1ff60",
+    "title": "J. DESCHAMPS POQUITA FE",
+    "titles": {
+      "spa": "J. DESCHAMPS POQUITA FE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e4c64010-3124-46c9-b585-ed319edec6bf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:56:17.947Z",
+    "modified_at": "2022-11-03T05:56:18.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_40a09f017efc98c764a73a65bce1f992.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3564871,
+      "gain": -3.36,
+      "duration": 222,
+      "loudnorm": "-12.91,1.88,1.60,-23.02,0.10",
+      "filename": "processed_646df4845c568c56b64b7b33238c5223.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Prince Royce - - Prince Royce - Corazon Sin Cara Remix.mp3",
+      "loudnorm": "-14.94,0.04,7.50,-25.14,-0.69",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Prince Royce - - Prince Royce - Corazon Sin Cara Remix.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a2cbdd73-94f6-463d-a1b2-8cc36baf0c7f",
+    "title": "Prince Royce - Corazon Sin Cara Remix",
+    "titles": {
+      "spa": "Prince Royce - Corazon Sin Cara Remix"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "eb9d7e1d-64de-4cb0-98a4-b79b2eef9d5d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:14:14.933Z",
+    "modified_at": "2022-11-04T08:14:15.321Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_66f72c1c5f8d6c733b1eb625235d0662.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3890043,
+      "gain": -1.5,
+      "duration": 243,
+      "loudnorm": "-14.94,0.04,7.50,-25.14,-0.69",
+      "filename": "processed_8c5338ebeea328734f8596bdbf8b496b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Emmanuel - - Emmanuel - Por Que Te Vas.mp3",
+      "loudnorm": "-12.86,0.64,2.50,-22.95,-0.06",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Emmanuel - - Emmanuel - Por Que Te Vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb23c7d2-bf77-44a0-a751-300882c3c328",
+    "title": "Emmanuel - Por Que Te Vas",
+    "titles": {
+      "spa": "Emmanuel - Por Que Te Vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "08c0bae9-c804-4ee1-9fb9-8eba06be2ed5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:43:41.674Z",
+    "modified_at": "2022-11-03T04:43:42.109Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6a02a1b8663c11d106389eb37cc0ba9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5855360,
+      "gain": -3.98,
+      "duration": 243,
+      "loudnorm": "-12.86,0.64,2.50,-22.95,-0.06",
+      "filename": "processed_a28de51ba118061bb2e903b0ffcf574e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

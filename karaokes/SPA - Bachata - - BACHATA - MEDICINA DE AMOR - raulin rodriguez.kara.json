@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Bachata - - BACHATA - MEDICINA DE AMOR - raulin rodriguez.mp3",
+      "loudnorm": "-21.08,-2.73,2.10,-31.20,0.26",
+      "duration": 394,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Bachata - - BACHATA - MEDICINA DE AMOR - raulin rodriguez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c97c25a3-5d00-433e-9309-bc6612d3b50c",
+    "title": "BACHATA - MEDICINA DE AMOR - raulin rodriguez",
+    "titles": {
+      "spa": "BACHATA - MEDICINA DE AMOR - raulin rodriguez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:19:16.060Z",
+    "modified_at": "2022-11-02T23:19:16.481Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_be368fb0cabb2830e8327cc0316d5ff2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9460810,
+      "gain": 4.23,
+      "duration": 394,
+      "loudnorm": "-21.08,-2.73,2.10,-31.20,0.26",
+      "filename": "processed_7cd92e5c0fda4ed2054e071c11e07f1e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

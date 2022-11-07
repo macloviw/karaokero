@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michel El Buenon - - MICHEL-CUANDO LOS ZAPOS.mp3",
+      "loudnorm": "-8.84,3.99,7.60,-19.10,-1.70",
+      "duration": 314,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michel El Buenon - - MICHEL-CUANDO LOS ZAPOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5561b08c-07ab-43b7-9983-80f67745d4f2",
+    "title": "MICHEL-CUANDO LOS ZAPOS",
+    "titles": {
+      "spa": "MICHEL-CUANDO LOS ZAPOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae49c221-cde7-478c-bdb6-236af246cc9a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:18:56.947Z",
+    "modified_at": "2022-11-04T07:18:57.322Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6b4f9fef205d6da83aa2809ff436a084.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4411421,
+      "gain": -11.15,
+      "duration": 314,
+      "loudnorm": "-8.84,3.99,7.60,-19.10,-1.70",
+      "filename": "processed_703267d34f52301fa3fd319fc2d6f272.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

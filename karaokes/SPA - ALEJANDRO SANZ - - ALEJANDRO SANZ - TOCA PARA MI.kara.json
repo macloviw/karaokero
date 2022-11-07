@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - TOCA PARA MI.mp3",
+      "loudnorm": "-8.88,7.62,8.60,-19.00,-1.69",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEJANDRO SANZ - - ALEJANDRO SANZ - TOCA PARA MI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65f400e7-a6a0-4c61-91f0-352763792990",
+    "title": "ALEJANDRO SANZ   -   TOCA PARA MI",
+    "titles": {
+      "spa": "ALEJANDRO SANZ   -   TOCA PARA MI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3cf80d4f-c9b4-4fe8-bdc3-6e7ae8f3fab8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T01:05:51.176Z",
+    "modified_at": "2022-11-03T01:05:51.605Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3525ff750414ba4bc93d41f70ec91b9e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4142985,
+      "gain": -9.54,
+      "duration": 258,
+      "loudnorm": "-8.88,7.62,8.60,-19.00,-1.69",
+      "filename": "processed_3ae6239ad7581c0549908c2a64caf305.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

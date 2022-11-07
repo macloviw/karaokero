@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - CRISTIANOS - - (Cristiana) - Caminare.mp3",
+      "loudnorm": "-13.81,1.18,3.40,-23.86,0.38",
+      "duration": 108,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - CRISTIANOS - - (Cristiana) - Caminare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2af93451-d757-4029-9955-21029a7aac9e",
+    "title": "(Cristiana) - Caminare",
+    "titles": {
+      "spa": "(Cristiana) - Caminare"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:53:45.799Z",
+    "modified_at": "2022-11-04T02:53:46.179Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d2402e3165bd05b7ad1656bf69c6943.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2597084,
+      "gain": -3.6,
+      "duration": 108,
+      "loudnorm": "-13.81,1.18,3.40,-23.86,0.38",
+      "filename": "processed_bf02af6caa5f9924ddea16a5827a692d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

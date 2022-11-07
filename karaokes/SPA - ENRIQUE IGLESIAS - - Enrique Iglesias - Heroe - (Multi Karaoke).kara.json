@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Heroe - (Multi Karaoke).mp3",
+      "loudnorm": "-8.72,4.74,10.20,-19.04,-1.90",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE IGLESIAS - - Enrique Iglesias - Heroe - (Multi Karaoke).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7657e72-2f93-4b3a-a902-9fff44cfc2a9",
+    "title": "Enrique Iglesias - Heroe - (Multi Karaoke)",
+    "titles": {
+      "spa": "Enrique Iglesias - Heroe - (Multi Karaoke)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f7b39c84-fe99-4698-bd8e-c59f73bab57f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:03:48.638Z",
+    "modified_at": "2022-11-03T05:03:49.065Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4216a497f3f81c6d2843b02be98cc709.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4136872,
+      "gain": -8.83,
+      "duration": 258,
+      "loudnorm": "-8.72,4.74,10.20,-19.04,-1.90",
+      "filename": "processed_09d3100ae869052b94ba6076579307a5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

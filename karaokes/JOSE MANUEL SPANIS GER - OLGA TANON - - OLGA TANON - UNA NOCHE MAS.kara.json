@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - OLGA TANON - UNA NOCHE MAS.MP3",
+      "loudnorm": "-13.14,1.38,2.80,-23.16,-0.19",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OLGA TANON - - OLGA TANON - UNA NOCHE MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0149352e-18d3-4faf-a5a6-a193e213a7f8",
+    "title": "OLGA TAÑON   -   UNA NOCHE MAS",
+    "titles": {
+      "spa": "OLGA TAÑON   -   UNA NOCHE MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "8abbde97-cb0b-4c2a-9574-14022714476e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:53:45.289Z",
+    "modified_at": "2022-11-04T07:53:46.195Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4914750,
+      "gain": -5.57,
+      "duration": 307,
+      "loudnorm": "-13.14,1.38,2.80,-23.16,-0.19",
+      "filename": "processed_623644c46c4d941d6ac3a6b627532e1d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4914750,
+      "gain": -5.57,
+      "duration": 307,
+      "loudnorm": "-13.14,1.38,2.80,-23.16,-0.19",
+      "filename": "processed_57bea39a03f7b24cbd4d61664a4aeb7c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - Povo enamorado- Jose Jose.mp3",
+      "loudnorm": "-14.27,-0.52,13.50,-24.90,-0.57",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - Povo enamorado- Jose Jose.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "536e27c1-2570-4e84-bbbb-51cf3f47bb16",
+    "title": "Povo enamorado- Jose Jose",
+    "titles": {
+      "spa": "Povo enamorado- Jose Jose"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:12:21.586Z",
+    "modified_at": "2022-11-03T07:12:21.991Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1392ae6fd6624b4c192b713f1188d1bc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5346838,
+      "gain": -4.92,
+      "duration": 222,
+      "loudnorm": "-14.27,-0.52,13.50,-24.90,-0.57",
+      "filename": "processed_02c7e4a46fd25fbd0156a7e0397313a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

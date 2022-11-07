@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - EMILIO JOSE - - 08 - Jose Jose - Cuando vayas conmigo.mp3",
+      "loudnorm": "-14.32,0.84,13.60,-25.02,-1.61",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - EMILIO JOSE - - 08 - Jose Jose - Cuando vayas conmigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "07c311ff-443e-4e86-9eed-27854598a3d2",
+    "title": "08 - Jose Jose - Cuando vayas conmigo",
+    "titles": {
+      "spa": "08 - Jose Jose - Cuando vayas conmigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c599039a-0282-45db-b773-86dba0390616"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:43:11.597Z",
+    "modified_at": "2022-11-03T06:43:12.010Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ab52ff0a08000b33e347454a7ccbc65d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5783187,
+      "gain": -3.78,
+      "duration": 240,
+      "loudnorm": "-14.32,0.84,13.60,-25.02,-1.61",
+      "filename": "processed_213463c3ce6690b75eb7357ee4f1ea77.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - LO QUE VQ HACER PARA UNO (J).mp3",
+      "loudnorm": "-12.82,0.87,4.10,-22.87,-0.24",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - DARIO GOMEZ - - DARIO GOMEZ - LO QUE VQ HACER PARA UNO (J).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8153bc01-eec8-4941-8f77-04d1986734a2",
+    "title": "DARIO GOMEZ - LO QUE VQ HACER PARA UNO (J)",
+    "titles": {
+      "spa": "DARIO GOMEZ - LO QUE VQ HACER PARA UNO (J)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "30f995c4-e87e-46b7-8757-b11396fe40d4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T04:02:09.085Z",
+    "modified_at": "2022-11-03T04:02:09.500Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90d977b821130d492785ef9514fa0767.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5342449,
+      "gain": -5.74,
+      "duration": 222,
+      "loudnorm": "-12.82,0.87,4.10,-22.87,-0.24",
+      "filename": "processed_de5476044885392bbcd455331a9d4ec0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

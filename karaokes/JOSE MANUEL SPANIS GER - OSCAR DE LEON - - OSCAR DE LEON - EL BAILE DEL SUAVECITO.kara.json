@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - OSCAR DE LEON - EL BAILE DEL SUAVECITO.MP3",
+      "loudnorm": "-15.65,2.73,5.70,-25.71,0.09",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - OSCAR DE LEON - - OSCAR DE LEON - EL BAILE DEL SUAVECITO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3bb56145-6d52-461d-8a17-a18c0d7d7354",
+    "title": "OSCAR DE LEON   -   EL BAILE DEL SUAVECITO",
+    "titles": {
+      "spa": "OSCAR DE LEON   -   EL BAILE DEL SUAVECITO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae4dbda2-75de-4886-ac59-c4ca28cb80af"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:05:25.149Z",
+    "modified_at": "2022-11-04T08:05:25.723Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5186970,
+      "gain": -5.8,
+      "duration": 324,
+      "loudnorm": "-15.65,2.73,5.70,-25.71,0.09",
+      "filename": "processed_eda5e0e4fba04fe9c56423b71fd3e223.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5186970,
+      "gain": -5.8,
+      "duration": 324,
+      "loudnorm": "-15.65,2.73,5.70,-25.71,0.09",
+      "filename": "processed_1d63278b1f8aaf57404d660ec54026da.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

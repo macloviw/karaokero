@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ARIS387-01 - - ARIS387-01 - Daniel MONCION - Culpable.mp3",
+      "loudnorm": "-15.64,0.95,4.70,-25.80,-0.70",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ARIS387-01 - - ARIS387-01 - Daniel MONCION - Culpable.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "232510dd-e7ac-4b1a-b77f-30cd2f1bf62a",
+    "title": "ARIS387-01 - Daniel MONCION - Culpable",
+    "titles": {
+      "spa": "ARIS387-01 - Daniel MONCION - Culpable"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "ca9b14c3-67aa-47aa-b335-753b0561b3dc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T21:39:52.388Z",
+    "modified_at": "2022-11-03T21:39:52.788Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea92d8009a32f20879abb16247029898.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3736650,
+      "gain": -3.9,
+      "duration": 233,
+      "loudnorm": "-15.64,0.95,4.70,-25.80,-0.70",
+      "filename": "processed_eb3a61b540bf022dbaa4e31c8748e12f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

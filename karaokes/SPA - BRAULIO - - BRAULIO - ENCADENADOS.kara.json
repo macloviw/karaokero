@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRAULIO - - BRAULIO - ENCADENADOS.MP3",
+      "loudnorm": "-15.08,0.14,8.80,-25.32,-1.51",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRAULIO - - BRAULIO - ENCADENADOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3f674f0-43b4-4ec5-8af6-cbb721ed35c4",
+    "title": "BRAULIO   -   ENCADENADOS",
+    "titles": {
+      "spa": "BRAULIO   -   ENCADENADOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14e0cc13-2e53-41b2-8894-6c078e65c279"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:31:16.940Z",
+    "modified_at": "2022-11-03T02:31:17.461Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3915827,
+      "gain": -2.65,
+      "duration": 244,
+      "loudnorm": "-15.08,0.14,8.80,-25.32,-1.51",
+      "filename": "processed_2c3b1d1d613e9af9bdd342e3e54877bb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3915827,
+      "gain": -2.65,
+      "duration": 244,
+      "loudnorm": "-15.08,0.14,8.80,-25.32,-1.51",
+      "filename": "processed_fc05137d61a2df629bcc08d6e87949ce.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

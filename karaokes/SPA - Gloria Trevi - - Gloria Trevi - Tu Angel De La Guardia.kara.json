@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Gloria Trevi - - Gloria Trevi - Tu Angel De La Guardia.mp3",
+      "loudnorm": "-12.06,3.80,8.10,-22.36,-0.90",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Gloria Trevi - - Gloria Trevi - Tu Angel De La Guardia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e086625d-c3a1-45dd-8ffa-eb777007e460",
+    "title": "Gloria Trevi - Tu Angel De La Guardia",
+    "titles": {
+      "spa": "Gloria Trevi - Tu Angel De La Guardia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6e7ce7df-f2ab-4cd5-9881-fc0470abaa7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T05:43:53.540Z",
+    "modified_at": "2022-11-03T05:43:53.951Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_294d63a738d1f48588605abcd5112517.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5820803,
+      "gain": -4.97,
+      "duration": 242,
+      "loudnorm": "-12.06,3.80,8.10,-22.36,-0.90",
+      "filename": "processed_2fc2ae3d44c5d4bfe3189a07c0fb5cea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

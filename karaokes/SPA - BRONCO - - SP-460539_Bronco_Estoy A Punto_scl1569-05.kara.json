@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - BRONCO - - SP-460539_Bronco_Estoy A Punto_scl1569-05.mp3",
+      "loudnorm": "-9.02,2.05,4.00,-19.06,-1.06",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - BRONCO - - SP-460539_Bronco_Estoy A Punto_scl1569-05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bfb6df17-9567-49dd-a37c-ff8f90c38662",
+    "title": "SP-460539_Bronco_Estoy A Punto_scl1569-05",
+    "titles": {
+      "spa": "SP-460539_Bronco_Estoy A Punto_scl1569-05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfa785a4-3ec4-4bf9-b49a-acb3ac03ae7e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:33:13.863Z",
+    "modified_at": "2022-11-03T02:33:14.294Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cdf65efdc1e5444ef8c91340c6dfa133.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3383434,
+      "gain": -8.75,
+      "duration": 211,
+      "loudnorm": "-9.02,2.05,4.00,-19.06,-1.06",
+      "filename": "processed_008deb92910181f67d283310e4d69bdf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

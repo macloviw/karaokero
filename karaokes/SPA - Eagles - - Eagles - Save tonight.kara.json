@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Eagles - - Eagles - Save tonight.mp3",
+      "loudnorm": "-18.76,-1.63,7.60,-28.83,-1.14",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Eagles - - Eagles - Save tonight.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fab524a5-12c5-41c0-8c8d-1b6944bd849d",
+    "title": "Eagles - Save tonight",
+    "titles": {
+      "spa": "Eagles - Save tonight"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fdf938dc-599e-46c3-ab3c-6ef02652a240"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:18:03.135Z",
+    "modified_at": "2022-11-03T16:18:03.851Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17c1a7663e9c5da1a7af02802044b421.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3665888,
+      "gain": 1.67,
+      "duration": 228,
+      "loudnorm": "-18.76,-1.63,7.60,-28.83,-1.14",
+      "filename": "processed_34bc0d0c1cff2b4936d04b3c1d7adfa4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

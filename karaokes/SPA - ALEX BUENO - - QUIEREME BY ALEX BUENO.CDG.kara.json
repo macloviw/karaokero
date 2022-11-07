@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ALEX BUENO - - QUIEREME BY ALEX BUENO.CDG.MP3",
+      "loudnorm": "-11.81,0.07,2.30,-21.96,0.05",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ALEX BUENO - - QUIEREME BY ALEX BUENO.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "971a3f64-a17e-474d-9d8d-92ec77db6e9d",
+    "title": "QUIEREME BY ALEX BUENO.CDG",
+    "titles": {
+      "spa": "QUIEREME BY ALEX BUENO.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:07:06.159Z",
+    "modified_at": "2022-11-04T02:07:06.846Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10655966,
+      "gain": -6.1,
+      "duration": 266,
+      "loudnorm": "-11.81,0.07,2.30,-21.96,0.05",
+      "filename": "processed_6a0c6e75aa6fe522ce3a1fcb143ac2dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10655966,
+      "gain": -6.1,
+      "duration": 266,
+      "loudnorm": "-11.81,0.07,2.30,-21.96,0.05",
+      "filename": "processed_f1edeb4d6c869fcda3e5e6a6fdc31485.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

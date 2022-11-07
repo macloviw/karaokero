@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ENRIQUE GUZMAN - - ABARZAME FUERTE.mp3",
+      "loudnorm": "-13.62,0.08,6.50,-23.73,-1.22",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ENRIQUE GUZMAN - - ABARZAME FUERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09dc6970-3785-4455-8f29-5daeb3e439d8",
+    "title": "ABARZAME FUERTE",
+    "titles": {
+      "spa": "ABARZAME FUERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e608fe46-d883-435f-995f-185d0e93044a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:12:47.892Z",
+    "modified_at": "2022-11-03T22:12:48.316Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7059d5864d62a400aa2aa3a3be1315a4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4231514,
+      "gain": -3.35,
+      "duration": 176,
+      "loudnorm": "-13.62,0.08,6.50,-23.73,-1.22",
+      "filename": "processed_4da62be4f6875962743f7ba696bfa66e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

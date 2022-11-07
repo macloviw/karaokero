@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Antony Santos - - ANTONY SANTOS - AY AY AY_New1.mp3",
+      "loudnorm": "-10.41,4.09,2.70,-20.46,-0.28",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Antony Santos - - ANTONY SANTOS - AY AY AY_New1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eaa5fac0-fe33-42f4-bb9f-ee76c336fe65",
+    "title": "ANTONY SANTOS   -   AY AY AY_New1",
+    "titles": {
+      "spa": "ANTONY SANTOS   -   AY AY AY_New1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f4eb9155-8dc5-4e6b-89e1-73ebde72f909"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:57:51.571Z",
+    "modified_at": "2022-11-02T22:57:52.083Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_829712931a2255ff2ad66851937ab6bf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4730691,
+      "gain": -8.06,
+      "duration": 337,
+      "loudnorm": "-10.41,4.09,2.70,-20.46,-0.28",
+      "filename": "processed_f79a1e5786dcf55702df332222342a4d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

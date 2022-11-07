@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - Chayanne - Dejaria todo.mp3",
+      "loudnorm": "-8.70,8.71,4.00,-18.73,-1.27",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - Chayanne - Dejaria todo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "591127c7-a6d9-475e-8f29-1e2bb4dd28d6",
+    "title": "Chayanne - Dejaria todo",
+    "titles": {
+      "spa": "Chayanne - Dejaria todo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:19:15.705Z",
+    "modified_at": "2022-11-03T03:19:16.144Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4a83ea0b4e3b512fe3386a09fe050fcd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4809038,
+      "gain": -9.03,
+      "duration": 300,
+      "loudnorm": "-8.70,8.71,4.00,-18.73,-1.27",
+      "filename": "processed_263deca221d502edc008520751ef1e4b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

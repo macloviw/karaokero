@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JUANES - - Juanes - Me Enamora (Con Voz).mp3",
+      "loudnorm": "-9.26,1.28,4.20,-19.33,-0.12",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JUANES - - Juanes - Me Enamora (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7ae03a1-9233-4c94-b83f-91d49c87bd52",
+    "title": "Juanes - Me Enamora (Con Voz)",
+    "titles": {
+      "spa": "Juanes - Me Enamora (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3bedabfe-c7bf-4f5c-b437-183c7f4ba699"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:55:49.956Z",
+    "modified_at": "2022-11-03T07:55:50.359Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4edd4d6c35836310399d11c813e2ac04.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4205484,
+      "gain": -7.86,
+      "duration": 175,
+      "loudnorm": "-9.26,1.28,4.20,-19.33,-0.12",
+      "filename": "processed_616bcb905934f6b00449b6c03f54d30e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

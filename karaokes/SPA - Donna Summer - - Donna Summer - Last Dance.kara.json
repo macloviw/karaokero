@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Donna Summer - - Donna Summer - Last Dance.mp3",
+      "loudnorm": "-13.54,0.30,12.60,-24.00,-2.24",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Donna Summer - - Donna Summer - Last Dance.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "83f2a8c8-483d-433e-bff7-7c32401a126b",
+    "title": "Donna Summer - Last Dance",
+    "titles": {
+      "spa": "Donna Summer - Last Dance"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6e3ba4fa-c395-414e-85a4-3dc72bb8c1e1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:10:57.916Z",
+    "modified_at": "2022-11-03T16:10:58.359Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_29efd69778bb98a17c2d279554f7e1f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5106720,
+      "gain": -5.52,
+      "duration": 212,
+      "loudnorm": "-13.54,0.30,12.60,-24.00,-2.24",
+      "filename": "processed_4ccabe0d9ec2d91a1370d90d405c7fd4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

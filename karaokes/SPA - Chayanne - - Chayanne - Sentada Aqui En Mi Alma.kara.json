@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Chayanne - - Chayanne - Sentada Aqui En Mi Alma.MP3",
+      "loudnorm": "-16.31,-0.86,10.40,-26.67,-1.60",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Chayanne - - Chayanne - Sentada Aqui En Mi Alma.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1c903e67-37e9-4e7e-b7bd-c4b80e8eabf4",
+    "title": "Chayanne - Sentada Aqui En Mi Alma",
+    "titles": {
+      "spa": "Chayanne - Sentada Aqui En Mi Alma"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f35ca7e3-b253-40ba-9f3d-8bdb1a982665"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T03:19:53.009Z",
+    "modified_at": "2022-11-03T03:19:53.570Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4094714,
+      "gain": -0.68,
+      "duration": 255,
+      "loudnorm": "-16.31,-0.86,10.40,-26.67,-1.60",
+      "filename": "processed_b7fac695eb9592c2a607cdd83fdad3e7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4094714,
+      "gain": -0.68,
+      "duration": 255,
+      "loudnorm": "-16.31,-0.86,10.40,-26.67,-1.60",
+      "filename": "processed_e8132aa424fc2715bbf45c4c046963ce.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ANTONI SANTOS - - ANTONY SANTOS-NO TE PUEDO OLVIDAR.mp3",
+      "loudnorm": "-11.78,4.57,6.60,-21.85,0.20",
+      "duration": 347,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ANTONI SANTOS - - ANTONY SANTOS-NO TE PUEDO OLVIDAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aac51c99-3dae-4a60-82ed-e06571847ea8",
+    "title": "ANTONY SANTOS-NO TE PUEDO OLVIDAR",
+    "titles": {
+      "spa": "ANTONY SANTOS-NO TE PUEDO OLVIDAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "4533ca34-ebfa-4b58-9278-de2c35402b92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:51:12.606Z",
+    "modified_at": "2022-11-02T22:51:13.105Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e49e1c787cdc32c6c7075db57c55e126.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4871491,
+      "gain": -8.06,
+      "duration": 347,
+      "loudnorm": "-11.78,4.57,6.60,-21.85,0.20",
+      "filename": "processed_3baa8db9af3e4a809125a9cdc3d56e87.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

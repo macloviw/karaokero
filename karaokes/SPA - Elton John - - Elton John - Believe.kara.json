@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Elton John - - Elton John - Believe.MP3",
+      "loudnorm": "-17.78,-0.96,4.70,-27.85,-0.73",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Elton John - - Elton John - Believe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b248e78-4457-404a-bd24-c09a0e43998b",
+    "title": "Elton John - Believe",
+    "titles": {
+      "spa": "Elton John - Believe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "01cb1df0-4807-4e4f-85e8-0abd370a6bab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T00:24:54.693Z",
+    "modified_at": "2022-11-04T00:24:55.397Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4258264,
+      "gain": -1.26,
+      "duration": 266,
+      "loudnorm": "-17.78,-0.96,4.70,-27.85,-0.73",
+      "filename": "processed_7a84a140666f9760de5860b083c41c16.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4258264,
+      "gain": -1.26,
+      "duration": 266,
+      "loudnorm": "-17.78,-0.96,4.70,-27.85,-0.73",
+      "filename": "processed_845b987b0a7e4e39fb81afc97ba0be1f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}
