@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_11 Laura Pausini - La Soledad.mp3",
+      "loudnorm": "-15.73,0.01,9.40,-25.85,-2.18",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_11 Laura Pausini - La Soledad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef7abdc5-eaab-4d28-b9db-19bf6fed84d8",
+    "title": "KBO-172_11 Laura Pausini - La Soledad",
+    "titles": {
+      "spa": "KBO-172_11 Laura Pausini - La Soledad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:08:00.207Z",
+    "modified_at": "2022-11-04T05:08:00.583Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ec9dfa24adad8bcb63ffbd2447092fc7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5496049,
+      "gain": -3.5,
+      "duration": 228,
+      "loudnorm": "-15.73,0.01,9.40,-25.85,-2.18",
+      "filename": "processed_ae55666150e2749ad70a1b638f98a22f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Antonio Aguilar - - ANTONIO AGUILAR-TRISTES RECUERDOS.mp3",
+      "loudnorm": "-14.48,-1.04,3.00,-24.63,0.15",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Antonio Aguilar - - ANTONIO AGUILAR-TRISTES RECUERDOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2978188,
+      "audiogain": -2.86
+    }
+  ],
+  "data": {
+    "kid": "b0918cd7-d1da-4bda-9906-587f2bf5978c",
+    "title": "ANTONIO AGUILAR-TRISTES RECUERDOS",
+    "titles": {
+      "spa": "ANTONIO AGUILAR-TRISTES RECUERDOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "b918e95b-da82-4e81-acc4-665efebfe671"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:25:42.271Z",
+    "modified_at": "2022-11-04T20:29:15.343Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d8f7cc35d082a36f9612520d53505ee2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2978188,
+      "gain": -2.86,
+      "duration": 212,
+      "loudnorm": "-14.48,-1.04,3.00,-24.63,0.15",
+      "filename": "processed_ce24e9a2f94d1caaafb64e7e26365779.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

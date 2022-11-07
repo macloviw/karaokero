@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTOHNY - DIMELO.MP3",
+      "loudnorm": "-10.04,1.85,11.50,-20.37,-1.26",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTOHNY - DIMELO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0d134cf-4cdb-454b-882d-513c080d950f",
+    "title": "MARC ANTOHNY   -   DIMELO",
+    "titles": {
+      "spa": "MARC ANTOHNY   -   DIMELO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:40:12.179Z",
+    "modified_at": "2022-11-04T06:40:13.141Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9146088,
+      "gain": -8.32,
+      "duration": 228,
+      "loudnorm": "-10.04,1.85,11.50,-20.37,-1.26",
+      "filename": "processed_be66e6d037b0f8218dc1e1b3f637edaa.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9146088,
+      "gain": -8.32,
+      "duration": 228,
+      "loudnorm": "-10.04,1.85,11.50,-20.37,-1.26",
+      "filename": "processed_a458495c0b4f87f59a5822bdfc4aad38.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

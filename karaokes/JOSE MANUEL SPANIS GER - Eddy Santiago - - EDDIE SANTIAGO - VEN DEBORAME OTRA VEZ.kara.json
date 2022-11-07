@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDIE SANTIAGO - VEN DEBORAME OTRA VEZ.MP3",
+      "loudnorm": "-20.39,-0.80,5.50,-30.41,-0.62",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDIE SANTIAGO - VEN DEBORAME OTRA VEZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c8c9d0d3-9988-42b4-b365-294c06d24fc0",
+    "title": "EDDIE SANTIAGO - VEN DEBORAME OTRA VEZ",
+    "titles": {
+      "spa": "EDDIE SANTIAGO - VEN DEBORAME OTRA VEZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fc704cbb-3420-49a2-afaf-44a534e516a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:04:30.647Z",
+    "modified_at": "2022-11-04T12:04:31.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4976768,
+      "gain": 1.2,
+      "duration": 310,
+      "loudnorm": "-20.39,-0.80,5.50,-30.41,-0.62",
+      "filename": "processed_b22161f4b6b8b5cec52c254c42ce77e0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4976768,
+      "gain": 1.2,
+      "duration": 310,
+      "loudnorm": "-20.39,-0.80,5.50,-30.41,-0.62",
+      "filename": "processed_538b02a57005ced5b096de459585f838.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

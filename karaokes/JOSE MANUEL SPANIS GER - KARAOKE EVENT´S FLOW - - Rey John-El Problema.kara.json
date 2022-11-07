@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Rey John-El Problema.mp3",
+      "loudnorm": "-7.44,5.70,1.80,-17.58,-0.55",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Rey John-El Problema.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "80bf2f1d-e40a-45eb-ac40-12320778bb56",
+    "title": "Rey John-El Problema",
+    "titles": {
+      "spa": "Rey John-El Problema"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:19:34.898Z",
+    "modified_at": "2022-11-04T04:19:35.290Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8a67f97c463dcf2e1f07193983378203.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4336627,
+      "gain": -10.59,
+      "duration": 270,
+      "loudnorm": "-7.44,5.70,1.80,-17.58,-0.55",
+      "filename": "processed_e794b98bdc0531c1f7337fd43486fc95.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

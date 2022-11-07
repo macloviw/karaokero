@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - MARCO ANTONIO SOLIS - SOY O FUI CREACION KARAOKES.mp3",
+      "loudnorm": "-17.18,0.30,6.00,-27.27,0.63",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - MARCO ANTONIO SOLIS - SOY O FUI CREACION KARAOKES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "67b4ae33-ce9b-4a5b-8021-643fa1458a9e",
+    "title": "MARCO ANTONIO SOLIS - SOY O FUI CREACION KARAOKES",
+    "titles": {
+      "spa": "MARCO ANTONIO SOLIS - SOY O FUI CREACION KARAOKES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:52:36.433Z",
+    "modified_at": "2022-11-04T06:52:36.816Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce1d4823467398a3bb66259bbb308fff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9578676,
+      "gain": -0.45,
+      "duration": 239,
+      "loudnorm": "-17.18,0.30,6.00,-27.27,0.63",
+      "filename": "processed_368e54a57f06742d0cef9c66dd34f25f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

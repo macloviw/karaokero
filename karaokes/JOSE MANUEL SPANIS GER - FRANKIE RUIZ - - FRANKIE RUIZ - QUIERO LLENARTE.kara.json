@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - QUIERO LLENARTE.MP3",
+      "loudnorm": "-15.14,0.21,6.30,-25.51,-0.61",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - QUIERO LLENARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bce46475-942f-4691-952c-970b27a27974",
+    "title": "FRANKIE RUIZ   -   QUIERO LLENARTE",
+    "titles": {
+      "spa": "FRANKIE RUIZ   -   QUIERO LLENARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:19:43.330Z",
+    "modified_at": "2022-11-04T12:19:44.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 12605746,
+      "gain": -2.59,
+      "duration": 315,
+      "loudnorm": "-15.14,0.21,6.30,-25.51,-0.61",
+      "filename": "processed_d50fee0749a1cdcf6ab58709f3c566d6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12605746,
+      "gain": -2.59,
+      "duration": 315,
+      "loudnorm": "-15.14,0.21,6.30,-25.51,-0.61",
+      "filename": "processed_69333cceb0201e289a29801db07101d3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

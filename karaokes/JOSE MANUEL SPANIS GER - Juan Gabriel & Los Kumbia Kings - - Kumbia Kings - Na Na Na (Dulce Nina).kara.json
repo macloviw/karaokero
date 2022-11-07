@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Na Na Na (Dulce Nina).mp3",
+      "loudnorm": "-9.99,1.41,2.70,-20.09,-0.61",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Na Na Na (Dulce Nina).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7c4e6699-c75f-4d77-a4d5-6a284dd34b5f",
+    "title": "Kumbia Kings - Na Na Na (Dulce Niña)",
+    "titles": {
+      "spa": "Kumbia Kings - Na Na Na (Dulce Niña)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:34:44.047Z",
+    "modified_at": "2022-11-04T04:34:44.434Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dc3f3996cdba50888501cdc1427fd498.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5242766,
+      "gain": -8.13,
+      "duration": 218,
+      "loudnorm": "-9.99,1.41,2.70,-20.09,-0.61",
+      "filename": "processed_7c112cf2db8a04a3f4e36a274cb6bdd1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

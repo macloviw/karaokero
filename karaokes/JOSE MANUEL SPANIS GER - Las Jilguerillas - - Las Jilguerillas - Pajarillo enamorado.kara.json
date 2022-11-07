@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - Pajarillo enamorado.mp3",
+      "loudnorm": "-12.59,0.68,2.80,-22.66,0.27",
+      "duration": 137,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - Pajarillo enamorado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "77a0ab33-1789-4c46-a732-77c921cf760b",
+    "title": "Las Jilguerillas - Pajarillo enamorado",
+    "titles": {
+      "spa": "Las Jilguerillas - Pajarillo enamorado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "fe30cae1-e8de-4379-8b47-7f7470427a93"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:05:29.325Z",
+    "modified_at": "2022-11-04T05:05:29.701Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5795469c976f363eefa91a96c8ff3808.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3301136,
+      "gain": -5.11,
+      "duration": 137,
+      "loudnorm": "-12.59,0.68,2.80,-22.66,0.27",
+      "filename": "processed_7a98e5f5ee85743df7efe24358c35e3f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

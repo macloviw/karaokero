@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - MONCHY CAPRICHO - Amor Magico.mp3",
+      "loudnorm": "-11.16,2.20,2.40,-21.20,-0.38",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - MONCHY CAPRICHO - Amor Magico.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a9c12a1d-d757-469b-8aa4-6d1812a44667",
+    "title": "MONCHY CAPRICHO - Amor Magico",
+    "titles": {
+      "spa": "MONCHY CAPRICHO - Amor Magico"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:32:45.163Z",
+    "modified_at": "2022-11-04T07:32:45.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1cb10ceacaad3f522ec9f7877df728ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4180318,
+      "gain": -7.26,
+      "duration": 261,
+      "loudnorm": "-11.16,2.20,2.40,-21.20,-0.38",
+      "filename": "processed_4b289b64383945623ff3531ee4efe130.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

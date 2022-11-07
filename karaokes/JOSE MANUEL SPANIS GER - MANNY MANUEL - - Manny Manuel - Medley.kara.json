@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Medley.mp3",
+      "loudnorm": "-10.10,0.67,3.00,-20.17,-0.35",
+      "duration": 507,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Medley.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d108a9f3-0001-40aa-97db-2e4d55150132",
+    "title": "Manny Manuel - Medley",
+    "titles": {
+      "spa": "Manny Manuel - Medley"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:19:37.242Z",
+    "modified_at": "2022-11-04T06:19:37.656Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8b9a7b9ddf76c401fc3c45dec12b4ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12174829,
+      "gain": -7.92,
+      "duration": 507,
+      "loudnorm": "-10.10,0.67,3.00,-20.17,-0.35",
+      "filename": "processed_7f1d2fa82024cf9bd63c72845034d929.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

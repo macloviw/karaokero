@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Bajo La Lluvia.mp3",
+      "loudnorm": "-16.57,0.03,3.60,-26.76,-0.48",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Bajo La Lluvia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba395459-186e-460c-8f9c-1659308aad83",
+    "title": "Grupo Mania - Bajo La Lluvia",
+    "titles": {
+      "spa": "Grupo Mania - Bajo La Lluvia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:44:34.355Z",
+    "modified_at": "2022-11-04T09:44:34.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_54036cafba312d0b7e313a2312d91074.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6777513,
+      "gain": -2.21,
+      "duration": 282,
+      "loudnorm": "-16.57,0.03,3.60,-26.76,-0.48",
+      "filename": "processed_37499082aa5d72b82d55940171d86b23.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

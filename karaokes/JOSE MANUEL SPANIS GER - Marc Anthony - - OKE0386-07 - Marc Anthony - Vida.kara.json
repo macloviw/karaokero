@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-07 - Marc Anthony - Vida.mp3",
+      "loudnorm": "-14.13,0.61,12.00,-24.68,-1.69",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-07 - Marc Anthony - Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "de09d019-2d1e-48fa-8938-c225ba609213",
+    "title": "OKE0386-07 - Marc Anthony - Vida",
+    "titles": {
+      "spa": "OKE0386-07 - Marc Anthony - Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:44:13.834Z",
+    "modified_at": "2022-11-04T06:44:14.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_088b752a308364241a63157d9b4b64df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10821147,
+      "gain": -3.4,
+      "duration": 270,
+      "loudnorm": "-14.13,0.61,12.00,-24.68,-1.69",
+      "filename": "processed_b68b45ac36661e1d565c6bb7385893bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

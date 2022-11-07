@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - ANA MILE BY NICHE.CDG.MP3",
+      "loudnorm": "-14.59,-0.58,2.60,-24.63,-0.51",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - ANA MILE BY NICHE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97e6f18c-5fb7-4ae5-a6c0-a5437ad1c9f4",
+    "title": "ANA MILE BY NICHE.CDG",
+    "titles": {
+      "spa": "ANA MILE BY NICHE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:35:44.236Z",
+    "modified_at": "2022-11-04T12:35:45.448Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9766758,
+      "gain": -5.37,
+      "duration": 244,
+      "loudnorm": "-14.59,-0.58,2.60,-24.63,-0.51",
+      "filename": "processed_98f55a425d0ebf077f3afd4badef33c6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9766758,
+      "gain": -5.37,
+      "duration": 244,
+      "loudnorm": "-14.59,-0.58,2.60,-24.63,-0.51",
+      "filename": "processed_5a27f90f97baccc404f260bf61f01a99.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

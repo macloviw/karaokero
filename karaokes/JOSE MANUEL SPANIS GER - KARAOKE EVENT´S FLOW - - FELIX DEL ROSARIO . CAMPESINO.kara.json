@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - FELIX DEL ROSARIO . CAMPESINO.mp3",
+      "loudnorm": "-16.46,-0.14,2.50,-26.67,-0.02",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - FELIX DEL ROSARIO . CAMPESINO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "316f46fc-c5d1-4c76-bc7e-3dd0edf08d56",
+    "title": "FELIX DEL ROSARIO . CAMPESINO",
+    "titles": {
+      "spa": "FELIX DEL ROSARIO . CAMPESINO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:14:13.741Z",
+    "modified_at": "2022-11-04T04:14:14.133Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9867f4136e3c284ecc977602b68c1a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3881137,
+      "gain": -0.74,
+      "duration": 277,
+      "loudnorm": "-16.46,-0.14,2.50,-26.67,-0.02",
+      "filename": "processed_4b21b5dc9db7c13812162e7a722336f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Sube Sube.mp3",
+      "loudnorm": "-14.82,-0.04,2.60,-24.89,-0.65",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Sube Sube.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78b9d235-7a59-4077-af6b-29400babd1f6",
+    "title": "Grupo Mania - Sube Sube",
+    "titles": {
+      "spa": "Grupo Mania - Sube Sube"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:46:43.404Z",
+    "modified_at": "2022-11-04T09:46:43.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_430edc6fde0bf51236c3804f45b90919.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4220229,
+      "gain": -2.66,
+      "duration": 263,
+      "loudnorm": "-14.82,-0.04,2.60,-24.89,-0.65",
+      "filename": "processed_d00e474bfa4fb82d20b443e214dab3f7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

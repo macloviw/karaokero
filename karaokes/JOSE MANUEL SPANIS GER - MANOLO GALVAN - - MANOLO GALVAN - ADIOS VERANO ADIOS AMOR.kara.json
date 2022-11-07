@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - ADIOS VERANO ADIOS AMOR.MP3",
+      "loudnorm": "-14.98,-1.50,5.30,-25.03,-0.78",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - ADIOS VERANO ADIOS AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f897d936-21e8-480f-b860-f6743675faf2",
+    "title": "MANOLO GALVAN   -   ADIOS VERANO ADIOS AMOR",
+    "titles": {
+      "spa": "MANOLO GALVAN   -   ADIOS VERANO ADIOS AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:22:32.393Z",
+    "modified_at": "2022-11-04T06:22:32.831Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2972911,
+      "gain": -3.17,
+      "duration": 185,
+      "loudnorm": "-14.98,-1.50,5.30,-25.03,-0.78",
+      "filename": "processed_ad7c552c13257eaf47d27de1d080aab1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2972911,
+      "gain": -3.17,
+      "duration": 185,
+      "loudnorm": "-14.98,-1.50,5.30,-25.03,-0.78",
+      "filename": "processed_0efcac13b2565dd6646470dd7e6027f4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

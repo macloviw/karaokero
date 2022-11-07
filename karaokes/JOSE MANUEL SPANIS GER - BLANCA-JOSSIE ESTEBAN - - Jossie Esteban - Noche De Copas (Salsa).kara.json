@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - Jossie Esteban - Noche De Copas (Salsa).mp3",
+      "loudnorm": "-19.89,-1.40,8.00,-30.00,-1.17",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - Jossie Esteban - Noche De Copas (Salsa).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "225ea07c-4051-40da-b1ee-564b90de7aa6",
+    "title": "Jossie Esteban - Noche De Copas (Salsa)",
+    "titles": {
+      "spa": "Jossie Esteban - Noche De Copas (Salsa)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f971b8b8-296a-4a97-9de0-51760f6baeca"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T03:59:56.300Z",
+    "modified_at": "2022-11-04T03:59:56.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d2508eff85422d1273768689eca2716d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2865206,
+      "gain": -0.31,
+      "duration": 178,
+      "loudnorm": "-19.89,-1.40,8.00,-30.00,-1.17",
+      "filename": "processed_334fc5bd137815b4a6db9b977ce6b15e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Miriam Cruz - Pobre de ella (ASKD).mp3",
+      "loudnorm": "-10.04,1.66,2.30,-20.20,-0.15",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Miriam Cruz - Pobre de ella (ASKD).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4797848,
+      "audiogain": -6.68
+    }
+  ],
+  "data": {
+    "kid": "93108956-4d15-4650-bacf-10cbb219ada6",
+    "title": "Miriam Cruz - Pobre de ella (ASKD)",
+    "titles": {
+      "spa": "Miriam Cruz - Pobre de ella (ASKD)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:52:35.326Z",
+    "modified_at": "2022-11-04T20:28:39.204Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dba26240bd563c4d0b615452b380557d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4797848,
+      "gain": -6.68,
+      "duration": 299,
+      "loudnorm": "-10.04,1.66,2.30,-20.20,-0.15",
+      "filename": "processed_11cb5457c301b49ce1df1e892b63c798.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

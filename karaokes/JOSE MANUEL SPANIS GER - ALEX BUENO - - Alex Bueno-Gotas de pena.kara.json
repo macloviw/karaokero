@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Gotas de pena.mp3",
+      "loudnorm": "-6.24,11.70,3.10,-16.36,-0.64",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Gotas de pena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5017356,
+      "audiogain": -11.27
+    }
+  ],
+  "data": {
+    "kid": "720b7225-0d2e-4ae3-ad11-0b5226d258e2",
+    "title": "Alex Bueno-Gotas de pena",
+    "titles": {
+      "spa": "Alex Bueno-Gotas de pena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:53:04.959Z",
+    "modified_at": "2022-11-04T20:25:36.107Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d372b88d7507e2a51ea05a03e1d55890.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5017356,
+      "gain": -11.27,
+      "duration": 313,
+      "loudnorm": "-6.24,11.70,3.10,-16.36,-0.64",
+      "filename": "processed_3178f30cf5ad1f5bc5de03b6a2fa3f13.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Linda (Pista).mp3",
+      "loudnorm": "-7.67,3.70,1.90,-17.80,-0.18",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Linda (Pista).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "54315043-5172-419b-a13e-1e119c372f7b",
+    "title": "Luis Segura - Linda (Pista)",
+    "titles": {
+      "spa": "Luis Segura - Linda (Pista)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e3e6a969-9772-4031-a9b1-06e449f1b5bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:02:34.230Z",
+    "modified_at": "2022-11-04T06:02:34.608Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_716c93870b3a85caaf1e42f173523e7c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3027162,
+      "gain": -8.95,
+      "duration": 189,
+      "loudnorm": "-7.67,3.70,1.90,-17.80,-0.18",
+      "filename": "processed_f5f9f9cb7574b0e854cd3e94952b943f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

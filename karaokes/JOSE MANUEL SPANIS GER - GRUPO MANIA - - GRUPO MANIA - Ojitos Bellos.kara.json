@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - GRUPO MANIA - Ojitos Bellos.mp3",
+      "loudnorm": "-10.59,2.21,2.10,-20.60,-0.58",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - GRUPO MANIA - Ojitos Bellos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d74ffe8a-f6b6-4d73-be5b-9d5d33345317",
+    "title": "GRUPO MANIA - Ojitos Bellos",
+    "titles": {
+      "spa": "GRUPO MANIA - Ojitos Bellos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:46:31.653Z",
+    "modified_at": "2022-11-04T09:46:32.051Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9ae7c9a96bba2ba8d4cb09a5fd9949cf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4642864,
+      "gain": -8.24,
+      "duration": 290,
+      "loudnorm": "-10.59,2.21,2.10,-20.60,-0.58",
+      "filename": "processed_d938a9190a494b1f0578bf41268ffc5e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

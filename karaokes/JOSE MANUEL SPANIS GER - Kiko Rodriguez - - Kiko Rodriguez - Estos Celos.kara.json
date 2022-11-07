@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Kiko Rodriguez - - Kiko Rodriguez - Estos Celos.mp3",
+      "loudnorm": "-14.74,0.39,2.90,-24.77,-0.49",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Kiko Rodriguez - - Kiko Rodriguez - Estos Celos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d51d9458-5fbd-4b9d-9f0e-ffa5cb48e24a",
+    "title": "Kiko Rodriguez - Estos Celos",
+    "titles": {
+      "spa": "Kiko Rodriguez - Estos Celos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "03701aa3-0887-491e-be73-18e332104f9f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:29:11.736Z",
+    "modified_at": "2022-11-04T04:29:12.141Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5656c8babba3a4e1b37c7d8a84f313c0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5409021,
+      "gain": -4.34,
+      "duration": 225,
+      "loudnorm": "-14.74,0.39,2.90,-24.77,-0.49",
+      "filename": "processed_ecd656f1a3fb55d4713da2fa3cffa62c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

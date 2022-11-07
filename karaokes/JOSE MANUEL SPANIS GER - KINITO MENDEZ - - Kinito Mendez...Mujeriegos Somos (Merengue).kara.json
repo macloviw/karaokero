@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - Kinito Mendez...Mujeriegos Somos (Merengue).mp3",
+      "loudnorm": "-7.96,4.75,3.30,-18.06,-0.85",
+      "duration": 325,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - Kinito Mendez...Mujeriegos Somos (Merengue).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a76ec620-4212-4363-b609-d79ec0ffc119",
+    "title": "Kinito Mendez...Mujeriegos Somos (Merengue)",
+    "titles": {
+      "spa": "Kinito Mendez...Mujeriegos Somos (Merengue)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3752d332-2a4c-4c3a-998a-dc30ea46d8d0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:30:57.840Z",
+    "modified_at": "2022-11-04T04:30:58.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f67c1b780b94bfe3784a7142ecac6b5d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2280043,
+      "gain": -10.9,
+      "duration": 325,
+      "loudnorm": "-7.96,4.75,3.30,-18.06,-0.85",
+      "filename": "processed_43dc0b225c6c17117ce064009e8c71a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

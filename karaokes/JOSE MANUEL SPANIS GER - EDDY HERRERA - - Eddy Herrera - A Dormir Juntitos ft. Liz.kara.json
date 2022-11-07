@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - A Dormir Juntitos ft. Liz.mp3",
+      "loudnorm": "-10.52,6.15,2.80,-20.55,-0.59",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - A Dormir Juntitos ft. Liz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "531aee6d-c841-4f46-838f-d31be8269110",
+    "title": "Eddy Herrera - A Dormir Juntitos ft. Liz",
+    "titles": {
+      "spa": "Eddy Herrera - A Dormir Juntitos ft. Liz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "575acd9d-6435-4627-93ba-b7c33858eaf9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:03:26.242Z",
+    "modified_at": "2022-11-04T10:03:26.630Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b6a192d16a0a27ab14b23ed1ed2466c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4641610,
+      "gain": -8.55,
+      "duration": 289,
+      "loudnorm": "-10.52,6.15,2.80,-20.55,-0.59",
+      "filename": "processed_cae4cfa91801966b187d04192e8d79f8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Me muero por ella.mp3",
+      "loudnorm": "-20.12,-0.79,3.90,-30.16,0.17",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Me muero por ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8678968-ef6b-407c-b289-2f2d978b30b0",
+    "title": "Luis Segura - Me muero por ella",
+    "titles": {
+      "spa": "Luis Segura - Me muero por ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e3e6a969-9772-4031-a9b1-06e449f1b5bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:02:45.229Z",
+    "modified_at": "2022-11-04T06:02:45.628Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93c2609efe1b90d53f7416cc86942c2f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10080238,
+      "gain": 0.61,
+      "duration": 251,
+      "loudnorm": "-20.12,-0.79,3.90,-30.16,0.17",
+      "filename": "processed_91decae5aeb6229a85b96e320e933227.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

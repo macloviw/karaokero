@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Homenaje a Alex Bueno.mp3",
+      "loudnorm": "-8.03,7.02,3.70,-18.07,-1.00",
+      "duration": 403,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Homenaje a Alex Bueno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 9694237,
+      "audiogain": -11.16
+    }
+  ],
+  "data": {
+    "kid": "fb26b798-e21e-4c46-9e9f-700898947b92",
+    "title": "Alex Bueno-Homenaje a Alex Bueno",
+    "titles": {
+      "spa": "Alex Bueno-Homenaje a Alex Bueno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:53:21.902Z",
+    "modified_at": "2022-11-04T20:26:16.346Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e43d7c65bb6ec1330aefd2d6bae888f0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9694237,
+      "gain": -11.16,
+      "duration": 403,
+      "loudnorm": "-8.03,7.02,3.70,-18.07,-1.00",
+      "filename": "processed_2ddcceaae968a6c3226cd422789644b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

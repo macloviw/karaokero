@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Tono Rosario - siempre estoy pensando en ella.mp3",
+      "loudnorm": "-13.77,0.70,16.30,-24.54,-1.55",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Tono Rosario - siempre estoy pensando en ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "382b7543-99f6-44e2-911c-732de220f83f",
+    "title": "Toño Rosario - siempre estoy pensando en ella",
+    "titles": {
+      "spa": "Toño Rosario - siempre estoy pensando en ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:20:31.289Z",
+    "modified_at": "2022-11-04T04:20:31.667Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1e81f2d95da3f4bdc08400f64add1974.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6682217,
+      "gain": -4.96,
+      "duration": 278,
+      "loudnorm": "-13.77,0.70,16.30,-24.54,-1.55",
+      "filename": "processed_394edad0e25b73ad944843b214765e1f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

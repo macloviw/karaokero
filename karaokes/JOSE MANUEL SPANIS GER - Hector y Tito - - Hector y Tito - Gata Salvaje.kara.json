@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Gata Salvaje.mp3",
+      "loudnorm": "-8.58,3.38,4.50,-18.65,-0.95",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Gata Salvaje.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09b1ea66-9b0a-45f7-a0b1-648eb62a88a8",
+    "title": "Hector y Tito - Gata Salvaje",
+    "titles": {
+      "spa": "Hector y Tito - Gata Salvaje"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "e628e342-828c-4f77-bad3-6c8238dcd96d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:45:00.580Z",
+    "modified_at": "2022-11-04T11:45:00.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72d838856689f81ed3eb5eb6d2c08cef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3438894,
+      "gain": -9.67,
+      "duration": 214,
+      "loudnorm": "-8.58,3.38,4.50,-18.65,-0.95",
+      "filename": "processed_de31110cd10abbe2941ff848e31fde8f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

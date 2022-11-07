@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S, ROSA - SIN VOLUNTAD.MP3",
+      "loudnorm": "-12.26,1.73,7.20,-22.30,-1.22",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S, ROSA - SIN VOLUNTAD.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3db4a649-82f9-4c23-a046-104cec16f566",
+    "title": "GILBERTO S, ROSA   -   SIN VOLUNTAD",
+    "titles": {
+      "spa": "GILBERTO S, ROSA   -   SIN VOLUNTAD"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:24:13.479Z",
+    "modified_at": "2022-11-04T12:24:14.045Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4802737,
+      "gain": -8.29,
+      "duration": 300,
+      "loudnorm": "-12.26,1.73,7.20,-22.30,-1.22",
+      "filename": "processed_bfa39e14886e27dbec748e5a6163d5aa.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4802737,
+      "gain": -8.29,
+      "duration": 300,
+      "loudnorm": "-12.26,1.73,7.20,-22.30,-1.22",
+      "filename": "processed_0c0c98b8e501717e1df402082a59ed03.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

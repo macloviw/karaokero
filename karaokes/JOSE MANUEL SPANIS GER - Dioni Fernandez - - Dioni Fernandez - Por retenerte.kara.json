@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni Fernandez - Por retenerte.mp3",
+      "loudnorm": "-8.00,1.36,3.50,-18.13,-1.07",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni Fernandez - Por retenerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8a1cda29-acfb-4e4d-aca5-dec3f529fcb7",
+    "title": "Dioni Fernandez - Por retenerte",
+    "titles": {
+      "spa": "Dioni Fernandez - Por retenerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "cc87d3a2-7520-46c6-a3d2-f8942dc2b84c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:25:57.989Z",
+    "modified_at": "2022-11-04T09:25:58.385Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f48919e359ae370412285cb237f7fb9e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5719203,
+      "gain": -10.85,
+      "duration": 238,
+      "loudnorm": "-8.00,1.36,3.50,-18.13,-1.07",
+      "filename": "processed_de094d0cb832a369f1280c9b958dc2af.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

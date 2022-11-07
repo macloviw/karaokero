@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Johnny Ventura El Vecino Esta Borracho JM Con Coros.mp3",
+      "loudnorm": "-14.92,-0.90,2.70,-24.98,-0.74",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Johnny Ventura El Vecino Esta Borracho JM Con Coros.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e739b398-9625-4aa8-b10e-020936f065f7",
+    "title": "Johnny Ventura  El Vecino Esta Borracho  JM  Con Coros",
+    "titles": {
+      "spa": "Johnny Ventura  El Vecino Esta Borracho  JM  Con Coros"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:17:07.148Z",
+    "modified_at": "2022-11-04T04:17:07.545Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93e32acdb0d53a4f3c62c84d04cc5a1a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9310788,
+      "gain": -3.14,
+      "duration": 232,
+      "loudnorm": "-14.92,-0.90,2.70,-24.98,-0.74",
+      "filename": "processed_959c5c39c429d4998f33a98764dc375d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

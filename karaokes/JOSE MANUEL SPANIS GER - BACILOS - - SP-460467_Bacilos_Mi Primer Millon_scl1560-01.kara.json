@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BACILOS - - SP-460467_Bacilos_Mi Primer Millon_scl1560-01.mp3",
+      "loudnorm": "-15.10,0.93,7.00,-25.30,-1.15",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BACILOS - - SP-460467_Bacilos_Mi Primer Millon_scl1560-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4028386,
+      "audiogain": -3.38
+    }
+  ],
+  "data": {
+    "kid": "95920496-1154-49ba-9fb8-10dabbc52cc5",
+    "title": "SP-460467_Bacilos_Mi Primer Millón_scl1560-01",
+    "titles": {
+      "spa": "SP-460467_Bacilos_Mi Primer Millón_scl1560-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "626d1788-e089-4aa8-b8b2-a802fbb4a9a4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:57:59.379Z",
+    "modified_at": "2022-11-04T20:32:55.504Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3877c79d58686e0880b46a2c58bc936.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4028386,
+      "gain": -3.38,
+      "duration": 251,
+      "loudnorm": "-15.10,0.93,7.00,-25.30,-1.15",
+      "filename": "processed_b3640e058d8b4051bf86b4e5d1e7861c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - CLAVADO EN UN BAR.MP3",
+      "loudnorm": "-18.41,-3.04,3.70,-28.44,-0.64",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - CLAVADO EN UN BAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3a1127a-e580-421f-88a7-f137bc414b76",
+    "title": "MANA    -    CLAVADO EN UN BAR",
+    "titles": {
+      "spa": "MANA    -    CLAVADO EN UN BAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:12:56.570Z",
+    "modified_at": "2022-11-04T06:12:57.151Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4753835,
+      "gain": 1.07,
+      "duration": 296,
+      "loudnorm": "-18.41,-3.04,3.70,-28.44,-0.64",
+      "filename": "processed_29568fde6a75c8f7422de8abb9ab7f9a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4753835,
+      "gain": 1.07,
+      "duration": 296,
+      "loudnorm": "-18.41,-3.04,3.70,-28.44,-0.64",
+      "filename": "processed_c15dffa7c164eb75d1a6ec4e9f820a50.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

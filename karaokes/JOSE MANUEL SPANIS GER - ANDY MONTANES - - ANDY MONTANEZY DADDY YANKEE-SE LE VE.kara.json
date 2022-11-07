@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ANDY MONTANES - - ANDY MONTANEZY DADDY YANKEE-SE LE VE.mp3",
+      "loudnorm": "-15.78,-1.13,4.50,-25.84,-0.64",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ANDY MONTANES - - ANDY MONTANEZY DADDY YANKEE-SE LE VE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3627697,
+      "audiogain": -2.82
+    }
+  ],
+  "data": {
+    "kid": "4c50510f-ffda-4900-a361-ef527d0d4d0c",
+    "title": "ANDY MONTAÑEZY DADDY YANKEE-SE LE VE",
+    "titles": {
+      "spa": "ANDY MONTAÑEZY DADDY YANKEE-SE LE VE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7ded384e-080e-4fe2-8082-45859c13632f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:47:40.863Z",
+    "modified_at": "2022-11-04T20:24:57.738Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d2a53920cf7e88fee17b4feec9defc7a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3627697,
+      "gain": -2.82,
+      "duration": 258,
+      "loudnorm": "-15.78,-1.13,4.50,-25.84,-0.64",
+      "filename": "processed_370f873e0b04c119bb145e66eec48c6e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

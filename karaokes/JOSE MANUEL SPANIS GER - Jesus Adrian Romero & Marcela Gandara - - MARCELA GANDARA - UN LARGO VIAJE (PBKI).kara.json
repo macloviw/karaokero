@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - MARCELA GANDARA - UN LARGO VIAJE (PBKI).mp3",
+      "loudnorm": "-14.74,0.58,13.20,-25.20,-1.77",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - MARCELA GANDARA - UN LARGO VIAJE (PBKI).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "792785b4-1611-4086-8f6f-86851306edf4",
+    "title": "MARCELA GANDARA - UN LARGO VIAJE (PBKI)",
+    "titles": {
+      "spa": "MARCELA GANDARA - UN LARGO VIAJE (PBKI)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2e6a7d8b-ffdd-402e-b831-7e84316f26e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:46:43.244Z",
+    "modified_at": "2022-11-04T06:46:43.632Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2f53f19c8bf24e1a58e8fdad0490c007.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5643380,
+      "gain": -3.29,
+      "duration": 235,
+      "loudnorm": "-14.74,0.58,13.20,-25.20,-1.77",
+      "filename": "processed_50be659667abca46ddae89343d0a5f67.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

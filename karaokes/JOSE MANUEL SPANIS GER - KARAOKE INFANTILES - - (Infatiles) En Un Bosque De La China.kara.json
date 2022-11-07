@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) En Un Bosque De La China.mp3",
+      "loudnorm": "-12.24,0.71,1.60,-22.39,0.13",
+      "duration": 154,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) En Un Bosque De La China.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "480441e8-5548-4ebd-a072-b3164c9cd2fc",
+    "title": "(Infatiles) En Un Bosque De La China",
+    "titles": {
+      "spa": "(Infatiles) En Un Bosque De La China"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:01.689Z",
+    "modified_at": "2022-11-04T04:22:02.058Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47bb1e9c30bb1709effca56df5f851ad.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3709274,
+      "gain": -6.01,
+      "duration": 154,
+      "loudnorm": "-12.24,0.71,1.60,-22.39,0.13",
+      "filename": "processed_332be1ff185abc15222829ae53f193e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

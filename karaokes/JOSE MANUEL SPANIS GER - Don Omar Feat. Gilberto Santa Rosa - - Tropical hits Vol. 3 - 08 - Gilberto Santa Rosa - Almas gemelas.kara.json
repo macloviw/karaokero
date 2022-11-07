@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - Tropical hits Vol. 3 - 08 - Gilberto Santa Rosa - Almas gemelas.mp3",
+      "loudnorm": "-12.33,2.29,4.90,-22.37,-0.61",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - Tropical hits Vol. 3 - 08 - Gilberto Santa Rosa - Almas gemelas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69da286e-5e0d-4af6-b06c-dab02f8e6337",
+    "title": "Tropical hits Vol. 3 - 08 - Gilberto Santa Rosa - Almas gemelas",
+    "titles": {
+      "spa": "Tropical hits Vol. 3 - 08 - Gilberto Santa Rosa - Almas gemelas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:33:56.202Z",
+    "modified_at": "2022-11-04T12:33:56.579Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f0bc5919273010080dd44d0e2ed48101.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4342691,
+      "gain": -7.52,
+      "duration": 271,
+      "loudnorm": "-12.33,2.29,4.90,-22.37,-0.61",
+      "filename": "processed_049c4246d8d443a75374660c79f8af03.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

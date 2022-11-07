@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Perdido (Pista).mp3",
+      "loudnorm": "-8.39,11.99,2.90,-18.56,0.18",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Perdido (Pista).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cfadc417-fe9d-4891-942a-45ac60539b90",
+    "title": "Luis Segura - Perdido (Pista)",
+    "titles": {
+      "spa": "Luis Segura - Perdido (Pista)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e3e6a969-9772-4031-a9b1-06e449f1b5bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:03:18.381Z",
+    "modified_at": "2022-11-04T06:03:18.761Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_159f060d3b4b4ce64ce24d99ee22b7da.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2602516,
+      "gain": -8.88,
+      "duration": 162,
+      "loudnorm": "-8.39,11.99,2.90,-18.56,0.18",
+      "filename": "processed_9bb534c2e57ea9f7a1a71ac34aad46f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

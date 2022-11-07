@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LAS CHICAN - - LAS CHICAN - TA PILLAO.2.mp3",
+      "loudnorm": "-11.62,1.80,5.00,-21.87,-0.23",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LAS CHICAN - - LAS CHICAN - TA PILLAO.2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2672c049-e333-4184-a948-8de416305396",
+    "title": "LAS CHICAN - TA PILLAO.2",
+    "titles": {
+      "spa": "LAS CHICAN - TA PILLAO.2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "13aeaebf-fc0c-4b7a-813e-09506f39bae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:02:30.050Z",
+    "modified_at": "2022-11-04T05:02:30.463Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_85e31afded2649f6aaea0bb0d96152e8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4267376,
+      "gain": -7.24,
+      "duration": 266,
+      "loudnorm": "-11.62,1.80,5.00,-21.87,-0.23",
+      "filename": "processed_bd7eb723f2f73141e779a5d764c9575a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

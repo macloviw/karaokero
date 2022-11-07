@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 13 - Tres Regalos.mp3",
+      "loudnorm": "-25.42,-8.23,4.50,-35.62,0.98",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 13 - Tres Regalos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7b55ff4-0689-42c2-8b57-5976ee5e8972",
+    "title": "Los Panchos - Grandes Exitos De Los Panchos - 13 - Tres Regalos",
+    "titles": {
+      "spa": "Los Panchos - Grandes Exitos De Los Panchos - 13 - Tres Regalos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:33:16.987Z",
+    "modified_at": "2022-11-04T05:33:17.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf0a29f86d62c21b88db5c0d4697ec8f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4960122,
+      "gain": 6.06,
+      "duration": 206,
+      "loudnorm": "-25.42,-8.23,4.50,-35.62,0.98",
+      "filename": "processed_be1df7f48a5574443e8d24012c867577.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

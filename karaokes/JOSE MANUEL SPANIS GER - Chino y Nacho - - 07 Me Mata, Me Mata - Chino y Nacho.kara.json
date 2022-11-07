@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - 07 Me Mata, Me Mata - Chino y Nacho.mp3",
+      "loudnorm": "-15.54,-0.24,7.90,-25.82,-1.71",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - 07 Me Mata, Me Mata - Chino y Nacho.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b753e24c-961a-40f0-a3ac-f88c69b388aa",
+    "title": "07 Me Mata, Me Mata - Chino y Nacho",
+    "titles": {
+      "spa": "07 Me Mata, Me Mata - Chino y Nacho"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "7a1ac309-8d67-4d85-a0a7-6dd4a04e1fd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:21:13.217Z",
+    "modified_at": "2022-11-04T09:21:13.603Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57eae0abc96b89f1afc15ce49f99a8dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4572132,
+      "gain": -2.96,
+      "duration": 228,
+      "loudnorm": "-15.54,-0.24,7.90,-25.82,-1.71",
+      "filename": "processed_c18a32edba773e95c644f7c87d5a2e65.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

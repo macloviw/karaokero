@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Bobby Valenti - - BOBBY VALENTIN - LA BODA DE ELLA.mp3",
+      "loudnorm": "-10.78,2.50,4.00,-20.85,-0.68",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Bobby Valenti - - BOBBY VALENTIN - LA BODA DE ELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31c5acda-c716-41de-98b2-97f239f52398",
+    "title": "BOBBY VALENTIN -              LA BODA DE ELLA",
+    "titles": {
+      "spa": "BOBBY VALENTIN -              LA BODA DE ELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "df04f729-8db6-42d6-97d5-718d99d82246"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:50:10.772Z",
+    "modified_at": "2022-11-04T11:50:11.174Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_abbb534deec4a2a3a85f315db4db09df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5398244,
+      "gain": -8.95,
+      "duration": 337,
+      "loudnorm": "-10.78,2.50,4.00,-20.85,-0.68",
+      "filename": "processed_5982076aa3a33f1755fac6e210a97d56.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

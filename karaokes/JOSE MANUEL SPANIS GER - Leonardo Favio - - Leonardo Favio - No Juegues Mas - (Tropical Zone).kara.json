@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - No Juegues Mas - (Tropical Zone).mp3",
+      "loudnorm": "-13.70,0.60,5.80,-23.93,-0.91",
+      "duration": 145,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - No Juegues Mas - (Tropical Zone).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0a330002-3371-4c6b-be81-eb3aa15c52f5",
+    "title": "Leonardo Favio - No Juegues Mas - (Tropical Zone)",
+    "titles": {
+      "spa": "Leonardo Favio - No Juegues Mas - (Tropical Zone)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0d28fc44-0220-4993-af8b-647324289223"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:18:03.879Z",
+    "modified_at": "2022-11-04T05:18:04.253Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4420c122a98a3235e80cd1030341e683.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3494914,
+      "gain": -4.31,
+      "duration": 145,
+      "loudnorm": "-13.70,0.60,5.80,-23.93,-0.91",
+      "filename": "processed_757038f373d6ce47822833922c3888e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

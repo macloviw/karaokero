@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - QUIERO MAS DE TY BY ANGELES N.CDG.MP3",
+      "loudnorm": "-14.18,2.15,4.80,-24.37,-0.29",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - QUIERO MAS DE TY BY ANGELES N.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6ddb9f2-d317-4d3d-8b13-f746e685516a",
+    "title": "QUIERO MAS DE TY BY ANGELES N.CDG",
+    "titles": {
+      "spa": "QUIERO MAS DE TY BY ANGELES N.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6b010bf7-3aa2-43c0-99bf-cddf9f383c97"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:27:55.506Z",
+    "modified_at": "2022-11-04T05:27:56.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3565158,
+      "gain": -2.14,
+      "duration": 222,
+      "loudnorm": "-14.18,2.15,4.80,-24.37,-0.29",
+      "filename": "processed_1d3e4625a77524e0907909940d3e2d39.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3565158,
+      "gain": -2.14,
+      "duration": 222,
+      "loudnorm": "-14.18,2.15,4.80,-24.37,-0.29",
+      "filename": "processed_deb7a44edf0ff3087485ea83c2b5a9ee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

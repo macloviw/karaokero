@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Vida Consentida.MP3",
+      "loudnorm": "-16.49,0.94,6.00,-26.98,-0.87",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Vida Consentida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e012df79-6208-4af8-a4fd-51b6e8b54444",
+    "title": "Fernando Villalona   -   Vida Consentida",
+    "titles": {
+      "spa": "Fernando Villalona   -   Vida Consentida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:12:07.241Z",
+    "modified_at": "2022-11-04T10:12:07.712Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3895765,
+      "gain": -2.44,
+      "duration": 243,
+      "loudnorm": "-16.49,0.94,6.00,-26.98,-0.87",
+      "filename": "processed_e3f3d42aa751ce751dbc64f09edbb3db.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3895765,
+      "gain": -2.44,
+      "duration": 243,
+      "loudnorm": "-16.49,0.94,6.00,-26.98,-0.87",
+      "filename": "processed_57fbc8d8e9d4f5faa3a0cc9807bc7e54.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

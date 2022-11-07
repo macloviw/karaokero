@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - De Que Manera te Olvido.mp3",
+      "loudnorm": "-10.80,0.44,2.60,-20.91,-0.08",
+      "duration": 155,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - De Que Manera te Olvido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5ed54619-9cd1-408f-ac2c-856036640dc9",
+    "title": "Luis Miguel - De Que Manera te Olvido",
+    "titles": {
+      "spa": "Luis Miguel - De Que Manera te Olvido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:55:29.535Z",
+    "modified_at": "2022-11-04T05:55:29.912Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_946d31d00e65c9e27eddd1dc66c4b55d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3736232,
+      "gain": -6.39,
+      "duration": 155,
+      "loudnorm": "-10.80,0.44,2.60,-20.91,-0.08",
+      "filename": "processed_f07d76b563456273c608ba13270f1cd6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

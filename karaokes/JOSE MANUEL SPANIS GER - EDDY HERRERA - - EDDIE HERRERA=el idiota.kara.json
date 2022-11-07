@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - EDDIE HERRERA=el idiota.MP3",
+      "loudnorm": "-12.33,1.16,2.20,-22.34,-0.53",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - EDDIE HERRERA=el idiota.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3af8f185-d3bb-49e3-9581-f6aa591d360a",
+    "title": "EDDIE HERRERA=el idiota",
+    "titles": {
+      "spa": "EDDIE HERRERA=el idiota"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "575acd9d-6435-4627-93ba-b7c33858eaf9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:28:49.007Z",
+    "modified_at": "2022-11-04T09:28:49.990Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6294144,
+      "gain": -7.91,
+      "duration": 262,
+      "loudnorm": "-12.33,1.16,2.20,-22.34,-0.53",
+      "filename": "processed_3db2aac180c01b754724b8791ef32e4c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6294144,
+      "gain": -7.91,
+      "duration": 262,
+      "loudnorm": "-12.33,1.16,2.20,-22.34,-0.53",
+      "filename": "processed_14a25ae8438b588eaecbb904c8e7112a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

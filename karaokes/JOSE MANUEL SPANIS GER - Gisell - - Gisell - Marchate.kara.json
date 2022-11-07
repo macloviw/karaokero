@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Marchate.MP3",
+      "loudnorm": "-16.19,0.42,3.90,-26.41,-0.83",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Marchate.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ad9e7141-9f83-484b-ace7-377c5fbf7c56",
+    "title": "Gisell - Marchate",
+    "titles": {
+      "spa": "Gisell - Marchate"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "58f0d855-582d-4f4d-9920-9ed748a48d44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:43:00.485Z",
+    "modified_at": "2022-11-04T09:43:00.946Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4843520,
+      "gain": 0.65,
+      "duration": 302,
+      "loudnorm": "-16.19,0.42,3.90,-26.41,-0.83",
+      "filename": "processed_c4e8cc7fc7520764a3380a101caa56f5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4843520,
+      "gain": 0.65,
+      "duration": 302,
+      "loudnorm": "-16.19,0.42,3.90,-26.41,-0.83",
+      "filename": "processed_920ba9425fb3d8a7f721d5b7b0cf61bb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

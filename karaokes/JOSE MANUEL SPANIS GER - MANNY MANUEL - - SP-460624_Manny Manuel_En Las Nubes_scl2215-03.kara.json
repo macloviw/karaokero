@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - SP-460624_Manny Manuel_En Las Nubes_scl2215-03.mp3",
+      "loudnorm": "-17.40,-0.22,3.80,-27.42,-0.91",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - SP-460624_Manny Manuel_En Las Nubes_scl2215-03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "466a41ce-db76-49ae-bf3c-738c0a12dd9e",
+    "title": "SP-460624_Manny Manuel_En Las Nubes_scl2215-03",
+    "titles": {
+      "spa": "SP-460624_Manny Manuel_En Las Nubes_scl2215-03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:45:59.318Z",
+    "modified_at": "2022-11-04T10:45:59.747Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2e80f7440a891f31ab983ada6080d36.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4817034,
+      "gain": -0.31,
+      "duration": 301,
+      "loudnorm": "-17.40,-0.22,3.80,-27.42,-0.91",
+      "filename": "processed_0fb0eb302e5613386d838999f63faa18.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

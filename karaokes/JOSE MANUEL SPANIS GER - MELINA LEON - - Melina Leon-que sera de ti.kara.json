@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-que sera de ti.mp3",
+      "loudnorm": "-16.17,-0.33,7.70,-26.26,-1.10",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-que sera de ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f853c129-3028-49c2-bb5b-2face0174b2c",
+    "title": "Melina Leon-que sera de ti",
+    "titles": {
+      "spa": "Melina Leon-que sera de ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:12:05.860Z",
+    "modified_at": "2022-11-04T07:12:06.255Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_69356925edfe925c09fdaabfc97cf97a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6028320,
+      "gain": -1.97,
+      "duration": 251,
+      "loudnorm": "-16.17,-0.33,7.70,-26.26,-1.10",
+      "filename": "processed_39e3f55741c71742e197acbd6c36f193.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

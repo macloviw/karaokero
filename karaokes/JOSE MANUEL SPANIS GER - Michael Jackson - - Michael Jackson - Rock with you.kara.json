@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Rock with you.mp3",
+      "loudnorm": "-20.97,-2.00,2.30,-31.09,-0.22",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Rock with you.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "637d0853-d149-4cfe-9af4-b97d78395629",
+    "title": "Michael Jackson - Rock with you",
+    "titles": {
+      "spa": "Michael Jackson - Rock with you"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:15:59.971Z",
+    "modified_at": "2022-11-04T07:16:00.354Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51319e87a0bea0526a7fb6e3a0818fd5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3266865,
+      "gain": 2.37,
+      "duration": 204,
+      "loudnorm": "-20.97,-2.00,2.30,-31.09,-0.22",
+      "filename": "processed_cfb84608cfe2f4e221ccfd3b99cb1921.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

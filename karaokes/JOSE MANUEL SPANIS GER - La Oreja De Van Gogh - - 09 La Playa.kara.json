@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - 09 La Playa.mp3",
+      "loudnorm": "-11.90,-0.61,2.00,-21.93,-0.22",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - 09 La Playa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "883299e0-fc86-4716-907c-a932fd22ce0a",
+    "title": "09 La Playa",
+    "titles": {
+      "spa": "09 La Playa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "da32cc1d-8c87-4f91-a5c6-70ffc922fb8a"
+      ],
+      "singers": [
+        "62b647b6-8f30-46b3-bff4-760dbc0ae1f9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:04:21.265Z",
+    "modified_at": "2022-11-04T09:04:21.731Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eafe2b6505f5ac9f6efd3477354b41a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6204932,
+      "gain": -4.26,
+      "duration": 252,
+      "loudnorm": "-11.90,-0.61,2.00,-21.93,-0.22",
+      "filename": "processed_00efbe5efc2f127747b9182d1c48d237.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

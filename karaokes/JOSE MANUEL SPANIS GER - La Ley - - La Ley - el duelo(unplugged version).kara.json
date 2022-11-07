@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Ley - - La Ley - el duelo(unplugged version).mp3",
+      "loudnorm": "-8.03,7.65,7.20,-18.22,-1.23",
+      "duration": 336,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Ley - - La Ley - el duelo(unplugged version).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2572533d-9bf7-44d3-8750-e74c824c050a",
+    "title": "La Ley - el duelo(unplugged version)",
+    "titles": {
+      "spa": "La Ley - el duelo(unplugged version)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b30331a2-8e4c-4c0c-9c94-01ce9d17cea5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:50:10.284Z",
+    "modified_at": "2022-11-04T04:50:10.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_30e209b75232ca1da15993ccda42854c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5385706,
+      "gain": -9.48,
+      "duration": 336,
+      "loudnorm": "-8.03,7.65,7.20,-18.22,-1.23",
+      "filename": "processed_c17920d5a74253c357ffd10705f623ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

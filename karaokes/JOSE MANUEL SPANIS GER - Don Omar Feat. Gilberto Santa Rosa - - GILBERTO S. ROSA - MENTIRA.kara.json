@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - MENTIRA.MP3",
+      "loudnorm": "-18.88,-1.85,6.20,-28.98,-0.69",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - MENTIRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90d3ff43-9571-4586-ad65-fc7651754875",
+    "title": "GILBERTO S. ROSA   -   MENTIRA",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   MENTIRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:25:42.385Z",
+    "modified_at": "2022-11-04T12:25:43.094Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4641404,
+      "gain": 1.83,
+      "duration": 289,
+      "loudnorm": "-18.88,-1.85,6.20,-28.98,-0.69",
+      "filename": "processed_25c67b885d4f3a3e94363eef5d28a0e2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4641404,
+      "gain": 1.83,
+      "duration": 289,
+      "loudnorm": "-18.88,-1.85,6.20,-28.98,-0.69",
+      "filename": "processed_8ded787c7d9ab1b88f4ae87be5fc731f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

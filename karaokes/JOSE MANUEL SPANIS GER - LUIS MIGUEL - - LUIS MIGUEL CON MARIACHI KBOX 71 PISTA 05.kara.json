@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - LUIS MIGUEL CON MARIACHI KBOX 71 PISTA 05.mp3",
+      "loudnorm": "-11.84,0.42,3.70,-21.99,-0.10",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - LUIS MIGUEL CON MARIACHI KBOX 71 PISTA 05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c829d953-c12a-4691-b424-098a13cf58b1",
+    "title": "LUIS MIGUEL CON MARIACHI  KBOX 71  PISTA 05",
+    "titles": {
+      "spa": "LUIS MIGUEL CON MARIACHI  KBOX 71  PISTA 05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:59:00.681Z",
+    "modified_at": "2022-11-04T05:59:01.090Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fcf4d6682cb68cb7ad068afca70d7a66.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5143083,
+      "gain": -6.68,
+      "duration": 214,
+      "loudnorm": "-11.84,0.42,3.70,-21.99,-0.10",
+      "filename": "processed_e90a3449d9a98a3768f18b2163836f5d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

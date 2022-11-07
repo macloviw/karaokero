@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - tu voz=eddy herreea.MP3",
+      "loudnorm": "-12.84,0.27,1.80,-22.89,-0.68",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - tu voz=eddy herreea.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6441a8a3-de9e-464d-abcf-c5c38d5e97fc",
+    "title": "tu voz=eddy herreea",
+    "titles": {
+      "spa": "tu voz=eddy herreea"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "575acd9d-6435-4627-93ba-b7c33858eaf9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:31:30.977Z",
+    "modified_at": "2022-11-04T09:31:31.687Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6683473,
+      "gain": -4.22,
+      "duration": 278,
+      "loudnorm": "-12.84,0.27,1.80,-22.89,-0.68",
+      "filename": "processed_c668a1f2393945b892f83ea12127a894.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6683473,
+      "gain": -4.22,
+      "duration": 278,
+      "loudnorm": "-12.84,0.27,1.80,-22.89,-0.68",
+      "filename": "processed_d8c012a8cbfdc72d5766ef4c41bcc0b2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

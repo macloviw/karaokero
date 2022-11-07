@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LEO DAN - - 02 leo dan - esa pared.mp3",
+      "loudnorm": "-10.51,0.12,7.70,-20.88,-0.25",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LEO DAN - - 02 leo dan - esa pared.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3fd2a47-c784-4097-8b6a-638bf22c8f07",
+    "title": "02 leo dan - esa pared",
+    "titles": {
+      "spa": "02 leo dan - esa pared"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:12:11.793Z",
+    "modified_at": "2022-11-04T05:12:12.170Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aff117da5069cadab43d08d003adf9ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4276653,
+      "gain": -7.7,
+      "duration": 178,
+      "loudnorm": "-10.51,0.12,7.70,-20.88,-0.25",
+      "filename": "processed_fac0723e4611d6bdc99388f770ef6cf4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

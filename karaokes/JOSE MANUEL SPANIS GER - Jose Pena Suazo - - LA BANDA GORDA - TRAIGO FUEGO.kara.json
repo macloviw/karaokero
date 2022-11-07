@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - LA BANDA GORDA - TRAIGO FUEGO.mp3",
+      "loudnorm": "-13.30,1.10,2.80,-23.35,-0.29",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - LA BANDA GORDA - TRAIGO FUEGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a590dc98-bb75-4942-991a-e46da185e6ac",
+    "title": "LA BANDA GORDA - TRAIGO FUEGO",
+    "titles": {
+      "spa": "LA BANDA GORDA - TRAIGO FUEGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3739aad5-a423-4f5b-8376-7130edef5df4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:10:32.198Z",
+    "modified_at": "2022-11-04T08:10:32.587Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce9f14f8a6affd21feaf62a4cecc2fda.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4219265,
+      "gain": -5.29,
+      "duration": 263,
+      "loudnorm": "-13.30,1.10,2.80,-23.35,-0.29",
+      "filename": "processed_9ce685278e9c72e979b3eccb6f170122.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

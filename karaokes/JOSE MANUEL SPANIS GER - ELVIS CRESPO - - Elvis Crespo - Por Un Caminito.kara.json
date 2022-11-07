@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Por Un Caminito.mp3",
+      "loudnorm": "-13.48,0.50,3.70,-23.52,-0.20",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Por Un Caminito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd8ed894-c804-4f10-96a9-a3e501bc144e",
+    "title": "Elvis Crespo - Por Un Caminito",
+    "titles": {
+      "spa": "Elvis Crespo - Por Un Caminito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:39:37.929Z",
+    "modified_at": "2022-11-04T09:39:38.317Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_934d1b5ae2fdbb47720e3f05d79aee5e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4525339,
+      "gain": -5.12,
+      "duration": 282,
+      "loudnorm": "-13.48,0.50,3.70,-23.52,-0.20",
+      "filename": "processed_98ba0e93f5186e02790b607ab397e5e0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

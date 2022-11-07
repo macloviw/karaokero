@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - MORENA VEN.MP3",
+      "loudnorm": "-12.43,0.90,1.60,-22.51,-0.44",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - MORENA VEN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d4e3de5f-02b8-4cbb-9758-644594968323",
+    "title": "LOS ROSARIOS   -   MORENA VEN",
+    "titles": {
+      "spa": "LOS ROSARIOS   -   MORENA VEN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f0eb147a-2f10-4059-8017-016f96113ae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:42:28.062Z",
+    "modified_at": "2022-11-04T10:42:28.746Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4740461,
+      "gain": -5.9,
+      "duration": 296,
+      "loudnorm": "-12.43,0.90,1.60,-22.51,-0.44",
+      "filename": "processed_54e733b158200cee63a9109dd2a92ad6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4740461,
+      "gain": -5.9,
+      "duration": 296,
+      "loudnorm": "-12.43,0.90,1.60,-22.51,-0.44",
+      "filename": "processed_22daa28585cafa1e41ff29c978e3ad17.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

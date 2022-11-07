@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARVIN SANTIAGO - - MARVIN SANTIAGO==VASO EN COLORES.mp3",
+      "loudnorm": "-7.62,3.24,4.10,-17.65,-1.00",
+      "duration": 360,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARVIN SANTIAGO - - MARVIN SANTIAGO==VASO EN COLORES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d97762b4-7f41-4c71-be52-1952501a770e",
+    "title": "MARVIN SANTIAGO==VASO EN COLORES",
+    "titles": {
+      "spa": "MARVIN SANTIAGO==VASO EN COLORES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5c228b69-2c9d-47cf-b84f-73bcda8720d1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:04:07.762Z",
+    "modified_at": "2022-11-04T07:04:08.155Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0910cb0d25f1819c83a3c1a58cccf9a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8653940,
+      "gain": -12.06,
+      "duration": 360,
+      "loudnorm": "-7.62,3.24,4.10,-17.65,-1.00",
+      "filename": "processed_2edf32d45de185ee37e95bf184d89264.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

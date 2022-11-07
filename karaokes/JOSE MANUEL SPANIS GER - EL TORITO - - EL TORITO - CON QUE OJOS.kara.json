@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - EL TORITO - CON QUE OJOS.mp3",
+      "loudnorm": "-15.22,1.01,3.60,-25.35,-0.18",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - EL TORITO - CON QUE OJOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1df9d2ee-c9c7-49e9-a833-631e1037a37a",
+    "title": "EL TORITO - CON QUE OJOS",
+    "titles": {
+      "spa": "EL TORITO - CON QUE OJOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:05:21.377Z",
+    "modified_at": "2022-11-04T10:05:21.765Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44a2778e7ec73bd3d6149834d004ef07.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3700474,
+      "gain": -3.27,
+      "duration": 264,
+      "loudnorm": "-15.22,1.01,3.60,-25.35,-0.18",
+      "filename": "processed_efd6bf57e0ec44b585f7f0ba8ba86a35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

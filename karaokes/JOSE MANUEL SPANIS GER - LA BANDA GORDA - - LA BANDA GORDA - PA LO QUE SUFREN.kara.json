@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - PA LO QUE SUFREN.mp3",
+      "loudnorm": "-20.99,-4.82,3.00,-31.05,-0.15",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - PA LO QUE SUFREN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05ea8bf9-446d-45fd-b742-daf2aab3cb98",
+    "title": "LA BANDA GORDA - PA LO QUE SUFREN",
+    "titles": {
+      "spa": "LA BANDA GORDA - PA LO QUE SUFREN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f7b8ffdc-0081-4368-846b-08138926e7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:40:28.045Z",
+    "modified_at": "2022-11-04T04:40:28.436Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b2e691b02d04366ad8f669051bd98eaf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4088861,
+      "gain": 2.09,
+      "duration": 291,
+      "loudnorm": "-20.99,-4.82,3.00,-31.05,-0.15",
+      "filename": "processed_18a81ca1b5e233ce3f1a56d7eb4f7329.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - MELAO.mp3",
+      "loudnorm": "-11.76,0.60,3.80,-21.82,-1.03",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - MELAO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b2318e03-dbb7-4ec8-bfd2-8fcf70b6c87b",
+    "title": "LA BANDA GORDA - MELAO",
+    "titles": {
+      "spa": "LA BANDA GORDA - MELAO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f7b8ffdc-0081-4368-846b-08138926e7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:40:14.792Z",
+    "modified_at": "2022-11-04T04:40:15.170Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dc4f31601f0dfc1d568f35c2cacf998a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3894638,
+      "gain": -7.58,
+      "duration": 243,
+      "loudnorm": "-11.76,0.60,3.80,-21.82,-1.03",
+      "filename": "processed_39aa3a392db1d0cb6a85b00aab7224e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Flammers - - Los Flammers - Tongoneaito.mp3",
+      "loudnorm": "-15.41,0.36,3.00,-25.52,0.20",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Flammers - - Los Flammers - Tongoneaito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f9adf325-4f36-4f8f-8f19-5b268dc2a3e9",
+    "title": "Los Flammers - Tongoneaito",
+    "titles": {
+      "spa": "Los Flammers - Tongoneaito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "359d1607-d2c6-4113-a9af-6ee6fa49035d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:30:01.576Z",
+    "modified_at": "2022-11-04T05:30:01.967Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b7230971e8fa36d8c09f02531caa2a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3029045,
+      "gain": -2.83,
+      "duration": 189,
+      "loudnorm": "-15.41,0.36,3.00,-25.52,0.20",
+      "filename": "processed_4360f0df2270019e12ff6d4b897326f3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

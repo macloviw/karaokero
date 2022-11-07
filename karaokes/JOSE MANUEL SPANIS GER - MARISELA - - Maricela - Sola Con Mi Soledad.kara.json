@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Sola Con Mi Soledad.mp3",
+      "loudnorm": "-9.05,1.93,4.00,-19.15,-0.38",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Sola Con Mi Soledad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ee8d15af-d968-404d-af5c-6cc072fc305e",
+    "title": "Maricela - Sola Con Mi Soledad",
+    "titles": {
+      "spa": "Maricela - Sola Con Mi Soledad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:58:59.822Z",
+    "modified_at": "2022-11-04T06:59:00.208Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d088b10e8a2b79ebc3d9b0c14195ade8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3756166,
+      "gain": -9.05,
+      "duration": 234,
+      "loudnorm": "-9.05,1.93,4.00,-19.15,-0.38",
+      "filename": "processed_3578d425b83033a3107e61793dd8a2a4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

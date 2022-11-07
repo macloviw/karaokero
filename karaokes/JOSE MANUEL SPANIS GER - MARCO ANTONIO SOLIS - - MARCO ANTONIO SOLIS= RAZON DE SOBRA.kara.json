@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - MARCO ANTONIO SOLIS= RAZON DE SOBRA.mp3",
+      "loudnorm": "-11.63,1.28,7.10,-21.73,-0.22",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - MARCO ANTONIO SOLIS= RAZON DE SOBRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf40c0ee-8373-47f2-9389-8ba4becad155",
+    "title": "MARCO ANTONIO SOLIS= RAZON DE SOBRA",
+    "titles": {
+      "spa": "MARCO ANTONIO SOLIS= RAZON DE SOBRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:52:58.815Z",
+    "modified_at": "2022-11-04T06:52:59.196Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a1ed1f1f52bc41a4d095acadd10858e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4105581,
+      "gain": -7,
+      "duration": 256,
+      "loudnorm": "-11.63,1.28,7.10,-21.73,-0.22",
+      "filename": "processed_ed9b792ee1b65e8df7eff131d81bf5a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Bukis - - Los Bukis - Que lastima.MP3",
+      "loudnorm": "-18.14,0.78,5.60,-28.16,-0.53",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Bukis - - Los Bukis - Que lastima.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb3d5ef0-b1e9-4a4e-8374-901f22aa6084",
+    "title": "Los Bukis - Que lastima",
+    "titles": {
+      "spa": "Los Bukis - Que lastima"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:28:57.944Z",
+    "modified_at": "2022-11-04T05:28:58.552Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3859062,
+      "gain": 0.37,
+      "duration": 240,
+      "loudnorm": "-18.14,0.78,5.60,-28.16,-0.53",
+      "filename": "processed_98b770ff090d18aa62b4da1840c932bb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3859062,
+      "gain": 0.37,
+      "duration": 240,
+      "loudnorm": "-18.14,0.78,5.60,-28.16,-0.53",
+      "filename": "processed_231aae725762635c86f4efe794259856.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

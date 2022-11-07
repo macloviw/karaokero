@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Se Parecio tanto A Ti.MP3",
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "duration": 329,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Se Parecio tanto A Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a66954ee-6bf2-4e83-87f9-e3dc02310ded",
+    "title": "Grupo Niche - Se Parecio tanto A Ti",
+    "titles": {
+      "spa": "Grupo Niche - Se Parecio tanto A Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:39:27.933Z",
+    "modified_at": "2022-11-04T12:39:28.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 13162496,
+      "gain": -5.05,
+      "duration": 329,
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "filename": "processed_e0482777c93f3e2f7ef78f3e2321db06.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 13162496,
+      "gain": -5.05,
+      "duration": 329,
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "filename": "processed_7a3c0b66c42b12191b262816f90e54ae.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

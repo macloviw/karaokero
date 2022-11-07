@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - VICENTE FERNANDEZ=EL REY.mp3",
+      "loudnorm": "-14.32,0.82,4.60,-24.39,0.51",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - VICENTE FERNANDEZ=EL REY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e274c23c-0e6b-4c19-82fa-c151f98cedc7",
+    "title": "VICENTE FERNANDEZ=EL REY",
+    "titles": {
+      "spa": "VICENTE FERNANDEZ=EL REY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:01:15.478Z",
+    "modified_at": "2022-11-04T06:01:15.854Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ebbf0dd5c92dd660b85ff6731af69d58.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2757244,
+      "gain": -3.87,
+      "duration": 172,
+      "loudnorm": "-14.32,0.82,4.60,-24.39,0.51",
+      "filename": "processed_b42a0d2f4577e3a83858baa437b0e374.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Loco De Amor.mp3",
+      "loudnorm": "-10.57,1.67,4.90,-20.59,-1.14",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Loco De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "506418d8-f674-43a8-872a-43cd22648a83",
+    "title": "Grupo Mania - Loco De Amor",
+    "titles": {
+      "spa": "Grupo Mania - Loco De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:45:19.160Z",
+    "modified_at": "2022-11-04T09:45:19.560Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_46b4f3fe03f6589ba56c5de1120294a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4214456,
+      "gain": -8.9,
+      "duration": 263,
+      "loudnorm": "-10.57,1.67,4.90,-20.59,-1.14",
+      "filename": "processed_3abe6cecdfa9eb5bb1baaf1b72b4601f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

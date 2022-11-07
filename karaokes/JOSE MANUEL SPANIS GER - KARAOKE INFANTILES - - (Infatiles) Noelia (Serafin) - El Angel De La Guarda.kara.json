@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Noelia (Serafin) - El Angel De La Guarda.mp3",
+      "loudnorm": "-12.56,0.18,8.40,-22.74,-0.91",
+      "duration": 130,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Noelia (Serafin) - El Angel De La Guarda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf341f30-12b7-4f52-b714-bb64b15bc361",
+    "title": "(Infatiles) Noelia (Serafin) - El Angel De La Guarda",
+    "titles": {
+      "spa": "(Infatiles) Noelia (Serafin) - El Angel De La Guarda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:44.535Z",
+    "modified_at": "2022-11-04T04:22:44.968Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f027d07f009d483310945ef65170f72f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2082879,
+      "gain": -5.47,
+      "duration": 130,
+      "loudnorm": "-12.56,0.18,8.40,-22.74,-0.91",
+      "filename": "processed_15cfa64a9fecfbf59a764a584427ba5a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

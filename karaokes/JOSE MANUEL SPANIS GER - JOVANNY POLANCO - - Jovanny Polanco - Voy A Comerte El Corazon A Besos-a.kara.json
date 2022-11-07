@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOVANNY POLANCO - - Jovanny Polanco - Voy A Comerte El Corazon A Besos-a.mp3",
+      "loudnorm": "-18.12,-0.11,3.00,-28.14,-0.19",
+      "duration": 345,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOVANNY POLANCO - - Jovanny Polanco - Voy A Comerte El Corazon A Besos-a.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7489e5d4-6399-4ee6-b483-9e8255a14d62",
+    "title": "Jovanny Polanco - Voy A Comerte El Corazon A Besos-a",
+    "titles": {
+      "spa": "Jovanny Polanco - Voy A Comerte El Corazon A Besos-a"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "64c2f940-c7d8-4980-8076-5cb81fa7ab26"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:02:45.974Z",
+    "modified_at": "2022-11-04T04:02:46.362Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_821edd256ec4aa1b24b61ff7e632e39c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5527187,
+      "gain": 0.69,
+      "duration": 345,
+      "loudnorm": "-18.12,-0.11,3.00,-28.14,-0.19",
+      "filename": "processed_af3002f0de6de94a853cfc8cee5e5116.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

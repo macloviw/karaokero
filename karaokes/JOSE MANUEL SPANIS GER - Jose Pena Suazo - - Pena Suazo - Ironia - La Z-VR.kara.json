@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - Pena Suazo - Ironia - La Z-VR.mp3",
+      "loudnorm": "-10.43,2.11,2.80,-20.44,0.24",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - Pena Suazo - Ironia - La Z-VR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b3c2bfc-d0ac-4b73-a953-db646f77a3d0",
+    "title": "Pena Suazo - Ironia - La Z-VR",
+    "titles": {
+      "spa": "Pena Suazo - Ironia - La Z-VR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3739aad5-a423-4f5b-8376-7130edef5df4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:10:01.359Z",
+    "modified_at": "2022-11-04T08:10:01.757Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf392320199e59cd12686360590b7713.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6018917,
+      "gain": -5.1,
+      "duration": 250,
+      "loudnorm": "-10.43,2.11,2.80,-20.44,0.24",
+      "filename": "processed_15cc28799a87f8e518393ae303644d1b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

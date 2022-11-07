@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - A Que Te Pongo.mp3",
+      "loudnorm": "-9.13,0.99,4.50,-19.19,-0.17",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - A Que Te Pongo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fab5ce5e-8bb1-4777-8801-61cbaa234fb0",
+    "title": "Kumbia Kings - A Que Te Pongo",
+    "titles": {
+      "spa": "Kumbia Kings - A Que Te Pongo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:32:33.970Z",
+    "modified_at": "2022-11-04T04:32:34.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_55f0dee92cf364fbae45dbb0553c1352.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4649055,
+      "gain": -8.93,
+      "duration": 193,
+      "loudnorm": "-9.13,0.99,4.50,-19.19,-0.17",
+      "filename": "processed_1b2627e312d1c1fd508c3db6dc250c69.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

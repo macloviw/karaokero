@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Cien Anos.mp3",
+      "loudnorm": "-11.03,1.29,1.50,-21.18,0.15",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Cien Anos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "272731eb-0e73-466a-94c8-e17ea0a8a63f",
+    "title": "Los Tigres Del Norte - Cien Años",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Cien Años"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:35:20.202Z",
+    "modified_at": "2022-11-04T05:35:20.611Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f6d17e7d354826a2cb0e49cdef046bc5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5426616,
+      "gain": -6.32,
+      "duration": 225,
+      "loudnorm": "-11.03,1.29,1.50,-21.18,0.15",
+      "filename": "processed_9884dcc44e620e5bbc2dfe65ca0d6b0c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

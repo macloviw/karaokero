@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==EL TORO.mp3",
+      "loudnorm": "-7.94,3.25,4.00,-18.01,-1.19",
+      "duration": 457,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==EL TORO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6a5935c-3e90-40f9-b6d0-109e3f3610dd",
+    "title": "CANO ESTREMERA==EL TORO",
+    "titles": {
+      "spa": "CANO ESTREMERA==EL TORO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c7a3003c-08ee-4826-a486-91ef68613a22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:50:56.661Z",
+    "modified_at": "2022-11-04T11:50:57.057Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d43ae6a973f380aac7ec786a68ee12e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10976121,
+      "gain": -12.19,
+      "duration": 457,
+      "loudnorm": "-7.94,3.25,4.00,-18.01,-1.19",
+      "filename": "processed_6af4276277efe391a16e92d3421a2636.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

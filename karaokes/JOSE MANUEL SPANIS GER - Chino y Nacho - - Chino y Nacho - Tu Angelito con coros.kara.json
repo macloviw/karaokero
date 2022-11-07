@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - Chino y Nacho - Tu Angelito con coros.mp3",
+      "loudnorm": "-10.68,2.95,2.70,-20.73,0.26",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - Chino y Nacho - Tu Angelito con coros.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8e976c69-7331-4f15-a24d-590b284ae617",
+    "title": "Chino y Nacho - Tu Angelito con coros",
+    "titles": {
+      "spa": "Chino y Nacho - Tu Angelito con coros"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "7a1ac309-8d67-4d85-a0a7-6dd4a04e1fd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:21:47.175Z",
+    "modified_at": "2022-11-04T09:21:47.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecff4a9fbbbe52e60a5cd11222c5f8d2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3827210,
+      "gain": -7.93,
+      "duration": 239,
+      "loudnorm": "-10.68,2.95,2.70,-20.73,0.26",
+      "filename": "processed_b2a9ca0e935e97da126cb7e0ca3ce829.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

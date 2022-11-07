@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - LA GUACHERNA.mp3",
+      "loudnorm": "-11.50,1.51,3.50,-21.56,-0.26",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - LA GUACHERNA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ddaf7b4-9dd6-4773-a267-bcf004f446b2",
+    "title": "LA GUACHERNA",
+    "titles": {
+      "spa": "LA GUACHERNA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:21:40.299Z",
+    "modified_at": "2022-11-04T07:21:40.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f7e635188c20da9008b0024290fd461c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3729045,
+      "gain": -7.06,
+      "duration": 232,
+      "loudnorm": "-11.50,1.51,3.50,-21.56,-0.26",
+      "filename": "processed_8db8e18905a63285aeaf8b41218c37fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - LOS HERMANOS ROSARIO - PECADORA.mp3",
+      "loudnorm": "-6.89,1.51,1.70,-16.93,-0.87",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - LOS HERMANOS ROSARIO - PECADORA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e7e9e65-273b-4efa-99ef-b907f8ea873d",
+    "title": "LOS HERMANOS ROSARIO - PECADORA",
+    "titles": {
+      "spa": "LOS HERMANOS ROSARIO - PECADORA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "607aff9e-cc83-4cca-b5f6-311ec43ed46a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:30:49.095Z",
+    "modified_at": "2022-11-04T05:30:49.481Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4440d760b6be5f60727c06f139f9fe53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11316467,
+      "gain": -11.92,
+      "duration": 282,
+      "loudnorm": "-6.89,1.51,1.70,-16.93,-0.87",
+      "filename": "processed_0e2e7c8a48a50bce50adccdae551abc1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

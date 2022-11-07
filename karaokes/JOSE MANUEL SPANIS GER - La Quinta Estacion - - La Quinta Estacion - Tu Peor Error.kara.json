@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Quinta Estacion - - La Quinta Estacion - Tu Peor Error.MP3",
+      "loudnorm": "-14.10,-0.22,5.80,-24.25,-0.21",
+      "duration": 167,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Quinta Estacion - - La Quinta Estacion - Tu Peor Error.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f8c5c66-3804-4ea9-add3-3cb2e185195a",
+    "title": "La Quinta Estacion - Tu Peor Error",
+    "titles": {
+      "spa": "La Quinta Estacion - Tu Peor Error"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0e4ed079-03d3-4a72-bfc3-0b6dc9695cd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:58:38.281Z",
+    "modified_at": "2022-11-04T04:58:38.762Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2680467,
+      "gain": -4.23,
+      "duration": 167,
+      "loudnorm": "-14.10,-0.22,5.80,-24.25,-0.21",
+      "filename": "processed_8f0b5014045b9146d217b548b870ec0b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2680467,
+      "gain": -4.23,
+      "duration": 167,
+      "loudnorm": "-14.10,-0.22,5.80,-24.25,-0.21",
+      "filename": "processed_c9bef16a1ac697fbba18b9d99c4e3e33.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

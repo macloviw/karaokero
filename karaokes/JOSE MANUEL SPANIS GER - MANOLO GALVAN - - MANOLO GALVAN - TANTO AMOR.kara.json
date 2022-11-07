@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - TANTO AMOR.MP3",
+      "loudnorm": "-17.32,-1.31,5.40,-27.54,-0.78",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - TANTO AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6079f919-6579-4015-b6a2-27a49c3cc26a",
+    "title": "MANOLO GALVAN   -   TANTO AMOR",
+    "titles": {
+      "spa": "MANOLO GALVAN   -   TANTO AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:24:02.494Z",
+    "modified_at": "2022-11-04T06:24:02.970Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4397316,
+      "gain": -1.01,
+      "duration": 274,
+      "loudnorm": "-17.32,-1.31,5.40,-27.54,-0.78",
+      "filename": "processed_98a06373f86887c5a83b9b37af593f9d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4397316,
+      "gain": -1.01,
+      "duration": 274,
+      "loudnorm": "-17.32,-1.31,5.40,-27.54,-0.78",
+      "filename": "processed_7e02ef5e82415e9f6ff461b10fe9ec6b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

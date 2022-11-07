@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Alma Adentro.mp3",
+      "loudnorm": "-14.92,0.42,2.20,-24.97,0.04",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Alma Adentro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dadf06ea-da71-484b-b1fe-0fc2e6274d03",
+    "title": "Manny Manuel - Alma Adentro",
+    "titles": {
+      "spa": "Manny Manuel - Alma Adentro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:18:07.227Z",
+    "modified_at": "2022-11-04T06:18:07.603Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_be056e9972c1d83ac4c09819f0ab2d73.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3658492,
+      "gain": -3.74,
+      "duration": 228,
+      "loudnorm": "-14.92,0.42,2.20,-24.97,0.04",
+      "filename": "processed_12db5d212196082478847667aa877873.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

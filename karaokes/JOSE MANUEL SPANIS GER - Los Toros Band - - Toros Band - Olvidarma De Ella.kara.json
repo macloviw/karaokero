@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Toros Band - Olvidarma De Ella.MP3",
+      "loudnorm": "-18.21,-1.10,2.30,-28.27,-0.17",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Toros Band - Olvidarma De Ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "74cbeb71-1a31-464d-a4f8-20ce7830ea5d",
+    "title": "Toros Band   -   Olvidarma De Ella",
+    "titles": {
+      "spa": "Toros Band   -   Olvidarma De Ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:44:45.795Z",
+    "modified_at": "2022-11-04T10:44:46.405Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4613401,
+      "gain": -0.89,
+      "duration": 288,
+      "loudnorm": "-18.21,-1.10,2.30,-28.27,-0.17",
+      "filename": "processed_ce3fe34a94c4206182917447384c2bb7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4613401,
+      "gain": -0.89,
+      "duration": 288,
+      "loudnorm": "-18.21,-1.10,2.30,-28.27,-0.17",
+      "filename": "processed_a10b517c29c7c865b5505aff4db38701.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

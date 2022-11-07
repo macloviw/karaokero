@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Baila Morena.mp3",
+      "loudnorm": "-7.61,3.48,6.50,-17.88,-0.35",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Baila Morena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "19a82e80-bbcc-46fe-afef-a31b064aba4e",
+    "title": "Hector y Tito - Baila Morena",
+    "titles": {
+      "spa": "Hector y Tito - Baila Morena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "e628e342-828c-4f77-bad3-6c8238dcd96d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:44:22.950Z",
+    "modified_at": "2022-11-04T11:44:23.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_98bf1b1f7b7495564a32b7d1fb07f608.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2707790,
+      "gain": -9.61,
+      "duration": 169,
+      "loudnorm": "-7.61,3.48,6.50,-17.88,-0.35",
+      "filename": "processed_9f35572864cca7312a218e9a28abd9dd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

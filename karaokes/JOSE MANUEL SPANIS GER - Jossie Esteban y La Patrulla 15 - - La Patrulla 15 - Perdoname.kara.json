@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jossie Esteban y La Patrulla 15 - - La Patrulla 15 - Perdoname.mp3",
+      "loudnorm": "-12.58,0.13,3.50,-22.63,-1.17",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jossie Esteban y La Patrulla 15 - - La Patrulla 15 - Perdoname.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb91a1c4-724d-44e3-a701-d2d3c9e2ca2a",
+    "title": "La Patrulla 15 - Perdoname",
+    "titles": {
+      "spa": "La Patrulla 15 - Perdoname"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3fd1e5a2-49d2-48ec-a303-12bf0691a2f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:57:51.449Z",
+    "modified_at": "2022-11-04T04:57:51.829Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7e182563772cda8744978be585e42737.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6348059,
+      "gain": -6.21,
+      "duration": 264,
+      "loudnorm": "-12.58,0.13,3.50,-22.63,-1.17",
+      "filename": "processed_11800d5c946c110fcff3a98a703dce2b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

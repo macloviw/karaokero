@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Linkin Park - - Linkin Park - Runaway.mp3",
+      "loudnorm": "-11.98,-0.70,8.60,-22.18,-1.49",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Linkin Park - - Linkin Park - Runaway.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "32a321b4-22b0-41ae-b013-2d2f563d53a8",
+    "title": "Linkin Park - Runaway",
+    "titles": {
+      "spa": "Linkin Park - Runaway"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "20ae61f8-2bc9-47f0-a247-5b85d54ca962"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:21:20.514Z",
+    "modified_at": "2022-11-04T05:21:20.892Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_46b0de6a13cfc0674e5e98f07832919c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3320781,
+      "gain": -7.04,
+      "duration": 207,
+      "loudnorm": "-11.98,-0.70,8.60,-22.18,-1.49",
+      "filename": "processed_83d587fe918bba6e87a70537950f52d9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

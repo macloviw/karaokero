@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - VISA PARA UN SUENO.MP3",
+      "loudnorm": "-14.66,0.66,2.30,-24.68,-0.49",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - VISA PARA UN SUENO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d16a3a6-d32f-492d-9569-7ffb453b0018",
+    "title": "JUAN L GUERRA   -   VISA PARA UN SUEÑO",
+    "titles": {
+      "spa": "JUAN L GUERRA   -   VISA PARA UN SUEÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:36:47.093Z",
+    "modified_at": "2022-11-04T10:36:48.204Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3945920,
+      "gain": -6.39,
+      "duration": 246,
+      "loudnorm": "-14.66,0.66,2.30,-24.68,-0.49",
+      "filename": "processed_7b1e8a0f0dae0424ac60e23c0730ec13.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3945920,
+      "gain": -6.39,
+      "duration": 246,
+      "loudnorm": "-14.66,0.66,2.30,-24.68,-0.49",
+      "filename": "processed_e36fbfee1e43ee0a68265817d256bc71.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

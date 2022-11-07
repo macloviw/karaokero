@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDWIN EL FUTURO DE LA SALSA - - EDWIN - PROMETO OLVIDARTE.mp3",
+      "loudnorm": "-11.31,2.09,4.60,-21.44,-0.55",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDWIN EL FUTURO DE LA SALSA - - EDWIN - PROMETO OLVIDARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c3f6203-535e-4f57-87e3-394ce1f282f4",
+    "title": "EDWIN - PROMETO OLVIDARTE",
+    "titles": {
+      "spa": "EDWIN - PROMETO OLVIDARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "6387ba78-2538-41d9-ac5b-14c776743159"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:07:56.438Z",
+    "modified_at": "2022-11-04T12:07:56.825Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c043ea43c553ed265cdb145edf726308.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10621483,
+      "gain": -7.01,
+      "duration": 265,
+      "loudnorm": "-11.31,2.09,4.60,-21.44,-0.55",
+      "filename": "processed_22638a09e1f82248b224ffe958d98868.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

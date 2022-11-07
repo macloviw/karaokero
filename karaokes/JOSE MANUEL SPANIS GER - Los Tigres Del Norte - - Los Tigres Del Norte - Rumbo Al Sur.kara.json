@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Rumbo Al Sur.mp3",
+      "loudnorm": "-9.34,1.20,3.50,-19.43,-0.06",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Rumbo Al Sur.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf7c54ca-3126-46a5-82ac-3082c43e17ff",
+    "title": "Los Tigres Del Norte - Rumbo Al Sur",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Rumbo Al Sur"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:39:00.515Z",
+    "modified_at": "2022-11-04T05:39:00.902Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fbd528d9e7a8f270935e4796ca783398.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5094965,
+      "gain": -8.06,
+      "duration": 212,
+      "loudnorm": "-9.34,1.20,3.50,-19.43,-0.06",
+      "filename": "processed_92eea37a24096d436373dcf4b82cc5ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

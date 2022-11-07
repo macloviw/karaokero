@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Vuelve.MP3",
+      "loudnorm": "-14.20,0.94,4.60,-24.23,-0.87",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Vuelve.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f280d54f-3288-4a67-b8eb-0a29853262f1",
+    "title": "Benny Sadel - Vuelve",
+    "titles": {
+      "spa": "Benny Sadel - Vuelve"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "f6d6d932-304e-4407-9f25-1ca118778e25"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:14:43.563Z",
+    "modified_at": "2022-11-04T09:14:44.130Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4579328,
+      "gain": -5.25,
+      "duration": 284,
+      "loudnorm": "-14.20,0.94,4.60,-24.23,-0.87",
+      "filename": "processed_f03b3ca690b0a96962b5ac0d5a26f630.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4579328,
+      "gain": -5.25,
+      "duration": 284,
+      "loudnorm": "-14.20,0.94,4.60,-24.23,-0.87",
+      "filename": "processed_3fca088018789635a006ec22d59a14e5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

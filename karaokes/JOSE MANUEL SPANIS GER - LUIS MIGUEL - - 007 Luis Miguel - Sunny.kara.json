@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 007 Luis Miguel - Sunny.mp3",
+      "loudnorm": "-14.52,0.25,2.80,-24.65,-0.11",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 007 Luis Miguel - Sunny.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7efcad17-3ee7-4581-80df-bc4b98f645d7",
+    "title": "007 Luís Miguel - Sunny",
+    "titles": {
+      "spa": "007 Luís Miguel - Sunny"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:53:45.512Z",
+    "modified_at": "2022-11-04T05:53:45.888Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_288f349c994da07ed996f8381ef60274.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4872346,
+      "gain": -1.96,
+      "duration": 203,
+      "loudnorm": "-14.52,0.25,2.80,-24.65,-0.11",
+      "filename": "processed_f0c542e6bb36ad554ad2b12cbe3f4b67.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

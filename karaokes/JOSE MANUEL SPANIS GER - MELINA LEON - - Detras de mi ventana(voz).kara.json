@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Detras de mi ventana(voz).mp3",
+      "loudnorm": "-9.94,1.27,3.70,-20.06,-0.88",
+      "duration": 368,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Detras de mi ventana(voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12b01a77-91ed-4a2e-a208-788e87fa0dd4",
+    "title": "Detras de mi ventana(voz)",
+    "titles": {
+      "spa": "Detras de mi ventana(voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:10:10.701Z",
+    "modified_at": "2022-11-04T07:10:11.094Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bef6b14ac52e00e0a181835907395298.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8853933,
+      "gain": -7.75,
+      "duration": 368,
+      "loudnorm": "-9.94,1.27,3.70,-20.06,-0.88",
+      "filename": "processed_4acca9e3ccdb2cfef102a5a20c5f9957.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

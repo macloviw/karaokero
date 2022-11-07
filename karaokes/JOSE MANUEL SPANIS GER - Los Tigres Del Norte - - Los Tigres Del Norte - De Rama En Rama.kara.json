@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - De Rama En Rama.mp3",
+      "loudnorm": "-14.75,-0.01,3.00,-24.80,-0.62",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - De Rama En Rama.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b0b51b9-9cc1-4f19-854b-7fafa41242c2",
+    "title": "Los Tigres Del Norte - De Rama En Rama",
+    "titles": {
+      "spa": "Los Tigres Del Norte - De Rama En Rama"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:35:46.945Z",
+    "modified_at": "2022-11-04T05:35:47.373Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8f8309fb9660e08cfa76d818606546e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3616286,
+      "gain": -2.91,
+      "duration": 225,
+      "loudnorm": "-14.75,-0.01,3.00,-24.80,-0.62",
+      "filename": "processed_f5175ef5c230cefb4c393e3356264421.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

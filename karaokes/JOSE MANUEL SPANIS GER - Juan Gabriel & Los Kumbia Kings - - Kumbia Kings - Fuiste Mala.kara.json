@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Fuiste Mala.mp3",
+      "loudnorm": "-11.90,1.52,2.30,-22.02,-0.37",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Fuiste Mala.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4122a469-a998-4f37-89d5-ee5c5509053e",
+    "title": "Kumbia Kings - Fuiste Mala",
+    "titles": {
+      "spa": "Kumbia Kings - Fuiste Mala"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:33:40.786Z",
+    "modified_at": "2022-11-04T04:33:41.172Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4f712829007291bc7dcb06e83220924f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4982586,
+      "gain": -4.62,
+      "duration": 207,
+      "loudnorm": "-11.90,1.52,2.30,-22.02,-0.37",
+      "filename": "processed_e8a3db831f1406a7a7ab520d1d98d2f9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

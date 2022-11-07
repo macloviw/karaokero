@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - pero dime MAK.mp3",
+      "loudnorm": "-14.10,-2.58,3.60,-24.25,-0.55",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - pero dime MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "843db79c-82b7-42eb-a02c-8447c3a4f857",
+    "title": "Yovanny Polanco - pero dime MAK",
+    "titles": {
+      "spa": "Yovanny Polanco - pero dime MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "singers": [
+        "ccd45d64-b03c-4304-9627-d68c9071e9fe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:57:18.630Z",
+    "modified_at": "2022-11-04T12:57:19.006Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_23864c8bd628dedf3e201129420df494.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4075198,
+      "gain": -4.45,
+      "duration": 254,
+      "loudnorm": "-14.10,-2.58,3.60,-24.25,-0.55",
+      "filename": "processed_7f9c201852b0c00c89a1c1c531557255.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

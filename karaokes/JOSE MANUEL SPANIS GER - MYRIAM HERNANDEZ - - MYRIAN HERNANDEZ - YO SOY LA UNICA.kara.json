@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - MYRIAN HERNANDEZ - YO SOY LA UNICA.mp3",
+      "loudnorm": "-16.53,0.23,6.80,-26.59,-0.82",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - MYRIAN HERNANDEZ - YO SOY LA UNICA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1ccafbea-4cb0-4999-9210-8ddcdccab11a",
+    "title": "MYRIAN HERNANDEZ - YO SOY LA UNICA",
+    "titles": {
+      "spa": "MYRIAN HERNANDEZ - YO SOY LA UNICA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e50c894a-425f-4e48-b92e-212adc09e2a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:36:07.229Z",
+    "modified_at": "2022-11-04T07:36:07.637Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3094acd1b966c3086ea0693f8aa7966a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10392650,
+      "gain": -0.1,
+      "duration": 259,
+      "loudnorm": "-16.53,0.23,6.80,-26.59,-0.82",
+      "filename": "processed_9c4e8475783e7af70495c5dde16f010a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

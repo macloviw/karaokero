@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - MANY MANUEL - EN LAS NUBES.MP3",
+      "loudnorm": "-17.40,0.09,3.80,-27.42,-0.91",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - MANY MANUEL - EN LAS NUBES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a4d9da6d-3d5b-4004-ab68-6e8fa125ba4d",
+    "title": "MANY MANUEL - EN LAS NUBES",
+    "titles": {
+      "spa": "MANY MANUEL - EN LAS NUBES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:45:35.177Z",
+    "modified_at": "2022-11-04T10:45:35.882Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4817024,
+      "gain": -0.35,
+      "duration": 300,
+      "loudnorm": "-17.40,0.09,3.80,-27.42,-0.91",
+      "filename": "processed_f78dbcab2e0026ae51f4ffde0541a187.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4817024,
+      "gain": -0.35,
+      "duration": 300,
+      "loudnorm": "-17.40,0.09,3.80,-27.42,-0.91",
+      "filename": "processed_8ce54af2db359bda02c66aad500779da.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

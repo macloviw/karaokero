@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - MARISELA - TU DAMA DE HIERRO.mp3",
+      "loudnorm": "-8.07,1.69,3.70,-18.26,-1.33",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - MARISELA - TU DAMA DE HIERRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c721e52-9c31-4278-a1ea-3afdd3909627",
+    "title": "MARISELA   -   TU DAMA DE HIERRO",
+    "titles": {
+      "spa": "MARISELA   -   TU DAMA DE HIERRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:59:19.698Z",
+    "modified_at": "2022-11-04T06:59:20.081Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf5963f13636f30f31c743dbf62d9d71.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4946367,
+      "gain": -9.43,
+      "duration": 206,
+      "loudnorm": "-8.07,1.69,3.70,-18.26,-1.33",
+      "filename": "processed_0843b0522c770f0b8c1c035ce25e809a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

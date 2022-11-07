@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - EL TORITO-SIN PERDON.mp3",
+      "loudnorm": "-14.38,1.26,3.30,-24.51,-0.47",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - EL TORITO-SIN PERDON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd65334e-cd4b-443c-83d2-9a90b1662544",
+    "title": "EL TORITO-SIN PERDON",
+    "titles": {
+      "spa": "EL TORITO-SIN PERDON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:05:33.054Z",
+    "modified_at": "2022-11-04T10:05:33.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8192318a72d82e2a85eefa3d5eb5b666.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3506280,
+      "gain": -3.83,
+      "duration": 250,
+      "loudnorm": "-14.38,1.26,3.30,-24.51,-0.47",
+      "filename": "processed_533e37c2a9663692ddae7e0ba63128cd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

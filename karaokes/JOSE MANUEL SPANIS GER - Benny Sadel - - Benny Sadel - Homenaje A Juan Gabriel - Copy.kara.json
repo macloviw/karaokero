@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Homenaje A Juan Gabriel - Copy.mp3",
+      "loudnorm": "-14.28,2.33,3.70,-24.37,-0.29",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Homenaje A Juan Gabriel - Copy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b294a02-c3be-4b9a-b93c-e6d624edbe8e",
+    "title": "Benny Sadel - Homenaje A Juan Gabriel - Copy",
+    "titles": {
+      "spa": "Benny Sadel - Homenaje A Juan Gabriel - Copy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "f6d6d932-304e-4407-9f25-1ca118778e25"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:14:08.586Z",
+    "modified_at": "2022-11-04T09:14:08.971Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_30a813debdbc1925ece84250aed94018.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6202078,
+      "gain": -5.34,
+      "duration": 310,
+      "loudnorm": "-14.28,2.33,3.70,-24.37,-0.29",
+      "filename": "processed_5d245c3dc0f640f562b51999f3846309.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

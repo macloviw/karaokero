@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - Johnny Ventura - Sancocho Prieto.mp3",
+      "loudnorm": "-13.05,-1.11,2.40,-23.11,-0.67",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - Johnny Ventura - Sancocho Prieto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b8cad4af-d367-4853-94f1-7584dce722eb",
+    "title": "Johnny Ventura - Sancocho Prieto",
+    "titles": {
+      "spa": "Johnny Ventura - Sancocho Prieto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "5ad8bc9b-c9f9-44c1-b4e0-e7ec70214ea9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:27:01.477Z",
+    "modified_at": "2022-11-04T10:27:01.927Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b7fae19c103a7e27acf56c497b994745.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3465685,
+      "gain": -6.85,
+      "duration": 216,
+      "loudnorm": "-13.05,-1.11,2.40,-23.11,-0.67",
+      "filename": "processed_b9075746ae039b7ddd51d78253d154c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

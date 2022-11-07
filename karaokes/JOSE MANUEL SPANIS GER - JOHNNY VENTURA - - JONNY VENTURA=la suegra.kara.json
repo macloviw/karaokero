@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - JONNY VENTURA=la suegra.MP3",
+      "loudnorm": "-14.98,-2.15,1.90,-25.17,-0.35",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - JONNY VENTURA=la suegra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0db360f-0bb4-4650-8f36-d2b5a986bf00",
+    "title": "JONNY VENTURA=la suegra",
+    "titles": {
+      "spa": "JONNY VENTURA=la suegra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "5ad8bc9b-c9f9-44c1-b4e0-e7ec70214ea9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:28:11.300Z",
+    "modified_at": "2022-11-04T10:28:11.774Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5049044,
+      "gain": -4.26,
+      "duration": 210,
+      "loudnorm": "-14.98,-2.15,1.90,-25.17,-0.35",
+      "filename": "processed_ae018cc4cfbdcd672a8e231204f0f8c3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5049044,
+      "gain": -4.26,
+      "duration": 210,
+      "loudnorm": "-14.98,-2.15,1.90,-25.17,-0.35",
+      "filename": "processed_e1345524837f150c0d53095eef957ae4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

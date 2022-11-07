@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Negra De La Salsa - - La Negra De La Salsa - Homenaje a Selena.mp3",
+      "loudnorm": "-13.18,1.42,4.40,-23.29,-0.31",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Negra De La Salsa - - La Negra De La Salsa - Homenaje a Selena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "64356952-3202-484b-aabe-975e0caa58a3",
+    "title": "La Negra De La Salsa - Homenaje a Selena",
+    "titles": {
+      "spa": "La Negra De La Salsa - Homenaje a Selena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "24cf15b4-6f7a-434d-b4c2-518823c5defc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:53:00.793Z",
+    "modified_at": "2022-11-04T04:53:01.167Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e9dbf30d1fd58ea369f9a3e72503459c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4817074,
+      "gain": -5.83,
+      "duration": 300,
+      "loudnorm": "-13.18,1.42,4.40,-23.29,-0.31",
+      "filename": "processed_9fd95a7a2f3364be04d9e4d8452b4a3e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

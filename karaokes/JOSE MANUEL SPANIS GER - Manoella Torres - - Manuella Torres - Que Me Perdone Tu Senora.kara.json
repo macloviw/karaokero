@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Manoella Torres - - Manuella Torres - Que Me Perdone Tu Senora.mp3",
+      "loudnorm": "-10.43,0.69,3.60,-20.76,-1.17",
+      "duration": 136,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Manoella Torres - - Manuella Torres - Que Me Perdone Tu Senora.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4d4fadbd-f99d-4398-94d2-211fbbd47ca3",
+    "title": "Manuella Torres - Que Me Perdone Tu Señora",
+    "titles": {
+      "spa": "Manuella Torres - Que Me Perdone Tu Señora"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ccc76e42-077f-4778-a2d4-21a1ed8e5cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:22:05.339Z",
+    "modified_at": "2022-11-04T06:22:05.728Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9d06e270ee5ec6401363ea00eb5f3e54.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3287040,
+      "gain": -6.99,
+      "duration": 136,
+      "loudnorm": "-10.43,0.69,3.60,-20.76,-1.17",
+      "filename": "processed_7e6c9ff55c8cb0ed6e049ff71b3be6ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

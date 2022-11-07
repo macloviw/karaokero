@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - El palacio.mp3",
+      "loudnorm": "-11.91,2.93,3.00,-22.06,-0.05",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - El palacio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a5112abd-0c74-4957-aa61-b30605ff9818",
+    "title": "Charly Rodriguez - El palacio",
+    "titles": {
+      "spa": "Charly Rodriguez - El palacio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "c0dbe58c-ebcb-4907-8b2c-59f30db86cfd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:19:07.020Z",
+    "modified_at": "2022-11-04T09:19:07.402Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_83830e98fdcd72ff88857f74544066e0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3564473,
+      "gain": -7.61,
+      "duration": 254,
+      "loudnorm": "-11.91,2.93,3.00,-22.06,-0.05",
+      "filename": "processed_ffcce818b805714576a08e0fc634f686.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

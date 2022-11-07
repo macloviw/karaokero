@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - Joseph Fonseca...El Sapo.mp3",
+      "loudnorm": "-12.42,0.67,1.30,-22.43,-0.49",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - Joseph Fonseca...El Sapo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0a700acd-0eb5-4885-942a-d462039fbfa5",
+    "title": "Joseph Fonseca...El Sapo",
+    "titles": {
+      "spa": "Joseph Fonseca...El Sapo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "12d5f28c-71a2-49f8-b923-c7e118afb766"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T03:59:12.471Z",
+    "modified_at": "2022-11-04T03:59:12.859Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_116db6a7af9d71c17169d877972dfa20.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5927373,
+      "gain": -4.96,
+      "duration": 246,
+      "loudnorm": "-12.42,0.67,1.30,-22.43,-0.49",
+      "filename": "processed_3001c1e53043c284bf3d6af72f5fb54a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

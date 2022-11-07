@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - MANNY MANUEL - SE ME SUBE.mp3",
+      "loudnorm": "-10.54,4.06,2.90,-20.67,-0.60",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - MANNY MANUEL - SE ME SUBE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dcf8d7d8-0f4b-4e52-8c28-7e32c5ea8de3",
+    "title": "MANNY MANUEL                  -   SE ME SUBE",
+    "titles": {
+      "spa": "MANNY MANUEL                  -   SE ME SUBE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:45:10.253Z",
+    "modified_at": "2022-11-04T10:45:10.639Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a502cc500d2d6e5b1e88c121ea2e2c94.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4554750,
+      "gain": -8.35,
+      "duration": 284,
+      "loudnorm": "-10.54,4.06,2.90,-20.67,-0.60",
+      "filename": "processed_220cc0dc419f9181d6bdf5cac17f1af8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

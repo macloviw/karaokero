@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres del Norte - Amor De Madre.mp3",
+      "loudnorm": "-13.90,0.33,1.40,-23.96,0.07",
+      "duration": 168,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres del Norte - Amor De Madre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b04bcc32-cdf4-43a4-aadc-132821606b28",
+    "title": "Los Tigres del Norte - Amor De Madre",
+    "titles": {
+      "spa": "Los Tigres del Norte - Amor De Madre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:35:01.660Z",
+    "modified_at": "2022-11-04T05:35:02.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_473911a3cbda18fde4a0d97ec76616f1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4042178,
+      "gain": -5.84,
+      "duration": 168,
+      "loudnorm": "-13.90,0.33,1.40,-23.96,0.07",
+      "filename": "processed_4799675ecb3839456e70716537fd69a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Milly - De Hoy En Adelante.MP3",
+      "loudnorm": "-17.09,-0.36,8.60,-27.15,-1.73",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Milly - De Hoy En Adelante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96bcd76c-59c3-448a-bcd6-fdd523f319ed",
+    "title": "Milly - De Hoy En Adelante",
+    "titles": {
+      "spa": "Milly - De Hoy En Adelante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:24:05.092Z",
+    "modified_at": "2022-11-04T07:24:05.545Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4228879,
+      "gain": -0.8,
+      "duration": 264,
+      "loudnorm": "-17.09,-0.36,8.60,-27.15,-1.73",
+      "filename": "processed_1c8f8c6f79e573f1f0fe21d7e88d27cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4228879,
+      "gain": -0.8,
+      "duration": 264,
+      "loudnorm": "-17.09,-0.36,8.60,-27.15,-1.73",
+      "filename": "processed_59d12978e6aea373ee11fc041281abdc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PERDONAME.MP3",
+      "loudnorm": "-10.86,1.74,3.50,-20.88,-0.56",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PERDONAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c529ffd1-269d-401c-82de-74239adb5902",
+    "title": "GILBERTO S. ROSA   -   PERDONAME",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   PERDONAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:26:31.678Z",
+    "modified_at": "2022-11-04T12:26:32.273Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4957798,
+      "gain": -6.2,
+      "duration": 309,
+      "loudnorm": "-10.86,1.74,3.50,-20.88,-0.56",
+      "filename": "processed_45d93bbdc7bf7f2c53d97fe232681f22.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4957798,
+      "gain": -6.2,
+      "duration": 309,
+      "loudnorm": "-10.86,1.74,3.50,-20.88,-0.56",
+      "filename": "processed_10c9a64d363a9d1cf983af120c736642.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

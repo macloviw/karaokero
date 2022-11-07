@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Antonio Aguilar - - ANTONIO AGUILAR-NI EL DINERO NI NADA.mp3",
+      "loudnorm": "-12.73,0.09,3.80,-22.85,0.44",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Antonio Aguilar - - ANTONIO AGUILAR-NI EL DINERO NI NADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2439857,
+      "audiogain": -5.48
+    }
+  ],
+  "data": {
+    "kid": "3886ea8c-eb28-48a2-9a1a-427cf9ecb400",
+    "title": "ANTONIO AGUILAR-NI EL DINERO NI NADA",
+    "titles": {
+      "spa": "ANTONIO AGUILAR-NI EL DINERO NI NADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "b918e95b-da82-4e81-acc4-665efebfe671"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:25:10.320Z",
+    "modified_at": "2022-11-04T20:28:43.269Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a7f06669fd408cf7274b47b8fe036f68.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2439857,
+      "gain": -5.48,
+      "duration": 174,
+      "loudnorm": "-12.73,0.09,3.80,-22.85,0.44",
+      "filename": "processed_b235d526aa9e195ea4b46b20ca8a351b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Magneto - - 03 40 Grados.mp3",
+      "loudnorm": "-10.91,1.46,2.30,-21.03,0.08",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Magneto - - 03 40 Grados.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4702f534-dae6-4320-a49e-c43a13274fd1",
+    "title": "03 40 Grados",
+    "titles": {
+      "spa": "03 40 Grados"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c967ec63-0a2c-4a00-8931-b4d1fa008cdc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:09:12.395Z",
+    "modified_at": "2022-11-04T06:09:12.769Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_13a3a3eaa4903b6e1426059a437ff687.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5069888,
+      "gain": -5.59,
+      "duration": 211,
+      "loudnorm": "-10.91,1.46,2.30,-21.03,0.08",
+      "filename": "processed_2d88e4a08c1fb0d7897e38ff0dc47c28.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

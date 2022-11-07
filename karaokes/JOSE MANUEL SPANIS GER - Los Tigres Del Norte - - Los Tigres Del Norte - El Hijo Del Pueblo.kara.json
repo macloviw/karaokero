@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - El Hijo Del Pueblo.mp3",
+      "loudnorm": "-10.16,1.28,3.20,-20.31,0.23",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - El Hijo Del Pueblo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ea4ea0d-66df-4565-a743-588684149507",
+    "title": "Los Tigres Del Norte - El Hijo Del Pueblo",
+    "titles": {
+      "spa": "Los Tigres Del Norte - El Hijo Del Pueblo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:36:04.034Z",
+    "modified_at": "2022-11-04T05:36:04.421Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b4a284a8724d058ee547c1ce938f0eb2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4528213,
+      "gain": -8.18,
+      "duration": 188,
+      "loudnorm": "-10.16,1.28,3.20,-20.31,0.23",
+      "filename": "processed_785833513e3812e2662f7f8956505b4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

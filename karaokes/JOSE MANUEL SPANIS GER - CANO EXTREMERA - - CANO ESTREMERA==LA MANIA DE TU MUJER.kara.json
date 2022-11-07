@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==LA MANIA DE TU MUJER.mp3",
+      "loudnorm": "-8.90,1.97,4.20,-19.18,-0.80",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==LA MANIA DE TU MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8ba51551-3e3c-407f-903f-69f5848085c6",
+    "title": "CANO ESTREMERA==LA MANIA DE TU MUJER",
+    "titles": {
+      "spa": "CANO ESTREMERA==LA MANIA DE TU MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c7a3003c-08ee-4826-a486-91ef68613a22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:51:25.585Z",
+    "modified_at": "2022-11-04T11:51:25.972Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9d4bc999ac80619dae9a973dc4b20076.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7106028,
+      "gain": -10.62,
+      "duration": 295,
+      "loudnorm": "-8.90,1.97,4.20,-19.18,-0.80",
+      "filename": "processed_082a4851bb576b9a86271f4e23a451ae.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

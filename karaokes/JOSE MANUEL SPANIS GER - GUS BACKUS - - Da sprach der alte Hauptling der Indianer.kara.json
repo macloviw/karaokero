@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GUS BACKUS - - Da sprach der alte Hauptling der Indianer.mp3",
+      "loudnorm": "-17.73,-3.55,5.00,-27.90,-0.33",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GUS BACKUS - - Da sprach der alte Hauptling der Indianer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e6ed7f8-750d-46a8-8916-1de3b5dfd9bb",
+    "title": "Da sprach der alte Häuptling der Indianer",
+    "titles": {
+      "spa": "Da sprach der alte Häuptling der Indianer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "932f5736-8903-45b5-994a-dfe36cc968bb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:22:47.232Z",
+    "modified_at": "2022-11-04T11:22:47.609Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9155f71c1642b0589ca3b3b1372df1ff.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4134912,
+      "gain": -0.56,
+      "duration": 172,
+      "loudnorm": "-17.73,-3.55,5.00,-27.90,-0.33",
+      "filename": "processed_fecd9dd678e225e6b46c6214b178a6b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

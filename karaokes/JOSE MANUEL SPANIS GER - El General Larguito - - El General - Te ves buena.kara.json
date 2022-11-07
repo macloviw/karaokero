@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El General Larguito - - El General - Te ves buena.mp3",
+      "loudnorm": "-6.87,11.21,2.40,-16.97,-0.99",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El General Larguito - - El General - Te ves buena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c3283e8-73a9-48fb-91ee-f9ea40639a6c",
+    "title": "El General - Te ves buena",
+    "titles": {
+      "spa": "El General - Te ves buena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "98667c38-eeea-4900-a46b-1790b315e381"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:43:34.488Z",
+    "modified_at": "2022-11-04T11:43:34.863Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21f658dd75fa84dc44cc1b8f83f042de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3953359,
+      "gain": -8.9,
+      "duration": 246,
+      "loudnorm": "-6.87,11.21,2.40,-16.97,-0.99",
+      "filename": "processed_9e0bc70ce782189a285abc45f25d9d51.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

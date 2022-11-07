@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - No Me Ames (Duo Con Jennifer Lopez).MP3",
+      "loudnorm": "-13.07,2.68,9.90,-23.39,-1.64",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - No Me Ames (Duo Con Jennifer Lopez).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0d52905-adde-482f-8b10-df938234acdf",
+    "title": "Marc Anthony - No Me Ames (Duo Con Jennifer Lopez)",
+    "titles": {
+      "spa": "Marc Anthony - No Me Ames (Duo Con Jennifer Lopez)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:33:08.229Z",
+    "modified_at": "2022-11-04T06:33:08.915Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11184128,
+      "gain": -4.74,
+      "duration": 279,
+      "loudnorm": "-13.07,2.68,9.90,-23.39,-1.64",
+      "filename": "processed_f8471effccd99186023133fecc617466.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11184128,
+      "gain": -4.74,
+      "duration": 279,
+      "loudnorm": "-13.07,2.68,9.90,-23.39,-1.64",
+      "filename": "processed_3e2419f41cb9b2f5a6d415dcfeaca3f4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

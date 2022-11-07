@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Tristes Recuerdos.mp3",
+      "loudnorm": "-14.27,0.55,5.70,-24.46,0.45",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Tristes Recuerdos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4137caed-cf85-4e18-98b4-f3f2170fea30",
+    "title": "Lucero - Tristes Recuerdos",
+    "titles": {
+      "spa": "Lucero - Tristes Recuerdos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:46:03.431Z",
+    "modified_at": "2022-11-04T05:46:03.845Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cf86418e7f9172b8217b43654ed0908a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7785003,
+      "gain": -4.06,
+      "duration": 324,
+      "loudnorm": "-14.27,0.55,5.70,-24.46,0.45",
+      "filename": "processed_83a4e3418822a973eac4ee3d37013272.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

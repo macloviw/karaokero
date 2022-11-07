@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Vasos Vacios(Con Fabulosos Cadillacs).mp3",
+      "loudnorm": "-13.89,0.88,7.20,-23.96,-0.68",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Vasos Vacios(Con Fabulosos Cadillacs).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e71bc9a3-46bd-4044-abf5-ca96097ffac8",
+    "title": "Celia Cruz - Vasos Vacios(Con Fabulosos Cadillacs)",
+    "titles": {
+      "spa": "Celia Cruz - Vasos Vacios(Con Fabulosos Cadillacs)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:54:04.768Z",
+    "modified_at": "2022-11-04T11:54:05.142Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1ad88702893e1ea8ac56035129f0c598.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4505600,
+      "gain": -5.24,
+      "duration": 281,
+      "loudnorm": "-13.89,0.88,7.20,-23.96,-0.68",
+      "filename": "processed_f4e8f8376777835d0d6c6baf1e8789e7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

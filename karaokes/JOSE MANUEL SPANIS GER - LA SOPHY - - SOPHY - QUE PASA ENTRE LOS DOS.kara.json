@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA SOPHY - - SOPHY - QUE PASA ENTRE LOS DOS.mp3",
+      "loudnorm": "-15.79,0.67,5.60,-25.97,-0.43",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA SOPHY - - SOPHY - QUE PASA ENTRE LOS DOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da29d53b-1e9a-4984-99b3-ac12572489fe",
+    "title": "SOPHY - QUE PASA ENTRE LOS DOS",
+    "titles": {
+      "spa": "SOPHY - QUE PASA ENTRE LOS DOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "451268c3-77bd-4946-917d-90f132621c18"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:34:28.316Z",
+    "modified_at": "2022-11-04T08:34:28.701Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4b12745b7fb2c4e9ccedbab70cd5a90f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2896268,
+      "gain": -1.5,
+      "duration": 206,
+      "loudnorm": "-15.79,0.67,5.60,-25.97,-0.43",
+      "filename": "processed_0dac7f84a1f37e752f9f15ec85470f38.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

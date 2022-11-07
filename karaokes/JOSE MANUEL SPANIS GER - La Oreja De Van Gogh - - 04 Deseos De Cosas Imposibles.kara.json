@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - 04 Deseos De Cosas Imposibles.mp3",
+      "loudnorm": "-11.83,1.42,6.40,-21.94,-1.56",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - 04 Deseos De Cosas Imposibles.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd6ca19c-7a7e-4d02-9c9e-c3c6c69cc57b",
+    "title": "04 Deseos De Cosas Imposibles",
+    "titles": {
+      "spa": "04 Deseos De Cosas Imposibles"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "da32cc1d-8c87-4f91-a5c6-70ffc922fb8a"
+      ],
+      "singers": [
+        "62b647b6-8f30-46b3-bff4-760dbc0ae1f9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:04:10.064Z",
+    "modified_at": "2022-11-04T09:04:10.446Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7ff90b19cef2cf146570e1e4498b357d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4850135,
+      "gain": -5.52,
+      "duration": 195,
+      "loudnorm": "-11.83,1.42,6.40,-21.94,-1.56",
+      "filename": "processed_732f33c162507bd99105348546e5bd33.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

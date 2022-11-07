@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - La Maquina - Nadie Se Muere.MP3",
+      "loudnorm": "-9.42,1.35,1.90,-19.44,-0.82",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - La Maquina - Nadie Se Muere.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "29eedd9d-d72b-4259-a3a3-d1fbbc92dc06",
+    "title": "La Maquina - Nadie Se Muere",
+    "titles": {
+      "spa": "La Maquina - Nadie Se Muere"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8a6bd85-c4ae-43a7-a13c-2644c7bf4d5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:52:01.597Z",
+    "modified_at": "2022-11-04T04:52:02.054Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3659776,
+      "gain": -8.07,
+      "duration": 228,
+      "loudnorm": "-9.42,1.35,1.90,-19.44,-0.82",
+      "filename": "processed_c56906457cda04c5d7d82ec34f8d134b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3659776,
+      "gain": -8.07,
+      "duration": 228,
+      "loudnorm": "-9.42,1.35,1.90,-19.44,-0.82",
+      "filename": "processed_61b8ea864d4e225aae97fab1805ed83e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Banda El Recodo - - Banda El Recodo - Aca Entre Dos.mp3",
+      "loudnorm": "-12.51,0.76,5.50,-22.70,-0.71",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Banda El Recodo - - Banda El Recodo - Aca Entre Dos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3236226,
+      "audiogain": -5.13
+    }
+  ],
+  "data": {
+    "kid": "cc1ec5b2-9d08-4fab-b6c5-93a1270cb4aa",
+    "title": "Banda El Recodo - Aca Entre Dos",
+    "titles": {
+      "spa": "Banda El Recodo - Aca Entre Dos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "73a34916-c1bb-45bb-aa8a-c0d9520f308e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:26:49.323Z",
+    "modified_at": "2022-11-04T20:32:55.068Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cd070116c4c01f2b40b6cb1359aa9c29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3236226,
+      "gain": -5.13,
+      "duration": 202,
+      "loudnorm": "-12.51,0.76,5.50,-22.70,-0.71",
+      "filename": "processed_a12a0177795f438b0e117724346fe9e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

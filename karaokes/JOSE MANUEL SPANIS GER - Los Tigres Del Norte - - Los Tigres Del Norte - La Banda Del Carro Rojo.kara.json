@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - La Banda Del Carro Rojo.mp3",
+      "loudnorm": "-12.40,-0.29,2.10,-22.44,-0.75",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - La Banda Del Carro Rojo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a00e7495-cf43-4ca6-b29e-7375dc6033ba",
+    "title": "Los Tigres Del Norte - La Banda Del Carro Rojo",
+    "titles": {
+      "spa": "Los Tigres Del Norte - La Banda Del Carro Rojo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:36:31.661Z",
+    "modified_at": "2022-11-04T05:36:32.044Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0bfc33a449f288f01e031b92f4bba0c5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4736828,
+      "gain": -3.07,
+      "duration": 197,
+      "loudnorm": "-12.40,-0.29,2.10,-22.44,-0.75",
+      "filename": "processed_9a85cae01f64d4cf2c55a15617a5ae79.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

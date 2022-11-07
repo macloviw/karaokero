@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Ivonne E Ivette - El Arca De Noe.mp3",
+      "loudnorm": "-15.15,0.41,6.90,-25.38,-0.92",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Ivonne E Ivette - El Arca De Noe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97a90b8b-7de8-43ef-b37c-41b9353c6d48",
+    "title": "(Infatiles) Ivonne E Ivette - El Arca De Noe",
+    "titles": {
+      "spa": "(Infatiles) Ivonne E Ivette - El Arca De Noe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:20.088Z",
+    "modified_at": "2022-11-04T04:22:20.469Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_689705127ccebaca710071b572b22474.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3122762,
+      "gain": -2.17,
+      "duration": 195,
+      "loudnorm": "-15.15,0.41,6.90,-25.38,-0.92",
+      "filename": "processed_f4b3be222f1eeb8d6108466bb310c5c0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

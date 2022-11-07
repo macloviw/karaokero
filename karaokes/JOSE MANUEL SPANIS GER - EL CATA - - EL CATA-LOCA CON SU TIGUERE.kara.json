@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL CATA - - EL CATA-LOCA CON SU TIGUERE.mp3",
+      "loudnorm": "-13.63,2.02,3.60,-23.66,-0.46",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL CATA - - EL CATA-LOCA CON SU TIGUERE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "39ea7a4f-0991-4f7e-b2de-ad787f6e2562",
+    "title": "EL CATA-LOCA CON SU TIGUERE",
+    "titles": {
+      "spa": "EL CATA-LOCA CON SU TIGUERE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "006ed82e-b3b8-4e26-bd7e-e1a0d26473db"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:31:55.122Z",
+    "modified_at": "2022-11-04T09:31:55.523Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_308772de27d817ae12c3acae760a8882.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3616724,
+      "gain": -5.01,
+      "duration": 258,
+      "loudnorm": "-13.63,2.02,3.60,-23.66,-0.46",
+      "filename": "processed_feaefc5134f2188e462b3225b856c830.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

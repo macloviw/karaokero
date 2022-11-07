@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - Luis Vargas - El Zapatero BY ANT.mp3",
+      "loudnorm": "-6.73,3.24,2.80,-16.95,-0.24",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - Luis Vargas - El Zapatero BY ANT.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6a0dc1af-6e8e-4f7c-a1fe-6392ac3fea37",
+    "title": "Luis Vargas - El Zapatero BY ANT",
+    "titles": {
+      "spa": "Luis Vargas - El Zapatero BY ANT"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3d9430e9-6ec5-4dcb-9373-ba1ee886f326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:04:43.528Z",
+    "modified_at": "2022-11-04T06:04:43.922Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_af07aa120a10ff98815fd5c62f7b26e8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6855881,
+      "gain": -10.77,
+      "duration": 285,
+      "loudnorm": "-6.73,3.24,2.80,-16.95,-0.24",
+      "filename": "processed_444ff4ffb4edde67c0f15a351db67ad9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

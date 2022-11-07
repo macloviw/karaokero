@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - DAVID PAVON - - DAVID PAVON - AQUEL VIEJO MOTEL.MP3",
+      "loudnorm": "-21.33,-7.25,4.10,-31.35,-0.50",
+      "duration": 330,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - DAVID PAVON - - DAVID PAVON - AQUEL VIEJO MOTEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e553be88-6850-4c66-8824-6bdc6b5f5bfc",
+    "title": "DAVID PAVON  -                   AQUEL VIEJO MOTEL",
+    "titles": {
+      "spa": "DAVID PAVON  -                   AQUEL VIEJO MOTEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "458079e8-21fb-4115-ac67-5937c8d865a9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:01:47.313Z",
+    "modified_at": "2022-11-04T12:01:47.928Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5282136,
+      "gain": 2.72,
+      "duration": 330,
+      "loudnorm": "-21.33,-7.25,4.10,-31.35,-0.50",
+      "filename": "processed_bd41e1a662f6d1d499eae1b1f1ce06ce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5282136,
+      "gain": 2.72,
+      "duration": 330,
+      "loudnorm": "-21.33,-7.25,4.10,-31.35,-0.50",
+      "filename": "processed_69edcfc0f4a7ec1d38db0e457d28aaa8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CHERITO - - CHERITO-AHORA.mp3",
+      "loudnorm": "-12.51,2.85,5.80,-22.71,-1.02",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CHERITO - - CHERITO-AHORA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "623db7a0-53a6-438c-a6cc-20e8e856df4a",
+    "title": "CHERITO-AHORA",
+    "titles": {
+      "spa": "CHERITO-AHORA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "5eda0e3c-b12d-410f-be31-9e60478c4af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:59:55.193Z",
+    "modified_at": "2022-11-04T09:59:55.567Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_53e164311abc9b0428a8b20da47072c0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3377548,
+      "gain": -5.65,
+      "duration": 241,
+      "loudnorm": "-12.51,2.85,5.80,-22.71,-1.02",
+      "filename": "processed_d5413b95e26c58c575b9cf72976a6ac3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

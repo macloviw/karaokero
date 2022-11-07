@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Edgar Joel - - Tropical hits Vol. 3 - 07 - Edgar Joel - Hasta el sol de hoy.mp3",
+      "loudnorm": "-12.53,-1.14,3.50,-22.57,-0.73",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Edgar Joel - - Tropical hits Vol. 3 - 07 - Edgar Joel - Hasta el sol de hoy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5f0dd359-6515-43dc-b228-575dd73c3dd8",
+    "title": "Tropical hits Vol. 3 - 07 - Edgar Joel - Hasta el sol de hoy",
+    "titles": {
+      "spa": "Tropical hits Vol. 3 - 07 - Edgar Joel - Hasta el sol de hoy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c0c2a15e-a4f4-4d0b-9020-a465e32d3443"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:07:44.501Z",
+    "modified_at": "2022-11-04T12:07:44.891Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8488c00645fb675e89b0c9abeb70c3e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4660758,
+      "gain": -7.16,
+      "duration": 291,
+      "loudnorm": "-12.53,-1.14,3.50,-22.57,-0.73",
+      "filename": "processed_7c91bc905b886aa118c40b47295e3b8b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

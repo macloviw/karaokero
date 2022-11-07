@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La India - - La India - mi mayor venganza.mp3",
+      "loudnorm": "-12.37,2.91,5.30,-22.52,-0.50",
+      "duration": 320,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La India - - La India - mi mayor venganza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "314e1718-b54d-45e6-a945-d697a7f126b5",
+    "title": "La India - mi mayor venganza",
+    "titles": {
+      "spa": "La India - mi mayor venganza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "1aa33f74-7fa4-4ff2-aa98-69dafda8e695"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:47:33.445Z",
+    "modified_at": "2022-11-04T04:47:33.846Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b8f17a59db0525be8952f792c29abb47.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3853864,
+      "gain": -5.41,
+      "duration": 320,
+      "loudnorm": "-12.37,2.91,5.30,-22.52,-0.50",
+      "filename": "processed_225e0875b506ed2bd09fd05c92cc2bfe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

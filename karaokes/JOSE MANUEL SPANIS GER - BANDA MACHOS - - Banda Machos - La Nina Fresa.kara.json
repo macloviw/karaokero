@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - La Nina Fresa.mp3",
+      "loudnorm": "-17.49,-1.38,2.50,-27.74,-0.19",
+      "duration": 159,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - La Nina Fresa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3820242,
+      "audiogain": 0.61
+    }
+  ],
+  "data": {
+    "kid": "3badb0a1-bf8f-41a3-bf55-40b36344b1e0",
+    "title": "Banda Machos - La Niña Fresa",
+    "titles": {
+      "spa": "Banda Machos - La Niña Fresa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:28:26.474Z",
+    "modified_at": "2022-11-04T20:32:47.257Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5c4f8977bae49ebd48a20c289810c9c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3820242,
+      "gain": 0.61,
+      "duration": 159,
+      "loudnorm": "-17.49,-1.38,2.50,-27.74,-0.19",
+      "filename": "processed_13d6370298008f73d9d4ecae1d2aa6fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

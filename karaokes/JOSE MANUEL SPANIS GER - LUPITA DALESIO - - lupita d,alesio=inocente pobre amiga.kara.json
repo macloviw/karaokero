@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUPITA DALESIO - - lupita d,alesio=inocente pobre amiga.MP3",
+      "loudnorm": "-12.23,3.42,5.50,-22.49,-0.56",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUPITA DALESIO - - lupita d,alesio=inocente pobre amiga.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6892a22-f75a-4cc4-9431-5f4749a09b2a",
+    "title": "lupita d,alesio=inocente pobre amiga",
+    "titles": {
+      "spa": "lupita d,alesio=inocente pobre amiga"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:07:06.273Z",
+    "modified_at": "2022-11-04T06:07:06.723Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3849790,
+      "gain": -4.24,
+      "duration": 240,
+      "loudnorm": "-12.23,3.42,5.50,-22.49,-0.56",
+      "filename": "processed_16ff7f3693e25c78ddc2ff1316b56b78.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3849790,
+      "gain": -4.24,
+      "duration": 240,
+      "loudnorm": "-12.23,3.42,5.50,-22.49,-0.56",
+      "filename": "processed_146f03800d79459ff56890c5cf9c21e8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

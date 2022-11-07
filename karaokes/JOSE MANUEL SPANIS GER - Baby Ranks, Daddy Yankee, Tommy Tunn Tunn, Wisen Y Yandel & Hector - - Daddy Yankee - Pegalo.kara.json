@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - Daddy Yankee - Pegalo.mp3",
+      "loudnorm": "-10.90,1.52,3.70,-21.13,-0.65",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - Daddy Yankee - Pegalo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4401415,
+      "audiogain": -6.99
+    }
+  ],
+  "data": {
+    "kid": "d3cf136d-482e-45c9-a499-fc4295165fed",
+    "title": "Daddy Yankee - Pegalo",
+    "titles": {
+      "spa": "Daddy Yankee - Pegalo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "f006dc79-72bc-499c-936c-3beff0b94816"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:34:18.024Z",
+    "modified_at": "2022-11-04T20:31:27.049Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ffb8c61ef3133ba6f5c3097aa762ad28.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4401415,
+      "gain": -6.99,
+      "duration": 183,
+      "loudnorm": "-10.90,1.52,3.70,-21.13,-0.65",
+      "filename": "processed_c6194b21dbbef1ee7e2d2ef224c68623.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

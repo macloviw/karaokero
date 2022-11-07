@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - PORQUE ME AMASTE.mp3",
+      "loudnorm": "-20.32,-2.92,4.80,-30.61,-0.90",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - PORQUE ME AMASTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2e0ca286-891e-48c1-8ac9-8473ac3b19be",
+    "title": "MILLY QUEZADA - PORQUE ME AMASTE",
+    "titles": {
+      "spa": "MILLY QUEZADA - PORQUE ME AMASTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:25:26.858Z",
+    "modified_at": "2022-11-04T07:25:27.254Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f0a1a0467cd132bb49898520f2a528de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4213689,
+      "gain": 1.55,
+      "duration": 263,
+      "loudnorm": "-20.32,-2.92,4.80,-30.61,-0.90",
+      "filename": "processed_7853378f62a121556bc92e8e4f23ffad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

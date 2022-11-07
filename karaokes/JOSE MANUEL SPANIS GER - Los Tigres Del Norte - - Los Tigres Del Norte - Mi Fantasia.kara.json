@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Mi Fantasia.mp3",
+      "loudnorm": "-15.53,-0.30,4.90,-25.57,-0.95",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Mi Fantasia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "642d9b09-c6ea-488e-9921-d9a6468f4993",
+    "title": "Los Tigres Del Norte - Mi Fantasia",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Mi Fantasia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:37:37.518Z",
+    "modified_at": "2022-11-04T05:37:37.897Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56d4246466aa451a3e921077bf589ac3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3478227,
+      "gain": -2.88,
+      "duration": 217,
+      "loudnorm": "-15.53,-0.30,4.90,-25.57,-0.95",
+      "filename": "processed_9bc5671f6875430e8d16395130fa3561.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

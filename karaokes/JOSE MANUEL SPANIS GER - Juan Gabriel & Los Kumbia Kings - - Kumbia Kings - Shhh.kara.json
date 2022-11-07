@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Shhh.mp3",
+      "loudnorm": "-11.22,0.91,3.00,-21.24,-0.15",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Shhh.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96cadedb-2a81-49f3-9124-5ad4ca5d888c",
+    "title": "Kumbia Kings - Shhh",
+    "titles": {
+      "spa": "Kumbia Kings - Shhh"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:35:04.706Z",
+    "modified_at": "2022-11-04T04:35:05.086Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c2f08348ef2b280b2e2d8c54d3f004dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5575670,
+      "gain": -5.5,
+      "duration": 232,
+      "loudnorm": "-11.22,0.91,3.00,-21.24,-0.15",
+      "filename": "processed_18124fb81efb303bd78260ab35222669.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

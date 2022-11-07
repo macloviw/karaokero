@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - SE PARECIO TANTO A TY BY GRUPO NICHE.CDG.MP3",
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "duration": 329,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - SE PARECIO TANTO A TY BY GRUPO NICHE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca56e70c-dd38-4e90-886f-c13eac617c92",
+    "title": "SE PARECIO TANTO A TY BY GRUPO NICHE.CDG",
+    "titles": {
+      "spa": "SE PARECIO TANTO A TY BY GRUPO NICHE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:42:48.507Z",
+    "modified_at": "2022-11-04T12:42:49.379Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 13162676,
+      "gain": -5.05,
+      "duration": 329,
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "filename": "processed_3847c4f2af0285217f4786091e4833ed.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 13162676,
+      "gain": -5.05,
+      "duration": 329,
+      "loudnorm": "-14.12,-0.57,7.20,-24.25,-1.20",
+      "filename": "processed_2dd5cb7ff44e76b774944b7f8138bbff.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

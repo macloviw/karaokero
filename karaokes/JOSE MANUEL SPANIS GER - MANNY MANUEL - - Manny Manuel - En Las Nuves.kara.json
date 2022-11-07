@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - En Las Nuves.mp3",
+      "loudnorm": "-17.52,0.14,4.10,-27.53,-0.53",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - En Las Nuves.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "521e2822-b76d-477a-bb54-837257c66b13",
+    "title": "Manny Manuel - En Las Nuves",
+    "titles": {
+      "spa": "Manny Manuel - En Las Nuves"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:19:03.976Z",
+    "modified_at": "2022-11-04T06:19:04.365Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6c445c10205a8cde45ec0bb82623b07.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4548745,
+      "gain": -0.55,
+      "duration": 284,
+      "loudnorm": "-17.52,0.14,4.10,-27.53,-0.53",
+      "filename": "processed_1789e38df9cb983636311f3cb8a26115.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Quinta Estacion - - La Quinta Estacion - Me Muero.mp3",
+      "loudnorm": "-13.24,-0.27,3.30,-23.40,-0.11",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Quinta Estacion - - La Quinta Estacion - Me Muero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7e73e24-3f4b-4901-abc1-00a10f8f8c2e",
+    "title": "La Quinta Estación - Me Muero",
+    "titles": {
+      "spa": "La Quinta Estación - Me Muero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0e4ed079-03d3-4a72-bfc3-0b6dc9695cd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:58:47.415Z",
+    "modified_at": "2022-11-04T04:58:47.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fcb5dac20dc6dadff50e9eda12c33421.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3143148,
+      "gain": -3.57,
+      "duration": 196,
+      "loudnorm": "-13.24,-0.27,3.30,-23.40,-0.11",
+      "filename": "processed_c271aac4868d470ac75aec12b153570f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

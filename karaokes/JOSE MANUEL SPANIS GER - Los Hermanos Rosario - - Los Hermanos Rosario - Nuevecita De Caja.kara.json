@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - Los Hermanos Rosario - Nuevecita De Caja.mp3",
+      "loudnorm": "-10.38,0.53,1.30,-20.43,-0.03",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - Los Hermanos Rosario - Nuevecita De Caja.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "76d665d5-1ee4-457b-ab32-d30da489ba0f",
+    "title": "Los Hermanos Rosario - Nuevecita De Caja",
+    "titles": {
+      "spa": "Los Hermanos Rosario - Nuevecita De Caja"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "607aff9e-cc83-4cca-b5f6-311ec43ed46a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:41:04.401Z",
+    "modified_at": "2022-11-04T10:41:04.790Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5fc90e7e043f0d7e67ebdd6eb82c5bec.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8940243,
+      "gain": -7.96,
+      "duration": 223,
+      "loudnorm": "-10.38,0.53,1.30,-20.43,-0.03",
+      "filename": "processed_c9c72b9325d49448f8e338e99866b902.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

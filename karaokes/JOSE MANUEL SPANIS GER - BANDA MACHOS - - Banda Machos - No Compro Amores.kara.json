@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - No Compro Amores.mp3",
+      "loudnorm": "-13.75,-0.03,5.20,-23.80,-0.55",
+      "duration": 153,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - No Compro Amores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2452552,
+      "audiogain": -5.04
+    }
+  ],
+  "data": {
+    "kid": "0eb86952-e0ec-42ca-945a-05a7f7b1ff65",
+    "title": "Banda Machos - No Compro Amores",
+    "titles": {
+      "spa": "Banda Machos - No Compro Amores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:28:33.766Z",
+    "modified_at": "2022-11-04T20:33:04.759Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_96fd1755654416c4494b923d74e1a23a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2452552,
+      "gain": -5.04,
+      "duration": 153,
+      "loudnorm": "-13.75,-0.03,5.20,-23.80,-0.55",
+      "filename": "processed_bd1def5579bfb4265367458d00e366f4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

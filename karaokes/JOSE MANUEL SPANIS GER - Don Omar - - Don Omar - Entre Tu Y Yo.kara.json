@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Entre Tu Y Yo.MP3",
+      "loudnorm": "-14.91,0.14,3.20,-24.97,-0.70",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Entre Tu Y Yo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f48b0c7a-f9d2-4266-91ba-d452c9c259d8",
+    "title": "Don Omar - Entre Tu Y Yo",
+    "titles": {
+      "spa": "Don Omar - Entre Tu Y Yo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "d118fe6d-1a5a-4322-80e6-e5290667ef0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:39:08.504Z",
+    "modified_at": "2022-11-04T11:39:09.028Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3106816,
+      "gain": -4.12,
+      "duration": 194,
+      "loudnorm": "-14.91,0.14,3.20,-24.97,-0.70",
+      "filename": "processed_d6d1c80addcda5a6613120621a3cf6e4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3106816,
+      "gain": -4.12,
+      "duration": 194,
+      "loudnorm": "-14.91,0.14,3.20,-24.97,-0.70",
+      "filename": "processed_df4c72db18f27702d91cadda1d56f320.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

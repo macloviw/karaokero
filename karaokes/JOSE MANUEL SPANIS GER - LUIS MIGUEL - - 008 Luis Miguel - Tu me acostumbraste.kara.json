@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 008 Luis Miguel - Tu me acostumbraste.mp3",
+      "loudnorm": "-17.88,-0.03,5.20,-27.98,-0.52",
+      "duration": 153,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 008 Luis Miguel - Tu me acostumbraste.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "184ab2d0-3557-4946-988a-993b263efac0",
+    "title": "008 Luís Miguel - Tú me acostumbraste",
+    "titles": {
+      "spa": "008 Luís Miguel - Tú me acostumbraste"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:53:52.797Z",
+    "modified_at": "2022-11-04T05:53:53.169Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0021f017f60c88f750db4d92a32d38a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3690566,
+      "gain": 0.23,
+      "duration": 153,
+      "loudnorm": "-17.88,-0.03,5.20,-27.98,-0.52",
+      "filename": "processed_55bc52ffe69a7a2cb7d1d5a3ae3bba87.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

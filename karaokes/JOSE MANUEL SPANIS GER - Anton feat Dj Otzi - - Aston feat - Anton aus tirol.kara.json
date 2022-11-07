@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anton feat Dj Otzi - - Aston feat - Anton aus tirol.mp3",
+      "loudnorm": "-9.10,1.55,4.40,-19.15,-0.69",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anton feat Dj Otzi - - Aston feat - Anton aus tirol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3747926,
+      "audiogain": -8.17
+    }
+  ],
+  "data": {
+    "kid": "a83217a2-c203-47df-8060-bc1b47481bba",
+    "title": "Aston feat - Anton aus tirol",
+    "titles": {
+      "spa": "Aston feat - Anton aus tirol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "cab1a90b-b76a-426b-b9b5-2eb373ca793c"
+      ],
+      "singers": [
+        "a89c377f-87e0-4092-b8a3-948f967633c0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:58:07.398Z",
+    "modified_at": "2022-11-04T20:27:59.151Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ca59ee77683fb317c4dd9d01aca008f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3747926,
+      "gain": -8.17,
+      "duration": 234,
+      "loudnorm": "-9.10,1.55,4.40,-19.15,-0.69",
+      "filename": "processed_2652bf714fab6b8e2a34d99c51a03892.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

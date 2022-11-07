@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Pensar En Ti.MP3",
+      "loudnorm": "-11.57,1.30,6.40,-21.97,-0.99",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Pensar En Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f09cff8a-3604-4cfc-934e-2fac6fc2d300",
+    "title": "Luis Miguel - Pensar En Ti",
+    "titles": {
+      "spa": "Luis Miguel - Pensar En Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:56:51.825Z",
+    "modified_at": "2022-11-04T05:56:52.415Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5237209,
+      "gain": -6.49,
+      "duration": 261,
+      "loudnorm": "-11.57,1.30,6.40,-21.97,-0.99",
+      "filename": "processed_b2dce83c3b94d7e2b5c21fc4c092f782.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5237209,
+      "gain": -6.49,
+      "duration": 261,
+      "loudnorm": "-11.57,1.30,6.40,-21.97,-0.99",
+      "filename": "processed_45be45ef79957f18ed70d96c22728765.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

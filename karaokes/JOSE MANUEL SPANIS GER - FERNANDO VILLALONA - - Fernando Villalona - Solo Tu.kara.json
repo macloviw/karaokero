@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Solo Tu.mp3",
+      "loudnorm": "-7.29,2.27,2.70,-17.34,-0.60",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Solo Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0b384ff-cd2f-483c-80fb-99992f6ca202",
+    "title": "Fernando Villalona   -   Solo Tu",
+    "titles": {
+      "spa": "Fernando Villalona   -   Solo Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:11:35.285Z",
+    "modified_at": "2022-11-04T10:11:35.665Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_78fdde60be9e71fec6f71cde77df2645.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4354048,
+      "gain": -11.04,
+      "duration": 271,
+      "loudnorm": "-7.29,2.27,2.70,-17.34,-0.60",
+      "filename": "processed_4d00a6b962f5f7d7b1ec526628ded8c7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

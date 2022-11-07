@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - TODO TIENE SU FINAL.mp3",
+      "loudnorm": "-13.23,0.01,3.60,-23.38,-0.58",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - TODO TIENE SU FINAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03d003e0-e581-4051-af0f-2c985aa6e625",
+    "title": "TODO TIENE SU FINAL",
+    "titles": {
+      "spa": "TODO TIENE SU FINAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f5c3b348-036b-4570-9c02-1a8e81f8647f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:47:22.743Z",
+    "modified_at": "2022-11-04T12:47:23.146Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b535bc3976417234ffbfb0ca81838eea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7214645,
+      "gain": -4.83,
+      "duration": 300,
+      "loudnorm": "-13.23,0.01,3.60,-23.38,-0.58",
+      "filename": "processed_d20a4ed649c9a29473ab2b20b244be23.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

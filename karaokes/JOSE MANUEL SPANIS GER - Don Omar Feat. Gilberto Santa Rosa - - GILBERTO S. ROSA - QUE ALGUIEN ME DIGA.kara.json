@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - QUE ALGUIEN ME DIGA.MP3",
+      "loudnorm": "-18.78,-0.92,5.10,-28.93,-1.19",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - QUE ALGUIEN ME DIGA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d33fb8d-18f1-46ae-beeb-aca40ec04d8e",
+    "title": "GILBERTO S. ROSA   -   QUE ALGUIEN ME DIGA",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   QUE ALGUIEN ME DIGA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:28:00.849Z",
+    "modified_at": "2022-11-04T12:28:01.326Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4932433,
+      "gain": 1.49,
+      "duration": 308,
+      "loudnorm": "-18.78,-0.92,5.10,-28.93,-1.19",
+      "filename": "processed_7b13cc40b9bad5a27be579f578dd95fe.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4932433,
+      "gain": 1.49,
+      "duration": 308,
+      "loudnorm": "-18.78,-0.92,5.10,-28.93,-1.19",
+      "filename": "processed_4d7f9868c08b7e563aaaed343da95fae.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

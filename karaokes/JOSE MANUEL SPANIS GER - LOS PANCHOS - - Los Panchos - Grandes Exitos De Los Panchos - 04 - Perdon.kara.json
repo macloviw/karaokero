@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 04 - Perdon.mp3",
+      "loudnorm": "-27.85,-10.06,2.20,-37.93,0.17",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 04 - Perdon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c807ac43-1fa2-4746-90a9-6e13b1f8b6bc",
+    "title": "Los Panchos - Grandes Exitos De Los Panchos - 04 - Perdon",
+    "titles": {
+      "spa": "Los Panchos - Grandes Exitos De Los Panchos - 04 - Perdon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:32:06.878Z",
+    "modified_at": "2022-11-04T05:32:07.311Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e98b74d2202735f71e9f3f27b76cb249.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4184592,
+      "gain": 10.06,
+      "duration": 174,
+      "loudnorm": "-27.85,-10.06,2.20,-37.93,0.17",
+      "filename": "processed_ed3745b88e19e7e52175e7a35c787eaa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

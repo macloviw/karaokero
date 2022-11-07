@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - LA MAQUINA - MI REYNA.MP3",
+      "loudnorm": "-24.50,-6.62,3.60,-34.52,-0.26",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - LA MAQUINA - MI REYNA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c78ee3ae-9752-463f-b32f-635dd8a59894",
+    "title": "LA MAQUINA  -   MI REYNA",
+    "titles": {
+      "spa": "LA MAQUINA  -   MI REYNA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8a6bd85-c4ae-43a7-a13c-2644c7bf4d5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:51:18.804Z",
+    "modified_at": "2022-11-04T04:51:19.387Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4501806,
+      "gain": 5.76,
+      "duration": 281,
+      "loudnorm": "-24.50,-6.62,3.60,-34.52,-0.26",
+      "filename": "processed_f2fdd24234a523495df5846d9aeffd19.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4501806,
+      "gain": 5.76,
+      "duration": 281,
+      "loudnorm": "-24.50,-6.62,3.60,-34.52,-0.26",
+      "filename": "processed_b3bbad0c209101990ce06a2772d87ddb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

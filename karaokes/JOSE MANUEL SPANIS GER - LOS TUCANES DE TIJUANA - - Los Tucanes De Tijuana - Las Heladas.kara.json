@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS TUCANES DE TIJUANA - - Los Tucanes De Tijuana - Las Heladas.mp3",
+      "loudnorm": "-15.90,-0.45,2.60,-26.03,-0.53",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS TUCANES DE TIJUANA - - Los Tucanes De Tijuana - Las Heladas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1728987-3017-4247-8197-48324d060dd2",
+    "title": "Los Tucanes De Tijuana - Las Heladas",
+    "titles": {
+      "spa": "Los Tucanes De Tijuana - Las Heladas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a70413e1-12d4-4c75-a915-f4209604d796"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:41:08.655Z",
+    "modified_at": "2022-11-04T05:41:09.033Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f5bbbe5a329bdd7fbd544c56b28b1387.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2866460,
+      "gain": -1.74,
+      "duration": 179,
+      "loudnorm": "-15.90,-0.45,2.60,-26.03,-0.53",
+      "filename": "processed_f6f53cce50890ceb76d760c3e1b21fe9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

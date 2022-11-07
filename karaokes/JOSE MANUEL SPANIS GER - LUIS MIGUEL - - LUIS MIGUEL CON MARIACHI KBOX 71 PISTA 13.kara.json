@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - LUIS MIGUEL CON MARIACHI KBOX 71 PISTA 13.mp3",
+      "loudnorm": "-9.77,0.61,5.50,-19.84,-0.95",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - LUIS MIGUEL CON MARIACHI KBOX 71 PISTA 13.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f5ae0fa4-754e-49e6-a16f-437078b4c528",
+    "title": "LUIS MIGUEL CON MARIACHI  KBOX 71  PISTA 13",
+    "titles": {
+      "spa": "LUIS MIGUEL CON MARIACHI  KBOX 71  PISTA 13"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:00:09.414Z",
+    "modified_at": "2022-11-04T06:00:09.794Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d87305ba6e7558c69a55c7ded043310e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5191984,
+      "gain": -9.32,
+      "duration": 216,
+      "loudnorm": "-9.77,0.61,5.50,-19.84,-0.95",
+      "filename": "processed_b5c61b843cf3bc8f3bb52d94047e4c58.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

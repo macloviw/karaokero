@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - PERDONAME LA VIDA.mp3",
+      "loudnorm": "-17.52,1.35,7.30,-27.55,-0.74",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL TORITO - - PERDONAME LA VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3282ce11-8886-4a09-b619-61dac04a7f0b",
+    "title": "PERDONAME LA VIDA",
+    "titles": {
+      "spa": "PERDONAME LA VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4a25f234-e640-47ea-a177-2905aa363563"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:05:54.376Z",
+    "modified_at": "2022-11-04T10:05:54.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5bac9bf240e9709bbb3620694031bfa5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4295797,
+      "gain": -0.38,
+      "duration": 268,
+      "loudnorm": "-17.52,1.35,7.30,-27.55,-0.74",
+      "filename": "processed_c785559be05505e74ad9905deaa3ca66.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

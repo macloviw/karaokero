@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Como Baila.mp3",
+      "loudnorm": "-8.03,6.42,2.70,-18.07,-0.81",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Como Baila.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6940c4ad-5720-4054-892e-7d9852a751f4",
+    "title": "Grupo Mania - Como Baila",
+    "titles": {
+      "spa": "Grupo Mania - Como Baila"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:45:07.496Z",
+    "modified_at": "2022-11-04T09:45:07.875Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e8a29838b157f186d19439a59e9decb7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4435139,
+      "gain": -9.59,
+      "duration": 277,
+      "loudnorm": "-8.03,6.42,2.70,-18.07,-0.81",
+      "filename": "processed_aeea75a6ccff49bbc1eb15ba1ede6a40.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

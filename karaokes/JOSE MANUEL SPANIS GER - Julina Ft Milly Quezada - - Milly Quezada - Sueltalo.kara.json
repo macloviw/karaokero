@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Milly Quezada - Sueltalo.MP3",
+      "loudnorm": "-11.97,0.15,4.70,-22.11,-0.77",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Milly Quezada - Sueltalo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3edb0c47-31c8-40f8-afd0-d7756b6ab41a",
+    "title": "Milly Quezada - Sueltalo",
+    "titles": {
+      "spa": "Milly Quezada - Sueltalo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:51:24.368Z",
+    "modified_at": "2022-11-04T10:51:25.262Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11536815,
+      "gain": -5.26,
+      "duration": 288,
+      "loudnorm": "-11.97,0.15,4.70,-22.11,-0.77",
+      "filename": "processed_541d96336368dc3e5e589b32e7616bb3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11536815,
+      "gain": -5.26,
+      "duration": 288,
+      "loudnorm": "-11.97,0.15,4.70,-22.11,-0.77",
+      "filename": "processed_35aad8a1fcc0b46e432d7d395fd8c3b3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marta Sanchez - - Martha Sanchez - Arena Y Sol.mp3",
+      "loudnorm": "-11.68,1.58,3.90,-21.86,-1.01",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marta Sanchez - - Martha Sanchez - Arena Y Sol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b31d4339-817e-4e6b-b06b-46ca3b9d870d",
+    "title": "Martha Sanchez - Arena Y Sol",
+    "titles": {
+      "spa": "Martha Sanchez - Arena Y Sol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "aefc4a0b-ca8d-438d-90e0-a1281802a86b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:03:04.959Z",
+    "modified_at": "2022-11-04T07:03:05.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_221991f929957c3932d3d2c204a2e85d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3620537,
+      "gain": -5.25,
+      "duration": 226,
+      "loudnorm": "-11.68,1.58,3.90,-21.86,-1.01",
+      "filename": "processed_57d5628db9a3b93eae262ba9cb06341c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

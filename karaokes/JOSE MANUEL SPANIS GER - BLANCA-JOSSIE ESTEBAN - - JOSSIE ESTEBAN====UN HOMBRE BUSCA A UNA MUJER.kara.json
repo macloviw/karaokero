@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - JOSSIE ESTEBAN====UN HOMBRE BUSCA A UNA MUJER.mp3",
+      "loudnorm": "-15.37,-1.89,3.00,-25.62,-0.33",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - JOSSIE ESTEBAN====UN HOMBRE BUSCA A UNA MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eeb283d8-231e-4b90-9fd5-329523c32a8a",
+    "title": "JOSSIE ESTEBAN====UN HOMBRE BUSCA A UNA MUJER",
+    "titles": {
+      "spa": "JOSSIE ESTEBAN====UN HOMBRE BUSCA A UNA MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f971b8b8-296a-4a97-9de0-51760f6baeca"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:01:12.189Z",
+    "modified_at": "2022-11-04T04:01:12.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b049493acccd713464672efb86911f6c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4006235,
+      "gain": -2.63,
+      "duration": 250,
+      "loudnorm": "-15.37,-1.89,3.00,-25.62,-0.33",
+      "filename": "processed_c586849886df4c81575ab47ad02ca7f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

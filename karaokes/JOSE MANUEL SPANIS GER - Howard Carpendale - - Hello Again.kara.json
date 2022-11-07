@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Howard Carpendale - - Hello Again.mp3",
+      "loudnorm": "-20.02,-3.32,6.20,-30.14,-0.88",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Howard Carpendale - - Hello Again.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f772d084-1d4d-41c4-abb3-8a69df1a3c1d",
+    "title": "Hello Again",
+    "titles": {
+      "spa": "Hello Again"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "749b7073-43ef-4153-8c19-2546a7f87fc4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:22:57.697Z",
+    "modified_at": "2022-11-04T11:22:58.084Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_123032419f9a4657c3a1b770331458a2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5425832,
+      "gain": 2.21,
+      "duration": 225,
+      "loudnorm": "-20.02,-3.32,6.20,-30.14,-0.88",
+      "filename": "processed_f32afd870b59801bf85d54b6f1802a83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

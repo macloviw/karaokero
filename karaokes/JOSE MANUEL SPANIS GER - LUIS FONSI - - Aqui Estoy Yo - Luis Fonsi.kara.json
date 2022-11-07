@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Aqui Estoy Yo - Luis Fonsi.mp3",
+      "loudnorm": "-14.69,1.36,8.70,-24.95,-1.71",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Aqui Estoy Yo - Luis Fonsi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2a273310-c307-4cd4-9540-560bec4927dd",
+    "title": "Aqui Estoy Yo - Luis Fonsi",
+    "titles": {
+      "spa": "Aqui Estoy Yo - Luis Fonsi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:51:20.845Z",
+    "modified_at": "2022-11-04T05:51:21.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f1eba09568032874656e9c72b61a6473.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6124869,
+      "gain": -2.81,
+      "duration": 255,
+      "loudnorm": "-14.69,1.36,8.70,-24.95,-1.71",
+      "filename": "processed_7f645117cb2a31d6b66099b8ec847e59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

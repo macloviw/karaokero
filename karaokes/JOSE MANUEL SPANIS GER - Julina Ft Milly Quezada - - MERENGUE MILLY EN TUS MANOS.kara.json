@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MERENGUE MILLY EN TUS MANOS.mp3",
+      "loudnorm": "-11.63,2.44,3.90,-21.74,-0.52",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MERENGUE MILLY EN TUS MANOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ea3820f2-b21a-40ef-9d2a-877771eaba68",
+    "title": "MERENGUE MILLY EN TUS MANOS",
+    "titles": {
+      "spa": "MERENGUE MILLY EN TUS MANOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:47:52.036Z",
+    "modified_at": "2022-11-04T10:47:52.451Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea419cab90c4fab74699d447c8755fe8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3763317,
+      "gain": -6.96,
+      "duration": 235,
+      "loudnorm": "-11.63,2.44,3.90,-21.74,-0.52",
+      "filename": "processed_9dbb17f5adc0a610ce4ed4fcbfb025c1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

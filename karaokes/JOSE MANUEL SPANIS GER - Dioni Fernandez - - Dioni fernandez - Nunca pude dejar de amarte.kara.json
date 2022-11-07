@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni fernandez - Nunca pude dejar de amarte.mp3",
+      "loudnorm": "-6.59,1.98,3.50,-16.72,-1.31",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni fernandez - Nunca pude dejar de amarte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b614eef6-f510-49c9-b568-8428bfb6154a",
+    "title": "Dioni fernandez - Nunca pude dejar de amarte",
+    "titles": {
+      "spa": "Dioni fernandez - Nunca pude dejar de amarte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "cc87d3a2-7520-46c6-a3d2-f8942dc2b84c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:25:33.916Z",
+    "modified_at": "2022-11-04T09:25:34.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_966cd3961611bf842886c36906c8be75.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6765134,
+      "gain": -12.06,
+      "duration": 281,
+      "loudnorm": "-6.59,1.98,3.50,-16.72,-1.31",
+      "filename": "processed_2c0a27919fbe3e8d17e8a54b2c4c17cd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

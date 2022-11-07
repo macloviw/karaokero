@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - David Pabon - - David Pabon - Y nos amamos.mp3",
+      "loudnorm": "-15.57,-0.83,4.10,-25.60,-0.86",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - David Pabon - - David Pabon - Y nos amamos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f056b62e-6aa7-4110-bbc3-c5e0277c1ccf",
+    "title": "David Pabon - Y nos amamos",
+    "titles": {
+      "spa": "David Pabon - Y nos amamos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94b90f7-fa6a-468f-ae37-f1a7e448e7bb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:01:20.556Z",
+    "modified_at": "2022-11-04T12:01:20.932Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1f1e00be66f03dfdde5c77a2728ab653.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3887116,
+      "gain": -3.66,
+      "duration": 242,
+      "loudnorm": "-15.57,-0.83,4.10,-25.60,-0.86",
+      "filename": "processed_25ec7a62dd0b5fadac8e94057117215e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

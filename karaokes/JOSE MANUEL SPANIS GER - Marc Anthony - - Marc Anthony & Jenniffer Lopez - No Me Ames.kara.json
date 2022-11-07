@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony & Jenniffer Lopez - No Me Ames.mp3",
+      "loudnorm": "-15.31,0.04,8.50,-25.64,-1.21",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony & Jenniffer Lopez - No Me Ames.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "88c17f00-c8d0-4837-a1c5-56ed1d6ba091",
+    "title": "Marc Anthony & Jenniffer Lopez - No Me Ames",
+    "titles": {
+      "spa": "Marc Anthony & Jenniffer Lopez - No Me Ames"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:27:35.342Z",
+    "modified_at": "2022-11-04T06:27:35.727Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74f3c85d14d81ad410c06278c4c8a79b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7620118,
+      "gain": -2.46,
+      "duration": 317,
+      "loudnorm": "-15.31,0.04,8.50,-25.64,-1.21",
+      "filename": "processed_2e9c8cace0042ea7144bc6868020156d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

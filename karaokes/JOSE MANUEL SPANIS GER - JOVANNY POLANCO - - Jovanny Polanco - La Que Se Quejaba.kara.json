@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOVANNY POLANCO - - Jovanny Polanco - La Que Se Quejaba.mp3",
+      "loudnorm": "-17.17,-0.73,2.40,-27.20,-0.56",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOVANNY POLANCO - - Jovanny Polanco - La Que Se Quejaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f956c11-c61c-46ac-b16c-14fa45490b69",
+    "title": "Jovanny Polanco - La Que Se Quejaba",
+    "titles": {
+      "spa": "Jovanny Polanco - La Que Se Quejaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "64c2f940-c7d8-4980-8076-5cb81fa7ab26"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:02:30.569Z",
+    "modified_at": "2022-11-04T04:02:30.945Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c35eb94c82aa8f43157bedcf1781948d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4620634,
+      "gain": -1.1,
+      "duration": 288,
+      "loudnorm": "-17.17,-0.73,2.40,-27.20,-0.56",
+      "filename": "processed_7f0838ddfa6bc8c22341a61d080846c7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

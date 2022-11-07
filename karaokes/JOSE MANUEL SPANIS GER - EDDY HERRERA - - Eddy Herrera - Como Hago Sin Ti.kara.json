@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - Como Hago Sin Ti.mp3",
+      "loudnorm": "-10.77,2.11,2.40,-20.82,-0.72",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - Como Hago Sin Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c6cc2a7d-2f0c-414a-a875-c0d4f87d4311",
+    "title": "Eddy Herrera - Como Hago Sin Ti",
+    "titles": {
+      "spa": "Eddy Herrera - Como Hago Sin Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "575acd9d-6435-4627-93ba-b7c33858eaf9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:03:38.399Z",
+    "modified_at": "2022-11-04T10:03:38.779Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e101b01c3fda469cb320b0a91f11eca9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4190555,
+      "gain": -8.94,
+      "duration": 261,
+      "loudnorm": "-10.77,2.11,2.40,-20.82,-0.72",
+      "filename": "processed_15fca5b1c17691701385778717f396c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

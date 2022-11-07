@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchy Capricho - - 00 - 5-Matalas merengue.mp3",
+      "loudnorm": "-12.54,0.83,3.40,-22.58,-0.17",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchy Capricho - - 00 - 5-Matalas merengue.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4d05b9d2-3efc-4780-805f-ef7555ae857c",
+    "title": "Monchy Capricho -  - 00 - 5-Matalas merengue",
+    "titles": {
+      "spa": "Monchy Capricho -  - 00 - 5-Matalas merengue"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:52:59.122Z",
+    "modified_at": "2022-11-04T10:52:59.501Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b267ad4ee97d172e68cd6fea22f3b188.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5152550,
+      "gain": -5.82,
+      "duration": 257,
+      "loudnorm": "-12.54,0.83,3.40,-22.58,-0.17",
+      "filename": "processed_55681a30144db227a7d01d32d79ca162.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Rifare Mi Suerte.mp3",
+      "loudnorm": "-13.86,0.48,2.60,-23.93,-0.11",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Rifare Mi Suerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "613db297-3cc8-408f-babf-8a80adae7a2d",
+    "title": "Los Tigres Del Norte - Rifare Mi Suerte",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Rifare Mi Suerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:38:51.054Z",
+    "modified_at": "2022-11-04T05:38:51.426Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4528ccce32c4b7effecb0e2a05d7a6fc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3651595,
+      "gain": -7.39,
+      "duration": 152,
+      "loudnorm": "-13.86,0.48,2.60,-23.93,-0.11",
+      "filename": "processed_e08cdc44ee9fd0cd87423a3582b13b8c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

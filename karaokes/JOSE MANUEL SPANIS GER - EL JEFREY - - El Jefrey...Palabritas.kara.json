@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL JEFREY - - El Jefrey...Palabritas.mp3",
+      "loudnorm": "-13.96,0.50,2.80,-24.02,-0.68",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL JEFREY - - El Jefrey...Palabritas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c295bcb1-a0f8-43a9-94da-3e4c369fe9f8",
+    "title": "El Jefrey...Palabritas",
+    "titles": {
+      "spa": "El Jefrey...Palabritas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "2fe78145-c24e-4d4a-881c-303c8798247c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:33:35.734Z",
+    "modified_at": "2022-11-04T09:33:36.128Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d6d3cbcf8949eda8f7854a272e7d1ccc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1645950,
+      "gain": -4.66,
+      "duration": 234,
+      "loudnorm": "-13.96,0.50,2.80,-24.02,-0.68",
+      "filename": "processed_a1199b9a47a68ccaf1fec31815167fd3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-mujeres liberadas.mp3",
+      "loudnorm": "-14.39,-1.37,4.00,-24.48,-0.65",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-mujeres liberadas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f88a529c-c3ae-4da5-a0ff-2bf703e3543e",
+    "title": "Melina Leon-mujeres liberadas",
+    "titles": {
+      "spa": "Melina Leon-mujeres liberadas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:11:54.451Z",
+    "modified_at": "2022-11-04T07:11:54.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_78daf290ba23b5836d29b8d7c042303f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6198847,
+      "gain": -4.04,
+      "duration": 258,
+      "loudnorm": "-14.39,-1.37,4.00,-24.48,-0.65",
+      "filename": "processed_c6a1bc5c8a57a6e29df5f07d19679eae.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

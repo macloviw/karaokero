@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Luis Enrique - - Luis Enrique - Lo Que Paso Entre Tu Y Yo Paso ( T Z ).mp3",
+      "loudnorm": "-15.02,-1.05,4.70,-25.05,-0.78",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Luis Enrique - - Luis Enrique - Lo Que Paso Entre Tu Y Yo Paso ( T Z ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d695d85-5486-4dfe-9e35-0bc839b305fb",
+    "title": "Luis Enrique - Lo Que Paso Entre Tu Y Yo Paso ( T Z )",
+    "titles": {
+      "spa": "Luis Enrique - Lo Que Paso Entre Tu Y Yo Paso ( T Z )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b2444fc6-3d7d-477a-a8f2-67d2f9e85f3a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:49:43.609Z",
+    "modified_at": "2022-11-04T05:49:43.993Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6de442d772007d80a01c08660ec15f46.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7045842,
+      "gain": -4.14,
+      "duration": 293,
+      "loudnorm": "-15.02,-1.05,4.70,-25.05,-0.78",
+      "filename": "processed_39a16e00701579c4a602603cce226964.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

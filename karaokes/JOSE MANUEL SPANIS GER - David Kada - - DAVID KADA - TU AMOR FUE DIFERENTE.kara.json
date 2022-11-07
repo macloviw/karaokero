@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - David Kada - - DAVID KADA - TU AMOR FUE DIFERENTE.mp3",
+      "loudnorm": "-10.96,2.88,3.00,-20.98,-0.85",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - David Kada - - DAVID KADA - TU AMOR FUE DIFERENTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5788baf0-8897-4b48-80ac-ee5f82c49032",
+    "title": "DAVID KADA - TU AMOR FUE DIFERENTE",
+    "titles": {
+      "spa": "DAVID KADA - TU AMOR FUE DIFERENTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7d96dfe9-f1e8-4044-9985-7c1c577f5c83"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:59:58.313Z",
+    "modified_at": "2022-11-04T11:59:58.706Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b8f3a2b45034f623c6aac1635eae64b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4395355,
+      "gain": -6.78,
+      "duration": 274,
+      "loudnorm": "-10.96,2.88,3.00,-20.98,-0.85",
+      "filename": "processed_f07b32bd3e948febca0349152fb67473.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

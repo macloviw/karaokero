@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Inventame.MP3",
+      "loudnorm": "-10.28,2.39,1.60,-20.36,-0.07",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Inventame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "416dd200-fdff-4ae9-8a6c-edb92f01573a",
+    "title": "Marco Antonio Solis - Inventame",
+    "titles": {
+      "spa": "Marco Antonio Solis - Inventame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:51:54.321Z",
+    "modified_at": "2022-11-04T06:51:54.756Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3385344,
+      "gain": -4.68,
+      "duration": 211,
+      "loudnorm": "-10.28,2.39,1.60,-20.36,-0.07",
+      "filename": "processed_febed3c6697e45d99679ab52398441d0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3385344,
+      "gain": -4.68,
+      "duration": 211,
+      "loudnorm": "-10.28,2.39,1.60,-20.36,-0.07",
+      "filename": "processed_8f374280e59b3a1d293f8527489d5c0d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

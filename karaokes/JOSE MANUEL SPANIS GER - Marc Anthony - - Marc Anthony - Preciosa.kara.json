@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Preciosa.MP3",
+      "loudnorm": "-14.16,0.99,11.40,-24.50,-2.05",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Preciosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e7faa57-0ad0-45e9-b9b2-7e47b3bfd7f7",
+    "title": "Marc Anthony - Preciosa",
+    "titles": {
+      "spa": "Marc Anthony - Preciosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:34:48.229Z",
+    "modified_at": "2022-11-04T06:34:48.801Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5175296,
+      "gain": -5.36,
+      "duration": 323,
+      "loudnorm": "-14.16,0.99,11.40,-24.50,-2.05",
+      "filename": "processed_31deea438e8b8605ee6c82d6f0c7a707.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5175296,
+      "gain": -5.36,
+      "duration": 323,
+      "loudnorm": "-14.16,0.99,11.40,-24.50,-2.05",
+      "filename": "processed_484cc6566f785933283d9869aeb4d004.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - Hector El Father y Victor Manuelle - No Ha Sido Facil.mp3",
+      "loudnorm": "-9.62,7.25,4.40,-19.67,-1.02",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - Hector El Father y Victor Manuelle - No Ha Sido Facil.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d73c469-a22a-4be6-9e2a-8d20be284a6e",
+    "title": "Hector El Father y Victor Manuelle - No Ha Sido Facil",
+    "titles": {
+      "spa": "Hector El Father y Victor Manuelle - No Ha Sido Facil"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:44:05.904Z",
+    "modified_at": "2022-11-04T11:44:06.309Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cb7d308605e13fb7f9e21b0a8effa072.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4501124,
+      "gain": -9.47,
+      "duration": 281,
+      "loudnorm": "-9.62,7.25,4.40,-19.67,-1.02",
+      "filename": "processed_e86459af09e09c61db8a0ded2ea6baac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

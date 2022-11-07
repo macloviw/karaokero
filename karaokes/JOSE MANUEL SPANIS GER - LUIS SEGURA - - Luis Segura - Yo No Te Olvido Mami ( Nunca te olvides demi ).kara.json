@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Yo No Te Olvido Mami ( Nunca te olvides demi ).mp3",
+      "loudnorm": "-17.59,0.26,3.60,-27.68,-0.34",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS SEGURA - - Luis Segura - Yo No Te Olvido Mami ( Nunca te olvides demi ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "804001ef-7a6f-415c-adf3-80fdef2984ad",
+    "title": "Luis Segura - Yo No Te Olvido Mami ( Nunca te olvides demi )",
+    "titles": {
+      "spa": "Luis Segura - Yo No Te Olvido Mami ( Nunca te olvides demi )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e3e6a969-9772-4031-a9b1-06e449f1b5bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:04:08.603Z",
+    "modified_at": "2022-11-04T06:04:08.978Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_89211aefab462bb6b118f2e8e510b92e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5567899,
+      "gain": -0.56,
+      "duration": 190,
+      "loudnorm": "-17.59,0.26,3.60,-27.68,-0.34",
+      "filename": "processed_55104b746524a13e4f1c3ec42d0324fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - Daddy Yankee - Ella Me Levanto.mp3",
+      "loudnorm": "-11.34,2.04,5.30,-21.40,-0.55",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - Daddy Yankee - Ella Me Levanto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4153514,
+      "audiogain": -8.61
+    }
+  ],
+  "data": {
+    "kid": "82ca262b-f322-4c65-be06-0adb977718ec",
+    "title": "Daddy Yankee - Ella Me Levanto",
+    "titles": {
+      "spa": "Daddy Yankee - Ella Me Levanto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "f006dc79-72bc-499c-936c-3beff0b94816"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:32:42.355Z",
+    "modified_at": "2022-11-04T20:30:24.055Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6684371fb09e3beffff0aaddb0af3c48.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4153514,
+      "gain": -8.61,
+      "duration": 207,
+      "loudnorm": "-11.34,2.04,5.30,-21.40,-0.55",
+      "filename": "processed_a0551986c0d3b1b9f31e9d6a24c85690.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

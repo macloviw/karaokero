@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Area 305 - - Tropical hits Vol. 3 - 02 - Area 305 - Si no estas.mp3",
+      "loudnorm": "-12.90,0.82,4.90,-22.95,-1.16",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Area 305 - - Tropical hits Vol. 3 - 02 - Area 305 - Si no estas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4294625,
+      "audiogain": -6.44
+    }
+  ],
+  "data": {
+    "kid": "4f828876-aadd-4d6c-82eb-ed80519e89cf",
+    "title": "Tropical hits Vol. 3 - 02 - Area 305 - Si no estas",
+    "titles": {
+      "spa": "Tropical hits Vol. 3 - 02 - Area 305 - Si no estas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "0c037298-c1e8-426b-a388-e00b3638006b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:49:16.224Z",
+    "modified_at": "2022-11-04T20:30:21.401Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae7bc0eb5ed5494abf92c3370baaf051.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4294625,
+      "gain": -6.44,
+      "duration": 268,
+      "loudnorm": "-12.90,0.82,4.90,-22.95,-1.16",
+      "filename": "processed_2ee22e5c7f13e17109a15f58bec6ff41.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

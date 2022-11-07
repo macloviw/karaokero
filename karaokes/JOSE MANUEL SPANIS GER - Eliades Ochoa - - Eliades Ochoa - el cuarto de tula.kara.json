@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eliades Ochoa - - Eliades Ochoa - el cuarto de tula.mp3",
+      "loudnorm": "-14.20,-0.24,4.20,-24.22,-0.57",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eliades Ochoa - - Eliades Ochoa - el cuarto de tula.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6327ad92-076a-4a15-9235-4c7547488a9b",
+    "title": "Eliades Ochoa - el cuarto de tula",
+    "titles": {
+      "spa": "Eliades Ochoa - el cuarto de tula"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fd377d35-98b0-4051-a6ff-6ac829883590"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:14:32.338Z",
+    "modified_at": "2022-11-04T12:14:32.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9891367017e0f28ed15ba0f8a7f9f1fd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7800676,
+      "gain": -4.4,
+      "duration": 324,
+      "loudnorm": "-14.20,-0.24,4.20,-24.22,-0.57",
+      "filename": "processed_0eee1ab4077ef130270bc868a040de36.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

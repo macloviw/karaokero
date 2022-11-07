@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HENRY FIOL - - HENRY FIOL - PICOTEANDO POR AHI.MP3",
+      "loudnorm": "-15.22,0.99,4.70,-25.43,-0.36",
+      "duration": 348,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HENRY FIOL - - HENRY FIOL - PICOTEANDO POR AHI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f8eea95-778b-45b4-86ad-1b0bcdcd6461",
+    "title": "HENRY FIOL - PICOTEANDO POR AHI",
+    "titles": {
+      "spa": "HENRY FIOL - PICOTEANDO POR AHI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "64fa7130-7f9a-44d6-acd5-4bdc0f18c8ad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:49:48.919Z",
+    "modified_at": "2022-11-04T12:49:49.772Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9752631,
+      "gain": -3.93,
+      "duration": 348,
+      "loudnorm": "-15.22,0.99,4.70,-25.43,-0.36",
+      "filename": "processed_9595b18cf1b4f3899498c3434b69bc12.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9752631,
+      "gain": -3.93,
+      "duration": 348,
+      "loudnorm": "-15.22,0.99,4.70,-25.43,-0.36",
+      "filename": "processed_4e4b73e7478f3a186f2de15a256b7e6b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

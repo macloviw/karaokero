@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Christina Sturmer - - Engel fliegen einsam (karaoke version).mp3",
+      "loudnorm": "-14.25,-2.92,10.20,-24.49,-1.86",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Christina Sturmer - - Engel fliegen einsam (karaoke version).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "61a539a6-3773-407f-a953-2529871e3137",
+    "title": "Engel fliegen einsam (karaoke version)",
+    "titles": {
+      "spa": "Engel fliegen einsam (karaoke version)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "67a1ba95-a074-48dc-8964-71e808553b70"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:22:31.037Z",
+    "modified_at": "2022-11-04T11:22:31.409Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d68f8af83bb8a7321d3a201825b2c27e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4851712,
+      "gain": -3.61,
+      "duration": 202,
+      "loudnorm": "-14.25,-2.92,10.20,-24.49,-1.86",
+      "filename": "processed_c66488b514a18d0118e9931238387789.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

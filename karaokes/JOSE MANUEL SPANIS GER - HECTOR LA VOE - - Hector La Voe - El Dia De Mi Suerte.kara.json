@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - Hector La Voe - El Dia De Mi Suerte.MP3",
+      "loudnorm": "-12.16,1.97,2.40,-22.25,-0.27",
+      "duration": 322,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - Hector La Voe - El Dia De Mi Suerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b48a916-5f9a-4777-9456-49a25fd322de",
+    "title": "Hector La Voe - El Dia De Mi Suerte",
+    "titles": {
+      "spa": "Hector La Voe - El Dia De Mi Suerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f5c3b348-036b-4570-9c02-1a8e81f8647f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:45:25.606Z",
+    "modified_at": "2022-11-04T12:45:26.392Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5154816,
+      "gain": -4.71,
+      "duration": 322,
+      "loudnorm": "-12.16,1.97,2.40,-22.25,-0.27",
+      "filename": "processed_fc0e8b6b57e4872aa699a2c2ed996139.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5154816,
+      "gain": -4.71,
+      "duration": 322,
+      "loudnorm": "-12.16,1.97,2.40,-22.25,-0.27",
+      "filename": "processed_84048ccd310bdc12c1b4ae3a2d2b08f7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Kiko El Presidente - - Kiko El Presidente - Esa Morena Me Tiene Loco.mp3",
+      "loudnorm": "-15.06,0.96,2.10,-25.14,0.38",
+      "duration": 166,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Kiko El Presidente - - Kiko El Presidente - Esa Morena Me Tiene Loco.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a94b8403-eb76-499a-be1e-c6dac7841424",
+    "title": "Kiko El Presidente - Esa Morena Me Tiene Loco",
+    "titles": {
+      "spa": "Kiko El Presidente - Esa Morena Me Tiene Loco"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5976f672-616b-4ee3-a9ff-04a61400d11c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:28:39.296Z",
+    "modified_at": "2022-11-04T04:28:39.678Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3345af302b60754a7826179b27cb31e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4009579,
+      "gain": -2.23,
+      "duration": 166,
+      "loudnorm": "-15.06,0.96,2.10,-25.14,0.38",
+      "filename": "processed_affe588e54335ddd76f77af2c5eaec45.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

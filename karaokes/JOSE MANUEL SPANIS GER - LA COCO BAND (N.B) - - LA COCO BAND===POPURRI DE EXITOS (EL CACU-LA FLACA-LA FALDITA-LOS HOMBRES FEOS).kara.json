@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCO BAND===POPURRI DE EXITOS (EL CACU-LA FLACA-LA FALDITA-LOS HOMBRES FEOS).mp3",
+      "loudnorm": "-16.44,1.48,7.20,-26.71,1.01",
+      "duration": 633,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCO BAND===POPURRI DE EXITOS (EL CACU-LA FLACA-LA FALDITA-LOS HOMBRES FEOS).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed3c8389-0123-45d8-b1ca-b32b94c3e059",
+    "title": "LA COCO BAND===POPURRI DE EXITOS (EL CACU-LA FLACA-LA FALDITA-LOS HOMBRES FEOS)",
+    "titles": {
+      "spa": "LA COCO BAND===POPURRI DE EXITOS (EL CACU-LA FLACA-LA FALDITA-LOS HOMBRES FEOS)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "04f9e141-b638-4f50-957e-ed22d87698c8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:42:56.291Z",
+    "modified_at": "2022-11-04T04:42:56.695Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f148156e969599f86fe69b3e906ebd47.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 15204197,
+      "gain": -3.18,
+      "duration": 633,
+      "loudnorm": "-16.44,1.48,7.20,-26.71,1.01",
+      "filename": "processed_32ba0358444dbd951ce075fb3d0934b2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

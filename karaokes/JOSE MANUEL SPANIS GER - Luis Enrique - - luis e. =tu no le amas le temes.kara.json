@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Luis Enrique - - luis e. =tu no le amas le temes.MP3",
+      "loudnorm": "-17.25,-0.01,2.60,-27.40,-0.50",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Luis Enrique - - luis e. =tu no le amas le temes.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0847a93c-67d7-401d-a6c0-6f6808217c8c",
+    "title": "luis e. =tu no le amas le temes",
+    "titles": {
+      "spa": "luis e. =tu no le amas le temes"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b2444fc6-3d7d-477a-a8f2-67d2f9e85f3a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:49:19.738Z",
+    "modified_at": "2022-11-04T05:49:20.479Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6218284,
+      "gain": -1.53,
+      "duration": 259,
+      "loudnorm": "-17.25,-0.01,2.60,-27.40,-0.50",
+      "filename": "processed_29f49bbb6e3d8986d7a335f481d8e13e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6218284,
+      "gain": -1.53,
+      "duration": 259,
+      "loudnorm": "-17.25,-0.01,2.60,-27.40,-0.50",
+      "filename": "processed_1a2c2bbf6711fb9aa93e1cef38b32e0e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

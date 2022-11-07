@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - El Baile del Sua-Sua - KINITO MENDEZ.mp3",
+      "loudnorm": "-10.63,1.06,3.00,-20.74,0.08",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - El Baile del Sua-Sua - KINITO MENDEZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "987860fd-4075-4abe-a007-3c52fd874c08",
+    "title": "El Baile del Sua-Sua - KINITO MENDEZ",
+    "titles": {
+      "spa": "El Baile del Sua-Sua - KINITO MENDEZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3752d332-2a4c-4c3a-998a-dc30ea46d8d0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:30:16.074Z",
+    "modified_at": "2022-11-04T04:30:16.458Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b12d181f9efbd87f4a5fc52f9ce3753d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7073427,
+      "gain": -6.66,
+      "duration": 294,
+      "loudnorm": "-10.63,1.06,3.00,-20.74,0.08",
+      "filename": "processed_612fb83d52ab74e393a0cfeb363d105c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

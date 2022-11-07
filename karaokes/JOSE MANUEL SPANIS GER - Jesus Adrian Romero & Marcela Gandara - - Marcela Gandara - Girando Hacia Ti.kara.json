@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Girando Hacia Ti.mp3",
+      "loudnorm": "-8.36,1.17,6.00,-18.51,-0.69",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Girando Hacia Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b294f63f-09c5-4053-84a5-c9e278726076",
+    "title": "Marcela Gandara - Girando Hacia Ti",
+    "titles": {
+      "spa": "Marcela Gandara - Girando Hacia Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2e6a7d8b-ffdd-402e-b831-7e84316f26e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:45:46.499Z",
+    "modified_at": "2022-11-04T06:45:46.883Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05597dceccbbbad2834a08bc9fe59bcf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5617206,
+      "gain": -8.63,
+      "duration": 233,
+      "loudnorm": "-8.36,1.17,6.00,-18.51,-0.69",
+      "filename": "processed_5d419cfc9d822f0bfc72238777215fc7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

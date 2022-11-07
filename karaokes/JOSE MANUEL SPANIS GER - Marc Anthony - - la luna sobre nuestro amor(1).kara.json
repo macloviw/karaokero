@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - la luna sobre nuestro amor(1).mp3",
+      "loudnorm": "-14.99,0.05,5.00,-25.07,-0.20",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - la luna sobre nuestro amor(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ea338fa-3074-4c25-be00-5528cf19306d",
+    "title": "la luna sobre nuestro amor(1)",
+    "titles": {
+      "spa": "la luna sobre nuestro amor(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:26:44.389Z",
+    "modified_at": "2022-11-04T06:26:44.770Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_597924cf132661c1089b2d23b57c7d41.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4750541,
+      "gain": -4.4,
+      "duration": 296,
+      "loudnorm": "-14.99,0.05,5.00,-25.07,-0.20",
+      "filename": "processed_1fb5aeb5ac578fb3aba8a136d2667c31.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

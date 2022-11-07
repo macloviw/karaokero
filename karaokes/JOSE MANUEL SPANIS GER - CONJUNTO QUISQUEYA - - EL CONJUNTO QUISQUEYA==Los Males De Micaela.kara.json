@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==Los Males De Micaela.mp3",
+      "loudnorm": "-9.91,0.73,3.30,-19.91,-0.90",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==Los Males De Micaela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a057fdf1-c22c-4030-a31d-ec9c9f521553",
+    "title": "EL CONJUNTO QUISQUEYA==Los Males De Micaela",
+    "titles": {
+      "spa": "EL CONJUNTO QUISQUEYA==Los Males De Micaela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "514f3784-c83b-4b14-a501-e1ffed9e86d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:22:56.137Z",
+    "modified_at": "2022-11-04T09:22:56.528Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8974dda207475ef827d6c3578bc17fae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11135572,
+      "gain": -8.34,
+      "duration": 278,
+      "loudnorm": "-9.91,0.73,3.30,-19.91,-0.90",
+      "filename": "processed_48e16ad3a6f17192306e9db87b7905e5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

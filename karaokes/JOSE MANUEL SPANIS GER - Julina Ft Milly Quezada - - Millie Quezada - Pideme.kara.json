@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Millie Quezada - Pideme.mp3",
+      "loudnorm": "-11.19,0.95,2.40,-21.33,-1.01",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Millie Quezada - Pideme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79cc6a24-fdfc-4711-b74f-1eae0604b592",
+    "title": "Millie Quezada - Pideme",
+    "titles": {
+      "spa": "Millie Quezada - Pideme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:22:53.879Z",
+    "modified_at": "2022-11-04T07:22:54.261Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f2020b8077cbc746b1b4b4c019c2f60f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6519213,
+      "gain": -6.53,
+      "duration": 271,
+      "loudnorm": "-11.19,0.95,2.40,-21.33,-1.01",
+      "filename": "processed_56a1f6bcde9df1cc1875a16a91ad5b75.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

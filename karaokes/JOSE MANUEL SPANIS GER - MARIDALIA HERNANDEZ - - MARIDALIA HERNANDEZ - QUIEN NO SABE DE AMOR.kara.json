@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARIDALIA HERNANDEZ - - MARIDALIA HERNANDEZ - QUIEN NO SABE DE AMOR.mp3",
+      "loudnorm": "-13.75,0.29,8.60,-23.96,-1.08",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARIDALIA HERNANDEZ - - MARIDALIA HERNANDEZ - QUIEN NO SABE DE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6d3ab35-a239-48f1-ad65-3a31498d20e8",
+    "title": "MARIDALIA HERNANDEZ - QUIEN NO SABE DE AMOR",
+    "titles": {
+      "spa": "MARIDALIA HERNANDEZ - QUIEN NO SABE DE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ef839a15-5628-4866-a15b-9d7cb59847e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:55:51.093Z",
+    "modified_at": "2022-11-04T06:55:51.514Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ad72d4e238fbc89f0a12d9fd7c55af1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11976717,
+      "gain": -5.51,
+      "duration": 299,
+      "loudnorm": "-13.75,0.29,8.60,-23.96,-1.08",
+      "filename": "processed_b6f5edc8b4344eb83608fe2211b97d7f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

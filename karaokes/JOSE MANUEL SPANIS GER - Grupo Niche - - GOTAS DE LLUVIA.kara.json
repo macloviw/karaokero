@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - GOTAS DE LLUVIA.mp3",
+      "loudnorm": "-11.08,0.97,6.90,-21.37,-0.80",
+      "duration": 333,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - GOTAS DE LLUVIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c24a6625-3781-489c-8446-075650b17b5b",
+    "title": "GOTAS DE LLUVIA",
+    "titles": {
+      "spa": "GOTAS DE LLUVIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:37:11.263Z",
+    "modified_at": "2022-11-04T12:37:11.658Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_315f88da80a8e0b788397222f582b302.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8010858,
+      "gain": -7.32,
+      "duration": 333,
+      "loudnorm": "-11.08,0.97,6.90,-21.37,-0.80",
+      "filename": "processed_a04fec103282ba277bbaa7ed5e4c8717.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

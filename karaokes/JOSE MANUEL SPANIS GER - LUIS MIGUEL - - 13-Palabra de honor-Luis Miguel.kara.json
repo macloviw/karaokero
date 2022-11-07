@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 13-Palabra de honor-Luis Miguel.mp3",
+      "loudnorm": "-11.57,0.68,3.70,-21.77,-0.51",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 13-Palabra de honor-Luis Miguel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1167b2f1-96c7-4b84-a07e-a764621e4fd7",
+    "title": "13-Palabra de honor-Luis Miguel",
+    "titles": {
+      "spa": "13-Palabra de honor-Luis Miguel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:55:13.676Z",
+    "modified_at": "2022-11-04T05:55:14.049Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7dec3a769f5bfdb1d53f7c6997ad80a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5099520,
+      "gain": -4.81,
+      "duration": 212,
+      "loudnorm": "-11.57,0.68,3.70,-21.77,-0.51",
+      "filename": "processed_91d14879beaf690250d1157058d9a15e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

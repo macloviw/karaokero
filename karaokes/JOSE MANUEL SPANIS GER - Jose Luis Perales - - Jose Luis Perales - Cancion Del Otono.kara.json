@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jose Luis Perales - - Jose Luis Perales - Cancion Del Otono.mp3",
+      "loudnorm": "-12.16,3.54,12.10,-22.41,-0.76",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jose Luis Perales - - Jose Luis Perales - Cancion Del Otono.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30d31034-e784-41af-802b-e8554b69afa7",
+    "title": "Josè Luìs Perales - Cancion Del Otoño",
+    "titles": {
+      "spa": "Josè Luìs Perales - Cancion Del Otoño"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:01:54.133Z",
+    "modified_at": "2022-11-04T04:01:54.577Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_202c6369b0ee2a12ac705aadeda170b6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4459303,
+      "gain": -6.09,
+      "duration": 278,
+      "loudnorm": "-12.16,3.54,12.10,-22.41,-0.76",
+      "filename": "processed_7a9dd315718b910ad05504408acdb6cf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

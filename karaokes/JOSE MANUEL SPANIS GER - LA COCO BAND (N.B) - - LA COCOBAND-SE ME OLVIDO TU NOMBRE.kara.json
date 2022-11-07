@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCOBAND-SE ME OLVIDO TU NOMBRE.mp3",
+      "loudnorm": "-13.42,0.94,4.10,-23.51,0.02",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCOBAND-SE ME OLVIDO TU NOMBRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "18acb5ac-2fe7-4d77-a76c-476e1ac6cc39",
+    "title": "LA COCOBAND-SE ME OLVIDO TU NOMBRE",
+    "titles": {
+      "spa": "LA COCOBAND-SE ME OLVIDO TU NOMBRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "04f9e141-b638-4f50-957e-ed22d87698c8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:43:27.081Z",
+    "modified_at": "2022-11-04T04:43:27.479Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_45b6ddf4e0510adee2e4857263aa5c5a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6854940,
+      "gain": -5.26,
+      "duration": 244,
+      "loudnorm": "-13.42,0.94,4.10,-23.51,0.02",
+      "filename": "processed_97d2f4f1c9a4d08aa02b6c9ff245b4c0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

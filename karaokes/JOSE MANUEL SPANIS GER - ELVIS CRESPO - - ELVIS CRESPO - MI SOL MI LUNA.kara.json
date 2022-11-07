@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - ELVIS CRESPO - MI SOL MI LUNA.mp3",
+      "loudnorm": "-9.36,7.19,2.70,-19.44,-0.45",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - ELVIS CRESPO - MI SOL MI LUNA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "abaa5f8c-a3bf-4f25-9df4-3416c2533a5b",
+    "title": "ELVIS CRESPO   -   MI SOL MI LUNA",
+    "titles": {
+      "spa": "ELVIS CRESPO   -   MI SOL MI LUNA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:37:29.879Z",
+    "modified_at": "2022-11-04T09:37:30.271Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2cebe45dfdbe67734795bd9f016bacea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4071514,
+      "gain": -8.69,
+      "duration": 254,
+      "loudnorm": "-9.36,7.19,2.70,-19.44,-0.45",
+      "filename": "processed_734f253b3927967054a981bdcc6b48c1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

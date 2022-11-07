@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - SP-460447_Manny Manuel_Se Me Sube_scl1557-04.mp3",
+      "loudnorm": "-12.45,0.86,3.20,-22.52,-0.96",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - SP-460447_Manny Manuel_Se Me Sube_scl1557-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79d6037b-79a1-4f97-9ea4-171c59cbd090",
+    "title": "SP-460447_Manny Manuel_Se Me Sube_scl1557-04",
+    "titles": {
+      "spa": "SP-460447_Manny Manuel_Se Me Sube_scl1557-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:45:46.129Z",
+    "modified_at": "2022-11-04T10:45:46.532Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5d7967def360e271dba8301bccae7766.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3766410,
+      "gain": -4.25,
+      "duration": 235,
+      "loudnorm": "-12.45,0.86,3.20,-22.52,-0.96",
+      "filename": "processed_37551fddc186551860f8740291309f2d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

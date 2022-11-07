@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCERO - - LUCERO - TRISTE RECUERDO.MP3",
+      "loudnorm": "-14.55,1.72,3.50,-24.66,-0.59",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCERO - - LUCERO - TRISTE RECUERDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26538793-f341-442f-97c7-2937867a8b21",
+    "title": "LUCERO   -   TRISTE RECUERDO",
+    "titles": {
+      "spa": "LUCERO   -   TRISTE RECUERDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:43:36.431Z",
+    "modified_at": "2022-11-04T05:43:36.865Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3107205,
+      "gain": -2.86,
+      "duration": 194,
+      "loudnorm": "-14.55,1.72,3.50,-24.66,-0.59",
+      "filename": "processed_0a8a2a47f65ac7d38b5501d8e12a1c8c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3107205,
+      "gain": -2.86,
+      "duration": 194,
+      "loudnorm": "-14.55,1.72,3.50,-24.66,-0.59",
+      "filename": "processed_b725f83d59d657ff9caadb5fa26810ce.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

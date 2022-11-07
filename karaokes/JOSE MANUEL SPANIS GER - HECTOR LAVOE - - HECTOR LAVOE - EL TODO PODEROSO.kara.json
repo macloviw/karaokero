@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HECTOR LAVOE - - HECTOR LAVOE - EL TODO PODEROSO.MP3",
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HECTOR LAVOE - - HECTOR LAVOE - EL TODO PODEROSO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7463a9b2-d8a2-4ddf-998e-7d4ddc0fb62f",
+    "title": "HECTOR LAVOE   -   EL TODO PODEROSO",
+    "titles": {
+      "spa": "HECTOR LAVOE   -   EL TODO PODEROSO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c6ec39f6-3b03-4392-b79f-4b2486509320"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:48:06.540Z",
+    "modified_at": "2022-11-04T12:48:07.020Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4305783,
+      "gain": -7.66,
+      "duration": 268,
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "filename": "processed_060bbbf3d7a2992d03f155b1c521fc41.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4305783,
+      "gain": -7.66,
+      "duration": 268,
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "filename": "processed_94798ab049f8e111d5eadbb3378b2148.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

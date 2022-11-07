@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - (by sandrita68) KAR-4385 - No me doy por vencido - Luis Fonsi.mp3",
+      "loudnorm": "-11.48,0.18,8.30,-21.74,-1.25",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - (by sandrita68) KAR-4385 - No me doy por vencido - Luis Fonsi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cbe48702-57ab-4639-88f8-eeade7e0f478",
+    "title": "(by sandrita68) KAR-4385 - No me doy por vencido  - Luis Fonsi",
+    "titles": {
+      "spa": "(by sandrita68) KAR-4385 - No me doy por vencido  - Luis Fonsi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:51:09.254Z",
+    "modified_at": "2022-11-04T05:51:09.631Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b852ba114b382af94e0331f1fda2310c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5714048,
+      "gain": -6.72,
+      "duration": 238,
+      "loudnorm": "-11.48,0.18,8.30,-21.74,-1.25",
+      "filename": "processed_9386467aa1128681f7133e1303fec5a8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

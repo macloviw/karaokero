@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTHONY=TE CONOSCO BIEN.mp3",
+      "loudnorm": "-15.39,0.72,8.70,-25.57,-1.92",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTHONY=TE CONOSCO BIEN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b36aa9c-9350-4f34-8391-5a1cf0272bb6",
+    "title": "MARC ANTHONY=TE CONOSCO BIEN",
+    "titles": {
+      "spa": "MARC ANTHONY=TE CONOSCO BIEN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:39:05.495Z",
+    "modified_at": "2022-11-04T06:39:05.879Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8e30ddbc0e50e37cfc6c4de7b960073c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4454159,
+      "gain": -5.13,
+      "duration": 278,
+      "loudnorm": "-15.39,0.72,8.70,-25.57,-1.92",
+      "filename": "processed_9da218ac9210fa6261c4c229c7368fc3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCERO - - LUCERO - NECESITO UN COMPANERO.MP3",
+      "loudnorm": "-13.96,0.33,4.90,-24.05,1.10",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCERO - - LUCERO - NECESITO UN COMPANERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c8f6001-0ec4-4e95-bf13-66d1a31af329",
+    "title": "LUCERO   -   NECESITO UN COMPAÑERO",
+    "titles": {
+      "spa": "LUCERO   -   NECESITO UN COMPAÑERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:43:01.504Z",
+    "modified_at": "2022-11-04T05:43:01.943Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3477099,
+      "gain": -3.67,
+      "duration": 217,
+      "loudnorm": "-13.96,0.33,4.90,-24.05,1.10",
+      "filename": "processed_1d479b496fe88ec8e88ecc48cc4e89dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3477099,
+      "gain": -3.67,
+      "duration": 217,
+      "loudnorm": "-13.96,0.33,4.90,-24.05,1.10",
+      "filename": "processed_91c7794158e9d26bce528e5f00acb802.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

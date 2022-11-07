@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El General Larguito - - El General - Juana.mp3",
+      "loudnorm": "-8.90,5.51,1.30,-18.94,-0.46",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El General Larguito - - El General - Juana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0f483017-67bd-4abd-8e71-0e31ece12bb1",
+    "title": "El General - Juana",
+    "titles": {
+      "spa": "El General - Juana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "98667c38-eeea-4900-a46b-1790b315e381"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:42:59.499Z",
+    "modified_at": "2022-11-04T11:42:59.880Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5f880bc05657191f5dde0917bdaa09f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4705267,
+      "gain": -8.81,
+      "duration": 293,
+      "loudnorm": "-8.90,5.51,1.30,-18.94,-0.46",
+      "filename": "processed_e359fc21121a8533e59127e7e77fb467.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

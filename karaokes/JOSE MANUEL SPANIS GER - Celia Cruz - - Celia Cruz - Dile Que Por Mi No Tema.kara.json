@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Dile Que Por Mi No Tema.MP3",
+      "loudnorm": "-12.97,0.14,2.30,-23.07,-0.68",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Dile Que Por Mi No Tema.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db6a5d87-fd68-4f46-8fea-afa08e785b70",
+    "title": "Celia Cruz - Dile Que Por Mi No Tema",
+    "titles": {
+      "spa": "Celia Cruz - Dile Que Por Mi No Tema"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:52:16.026Z",
+    "modified_at": "2022-11-04T11:52:16.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2836480,
+      "gain": -4.64,
+      "duration": 177,
+      "loudnorm": "-12.97,0.14,2.30,-23.07,-0.68",
+      "filename": "processed_352b102b3b049a36b77aad0aba67348e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2836480,
+      "gain": -4.64,
+      "duration": 177,
+      "loudnorm": "-12.97,0.14,2.30,-23.07,-0.68",
+      "filename": "processed_da2194187e9b5ade1ad68b57408f5c6e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - POR QUE YO EN EL AMOR SOY UN IDIOTA.mp3",
+      "loudnorm": "-13.81,0.00,4.80,-23.88,-1.14",
+      "duration": 362,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - POR QUE YO EN EL AMOR SOY UN IDIOTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7614895f-9458-4b90-8544-170561aeeba6",
+    "title": "POR QUE YO EN EL AMOR SOY UN IDIOTA",
+    "titles": {
+      "spa": "POR QUE YO EN EL AMOR SOY UN IDIOTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:42:21.232Z",
+    "modified_at": "2022-11-04T12:42:21.622Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fa324a08ee4d113c3af7640f837fd8a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8697356,
+      "gain": -5.74,
+      "duration": 362,
+      "loudnorm": "-13.81,0.00,4.80,-23.88,-1.14",
+      "filename": "processed_d3b7351f706b47ac3308d6c809c334d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

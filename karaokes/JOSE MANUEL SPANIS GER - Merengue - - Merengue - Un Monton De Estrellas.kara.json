@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Merengue - - Merengue - Un Monton De Estrellas.mp3",
+      "loudnorm": "-10.66,2.20,4.60,-20.69,-1.03",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Merengue - - Merengue - Un Monton De Estrellas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96e82942-6fa6-4eac-a976-673ffce05cf7",
+    "title": "Merengue - Un Monton De Estrellas",
+    "titles": {
+      "spa": "Merengue - Un Monton De Estrellas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:13:24.845Z",
+    "modified_at": "2022-11-04T07:13:25.237Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c2c3a91bae6f58bdae51109281283bb8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6826169,
+      "gain": -8.74,
+      "duration": 284,
+      "loudnorm": "-10.66,2.20,4.60,-20.69,-1.03",
+      "filename": "processed_c60d08b27a8e667e215e49f5a9d127d8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

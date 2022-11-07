@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 012 Luis Miguel - Sin ti.mp3",
+      "loudnorm": "-10.90,0.41,5.10,-21.05,-1.06",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 012 Luis Miguel - Sin ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9363fb5-82d8-46b9-81c1-f5b3250e0344",
+    "title": "012 Luís Miguel - Sin tí",
+    "titles": {
+      "spa": "012 Luís Miguel - Sin tí"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:54:35.541Z",
+    "modified_at": "2022-11-04T05:54:35.916Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7404c91a952cd0f90040526f054afb3f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4301206,
+      "gain": -6.05,
+      "duration": 179,
+      "loudnorm": "-10.90,0.41,5.10,-21.05,-1.06",
+      "filename": "processed_de0e5e3eff0bf8d9ef94ca8442783baa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

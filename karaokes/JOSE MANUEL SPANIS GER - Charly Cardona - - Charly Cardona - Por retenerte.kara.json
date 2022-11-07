@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Cardona - - Charly Cardona - Por retenerte.mp3",
+      "loudnorm": "-10.41,2.77,4.50,-20.51,0.19",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Cardona - - Charly Cardona - Por retenerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0153e19a-1200-4339-858f-d0cb1a8c9288",
+    "title": "Charly Cardona - Por retenerte",
+    "titles": {
+      "spa": "Charly Cardona - Por retenerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "98067660-aa18-4c53-8b93-9b59101317c9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:58:28.743Z",
+    "modified_at": "2022-11-04T11:58:29.129Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc288f39f808bdeadbabcf0f7c02274a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4638188,
+      "gain": -8.2,
+      "duration": 289,
+      "loudnorm": "-10.41,2.77,4.50,-20.51,0.19",
+      "filename": "processed_ef02eac8374c67d99b9b10250b3b89aa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - SP-460570_Grupo Mania_Sube, Sube_scl1573-04.mp3",
+      "loudnorm": "-11.63,0.98,2.50,-21.66,-0.67",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - SP-460570_Grupo Mania_Sube, Sube_scl1573-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8162853a-c1af-4de3-b169-b2ef2734ea56",
+    "title": "SP-460570_Grupo Manía_Sube, Sube_scl1573-04",
+    "titles": {
+      "spa": "SP-460570_Grupo Manía_Sube, Sube_scl1573-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:16:54.681Z",
+    "modified_at": "2022-11-04T10:16:55.072Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3fedd454ad86a92e4cb1e952093ca82c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4151434,
+      "gain": -5.68,
+      "duration": 259,
+      "loudnorm": "-11.63,0.98,2.50,-21.66,-0.67",
+      "filename": "processed_aec935911e35ad8a832814b5843dbc99.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

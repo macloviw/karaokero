@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - JOSEPH FONSECA - que levante la mano=en vivo.mp3",
+      "loudnorm": "-17.76,-2.31,4.00,-27.79,0.04",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - JOSEPH FONSECA - que levante la mano=en vivo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe2b91fb-89d6-4af1-8168-39648cbd3653",
+    "title": "JOSEPH FONSECA - que levante la mano=en vivo",
+    "titles": {
+      "spa": "JOSEPH FONSECA - que levante la mano=en vivo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "12d5f28c-71a2-49f8-b923-c7e118afb766"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:31:24.593Z",
+    "modified_at": "2022-11-04T10:31:24.978Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02f0ed50a4b2a8c6f60611e1e8ed46ae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4928670,
+      "gain": -1.01,
+      "duration": 307,
+      "loudnorm": "-17.76,-2.31,4.00,-27.79,0.04",
+      "filename": "processed_0460528e1b3ee996d43121b09fc1d26e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

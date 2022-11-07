@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Me Voy A Regalar.mp3",
+      "loudnorm": "-15.56,-0.33,9.00,-25.66,-2.13",
+      "duration": 340,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Me Voy A Regalar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef600bec-ce82-4c25-acee-445e092e0be5",
+    "title": "Marc Anthony - Me Voy A Regalar",
+    "titles": {
+      "spa": "Marc Anthony - Me Voy A Regalar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:31:53.460Z",
+    "modified_at": "2022-11-04T06:31:53.862Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ad3c8c7d32cdc76d75b1b68db14e87cb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8171197,
+      "gain": -3.71,
+      "duration": 340,
+      "loudnorm": "-15.56,-0.33,9.00,-25.66,-2.13",
+      "filename": "processed_f4370e3893b6df8904ffe612e785cf51.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

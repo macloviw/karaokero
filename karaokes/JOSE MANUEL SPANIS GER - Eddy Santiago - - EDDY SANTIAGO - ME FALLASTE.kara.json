@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDY SANTIAGO - ME FALLASTE.MP3",
+      "loudnorm": "-14.64,0.67,3.30,-24.66,-0.57",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDY SANTIAGO - ME FALLASTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c874557-ea3a-41e1-8467-2aa48fec6724",
+    "title": "EDDY SANTIAGO   -   ME FALLASTE",
+    "titles": {
+      "spa": "EDDY SANTIAGO   -   ME FALLASTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fc704cbb-3420-49a2-afaf-44a534e516a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:05:26.405Z",
+    "modified_at": "2022-11-04T12:05:27.105Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5110484,
+      "gain": -3.08,
+      "duration": 319,
+      "loudnorm": "-14.64,0.67,3.30,-24.66,-0.57",
+      "filename": "processed_85c12e01fd8535c8729743e645d5ec79.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5110484,
+      "gain": -3.08,
+      "duration": 319,
+      "loudnorm": "-14.64,0.67,3.30,-24.66,-0.57",
+      "filename": "processed_f4d1ba065e6fa69f49a4cb237def5a6c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

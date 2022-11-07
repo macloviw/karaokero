@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_12 Laura Pausini - Entre Tu Y Mil Mares.mp3",
+      "loudnorm": "-14.99,0.40,3.00,-25.08,-0.58",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_12 Laura Pausini - Entre Tu Y Mil Mares.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a9868cae-9616-4637-adaa-df6d43fe5190",
+    "title": "KBO-172_12 Laura Pausini - Entre Tu Y Mil Mares",
+    "titles": {
+      "spa": "KBO-172_12 Laura Pausini - Entre Tu Y Mil Mares"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:08:10.843Z",
+    "modified_at": "2022-11-04T05:08:11.220Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f55d6d0ff4764132b82f0e5a5a7312f6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5692281,
+      "gain": -1.19,
+      "duration": 237,
+      "loudnorm": "-14.99,0.40,3.00,-25.08,-0.58",
+      "filename": "processed_2edb5049d6f0815e74f5d4f680b1032d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

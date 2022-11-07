@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - VEN TU (MERENGUE).mp3",
+      "loudnorm": "-13.95,1.13,3.80,-23.98,-0.51",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - VEN TU (MERENGUE).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3295993,
+      "audiogain": -4.39
+    }
+  ],
+  "data": {
+    "kid": "1f1546f9-2fe1-4136-b0ca-b4b105a82535",
+    "title": "ARAMIS CAMILO - VEN TU (MERENGUE)",
+    "titles": {
+      "spa": "ARAMIS CAMILO - VEN TU (MERENGUE)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "5780ff8e-8f86-4893-9408-bac0a69491f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:13:31.479Z",
+    "modified_at": "2022-11-04T20:29:42.153Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d65a341bedd8d30baf68f14b9aa6e812.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3295993,
+      "gain": -4.39,
+      "duration": 205,
+      "loudnorm": "-13.95,1.13,3.80,-23.98,-0.51",
+      "filename": "processed_73500f6bf3ba79cf9129c296a98bc4aa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Bautista - - JUAN BAU - DENTRO DE MI ALMA.mp3",
+      "loudnorm": "-12.82,2.18,4.70,-23.02,-0.52",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Bautista - - JUAN BAU - DENTRO DE MI ALMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "de110ea6-7685-4c2a-97a9-038d4017e3aa",
+    "title": "JUAN BAU - DENTRO DE MI ALMA",
+    "titles": {
+      "spa": "JUAN BAU - DENTRO DE MI ALMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0b16f22b-49bf-4818-8313-bf1546d206f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:03:38.198Z",
+    "modified_at": "2022-11-04T04:03:38.584Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9f2f91054fedf40595f3fee54f3e73ca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10691492,
+      "gain": -4.21,
+      "duration": 267,
+      "loudnorm": "-12.82,2.18,4.70,-23.02,-0.52",
+      "filename": "processed_c8bac4d28818fd9076f895a855710958.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

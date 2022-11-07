@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Compay Segundo - - Compay Segundo - y tu que has hecho.mp3",
+      "loudnorm": "-15.88,-0.21,2.20,-25.91,-0.53",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Compay Segundo - - Compay Segundo - y tu que has hecho.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "18aa2e38-fd87-4470-a0ce-00e56bcf5f1a",
+    "title": "Compay Segundo - y tu que has hecho",
+    "titles": {
+      "spa": "Compay Segundo - y tu que has hecho"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7454127e-c29f-41bc-ab52-3661d9eabe38"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:58:46.573Z",
+    "modified_at": "2022-11-04T11:58:46.951Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_76629aac9b1e5e3af75d3b950a758faa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4257845,
+      "gain": -0.71,
+      "duration": 177,
+      "loudnorm": "-15.88,-0.21,2.20,-25.91,-0.53",
+      "filename": "processed_81144202e64ff02fdf8fa3e135ee042c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

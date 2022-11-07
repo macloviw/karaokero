@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=tu voz.MP3",
+      "loudnorm": "-12.64,1.48,3.10,-22.74,-0.59",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=tu voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2173de4d-0fad-48bf-950d-d022b494b168",
+    "title": "celia cruz=tu voz",
+    "titles": {
+      "spa": "celia cruz=tu voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:57:01.608Z",
+    "modified_at": "2022-11-04T11:57:02.042Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3185782,
+      "gain": -5.71,
+      "duration": 198,
+      "loudnorm": "-12.64,1.48,3.10,-22.74,-0.59",
+      "filename": "processed_396893dd26cf76c9a1fddbe187ebe006.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3185782,
+      "gain": -5.71,
+      "duration": 198,
+      "loudnorm": "-12.64,1.48,3.10,-22.74,-0.59",
+      "filename": "processed_13a570862019f073037e57b1c297551e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

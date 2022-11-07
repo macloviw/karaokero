@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda - Recuerdo A Ramona.mp3",
+      "loudnorm": "-8.55,1.50,3.40,-18.58,-0.33",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda - Recuerdo A Ramona.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ccb42cf2-1de1-4310-8900-4f3f9cf26ece",
+    "title": "Kerubanda - Recuerdo A Ramona",
+    "titles": {
+      "spa": "Kerubanda - Recuerdo A Ramona"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:25:32.553Z",
+    "modified_at": "2022-11-04T04:25:32.940Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_628c1b5a20908054952a8c06629de2d9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4258297,
+      "gain": -11.67,
+      "duration": 265,
+      "loudnorm": "-8.55,1.50,3.40,-18.58,-0.33",
+      "filename": "processed_0cbab0f8cc07d9994b1fa975f3ab4bc8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

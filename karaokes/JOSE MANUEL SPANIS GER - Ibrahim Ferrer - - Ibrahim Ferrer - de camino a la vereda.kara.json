@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Ibrahim Ferrer - - Ibrahim Ferrer - de camino a la vereda.mp3",
+      "loudnorm": "-14.64,-0.31,4.20,-24.68,-0.41",
+      "duration": 306,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Ibrahim Ferrer - - Ibrahim Ferrer - de camino a la vereda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "88af62b2-3863-41f0-b5fb-66e4c98335db",
+    "title": "Ibrahim Ferrer - de camino a la vereda",
+    "titles": {
+      "spa": "Ibrahim Ferrer - de camino a la vereda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "8d9fc2d6-0301-4687-97ae-90e943476786"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:51:44.245Z",
+    "modified_at": "2022-11-04T12:51:44.628Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_04f163dfa7833255fb09a5a8af2c95c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7363700,
+      "gain": -3.33,
+      "duration": 306,
+      "loudnorm": "-14.64,-0.31,4.20,-24.68,-0.41",
+      "filename": "processed_901a48a55afc508db226ab003b54946e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - ALEX BUENO - POPURRIT DE MERENGUES.mp3",
+      "loudnorm": "-14.43,0.07,3.70,-24.47,-0.87",
+      "duration": 405,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - ALEX BUENO - POPURRIT DE MERENGUES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 11369088,
+      "audiogain": -4.8
+    }
+  ],
+  "data": {
+    "kid": "05194db8-f535-4951-8fbf-04fb115d7d7f",
+    "title": "ALEX BUENO - POPURRIT DE MERENGUES",
+    "titles": {
+      "spa": "ALEX BUENO - POPURRIT DE MERENGUES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:52:41.408Z",
+    "modified_at": "2022-11-04T20:26:06.915Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7e168069cec66e1d65a31f8361045487.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11369088,
+      "gain": -4.8,
+      "duration": 405,
+      "loudnorm": "-14.43,0.07,3.70,-24.47,-0.87",
+      "filename": "processed_0ebcc2084306519e9c323b91b5134f68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

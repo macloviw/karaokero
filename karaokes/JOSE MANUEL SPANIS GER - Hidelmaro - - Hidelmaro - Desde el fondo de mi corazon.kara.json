@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - Desde el fondo de mi corazon.mp3",
+      "loudnorm": "-16.55,-1.57,4.00,-26.69,-0.45",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - Desde el fondo de mi corazon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6df118ea-77f7-4525-9b68-4cf68fffc418",
+    "title": "Hidelmaro - Desde el fondo de mi corazon",
+    "titles": {
+      "spa": "Hidelmaro - Desde el fondo de mi corazon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "0c3eeeae-1c77-4446-80da-8ed7901b3662"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:51:09.128Z",
+    "modified_at": "2022-11-04T12:51:09.523Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1caa5e5ae56e19723102f9d049a7f4b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5063187,
+      "gain": -1.69,
+      "duration": 249,
+      "loudnorm": "-16.55,-1.57,4.00,-26.69,-0.45",
+      "filename": "processed_0345bf82f335d9df104595a73b7beeb9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

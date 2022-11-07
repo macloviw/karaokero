@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Mananitas Tapatias.mp3",
+      "loudnorm": "-14.30,0.39,1.80,-24.36,0.17",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Mananitas Tapatias.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "590d75ff-a9a5-4f30-b107-feb3d0a912ea",
+    "title": "Los Tigres Del Norte - Mañanitas Tapatias",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Mañanitas Tapatias"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:37:27.418Z",
+    "modified_at": "2022-11-04T05:37:27.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c71f9a917da51887c2badcdee0c05064.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6078475,
+      "gain": -5.63,
+      "duration": 253,
+      "loudnorm": "-14.30,0.39,1.80,-24.36,0.17",
+      "filename": "processed_d1887450a4a1cae7bb1d4e1d02ff1363.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

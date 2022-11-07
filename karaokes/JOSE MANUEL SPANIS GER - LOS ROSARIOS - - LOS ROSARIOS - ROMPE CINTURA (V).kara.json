@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - ROMPE CINTURA (V).MP3",
+      "loudnorm": "-9.96,5.00,1.70,-20.02,-0.77",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - ROMPE CINTURA (V).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "384424cd-57bb-4990-aba5-2b1c9770b9b6",
+    "title": "LOS ROSARIOS   -   ROMPE CINTURA (V)",
+    "titles": {
+      "spa": "LOS ROSARIOS   -   ROMPE CINTURA (V)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f0eb147a-2f10-4059-8017-016f96113ae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:42:46.524Z",
+    "modified_at": "2022-11-04T10:42:46.975Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3438100,
+      "gain": -6.29,
+      "duration": 214,
+      "loudnorm": "-9.96,5.00,1.70,-20.02,-0.77",
+      "filename": "processed_9d1ab953e2393ddf8b79459a069d309c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3438100,
+      "gain": -6.29,
+      "duration": 214,
+      "loudnorm": "-9.96,5.00,1.70,-20.02,-0.77",
+      "filename": "processed_f8c83028ff0fb3f0c96871caf7072b8b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

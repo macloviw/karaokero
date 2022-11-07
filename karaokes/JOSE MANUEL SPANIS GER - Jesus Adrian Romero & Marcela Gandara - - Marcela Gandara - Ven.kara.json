@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Ven.mp3",
+      "loudnorm": "-9.67,2.22,7.70,-19.91,-1.74",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Ven.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "80615da8-ea52-4a3b-b4b9-14ef05b8052b",
+    "title": "Marcela Gandara - Ven",
+    "titles": {
+      "spa": "Marcela Gandara - Ven"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2e6a7d8b-ffdd-402e-b831-7e84316f26e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:46:57.924Z",
+    "modified_at": "2022-11-04T06:46:58.302Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd3c0931f36969c522aeacdc425a8e7a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2552072,
+      "gain": -7.48,
+      "duration": 158,
+      "loudnorm": "-9.67,2.22,7.70,-19.91,-1.74",
+      "filename": "processed_6e94e559f20fbdcf1ede5fa0fc86bb2d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

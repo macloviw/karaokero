@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 11 - Novia Mia.mp3",
+      "loudnorm": "-24.15,-4.13,3.60,-34.30,0.00",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 11 - Novia Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6c22bc5-8c43-45ef-9c04-6ddaf0db89e5",
+    "title": "Los Panchos - Grandes Exitos De Los Panchos - 11 - Novia Mia",
+    "titles": {
+      "spa": "Los Panchos - Grandes Exitos De Los Panchos - 11 - Novia Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:32:59.621Z",
+    "modified_at": "2022-11-04T05:33:00.010Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bb328e8268425f3dbfdda0e17f8e1c0e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3984603,
+      "gain": 4.16,
+      "duration": 165,
+      "loudnorm": "-24.15,-4.13,3.60,-34.30,0.00",
+      "filename": "processed_21017b016b35079eb2fe288acf19914b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

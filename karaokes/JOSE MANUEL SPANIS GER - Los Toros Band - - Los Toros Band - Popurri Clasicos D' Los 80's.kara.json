@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Los Toros Band - Popurri Clasicos D' Los 80's.mp3",
+      "loudnorm": "-16.96,-1.15,2.20,-27.01,-0.13",
+      "duration": 360,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Los Toros Band - Popurri Clasicos D' Los 80's.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8278e6de-8ac4-4472-9462-a7886a021870",
+    "title": "Los Toros Band - Popurri Clasicos D' Los 80's",
+    "titles": {
+      "spa": "Los Toros Band - Popurri Clasicos D' Los 80's"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:43:47.235Z",
+    "modified_at": "2022-11-04T10:43:47.626Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56f0ca1a335e0462905e3798e6ebc811.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5768351,
+      "gain": -1.7,
+      "duration": 360,
+      "loudnorm": "-16.96,-1.15,2.20,-27.01,-0.13",
+      "filename": "processed_771468af39c39292bd0cece956342d28.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

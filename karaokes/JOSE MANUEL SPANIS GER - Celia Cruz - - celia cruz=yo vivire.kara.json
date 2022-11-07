@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=yo vivire.MP3",
+      "loudnorm": "-13.01,2.40,6.40,-23.28,-0.86",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=yo vivire.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd439b7e-442a-4676-976d-ae0b8fc4deea",
+    "title": "celia cruz=yo vivire",
+    "titles": {
+      "spa": "celia cruz=yo vivire"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:57:47.288Z",
+    "modified_at": "2022-11-04T11:57:47.863Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4545821,
+      "gain": -3.13,
+      "duration": 283,
+      "loudnorm": "-13.01,2.40,6.40,-23.28,-0.86",
+      "filename": "processed_f75d1bda65d16daf8c882c5125d264da.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4545821,
+      "gain": -3.13,
+      "duration": 283,
+      "loudnorm": "-13.01,2.40,6.40,-23.28,-0.86",
+      "filename": "processed_29fa9a94bff55c186a3e589b2fe1f25a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

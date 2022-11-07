@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - si una vez=many manuel.MP3",
+      "loudnorm": "-11.37,1.26,3.00,-21.41,0.13",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - si una vez=many manuel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5981f6ec-f8f6-4b37-bbe9-3c5b531aea0b",
+    "title": "si una vez=many manuel",
+    "titles": {
+      "spa": "si una vez=many manuel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:21:49.783Z",
+    "modified_at": "2022-11-04T06:21:50.395Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6924844,
+      "gain": -6.24,
+      "duration": 288,
+      "loudnorm": "-11.37,1.26,3.00,-21.41,0.13",
+      "filename": "processed_2ca5a7d3c4bc42248c0c0e9b049d35e8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6924844,
+      "gain": -6.24,
+      "duration": 288,
+      "loudnorm": "-11.37,1.26,3.00,-21.41,0.13",
+      "filename": "processed_7b2ee13ae83954f9b36fd2511875baa5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Linkin Park - - Linkin park - numb.mp3",
+      "loudnorm": "-11.71,1.28,7.00,-21.87,-1.18",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Linkin Park - - Linkin park - numb.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f29fe512-fdb2-46c3-8352-c283e8335d55",
+    "title": "Linkin park - numb",
+    "titles": {
+      "spa": "Linkin park - numb"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "20ae61f8-2bc9-47f0-a247-5b85d54ca962"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:21:11.055Z",
+    "modified_at": "2022-11-04T05:21:11.444Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1c3513acb455067b4671ff55691a2f4b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3017762,
+      "gain": -5.97,
+      "duration": 188,
+      "loudnorm": "-11.71,1.28,7.00,-21.87,-1.18",
+      "filename": "processed_3e19c450992328c0a170576c067a4b9d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

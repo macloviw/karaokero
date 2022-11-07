@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - Los Angeles Negros - Murio La Flor Con Mariachi.mp3",
+      "loudnorm": "-9.78,0.10,5.20,-20.12,0.44",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - Los Angeles Negros - Murio La Flor Con Mariachi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec312a46-4d75-4835-8bff-bd6873c08455",
+    "title": "Los Angeles Negros - Murio La Flor Con Mariachi",
+    "titles": {
+      "spa": "Los Angeles Negros - Murio La Flor Con Mariachi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6b010bf7-3aa2-43c0-99bf-cddf9f383c97"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:26:42.477Z",
+    "modified_at": "2022-11-04T05:26:42.861Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_735c2152e85822ed422468c2727cdbf5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5550080,
+      "gain": -7.77,
+      "duration": 231,
+      "loudnorm": "-9.78,0.10,5.20,-20.12,0.44",
+      "filename": "processed_a7e36568de6d9fba0e77da7410b486c3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

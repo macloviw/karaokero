@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - Aquella Noche Tu Perfume Quedo - VOZ.mp3",
+      "loudnorm": "-14.14,-0.84,9.80,-24.65,-1.32",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - Aquella Noche Tu Perfume Quedo - VOZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1fbeb96c-973f-4b92-b8a8-036372842d54",
+    "title": "Leonardo Favio - Aquella Noche Tu Perfume Quedó - VOZ",
+    "titles": {
+      "spa": "Leonardo Favio - Aquella Noche Tu Perfume Quedó - VOZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0d28fc44-0220-4993-af8b-647324289223"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:16:56.261Z",
+    "modified_at": "2022-11-04T05:16:56.640Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02712c86dc9e19d7d6e951e59b31731b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7782074,
+      "gain": -6.04,
+      "duration": 194,
+      "loudnorm": "-14.14,-0.84,9.80,-24.65,-1.32",
+      "filename": "processed_c2e4aa1eeaa130c4b8fe0fefbc5380d9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

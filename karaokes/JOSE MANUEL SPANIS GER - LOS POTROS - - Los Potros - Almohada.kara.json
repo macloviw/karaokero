@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS POTROS - - Los Potros - Almohada.MP3",
+      "loudnorm": "-11.66,2.27,5.50,-21.69,-1.03",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS POTROS - - Los Potros - Almohada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d84b0dd9-3ea5-4aac-940a-e6c846d5597e",
+    "title": "Los Potros - Almohada",
+    "titles": {
+      "spa": "Los Potros - Almohada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e7b2014-76cf-40bf-84a1-ecc5f47e99bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:34:26.299Z",
+    "modified_at": "2022-11-04T05:34:26.988Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4441422,
+      "gain": -6.3,
+      "duration": 277,
+      "loudnorm": "-11.66,2.27,5.50,-21.69,-1.03",
+      "filename": "processed_3fc7f5f93f7eb66179d1e436ef793e0c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4441422,
+      "gain": -6.3,
+      "duration": 277,
+      "loudnorm": "-11.66,2.27,5.50,-21.69,-1.03",
+      "filename": "processed_6ed364f585bacda9821e9414c5c5a798.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - EL REY DEL MAM(1).mp3",
+      "loudnorm": "-17.25,-2.68,2.00,-27.38,-0.09",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - EL REY DEL MAM(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f4183bf1-c791-448f-8502-2f65ac17b026",
+    "title": "EL REY DEL MAM(1)",
+    "titles": {
+      "spa": "EL REY DEL MAM(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f7b8ffdc-0081-4368-846b-08138926e7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:39:14.813Z",
+    "modified_at": "2022-11-04T04:39:15.197Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d30ddaf62d55c45ca58322f8a4071fbc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4164976,
+      "gain": -0.66,
+      "duration": 260,
+      "loudnorm": "-17.25,-2.68,2.00,-27.38,-0.09",
+      "filename": "processed_88abecfe15e111e8847ed4e5d8b1546d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

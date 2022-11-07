@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - El Golpe Traidor.mp3",
+      "loudnorm": "-9.28,1.32,2.30,-19.35,-0.08",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - El Golpe Traidor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8da1b28-18b7-4b4d-8478-b66603c211cd",
+    "title": "Los Tigres Del Norte - El Golpe Traidor",
+    "titles": {
+      "spa": "Los Tigres Del Norte - El Golpe Traidor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:35:55.479Z",
+    "modified_at": "2022-11-04T05:35:55.861Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_32114bf27c27df306c5af3bbf3f5ba65.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4463011,
+      "gain": -8.03,
+      "duration": 185,
+      "loudnorm": "-9.28,1.32,2.30,-19.35,-0.08",
+      "filename": "processed_68dd73034b3c6897b00fcc30f8fd83ff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

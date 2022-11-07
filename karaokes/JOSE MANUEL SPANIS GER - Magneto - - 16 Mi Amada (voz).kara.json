@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Magneto - - 16 Mi Amada (voz).mp3",
+      "loudnorm": "-11.46,1.41,4.80,-21.56,-0.88",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Magneto - - 16 Mi Amada (voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec6612c3-45cc-4aee-a4b4-48b4db0a96f0",
+    "title": "16 Mi Amada (voz)",
+    "titles": {
+      "spa": "16 Mi Amada (voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c967ec63-0a2c-4a00-8931-b4d1fa008cdc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:11:14.116Z",
+    "modified_at": "2022-11-04T06:11:14.499Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43f9305c8d40932897b7c71360801bfc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5768925,
+      "gain": -5.46,
+      "duration": 240,
+      "loudnorm": "-11.46,1.41,4.80,-21.56,-0.88",
+      "filename": "processed_7269ffa0a95535dc823b8afa06e925bd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

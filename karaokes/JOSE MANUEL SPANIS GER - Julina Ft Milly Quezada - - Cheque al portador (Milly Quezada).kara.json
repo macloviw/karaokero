@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Cheque al portador (Milly Quezada).mp3",
+      "loudnorm": "-10.60,1.08,2.60,-20.64,-0.94",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Cheque al portador (Milly Quezada).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8e5aa991-51ac-45aa-a32b-3e9c7e396753",
+    "title": "Cheque al portador  (Milly Quezada)",
+    "titles": {
+      "spa": "Cheque al portador  (Milly Quezada)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:21:30.272Z",
+    "modified_at": "2022-11-04T07:21:30.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47187f4e1e78a06b527acbd785d05fd9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5267456,
+      "gain": -7.13,
+      "duration": 219,
+      "loudnorm": "-10.60,1.08,2.60,-20.64,-0.94",
+      "filename": "processed_1740aefc7cf339c380e6751c40bc9831.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

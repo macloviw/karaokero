@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - David Kada - - David Kada - Aquella parada.mp3",
+      "loudnorm": "-12.22,3.66,4.30,-22.33,-0.51",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - David Kada - - David Kada - Aquella parada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d20ae4bd-4aea-43db-8e7f-b13221e13a6d",
+    "title": "David Kada - Aquella parada",
+    "titles": {
+      "spa": "David Kada - Aquella parada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7d96dfe9-f1e8-4044-9985-7c1c577f5c83"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:59:09.976Z",
+    "modified_at": "2022-11-04T11:59:10.370Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6738c64b408dd366678fa41c278c4be1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4241963,
+      "gain": -7.1,
+      "duration": 264,
+      "loudnorm": "-12.22,3.66,4.30,-22.33,-0.51",
+      "filename": "processed_044fdf445152ce502187fe043bacc174.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

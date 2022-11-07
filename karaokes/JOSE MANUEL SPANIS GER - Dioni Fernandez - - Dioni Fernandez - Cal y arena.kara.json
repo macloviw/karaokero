@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni Fernandez - Cal y arena.mp3",
+      "loudnorm": "-4.95,3.72,1.50,-14.98,-0.94",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni Fernandez - Cal y arena.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df08dcf8-8118-4e5c-8a72-b9ffd53cadfa",
+    "title": "Dioni Fernandez - Cal y arena",
+    "titles": {
+      "spa": "Dioni Fernandez - Cal y arena"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "cc87d3a2-7520-46c6-a3d2-f8942dc2b84c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:24:08.778Z",
+    "modified_at": "2022-11-04T09:24:09.160Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f5909d4d5e01cfb94580c7beac97a35f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5193856,
+      "gain": -12.22,
+      "duration": 324,
+      "loudnorm": "-4.95,3.72,1.50,-14.98,-0.94",
+      "filename": "processed_327ae7582e7e91b035fbcdec2d4e5980.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

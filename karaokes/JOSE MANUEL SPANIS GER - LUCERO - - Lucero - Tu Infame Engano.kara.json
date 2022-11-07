@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Tu Infame Engano.mp3",
+      "loudnorm": "-14.97,0.33,5.50,-25.08,0.30",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Tu Infame Engano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d5b73bb0-bfb0-472b-92f7-acaa6556fd41",
+    "title": "Lucero - Tu Infame Engaño",
+    "titles": {
+      "spa": "Lucero - Tu Infame Engaño"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:46:13.342Z",
+    "modified_at": "2022-11-04T05:46:13.721Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_64fcdef8c90778af2d3cfd12c0eb15bf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4881022,
+      "gain": -3.41,
+      "duration": 203,
+      "loudnorm": "-14.97,0.33,5.50,-25.08,0.30",
+      "filename": "processed_4f87f95596493c7dc067a2d1e6e5f93b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

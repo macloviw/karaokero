@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Cielo Rojo.mp3",
+      "loudnorm": "-9.77,0.46,3.20,-19.90,-0.09",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Cielo Rojo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05eca3a1-efa3-46ae-8fb6-3f75489d39ea",
+    "title": "Luis Miguel - Cielo Rojo",
+    "titles": {
+      "spa": "Luis Miguel - Cielo Rojo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:55:21.966Z",
+    "modified_at": "2022-11-04T05:55:22.345Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_997c8a619a2e4ccb0bc07aa984f36b3e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4311135,
+      "gain": -6.99,
+      "duration": 179,
+      "loudnorm": "-9.77,0.46,3.20,-19.90,-0.09",
+      "filename": "processed_2607079b40e351f9d4ac31d17bcfb415.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

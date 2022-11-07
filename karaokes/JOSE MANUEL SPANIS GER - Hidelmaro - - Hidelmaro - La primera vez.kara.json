@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - La primera vez.mp3",
+      "loudnorm": "-14.48,1.66,8.90,-24.62,-0.30",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - La primera vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d8c01c7-c28f-4314-804b-6cea5c109b44",
+    "title": "Hidelmaro - La primera vez",
+    "titles": {
+      "spa": "Hidelmaro - La primera vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "0c3eeeae-1c77-4446-80da-8ed7901b3662"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:51:19.263Z",
+    "modified_at": "2022-11-04T12:51:19.649Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b7b77f4328e1274afbc536d3b49c5b29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3587002,
+      "gain": -6.22,
+      "duration": 223,
+      "loudnorm": "-14.48,1.66,8.90,-24.62,-0.30",
+      "filename": "processed_c68727549ec1a1850132f8cb1767c452.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

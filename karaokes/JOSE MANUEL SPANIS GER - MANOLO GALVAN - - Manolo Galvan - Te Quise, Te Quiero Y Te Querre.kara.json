@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - Te Quise, Te Quiero Y Te Querre.MP3",
+      "loudnorm": "-15.76,-1.30,2.30,-25.80,-0.42",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - Te Quise, Te Quiero Y Te Querre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4bbc8e84-28e0-49dd-bdd1-f1a30ee90ed2",
+    "title": "Manolo Galvan - Te Quise, Te Quiero Y Te Querre",
+    "titles": {
+      "spa": "Manolo Galvan - Te Quise, Te Quiero Y Te Querre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:25:37.321Z",
+    "modified_at": "2022-11-04T06:25:37.750Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3407872,
+      "gain": -1.53,
+      "duration": 212,
+      "loudnorm": "-15.76,-1.30,2.30,-25.80,-0.42",
+      "filename": "processed_ba932708231b8f78c4e6e719f20bc28f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3407872,
+      "gain": -1.53,
+      "duration": 212,
+      "loudnorm": "-15.76,-1.30,2.30,-25.80,-0.42",
+      "filename": "processed_6c00ab2a613e34addcf6f73d5ea7fde0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

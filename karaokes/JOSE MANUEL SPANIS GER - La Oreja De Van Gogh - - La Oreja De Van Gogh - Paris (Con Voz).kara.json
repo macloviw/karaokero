@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - La Oreja De Van Gogh - Paris (Con Voz).mp3",
+      "loudnorm": "-10.58,0.46,4.80,-20.69,-0.98",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Oreja De Van Gogh - - La Oreja De Van Gogh - Paris (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0a857a96-dfb2-4b88-9d8b-2e35217153f9",
+    "title": "La Oreja De Van Gogh - Paris (Con Voz)",
+    "titles": {
+      "spa": "La Oreja De Van Gogh - Paris (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "62b647b6-8f30-46b3-bff4-760dbc0ae1f9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:56:11.901Z",
+    "modified_at": "2022-11-04T04:56:12.272Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc6caa2491e0ba802f0d9f21ca1da29e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5642126,
+      "gain": -8.39,
+      "duration": 234,
+      "loudnorm": "-10.58,0.46,4.80,-20.69,-0.98",
+      "filename": "processed_0a99faae974ca5bf847e5a820397ef8c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

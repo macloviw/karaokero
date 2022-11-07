@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - Juan Luis Guerra - Te Contaran MansoK Salsa.mp3",
+      "loudnorm": "-13.07,0.11,2.60,-23.10,-0.67",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - Juan Luis Guerra - Te Contaran MansoK Salsa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a581f45b-5089-47e1-a654-03e25a3d9eeb",
+    "title": "Juan Luis Guerra - Te Contaran  MansoK Salsa",
+    "titles": {
+      "spa": "Juan Luis Guerra - Te Contaran  MansoK Salsa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:37:41.590Z",
+    "modified_at": "2022-11-04T10:37:41.965Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d9a7797f9425495900741f8eafb4f65.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4062659,
+      "gain": -5.9,
+      "duration": 253,
+      "loudnorm": "-13.07,0.11,2.60,-23.10,-0.67",
+      "filename": "processed_84f41f0329621521e96ca2c5a8847366.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

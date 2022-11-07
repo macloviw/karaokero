@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDY SANTIAGO - TODO EMPESO.MP3",
+      "loudnorm": "-14.73,1.36,2.60,-24.76,-0.22",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - EDDY SANTIAGO - TODO EMPESO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8ef55e6-c2a0-4d9f-86d9-74b29175b28d",
+    "title": "EDDY SANTIAGO   -   TODO EMPESO",
+    "titles": {
+      "spa": "EDDY SANTIAGO   -   TODO EMPESO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fc704cbb-3420-49a2-afaf-44a534e516a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:06:16.902Z",
+    "modified_at": "2022-11-04T12:06:17.513Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4625233,
+      "gain": -3.64,
+      "duration": 288,
+      "loudnorm": "-14.73,1.36,2.60,-24.76,-0.22",
+      "filename": "processed_421f9e814344c00dcce03fec9a734719.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4625233,
+      "gain": -3.64,
+      "duration": 288,
+      "loudnorm": "-14.73,1.36,2.60,-24.76,-0.22",
+      "filename": "processed_eb6383b7bb4758349cd2f0c00debde89.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

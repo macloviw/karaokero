@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - REGAETTON=GASOLINA---DADDY YANKKEE.mp3",
+      "loudnorm": "-14.32,-0.12,6.00,-24.43,-0.81",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Baby Ranks, Daddy Yankee, Tommy Tunn Tunn, Wisen Y Yandel & Hector - - REGAETTON=GASOLINA---DADDY YANKKEE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3096627,
+      "audiogain": -5.22
+    }
+  ],
+  "data": {
+    "kid": "6c80cc01-a2cd-4f86-932b-92e646925cac",
+    "title": "REGAETTON=GASOLINA---DADDY YANKKEE",
+    "titles": {
+      "spa": "REGAETTON=GASOLINA---DADDY YANKKEE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "f006dc79-72bc-499c-936c-3beff0b94816"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:35:14.835Z",
+    "modified_at": "2022-11-04T20:31:52.038Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_11d0c3754a5976888bf2a1d42b3fb746.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3096627,
+      "gain": -5.22,
+      "duration": 193,
+      "loudnorm": "-14.32,-0.12,6.00,-24.43,-0.81",
+      "filename": "processed_f4d4f2ff7f1cba94bdbaf3902f0abf8a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

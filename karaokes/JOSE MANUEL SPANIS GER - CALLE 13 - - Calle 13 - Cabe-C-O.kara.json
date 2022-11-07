@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CALLE 13 - - Calle 13 - Cabe-C-O.mp3",
+      "loudnorm": "-16.54,-0.80,3.70,-26.60,-0.86",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CALLE 13 - - Calle 13 - Cabe-C-O.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5082ad50-2eb3-4ca5-b515-ec98e344044f",
+    "title": "Calle 13 - Cabe-C-O",
+    "titles": {
+      "spa": "Calle 13 - Cabe-C-O"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e3bfc249-d68f-46ce-9461-a297acdac294"
+      ],
+      "singers": [
+        "499e48e3-998e-4823-b2e1-82467d111a00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:30:43.576Z",
+    "modified_at": "2022-11-04T11:30:43.956Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43a424e0650d7ddae84ed56efb2c940e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3677173,
+      "gain": -1.24,
+      "duration": 229,
+      "loudnorm": "-16.54,-0.80,3.70,-26.60,-0.86",
+      "filename": "processed_2a9b8f7a31994d6be6d643a8d3448a46.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

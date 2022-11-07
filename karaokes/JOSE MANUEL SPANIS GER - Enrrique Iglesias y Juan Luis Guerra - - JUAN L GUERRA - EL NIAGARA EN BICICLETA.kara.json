@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - EL NIAGARA EN BICICLETA.MP3",
+      "loudnorm": "-7.08,2.84,3.60,-17.09,-1.41",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - EL NIAGARA EN BICICLETA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2058fe03-08e2-4d9a-a667-36a450a0ac87",
+    "title": "JUAN L GUERRA   -   EL NIAGARA EN BICICLETA",
+    "titles": {
+      "spa": "JUAN L GUERRA   -   EL NIAGARA EN BICICLETA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:33:23.170Z",
+    "modified_at": "2022-11-04T10:33:23.780Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4421140,
+      "gain": -10.22,
+      "duration": 276,
+      "loudnorm": "-7.08,2.84,3.60,-17.09,-1.41",
+      "filename": "processed_87f16128cf1632b96a0a3a60598cea4a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4421140,
+      "gain": -10.22,
+      "duration": 276,
+      "loudnorm": "-7.08,2.84,3.60,-17.09,-1.41",
+      "filename": "processed_78acb8eeb3290440a1a732096d21095d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

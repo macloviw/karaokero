@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda==Gozando.mp3",
+      "loudnorm": "-18.79,1.12,3.80,-28.82,-0.28",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda==Gozando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "50044ece-7790-4765-99bd-e4fae9445a8e",
+    "title": "Kerubanda==Gozando",
+    "titles": {
+      "spa": "Kerubanda==Gozando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:26:19.340Z",
+    "modified_at": "2022-11-04T04:26:19.719Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79ebe2b5adf8978596110bac7f9e3538.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3718261,
+      "gain": 0.53,
+      "duration": 232,
+      "loudnorm": "-18.79,1.12,3.80,-28.82,-0.28",
+      "filename": "processed_86fce01177220b4ca91286568321e7d9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

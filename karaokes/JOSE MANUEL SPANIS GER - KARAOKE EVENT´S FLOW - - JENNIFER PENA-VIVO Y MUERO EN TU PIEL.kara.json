@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - JENNIFER PENA-VIVO Y MUERO EN TU PIEL.mp3",
+      "loudnorm": "-15.74,-2.33,4.70,-25.86,-0.78",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - JENNIFER PENA-VIVO Y MUERO EN TU PIEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a3b8eb5-2187-4e69-8635-41c5051ae559",
+    "title": "JENNIFER PEÑA-VIVO Y MUERO EN TU PIEL",
+    "titles": {
+      "spa": "JENNIFER PEÑA-VIVO Y MUERO EN TU PIEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:16:45.827Z",
+    "modified_at": "2022-11-04T04:16:46.214Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d04bcbc91f8277c3c373682b24669ef4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4566956,
+      "gain": -1.29,
+      "duration": 285,
+      "loudnorm": "-15.74,-2.33,4.70,-25.86,-0.78",
+      "filename": "processed_679e7e46d69d9aea6fb94d625fcb346e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

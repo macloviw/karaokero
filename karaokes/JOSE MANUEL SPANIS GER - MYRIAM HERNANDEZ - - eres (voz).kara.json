@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - eres (voz).mp3",
+      "loudnorm": "-11.49,0.86,10.30,-21.92,-1.17",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - eres (voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b6836d80-18fc-4701-af2c-89c5c29b17e5",
+    "title": "eres (voz)",
+    "titles": {
+      "spa": "eres (voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e50c894a-425f-4e48-b92e-212adc09e2a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:33:53.785Z",
+    "modified_at": "2022-11-04T07:33:54.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f25c36b1fbef6cc11af09502827879d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6222044,
+      "gain": -7.28,
+      "duration": 259,
+      "loudnorm": "-11.49,0.86,10.30,-21.92,-1.17",
+      "filename": "processed_3bafe34f33f9ff22109de1fd94824e32.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

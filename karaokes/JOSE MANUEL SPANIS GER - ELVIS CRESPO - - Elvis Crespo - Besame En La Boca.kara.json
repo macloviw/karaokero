@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Besame En La Boca.MP3",
+      "loudnorm": "-14.57,-0.48,4.00,-24.60,-0.93",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Besame En La Boca.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7ff49c3b-1ef7-4fbe-b532-52d05e5409d4",
+    "title": "Elvis Crespo - Besame En La Boca",
+    "titles": {
+      "spa": "Elvis Crespo - Besame En La Boca"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:06:12.569Z",
+    "modified_at": "2022-11-04T10:06:13.374Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8551541,
+      "gain": -5.74,
+      "duration": 213,
+      "loudnorm": "-14.57,-0.48,4.00,-24.60,-0.93",
+      "filename": "processed_955c506cd3424dc5d61cccf2a1000549.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8551541,
+      "gain": -5.74,
+      "duration": 213,
+      "loudnorm": "-14.57,-0.48,4.00,-24.60,-0.93",
+      "filename": "processed_cc0b8e008a295c919374b010dadc05a2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

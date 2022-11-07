@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - AMARFI - - AMARFI - TATE MANSA MAMI.mp3",
+      "loudnorm": "-13.38,1.28,2.80,-23.43,-0.80",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - AMARFI - - AMARFI - TATE MANSA MAMI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2991720,
+      "audiogain": -5.36
+    }
+  ],
+  "data": {
+    "kid": "1e1fed5b-551c-44c6-b7d1-585119247fef",
+    "title": "AMARFI - TATE MANSA MAMI",
+    "titles": {
+      "spa": "AMARFI - TATE MANSA MAMI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f1ec53ac-0fc9-4f7f-a2ba-fdad48b5ecd0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:55:48.680Z",
+    "modified_at": "2022-11-04T20:24:33.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_69da95d448e3c191aa2677c0ebe890fc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2991720,
+      "gain": -5.36,
+      "duration": 213,
+      "loudnorm": "-13.38,1.28,2.80,-23.43,-0.80",
+      "filename": "processed_3b830ccade9f5e499e5769b8245213dc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

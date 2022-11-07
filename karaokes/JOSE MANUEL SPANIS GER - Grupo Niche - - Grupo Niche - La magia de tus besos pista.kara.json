@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - La magia de tus besos pista.mp3",
+      "loudnorm": "-10.75,1.78,5.40,-20.99,-1.28",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - La magia de tus besos pista.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4f23acd2-ebd1-469e-8b62-6cb19620da9e",
+    "title": "Grupo Niche - La magia de tus besos pista",
+    "titles": {
+      "spa": "Grupo Niche - La magia de tus besos pista"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:38:31.614Z",
+    "modified_at": "2022-11-04T12:38:32.033Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a835be98cd7e0f1bcd708a4be793144c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4426348,
+      "gain": -6.83,
+      "duration": 276,
+      "loudnorm": "-10.75,1.78,5.40,-20.99,-1.28",
+      "filename": "processed_40725c40266691a9a271f30e9073e3ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

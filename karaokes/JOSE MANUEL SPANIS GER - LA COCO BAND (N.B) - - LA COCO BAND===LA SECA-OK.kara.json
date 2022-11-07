@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCO BAND===LA SECA-OK.mp3",
+      "loudnorm": "-14.44,1.69,4.10,-24.79,-0.52",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA COCO BAND (N.B) - - LA COCO BAND===LA SECA-OK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e0c4997-d899-4000-8533-e78fccd17b16",
+    "title": "LA COCO BAND===LA SECA-OK",
+    "titles": {
+      "spa": "LA COCO BAND===LA SECA-OK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "04f9e141-b638-4f50-957e-ed22d87698c8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:42:29.813Z",
+    "modified_at": "2022-11-04T04:42:30.193Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce084dd8989362d220950c61b730468a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6121735,
+      "gain": -4.48,
+      "duration": 254,
+      "loudnorm": "-14.44,1.69,4.10,-24.79,-0.52",
+      "filename": "processed_4c498a142f7a44c6fb3d5da07088f90a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - Hector El Father - Calor.mp3",
+      "loudnorm": "-10.80,5.15,4.10,-20.84,-0.54",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - Hector El Father - Calor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81baf69a-ac3c-4776-9be9-283a00b2c589",
+    "title": "Hector El Father - Calor",
+    "titles": {
+      "spa": "Hector El Father - Calor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:43:53.397Z",
+    "modified_at": "2022-11-04T11:43:53.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ff51edd0d9ea451d3bb320716dd69e97.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3706880,
+      "gain": -8.54,
+      "duration": 231,
+      "loudnorm": "-10.80,5.15,4.10,-20.84,-0.54",
+      "filename": "processed_9da9950c7547ffe4b5ac15eda7ddd551.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

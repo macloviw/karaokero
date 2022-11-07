@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - FELIX MANUEL - ESTOY CONFUNDIDO.mp3",
+      "loudnorm": "-13.30,1.10,5.70,-23.41,-0.92",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - FELIX MANUEL - ESTOY CONFUNDIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2527774a-5766-467a-8619-3cd0511f2b95",
+    "title": "FELIX MANUEL - ESTOY CONFUNDIDO",
+    "titles": {
+      "spa": "FELIX MANUEL - ESTOY CONFUNDIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "349f0580-a9f7-448c-bc4d-dfb74d074370"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:15:19.541Z",
+    "modified_at": "2022-11-04T12:15:19.941Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dd254e342555a97f6a62fb67f51c4ca7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10503409,
+      "gain": -5.2,
+      "duration": 262,
+      "loudnorm": "-13.30,1.10,5.70,-23.41,-0.92",
+      "filename": "processed_6bc6b15cb53a93e62a52c270452be92e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Sangre Caliente.mp3",
+      "loudnorm": "-9.63,1.21,2.70,-19.71,0.29",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Sangre Caliente.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c0b10b2-cee0-49fa-ad19-ac97af1297de",
+    "title": "Los Tigres Del Norte - Sangre Caliente",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Sangre Caliente"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:39:10.449Z",
+    "modified_at": "2022-11-04T05:39:10.836Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9fb3ad855beceb58ff286a9c6819ddc4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5432259,
+      "gain": -7.51,
+      "duration": 226,
+      "loudnorm": "-9.63,1.21,2.70,-19.71,0.29",
+      "filename": "processed_1251c93324e29f6878de521d877862ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

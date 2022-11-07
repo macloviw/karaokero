@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - La Jaula De Oro (#106).mp3",
+      "loudnorm": "-16.03,0.74,5.60,-26.32,-0.28",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - La Jaula De Oro (#106).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4675584,
+      "audiogain": -3.72
+    }
+  ],
+  "data": {
+    "kid": "dbc6a428-d088-43c3-b7db-48c9fa5f0e3e",
+    "title": "ARAMIS CAMILO - La Jaula De Oro (#106)",
+    "titles": {
+      "spa": "ARAMIS CAMILO - La Jaula De Oro (#106)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "5780ff8e-8f86-4893-9408-bac0a69491f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:12:43.000Z",
+    "modified_at": "2022-11-04T20:30:48.393Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_613fa646dd94c131a969f74b515bef48.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4675584,
+      "gain": -3.72,
+      "duration": 292,
+      "loudnorm": "-16.03,0.74,5.60,-26.32,-0.28",
+      "filename": "processed_14735b38a59139687da5a3339ea33d7c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

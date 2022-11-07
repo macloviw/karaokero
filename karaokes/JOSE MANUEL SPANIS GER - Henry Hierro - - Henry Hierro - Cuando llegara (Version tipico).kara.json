@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Henry Hierro - - Henry Hierro - Cuando llegara (Version tipico).MP3",
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Henry Hierro - - Henry Hierro - Cuando llegara (Version tipico).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8befd5bf-38ed-49b0-8908-e56241a63b56",
+    "title": "Henry Hierro - Cuando llegara (Version tipico)",
+    "titles": {
+      "spa": "Henry Hierro - Cuando llegara (Version tipico)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "7ec690e5-faa4-47be-b3cd-6a088b0175d3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:24:36.134Z",
+    "modified_at": "2022-11-04T10:24:36.564Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2958412,
+      "gain": -8.77,
+      "duration": 184,
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "filename": "processed_6327164092de5c54d0f128966f25ed50.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2958412,
+      "gain": -8.77,
+      "duration": 184,
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "filename": "processed_46d0f36826bbcbc40cf9b78975452d8b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

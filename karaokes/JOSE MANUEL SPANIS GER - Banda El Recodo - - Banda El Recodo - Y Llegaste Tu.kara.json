@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Banda El Recodo - - Banda El Recodo - Y Llegaste Tu.mp3",
+      "loudnorm": "-14.82,-0.32,9.00,-24.93,-0.67",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Banda El Recodo - - Banda El Recodo - Y Llegaste Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3420256,
+      "audiogain": -4.67
+    }
+  ],
+  "data": {
+    "kid": "396618be-2548-4ecd-b3bb-b37f30cfa270",
+    "title": "Banda El Recodo - Y Llegaste Tu",
+    "titles": {
+      "spa": "Banda El Recodo - Y Llegaste Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "73a34916-c1bb-45bb-aa8a-c0d9520f308e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:27:47.369Z",
+    "modified_at": "2022-11-04T20:33:17.038Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b2005863afeda9a76bb9eaf17a5d9a0b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3420256,
+      "gain": -4.67,
+      "duration": 213,
+      "loudnorm": "-14.82,-0.32,9.00,-24.93,-0.67",
+      "filename": "processed_ee779866846e16c31edaee0c2034b2e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

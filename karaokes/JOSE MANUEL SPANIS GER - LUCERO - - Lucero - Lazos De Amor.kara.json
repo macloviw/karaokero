@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Lazos De Amor.MP3",
+      "loudnorm": "-17.36,-2.95,5.60,-27.55,-0.33",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCERO - - Lucero - Lazos De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0a91e8d1-b511-485b-8098-414f72a45ea5",
+    "title": "Lucero - Lazos De Amor",
+    "titles": {
+      "spa": "Lucero - Lazos De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0dcfbcc7-746e-4835-8f9f-59eadad3f2b6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:45:14.146Z",
+    "modified_at": "2022-11-04T05:45:14.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3344384,
+      "gain": -0.27,
+      "duration": 208,
+      "loudnorm": "-17.36,-2.95,5.60,-27.55,-0.33",
+      "filename": "processed_2ead48ca7faa08768c507d3bc8825981.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3344384,
+      "gain": -0.27,
+      "duration": 208,
+      "loudnorm": "-17.36,-2.95,5.60,-27.55,-0.33",
+      "filename": "processed_9e6e89252f5602b50b2a6e008949c546.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

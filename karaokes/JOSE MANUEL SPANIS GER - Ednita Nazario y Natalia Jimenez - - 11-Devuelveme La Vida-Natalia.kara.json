@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Ednita Nazario y Natalia Jimenez - - 11-Devuelveme La Vida-Natalia.mp3",
+      "loudnorm": "-13.62,0.18,5.40,-23.75,-0.86",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Ednita Nazario y Natalia Jimenez - - 11-Devuelveme La Vida-Natalia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1db5d0b0-c40f-4336-871a-8c893b261c64",
+    "title": "11-Devuelveme La Vida-Natalia",
+    "titles": {
+      "spa": "11-Devuelveme La Vida-Natalia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5c953af0-67a5-456a-b622-81cfa33baa57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:37:12.839Z",
+    "modified_at": "2022-11-04T07:37:13.225Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_83e9ba9b89fbb55835ef6ea9b00e3cbb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5908480,
+      "gain": -4.81,
+      "duration": 246,
+      "loudnorm": "-13.62,0.18,5.40,-23.75,-0.86",
+      "filename": "processed_f9418a39b6c80a033baaef9e9bf7eb5a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Volando entre tus brazos.mp3",
+      "loudnorm": "-18.42,-0.42,13.90,-28.92,-1.39",
+      "duration": 332,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Volando entre tus brazos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db7c4453-4425-4443-826d-f63c4c770c0a",
+    "title": "Volando entre tus brazos",
+    "titles": {
+      "spa": "Volando entre tus brazos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "848df8dc-23dd-43bb-b47f-5a99a014514c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:03:12.363Z",
+    "modified_at": "2022-11-04T09:03:12.746Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6262a10c6cae45086dfb4325b99078d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7983115,
+      "gain": -0.68,
+      "duration": 332,
+      "loudnorm": "-18.42,-0.42,13.90,-28.92,-1.39",
+      "filename": "processed_af9dbbabd91d2136aee82efe40cf1256.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

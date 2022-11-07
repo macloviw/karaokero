@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 08 - La Gloria Eres Tu.mp3",
+      "loudnorm": "-25.07,-4.46,5.60,-35.25,-0.75",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS PANCHOS - - Los Panchos - Grandes Exitos De Los Panchos - 08 - La Gloria Eres Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f075ed3-ff41-4d6d-830d-c1e501602336",
+    "title": "Los Panchos - Grandes Exitos De Los Panchos - 08 - La Gloria Eres Tu",
+    "titles": {
+      "spa": "Los Panchos - Grandes Exitos De Los Panchos - 08 - La Gloria Eres Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:32:36.011Z",
+    "modified_at": "2022-11-04T05:32:36.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d348b649c5d66a2fa1596f462155df32.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3950128,
+      "gain": 5.26,
+      "duration": 164,
+      "loudnorm": "-25.07,-4.46,5.60,-35.25,-0.75",
+      "filename": "processed_19aa4e9e47ecc48c2ef956fd8a981ed1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

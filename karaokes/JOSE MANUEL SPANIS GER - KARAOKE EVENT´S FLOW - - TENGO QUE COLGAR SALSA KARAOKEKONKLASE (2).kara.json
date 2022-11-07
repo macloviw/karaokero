@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - TENGO QUE COLGAR SALSA KARAOKEKONKLASE (2).mp3",
+      "loudnorm": "-13.14,0.46,3.10,-23.16,-0.75",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - TENGO QUE COLGAR SALSA KARAOKEKONKLASE (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b2745273-80ef-47ff-87bd-ad9f042341a9",
+    "title": "TENGO QUE COLGAR SALSA KARAOKEKONKLASE (2)",
+    "titles": {
+      "spa": "TENGO QUE COLGAR SALSA KARAOKEKONKLASE (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:20:19.272Z",
+    "modified_at": "2022-11-04T04:20:19.650Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4d82d2f7c76f37151134ecad57ab475.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5531901,
+      "gain": -5.85,
+      "duration": 230,
+      "loudnorm": "-13.14,0.46,3.10,-23.16,-0.75",
+      "filename": "processed_054a38fcc1e0d67cf0c449084756c440.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

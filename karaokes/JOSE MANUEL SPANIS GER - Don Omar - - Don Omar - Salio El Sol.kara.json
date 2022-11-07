@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Salio El Sol.mp3",
+      "loudnorm": "-14.61,-0.17,5.80,-24.76,-0.58",
+      "duration": 330,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Salio El Sol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6669cb73-455a-462e-ba45-32a91eb931b3",
+    "title": "Don Omar - Salio El Sol",
+    "titles": {
+      "spa": "Don Omar - Salio El Sol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "d118fe6d-1a5a-4322-80e6-e5290667ef0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:39:56.378Z",
+    "modified_at": "2022-11-04T11:39:56.770Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3ab5f7e056e95247a830344d2e0df589.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5285480,
+      "gain": -2.97,
+      "duration": 330,
+      "loudnorm": "-14.61,-0.17,5.80,-24.76,-0.58",
+      "filename": "processed_0c03d668c5f41138797dd4b59347292b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

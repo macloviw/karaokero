@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - UN MONTON DE ESTRELLA.MP3",
+      "loudnorm": "-11.73,1.51,3.60,-21.76,-0.71",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - UN MONTON DE ESTRELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bff2ea32-bb14-4252-b4d0-73fc273d90af",
+    "title": "GILBERTO S. ROSA   -   UN MONTON DE ESTRELLA",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   UN MONTON DE ESTRELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:28:48.826Z",
+    "modified_at": "2022-11-04T12:28:49.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4605878,
+      "gain": -6.17,
+      "duration": 287,
+      "loudnorm": "-11.73,1.51,3.60,-21.76,-0.71",
+      "filename": "processed_72b8216bee672bf8df8d690dd467668b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4605878,
+      "gain": -6.17,
+      "duration": 287,
+      "loudnorm": "-11.73,1.51,3.60,-21.76,-0.71",
+      "filename": "processed_d8b5083244d07a4e5b019b6b8ddb2a60.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

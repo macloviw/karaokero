@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Y Hubo Alguien.mp3",
+      "loudnorm": "-12.03,0.92,8.00,-22.20,-1.47",
+      "duration": 379,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Y Hubo Alguien.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f4e306b-6de5-4d59-8475-6c8cb64e19b1",
+    "title": "Marc Anthony - Y Hubo Alguien",
+    "titles": {
+      "spa": "Marc Anthony - Y Hubo Alguien"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:38:10.034Z",
+    "modified_at": "2022-11-04T06:38:10.423Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d9859348631f2a210b3ebbfbaa45e243.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9101312,
+      "gain": -7.18,
+      "duration": 379,
+      "loudnorm": "-12.03,0.92,8.00,-22.20,-1.47",
+      "filename": "processed_e5ef6334be84ba6d41495bffad16ad95.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

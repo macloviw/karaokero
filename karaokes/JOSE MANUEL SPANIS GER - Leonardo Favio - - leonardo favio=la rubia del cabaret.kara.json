@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - leonardo favio=la rubia del cabaret.mp3",
+      "loudnorm": "-15.09,1.47,3.60,-25.18,-0.50",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - leonardo favio=la rubia del cabaret.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "421e3b46-c5e2-4d25-91c9-637aa57f49c5",
+    "title": "leonardo favio=la rubia del cabaret",
+    "titles": {
+      "spa": "leonardo favio=la rubia del cabaret"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0d28fc44-0220-4993-af8b-647324289223"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:19:27.882Z",
+    "modified_at": "2022-11-04T05:19:28.271Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_142bff4ec53e8117bd6907efa51e67a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2812833,
+      "gain": -2.11,
+      "duration": 175,
+      "loudnorm": "-15.09,1.47,3.60,-25.18,-0.50",
+      "filename": "processed_e5693c42812619c5ea5cff6d4df7eca0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

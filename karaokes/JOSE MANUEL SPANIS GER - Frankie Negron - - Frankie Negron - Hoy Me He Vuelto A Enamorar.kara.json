@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Frankie Negron - - Frankie Negron - Hoy Me He Vuelto A Enamorar.mp3",
+      "loudnorm": "-8.77,10.34,3.90,-18.88,-1.00",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Frankie Negron - - Frankie Negron - Hoy Me He Vuelto A Enamorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "30ed7f9f-b0f2-4d21-8206-bc7c7f3b24ed",
+    "title": "Frankie Negron - Hoy Me He Vuelto A Enamorar",
+    "titles": {
+      "spa": "Frankie Negron - Hoy Me He Vuelto A Enamorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "8d97fffb-6111-43a9-ab26-e149884107f6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:16:32.867Z",
+    "modified_at": "2022-11-04T12:16:33.256Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0c1245fe8c79d0f30137c98d6c01b016.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4388873,
+      "gain": -8.54,
+      "duration": 274,
+      "loudnorm": "-8.77,10.34,3.90,-18.88,-1.00",
+      "filename": "processed_bbb0d2c6d63140932a5d22c546ae7f19.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

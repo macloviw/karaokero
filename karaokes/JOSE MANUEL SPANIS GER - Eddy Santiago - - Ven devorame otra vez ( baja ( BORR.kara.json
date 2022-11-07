@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - Ven devorame otra vez ( baja ( BORR.mp3",
+      "loudnorm": "-14.63,2.90,6.20,-24.66,-1.06",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eddy Santiago - - Ven devorame otra vez ( baja ( BORR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "049ec6a0-5012-4f73-88e9-f7c2a8e18c54",
+    "title": "Ven devorame otra vez ( baja   ( BORR",
+    "titles": {
+      "spa": "Ven devorame otra vez ( baja   ( BORR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fc704cbb-3420-49a2-afaf-44a534e516a5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:07:31.791Z",
+    "modified_at": "2022-11-04T12:07:32.178Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_debb3d346c2cb372cc8852f50deaf828.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5079168,
+      "gain": -4.94,
+      "duration": 317,
+      "loudnorm": "-14.63,2.90,6.20,-24.66,-1.06",
+      "filename": "processed_1c75f2b8fdf440a096c6efd2b9e7064a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

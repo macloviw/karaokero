@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=ke le den candela.MP3",
+      "loudnorm": "-12.92,1.47,3.00,-22.94,-0.80",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - celia cruz=ke le den candela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0809ac2-7423-43dc-9847-aebd998dcca9",
+    "title": "celia cruz=ke le den candela",
+    "titles": {
+      "spa": "celia cruz=ke le den candela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:56:02.141Z",
+    "modified_at": "2022-11-04T11:56:02.610Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3874160,
+      "gain": -4.63,
+      "duration": 242,
+      "loudnorm": "-12.92,1.47,3.00,-22.94,-0.80",
+      "filename": "processed_5608205d6d2cf17181d35fc7d487dac6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3874160,
+      "gain": -4.63,
+      "duration": 242,
+      "loudnorm": "-12.92,1.47,3.00,-22.94,-0.80",
+      "filename": "processed_aff398e4699a593f62ec6428a86168b5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

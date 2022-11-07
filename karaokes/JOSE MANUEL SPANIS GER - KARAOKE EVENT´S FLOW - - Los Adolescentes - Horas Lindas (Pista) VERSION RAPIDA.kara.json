@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Los Adolescentes - Horas Lindas (Pista) VERSION RAPIDA.mp3",
+      "loudnorm": "-11.94,1.57,4.30,-21.99,-0.67",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Los Adolescentes - Horas Lindas (Pista) VERSION RAPIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6db3c638-7f4c-45ee-bcda-0306368491e7",
+    "title": "Los Adolescentes - Horas Lindas (Pista) VERSION RAPIDA",
+    "titles": {
+      "spa": "Los Adolescentes - Horas Lindas (Pista) VERSION RAPIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:18:06.574Z",
+    "modified_at": "2022-11-04T04:18:06.956Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_62402494d7c343af4735e83301b27c71.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4133426,
+      "gain": -7.1,
+      "duration": 257,
+      "loudnorm": "-11.94,1.57,4.30,-21.99,-0.67",
+      "filename": "processed_7a2a65d1a74ef5329862fb3c48c3d68c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

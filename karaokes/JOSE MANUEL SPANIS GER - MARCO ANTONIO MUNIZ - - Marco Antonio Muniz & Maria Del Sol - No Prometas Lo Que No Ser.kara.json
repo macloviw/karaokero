@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz & Maria Del Sol - No Prometas Lo Que No Ser.mp3",
+      "loudnorm": "-20.97,-2.96,7.20,-31.09,-1.16",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz & Maria Del Sol - No Prometas Lo Que No Ser.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c315bf9-f1c0-4944-9f82-11ed8bc9e75b",
+    "title": "Marco Antonio Muñiz & Maria Del Sol - No Prometas Lo Que No Ser",
+    "titles": {
+      "spa": "Marco Antonio Muñiz & Maria Del Sol - No Prometas Lo Que No Ser"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a92236a9-14aa-4ae5-a867-50d9bcca11bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:47:26.081Z",
+    "modified_at": "2022-11-04T06:47:26.471Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_339fe25bc36ebd63c92497a1ee938d01.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5788203,
+      "gain": 4.13,
+      "duration": 241,
+      "loudnorm": "-20.97,-2.96,7.20,-31.09,-1.16",
+      "filename": "processed_880cfde95f213cdb6c2b3d6a7ef14c32.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

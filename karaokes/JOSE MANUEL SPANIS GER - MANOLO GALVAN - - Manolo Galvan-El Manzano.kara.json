@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan-El Manzano.mp3",
+      "loudnorm": "-6.22,7.62,5.10,-16.43,-0.38",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan-El Manzano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed7d2f4e-bf92-4d4f-ad99-da139c9f1e59",
+    "title": "Manolo Galvan-El Manzano",
+    "titles": {
+      "spa": "Manolo Galvan-El Manzano"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:25:46.064Z",
+    "modified_at": "2022-11-04T06:25:46.437Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74777c37822d5f7e5f563b8de4357c7b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2931868,
+      "gain": -11.2,
+      "duration": 183,
+      "loudnorm": "-6.22,7.62,5.10,-16.43,-0.38",
+      "filename": "processed_129a6713db23dac57be78c9cb4b1982c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

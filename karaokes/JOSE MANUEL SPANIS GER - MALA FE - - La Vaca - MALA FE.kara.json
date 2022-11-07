@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MALA FE - - La Vaca - MALA FE.mp3",
+      "loudnorm": "-12.23,0.84,2.60,-22.39,-0.58",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MALA FE - - La Vaca - MALA FE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4fc595be-d7ec-487f-9ce0-f6b7204c5c53",
+    "title": "La Vaca - MALA FE",
+    "titles": {
+      "spa": "La Vaca - MALA FE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "66d79e72-6f95-4589-ac19-c48a176ca9dd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:11:38.012Z",
+    "modified_at": "2022-11-04T06:11:38.402Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_be40dfe3e7a857c1fd11550caa2a5f97.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6511063,
+      "gain": -4.84,
+      "duration": 271,
+      "loudnorm": "-12.23,0.84,2.60,-22.39,-0.58",
+      "filename": "processed_1022aa6cd87faa1f66446a08d64bebd4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

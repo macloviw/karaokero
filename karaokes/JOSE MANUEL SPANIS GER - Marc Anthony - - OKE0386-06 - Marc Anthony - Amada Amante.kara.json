@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-06 - Marc Anthony - Amada Amante.mp3",
+      "loudnorm": "-14.28,0.27,6.30,-24.48,0.23",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-06 - Marc Anthony - Amada Amante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf4a1834-6886-40da-b501-8a16846a66f9",
+    "title": "OKE0386-06 - Marc Anthony - Amada Amante",
+    "titles": {
+      "spa": "OKE0386-06 - Marc Anthony - Amada Amante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:44:01.713Z",
+    "modified_at": "2022-11-04T06:44:02.091Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33edda357a1c33301c5078d7be10713d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9511898,
+      "gain": -3.51,
+      "duration": 237,
+      "loudnorm": "-14.28,0.27,6.30,-24.48,0.23",
+      "filename": "processed_509e24c9d62c11f121ca0e237441ae70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

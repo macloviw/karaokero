@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Ya No Te Vayas_SP-002-1362_.mp3",
+      "loudnorm": "-18.71,-7.49,5.30,-28.94,-0.71",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Ya No Te Vayas_SP-002-1362_.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3d69b809-961e-4984-9c60-a3461fc84599",
+    "title": "Marisela_Ya No Te Vayas_SP-002-1362_",
+    "titles": {
+      "spa": "Marisela_Ya No Te Vayas_SP-002-1362_"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:02:20.645Z",
+    "modified_at": "2022-11-04T07:02:21.030Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2225bb7f3c3d52e99090173da11fda85.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5789335,
+      "gain": 0.74,
+      "duration": 241,
+      "loudnorm": "-18.71,-7.49,5.30,-28.94,-0.71",
+      "filename": "processed_baff4494c023590097acaa4e83e16880.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

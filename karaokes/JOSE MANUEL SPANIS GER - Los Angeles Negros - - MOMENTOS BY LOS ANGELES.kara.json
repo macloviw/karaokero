@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - MOMENTOS BY LOS ANGELES.MP3",
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - MOMENTOS BY LOS ANGELES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "25617bf2-96b2-453a-a6c6-8cabae40ac55",
+    "title": "MOMENTOS BY LOS ANGELES",
+    "titles": {
+      "spa": "MOMENTOS BY LOS ANGELES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6b010bf7-3aa2-43c0-99bf-cddf9f383c97"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:27:12.934Z",
+    "modified_at": "2022-11-04T05:27:13.377Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3953026,
+      "gain": -6.81,
+      "duration": 246,
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "filename": "processed_f408e8afc4b781c361e6f3f1d470f048.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3953026,
+      "gain": -6.81,
+      "duration": 246,
+      "loudnorm": "-8.84,2.72,1.70,-18.90,0.13",
+      "filename": "processed_faeb6291eafebcf263ddfd5065300990.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - La subida y la bajada.mp3",
+      "loudnorm": "-12.92,0.50,2.00,-22.99,-0.00",
+      "duration": 133,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - La subida y la bajada.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3694288a-5e6c-4928-b022-6c88278e4579",
+    "title": "Las Jilguerillas - La subida y la bajada",
+    "titles": {
+      "spa": "Las Jilguerillas - La subida y la bajada"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "fe30cae1-e8de-4379-8b47-7f7470427a93"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:05:22.862Z",
+    "modified_at": "2022-11-04T05:05:23.245Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_873c6d6296bbc5160164553c06456b0a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3207723,
+      "gain": -5.41,
+      "duration": 133,
+      "loudnorm": "-12.92,0.50,2.00,-22.99,-0.00",
+      "filename": "processed_237a186cb2bb6f5606b7639743786717.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

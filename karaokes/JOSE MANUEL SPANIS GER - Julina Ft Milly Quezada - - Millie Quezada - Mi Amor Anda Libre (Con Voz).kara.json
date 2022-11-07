@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Millie Quezada - Mi Amor Anda Libre (Con Voz).mp3",
+      "loudnorm": "-9.92,1.40,1.80,-19.98,-0.60",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - Millie Quezada - Mi Amor Anda Libre (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f25a3979-2813-4dc7-99a6-bd5a2adc7a8f",
+    "title": "Millie Quezada - Mi Amor Anda Libre (Con Voz)",
+    "titles": {
+      "spa": "Millie Quezada - Mi Amor Anda Libre (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:48:19.697Z",
+    "modified_at": "2022-11-04T10:48:20.086Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b582a0efb54bd79a6611b65835e3a565.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6872807,
+      "gain": -7.37,
+      "duration": 286,
+      "loudnorm": "-9.92,1.40,1.80,-19.98,-0.60",
+      "filename": "processed_e0db06cdad2a74e55795e9d398f35fea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

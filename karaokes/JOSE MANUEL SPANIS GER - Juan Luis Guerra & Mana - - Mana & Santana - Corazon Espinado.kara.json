@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - Mana & Santana - Corazon Espinado.mp3",
+      "loudnorm": "-15.44,0.06,3.20,-25.68,-0.50",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - Mana & Santana - Corazon Espinado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a9d6fa8d-1148-4099-b0b4-d84d7ce76014",
+    "title": "Mana & Santana - Corazon Espinado",
+    "titles": {
+      "spa": "Mana & Santana - Corazon Espinado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:16:13.030Z",
+    "modified_at": "2022-11-04T06:16:13.414Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b72fa882fb03910b70be50b7a1966e11.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4490351,
+      "gain": -2.54,
+      "duration": 280,
+      "loudnorm": "-15.44,0.06,3.20,-25.68,-0.50",
+      "filename": "processed_d23e9bb1d39a3f578ec8e6fa75523be2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - ASDRUBAL - VEN TE QUIERO TODAVIA.mp3",
+      "loudnorm": "-12.95,3.29,4.10,-23.02,-0.76",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - ASDRUBAL - VEN TE QUIERO TODAVIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 6034976,
+      "audiogain": -6.66
+    }
+  ],
+  "data": {
+    "kid": "773d6081-35d1-4bc0-a298-26e0c8571778",
+    "title": "ASDRUBAL - VEN TE QUIERO TODAVIA",
+    "titles": {
+      "spa": "ASDRUBAL - VEN TE QUIERO TODAVIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "48bc5831-fff2-40eb-be15-6b736c194fa8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:49:56.257Z",
+    "modified_at": "2022-11-04T20:31:09.740Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d738fb2619e335391daba1b66639b5e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6034976,
+      "gain": -6.66,
+      "duration": 301,
+      "loudnorm": "-12.95,3.29,4.10,-23.02,-0.76",
+      "filename": "processed_b6624a260910ef312c74f008f81ef459.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

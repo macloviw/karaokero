@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Duele.mp3",
+      "loudnorm": "-9.08,3.63,15.10,-19.87,-1.88",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector y Tito - - Hector y Tito - Duele.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed2b3b89-1ce1-4856-8a19-6e781db6b367",
+    "title": "Hector y Tito - Duele",
+    "titles": {
+      "spa": "Hector y Tito - Duele"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "e628e342-828c-4f77-bad3-6c8238dcd96d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:44:30.554Z",
+    "modified_at": "2022-11-04T11:44:30.946Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_405c2a97e8ad85726e0f3a0940db09e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2435406,
+      "gain": -9.74,
+      "duration": 152,
+      "loudnorm": "-9.08,3.63,15.10,-19.87,-1.88",
+      "filename": "processed_6cea22f7cef6dc94d4b843b8253f2a61.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

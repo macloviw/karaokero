@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - ANGEL DE AMOR.MP3",
+      "loudnorm": "-13.89,0.57,4.50,-23.91,-0.40",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - ANGEL DE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ded46ea-d95d-485b-b52a-65e8a4bef46d",
+    "title": "MANA    -    ANGEL DE AMOR",
+    "titles": {
+      "spa": "MANA    -    ANGEL DE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:12:30.752Z",
+    "modified_at": "2022-11-04T06:12:32.078Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11893125,
+      "gain": -2.67,
+      "duration": 297,
+      "loudnorm": "-13.89,0.57,4.50,-23.91,-0.40",
+      "filename": "processed_8d91d8d7658f23c4161fa5504c44aef3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11893125,
+      "gain": -2.67,
+      "duration": 297,
+      "loudnorm": "-13.89,0.57,4.50,-23.91,-0.40",
+      "filename": "processed_e2e17d81a393bd052e44d9e69f4adc47.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

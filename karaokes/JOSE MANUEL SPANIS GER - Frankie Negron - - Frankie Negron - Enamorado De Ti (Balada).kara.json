@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Frankie Negron - - Frankie Negron - Enamorado De Ti (Balada).mp3",
+      "loudnorm": "-9.45,7.49,6.10,-19.56,-0.99",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Frankie Negron - - Frankie Negron - Enamorado De Ti (Balada).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b2fb187-b98a-4570-8adc-36c5df27c655",
+    "title": "Frankie Negron - Enamorado De Ti (Balada)",
+    "titles": {
+      "spa": "Frankie Negron - Enamorado De Ti (Balada)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "8d97fffb-6111-43a9-ab26-e149884107f6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:16:20.551Z",
+    "modified_at": "2022-11-04T12:16:20.932Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_088b0459c3626976a7d2169cfc0d4878.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4412151,
+      "gain": -8.83,
+      "duration": 275,
+      "loudnorm": "-9.45,7.49,6.10,-19.56,-0.99",
+      "filename": "processed_63f6cacdedddce6adb3ed407f58c2a83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

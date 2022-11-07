@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - niche tu me recordaras.mp3",
+      "loudnorm": "-6.17,1.71,2.80,-16.19,-0.32",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - niche tu me recordaras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "061cd7c7-1a85-4e6b-a901-599adb3188a7",
+    "title": "niche tu me recordaras",
+    "titles": {
+      "spa": "niche tu me recordaras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:41:37.593Z",
+    "modified_at": "2022-11-04T12:41:37.985Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fa36e94a55f49af413a0e751ba535f56.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5135090,
+      "gain": -11.58,
+      "duration": 213,
+      "loudnorm": "-6.17,1.71,2.80,-16.19,-0.32",
+      "filename": "processed_57e98058a51042b04a67d4b69dc040ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

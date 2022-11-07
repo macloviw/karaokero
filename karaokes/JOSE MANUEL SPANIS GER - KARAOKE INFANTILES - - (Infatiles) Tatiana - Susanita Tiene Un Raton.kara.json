@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Tatiana - Susanita Tiene Un Raton.mp3",
+      "loudnorm": "-13.71,0.75,1.90,-23.78,-0.60",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Tatiana - Susanita Tiene Un Raton.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b44130d9-3ed0-451e-9621-4072ef275656",
+    "title": "(Infatiles) Tatiana - Susanita Tiene Un Raton",
+    "titles": {
+      "spa": "(Infatiles) Tatiana - Susanita Tiene Un Raton"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:23:19.828Z",
+    "modified_at": "2022-11-04T04:23:20.223Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4c7a044d65b40709b539d203d4df4830.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2770840,
+      "gain": -4.14,
+      "duration": 173,
+      "loudnorm": "-13.71,0.75,1.90,-23.78,-0.60",
+      "filename": "processed_c2e1065bacf0075c2679e7b8559d1d6c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

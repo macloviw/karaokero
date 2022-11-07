@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - NOCHES DE FANTASIAS.mp3",
+      "loudnorm": "-8.18,1.91,2.30,-18.30,-0.11",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - NOCHES DE FANTASIAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f804c45-ebb8-4a9f-b2be-589220d8a22b",
+    "title": "NOCHES DE FANTASIAS",
+    "titles": {
+      "spa": "NOCHES DE FANTASIAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "12d5f28c-71a2-49f8-b923-c7e118afb766"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:30:19.182Z",
+    "modified_at": "2022-11-04T10:30:19.695Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a74ce3f9616243e5750a0055065a253.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4274063,
+      "gain": -8.53,
+      "duration": 267,
+      "loudnorm": "-8.18,1.91,2.30,-18.30,-0.11",
+      "filename": "processed_86a8d289339a6565e681ba066e57b00e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

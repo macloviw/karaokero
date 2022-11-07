@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - David Pabon - - David Pabon - Aquel Viejo Motel.mp3",
+      "loudnorm": "-9.29,4.47,4.10,-19.32,-0.86",
+      "duration": 330,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - David Pabon - - David Pabon - Aquel Viejo Motel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a7695524-2576-4d67-8cce-ce09dafa4d60",
+    "title": "David Pabon - Aquel Viejo Motel",
+    "titles": {
+      "spa": "David Pabon - Aquel Viejo Motel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94b90f7-fa6a-468f-ae37-f1a7e448e7bb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:00:40.924Z",
+    "modified_at": "2022-11-04T12:00:41.322Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2859a7c27b9a20a2440b52ae34a76009.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5283306,
+      "gain": -9.32,
+      "duration": 330,
+      "loudnorm": "-9.29,4.47,4.10,-19.32,-0.86",
+      "filename": "processed_5a8aec6fd91a782effdea90ba3cced54.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

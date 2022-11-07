@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - como pagarte MAK.mp3",
+      "loudnorm": "-15.47,0.03,3.00,-25.56,0.24",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - como pagarte MAK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "20b2557e-955a-4624-b78a-43e14984944b",
+    "title": "Yovanny Polanco - como pagarte MAK",
+    "titles": {
+      "spa": "Yovanny Polanco - como pagarte MAK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "singers": [
+        "ccd45d64-b03c-4304-9627-d68c9071e9fe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:56:56.469Z",
+    "modified_at": "2022-11-04T12:56:56.869Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4c000d426212617efeeb5f19edf0d42.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4614784,
+      "gain": -2.98,
+      "duration": 288,
+      "loudnorm": "-15.47,0.03,3.00,-25.56,0.24",
+      "filename": "processed_1bbaa5899231db53abd1c217ffe99367.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - El guardia del arcenal.mp3",
+      "loudnorm": "-11.60,3.20,2.90,-21.79,-0.56",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - El guardia del arcenal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b682684-77b7-4e88-abe8-3b56d0e1f109",
+    "title": "Charly Rodriguez - El guardia del arcenal",
+    "titles": {
+      "spa": "Charly Rodriguez - El guardia del arcenal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "c0dbe58c-ebcb-4907-8b2c-59f30db86cfd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:18:55.811Z",
+    "modified_at": "2022-11-04T09:18:56.226Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee7ca02ca287866f7452f820d27e9224.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3723148,
+      "gain": -6.68,
+      "duration": 265,
+      "loudnorm": "-11.60,3.20,2.90,-21.79,-0.56",
+      "filename": "processed_e3b70456f92171cede7cff26c41b4d98.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

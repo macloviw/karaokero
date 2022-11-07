@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - DEJATE QUERER.MP3",
+      "loudnorm": "-12.82,1.82,6.10,-22.89,-0.38",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - DEJATE QUERER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "07e7be17-ce4c-49b8-a64d-5bb02c64370a",
+    "title": "GILBERTO S. ROSA   -   DEJATE QUERER",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   DEJATE QUERER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:25:00.053Z",
+    "modified_at": "2022-11-04T12:25:00.633Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4720399,
+      "gain": -7.24,
+      "duration": 294,
+      "loudnorm": "-12.82,1.82,6.10,-22.89,-0.38",
+      "filename": "processed_3ae859b844031790dad1acd1979ba9eb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4720399,
+      "gain": -7.24,
+      "duration": 294,
+      "loudnorm": "-12.82,1.82,6.10,-22.89,-0.38",
+      "filename": "processed_c8707858053f9f9348616e61ce2d1afe.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

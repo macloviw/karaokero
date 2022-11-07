@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - VIVE.mp3",
+      "loudnorm": "-12.21,1.95,3.70,-22.23,-0.73",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - VIVE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aeac063c-5fea-4838-9cc7-97dc485a5af3",
+    "title": "MILLY QUEZADA - VIVE",
+    "titles": {
+      "spa": "MILLY QUEZADA - VIVE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:25:39.371Z",
+    "modified_at": "2022-11-04T07:25:39.756Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_63418e2dfef4cd0a2c1a26f02d6bfd97.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4545131,
+      "gain": -6.83,
+      "duration": 284,
+      "loudnorm": "-12.21,1.95,3.70,-22.23,-0.73",
+      "filename": "processed_4f8e07f0d7f650b386620204387e2adc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==LA GITANA.mp3",
+      "loudnorm": "-9.02,3.00,4.40,-19.16,-1.32",
+      "duration": 370,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - CANO ESTREMERA==LA GITANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b23f71ef-3854-481b-b7b8-14fab3b2358f",
+    "title": "CANO ESTREMERA==LA GITANA",
+    "titles": {
+      "spa": "CANO ESTREMERA==LA GITANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c7a3003c-08ee-4826-a486-91ef68613a22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:51:12.594Z",
+    "modified_at": "2022-11-04T11:51:12.987Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1d92713d9a1036331336a8dc80914534.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8903461,
+      "gain": -11.19,
+      "duration": 370,
+      "loudnorm": "-9.02,3.00,4.40,-19.16,-1.32",
+      "filename": "processed_1692e0caa42f56c2fd66eff65e622072.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

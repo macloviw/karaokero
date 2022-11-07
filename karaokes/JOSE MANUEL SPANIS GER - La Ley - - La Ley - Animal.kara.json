@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La Ley - - La Ley - Animal.mp3",
+      "loudnorm": "-9.27,4.41,5.90,-19.35,-0.79",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La Ley - - La Ley - Animal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b1b4648c-ec1b-4602-82a4-7320b0f9ca89",
+    "title": "La Ley - Animal",
+    "titles": {
+      "spa": "La Ley - Animal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b30331a2-8e4c-4c0c-9c94-01ce9d17cea5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:49:30.300Z",
+    "modified_at": "2022-11-04T04:49:30.691Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_289eddba45495a2c61ff50f7935b5dc7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4507444,
+      "gain": -8.42,
+      "duration": 281,
+      "loudnorm": "-9.27,4.41,5.90,-19.35,-0.79",
+      "filename": "processed_29d623ce5d539f7f47b30c2ef72b4376.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

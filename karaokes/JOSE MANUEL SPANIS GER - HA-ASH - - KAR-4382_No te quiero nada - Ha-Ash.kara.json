@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HA-ASH - - KAR-4382_No te quiero nada - Ha-Ash.mp3",
+      "loudnorm": "-11.09,0.70,7.80,-21.21,-1.57",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HA-ASH - - KAR-4382_No te quiero nada - Ha-Ash.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e013dee3-2b43-4541-9f51-4ad1b5f79213",
+    "title": "KAR-4382_No te quiero nada - Ha-Ash",
+    "titles": {
+      "spa": "KAR-4382_No te quiero nada - Ha-Ash"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a73aa2a4-267d-4b65-b359-c9c6a3f02ca6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:23:26.056Z",
+    "modified_at": "2022-11-04T10:23:26.441Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_508fa773214375ed8381e46239af9b0b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6049792,
+      "gain": -5.26,
+      "duration": 251,
+      "loudnorm": "-11.09,0.70,7.80,-21.21,-1.57",
+      "filename": "processed_005eba2c808d8f7827941862c632d3ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

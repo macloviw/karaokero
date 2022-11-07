@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Bajo Un Palmar.mp3",
+      "loudnorm": "-17.25,-0.57,1.40,-27.29,0.02",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANNY MANUEL - - Manny Manuel - Bajo Un Palmar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0bfbe16e-6e4f-4c8a-9271-b24d65a5cdcb",
+    "title": "Manny Manuel - Bajo Un Palmar",
+    "titles": {
+      "spa": "Manny Manuel - Bajo Un Palmar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "170b7bba-ec39-4c24-9acd-ee367b3356aa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:18:16.440Z",
+    "modified_at": "2022-11-04T06:18:16.814Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d72f9fa40f3f4408d84fa61d1c3a7a66.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3337499,
+      "gain": -3.04,
+      "duration": 208,
+      "loudnorm": "-17.25,-0.57,1.40,-27.29,0.02",
+      "filename": "processed_a97e7f2b3594f4f2c9a238f422325667.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

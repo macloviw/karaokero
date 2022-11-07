@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==La Mucura.mp3",
+      "loudnorm": "-9.45,1.26,2.40,-19.48,-0.81",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==La Mucura.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5ab0cdc8-2acf-4532-a090-06fc9d041119",
+    "title": "EL CONJUNTO QUISQUEYA==La Mucura",
+    "titles": {
+      "spa": "EL CONJUNTO QUISQUEYA==La Mucura"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "514f3784-c83b-4b14-a501-e1ffed9e86d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:22:17.541Z",
+    "modified_at": "2022-11-04T09:22:17.959Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ed81c6bb6a574d83989b6d600df91245.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10744781,
+      "gain": -8.97,
+      "duration": 268,
+      "loudnorm": "-9.45,1.26,2.40,-19.48,-0.81",
+      "filename": "processed_9955870fb9a9a6ad0a4fb845378bce3f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - Imaginame sin ti.mp3",
+      "loudnorm": "-13.69,0.49,6.80,-23.91,-0.99",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - Imaginame sin ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "44b5be8f-fb59-43f9-9f17-816c3d1ddcc4",
+    "title": "Luis Fonsi - Imaginame sin ti",
+    "titles": {
+      "spa": "Luis Fonsi - Imaginame sin ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:51:53.663Z",
+    "modified_at": "2022-11-04T05:51:54.056Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4f06abb647a3e56438fbca3e166e9b39.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5896192,
+      "gain": -3.49,
+      "duration": 244,
+      "loudnorm": "-13.69,0.49,6.80,-23.91,-0.99",
+      "filename": "processed_d15db2b7d58f8196477792d14f79b538.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

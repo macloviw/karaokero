@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HAS-ASH - - ME ENTREGO A TI.mp3",
+      "loudnorm": "-12.95,0.46,5.80,-23.21,-0.22",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HAS-ASH - - ME ENTREGO A TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6047e4a1-f40b-4ca9-809a-21df04581b01",
+    "title": "ME ENTREGO A TI",
+    "titles": {
+      "spa": "ME ENTREGO A TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "d2603eec-1122-4983-bfe6-de4211e23338"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:23:47.224Z",
+    "modified_at": "2022-11-04T10:23:47.616Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_66ac763584d34dca4fab2532feba6103.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5466583,
+      "gain": -4.74,
+      "duration": 227,
+      "loudnorm": "-12.95,0.46,5.80,-23.21,-0.22",
+      "filename": "processed_e865c48013f47e1c31ed9c64cfbfd499.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

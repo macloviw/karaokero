@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDITO VILLALONA - - FERNANDITO VILLALONA - TABACO Y RON.mp3",
+      "loudnorm": "-16.98,0.33,4.60,-27.11,-0.06",
+      "duration": 326,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDITO VILLALONA - - FERNANDITO VILLALONA - TABACO Y RON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf38de47-1ae1-4219-81f3-4b9feca21822",
+    "title": "FERNANDITO VILLALONA - TABACO Y RON",
+    "titles": {
+      "spa": "FERNANDITO VILLALONA - TABACO Y RON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "ac1d9866-7470-4843-a33f-a89e047cfc8a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:07:48.506Z",
+    "modified_at": "2022-11-04T10:07:48.897Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_53d365fa52079817bfcfbb3c2ada2a61.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4574206,
+      "gain": -0.37,
+      "duration": 326,
+      "loudnorm": "-16.98,0.33,4.60,-27.11,-0.06",
+      "filename": "processed_b7c8683a1b6fe05e9c43a180cf3db8df.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

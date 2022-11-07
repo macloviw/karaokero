@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - Yo Era El Amor De Su Vida (Exclusivo Asoc. Karaoke DJs. RD).mp3",
+      "loudnorm": "-12.40,1.01,4.60,-22.45,-1.15",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GEOVANNY POLANCO - - Yovanny Polanco - Yo Era El Amor De Su Vida (Exclusivo Asoc. Karaoke DJs. RD).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5ce5e7ff-8cdb-4628-91b7-01a662317d2d",
+    "title": "Yovanny Polanco - Yo Era El Amor De Su Vida (Exclusivo Asoc. Karaoke DJs. RD)",
+    "titles": {
+      "spa": "Yovanny Polanco - Yo Era El Amor De Su Vida (Exclusivo Asoc. Karaoke DJs. RD)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "singers": [
+        "ccd45d64-b03c-4304-9627-d68c9071e9fe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:57:42.658Z",
+    "modified_at": "2022-11-04T12:57:43.046Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf3cfe4563fdc602b6e468ef43b0c306.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8431585,
+      "gain": -6.69,
+      "duration": 263,
+      "loudnorm": "-12.40,1.01,4.60,-22.45,-1.15",
+      "filename": "processed_cbe8ef0a4caa64bdc4384199a24f4278.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

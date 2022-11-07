@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - Durmiendo En La Misma Cama.mp3",
+      "loudnorm": "-15.14,0.31,7.30,-25.32,-0.71",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - Durmiendo En La Misma Cama.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97fa71a2-c85e-400a-868c-4af220f87554",
+    "title": "Manolo Galván - Durmiendo En La Misma Cama",
+    "titles": {
+      "spa": "Manolo Galván - Durmiendo En La Misma Cama"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:25:55.123Z",
+    "modified_at": "2022-11-04T06:25:55.505Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3f8d52809db0dc2806390b13b49c9412.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3011075,
+      "gain": -3.36,
+      "duration": 188,
+      "loudnorm": "-15.14,0.31,7.30,-25.32,-0.71",
+      "filename": "processed_40dcde8488597198c1fb6e7ecd55a987.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

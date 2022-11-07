@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Eddie Santiago - - Eddie Santiago - Que Locura Enamorarme de Ti.MP3",
+      "loudnorm": "-15.58,0.59,3.90,-25.63,-0.36",
+      "duration": 318,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Eddie Santiago - - Eddie Santiago - Que Locura Enamorarme de Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a08ece6f-d4dc-4b44-826f-f0592c2173a0",
+    "title": "Eddie Santiago - Que Locura Enamorarme de Ti.",
+    "titles": {
+      "spa": "Eddie Santiago - Que Locura Enamorarme de Ti."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "ea9c4813-000b-4a8e-960d-46363e42fc63"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:03:24.901Z",
+    "modified_at": "2022-11-04T12:03:25.493Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5093376,
+      "gain": -2.97,
+      "duration": 318,
+      "loudnorm": "-15.58,0.59,3.90,-25.63,-0.36",
+      "filename": "processed_488fd14ccbe6ff4dcb17dd147264a2a3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5093376,
+      "gain": -2.97,
+      "duration": 318,
+      "loudnorm": "-15.58,0.59,3.90,-25.63,-0.36",
+      "filename": "processed_7e97039605bdc8d24a24a150b8d5c4a1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

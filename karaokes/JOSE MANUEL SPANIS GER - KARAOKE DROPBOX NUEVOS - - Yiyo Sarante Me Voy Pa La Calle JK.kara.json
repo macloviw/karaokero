@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - Yiyo Sarante Me Voy Pa La Calle JK.mp3",
+      "loudnorm": "-6.61,1.94,3.70,-16.64,-0.41",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - Yiyo Sarante Me Voy Pa La Calle JK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d98534dc-400d-446a-8f21-ce25603dbb14",
+    "title": "Yiyo Sarante  Me Voy Pa La Calle  JK",
+    "titles": {
+      "spa": "Yiyo Sarante  Me Voy Pa La Calle  JK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:11:11.526Z",
+    "modified_at": "2022-11-04T04:11:11.910Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e0becaff7f7be33aaf74a835993b036.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6726730,
+      "gain": -10.14,
+      "duration": 280,
+      "loudnorm": "-6.61,1.94,3.70,-16.64,-0.41",
+      "filename": "processed_1abbd76257316d8c43d53e5c4f1d6df3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

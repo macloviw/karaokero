@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Hasta Que Vuelvas Conmigo.mp3",
+      "loudnorm": "-16.42,-0.24,12.00,-26.73,-1.70",
+      "duration": 298,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Hasta Que Vuelvas Conmigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "79ba8795-10b7-4281-9a4a-3af78de52e7d",
+    "title": "Marc Anthony - Hasta Que Vuelvas Conmigo",
+    "titles": {
+      "spa": "Marc Anthony - Hasta Que Vuelvas Conmigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:30:47.591Z",
+    "modified_at": "2022-11-04T06:30:47.971Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a298e5da1e1ed3c0fb271a7abea06d6e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7173110,
+      "gain": -2.5,
+      "duration": 298,
+      "loudnorm": "-16.42,-0.24,12.00,-26.73,-1.70",
+      "filename": "processed_117b5c34ffe7a90117b71add976a5d35.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - MIRIAN CRUZ - QUE ME PERDONE TU SENORA.mp3",
+      "loudnorm": "-10.06,0.98,2.80,-20.13,-0.62",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - MIRIAN CRUZ - QUE ME PERDONE TU SENORA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5729270,
+      "audiogain": -7.85
+    }
+  ],
+  "data": {
+    "kid": "39c7ceb1-5636-4f71-b254-dc6a67327019",
+    "title": "MIRIAN CRUZ - QUE ME PERDONE TU SENORA",
+    "titles": {
+      "spa": "MIRIAN CRUZ - QUE ME PERDONE TU SENORA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:30:05.648Z",
+    "modified_at": "2022-11-04T20:28:15.956Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_88bff6839e3254a35017a3e2a813c3dc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5729270,
+      "gain": -7.85,
+      "duration": 238,
+      "loudnorm": "-10.06,0.98,2.80,-20.13,-0.62",
+      "filename": "processed_bb98b544ded597158c9e85ed2ba7c6b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

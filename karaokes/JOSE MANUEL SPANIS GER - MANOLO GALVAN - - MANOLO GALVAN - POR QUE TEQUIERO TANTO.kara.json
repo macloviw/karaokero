@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - POR QUE TEQUIERO TANTO.MP3",
+      "loudnorm": "-17.63,-1.02,4.10,-27.75,-1.03",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - POR QUE TEQUIERO TANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "348e60ac-1e90-4473-8d5d-9d426f661607",
+    "title": "MANOLO GALVAN   -   POR QUE TEQUIERO TANTO",
+    "titles": {
+      "spa": "MANOLO GALVAN   -   POR QUE TEQUIERO TANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:23:39.777Z",
+    "modified_at": "2022-11-04T06:23:40.218Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3313966,
+      "gain": 0.1,
+      "duration": 206,
+      "loudnorm": "-17.63,-1.02,4.10,-27.75,-1.03",
+      "filename": "processed_438109d5c530cb3fcc9a215dc674960f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3313966,
+      "gain": 0.1,
+      "duration": 206,
+      "loudnorm": "-17.63,-1.02,4.10,-27.75,-1.03",
+      "filename": "processed_3ad0ceb6a8be5cef604127e81bcffd39.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

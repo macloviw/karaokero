@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LAS CHICAN - - LAS CHICAN - PEQUEnAS COSAS.mp3",
+      "loudnorm": "-9.50,0.10,2.90,-19.55,0.07",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LAS CHICAN - - LAS CHICAN - PEQUEnAS COSAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "49937593-fe91-40aa-9be2-c2415a838c2a",
+    "title": "LAS CHICAN - PEQUEñAS COSAS",
+    "titles": {
+      "spa": "LAS CHICAN - PEQUEñAS COSAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "13aeaebf-fc0c-4b7a-813e-09506f39bae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:02:06.994Z",
+    "modified_at": "2022-11-04T05:02:07.392Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72b01559ec5dccf553ecde0657151891.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3912194,
+      "gain": -7.6,
+      "duration": 244,
+      "loudnorm": "-9.50,0.10,2.90,-19.55,0.07",
+      "filename": "processed_a86a7ffa76399b6a4dae155247592b46.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

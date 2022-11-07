@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Insomnio.mp3",
+      "loudnorm": "-12.91,1.31,7.30,-23.18,-0.79",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Insomnio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c61df5cc-8581-4eef-8a03-0bec70bdf124",
+    "title": "Kumbia Kings - Insomnio",
+    "titles": {
+      "spa": "Kumbia Kings - Insomnio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:33:50.200Z",
+    "modified_at": "2022-11-04T04:33:50.574Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_81ac0f4116226e0b6b649c97bf771fea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5076000,
+      "gain": -4.86,
+      "duration": 211,
+      "loudnorm": "-12.91,1.31,7.30,-23.18,-0.79",
+      "filename": "processed_57730fbe75334a54923d749c1feba364.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Que se vaya.mp3",
+      "loudnorm": "-14.62,0.95,2.90,-24.64,-0.34",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - Benny Sadel - Que se vaya.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3188474,
+      "audiogain": -4.22
+    }
+  ],
+  "data": {
+    "kid": "f44ab650-a3ea-4619-a653-80d640e20e0a",
+    "title": "Benny Sadel - Que se vaya",
+    "titles": {
+      "spa": "Benny Sadel - Que se vaya"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f6d6d932-304e-4407-9f25-1ca118778e25"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:58:31.087Z",
+    "modified_at": "2022-11-04T20:34:33.144Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_983a2d8f6d2d6677a559259332108026.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3188474,
+      "gain": -4.22,
+      "duration": 227,
+      "loudnorm": "-14.62,0.95,2.90,-24.64,-0.34",
+      "filename": "processed_60ccc32abed85248ce207e017f67baa3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

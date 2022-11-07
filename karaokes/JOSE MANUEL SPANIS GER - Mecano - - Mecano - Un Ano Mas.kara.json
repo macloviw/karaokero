@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Un Ano Mas.MP3",
+      "loudnorm": "-13.38,0.89,9.20,-23.79,-1.43",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Un Ano Mas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6f3fff8-a7d4-4667-8210-f44b3a3d3ca4",
+    "title": "Mecano - Un Año Mas",
+    "titles": {
+      "spa": "Mecano - Un Año Mas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6338f2b6-1255-43c4-8779-55c7e47618e4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:08:51.041Z",
+    "modified_at": "2022-11-04T07:08:51.642Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6778466,
+      "gain": -5.6,
+      "duration": 282,
+      "loudnorm": "-13.38,0.89,9.20,-23.79,-1.43",
+      "filename": "processed_03653cf0d96268054cc9e7ba4bafff59.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6778466,
+      "gain": -5.6,
+      "duration": 282,
+      "loudnorm": "-13.38,0.89,9.20,-23.79,-1.43",
+      "filename": "processed_c1615bffa68444f62c8c9ed0313fdddb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

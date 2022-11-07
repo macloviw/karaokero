@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - Jossie Esteban...Celia (Merengue).mp3",
+      "loudnorm": "-14.70,0.06,3.70,-24.81,-1.03",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - Jossie Esteban...Celia (Merengue).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "35f333ae-48cd-48c8-8529-a9b9ab4e7c6c",
+    "title": "Jossie Esteban...Celia (Merengue)",
+    "titles": {
+      "spa": "Jossie Esteban...Celia (Merengue)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f971b8b8-296a-4a97-9de0-51760f6baeca"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:01:01.135Z",
+    "modified_at": "2022-11-04T04:01:01.551Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33eac495aa9a37078c5d409378cf125f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6033326,
+      "gain": -6.37,
+      "duration": 251,
+      "loudnorm": "-14.70,0.06,3.70,-24.81,-1.03",
+      "filename": "processed_5e22c7f62ff6bb0af12596c15b6396d2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EL JEFREY - - EL JEFREY== MI TIERRA MIX.mp3",
+      "loudnorm": "-11.42,-0.04,2.80,-21.43,-0.35",
+      "duration": 477,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EL JEFREY - - EL JEFREY== MI TIERRA MIX.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1cb4b2ad-b48a-493f-b3c5-201079319849",
+    "title": "EL JEFREY== MI TIERRA MIX",
+    "titles": {
+      "spa": "EL JEFREY== MI TIERRA MIX"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "2fe78145-c24e-4d4a-881c-303c8798247c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:33:55.294Z",
+    "modified_at": "2022-11-04T09:33:55.686Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1fc123219146fc4d8e993b501d7147f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11470150,
+      "gain": -6.46,
+      "duration": 477,
+      "loudnorm": "-11.42,-0.04,2.80,-21.43,-0.35",
+      "filename": "processed_d3d83bfe76c8aad24b92d0eedd98be84.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

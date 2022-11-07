@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - Asdrubal - Suelta Mi Mano.mp3",
+      "loudnorm": "-18.74,-4.26,10.40,-28.90,-1.86",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - Asdrubal - Suelta Mi Mano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4498797,
+      "audiogain": 0.56
+    }
+  ],
+  "data": {
+    "kid": "cbcfae21-904f-443b-b33b-5ae21ddf66ea",
+    "title": "Asdrubal - Suelta Mi Mano",
+    "titles": {
+      "spa": "Asdrubal - Suelta Mi Mano"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "48bc5831-fff2-40eb-be15-6b736c194fa8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:49:43.086Z",
+    "modified_at": "2022-11-04T20:31:08.613Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_14997a910f0195a40d089dbf9aac3122.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4498797,
+      "gain": 0.56,
+      "duration": 281,
+      "loudnorm": "-18.74,-4.26,10.40,-28.90,-1.86",
+      "filename": "processed_b6ff13661399d3292a63e5209fea9aa0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

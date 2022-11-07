@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Pareja Ideal_SP-002-1358_.mp3",
+      "loudnorm": "-18.43,-6.06,5.60,-28.71,-0.66",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Pareja Ideal_SP-002-1358_.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ccde162-f4e1-45ee-86ba-0785f3cb2852",
+    "title": "Marisela_Pareja Ideal_SP-002-1358_",
+    "titles": {
+      "spa": "Marisela_Pareja Ideal_SP-002-1358_"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:02:00.022Z",
+    "modified_at": "2022-11-04T07:02:00.401Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_98cfb1a16b53aea29641885acc934a5c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5384955,
+      "gain": 0.55,
+      "duration": 224,
+      "loudnorm": "-18.43,-6.06,5.60,-28.71,-0.66",
+      "filename": "processed_350a73e94eac37c718424e8ffae26e6b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

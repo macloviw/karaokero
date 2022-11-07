@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - NO HA PARADO DE LLOVER.MP3",
+      "loudnorm": "-17.63,-1.38,6.90,-28.04,-0.74",
+      "duration": 322,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - NO HA PARADO DE LLOVER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2513ffe8-a94c-4257-b85f-77701f12b6cb",
+    "title": "MANA    -   NO HA PARADO DE LLOVER",
+    "titles": {
+      "spa": "MANA    -   NO HA PARADO DE LLOVER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:14:56.727Z",
+    "modified_at": "2022-11-04T06:14:57.437Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5169705,
+      "gain": -0.79,
+      "duration": 322,
+      "loudnorm": "-17.63,-1.38,6.90,-28.04,-0.74",
+      "filename": "processed_023b186f2f0fb1ba96b49caccc6fe967.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5169705,
+      "gain": -0.79,
+      "duration": 322,
+      "loudnorm": "-17.63,-1.38,6.90,-28.04,-0.74",
+      "filename": "processed_a33fdfc842ecb41681486dce4dc87e64.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

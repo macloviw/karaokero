@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - JOSSIE_ESTEBAN_-_NECESITO_VERTE.mp3",
+      "loudnorm": "-10.68,0.63,4.60,-20.84,-1.18",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BLANCA-JOSSIE ESTEBAN - - JOSSIE_ESTEBAN_-_NECESITO_VERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ed3fe4fe-706f-433b-a890-fd7c94f2c961",
+    "title": "JOSSIE_ESTEBAN_-_NECESITO_VERTE",
+    "titles": {
+      "spa": "JOSSIE_ESTEBAN_-_NECESITO_VERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f971b8b8-296a-4a97-9de0-51760f6baeca"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:01:22.039Z",
+    "modified_at": "2022-11-04T04:01:22.419Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9653ef3031d17f09c02cf3472b22ac50.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3486712,
+      "gain": -6.85,
+      "duration": 217,
+      "loudnorm": "-10.68,0.63,4.60,-20.84,-1.18",
+      "filename": "processed_788948075276863511975ecef63ccad4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

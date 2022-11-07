@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - UN BESO Y UNA FLOR.MP3",
+      "loudnorm": "-14.84,0.14,2.90,-24.88,-0.94",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - UN BESO Y UNA FLOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4b06c41-3e38-4ed3-872c-c69aba25c5d9",
+    "title": "LOS ROSARIOS   -   UN BESO Y UNA FLOR",
+    "titles": {
+      "spa": "LOS ROSARIOS   -   UN BESO Y UNA FLOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f0eb147a-2f10-4059-8017-016f96113ae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:43:30.467Z",
+    "modified_at": "2022-11-04T10:43:31.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4708696,
+      "gain": -2.73,
+      "duration": 294,
+      "loudnorm": "-14.84,0.14,2.90,-24.88,-0.94",
+      "filename": "processed_498a48d7c199c818d2ceab2fbf613f3a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4708696,
+      "gain": -2.73,
+      "duration": 294,
+      "loudnorm": "-14.84,0.14,2.90,-24.88,-0.94",
+      "filename": "processed_06a296740ffb8e04720a0254b08d2ce4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

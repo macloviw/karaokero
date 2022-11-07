@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - hector acosta el torito - si me recuerdas.mp3",
+      "loudnorm": "-12.25,0.74,3.00,-22.46,-0.94",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector Acosta El Torito - - hector acosta el torito - si me recuerdas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7649dea6-28f9-4ddb-be3e-46d6058f9cd2",
+    "title": "hector acosta el torito - si me recuerdas",
+    "titles": {
+      "spa": "hector acosta el torito - si me recuerdas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "64c6cd2b-259c-424a-baac-2b8f68f8ae84"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:24:20.108Z",
+    "modified_at": "2022-11-04T10:24:20.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e930d8b7d1eba771b3f3943f327e339d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6221824,
+      "gain": -5.45,
+      "duration": 259,
+      "loudnorm": "-12.25,0.74,3.00,-22.46,-0.94",
+      "filename": "processed_567585ee5563f23f614a3d30204f0eb4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - Felix Manuel - Ahora resulta (PC).mp3",
+      "loudnorm": "-10.43,2.73,9.20,-20.91,-1.73",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - Felix Manuel - Ahora resulta (PC).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f867a83b-1791-4839-b816-02f4c1085967",
+    "title": "Felix Manuel - Ahora resulta (PC)",
+    "titles": {
+      "spa": "Felix Manuel - Ahora resulta (PC)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "349f0580-a9f7-448c-bc4d-dfb74d074370"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:14:56.597Z",
+    "modified_at": "2022-11-04T12:14:56.974Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_31ada16740891f686f40f20a74654924.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4023788,
+      "gain": -8.8,
+      "duration": 251,
+      "loudnorm": "-10.43,2.73,9.20,-20.91,-1.73",
+      "filename": "processed_0d058f0b43d57fe36282d98a486d50b3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - LA CURA.MP3",
+      "loudnorm": "-11.30,1.83,3.40,-21.37,-0.48",
+      "duration": 303,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - LA CURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99a3764e-2bc1-46b2-a317-48c32bcc5d0d",
+    "title": "FRANKIE RUIZ   -   LA CURA",
+    "titles": {
+      "spa": "FRANKIE RUIZ   -   LA CURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:18:00.960Z",
+    "modified_at": "2022-11-04T12:18:01.428Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4864177,
+      "gain": -5.86,
+      "duration": 303,
+      "loudnorm": "-11.30,1.83,3.40,-21.37,-0.48",
+      "filename": "processed_4e8c0abb4812be47fe925a0490054609.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4864177,
+      "gain": -5.86,
+      "duration": 303,
+      "loudnorm": "-11.30,1.83,3.40,-21.37,-0.48",
+      "filename": "processed_2c9cdee82959cae152b75e3c751582a8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

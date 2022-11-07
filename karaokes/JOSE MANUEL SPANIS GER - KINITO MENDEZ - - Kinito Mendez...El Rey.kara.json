@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - Kinito Mendez...El Rey.mp3",
+      "loudnorm": "-15.35,-0.04,5.90,-25.56,-0.79",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KINITO MENDEZ - - Kinito Mendez...El Rey.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e0801be2-107e-4add-96fb-7ed3d04633a4",
+    "title": "Kinito Mendez...El Rey",
+    "titles": {
+      "spa": "Kinito Mendez...El Rey"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3752d332-2a4c-4c3a-998a-dc30ea46d8d0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:30:43.432Z",
+    "modified_at": "2022-11-04T04:30:43.812Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e59a03ad4599d792c359bf6768dbaaa3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7247079,
+      "gain": -4.45,
+      "duration": 301,
+      "loudnorm": "-15.35,-0.04,5.90,-25.56,-0.79",
+      "filename": "processed_356c5a70cc4b4c98a33fd264fed49e9b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

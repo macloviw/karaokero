@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - POPURRIT.mp3",
+      "loudnorm": "-15.57,-2.82,3.20,-25.65,-0.53",
+      "duration": 619,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - POPURRIT.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 17338277,
+      "audiogain": -3.24
+    }
+  ],
+  "data": {
+    "kid": "bff1df89-61fb-4434-a98a-cd13abf22898",
+    "title": "ARAMIS CAMILO - POPURRIT",
+    "titles": {
+      "spa": "ARAMIS CAMILO - POPURRIT"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "5780ff8e-8f86-4893-9408-bac0a69491f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:13:09.031Z",
+    "modified_at": "2022-11-04T20:33:17.449Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a7cd0cabd84e483cded34eee45781a06.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 17338277,
+      "gain": -3.24,
+      "duration": 619,
+      "loudnorm": "-15.57,-2.82,3.20,-25.65,-0.53",
+      "filename": "processed_65337b0bca4195a2e1ba3c98570103c4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

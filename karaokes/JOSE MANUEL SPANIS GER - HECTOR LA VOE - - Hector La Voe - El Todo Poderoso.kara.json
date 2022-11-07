@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - Hector La Voe - El Todo Poderoso.MP3",
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - Hector La Voe - El Todo Poderoso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96cc7873-aac4-4946-816f-a3d6116ad8b3",
+    "title": "Hector La Voe - El Todo Poderoso",
+    "titles": {
+      "spa": "Hector La Voe - El Todo Poderoso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f5c3b348-036b-4570-9c02-1a8e81f8647f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:45:48.426Z",
+    "modified_at": "2022-11-04T12:45:49.066Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4304896,
+      "gain": -7.66,
+      "duration": 268,
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "filename": "processed_138b69a9bd7e759f3b2e12179bf96afc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4304896,
+      "gain": -7.66,
+      "duration": 268,
+      "loudnorm": "-8.59,2.76,2.90,-18.75,-0.75",
+      "filename": "processed_912bce2476dd61dd2e77fdbe44b55479.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

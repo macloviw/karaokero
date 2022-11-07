@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Arrepentida.mp3",
+      "loudnorm": "-8.99,1.51,4.10,-19.27,-0.10",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Arrepentida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3744253-81de-4dc6-9909-8a6736327d10",
+    "title": "Maricela - Arrepentida",
+    "titles": {
+      "spa": "Maricela - Arrepentida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:58:21.802Z",
+    "modified_at": "2022-11-04T06:58:22.173Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3879b7773b42b84ceba54f47f2fd6cab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3891585,
+      "gain": -8.52,
+      "duration": 243,
+      "loudnorm": "-8.99,1.51,4.10,-19.27,-0.10",
+      "filename": "processed_0a90de3a6146317ef24cf875a6092cd8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

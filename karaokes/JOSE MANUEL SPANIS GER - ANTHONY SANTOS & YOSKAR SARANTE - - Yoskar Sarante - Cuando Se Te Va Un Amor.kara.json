@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ANTHONY SANTOS & YOSKAR SARANTE - - Yoskar Sarante - Cuando Se Te Va Un Amor.mp3",
+      "loudnorm": "-11.28,0.45,2.40,-21.41,0.28",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ANTHONY SANTOS & YOSKAR SARANTE - - Yoskar Sarante - Cuando Se Te Va Un Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5860760,
+      "audiogain": -6.94
+    }
+  ],
+  "data": {
+    "kid": "8c6cd317-f5a2-4f0f-9dc1-78f00ba1062c",
+    "title": "Yoskar Sarante - Cuando Se Te Va Un Amor",
+    "titles": {
+      "spa": "Yoskar Sarante - Cuando Se Te Va Un Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "380942d8-8f60-48cc-8fd9-e88c44460040"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:56:53.111Z",
+    "modified_at": "2022-11-04T20:26:50.715Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5df31c33ec4074f9570916a59e8c7f1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5860760,
+      "gain": -6.94,
+      "duration": 244,
+      "loudnorm": "-11.28,0.45,2.40,-21.41,0.28",
+      "filename": "processed_f65cad18eef7b818fbeb391e84483148.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

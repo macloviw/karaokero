@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - SUSANA.mp3",
+      "loudnorm": "-12.73,0.71,7.50,-22.90,-1.20",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ARAMIS CAMILO - - ARAMIS CAMILO - SUSANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4817493,
+      "audiogain": -7.68
+    }
+  ],
+  "data": {
+    "kid": "d2321a7f-7720-40de-9d60-6c5064aca853",
+    "title": "ARAMIS CAMILO - SUSANA",
+    "titles": {
+      "spa": "ARAMIS CAMILO - SUSANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "5780ff8e-8f86-4893-9408-bac0a69491f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:13:22.253Z",
+    "modified_at": "2022-11-04T20:31:03.846Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc39b163705d146fd9cdf0cfce2ea394.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4817493,
+      "gain": -7.68,
+      "duration": 300,
+      "loudnorm": "-12.73,0.71,7.50,-22.90,-1.20",
+      "filename": "processed_d507883f8a3eff4c26e58e0ef972f405.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Negro 5 Estrella - - El Negro 5 Estrella - Plomo (Dembow).DJL&Entre3.mp3",
+      "loudnorm": "-13.99,0.86,2.00,-24.03,-0.66",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Negro 5 Estrella - - El Negro 5 Estrella - Plomo (Dembow).DJL&Entre3.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eccad328-7327-4699-a66f-7693ad8c1390",
+    "title": "El Negro 5 Estrella - Plomo (Dembow).DJL&Entre3",
+    "titles": {
+      "spa": "El Negro 5 Estrella - Plomo (Dembow).DJL&Entre3"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9483df78-6d3d-43d9-9dca-3e295fc79e16"
+      ],
+      "singers": [
+        "c3e24be3-34e2-4b57-8d23-f6371beb73c3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:10:54.341Z",
+    "modified_at": "2022-11-04T09:10:54.752Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f21e184ec526e07a295055447a5bddac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3279821,
+      "gain": -3.26,
+      "duration": 204,
+      "loudnorm": "-13.99,0.86,2.00,-24.03,-0.66",
+      "filename": "processed_95101adec52836b09e9a6cd7c09272bf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

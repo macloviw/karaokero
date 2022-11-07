@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda - Un Amor Que Termina Asi.mp3",
+      "loudnorm": "-9.68,2.53,4.60,-19.80,-0.32",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - Kerubanda - Un Amor Que Termina Asi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c9000e8c-8627-46ef-806d-9f8b90794c32",
+    "title": "Kerubanda - Un Amor Que Termina Asi",
+    "titles": {
+      "spa": "Kerubanda - Un Amor Que Termina Asi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:25:44.531Z",
+    "modified_at": "2022-11-04T04:25:44.917Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f65214f67d78e2d6035cd8014561fd0f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4386108,
+      "gain": -9.76,
+      "duration": 273,
+      "loudnorm": "-9.68,2.53,4.60,-19.80,-0.32",
+      "filename": "processed_b6e08fde7779b31253c9dd7759490910.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

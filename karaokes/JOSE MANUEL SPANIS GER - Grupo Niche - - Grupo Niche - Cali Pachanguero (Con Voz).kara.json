@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Cali Pachanguero (Con Voz).mp3",
+      "loudnorm": "-14.19,-1.06,5.10,-24.33,0.02",
+      "duration": 369,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Cali Pachanguero (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d1a54091-b81a-4431-a1ae-49a4f3a69e38",
+    "title": "Grupo Niche - Cali Pachanguero (Con Voz)",
+    "titles": {
+      "spa": "Grupo Niche - Cali Pachanguero (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:38:06.004Z",
+    "modified_at": "2022-11-04T12:38:06.387Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4d7d1e47288df2c48bf5a1ad052ca36c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8862083,
+      "gain": -3.64,
+      "duration": 369,
+      "loudnorm": "-14.19,-1.06,5.10,-24.33,0.02",
+      "filename": "processed_c6506f25214b1eacc8de841f2dc554ed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

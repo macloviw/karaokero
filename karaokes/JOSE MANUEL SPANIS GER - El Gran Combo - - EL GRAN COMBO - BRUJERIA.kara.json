@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - BRUJERIA.mp3",
+      "loudnorm": "-12.88,0.96,2.70,-22.99,-0.30",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - BRUJERIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "41bf43c2-8473-45dc-b79a-485c832c4280",
+    "title": "EL GRAN COMBO   -   BRUJERIA",
+    "titles": {
+      "spa": "EL GRAN COMBO   -   BRUJERIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "92034f0d-c67a-43d9-8f46-9016f2ff6956"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:08:42.164Z",
+    "modified_at": "2022-11-04T12:08:42.548Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1da51070d4c7072e0ee285708b4f94a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5001394,
+      "gain": -6.19,
+      "duration": 208,
+      "loudnorm": "-12.88,0.96,2.70,-22.99,-0.30",
+      "filename": "processed_36ead7d84bcb5cf3473893320f36b26a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

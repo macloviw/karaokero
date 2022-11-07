@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ANDY MONTANEZ - - Andy Montanez - Me Lo Estas Poniendo Dificil.mp3",
+      "loudnorm": "-17.29,-1.31,5.10,-27.30,-0.83",
+      "duration": 306,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ANDY MONTANEZ - - Andy Montanez - Me Lo Estas Poniendo Dificil.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 7350272,
+      "audiogain": -1.89
+    }
+  ],
+  "data": {
+    "kid": "40ec163e-f95b-40ab-8745-18a9142b719e",
+    "title": "Andy Montanez - Me Lo Estas Poniendo Dificil",
+    "titles": {
+      "spa": "Andy Montanez - Me Lo Estas Poniendo Dificil"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "aec45d0e-c61c-4a75-8c5b-9c1b16cb8e82"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:48:25.656Z",
+    "modified_at": "2022-11-04T20:25:31.952Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9f6c6e63597fca89f114388d90d8675f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7350272,
+      "gain": -1.89,
+      "duration": 306,
+      "loudnorm": "-17.29,-1.31,5.10,-27.30,-0.83",
+      "filename": "processed_23d5ff971343ffc4a1bed90f596ac9c8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

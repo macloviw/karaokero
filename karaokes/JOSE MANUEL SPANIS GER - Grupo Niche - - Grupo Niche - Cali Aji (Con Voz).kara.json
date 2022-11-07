@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Cali Aji (Con Voz).mp3",
+      "loudnorm": "-13.01,-0.76,1.50,-23.07,-0.54",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - Grupo Niche - Cali Aji (Con Voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94396c55-8b26-468c-aa55-2394ab960565",
+    "title": "Grupo Niche - Cali Aji (Con Voz)",
+    "titles": {
+      "spa": "Grupo Niche - Cali Aji (Con Voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:37:50.135Z",
+    "modified_at": "2022-11-04T12:37:50.531Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51c6a2a996fd1af2ea4b1e97790737fe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6822025,
+      "gain": -4.04,
+      "duration": 284,
+      "loudnorm": "-13.01,-0.76,1.50,-23.07,-0.54",
+      "filename": "processed_6f48ebbc62903ee5488d7964595e8ace.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

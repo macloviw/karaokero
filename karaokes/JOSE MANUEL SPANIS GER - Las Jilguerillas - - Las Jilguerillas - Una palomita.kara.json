@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - Una palomita.mp3",
+      "loudnorm": "-11.88,0.29,3.00,-21.93,0.06",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Las Jilguerillas - - Las Jilguerillas - Una palomita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a4e2ca3-f3cf-4dfe-86cf-47a82a899fa2",
+    "title": "Las Jilguerillas - Una palomita",
+    "titles": {
+      "spa": "Las Jilguerillas - Una palomita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "fe30cae1-e8de-4379-8b47-7f7470427a93"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:05:37.300Z",
+    "modified_at": "2022-11-04T05:05:37.686Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1575411e1d584e4e05e6bbe5db9e0b3d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4334332,
+      "gain": -5.49,
+      "duration": 180,
+      "loudnorm": "-11.88,0.29,3.00,-21.93,0.06",
+      "filename": "processed_fc42421a301767e2c2958ffa78b3c259.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

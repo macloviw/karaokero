@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Gloria Trevi-Cama y mesa.mp3",
+      "loudnorm": "-11.67,0.14,16.60,-22.92,-0.76",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Gloria Trevi-Cama y mesa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "15c54353-2c3a-4e8e-9e19-293888ce2423",
+    "title": "Gloria Trevi-Cama y mesa",
+    "titles": {
+      "spa": "Gloria Trevi-Cama y mesa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:15:00.924Z",
+    "modified_at": "2022-11-04T04:15:01.301Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_49076fa9f7ea814802960b3e0df6b03c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6215776,
+      "gain": -5.7,
+      "duration": 258,
+      "loudnorm": "-11.67,0.14,16.60,-22.92,-0.76",
+      "filename": "processed_13bf4ad44e26fc7fea8a8ffaf498bb22.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

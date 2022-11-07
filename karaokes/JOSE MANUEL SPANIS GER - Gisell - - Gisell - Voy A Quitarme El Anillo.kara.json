@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Voy A Quitarme El Anillo.MP3",
+      "loudnorm": "-15.04,-0.82,4.80,-25.15,-0.01",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Voy A Quitarme El Anillo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "59775533-f278-449c-9892-07aef07a9ecf",
+    "title": "Gisell - Voy A Quitarme El Anillo",
+    "titles": {
+      "spa": "Gisell - Voy A Quitarme El Anillo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "58f0d855-582d-4f4d-9920-9ed748a48d44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:43:17.559Z",
+    "modified_at": "2022-11-04T09:43:18.217Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7948288,
+      "gain": -1.93,
+      "duration": 198,
+      "loudnorm": "-15.04,-0.82,4.80,-25.15,-0.01",
+      "filename": "processed_514bdd6dcac34f61b3a310011b62c2ed.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7948288,
+      "gain": -1.93,
+      "duration": 198,
+      "loudnorm": "-15.04,-0.82,4.80,-25.15,-0.01",
+      "filename": "processed_e63412a2695214d3e9ca2a4af46d786a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Como Fui A Enamorarme.MP3",
+      "loudnorm": "-12.75,2.87,6.00,-22.86,-0.68",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Como Fui A Enamorarme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2535d82-71c9-4c6f-ab49-5d4cc89e596c",
+    "title": "Marco Antonio Solis - Como Fui A Enamorarme",
+    "titles": {
+      "spa": "Marco Antonio Solis - Como Fui A Enamorarme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:51:03.154Z",
+    "modified_at": "2022-11-04T06:51:03.783Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4061184,
+      "gain": -4.73,
+      "duration": 253,
+      "loudnorm": "-12.75,2.87,6.00,-22.86,-0.68",
+      "filename": "processed_1d7e6f4e6056575daf13ac06ef092b90.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4061184,
+      "gain": -4.73,
+      "duration": 253,
+      "loudnorm": "-12.75,2.87,6.00,-22.86,-0.68",
+      "filename": "processed_40400b9733fc1fb9de0b9ebe709fea4a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

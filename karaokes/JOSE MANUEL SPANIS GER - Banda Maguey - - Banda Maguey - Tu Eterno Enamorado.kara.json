@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Banda Maguey - - Banda Maguey - Tu Eterno Enamorado.mp3",
+      "loudnorm": "-14.21,0.75,4.80,-24.34,-0.77",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Banda Maguey - - Banda Maguey - Tu Eterno Enamorado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3394905,
+      "audiogain": -4.39
+    }
+  ],
+  "data": {
+    "kid": "12733e0d-e4c1-4b52-b061-cb36d78074fc",
+    "title": "Banda Maguey - Tu Eterno Enamorado",
+    "titles": {
+      "spa": "Banda Maguey - Tu Eterno Enamorado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "194e18b5-50fb-45e5-b29f-dfa1612e3f4d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:29:18.257Z",
+    "modified_at": "2022-11-04T20:34:08.244Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ac540db3947fe58ee697733cb7a618d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3394905,
+      "gain": -4.39,
+      "duration": 212,
+      "loudnorm": "-14.21,0.75,4.80,-24.34,-0.77",
+      "filename": "processed_657544fbdb0600ae2d81617600e6d17a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

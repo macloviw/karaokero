@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - CONJUNTO QUISQUEYA = LA TRULLA NAVIDENA.mp3",
+      "loudnorm": "-7.96,3.46,2.90,-17.99,-0.12",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - CONJUNTO QUISQUEYA = LA TRULLA NAVIDENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b232bf02-659c-480d-a096-3755082da9b2",
+    "title": "CONJUNTO QUISQUEYA =  LA TRULLA NAVIDEÑA",
+    "titles": {
+      "spa": "CONJUNTO QUISQUEYA =  LA TRULLA NAVIDEÑA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:13:14.271Z",
+    "modified_at": "2022-11-04T04:13:14.650Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a81d31dfc6c22e26c0e74c99e6d91de.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5056565,
+      "gain": -10.53,
+      "duration": 315,
+      "loudnorm": "-7.96,3.46,2.90,-17.99,-0.12",
+      "filename": "processed_6565ffa899cdc268304bb1d0582df315.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

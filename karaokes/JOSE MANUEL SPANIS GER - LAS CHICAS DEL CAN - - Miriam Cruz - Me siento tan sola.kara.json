@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LAS CHICAS DEL CAN - - Miriam Cruz - Me siento tan sola.mp3",
+      "loudnorm": "-13.06,0.61,10.60,-23.19,-1.95",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LAS CHICAS DEL CAN - - Miriam Cruz - Me siento tan sola.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e1e2aff-ceed-43bf-be66-39c886a10320",
+    "title": "Miriam Cruz - Me siento tan sola",
+    "titles": {
+      "spa": "Miriam Cruz - Me siento tan sola"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a015cf28-9bfa-44b7-9a36-d048800a33f5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:03:50.589Z",
+    "modified_at": "2022-11-04T05:03:50.979Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_14b3059604da8fcdc46c674b20eaf25b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11599508,
+      "gain": -6.08,
+      "duration": 289,
+      "loudnorm": "-13.06,0.61,10.60,-23.19,-1.95",
+      "filename": "processed_c8dddf8af7d792f6d77c13c88be9182c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Karel Gott - - Die Biene Maja - Karel gott.mp3",
+      "loudnorm": "-14.12,0.32,2.60,-24.21,-0.42",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Karel Gott - - Die Biene Maja - Karel gott.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d790bfce-87d5-472e-b4db-b64478225bf8",
+    "title": "Die Biene Maja - Karel gott",
+    "titles": {
+      "spa": "Die Biene Maja - Karel gott"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "cab1a90b-b76a-426b-b9b5-2eb373ca793c"
+      ],
+      "singers": [
+        "1dc0f8c8-edfd-4708-8141-af5d6d9e63ee"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:59:25.601Z",
+    "modified_at": "2022-11-04T08:59:25.981Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_66deb391817f91088721cd55abc30580.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2571371,
+      "gain": -3.27,
+      "duration": 160,
+      "loudnorm": "-14.12,0.32,2.60,-24.21,-0.42",
+      "filename": "processed_427f10cbdde56f958f00ee441a9a8847.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

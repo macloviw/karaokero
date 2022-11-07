@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - De Ilegales - - Ilegales - Tu Recuerdo.mp3",
+      "loudnorm": "-8.53,5.49,5.50,-18.70,-1.43",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - De Ilegales - - Ilegales - Tu Recuerdo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ead8dddb-557f-47fb-874e-f729e9ae7659",
+    "title": "Ilegales - Tu Recuerdo",
+    "titles": {
+      "spa": "Ilegales - Tu Recuerdo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "3e549f9c-8d43-4035-b8ca-c220d00a79f7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:24:46.627Z",
+    "modified_at": "2022-11-04T10:24:47.010Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4d41c79ea9060c7fca03bf3d337c7459.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3655175,
+      "gain": -9.09,
+      "duration": 228,
+      "loudnorm": "-8.53,5.49,5.50,-18.70,-1.43",
+      "filename": "processed_5f7bb71c1b6baba50c68db0f8d3ec644.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

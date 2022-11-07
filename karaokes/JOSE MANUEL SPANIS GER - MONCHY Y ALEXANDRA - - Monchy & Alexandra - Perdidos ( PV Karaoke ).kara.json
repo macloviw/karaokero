@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchy & Alexandra - Perdidos ( PV Karaoke ).MP3",
+      "loudnorm": "-10.71,3.16,3.10,-20.78,-0.72",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchy & Alexandra - Perdidos ( PV Karaoke ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1977f010-441e-4cc5-ac9a-275a72b2e573",
+    "title": "Monchy & Alexandra - Perdidos ( PV Karaoke )",
+    "titles": {
+      "spa": "Monchy & Alexandra - Perdidos ( PV Karaoke )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:32:22.084Z",
+    "modified_at": "2022-11-04T07:32:22.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4546996,
+      "gain": -6.57,
+      "duration": 284,
+      "loudnorm": "-10.71,3.16,3.10,-20.78,-0.72",
+      "filename": "processed_5f1433ad044d03a3149538cd4d48f427.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4546996,
+      "gain": -6.57,
+      "duration": 284,
+      "loudnorm": "-10.71,3.16,3.10,-20.78,-0.72",
+      "filename": "processed_1a0f0b01f124ed6c0e9b9df6c3e8e629.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

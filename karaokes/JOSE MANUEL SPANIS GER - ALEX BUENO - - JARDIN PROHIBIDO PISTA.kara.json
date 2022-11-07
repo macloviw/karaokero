@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - JARDIN PROHIBIDO PISTA.mp3",
+      "loudnorm": "-12.29,1.05,2.60,-22.34,-0.63",
+      "duration": 343,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - JARDIN PROHIBIDO PISTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5501191,
+      "audiogain": -3.71
+    }
+  ],
+  "data": {
+    "kid": "7342e30d-dc61-4ef1-bba4-130702368620",
+    "title": "JARDIN PROHIBIDO PISTA",
+    "titles": {
+      "spa": "JARDIN PROHIBIDO PISTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:55:13.345Z",
+    "modified_at": "2022-11-04T20:25:22.155Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72392e2df2d0dbfb2a2a578ff2814282.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5501191,
+      "gain": -3.71,
+      "duration": 343,
+      "loudnorm": "-12.29,1.05,2.60,-22.34,-0.63",
+      "filename": "processed_cd065ae89824f7359fb2f3e06c481f3b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

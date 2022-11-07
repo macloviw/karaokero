@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - HUELE A TRISTEZA.MP3",
+      "loudnorm": "-11.44,1.06,4.20,-21.57,-0.08",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - HUELE A TRISTEZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2abf5de3-4228-4746-876e-3e3424a4b346",
+    "title": "MANA    -   HUELE A TRISTEZA",
+    "titles": {
+      "spa": "MANA    -   HUELE A TRISTEZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:14:30.594Z",
+    "modified_at": "2022-11-04T06:14:31.164Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4426155,
+      "gain": -7.25,
+      "duration": 276,
+      "loudnorm": "-11.44,1.06,4.20,-21.57,-0.08",
+      "filename": "processed_563d3b6bf45b54cc2e4e0402f4bebc95.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4426155,
+      "gain": -7.25,
+      "duration": 276,
+      "loudnorm": "-11.44,1.06,4.20,-21.57,-0.08",
+      "filename": "processed_af5180bff0e68e3f8045f82d3b85adfa.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

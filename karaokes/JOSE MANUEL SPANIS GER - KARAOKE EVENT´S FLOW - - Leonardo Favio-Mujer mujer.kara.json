@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Leonardo Favio-Mujer mujer.mp3",
+      "loudnorm": "-8.38,4.85,10.10,-18.48,-0.70",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE EVENT´S FLOW - - Leonardo Favio-Mujer mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4acfe11a-eaeb-4221-9512-01972ace1278",
+    "title": "Leonardo Favio-Mujer mujer",
+    "titles": {
+      "spa": "Leonardo Favio-Mujer mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "83699f3e-7e79-46b2-8d09-60debe375d91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:17:55.217Z",
+    "modified_at": "2022-11-04T04:17:55.676Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1bee560903854ab665400491c459c293.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6369791,
+      "gain": -11.45,
+      "duration": 265,
+      "loudnorm": "-8.38,4.85,10.10,-18.48,-0.70",
+      "filename": "processed_37c34bb05607cee8f16372974d75e9a1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

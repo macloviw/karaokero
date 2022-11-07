@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - TU RECUERDO LOS ROSARIOS.mp3",
+      "loudnorm": "-11.52,2.64,4.30,-21.53,-0.12",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Hermanos Rosario - - TU RECUERDO LOS ROSARIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "04b0b585-770e-472c-8cd4-7779f8f5567c",
+    "title": "TU RECUERDO LOS ROSARIOS",
+    "titles": {
+      "spa": "TU RECUERDO LOS ROSARIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "607aff9e-cc83-4cca-b5f6-311ec43ed46a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:41:24.863Z",
+    "modified_at": "2022-11-04T10:41:25.253Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_82af00d19f83e265d13b14e32d0bd5a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4578756,
+      "gain": -6.97,
+      "duration": 286,
+      "loudnorm": "-11.52,2.64,4.30,-21.53,-0.12",
+      "filename": "processed_1253cf5c10f98fc091c3c11d6e82bb89.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Veneno.mp3",
+      "loudnorm": "-12.40,3.00,2.60,-22.46,-0.08",
+      "duration": 325,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Veneno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3b6878fc-505e-4e9b-8c77-469e8d1923dd",
+    "title": "Charly Rodriguez - Veneno",
+    "titles": {
+      "spa": "Charly Rodriguez - Veneno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "c0dbe58c-ebcb-4907-8b2c-59f30db86cfd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:20:08.542Z",
+    "modified_at": "2022-11-04T09:20:08.933Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c28f4f5c9122b1b879a902a3ac70c4b1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4561779,
+      "gain": -6.88,
+      "duration": 325,
+      "loudnorm": "-12.40,3.00,2.60,-22.46,-0.08",
+      "filename": "processed_5405d343f0099b2cbb9a92f88955e348.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Con agua de sal.mp3",
+      "loudnorm": "-9.74,1.20,4.00,-19.85,-1.09",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Con agua de sal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5952535,
+      "audiogain": -9.06
+    }
+  ],
+  "data": {
+    "kid": "cb013026-dbd3-476d-8086-6b8d90fb7b8a",
+    "title": "Con agua de sal",
+    "titles": {
+      "spa": "Con agua de sal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "848df8dc-23dd-43bb-b47f-5a99a014514c"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:03:23.276Z",
+    "modified_at": "2022-11-04T20:27:19.185Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d9c3c5ea2d9887842170e525a717e8ac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5952535,
+      "gain": -9.06,
+      "duration": 247,
+      "loudnorm": "-9.74,1.20,4.00,-19.85,-1.09",
+      "filename": "processed_ef1ec57e42ad17c6de70d794ab353b63.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

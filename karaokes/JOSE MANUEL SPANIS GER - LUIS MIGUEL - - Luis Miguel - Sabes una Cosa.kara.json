@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Sabes una Cosa.mp3",
+      "loudnorm": "-9.66,0.20,3.20,-19.71,-0.51",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Sabes una Cosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "988a6579-ada6-4c32-8a18-b4aacde18664",
+    "title": "Luis Miguel - Sabes una Cosa",
+    "titles": {
+      "spa": "Luis Miguel - Sabes una Cosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:57:31.350Z",
+    "modified_at": "2022-11-04T05:57:31.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b04dcbcce65fe0f0890ac2357a1899b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4960016,
+      "gain": -7.48,
+      "duration": 206,
+      "loudnorm": "-9.66,0.20,3.20,-19.71,-0.51",
+      "filename": "processed_5aec07c1584cb6330a00683514e30eb6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

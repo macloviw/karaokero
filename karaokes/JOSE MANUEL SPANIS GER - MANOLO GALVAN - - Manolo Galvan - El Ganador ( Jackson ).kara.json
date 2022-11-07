@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - El Ganador ( Jackson ).mp3",
+      "loudnorm": "-14.21,-2.17,4.90,-24.29,-0.25",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - Manolo Galvan - El Ganador ( Jackson ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "42a4aeb5-8a2f-4341-b65b-2fc18de544e0",
+    "title": "Manolo Galvan - El Ganador ( Jackson )",
+    "titles": {
+      "spa": "Manolo Galvan - El Ganador ( Jackson )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:24:31.341Z",
+    "modified_at": "2022-11-04T06:24:31.717Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72febd827cdd7b8e4d138c4cb40628c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5599610,
+      "gain": -3.7,
+      "duration": 233,
+      "loudnorm": "-14.21,-2.17,4.90,-24.29,-0.25",
+      "filename": "processed_ce24f8bf11ed695defeb9e9b7525867b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

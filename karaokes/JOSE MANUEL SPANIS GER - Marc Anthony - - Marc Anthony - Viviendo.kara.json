@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Viviendo.MP3",
+      "loudnorm": "-7.94,4.58,1.80,-17.96,-0.34",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Viviendo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "106c74cc-2ecc-4d39-9ce3-f2e2fb406021",
+    "title": "Marc Anthony - Viviendo",
+    "titles": {
+      "spa": "Marc Anthony - Viviendo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:37:53.410Z",
+    "modified_at": "2022-11-04T06:37:53.996Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4577280,
+      "gain": -8.62,
+      "duration": 286,
+      "loudnorm": "-7.94,4.58,1.80,-17.96,-0.34",
+      "filename": "processed_b32aa79c03e174dcb404461070ff2848.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4577280,
+      "gain": -8.62,
+      "duration": 286,
+      "loudnorm": "-7.94,4.58,1.80,-17.96,-0.34",
+      "filename": "processed_990111b1894236dec659817f20707a3f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

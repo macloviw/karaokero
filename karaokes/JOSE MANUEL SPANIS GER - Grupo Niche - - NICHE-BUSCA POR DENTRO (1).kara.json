@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - NICHE-BUSCA POR DENTRO (1).MP3",
+      "loudnorm": "-14.24,-0.06,3.50,-24.26,-0.85",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - NICHE-BUSCA POR DENTRO (1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e235708a-ba74-4d33-a394-320f5179a2e3",
+    "title": "NICHE-BUSCA POR DENTRO (1)",
+    "titles": {
+      "spa": "NICHE-BUSCA POR DENTRO (1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:42:04.912Z",
+    "modified_at": "2022-11-04T12:42:06.126Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5397493,
+      "gain": -3.46,
+      "duration": 337,
+      "loudnorm": "-14.24,-0.06,3.50,-24.26,-0.85",
+      "filename": "processed_cce115891c1b814a59d1c9371897d750.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5397493,
+      "gain": -3.46,
+      "duration": 337,
+      "loudnorm": "-14.24,-0.06,3.50,-24.26,-0.85",
+      "filename": "processed_dcdbceb2ca6251797e0a2e2dabecfd94.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

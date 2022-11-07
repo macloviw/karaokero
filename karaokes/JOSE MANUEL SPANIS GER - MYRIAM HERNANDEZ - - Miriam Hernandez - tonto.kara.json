@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - Miriam Hernandez - tonto.mp3",
+      "loudnorm": "-17.41,-3.48,5.50,-27.54,-0.76",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - Miriam Hernandez - tonto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d25925e-ceaa-4e48-a688-4c7c20873089",
+    "title": "Miriam Hernandez - tonto",
+    "titles": {
+      "spa": "Miriam Hernandez - tonto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e50c894a-425f-4e48-b92e-212adc09e2a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:34:29.218Z",
+    "modified_at": "2022-11-04T07:34:29.597Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c03983378b6a27ff8f44651b310ed9f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5008909,
+      "gain": 0.13,
+      "duration": 208,
+      "loudnorm": "-17.41,-3.48,5.50,-27.54,-0.76",
+      "filename": "processed_bfa08b869e18b57946c93ad9d358016a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

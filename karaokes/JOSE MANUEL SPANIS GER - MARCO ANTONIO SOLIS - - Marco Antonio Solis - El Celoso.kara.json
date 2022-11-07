@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - El Celoso.mp3",
+      "loudnorm": "-14.79,-0.54,16.40,-25.63,0.40",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Solis - El Celoso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "382d77d1-ac65-4bb3-9441-ad9a57c19941",
+    "title": "Marco Antonio Solis - El Celoso",
+    "titles": {
+      "spa": "Marco Antonio Solis - El Celoso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:32:55.281Z",
+    "modified_at": "2022-11-04T08:32:55.664Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8f366e42f993616899792718432ff700.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3266958,
+      "gain": -3.87,
+      "duration": 204,
+      "loudnorm": "-14.79,-0.54,16.40,-25.63,0.40",
+      "filename": "processed_9a34363e1a0f0961798129dfcd0635e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

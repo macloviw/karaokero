@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - No Me Digas Que No - LA MAQUINA.mp3",
+      "loudnorm": "-11.18,0.97,2.10,-21.25,-0.73",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA MAQUINA - - No Me Digas Que No - LA MAQUINA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f9cde4ee-4b94-46ae-b2a5-ba3273327d63",
+    "title": "No Me Digas Que No - LA MAQUINA",
+    "titles": {
+      "spa": "No Me Digas Que No - LA MAQUINA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f8a6bd85-c4ae-43a7-a13c-2644c7bf4d5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:52:12.505Z",
+    "modified_at": "2022-11-04T04:52:12.880Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_392b5a7eaaef9e9e73fbbb798908b178.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5617048,
+      "gain": -6.71,
+      "duration": 233,
+      "loudnorm": "-11.18,0.97,2.10,-21.25,-0.73",
+      "filename": "processed_84908a89d18ef2a0f6c6db663d2a7d09.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Ram Plus ¦n - - Juan Ram Plus ¦n - Pero me vas a extra Plus ¦arme OuCo JMXOuao.mp3",
+      "loudnorm": "-13.01,1.87,5.10,-23.14,0.52",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Ram Plus ¦n - - Juan Ram Plus ¦n - Pero me vas a extra Plus ¦arme OuCo JMXOuao.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d892848-491a-4011-98d5-ed9c4d62e2db",
+    "title": "Juan Ram+¦n - Pero me vas a extra+¦arme  ÔÇó  JMXÔäó",
+    "titles": {
+      "spa": "Juan Ram+¦n - Pero me vas a extra+¦arme  ÔÇó  JMXÔäó"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "07acb91c-2e0d-4c6f-97ac-55c76ed1b6d1"
+      ],
+      "singers": [
+        "17d7d574-c9ec-41b9-ba46-202d2598f0f8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:07:26.753Z",
+    "modified_at": "2022-11-04T09:07:27.125Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e2e926d4a634407b8622fd42d75ccb8e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3353383,
+      "gain": -6,
+      "duration": 209,
+      "loudnorm": "-13.01,1.87,5.10,-23.14,0.52",
+      "filename": "processed_e1ccd34435b443c588ccb809df2858ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

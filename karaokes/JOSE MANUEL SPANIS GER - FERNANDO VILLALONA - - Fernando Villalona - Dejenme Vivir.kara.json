@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Dejenme Vivir.mp3",
+      "loudnorm": "-9.81,1.81,2.60,-19.90,-0.25",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - Dejenme Vivir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "27e66353-6ec1-4c80-b183-ebdd2a9dc73e",
+    "title": "Fernando Villalona   -   Dejenme Vivir",
+    "titles": {
+      "spa": "Fernando Villalona   -   Dejenme Vivir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:08:39.257Z",
+    "modified_at": "2022-11-04T10:08:39.646Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_38c0c8311e280a9584310a0fed4d5ab5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4564992,
+      "gain": -6.94,
+      "duration": 285,
+      "loudnorm": "-9.81,1.81,2.60,-19.90,-0.25",
+      "filename": "processed_c29ec6a3eddb56159a316c98c065b899.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

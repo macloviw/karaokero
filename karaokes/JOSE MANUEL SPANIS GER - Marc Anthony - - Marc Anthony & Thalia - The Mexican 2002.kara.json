@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony & Thalia - The Mexican 2002.mp3",
+      "loudnorm": "-13.64,0.29,5.40,-23.70,-1.13",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony & Thalia - The Mexican 2002.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c1c82470-1c93-41cf-9558-5ff7c1b411b8",
+    "title": "Marc Anthony & Thalia - The Mexican 2002",
+    "titles": {
+      "spa": "Marc Anthony & Thalia - The Mexican 2002"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:27:46.549Z",
+    "modified_at": "2022-11-04T06:27:46.945Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6527c49fc4a2da61984ab6032908f9dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3958468,
+      "gain": -5.02,
+      "duration": 247,
+      "loudnorm": "-13.64,0.29,5.40,-23.70,-1.13",
+      "filename": "processed_6bfb00527fb4ad47ed1a36c556d97e8a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

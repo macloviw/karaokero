@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Entrega Total.mp3",
+      "loudnorm": "-10.21,0.28,2.40,-20.32,-0.28",
+      "duration": 138,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - Luis Miguel - Entrega Total.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c780678-512a-4e6f-a53b-4b6ceaf5430b",
+    "title": "Luis Miguel - Entrega Total",
+    "titles": {
+      "spa": "Luis Miguel - Entrega Total"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:55:54.987Z",
+    "modified_at": "2022-11-04T05:55:55.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b3819d80dc43405b6db11261c252f342.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3316810,
+      "gain": -7.73,
+      "duration": 138,
+      "loudnorm": "-10.21,0.28,2.40,-20.32,-0.28",
+      "filename": "processed_0767e190e1f51209b36d471d11c7d286.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

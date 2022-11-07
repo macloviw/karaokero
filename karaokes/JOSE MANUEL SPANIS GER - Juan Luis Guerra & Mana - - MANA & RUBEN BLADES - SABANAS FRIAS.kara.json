@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA & RUBEN BLADES - SABANAS FRIAS.mp3",
+      "loudnorm": "-9.11,3.63,5.80,-19.20,-1.28",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA & RUBEN BLADES - SABANAS FRIAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f545fa6-e43d-4606-9314-e89f04d8b691",
+    "title": "MANA & RUBEN BLADES  -  SABANAS FRIAS",
+    "titles": {
+      "spa": "MANA & RUBEN BLADES  -  SABANAS FRIAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:16:00.735Z",
+    "modified_at": "2022-11-04T06:16:01.117Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9347babaa8ee9f46acbb623cfbcee7ce.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5191302,
+      "gain": -8.36,
+      "duration": 324,
+      "loudnorm": "-9.11,3.63,5.80,-19.20,-1.28",
+      "filename": "processed_92f6250959eeb0d865accd9849f662c5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Que voy a hacer.mp3",
+      "loudnorm": "-5.86,6.09,2.10,-15.90,-0.84",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Que voy a hacer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 10228046,
+      "audiogain": -11.65
+    }
+  ],
+  "data": {
+    "kid": "535eb74a-7f77-4ad5-a21b-0d2ce5aa395c",
+    "title": "Alex Bueno-Que voy a hacer",
+    "titles": {
+      "spa": "Alex Bueno-Que voy a hacer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:54:33.912Z",
+    "modified_at": "2022-11-04T20:24:39.203Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_560efaa075ac507502a3c7252e1418a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10228046,
+      "gain": -11.65,
+      "duration": 255,
+      "loudnorm": "-5.86,6.09,2.10,-15.90,-0.84",
+      "filename": "processed_dff2808f336713b8c82f56b82a703899.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

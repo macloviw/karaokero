@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Childhood.mp3",
+      "loudnorm": "-15.02,-0.14,9.40,-25.49,-0.58",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Childhood.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cbcbd763-bf57-49e7-a497-6c1c8971a311",
+    "title": "Michael Jackson - Childhood",
+    "titles": {
+      "spa": "Michael Jackson - Childhood"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:14:52.947Z",
+    "modified_at": "2022-11-04T07:14:53.334Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_89344ed68f18bd5b54e64a358799f20e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4464608,
+      "gain": -3.02,
+      "duration": 278,
+      "loudnorm": "-15.02,-0.14,9.40,-25.49,-0.58",
+      "filename": "processed_4755b99a7969ab26ecb7d39d482cff82.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

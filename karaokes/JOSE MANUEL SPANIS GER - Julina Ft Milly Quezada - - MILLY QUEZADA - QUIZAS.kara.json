@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - QUIZAS.mp3",
+      "loudnorm": "-8.39,5.75,3.90,-18.56,-1.04",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - QUIZAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d8f2c33-7572-40a4-b623-5aa818b1a144",
+    "title": "MILLY QUEZADA - QUIZAS",
+    "titles": {
+      "spa": "MILLY QUEZADA - QUIZAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:16:03.440Z",
+    "modified_at": "2022-11-04T08:16:03.825Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_829cb08828788eb5da0bb15211e1ce29.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6553390,
+      "gain": -10.32,
+      "duration": 272,
+      "loudnorm": "-8.39,5.75,3.90,-18.56,-1.04",
+      "filename": "processed_a3a42d63b6bcad63bf78bfa889ea8414.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

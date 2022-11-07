@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Lucia Mendez - - Lucia Mendez - Tu me perteneces (2).mp3",
+      "loudnorm": "-15.94,-1.25,2.60,-26.08,-0.12",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Lucia Mendez - - Lucia Mendez - Tu me perteneces (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dbca4abb-7434-40a7-a1e7-862bdafabb3d",
+    "title": "Lucia Mendez - Tu me perteneces (2)",
+    "titles": {
+      "spa": "Lucia Mendez - Tu me perteneces (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a2caed27-27b3-4b41-897c-26d5a5f8dfeb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:48:12.546Z",
+    "modified_at": "2022-11-04T05:48:12.928Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_747090e3fe1d725dae1939c81bf6e3db.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4444046,
+      "gain": -1.73,
+      "duration": 185,
+      "loudnorm": "-15.94,-1.25,2.60,-26.08,-0.12",
+      "filename": "processed_6bdf8564540b81c285dc57f4809749e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - Fuiste Mia Un Verano - (Tropical Zone).mp3",
+      "loudnorm": "-9.33,2.64,5.40,-19.59,-1.79",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leonardo Favio - - Leonardo Favio - Fuiste Mia Un Verano - (Tropical Zone).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "017a438d-a402-4b2d-9864-e95727a41dff",
+    "title": "Leonardo Favio - Fuiste Mia Un Verano - (Tropical Zone)",
+    "titles": {
+      "spa": "Leonardo Favio - Fuiste Mia Un Verano - (Tropical Zone)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "0d28fc44-0220-4993-af8b-647324289223"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:17:31.028Z",
+    "modified_at": "2022-11-04T05:17:31.408Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe8fe5e6951cefce69a567435e45adf6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4307439,
+      "gain": -8.72,
+      "duration": 179,
+      "loudnorm": "-9.33,2.64,5.40,-19.59,-1.79",
+      "filename": "processed_89161945621e0006014513724777082f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

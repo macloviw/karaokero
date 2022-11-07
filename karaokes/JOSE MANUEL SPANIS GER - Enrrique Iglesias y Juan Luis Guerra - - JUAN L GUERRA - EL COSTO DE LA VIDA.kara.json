@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - EL COSTO DE LA VIDA.MP3",
+      "loudnorm": "-14.96,0.73,1.20,-24.97,-0.08",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - EL COSTO DE LA VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "46043888-84b8-4af4-aa6a-58e4ae183ef1",
+    "title": "JUAN L GUERRA   -   EL COSTO DE LA VIDA",
+    "titles": {
+      "spa": "JUAN L GUERRA   -   EL COSTO DE LA VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:33:00.373Z",
+    "modified_at": "2022-11-04T10:33:00.818Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4093878,
+      "gain": -3.12,
+      "duration": 255,
+      "loudnorm": "-14.96,0.73,1.20,-24.97,-0.08",
+      "filename": "processed_1686a9017277ca0c382e1948ee10fbd4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4093878,
+      "gain": -3.12,
+      "duration": 255,
+      "loudnorm": "-14.96,0.73,1.20,-24.97,-0.08",
+      "filename": "processed_9b9082bfd04f342b4e269298e3be3943.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

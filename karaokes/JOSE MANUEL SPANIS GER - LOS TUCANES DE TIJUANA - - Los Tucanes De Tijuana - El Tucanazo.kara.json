@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS TUCANES DE TIJUANA - - Los Tucanes De Tijuana - El Tucanazo.mp3",
+      "loudnorm": "-13.96,0.42,1.40,-24.05,-0.09",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS TUCANES DE TIJUANA - - Los Tucanes De Tijuana - El Tucanazo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a45c4a68-5ebe-4675-bfce-cd0c4fce49a3",
+    "title": "Los Tucanes De Tijuana - El Tucanazo",
+    "titles": {
+      "spa": "Los Tucanes De Tijuana - El Tucanazo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a70413e1-12d4-4c75-a915-f4209604d796"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:44:31.791Z",
+    "modified_at": "2022-11-04T08:44:32.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ccb8917ba4e24e6e125af5184657c9c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2946801,
+      "gain": -3.03,
+      "duration": 184,
+      "loudnorm": "-13.96,0.42,1.40,-24.05,-0.09",
+      "filename": "processed_3125dcddb05e7122a16f936dd21ecc25.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

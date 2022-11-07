@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Israel - - La Loba Israel El Capo.mp3",
+      "loudnorm": "-13.48,-0.90,3.40,-23.51,-0.53",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Israel - - La Loba Israel El Capo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e57d0995-df54-4612-8e79-c89404eacfd7",
+    "title": "La Loba Israel El Capo",
+    "titles": {
+      "spa": "La Loba Israel El Capo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "e74c64e4-9062-4c91-8944-e7c10c277eef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:52:16.176Z",
+    "modified_at": "2022-11-04T12:52:16.605Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5c7baecf7db5f08a18ceb14e727feb5c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4334749,
+      "gain": -4.94,
+      "duration": 270,
+      "loudnorm": "-13.48,-0.90,3.40,-23.51,-0.53",
+      "filename": "processed_1e1003dbc7aacb4b9500d7bd1fec94ae.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

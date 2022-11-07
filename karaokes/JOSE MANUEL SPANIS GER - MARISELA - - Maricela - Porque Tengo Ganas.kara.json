@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Porque Tengo Ganas.mp3",
+      "loudnorm": "-8.87,0.97,5.20,-19.12,-0.79",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - Porque Tengo Ganas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26250efa-04f0-42a7-8c47-790245192eda",
+    "title": "Maricela - Porque Tengo Ganas",
+    "titles": {
+      "spa": "Maricela - Porque Tengo Ganas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:58:40.010Z",
+    "modified_at": "2022-11-04T06:58:40.382Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18d696c0bc661d4c7d8bf2c3f5a2e0b5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3444786,
+      "gain": -8.72,
+      "duration": 215,
+      "loudnorm": "-8.87,0.97,5.20,-19.12,-0.79",
+      "filename": "processed_b81f2cffa06b6750f1c6c4326028ad90.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

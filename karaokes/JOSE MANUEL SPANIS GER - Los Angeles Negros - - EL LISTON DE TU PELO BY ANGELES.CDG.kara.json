@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - EL LISTON DE TU PELO BY ANGELES.CDG.MP3",
+      "loudnorm": "-16.71,0.44,2.50,-26.74,-0.61",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Angeles Negros - - EL LISTON DE TU PELO BY ANGELES.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "952201f4-53bb-421b-8f81-113094b93e3f",
+    "title": "EL LISTON DE TU PELO BY ANGELES.CDG",
+    "titles": {
+      "spa": "EL LISTON DE TU PELO BY ANGELES.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6b010bf7-3aa2-43c0-99bf-cddf9f383c97"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:25:36.855Z",
+    "modified_at": "2022-11-04T05:25:37.353Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3710609,
+      "gain": 0.63,
+      "duration": 231,
+      "loudnorm": "-16.71,0.44,2.50,-26.74,-0.61",
+      "filename": "processed_f6ec543e42b8e59942a1d687e73cbcdd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3710609,
+      "gain": 0.63,
+      "duration": 231,
+      "loudnorm": "-16.71,0.44,2.50,-26.74,-0.61",
+      "filename": "processed_73df7188a14bdde01e7a8dd93665ce3b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

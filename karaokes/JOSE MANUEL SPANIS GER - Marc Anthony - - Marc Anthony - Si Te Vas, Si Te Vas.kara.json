@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Si Te Vas, Si Te Vas.MP3",
+      "loudnorm": "-17.06,-0.10,3.80,-27.11,-0.90",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Si Te Vas, Si Te Vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "034c5887-0925-4448-b297-55abcc93d291",
+    "title": "Marc Anthony - Si Te Vas, Si Te Vas",
+    "titles": {
+      "spa": "Marc Anthony - Si Te Vas, Si Te Vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:35:39.677Z",
+    "modified_at": "2022-11-04T06:35:40.358Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4704256,
+      "gain": -1.13,
+      "duration": 293,
+      "loudnorm": "-17.06,-0.10,3.80,-27.11,-0.90",
+      "filename": "processed_6086a71b4abdc2c6c7cffef48a1fcb94.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4704256,
+      "gain": -1.13,
+      "duration": 293,
+      "loudnorm": "-17.06,-0.10,3.80,-27.11,-0.90",
+      "filename": "processed_a9d4effffac74363096b774d03012de8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

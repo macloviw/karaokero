@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - Maringa.MP3",
+      "loudnorm": "-14.36,-0.12,4.70,-24.49,-0.51",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - Maringa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "972dd4bf-f544-44c3-a697-1c3c58615169",
+    "title": "Leo Marini - Maringa",
+    "titles": {
+      "spa": "Leo Marini - Maringa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2d725f06-a83c-49dd-a5ec-ec5256056c0e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:15:50.360Z",
+    "modified_at": "2022-11-04T05:15:50.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2810036,
+      "gain": -4.88,
+      "duration": 175,
+      "loudnorm": "-14.36,-0.12,4.70,-24.49,-0.51",
+      "filename": "processed_eb0d4315c3cf2d9dd331b2a558285068.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2810036,
+      "gain": -4.88,
+      "duration": 175,
+      "loudnorm": "-14.36,-0.12,4.70,-24.49,-0.51",
+      "filename": "processed_223829ec270282afaa351c03323c00ba.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

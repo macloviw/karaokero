@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Justo Bello - - Justo Bello - La Nina Que Nunca Volvio.mp3",
+      "loudnorm": "-7.80,1.48,5.90,-17.87,-0.86",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Justo Bello - - Justo Bello - La Nina Que Nunca Volvio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0b699f8-0c3d-499e-ab21-42fafdffa6a5",
+    "title": "Justo Bello - La Niña Que Nunca Volvio",
+    "titles": {
+      "spa": "Justo Bello - La Niña Que Nunca Volvio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "5f6c6d96-5120-499d-af22-d8556d0333c0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:08:02.266Z",
+    "modified_at": "2022-11-04T04:08:02.649Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84703b7d93019fd81de880b25e4a647c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10328913,
+      "gain": -10.58,
+      "duration": 258,
+      "loudnorm": "-7.80,1.48,5.90,-17.87,-0.86",
+      "filename": "processed_3355dae43499ef9824c17c14d53bf2cd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

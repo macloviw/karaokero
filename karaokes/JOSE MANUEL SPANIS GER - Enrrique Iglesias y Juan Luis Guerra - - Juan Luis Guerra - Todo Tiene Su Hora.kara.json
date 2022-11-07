@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - Juan Luis Guerra - Todo Tiene Su Hora.mp3",
+      "loudnorm": "-16.73,-5.25,2.50,-26.89,-0.27",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - Juan Luis Guerra - Todo Tiene Su Hora.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1dc66ca9-804a-434d-8039-75ba28be6195",
+    "title": "Juan Luis Guerra - Todo Tiene Su Hora",
+    "titles": {
+      "spa": "Juan Luis Guerra - Todo Tiene Su Hora"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:37:50.369Z",
+    "modified_at": "2022-11-04T10:37:50.755Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aeef51ab0b7d87747b376e07e8396688.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6570741,
+      "gain": 0.03,
+      "duration": 187,
+      "loudnorm": "-16.73,-5.25,2.50,-26.89,-0.27",
+      "filename": "processed_5a26a6a886bcdeadc3454ef831529e9e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

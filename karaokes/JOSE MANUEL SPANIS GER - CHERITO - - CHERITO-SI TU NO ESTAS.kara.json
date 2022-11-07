@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CHERITO - - CHERITO-SI TU NO ESTAS.mp3",
+      "loudnorm": "-13.47,1.61,3.60,-23.50,-0.90",
+      "duration": 345,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CHERITO - - CHERITO-SI TU NO ESTAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6f20da4-2a4d-4ba3-a0d0-a44fbc487b47",
+    "title": "CHERITO-SI TU NO ESTAS",
+    "titles": {
+      "spa": "CHERITO-SI TU NO ESTAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "5eda0e3c-b12d-410f-be31-9e60478c4af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:00:58.800Z",
+    "modified_at": "2022-11-04T10:00:59.191Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d12d5079b269ebc3c29d9b13bba8702e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4841137,
+      "gain": -5,
+      "duration": 345,
+      "loudnorm": "-13.47,1.61,3.60,-23.50,-0.90",
+      "filename": "processed_c48a52d2e89d4a5f72e0d03949910a65.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

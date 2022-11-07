@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA GRAN MANZANA - - CUANDO LLEGARA-HENNRY HIERRO.MP3",
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA GRAN MANZANA - - CUANDO LLEGARA-HENNRY HIERRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bbd8114-00c7-41b9-a3dd-9452849367e6",
+    "title": "CUANDO LLEGARA-HENNRY HIERRO",
+    "titles": {
+      "spa": "CUANDO LLEGARA-HENNRY HIERRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e5859e4c-49d0-4aa2-a794-68595da627ac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:44:26.668Z",
+    "modified_at": "2022-11-04T04:44:27.098Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2958412,
+      "gain": -8.77,
+      "duration": 184,
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "filename": "processed_40437b7986e58f67f36013f04a2288dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2958412,
+      "gain": -8.77,
+      "duration": 184,
+      "loudnorm": "-8.99,6.20,2.20,-19.29,0.06",
+      "filename": "processed_811af8d2a772b8005446b654241ab454.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

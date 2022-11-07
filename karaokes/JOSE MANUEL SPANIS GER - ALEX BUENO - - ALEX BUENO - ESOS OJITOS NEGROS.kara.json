@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - ALEX BUENO - ESOS OJITOS NEGROS.mp3",
+      "loudnorm": "-15.46,1.42,4.40,-25.59,-0.23",
+      "duration": 167,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - ALEX BUENO - ESOS OJITOS NEGROS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2352451,
+      "audiogain": -2.2
+    }
+  ],
+  "data": {
+    "kid": "100fcc0b-0e36-4336-9b13-1d4e484914d7",
+    "title": "ALEX BUENO - ESOS OJITOS NEGROS",
+    "titles": {
+      "spa": "ALEX BUENO - ESOS OJITOS NEGROS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:52:12.235Z",
+    "modified_at": "2022-11-04T20:23:30.935Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_50ebc88e1439cb5421af6be36ee8caac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2352451,
+      "gain": -2.2,
+      "duration": 167,
+      "loudnorm": "-15.46,1.42,4.40,-25.59,-0.23",
+      "filename": "processed_402aabeedc0a91837de975101cafec6b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

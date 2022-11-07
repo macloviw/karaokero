@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - BURBUJAS DE AMOR.MP3",
+      "loudnorm": "-17.00,0.02,3.20,-27.05,-0.13",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - BURBUJAS DE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "56ff555d-f5bc-401d-8f72-7e9980237a2e",
+    "title": "JUAN L GUERRA   -   BURBUJAS DE AMOR",
+    "titles": {
+      "spa": "JUAN L GUERRA   -   BURBUJAS DE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:32:07.450Z",
+    "modified_at": "2022-11-04T10:32:07.917Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4210906,
+      "gain": 2.02,
+      "duration": 263,
+      "loudnorm": "-17.00,0.02,3.20,-27.05,-0.13",
+      "filename": "processed_206d8123be15b7a533fa61589d85a6d4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4210906,
+      "gain": 2.02,
+      "duration": 263,
+      "loudnorm": "-17.00,0.02,3.20,-27.05,-0.13",
+      "filename": "processed_488604e0324b1b4baa88183ba06a5c32.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

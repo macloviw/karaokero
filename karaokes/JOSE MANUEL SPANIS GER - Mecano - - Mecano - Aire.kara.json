@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Aire.MP3",
+      "loudnorm": "-12.32,0.40,4.90,-22.42,-0.23",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Aire.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d97fc0b3-7d8a-438a-9b2a-f849f6b1b29f",
+    "title": "Mecano - Aire",
+    "titles": {
+      "spa": "Mecano - Aire"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6338f2b6-1255-43c4-8779-55c7e47618e4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:05:11.542Z",
+    "modified_at": "2022-11-04T07:05:12.177Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6673736,
+      "gain": -4.9,
+      "duration": 277,
+      "loudnorm": "-12.32,0.40,4.90,-22.42,-0.23",
+      "filename": "processed_57e379ae4f52d6272f9874b79ea21e10.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6673736,
+      "gain": -4.9,
+      "duration": 277,
+      "loudnorm": "-12.32,0.40,4.90,-22.42,-0.23",
+      "filename": "processed_43a1ae37e090b1b52bf695c6546ccbb8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

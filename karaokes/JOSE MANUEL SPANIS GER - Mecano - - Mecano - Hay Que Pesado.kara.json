@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Hay Que Pesado.MP3",
+      "loudnorm": "-16.30,-0.51,5.40,-26.48,-0.68",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Mecano - - Mecano - Hay Que Pesado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d5611b7-8fd9-4f02-98ed-77626a051823",
+    "title": "Mecano - Hay Que Pesado",
+    "titles": {
+      "spa": "Mecano - Hay Que Pesado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "6338f2b6-1255-43c4-8779-55c7e47618e4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:06:55.307Z",
+    "modified_at": "2022-11-04T07:06:55.762Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3681770,
+      "gain": 1.26,
+      "duration": 229,
+      "loudnorm": "-16.30,-0.51,5.40,-26.48,-0.68",
+      "filename": "processed_3f8a69eb9ef6dd083966251d958d3d77.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3681770,
+      "gain": 1.26,
+      "duration": 229,
+      "loudnorm": "-16.30,-0.51,5.40,-26.48,-0.68",
+      "filename": "processed_8c4b8753db1c505db51dd760f505db1d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_15 Laura Pausini - Escucha Tu Corazon (voz).mp3",
+      "loudnorm": "-10.36,1.36,4.80,-20.55,-0.90",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_15 Laura Pausini - Escucha Tu Corazon (voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1930fb15-c33d-4888-8990-abcf305c8005",
+    "title": "KBO-172_15 Laura Pausini - Escucha Tu Corazon (voz)",
+    "titles": {
+      "spa": "KBO-172_15 Laura Pausini - Escucha Tu Corazon (voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:08:45.196Z",
+    "modified_at": "2022-11-04T05:08:45.620Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ae154f2ad8d76272d5f8744eed3fe26.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6678456,
+      "gain": -6.96,
+      "duration": 278,
+      "loudnorm": "-10.36,1.36,4.80,-20.55,-0.90",
+      "filename": "processed_39db53bb593af7a1e8f9a3b162036859.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

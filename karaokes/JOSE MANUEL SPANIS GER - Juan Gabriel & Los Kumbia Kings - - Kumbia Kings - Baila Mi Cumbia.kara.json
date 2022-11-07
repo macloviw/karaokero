@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Baila Mi Cumbia.mp3",
+      "loudnorm": "-17.88,0.05,2.60,-28.18,-0.22",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Baila Mi Cumbia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bfef9647-f96c-44a4-834d-a4d58ecc1d9e",
+    "title": "Kumbia Kings - Baila Mi Cumbia",
+    "titles": {
+      "spa": "Kumbia Kings - Baila Mi Cumbia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:32:50.730Z",
+    "modified_at": "2022-11-04T04:32:51.112Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6ca63572c4e822cb615d791f7201f165.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4108634,
+      "gain": -0.02,
+      "duration": 171,
+      "loudnorm": "-17.88,0.05,2.60,-28.18,-0.22",
+      "filename": "processed_3b28ada9de32c7f6537b99c8f54176ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

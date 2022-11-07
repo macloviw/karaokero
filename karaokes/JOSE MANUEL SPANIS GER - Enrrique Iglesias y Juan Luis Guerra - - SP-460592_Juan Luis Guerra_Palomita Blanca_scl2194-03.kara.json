@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - SP-460592_Juan Luis Guerra_Palomita Blanca_scl2194-03.mp3",
+      "loudnorm": "-12.92,0.01,2.00,-23.00,-0.86",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - SP-460592_Juan Luis Guerra_Palomita Blanca_scl2194-03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6e0919b5-5977-431a-9664-4a3625889baf",
+    "title": "SP-460592_Juan Luís Guerra_Palomita Blanca_scl2194-03",
+    "titles": {
+      "spa": "SP-460592_Juan Luís Guerra_Palomita Blanca_scl2194-03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:38:29.190Z",
+    "modified_at": "2022-11-04T10:38:29.571Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b9bfdf17594ba3523b32c9eb86690ad1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2879626,
+      "gain": -2.04,
+      "duration": 179,
+      "loudnorm": "-12.92,0.01,2.00,-23.00,-0.86",
+      "filename": "processed_5c821bba166ec902079aae7026b356ec.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

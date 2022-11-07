@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Me Estoy Muriendo.mp3",
+      "loudnorm": "-10.61,2.40,4.60,-20.95,-0.97",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Gabriel & Los Kumbia Kings - - Kumbia Kings - Me Estoy Muriendo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2dc9ea3c-bcf4-453e-8b27-4b6b67d32c8d",
+    "title": "Kumbia Kings - Me Estoy Muriendo",
+    "titles": {
+      "spa": "Kumbia Kings - Me Estoy Muriendo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:34:21.471Z",
+    "modified_at": "2022-11-04T04:34:21.856Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_462e4a5226a8269d90aed983c590e538.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3988263,
+      "gain": -3.86,
+      "duration": 249,
+      "loudnorm": "-10.61,2.40,4.60,-20.95,-0.97",
+      "filename": "processed_bff0344a34c2f5a8ab30af3600fd9518.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

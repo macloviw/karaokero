@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - Si Tu Amor No Vuelve.mp3",
+      "loudnorm": "-15.17,-0.75,3.20,-25.20,-0.56",
+      "duration": 291,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - EDDY HERRERA - - Eddy Herrera - Si Tu Amor No Vuelve.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ebcf8b73-bb57-4981-b0f0-367a9cfb6d0d",
+    "title": "Eddy Herrera - Si Tu Amor No Vuelve",
+    "titles": {
+      "spa": "Eddy Herrera - Si Tu Amor No Vuelve"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "575acd9d-6435-4627-93ba-b7c33858eaf9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:04:18.044Z",
+    "modified_at": "2022-11-04T10:04:18.500Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aaacc6051814b319390b5c1d4724d7e6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6998194,
+      "gain": -3.79,
+      "duration": 291,
+      "loudnorm": "-15.17,-0.75,3.20,-25.20,-0.56",
+      "filename": "processed_94e271086f2d882f7612263e71dc1a47.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - TONO ROSARIO - El Reloj.mp3",
+      "loudnorm": "-10.00,0.93,2.80,-20.05,-0.15",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - TONO ROSARIO - El Reloj.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a913197-c5e3-4d30-9af8-9cba9b7a3e5b",
+    "title": "TOÑO ROSARIO - El Reloj",
+    "titles": {
+      "spa": "TOÑO ROSARIO - El Reloj"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:10:13.359Z",
+    "modified_at": "2022-11-04T04:10:13.758Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_58d6ee427ccf4d95a5aab9e3b3b005b5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6912922,
+      "gain": -7.84,
+      "duration": 287,
+      "loudnorm": "-10.00,0.93,2.80,-20.05,-0.15",
+      "filename": "processed_885cb4e8691df193ac9ef404dd2871da.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

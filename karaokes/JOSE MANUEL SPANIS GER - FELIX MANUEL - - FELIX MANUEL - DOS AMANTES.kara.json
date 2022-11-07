@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - FELIX MANUEL - DOS AMANTES.mp3",
+      "loudnorm": "-10.14,3.36,6.30,-20.20,-1.52",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FELIX MANUEL - - FELIX MANUEL - DOS AMANTES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7bfa3547-09bb-41ed-87f7-397948af5ef0",
+    "title": "FELIX MANUEL - DOS AMANTES",
+    "titles": {
+      "spa": "FELIX MANUEL - DOS AMANTES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "349f0580-a9f7-448c-bc4d-dfb74d074370"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:15:07.806Z",
+    "modified_at": "2022-11-04T12:15:08.191Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9d3418cf876003626f384bf7f08be33.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3955243,
+      "gain": -8.41,
+      "duration": 247,
+      "loudnorm": "-10.14,3.36,6.30,-20.20,-1.52",
+      "filename": "processed_8e269a9c9d4ffbef65514478613469bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

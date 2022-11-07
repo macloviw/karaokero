@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - mi nina bonita pista2.mp3",
+      "loudnorm": "-8.73,2.57,2.50,-18.77,-0.06",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Chino y Nacho - - mi nina bonita pista2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d757816c-4eaa-42af-b122-65a3d98bb14c",
+    "title": "mi niña bonita pista2",
+    "titles": {
+      "spa": "mi niña bonita pista2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "7a1ac309-8d67-4d85-a0a7-6dd4a04e1fd5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:21:56.707Z",
+    "modified_at": "2022-11-04T09:21:57.080Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b18dfe527167702fb4e48361e3ca8aa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3323238,
+      "gain": -8.71,
+      "duration": 207,
+      "loudnorm": "-8.73,2.57,2.50,-18.77,-0.06",
+      "filename": "processed_1c1ce41128ed1dfa6d6687e39be3bedb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

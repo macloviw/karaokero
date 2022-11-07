@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Perreando.mp3",
+      "loudnorm": "-13.61,-0.14,4.20,-23.86,-0.56",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Perreando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c047dc9b-cd8a-440a-8be7-00a264a1bac5",
+    "title": "Don Omar - Perreando",
+    "titles": {
+      "spa": "Don Omar - Perreando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "d118fe6d-1a5a-4322-80e6-e5290667ef0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:39:32.671Z",
+    "modified_at": "2022-11-04T11:39:33.046Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_59afb2e7659f57fc3c1f327f78fa3810.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2607197,
+      "gain": -4.61,
+      "duration": 162,
+      "loudnorm": "-13.61,-0.14,4.20,-23.86,-0.56",
+      "filename": "processed_d9e1942eba3d53126cba259c278f419c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Tomasa.mp3",
+      "loudnorm": "-11.10,3.35,3.30,-21.19,-0.55",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Tomasa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "740d7fd1-1a18-4656-9ed0-05847195633b",
+    "title": "Charly Rodriguez - Tomasa",
+    "titles": {
+      "spa": "Charly Rodriguez - Tomasa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "c0dbe58c-ebcb-4907-8b2c-59f30db86cfd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:19:54.806Z",
+    "modified_at": "2022-11-04T09:19:55.182Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_829af0a0cc17beb5b7449316db8bfa21.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3843834,
+      "gain": -7.92,
+      "duration": 274,
+      "loudnorm": "-11.10,3.35,3.30,-21.19,-0.55",
+      "filename": "processed_26eb61c839c9c19682cd93cde34b873d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

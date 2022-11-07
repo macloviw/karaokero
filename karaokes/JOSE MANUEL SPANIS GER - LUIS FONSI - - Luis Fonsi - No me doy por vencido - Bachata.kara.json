@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - No me doy por vencido - Bachata.mp3",
+      "loudnorm": "-13.23,1.22,4.90,-23.39,-0.37",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - No me doy por vencido - Bachata.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dbaa23c8-3fb6-4c1f-8774-8d20b3bedf1e",
+    "title": "Luis Fonsi - No me doy por vencido - Bachata",
+    "titles": {
+      "spa": "Luis Fonsi - No me doy por vencido - Bachata"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:52:03.777Z",
+    "modified_at": "2022-11-04T05:52:04.149Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f85ea1a7215999506cff427842e2a12b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3499668,
+      "gain": -4.43,
+      "duration": 218,
+      "loudnorm": "-13.23,1.22,4.90,-23.39,-0.37",
+      "filename": "processed_13d3a2bb9e3ba75775d9dd45bb0e2f3b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - Laura Pausini - Cuando Se Ama.mp3",
+      "loudnorm": "-9.29,7.70,7.20,-19.63,-1.47",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - Laura Pausini - Cuando Se Ama.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9a47b202-13d6-424d-bdc0-3f55bf0efe4f",
+    "title": "Laura Pausini - Cuando Se Ama",
+    "titles": {
+      "spa": "Laura Pausini - Cuando Se Ama"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:09:31.685Z",
+    "modified_at": "2022-11-04T05:09:32.085Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84bd02169095bb8cf980d1384d86b23c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3650081,
+      "gain": -9.17,
+      "duration": 228,
+      "loudnorm": "-9.29,7.70,7.20,-19.63,-1.47",
+      "filename": "processed_0309269ee9a367e8c24a6c1ea0de7408.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

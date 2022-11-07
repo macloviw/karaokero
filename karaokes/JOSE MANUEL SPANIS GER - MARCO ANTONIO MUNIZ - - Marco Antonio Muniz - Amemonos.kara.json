@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz - Amemonos.MP3",
+      "loudnorm": "-11.84,0.84,3.20,-21.89,-1.34",
+      "duration": 161,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz - Amemonos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eea34690-a46f-46ba-b3f6-98f7be09c2da",
+    "title": "Marco Antonio Muñiz - Amemonos",
+    "titles": {
+      "spa": "Marco Antonio Muñiz - Amemonos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a92236a9-14aa-4ae5-a867-50d9bcca11bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:47:40.438Z",
+    "modified_at": "2022-11-04T06:47:40.863Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2582666,
+      "gain": -5.72,
+      "duration": 161,
+      "loudnorm": "-11.84,0.84,3.20,-21.89,-1.34",
+      "filename": "processed_5d787a0463dfa843287771a407156ea5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2582666,
+      "gain": -5.72,
+      "duration": 161,
+      "loudnorm": "-11.84,0.84,3.20,-21.89,-1.34",
+      "filename": "processed_19ead3711d65bf35e91453ccb8c01562.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

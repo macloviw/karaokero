@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - No Sufras, Madre.mp3",
+      "loudnorm": "-14.77,0.08,2.00,-24.87,0.11",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - No Sufras, Madre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9bf25a51-c2ab-48d9-9bfa-e78fa68c88ba",
+    "title": "Los Tigres Del Norte - No Sufras, Madre",
+    "titles": {
+      "spa": "Los Tigres Del Norte - No Sufras, Madre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:38:34.658Z",
+    "modified_at": "2022-11-04T05:38:35.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1ca93884debfc733026bc43201ad9771.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4740588,
+      "gain": -6.22,
+      "duration": 197,
+      "loudnorm": "-14.77,0.08,2.00,-24.87,0.11",
+      "filename": "processed_8b2b99451385ef2c18c64149d221ad2f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

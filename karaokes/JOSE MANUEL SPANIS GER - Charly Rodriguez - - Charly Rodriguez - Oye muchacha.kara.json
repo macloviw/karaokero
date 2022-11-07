@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Oye muchacha.mp3",
+      "loudnorm": "-14.93,0.88,3.60,-24.97,-0.16",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Charly Rodriguez - - Charly Rodriguez - Oye muchacha.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c191913c-63d0-4e40-9f00-798a23d1a15f",
+    "title": "Charly Rodriguez - Oye muchacha",
+    "titles": {
+      "spa": "Charly Rodriguez - Oye muchacha"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "c0dbe58c-ebcb-4907-8b2c-59f30db86cfd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:19:30.631Z",
+    "modified_at": "2022-11-04T09:19:31.015Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0b7a482721375b11891f8bdcca37afdd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3480314,
+      "gain": -4.23,
+      "duration": 248,
+      "loudnorm": "-14.93,0.88,3.60,-24.97,-0.16",
+      "filename": "processed_e1d1bdc38a91f57d513e980c16579921.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ANTHONY SANTOS & YOSKAR SARANTE - - Yoscar Sarante - Perdoname.mp3",
+      "loudnorm": "-14.88,1.76,2.50,-25.00,-0.02",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ANTHONY SANTOS & YOSKAR SARANTE - - Yoscar Sarante - Perdoname.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4480201,
+      "audiogain": -3.11
+    }
+  ],
+  "data": {
+    "kid": "f73e9f47-032d-45b8-9319-ae07bb9c4cac",
+    "title": "Yoscar Sarante - Perdoname",
+    "titles": {
+      "spa": "Yoscar Sarante - Perdoname"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "380942d8-8f60-48cc-8fd9-e88c44460040"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:56:42.256Z",
+    "modified_at": "2022-11-04T20:26:59.148Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e904f3085953ac5566056c02f0af2493.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4480201,
+      "gain": -3.11,
+      "duration": 279,
+      "loudnorm": "-14.88,1.76,2.50,-25.00,-0.02",
+      "filename": "processed_5123f0ea2b9070deac0f8d0f9e625164.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

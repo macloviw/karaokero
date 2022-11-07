@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - Estoy Perdido.mp3",
+      "loudnorm": "-13.38,-1.16,7.20,-23.70,-0.85",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS FONSI - - Luis Fonsi - Estoy Perdido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d6847f72-ca78-41d0-8f5e-bf68056a8bea",
+    "title": "Luis Fonsi - Estoy Perdido",
+    "titles": {
+      "spa": "Luis Fonsi - Estoy Perdido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:51:42.715Z",
+    "modified_at": "2022-11-04T05:51:43.090Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c8bec6d103896845cba692368353eff9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5756230,
+      "gain": -3.36,
+      "duration": 239,
+      "loudnorm": "-13.38,-1.16,7.20,-23.70,-0.85",
+      "filename": "processed_7e59b68d60552ebe5bff6c8a3efe5a49.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

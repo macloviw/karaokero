@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-05 - Marc Anthony - Te Lo Pido Por Favor.mp3",
+      "loudnorm": "-15.14,0.07,9.50,-25.24,-1.18",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-05 - Marc Anthony - Te Lo Pido Por Favor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6b25c854-b21f-4de4-8974-f7e1defc56a6",
+    "title": "OKE0386-05 - Marc Anthony - Te Lo Pido Por Favor",
+    "titles": {
+      "spa": "OKE0386-05 - Marc Anthony - Te Lo Pido Por Favor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:43:51.183Z",
+    "modified_at": "2022-11-04T06:43:51.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57eeb8dbd904c2d1e074a95c55fd8c2f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8375057,
+      "gain": -3.64,
+      "duration": 209,
+      "loudnorm": "-15.14,0.07,9.50,-25.24,-1.18",
+      "filename": "processed_98ae072a50e55ec7d9e71b53c6a88af9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

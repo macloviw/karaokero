@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-bano de luna.mp3",
+      "loudnorm": "-16.93,-1.11,5.00,-27.01,-1.02",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MELINA LEON - - Melina Leon-bano de luna.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "deded894-0602-4b05-b21b-a7ae885feade",
+    "title": "Melina Leon-baño de luna",
+    "titles": {
+      "spa": "Melina Leon-baño de luna"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:11:05.307Z",
+    "modified_at": "2022-11-04T07:11:05.691Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d781efcadb1559ec139bb7a1e06e197.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6148692,
+      "gain": -1.14,
+      "duration": 256,
+      "loudnorm": "-16.93,-1.11,5.00,-27.01,-1.02",
+      "filename": "processed_41805318371943bd2e5581af30e56eaa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

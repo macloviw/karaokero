@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - PARA DARTE MI VIDA BY MILLY QUEZADA.CDG.MP3",
+      "loudnorm": "-15.47,-1.13,2.90,-25.57,-0.14",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - PARA DARTE MI VIDA BY MILLY QUEZADA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eea3eab6-34d3-40f3-ad3e-fe2c62c07c49",
+    "title": "PARA DARTE MI VIDA BY MILLY QUEZADA.CDG",
+    "titles": {
+      "spa": "PARA DARTE MI VIDA BY MILLY QUEZADA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:51:59.234Z",
+    "modified_at": "2022-11-04T10:51:59.908Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10186807,
+      "gain": -3.12,
+      "duration": 254,
+      "loudnorm": "-15.47,-1.13,2.90,-25.57,-0.14",
+      "filename": "processed_e77bda3d93e5dcbd60711da543670688.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10186807,
+      "gain": -3.12,
+      "duration": 254,
+      "loudnorm": "-15.47,-1.13,2.90,-25.57,-0.14",
+      "filename": "processed_8ed1820855ab1512a97c4f7190286f82.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

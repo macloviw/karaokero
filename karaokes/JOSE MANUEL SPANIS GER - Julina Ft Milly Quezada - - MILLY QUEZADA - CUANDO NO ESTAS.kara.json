@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - CUANDO NO ESTAS.mp3",
+      "loudnorm": "-13.60,1.31,9.20,-24.06,-1.06",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Julina Ft Milly Quezada - - MILLY QUEZADA - CUANDO NO ESTAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9c9b4077-5e4d-4b5a-bb0f-643d071cdc1f",
+    "title": "MILLY QUEZADA - CUANDO NO ESTAS",
+    "titles": {
+      "spa": "MILLY QUEZADA - CUANDO NO ESTAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:24:39.372Z",
+    "modified_at": "2022-11-04T07:24:39.757Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d378a83e11772983bdbd89cd0f60b20f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3922642,
+      "gain": -5.4,
+      "duration": 245,
+      "loudnorm": "-13.60,1.31,9.20,-24.06,-1.06",
+      "filename": "processed_2415374695f3b1aa5609c4295fa8d00a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

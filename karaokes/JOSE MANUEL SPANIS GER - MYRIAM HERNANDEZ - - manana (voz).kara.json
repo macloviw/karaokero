@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - manana (voz).mp3",
+      "loudnorm": "-10.85,2.47,8.80,-21.19,-1.33",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MYRIAM HERNANDEZ - - manana (voz).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c9c68a92-0d70-41c5-aa07-86a4c5c5589d",
+    "title": "mañana (voz)",
+    "titles": {
+      "spa": "mañana (voz)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e50c894a-425f-4e48-b92e-212adc09e2a0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:34:19.620Z",
+    "modified_at": "2022-11-04T07:34:20.002Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c86b685ca1bb65b55fae8fb41537ac96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6761838,
+      "gain": -6.39,
+      "duration": 281,
+      "loudnorm": "-10.85,2.47,8.80,-21.19,-1.33",
+      "filename": "processed_8b5ef5be026c95bed1b454b1285a67cb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

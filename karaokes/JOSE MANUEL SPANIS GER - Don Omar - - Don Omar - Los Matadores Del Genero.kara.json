@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Los Matadores Del Genero.MP3",
+      "loudnorm": "-16.33,-1.00,4.00,-26.38,-0.75",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar - - Don Omar - Los Matadores Del Genero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2bef147-ec61-4671-a894-528e4f3e0a6e",
+    "title": "Don Omar - Los Matadores Del Genero",
+    "titles": {
+      "spa": "Don Omar - Los Matadores Del Genero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "47d86182-6602-47cb-bb13-de78406ecd33"
+      ],
+      "singers": [
+        "d118fe6d-1a5a-4322-80e6-e5290667ef0b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:39:24.484Z",
+    "modified_at": "2022-11-04T11:39:24.924Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2963298,
+      "gain": -2.53,
+      "duration": 185,
+      "loudnorm": "-16.33,-1.00,4.00,-26.38,-0.75",
+      "filename": "processed_ec0fbae6e925ea2c2620f6785e13d789.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2963298,
+      "gain": -2.53,
+      "duration": 185,
+      "loudnorm": "-16.33,-1.00,4.00,-26.38,-0.75",
+      "filename": "processed_ddaa32bda395edd542eb7536251118f6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

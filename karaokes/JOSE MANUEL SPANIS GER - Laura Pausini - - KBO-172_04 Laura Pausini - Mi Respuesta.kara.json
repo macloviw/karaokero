@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_04 Laura Pausini - Mi Respuesta.mp3",
+      "loudnorm": "-11.33,1.19,3.20,-21.40,-0.42",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - KBO-172_04 Laura Pausini - Mi Respuesta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0898be7a-9f60-49ed-9453-10464d89ca4d",
+    "title": "KBO-172_04 Laura Pausini - Mi Respuesta",
+    "titles": {
+      "spa": "KBO-172_04 Laura Pausini - Mi Respuesta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:06:43.382Z",
+    "modified_at": "2022-11-04T05:06:43.769Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8cbb005af79ed0db9ce79cf7aa889c05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5433982,
+      "gain": -6.93,
+      "duration": 226,
+      "loudnorm": "-11.33,1.19,3.20,-21.40,-0.42",
+      "filename": "processed_d86666c3648b71e6ce99b8ce62edd2e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

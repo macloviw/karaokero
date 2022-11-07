@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Nadie Como Ella.mp3",
+      "loudnorm": "-15.24,-0.45,5.40,-25.26,-0.79",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Nadie Como Ella.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f87e0763-06c9-4f7f-a055-3c7d121f3750",
+    "title": "Marc Anthony - Nadie Como Ella",
+    "titles": {
+      "spa": "Marc Anthony - Nadie Como Ella"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:32:45.095Z",
+    "modified_at": "2022-11-04T06:32:45.529Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51e93ffc0218e3aaba2d75e6f8e29aa8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4959053,
+      "gain": -4.29,
+      "duration": 309,
+      "loudnorm": "-15.24,-0.45,5.40,-25.26,-0.79",
+      "filename": "processed_dfa69956622bab242045a8e9f79dc8b7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

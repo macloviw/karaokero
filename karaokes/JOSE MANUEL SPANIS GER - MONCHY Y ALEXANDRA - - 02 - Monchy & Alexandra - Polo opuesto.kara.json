@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - 02 - Monchy & Alexandra - Polo opuesto.mp3",
+      "loudnorm": "-14.83,-0.82,2.30,-24.86,-0.38",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - 02 - Monchy & Alexandra - Polo opuesto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2690a0a4-019e-42ec-8d4f-9dadc54110b3",
+    "title": "02 - Monchy & Alexandra - Polo opuesto",
+    "titles": {
+      "spa": "02 - Monchy & Alexandra - Polo opuesto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:31:35.294Z",
+    "modified_at": "2022-11-04T07:31:35.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f877b10999007ec17881ef53a765bd83.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3846446,
+      "gain": -1.05,
+      "duration": 240,
+      "loudnorm": "-14.83,-0.82,2.30,-24.86,-0.38",
+      "filename": "processed_9cf40888779d76705e7dfb4b9092f7d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

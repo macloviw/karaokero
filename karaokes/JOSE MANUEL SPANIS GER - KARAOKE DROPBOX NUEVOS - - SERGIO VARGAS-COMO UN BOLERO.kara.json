@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - SERGIO VARGAS-COMO UN BOLERO.mp3",
+      "loudnorm": "-13.88,0.56,6.70,-24.12,-0.61",
+      "duration": 345,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE DROPBOX NUEVOS - - SERGIO VARGAS-COMO UN BOLERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81d12be7-625a-4361-8756-763b210ce7a9",
+    "title": "SERGIO VARGAS-COMO UN BOLERO",
+    "titles": {
+      "spa": "SERGIO VARGAS-COMO UN BOLERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:09:48.124Z",
+    "modified_at": "2022-11-04T04:09:48.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_997968f0c561c9d2814df80712d708d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4840040,
+      "gain": -3.6,
+      "duration": 345,
+      "loudnorm": "-13.88,0.56,6.70,-24.12,-0.61",
+      "filename": "processed_99f6a20862d954ed1249136e81f12e2c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

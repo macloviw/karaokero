@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Lucia Mendez - - Lucia Mendez - La que mas te ha querido (2).mp3",
+      "loudnorm": "-20.76,-3.20,9.10,-30.94,-1.41",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Lucia Mendez - - Lucia Mendez - La que mas te ha querido (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd5cc5ef-20a8-46c5-a9cb-0fbd9466614b",
+    "title": "Lucia Mendez - La que mas te ha querido (2)",
+    "titles": {
+      "spa": "Lucia Mendez - La que mas te ha querido (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a2caed27-27b3-4b41-897c-26d5a5f8dfeb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:13:12.186Z",
+    "modified_at": "2022-11-04T07:13:12.571Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e56912448730d36be3103dd82965a1d1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3698710,
+      "gain": 3.53,
+      "duration": 231,
+      "loudnorm": "-20.76,-3.20,9.10,-30.94,-1.41",
+      "filename": "processed_a2619cd77ef8fc508e274c442c9da45f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

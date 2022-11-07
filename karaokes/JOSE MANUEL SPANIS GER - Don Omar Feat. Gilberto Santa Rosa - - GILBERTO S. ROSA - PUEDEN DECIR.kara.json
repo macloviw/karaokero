@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PUEDEN DECIR.MP3",
+      "loudnorm": "-10.99,4.10,12.50,-21.44,-1.48",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PUEDEN DECIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f6f01ba6-e60b-4136-96a7-90464f7035f6",
+    "title": "GILBERTO S. ROSA   -   PUEDEN DECIR",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   PUEDEN DECIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:27:34.686Z",
+    "modified_at": "2022-11-04T12:27:35.165Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3413022,
+      "gain": -7.11,
+      "duration": 213,
+      "loudnorm": "-10.99,4.10,12.50,-21.44,-1.48",
+      "filename": "processed_95498039da97423c5ac306d941c4726b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3413022,
+      "gain": -7.11,
+      "duration": 213,
+      "loudnorm": "-10.99,4.10,12.50,-21.44,-1.48",
+      "filename": "processed_beca32a84a0a2d844d0cee68f44ca531.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

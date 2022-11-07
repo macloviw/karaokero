@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BONITILLO SALSA - - RAY ANTHONY - TE OFREZCO.mp3",
+      "loudnorm": "-9.37,1.18,4.00,-19.41,-0.31",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BONITILLO SALSA - - RAY ANTHONY - TE OFREZCO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7436a2b1-2966-4348-a602-172f997cc33a",
+    "title": "RAY ANTHONY  - TE OFREZCO",
+    "titles": {
+      "spa": "RAY ANTHONY  - TE OFREZCO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:50:21.621Z",
+    "modified_at": "2022-11-04T11:50:22.040Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2caadf53f130e84b6b5841ff32705a6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4829683,
+      "gain": -8.38,
+      "duration": 241,
+      "loudnorm": "-9.37,1.18,4.00,-19.41,-0.31",
+      "filename": "processed_c205efae251e16db44240b5e6d1e4b5f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

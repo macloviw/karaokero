@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - Luis Vargas - Hipocrita.mp3",
+      "loudnorm": "-8.40,8.73,4.30,-18.62,-1.17",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - Luis Vargas - Hipocrita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "92403ffc-ab79-485d-a7f7-1d30ccd225e8",
+    "title": "Luis Vargas - Hipocrita",
+    "titles": {
+      "spa": "Luis Vargas - Hipocrita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3d9430e9-6ec5-4dcb-9373-ba1ee886f326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:05:06.700Z",
+    "modified_at": "2022-11-04T06:05:07.087Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fbc4de3d9e88afd05cc979444959c422.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3606036,
+      "gain": -8.71,
+      "duration": 225,
+      "loudnorm": "-8.40,8.73,4.30,-18.62,-1.17",
+      "filename": "processed_bb2f941e2771f94d5ee073df87bf455d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

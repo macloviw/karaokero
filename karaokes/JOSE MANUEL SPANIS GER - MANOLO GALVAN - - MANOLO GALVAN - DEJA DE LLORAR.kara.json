@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - DEJA DE LLORAR.MP3",
+      "loudnorm": "-18.81,-1.41,5.60,-28.88,-0.85",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MANOLO GALVAN - - MANOLO GALVAN - DEJA DE LLORAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "22136ba7-9d8d-4923-b41c-9aca7cf5033c",
+    "title": "MANOLO GALVAN   -   DEJA DE LLORAR",
+    "titles": {
+      "spa": "MANOLO GALVAN   -   DEJA DE LLORAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2f765c38-8ad5-4fcb-bff5-57e55bd7e639"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:22:50.464Z",
+    "modified_at": "2022-11-04T06:22:50.904Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3425143,
+      "gain": 0.58,
+      "duration": 213,
+      "loudnorm": "-18.81,-1.41,5.60,-28.88,-0.85",
+      "filename": "processed_4ffde4724332f980f71cdf4fb0e973a4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3425143,
+      "gain": 0.58,
+      "duration": 213,
+      "loudnorm": "-18.81,-1.41,5.60,-28.88,-0.85",
+      "filename": "processed_98fac6bc98564c81effbae89c3984c0f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

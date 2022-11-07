@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - Fonseca - Te mando Flores.mp3",
+      "loudnorm": "-13.19,-0.03,4.70,-23.23,-1.07",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - Fonseca - Te mando Flores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34100b94-6781-49ff-9de3-e523dd59c363",
+    "title": "Fonseca - Te mando Flores",
+    "titles": {
+      "spa": "Fonseca - Te mando Flores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "12d5f28c-71a2-49f8-b923-c7e118afb766"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:41:24.100Z",
+    "modified_at": "2022-11-04T09:41:24.496Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9b4aef032d25ee5781c9574416145d53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5506707,
+      "gain": -3.61,
+      "duration": 229,
+      "loudnorm": "-13.19,-0.03,4.70,-23.23,-1.07",
+      "filename": "processed_50804427ef72f5ce449368e9d6c89b67.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

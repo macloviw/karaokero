@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HANSEL & RAUL (N.B) - - HANSEL & RAUL===LA ESQUINA HABANERA.mp3",
+      "loudnorm": "-14.26,0.64,4.90,-24.51,-0.83",
+      "duration": 314,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HANSEL & RAUL (N.B) - - HANSEL & RAUL===LA ESQUINA HABANERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7ba7b227-4d4e-418b-98fe-686a6457e2e5",
+    "title": "HANSEL & RAUL===LA ESQUINA HABANERA",
+    "titles": {
+      "spa": "HANSEL & RAUL===LA ESQUINA HABANERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "5c919a94-369b-4ce6-81fe-07af24a3798a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:44:12.301Z",
+    "modified_at": "2022-11-04T12:44:12.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_01adcf0a8c4a237d784e88b715349da3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7555371,
+      "gain": -4.04,
+      "duration": 314,
+      "loudnorm": "-14.26,0.64,4.90,-24.51,-0.83",
+      "filename": "processed_c150aefae97e2665b4e741b3bd71baec.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

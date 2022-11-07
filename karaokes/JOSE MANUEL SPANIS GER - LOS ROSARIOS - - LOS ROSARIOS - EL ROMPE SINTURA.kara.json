@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - EL ROMPE SINTURA.MP3",
+      "loudnorm": "-11.55,0.98,1.80,-21.56,0.08",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS ROSARIOS - - LOS ROSARIOS - EL ROMPE SINTURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dbd9d27d-05b3-4fc9-96d7-30a98cfc31a2",
+    "title": "LOS ROSARIOS   -   EL ROMPE SINTURA",
+    "titles": {
+      "spa": "LOS ROSARIOS   -   EL ROMPE SINTURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "f0eb147a-2f10-4059-8017-016f96113ae2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:42:03.599Z",
+    "modified_at": "2022-11-04T10:42:04.051Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3335282,
+      "gain": -5.37,
+      "duration": 208,
+      "loudnorm": "-11.55,0.98,1.80,-21.56,0.08",
+      "filename": "processed_78d0a6a47d0c08e1f17079ee1035121d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3335282,
+      "gain": -5.37,
+      "duration": 208,
+      "loudnorm": "-11.55,0.98,1.80,-21.56,0.08",
+      "filename": "processed_a0e39198cd9e0759171eaabff2266a26.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

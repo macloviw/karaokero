@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - Amante Amiga Tu.mp3",
+      "loudnorm": "-14.94,-0.01,2.50,-25.05,-0.30",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hidelmaro - - Hidelmaro - Amante Amiga Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d90c9a0b-9c2b-43c0-bce9-372d37c563ed",
+    "title": "Hidelmaro - Amante Amiga Tu",
+    "titles": {
+      "spa": "Hidelmaro - Amante Amiga Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "0c3eeeae-1c77-4446-80da-8ed7901b3662"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:50:46.684Z",
+    "modified_at": "2022-11-04T12:50:47.071Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf744fba0d2f490be91e695d16b0d62c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4088572,
+      "gain": -2.19,
+      "duration": 255,
+      "loudnorm": "-14.94,-0.01,2.50,-25.05,-0.30",
+      "filename": "processed_91b74c104825b1dd0609a27c15066727.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

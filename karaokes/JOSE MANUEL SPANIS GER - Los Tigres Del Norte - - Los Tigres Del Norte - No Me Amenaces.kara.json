@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - No Me Amenaces.mp3",
+      "loudnorm": "-9.94,1.26,3.80,-20.05,0.23",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - No Me Amenaces.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "737beb8e-39c5-4497-a1f0-2ebbb8e7a6b5",
+    "title": "Los Tigres Del Norte - No Me Amenaces",
+    "titles": {
+      "spa": "Los Tigres Del Norte - No Me Amenaces"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:38:25.411Z",
+    "modified_at": "2022-11-04T05:38:25.790Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7ca19f7ecea93951fb4631aeb9fdf344.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3664291,
+      "gain": -8.06,
+      "duration": 152,
+      "loudnorm": "-9.94,1.26,3.80,-20.05,0.23",
+      "filename": "processed_a01a2d6ec0f91716e8800d2c2ef66fcd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

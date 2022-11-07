@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - A Escondidas.mp3",
+      "loudnorm": "-8.86,1.17,4.50,-19.02,-0.32",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Maricela - A Escondidas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bc49b932-673a-467e-81a2-51f5198f7a3a",
+    "title": "Maricela - A Escondidas",
+    "titles": {
+      "spa": "Maricela - A Escondidas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:58:11.229Z",
+    "modified_at": "2022-11-04T06:58:11.609Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5dbb741545b13a024666a584e328c252.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3258984,
+      "gain": -8.65,
+      "duration": 203,
+      "loudnorm": "-8.86,1.17,4.50,-19.02,-0.32",
+      "filename": "processed_22ecb53b4d37f3ee30981f30e2a74485.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchi & Alexandra - Perdidos.mp3",
+      "loudnorm": "-19.56,-1.53,2.80,-29.59,0.01",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MONCHY Y ALEXANDRA - - Monchi & Alexandra - Perdidos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34591cde-dc96-402f-949d-e87b390744b1",
+    "title": "Monchi & Alexandra - Perdidos",
+    "titles": {
+      "spa": "Monchi & Alexandra - Perdidos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:31:58.803Z",
+    "modified_at": "2022-11-04T07:31:59.180Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_789e909ef16983774da3fb10b9bf1f4d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6465923,
+      "gain": 0.73,
+      "duration": 269,
+      "loudnorm": "-19.56,-1.53,2.80,-29.59,0.01",
+      "filename": "processed_5acdda8fb5f57904202f325c8f52aa59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

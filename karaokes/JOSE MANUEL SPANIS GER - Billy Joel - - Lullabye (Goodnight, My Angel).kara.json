@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Billy Joel - - Lullabye (Goodnight, My Angel).MP3",
+      "loudnorm": "-13.69,0.80,10.90,-24.30,-1.82",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Billy Joel - - Lullabye (Goodnight, My Angel).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d01f467d-5619-46af-aa4a-a9999823eef8",
+    "title": "Lullabye (Goodnight, My Angel)",
+    "titles": {
+      "spa": "Lullabye (Goodnight, My Angel)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "71041fad-7983-427b-8bb0-e3340728a857"
+      ],
+      "singers": [
+        "86768663-73b7-4abf-aaf6-17bab636a302"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:22:21.583Z",
+    "modified_at": "2022-11-04T11:22:22.013Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3426108,
+      "gain": -5.9,
+      "duration": 214,
+      "loudnorm": "-13.69,0.80,10.90,-24.30,-1.82",
+      "filename": "processed_c93d84ef4419daa31ac80d3857edb0d6.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3426108,
+      "gain": -5.9,
+      "duration": 214,
+      "loudnorm": "-13.69,0.80,10.90,-24.30,-1.82",
+      "filename": "processed_e11c91f90ad1cde0f092887a9567107b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

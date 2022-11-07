@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Pero me faltas tu.mp3",
+      "loudnorm": "-9.59,6.70,3.90,-19.61,-0.65",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-Pero me faltas tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 6447948,
+      "audiogain": -11.04
+    }
+  ],
+  "data": {
+    "kid": "bdf3d26b-866f-47dd-8b3d-1039ebc6b61c",
+    "title": "Alex Bueno-Pero me faltas tu",
+    "titles": {
+      "spa": "Alex Bueno-Pero me faltas tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:54:09.286Z",
+    "modified_at": "2022-11-04T20:24:57.950Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea0ccd11463cd09d244f8dbadb56cd7c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6447948,
+      "gain": -11.04,
+      "duration": 268,
+      "loudnorm": "-9.59,6.70,3.90,-19.61,-0.65",
+      "filename": "processed_3f054f9c109b23735eb17ec44de72437.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

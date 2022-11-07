@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - FERNANDO VILLALONA - el gusto.MP3",
+      "loudnorm": "-17.64,-0.46,3.80,-27.68,0.13",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - FERNANDO VILLALONA - el gusto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8b886e1b-7c00-47c5-8ebb-9a3f9dcd9457",
+    "title": "FERNANDO VILLALONA - el gusto",
+    "titles": {
+      "spa": "FERNANDO VILLALONA - el gusto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:13:21.285Z",
+    "modified_at": "2022-11-04T10:13:21.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4921344,
+      "gain": 0.16,
+      "duration": 305,
+      "loudnorm": "-17.64,-0.46,3.80,-27.68,0.13",
+      "filename": "processed_5f7e91024c06a6306eb92e0a7177915d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4921344,
+      "gain": 0.16,
+      "duration": 305,
+      "loudnorm": "-17.64,-0.46,3.80,-27.68,0.13",
+      "filename": "processed_c1969a5e756594d61458d6c80e5559ae.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARI TRINI - - TE AMARE TE AMO Y TE QUERE BY MAI TRINI.MP3",
+      "loudnorm": "-8.82,1.85,3.80,-19.01,-0.96",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARI TRINI - - TE AMARE TE AMO Y TE QUERE BY MAI TRINI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5988f2db-f458-4d76-84c9-6200a1b50a31",
+    "title": "TE AMARE TE AMO Y TE QUERE BY MAI TRINI",
+    "titles": {
+      "spa": "TE AMARE TE AMO Y TE QUERE BY MAI TRINI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3fb3271a-4993-4efb-bce3-1f1b90d16517"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:54:37.045Z",
+    "modified_at": "2022-11-04T06:54:37.666Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4885911,
+      "gain": -8.54,
+      "duration": 305,
+      "loudnorm": "-8.82,1.85,3.80,-19.01,-0.96",
+      "filename": "processed_c995ccc6c7f1df6fa9079ef36f260519.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4885911,
+      "gain": -8.54,
+      "duration": 305,
+      "loudnorm": "-8.82,1.85,3.80,-19.01,-0.96",
+      "filename": "processed_c41c52b005a93bbca445812f21f3ff3b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

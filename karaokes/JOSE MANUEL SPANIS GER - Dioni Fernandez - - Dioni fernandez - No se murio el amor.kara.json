@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni fernandez - No se murio el amor.mp3",
+      "loudnorm": "-4.93,4.99,4.30,-15.01,-1.47",
+      "duration": 374,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Dioni Fernandez - - Dioni fernandez - No se murio el amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eadcaca0-1171-46d1-a7af-e6fb74aec7ba",
+    "title": "Dioni fernandez - No se murio el amor",
+    "titles": {
+      "spa": "Dioni fernandez - No se murio el amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "cc87d3a2-7520-46c6-a3d2-f8942dc2b84c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:25:21.111Z",
+    "modified_at": "2022-11-04T09:25:21.502Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f6e900bc285129aae61fa5ba35a3a889.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6001071,
+      "gain": -13.78,
+      "duration": 374,
+      "loudnorm": "-4.93,4.99,4.30,-15.01,-1.47",
+      "filename": "processed_1e8bada7778c1de42cc786a0d4fe7d70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

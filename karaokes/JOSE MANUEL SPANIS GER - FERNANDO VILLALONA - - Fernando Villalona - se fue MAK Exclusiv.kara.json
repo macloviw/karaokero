@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - se fue MAK Exclusiv.mp3",
+      "loudnorm": "-17.14,-3.69,2.30,-27.19,-0.49",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FERNANDO VILLALONA - - Fernando Villalona - se fue MAK Exclusiv.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ac4252e-b31d-4e40-81b9-2ea99e5e72b9",
+    "title": "Fernando Villalona - se fue MAK Exclusiv",
+    "titles": {
+      "spa": "Fernando Villalona - se fue MAK Exclusiv"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "a8a1aebf-023f-4dbd-bf3a-5ae5bd3a523f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:14:56.537Z",
+    "modified_at": "2022-11-04T10:14:56.913Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a36b68efb1a0f1cd7a8d0fb73b4e5917.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5979420,
+      "gain": -1.72,
+      "duration": 249,
+      "loudnorm": "-17.14,-3.69,2.30,-27.19,-0.49",
+      "filename": "processed_b2e713355ad902a4e6f647f33f53e46c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANK REYES - - Rey Reyes - El Son De Borojol ( Smith Karaoke ).mp3",
+      "loudnorm": "-14.22,-0.35,1.70,-24.27,-0.23",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANK REYES - - Rey Reyes - El Son De Borojol ( Smith Karaoke ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3bd7c85e-3d4f-4b4a-9a80-d79283f49b2f",
+    "title": "Rey Reyes - El Son De Borojol ( Smith Karaoke )",
+    "titles": {
+      "spa": "Rey Reyes - El Son De Borojol ( Smith Karaoke )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "9dd00ba8-aaa6-4042-9f0a-00f9494939e9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:22:09.869Z",
+    "modified_at": "2022-11-04T08:22:10.249Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f040c8edb9bbff444ca91b1015ef4671.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8114145,
+      "gain": -4.24,
+      "duration": 337,
+      "loudnorm": "-14.22,-0.35,1.70,-24.27,-0.23",
+      "filename": "processed_1476bc8495bde1a40dfae74d68bf8e1e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

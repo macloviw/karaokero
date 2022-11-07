@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - 03- Dame una oportunidad.mp3",
+      "loudnorm": "-11.17,1.60,2.20,-21.18,-0.82",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOSEPH FONSECA - - 03- Dame una oportunidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6beef61b-4988-4944-af7a-9f3b12fe271d",
+    "title": "03- Dame una oportunidad",
+    "titles": {
+      "spa": "03- Dame una oportunidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "12d5f28c-71a2-49f8-b923-c7e118afb766"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:29:19.337Z",
+    "modified_at": "2022-11-04T10:29:19.725Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3655945510fc993e70b1727d030bc46a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4456325,
+      "gain": -6.62,
+      "duration": 278,
+      "loudnorm": "-11.17,1.60,2.20,-21.18,-0.82",
+      "filename": "processed_9a0b732f671df8de637d20cd8ca804d2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

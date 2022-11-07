@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - BENNY SADEL - OTRO OCUPA MI LUGAR.mp3",
+      "loudnorm": "-14.36,1.14,4.20,-24.37,-1.01",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Benny Sadel - - BENNY SADEL - OTRO OCUPA MI LUGAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 6027068,
+      "audiogain": -5.28
+    }
+  ],
+  "data": {
+    "kid": "02d697d6-3f77-45b2-b03f-b865d1e0a550",
+    "title": "BENNY SADEL - OTRO OCUPA MI LUGAR",
+    "titles": {
+      "spa": "BENNY SADEL - OTRO OCUPA MI LUGAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "f6d6d932-304e-4407-9f25-1ca118778e25"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:14:20.011Z",
+    "modified_at": "2022-11-04T20:34:51.737Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57e747b3f53b4fa9092e99515450f55c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6027068,
+      "gain": -5.28,
+      "duration": 251,
+      "loudnorm": "-14.36,1.14,4.20,-24.37,-1.01",
+      "filename": "processed_284e1288b93a4c73d357415c7e869be0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

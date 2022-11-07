@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - BESOS CALLEJEROS_New1.mp3",
+      "loudnorm": "-17.93,0.33,1.60,-28.02,-0.19",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - BESOS CALLEJEROS_New1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3235435,
+      "audiogain": -0.24
+    }
+  ],
+  "data": {
+    "kid": "14c3df9f-539f-4405-ad5e-2f86ca7fb66e",
+    "title": "BESOS CALLEJEROS_New1",
+    "titles": {
+      "spa": "BESOS CALLEJEROS_New1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:27:18.274Z",
+    "modified_at": "2022-11-04T20:26:58.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_289097fec4de6007dea0878deaa70ac7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3235435,
+      "gain": -0.24,
+      "duration": 202,
+      "loudnorm": "-17.93,0.33,1.60,-28.02,-0.19",
+      "filename": "processed_abb5143ecf142607c647558c1f64a371.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

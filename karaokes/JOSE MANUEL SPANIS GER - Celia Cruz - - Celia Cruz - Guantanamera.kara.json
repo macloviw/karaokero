@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Guantanamera.MP3",
+      "loudnorm": "-12.92,0.98,3.90,-23.04,-1.04",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Celia Cruz - - Celia Cruz - Guantanamera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8a1c319-286a-419a-805f-34fbe0ec6a80",
+    "title": "Celia Cruz - Guantanamera",
+    "titles": {
+      "spa": "Celia Cruz - Guantanamera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "a50b1cfa-2dcc-44f8-854b-a8a5d62524e2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:52:34.112Z",
+    "modified_at": "2022-11-04T11:52:34.559Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3233792,
+      "gain": -5.32,
+      "duration": 202,
+      "loudnorm": "-12.92,0.98,3.90,-23.04,-1.04",
+      "filename": "processed_5bd44f49b01ca169c2ce75bae7ce0682.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3233792,
+      "gain": -5.32,
+      "duration": 202,
+      "loudnorm": "-12.92,0.98,3.90,-23.04,-1.04",
+      "filename": "processed_512fd9d2e57f0376d8b5bb8bc4e50f38.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

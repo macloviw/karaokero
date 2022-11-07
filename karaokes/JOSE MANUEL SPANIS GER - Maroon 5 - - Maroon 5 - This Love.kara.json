@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Maroon 5 - - Maroon 5 - This Love.mp3",
+      "loudnorm": "-8.43,4.25,3.00,-18.63,-1.04",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Maroon 5 - - Maroon 5 - This Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "515aa77e-007a-4dbe-997c-fc29cc424f4d",
+    "title": "Maroon 5 - This Love",
+    "titles": {
+      "spa": "Maroon 5 - This Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d9975063-a96d-414f-bbcc-9c338f2c3705"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:02:54.634Z",
+    "modified_at": "2022-11-04T07:02:55.020Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ceced74fabd102c587f39717e4b2653d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3495071,
+      "gain": -8.72,
+      "duration": 218,
+      "loudnorm": "-8.43,4.25,3.00,-18.63,-1.04",
+      "filename": "processed_81daa0a0999ed3e564036361e9feeb07.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

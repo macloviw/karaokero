@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - GEOVANNY POLANCO - HISTORIA DE UN GRAN AMOR.mp3",
+      "loudnorm": "-14.86,0.68,2.30,-24.92,-0.26",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - GEOVANNY POLANCO - HISTORIA DE UN GRAN AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7049dff-64e9-487c-aec4-37f83bb87215",
+    "title": "GEOVANNY POLANCO - HISTORIA DE UN GRAN AMOR",
+    "titles": {
+      "spa": "GEOVANNY POLANCO - HISTORIA DE UN GRAN AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:24:54.017Z",
+    "modified_at": "2022-11-04T04:24:54.396Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7709b6fff4e6623736da67f682bee03e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4171978,
+      "gain": -2.83,
+      "duration": 260,
+      "loudnorm": "-14.86,0.68,2.30,-24.92,-0.26",
+      "filename": "processed_db3d2531c7e3947ec84e972d5fb34f51.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

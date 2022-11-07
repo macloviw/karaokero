@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Daniela Lujan - El Diario De Daniela.mp3",
+      "loudnorm": "-15.62,0.21,8.90,-25.78,-1.47",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Daniela Lujan - El Diario De Daniela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c1419f36-5e94-4913-aa6a-a6f8cbaa4bc3",
+    "title": "(Infatiles) Daniela Lujan - El Diario De Daniela",
+    "titles": {
+      "spa": "(Infatiles) Daniela Lujan - El Diario De Daniela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:21:54.308Z",
+    "modified_at": "2022-11-04T04:21:54.697Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b430abc75ddb83698b1350bdbe53d707.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3730892,
+      "gain": -2.06,
+      "duration": 233,
+      "loudnorm": "-15.62,0.21,8.90,-25.78,-1.47",
+      "filename": "processed_2be6b2781171a0ea134a185ff8ceeebc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

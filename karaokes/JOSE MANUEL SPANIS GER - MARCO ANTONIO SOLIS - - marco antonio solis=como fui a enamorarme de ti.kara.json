@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - marco antonio solis=como fui a enamorarme de ti.mp3",
+      "loudnorm": "-12.76,2.85,5.90,-22.87,-0.67",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - marco antonio solis=como fui a enamorarme de ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "969d0766-fe5c-4270-b47d-aedcf58bde6f",
+    "title": "marco antonio solis=como fui a enamorarme de ti",
+    "titles": {
+      "spa": "marco antonio solis=como fui a enamorarme de ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:53:10.091Z",
+    "modified_at": "2022-11-04T06:53:10.465Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bd7a65e09899211398bb256e6e0ad222.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4062113,
+      "gain": -4.67,
+      "duration": 253,
+      "loudnorm": "-12.76,2.85,5.90,-22.87,-0.67",
+      "filename": "processed_2dfc9324320d5cc09d5107108e78fa62.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

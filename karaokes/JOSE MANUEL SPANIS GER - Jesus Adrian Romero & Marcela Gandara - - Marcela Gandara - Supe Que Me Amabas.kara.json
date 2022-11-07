@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Supe Que Me Amabas.mp3",
+      "loudnorm": "-11.08,3.66,5.50,-21.29,-0.43",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Supe Que Me Amabas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3ad51f10-9663-4f25-8959-602d7f74eff1",
+    "title": "Marcela Gandara - Supe Que Me Amabas",
+    "titles": {
+      "spa": "Marcela Gandara - Supe Que Me Amabas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2e6a7d8b-ffdd-402e-b831-7e84316f26e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:46:20.481Z",
+    "modified_at": "2022-11-04T06:46:20.909Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aee42463680fedebd629aceeb2376570.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4812061,
+      "gain": -6.18,
+      "duration": 300,
+      "loudnorm": "-11.08,3.66,5.50,-21.29,-0.43",
+      "filename": "processed_962136997ecd75993b4620e099c962d4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

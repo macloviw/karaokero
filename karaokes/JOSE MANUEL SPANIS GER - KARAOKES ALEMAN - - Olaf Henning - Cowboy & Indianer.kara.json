@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKES ALEMAN - - Olaf Henning - Cowboy & Indianer.mp3",
+      "loudnorm": "-11.97,0.65,5.00,-22.01,-0.79",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKES ALEMAN - - Olaf Henning - Cowboy & Indianer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7dc5421-21cc-44e9-a779-a24d3ae89401",
+    "title": "Olaf Henning - Cowboy & Indianer",
+    "titles": {
+      "spa": "Olaf Henning - Cowboy & Indianer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "cab1a90b-b76a-426b-b9b5-2eb373ca793c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:27:33.190Z",
+    "modified_at": "2022-11-04T04:27:33.587Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce9dc4a2e85004f1bc2fb3e60a8d2423.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5667203,
+      "gain": -5.27,
+      "duration": 236,
+      "loudnorm": "-11.97,0.65,5.00,-22.01,-0.79",
+      "filename": "processed_f36f3fc382b9758bad01778d44eee389.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

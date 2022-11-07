@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - Amame En Camara Lenta-Cano Estremera(TZ).mp3",
+      "loudnorm": "-14.24,0.33,4.00,-24.28,-0.39",
+      "duration": 370,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CANO EXTREMERA - - Amame En Camara Lenta-Cano Estremera(TZ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "292aabb4-792f-42f4-aa71-09f2e0bc8dc5",
+    "title": "Amame En Camara Lenta-Cano Estremera(TZ)",
+    "titles": {
+      "spa": "Amame En Camara Lenta-Cano Estremera(TZ)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "c7a3003c-08ee-4826-a486-91ef68613a22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:50:37.483Z",
+    "modified_at": "2022-11-04T11:50:37.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4f530567ddaa92791c912d54e93735c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8890924,
+      "gain": -4.2,
+      "duration": 370,
+      "loudnorm": "-14.24,0.33,4.00,-24.28,-0.39",
+      "filename": "processed_4dcbfe7ced709415ec8ba3530c7f8452.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

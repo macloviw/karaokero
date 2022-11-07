@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUCHO GATICA - - LUCHO GATICA - EL RELOJ.MP3",
+      "loudnorm": "-13.22,-0.01,2.00,-23.28,-1.07",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUCHO GATICA - - LUCHO GATICA - EL RELOJ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d0ec9dd-daf8-4c43-9b50-81cb5cf1eb00",
+    "title": "LUCHO GATICA   -   EL RELOJ",
+    "titles": {
+      "spa": "LUCHO GATICA   -   EL RELOJ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "44020162-f6ad-4848-ac45-77effaebeb06"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:47:26.248Z",
+    "modified_at": "2022-11-04T05:47:26.775Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2735511,
+      "gain": -3.73,
+      "duration": 170,
+      "loudnorm": "-13.22,-0.01,2.00,-23.28,-1.07",
+      "filename": "processed_24f94a732fd7b334d46e2e0a27cca512.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2735511,
+      "gain": -3.73,
+      "duration": 170,
+      "loudnorm": "-13.22,-0.01,2.00,-23.28,-1.07",
+      "filename": "processed_788dda6ea5e031aeb25f1cc3fb4f0bd2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

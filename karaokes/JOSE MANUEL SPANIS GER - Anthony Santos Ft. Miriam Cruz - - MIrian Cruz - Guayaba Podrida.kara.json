@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - MIrian Cruz - Guayaba Podrida.mp3",
+      "loudnorm": "-12.14,0.90,2.80,-22.26,-0.59",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - MIrian Cruz - Guayaba Podrida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4634059,
+      "audiogain": -6.83
+    }
+  ],
+  "data": {
+    "kid": "d5d833c7-1ece-4b4b-81be-6fd9b8381d64",
+    "title": "MIrian Cruz - Guayaba Podrida",
+    "titles": {
+      "spa": "MIrian Cruz - Guayaba Podrida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:29:54.931Z",
+    "modified_at": "2022-11-04T20:28:11.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_59059100484245b0905537fa0dffa0f9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4634059,
+      "gain": -6.83,
+      "duration": 280,
+      "loudnorm": "-12.14,0.90,2.80,-22.26,-0.59",
+      "filename": "processed_31c804b94b70116edf1ac5e459ea8382.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

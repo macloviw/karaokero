@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juli - - Juli - Geile Zeit.mp3",
+      "loudnorm": "-17.62,-5.27,2.80,-27.75,-0.62",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juli - - Juli - Geile Zeit.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c39b6fe4-9895-40b0-9d3a-7253e219e677",
+    "title": "Juli - Geile Zeit",
+    "titles": {
+      "spa": "Juli - Geile Zeit"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "a4be6a9b-c97b-47ed-8beb-4b52efb11503"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:05:02.984Z",
+    "modified_at": "2022-11-04T04:05:03.368Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_369cc7c8c0f759b8b364337f7729c2e5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5316608,
+      "gain": 1.04,
+      "duration": 221,
+      "loudnorm": "-17.62,-5.27,2.80,-27.75,-0.62",
+      "filename": "processed_e156d3b46bb1708eb212aca83ed9178e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

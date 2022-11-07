@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Las Chicas Del Can - Quisiera detener.mp3",
+      "loudnorm": "-15.65,0.56,3.90,-25.91,-0.18",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Anthony Santos Ft. Miriam Cruz - - Las Chicas Del Can - Quisiera detener.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5736795,
+      "audiogain": -3.88
+    }
+  ],
+  "data": {
+    "kid": "b4780de5-b40f-4c41-8446-54be899744aa",
+    "title": "Las Chicas Del Can - Quisiera detener",
+    "titles": {
+      "spa": "Las Chicas Del Can - Quisiera detener"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d0bce75f-3b84-4135-b83f-1006e88b4198"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:27:37.578Z",
+    "modified_at": "2022-11-04T20:27:27.672Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_375e5731c08f9611ebc38777c19e88a5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5736795,
+      "gain": -3.88,
+      "duration": 238,
+      "loudnorm": "-15.65,0.56,3.90,-25.91,-0.18",
+      "filename": "processed_0f9f13d32d18dd3dfc77ebe1a3070334.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

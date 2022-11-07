@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Te Conozco Bien.MP3",
+      "loudnorm": "-15.34,0.27,8.70,-25.52,-1.92",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Te Conozco Bien.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe1e6911-b081-423b-92e6-a798a56473c1",
+    "title": "Marc Anthony - Te Conozco Bien",
+    "titles": {
+      "spa": "Marc Anthony - Te Conozco Bien"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:36:41.164Z",
+    "modified_at": "2022-11-04T06:36:42.089Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 11130880,
+      "gain": -5.29,
+      "duration": 278,
+      "loudnorm": "-15.34,0.27,8.70,-25.52,-1.92",
+      "filename": "processed_3bb22714aab49494bc1cee2ceea40724.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11130880,
+      "gain": -5.29,
+      "duration": 278,
+      "loudnorm": "-15.34,0.27,8.70,-25.52,-1.92",
+      "filename": "processed_2b9912d8156f865f561128b9dbebac9c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

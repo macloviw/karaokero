@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-09 - Marc Anthony - Aquien Quiero Mentirle.mp3",
+      "loudnorm": "-12.31,0.48,17.80,-23.09,-1.54",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-09 - Marc Anthony - Aquien Quiero Mentirle.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec20d49e-cff6-4edc-ad58-7e98eddf859f",
+    "title": "OKE0386-09 - Marc Anthony - Aquien Quiero Mentirle",
+    "titles": {
+      "spa": "OKE0386-09 - Marc Anthony - Aquien Quiero Mentirle"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:44:38.785Z",
+    "modified_at": "2022-11-04T06:44:39.205Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5b23f3550e2d7354ad46ce1f305c2861.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10094961,
+      "gain": -5.14,
+      "duration": 252,
+      "loudnorm": "-12.31,0.48,17.80,-23.09,-1.54",
+      "filename": "processed_6b5856eb7d8c2a215692b7228682db42.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - Caribe Soy.MP3",
+      "loudnorm": "-13.80,1.42,3.20,-23.84,-0.81",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - Caribe Soy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "abd481d8-2f6a-4481-82f5-170375461670",
+    "title": "Leo Marini - Caribe Soy",
+    "titles": {
+      "spa": "Leo Marini - Caribe Soy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2d725f06-a83c-49dd-a5ec-ec5256056c0e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:14:28.575Z",
+    "modified_at": "2022-11-04T05:14:29.022Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2884015,
+      "gain": -4.63,
+      "duration": 180,
+      "loudnorm": "-13.80,1.42,3.20,-23.84,-0.81",
+      "filename": "processed_c9b9878fcc3ecf4cd9683ef4fcc8f1f0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2884015,
+      "gain": -4.63,
+      "duration": 180,
+      "loudnorm": "-13.80,1.42,3.20,-23.84,-0.81",
+      "filename": "processed_2a643374d120fe9ce96fd67acf1fdd13.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KRISPY - - Krispy - El amor no tiene logica - Karaoke.mp3",
+      "loudnorm": "-14.02,1.00,1.40,-24.08,-0.35",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KRISPY - - Krispy - El amor no tiene logica - Karaoke.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "817d4b3e-44cd-4859-a107-bdac5f90d57d",
+    "title": "Krispy - El amor no tiene logica - Karaoke",
+    "titles": {
+      "spa": "Krispy - El amor no tiene logica - Karaoke"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "39091d71-7748-4e67-82ca-f24e0d95a9d6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:31:10.238Z",
+    "modified_at": "2022-11-04T04:31:10.640Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18cc1b87d714ea50e23793b70de61654.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4440077,
+      "gain": -4.03,
+      "duration": 277,
+      "loudnorm": "-14.02,1.00,1.40,-24.08,-0.35",
+      "filename": "processed_ea0477731a170ecc0721380180b55c07.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

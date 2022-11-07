@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA GRAN MANZANA - - La Gran Manzana - La carta final - LP.mp3",
+      "loudnorm": "-14.03,1.03,2.60,-24.07,-0.56",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA GRAN MANZANA - - La Gran Manzana - La carta final - LP.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8cb45626-c7ad-40b3-b366-afb4f3acacff",
+    "title": "La Gran Manzana - La carta final - LP",
+    "titles": {
+      "spa": "La Gran Manzana - La carta final - LP"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e5859e4c-49d0-4aa2-a794-68595da627ac"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:44:39.660Z",
+    "modified_at": "2022-11-04T04:44:40.045Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d66d449022a3029c1b5be6ffb45e31bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4692941,
+      "gain": -5.19,
+      "duration": 293,
+      "loudnorm": "-14.03,1.03,2.60,-24.07,-0.56",
+      "filename": "processed_e1a62c325bb00b14ca82da25caffa81e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

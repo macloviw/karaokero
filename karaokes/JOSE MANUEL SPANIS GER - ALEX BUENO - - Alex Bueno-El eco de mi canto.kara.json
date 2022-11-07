@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-El eco de mi canto.mp3",
+      "loudnorm": "-8.13,4.59,5.20,-18.15,0.31",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ALEX BUENO - - Alex Bueno-El eco de mi canto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3389952,
+      "audiogain": -10.44
+    }
+  ],
+  "data": {
+    "kid": "ffbb7c97-2479-4688-a6ca-2cad726086ee",
+    "title": "Alex Bueno-El eco de mi canto",
+    "titles": {
+      "spa": "Alex Bueno-El eco de mi canto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9ab70ba8-3bf4-4fb6-bf95-02168b9dabf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:52:51.400Z",
+    "modified_at": "2022-11-04T20:24:08.406Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5b1aed057ffba4c4465ba293bd30f9fd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3389952,
+      "gain": -10.44,
+      "duration": 211,
+      "loudnorm": "-8.13,4.59,5.20,-18.15,0.31",
+      "filename": "processed_36c59889d2f4d007b5f41356a7abd8d6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

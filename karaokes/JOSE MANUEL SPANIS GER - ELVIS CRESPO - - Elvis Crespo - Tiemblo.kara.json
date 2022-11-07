@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Tiemblo.mp3",
+      "loudnorm": "-18.28,-1.40,2.70,-28.29,-0.45",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Tiemblo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "59d76909-89ba-41ca-a554-6a429658a150",
+    "title": "Elvis Crespo - Tiemblo",
+    "titles": {
+      "spa": "Elvis Crespo - Tiemblo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:39:50.932Z",
+    "modified_at": "2022-11-04T09:39:51.322Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d7ef25e2c9304ea9afc227745c2eaff0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4735436,
+      "gain": 0.63,
+      "duration": 295,
+      "loudnorm": "-18.28,-1.40,2.70,-28.29,-0.45",
+      "filename": "processed_a5d8cf51e192add98ec37e4824b8dc31.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

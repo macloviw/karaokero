@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTHONY -MUY DENTRO DE MI.mp3",
+      "loudnorm": "-13.06,-0.11,3.10,-23.11,-0.74",
+      "duration": 373,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - MARC ANTHONY -MUY DENTRO DE MI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24131c09-00af-411c-a1c1-ea3d25332ffe",
+    "title": "MARC ANTHONY -MUY DENTRO DE MI",
+    "titles": {
+      "spa": "MARC ANTHONY -MUY DENTRO DE MI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:38:26.394Z",
+    "modified_at": "2022-11-04T06:38:26.781Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b35fb4b4933cf3bd247f7b45dbb37a82.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10451877,
+      "gain": -4.7,
+      "duration": 373,
+      "loudnorm": "-13.06,-0.11,3.10,-23.11,-0.74",
+      "filename": "processed_e5d4ecfd9963697d01739c28c1e35161.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

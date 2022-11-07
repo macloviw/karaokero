@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Magneto - - 04 Corazon Perfecto.mp3",
+      "loudnorm": "-12.39,0.86,8.40,-22.53,-1.78",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Magneto - - 04 Corazon Perfecto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc8a8cb5-59fe-48bf-aee0-5ff070de5e0a",
+    "title": "04 Corazon Perfecto",
+    "titles": {
+      "spa": "04 Corazon Perfecto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c967ec63-0a2c-4a00-8931-b4d1fa008cdc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:09:21.709Z",
+    "modified_at": "2022-11-04T06:09:22.087Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_16ce80822b355b6d6e08da4ef1024a6a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5000925,
+      "gain": -4.57,
+      "duration": 208,
+      "loudnorm": "-12.39,0.86,8.40,-22.53,-1.78",
+      "filename": "processed_2f2ef7d2cc7ab75920afc820b081349d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

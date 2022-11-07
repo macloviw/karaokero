@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Me Gusta.mp3",
+      "loudnorm": "-9.43,1.32,4.10,-19.45,-1.08",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - Elvis Crespo - Me Gusta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1403e7c-9cf7-4fc5-a1ac-9950f79094e3",
+    "title": "Elvis Crespo - Me Gusta",
+    "titles": {
+      "spa": "Elvis Crespo - Me Gusta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:06:35.097Z",
+    "modified_at": "2022-11-04T10:06:35.483Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9eb925c93bcc01fd0a09c0b725600a03.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6343670,
+      "gain": -9.56,
+      "duration": 264,
+      "loudnorm": "-9.43,1.32,4.10,-19.45,-1.08",
+      "filename": "processed_14c4aa86bdd34d9c14964d9a5e6d66ed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

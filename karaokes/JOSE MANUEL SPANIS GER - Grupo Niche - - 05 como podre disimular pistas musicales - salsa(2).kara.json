@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - 05 como podre disimular pistas musicales - salsa(2).mp3",
+      "loudnorm": "-9.87,1.54,3.70,-19.93,-0.79",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Grupo Niche - - 05 como podre disimular pistas musicales - salsa(2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06d89bce-d39f-4501-929c-9124793a3017",
+    "title": "05 como podre disimular pistas musicales - salsa(2)",
+    "titles": {
+      "spa": "05 como podre disimular pistas musicales - salsa(2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "774c5b49-c473-452a-bba1-d141f3877b4a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:54:03.259Z",
+    "modified_at": "2022-11-04T12:54:03.643Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_36254764dceda6e3e38638a08c4ba8fe.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4442112,
+      "gain": -9.28,
+      "duration": 277,
+      "loudnorm": "-9.87,1.54,3.70,-19.93,-0.79",
+      "filename": "processed_59acc92fe9a1644647db53e6b585a53f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

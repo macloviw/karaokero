@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - Chiquita Bonita.mp3",
+      "loudnorm": "-15.27,-1.08,3.60,-25.40,0.13",
+      "duration": 142,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - Chiquita Bonita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2274723,
+      "audiogain": -3.03
+    }
+  ],
+  "data": {
+    "kid": "45e8d533-9500-4d0d-b0b7-32ddb88e5bda",
+    "title": "Banda Machos - Chiquita Bonita",
+    "titles": {
+      "spa": "Banda Machos - Chiquita Bonita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:28:02.687Z",
+    "modified_at": "2022-11-04T20:32:47.758Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_12b65f8f68b1e956d16247f14cd0c2f7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2274723,
+      "gain": -3.03,
+      "duration": 142,
+      "loudnorm": "-15.27,-1.08,3.60,-25.40,0.13",
+      "filename": "processed_84c8e41012ac113ae4f42470a630c5ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

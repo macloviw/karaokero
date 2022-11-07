@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GUISSELL MERENGUES - - perdoname olvidalo - sergio vargas.mp3",
+      "loudnorm": "-16.65,-1.32,3.30,-26.75,-0.56",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GUISSELL MERENGUES - - perdoname olvidalo - sergio vargas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d40f9ba0-fc1c-43d5-8bda-0f1acf7c35ab",
+    "title": "perdoname olvidalo - sergio vargas",
+    "titles": {
+      "spa": "perdoname olvidalo - sergio vargas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:49:29.694Z",
+    "modified_at": "2022-11-04T09:49:30.110Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1b3364b52c354cce1485ba022e0a57e0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7406332,
+      "gain": -3.03,
+      "duration": 308,
+      "loudnorm": "-16.65,-1.32,3.30,-26.75,-0.56",
+      "filename": "processed_aa33980feb32f718645a75af27b18402.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

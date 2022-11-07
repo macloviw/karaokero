@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - Gilberto Santa Rosa - Si Te Dijeron.MP3",
+      "loudnorm": "-12.68,4.70,4.60,-22.77,-0.75",
+      "duration": 295,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - Gilberto Santa Rosa - Si Te Dijeron.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "157c4a68-04b1-4932-ac30-f11c80c19fa0",
+    "title": "Gilberto Santa Rosa - Si Te Dijeron",
+    "titles": {
+      "spa": "Gilberto Santa Rosa - Si Te Dijeron"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:29:49.536Z",
+    "modified_at": "2022-11-04T12:29:50.107Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4734976,
+      "gain": -5.54,
+      "duration": 295,
+      "loudnorm": "-12.68,4.70,4.60,-22.77,-0.75",
+      "filename": "processed_7024f3ed1e038cbd4006d2104d6a15bc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4734976,
+      "gain": -5.54,
+      "duration": 295,
+      "loudnorm": "-12.68,4.70,4.60,-22.77,-0.75",
+      "filename": "processed_7f2c0dc8c251acf8e0a11e9d8d2c2c25.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Kiko Rodriguez - - Kiko Rodriguez - Quede Solo En La Pobreza.mp3",
+      "loudnorm": "-8.82,5.87,2.70,-18.88,-0.89",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Kiko Rodriguez - - Kiko Rodriguez - Quede Solo En La Pobreza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f651cf0-d803-4a87-8392-28e3632957ee",
+    "title": "Kiko Rodriguez - Quede Solo En La Pobreza",
+    "titles": {
+      "spa": "Kiko Rodriguez - Quede Solo En La Pobreza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "03701aa3-0887-491e-be73-18e332104f9f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:29:24.726Z",
+    "modified_at": "2022-11-04T04:29:25.111Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a1fe8b43ee3dbfae3e2cb65393f0a43e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4529938,
+      "gain": -9.91,
+      "duration": 282,
+      "loudnorm": "-8.82,5.87,2.70,-18.88,-0.89",
+      "filename": "processed_0d86b1cc25fbe0578bf27c53bbfd174a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

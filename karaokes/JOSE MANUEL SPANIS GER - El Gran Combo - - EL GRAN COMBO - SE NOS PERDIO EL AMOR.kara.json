@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - SE NOS PERDIO EL AMOR.MP3",
+      "loudnorm": "-11.23,2.10,3.60,-21.28,-0.53",
+      "duration": 297,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - SE NOS PERDIO EL AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "91761eeb-d499-4cff-aeed-601e3693cee2",
+    "title": "EL GRAN COMBO   -   SE NOS PERDIO EL AMOR",
+    "titles": {
+      "spa": "EL GRAN COMBO   -   SE NOS PERDIO EL AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "92034f0d-c67a-43d9-8f46-9016f2ff6956"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:09:46.971Z",
+    "modified_at": "2022-11-04T12:09:47.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4769300,
+      "gain": -7.07,
+      "duration": 297,
+      "loudnorm": "-11.23,2.10,3.60,-21.28,-0.53",
+      "filename": "processed_0a69e3688c382a7f688ba50148330a69.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4769300,
+      "gain": -7.07,
+      "duration": 297,
+      "loudnorm": "-11.23,2.10,3.60,-21.28,-0.53",
+      "filename": "processed_d5434599d3ef83154945a839634e09ed.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

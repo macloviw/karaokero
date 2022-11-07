@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARI TRINI - - MARY TRINY-YO NO SOY ESA.mp3",
+      "loudnorm": "-10.12,1.33,2.00,-20.39,-1.18",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARI TRINI - - MARY TRINY-YO NO SOY ESA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "918ee9fa-2c84-488c-8ba3-4f70e366edad",
+    "title": "MARY TRINY-YO NO SOY ESA",
+    "titles": {
+      "spa": "MARY TRINY-YO NO SOY ESA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3fb3271a-4993-4efb-bce3-1f1b90d16517"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:54:12.128Z",
+    "modified_at": "2022-11-04T06:54:12.553Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bea6e04e3197b8ccb8f0ba708de88df9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2394874,
+      "gain": -6.76,
+      "duration": 170,
+      "loudnorm": "-10.12,1.33,2.00,-20.39,-1.18",
+      "filename": "processed_e2c04f0bd6bbf71259e813d50b054552.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

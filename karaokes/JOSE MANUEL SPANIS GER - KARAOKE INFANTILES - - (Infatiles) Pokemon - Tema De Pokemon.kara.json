@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Pokemon - Tema De Pokemon.mp3",
+      "loudnorm": "-13.50,0.65,6.00,-23.63,-1.16",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Pokemon - Tema De Pokemon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "36e449e5-db6f-4a15-9df2-3c73394bf661",
+    "title": "(Infatiles) Pokemon - Tema De Pokemon",
+    "titles": {
+      "spa": "(Infatiles) Pokemon - Tema De Pokemon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:53.964Z",
+    "modified_at": "2022-11-04T04:22:54.340Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42492e1a74e2a8dbf272acb925b73a53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3348236,
+      "gain": -4.14,
+      "duration": 209,
+      "loudnorm": "-13.50,0.65,6.00,-23.63,-1.16",
+      "filename": "processed_f622b712d9f30c4e6763b1015b4c246e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

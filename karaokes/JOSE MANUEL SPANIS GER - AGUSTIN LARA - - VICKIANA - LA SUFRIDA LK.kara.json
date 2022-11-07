@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - AGUSTIN LARA - - VICKIANA - LA SUFRIDA LK.mp3",
+      "loudnorm": "-17.92,-1.78,2.20,-27.96,-0.24",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - AGUSTIN LARA - - VICKIANA - LA SUFRIDA LK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 3164401,
+      "audiogain": -0.02
+    }
+  ],
+  "data": {
+    "kid": "f2369811-b175-42a6-918b-260534bf2bf4",
+    "title": "VICKIANA - LA SUFRIDA LK",
+    "titles": {
+      "spa": "VICKIANA - LA SUFRIDA LK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "19c2c9ca-0b4d-4159-a514-2ef213df5e5b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:35:23.128Z",
+    "modified_at": "2022-11-04T20:23:43.597Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f55f7d560395dc8a7e7ef2229bac7f16.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3164401,
+      "gain": -0.02,
+      "duration": 197,
+      "loudnorm": "-17.92,-1.78,2.20,-27.96,-0.24",
+      "filename": "processed_38a2d187a54956670bbbef836bfa0396.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

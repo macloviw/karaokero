@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - TU ERES.MP3",
+      "loudnorm": "-11.73,4.05,2.40,-21.79,-0.18",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - TU ERES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "041bc5df-2f30-4aee-a862-7d1694f66f31",
+    "title": "FRANKIE RUIZ   -   TU ERES",
+    "titles": {
+      "spa": "FRANKIE RUIZ   -   TU ERES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:20:04.850Z",
+    "modified_at": "2022-11-04T12:20:05.308Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4124807,
+      "gain": -8.53,
+      "duration": 257,
+      "loudnorm": "-11.73,4.05,2.40,-21.79,-0.18",
+      "filename": "processed_623301b77e52e8ea42c3fda068ab6667.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4124807,
+      "gain": -8.53,
+      "duration": 257,
+      "loudnorm": "-11.73,4.05,2.40,-21.79,-0.18",
+      "filename": "processed_44149e66758cad1277f3e731c3fe9628.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

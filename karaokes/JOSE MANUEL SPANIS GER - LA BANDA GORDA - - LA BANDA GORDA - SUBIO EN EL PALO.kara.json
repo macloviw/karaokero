@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - SUBIO EN EL PALO.mp3",
+      "loudnorm": "-13.89,1.06,2.30,-23.90,-0.17",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LA BANDA GORDA - - LA BANDA GORDA - SUBIO EN EL PALO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "faf369a3-5fed-4055-bb3c-bb3465e05b29",
+    "title": "LA BANDA GORDA - SUBIO EN EL PALO",
+    "titles": {
+      "spa": "LA BANDA GORDA - SUBIO EN EL PALO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f7b8ffdc-0081-4368-846b-08138926e7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:40:54.519Z",
+    "modified_at": "2022-11-04T04:40:54.901Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c9917403ca8b7ddcab1c403334d56fd0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5085416,
+      "gain": -4.16,
+      "duration": 317,
+      "loudnorm": "-13.89,1.06,2.30,-23.90,-0.17",
+      "filename": "processed_d9b071d6f53ac838c9b7f68f2712e038.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

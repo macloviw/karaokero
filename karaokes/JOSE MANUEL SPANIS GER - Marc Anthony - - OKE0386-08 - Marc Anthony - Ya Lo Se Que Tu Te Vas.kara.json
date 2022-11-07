@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-08 - Marc Anthony - Ya Lo Se Que Tu Te Vas.mp3",
+      "loudnorm": "-13.46,0.50,8.90,-23.63,-1.72",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - OKE0386-08 - Marc Anthony - Ya Lo Se Que Tu Te Vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8643db27-b112-43eb-afd7-2b427f693511",
+    "title": "OKE0386-08 - Marc Anthony - Ya Lo Se Que Tu Te Vas",
+    "titles": {
+      "spa": "OKE0386-08 - Marc Anthony - Ya Lo Se Que Tu Te Vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:44:27.491Z",
+    "modified_at": "2022-11-04T06:44:27.886Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_516ec1977efba1f7c292fa414c5281f1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 11710373,
+      "gain": -4.97,
+      "duration": 292,
+      "loudnorm": "-13.46,0.50,8.90,-23.63,-1.72",
+      "filename": "processed_d33153405cbbff01b1b3bd50e00fe8f0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

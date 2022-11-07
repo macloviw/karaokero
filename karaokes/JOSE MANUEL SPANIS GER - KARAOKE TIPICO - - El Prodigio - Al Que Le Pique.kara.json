@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - El Prodigio - Al Que Le Pique.mp3",
+      "loudnorm": "-12.14,0.14,3.10,-22.20,0.21",
+      "duration": 346,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE TIPICO - - El Prodigio - Al Que Le Pique.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adfbd334-14a6-4e9f-9d8a-28c26e64d979",
+    "title": "El Prodigio - Al Que Le Pique",
+    "titles": {
+      "spa": "El Prodigio - Al Que Le Pique"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "867289a3-335d-49ba-a05b-fb63d471ca77"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:24:29.981Z",
+    "modified_at": "2022-11-04T04:24:30.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f53655142a2f9fb1aded09b354a8da2f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5539968,
+      "gain": -7.51,
+      "duration": 346,
+      "loudnorm": "-12.14,0.14,3.10,-22.20,0.21",
+      "filename": "processed_d1b55adef739f37777cdf32ffbdbb086.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

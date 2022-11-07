@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - ELVIS CRESPO - WOW FLASH.MP3",
+      "loudnorm": "-13.93,-0.16,3.40,-24.03,-0.87",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ELVIS CRESPO - - ELVIS CRESPO - WOW FLASH.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6027f8e1-078b-47f9-a4bf-204fd916fd14",
+    "title": "ELVIS CRESPO   -   WOW FLASH",
+    "titles": {
+      "spa": "ELVIS CRESPO   -   WOW FLASH"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "336e12ca-2c62-49a9-bf16-dd8298a7294e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:38:20.128Z",
+    "modified_at": "2022-11-04T09:38:20.562Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3440608,
+      "gain": -4.04,
+      "duration": 214,
+      "loudnorm": "-13.93,-0.16,3.40,-24.03,-0.87",
+      "filename": "processed_7897b42e124b7a7b18117a672c96ade8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3440608,
+      "gain": -4.04,
+      "duration": 214,
+      "loudnorm": "-13.93,-0.16,3.40,-24.03,-0.87",
+      "filename": "processed_c6b049b1551ffd82414a1f51bc9fdb20.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

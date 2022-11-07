@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Tu Palabra.mp3",
+      "loudnorm": "-11.07,1.36,6.40,-21.28,-0.97",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jesus Adrian Romero & Marcela Gandara - - Marcela Gandara - Tu Palabra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e35a86fe-5e88-4121-89ba-49e5c5ec7c19",
+    "title": "Marcela Gandara - Tu Palabra",
+    "titles": {
+      "spa": "Marcela Gandara - Tu Palabra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2e6a7d8b-ffdd-402e-b831-7e84316f26e6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:46:32.537Z",
+    "modified_at": "2022-11-04T06:46:32.910Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8cefa26dbb892a73d0a33cb1dff878ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6477993,
+      "gain": -6.62,
+      "duration": 269,
+      "loudnorm": "-11.07,1.36,6.40,-21.28,-0.97",
+      "filename": "processed_84b4ebb03ec10d5b8d4b0b6e86342345.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

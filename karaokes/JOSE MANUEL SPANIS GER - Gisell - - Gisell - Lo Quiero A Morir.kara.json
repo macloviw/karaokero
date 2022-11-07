@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Lo Quiero A Morir.MP3",
+      "loudnorm": "-11.96,0.95,5.40,-22.00,-1.51",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Gisell - - Gisell - Lo Quiero A Morir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "04e635cf-003b-4928-9eeb-8b4a20bd9bc8",
+    "title": "Gisell - Lo Quiero A Morir",
+    "titles": {
+      "spa": "Gisell - Lo Quiero A Morir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "58f0d855-582d-4f4d-9920-9ed748a48d44"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:42:35.464Z",
+    "modified_at": "2022-11-04T09:42:36.217Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4827136,
+      "gain": -6.96,
+      "duration": 301,
+      "loudnorm": "-11.96,0.95,5.40,-22.00,-1.51",
+      "filename": "processed_2e76d895ea49fab30b7b0a5fc30dfabf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4827136,
+      "gain": -6.96,
+      "duration": 301,
+      "loudnorm": "-11.96,0.95,5.40,-22.00,-1.51",
+      "filename": "processed_5511290854314ace3e920549b0a70747.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - EL REY DE LA PUNTUALIDAD HECTOR LAVOE.mp3",
+      "loudnorm": "-13.77,0.57,4.50,-23.82,-0.23",
+      "duration": 404,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - HECTOR LA VOE - - EL REY DE LA PUNTUALIDAD HECTOR LAVOE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd766996-26c4-4eca-b0b3-eda8f2dee94d",
+    "title": "EL REY DE LA PUNTUALIDAD HECTOR LAVOE",
+    "titles": {
+      "spa": "EL REY DE LA PUNTUALIDAD HECTOR LAVOE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f5c3b348-036b-4570-9c02-1a8e81f8647f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:44:59.623Z",
+    "modified_at": "2022-11-04T12:45:00.124Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f4d9ea6893b057d33927e7cd1e51c458.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6476290,
+      "gain": -5.37,
+      "duration": 404,
+      "loudnorm": "-13.77,0.57,4.50,-23.82,-0.23",
+      "filename": "processed_b98cfad11ff125095e8d87eb57b2ae56.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

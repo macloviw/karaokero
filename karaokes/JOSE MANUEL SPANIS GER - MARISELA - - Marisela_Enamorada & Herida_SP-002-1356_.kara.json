@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Enamorada & Herida_SP-002-1356_.mp3",
+      "loudnorm": "-18.57,-6.19,9.00,-28.83,-2.18",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARISELA - - Marisela_Enamorada & Herida_SP-002-1356_.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b6980ffc-3375-4cdd-bbce-e67e030b559e",
+    "title": "Marisela_Enamorada & Herida_SP-002-1356_",
+    "titles": {
+      "spa": "Marisela_Enamorada & Herida_SP-002-1356_"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "ae6fc542-05d0-48e4-8ea4-53be90fe77d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:01:49.891Z",
+    "modified_at": "2022-11-04T07:01:50.277Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21c473fa6e91010c42c12d5e9b603e37.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5285911,
+      "gain": 0.38,
+      "duration": 220,
+      "loudnorm": "-18.57,-6.19,9.00,-28.83,-2.18",
+      "filename": "processed_06c003f034df72041a350a56ffbc256f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

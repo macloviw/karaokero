@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - LUIS VARGAS - YO SOY ASI (PK).mp3",
+      "loudnorm": "-13.90,0.05,3.30,-23.96,-0.52",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS VARGAS - - LUIS VARGAS - YO SOY ASI (PK).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1bec66c-0e69-4ce8-ba05-1eb3ab8399f8",
+    "title": "LUIS VARGAS - YO SOY ASI (PK)",
+    "titles": {
+      "spa": "LUIS VARGAS - YO SOY ASI (PK)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3d9430e9-6ec5-4dcb-9373-ba1ee886f326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:05:34.349Z",
+    "modified_at": "2022-11-04T06:05:34.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_42d5987ae78576046ca7d3730fb0f62e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7671016,
+      "gain": -4.83,
+      "duration": 319,
+      "loudnorm": "-13.90,0.05,3.30,-23.96,-0.52",
+      "filename": "processed_2872f312b91ae2a8587902e136973617.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

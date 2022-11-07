@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - En Toda La Chapa.mp3",
+      "loudnorm": "-15.64,-0.87,6.30,-25.70,-0.12",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BANDA MACHOS - - Banda Machos - En Toda La Chapa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 2712233,
+      "audiogain": -3.9
+    }
+  ],
+  "data": {
+    "kid": "f937a34f-e969-465e-bac4-d7fe1c6df496",
+    "title": "Banda Machos - En Toda La Chapa",
+    "titles": {
+      "spa": "Banda Machos - En Toda La Chapa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6922f49c-125d-43cf-a430-4a237ece5f2f"
+      ],
+      "singers": [
+        "1a7d166d-15d9-4b66-9917-f164c8179af1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:28:10.862Z",
+    "modified_at": "2022-11-04T20:33:18.391Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecd9b87fc4c5728fbe900b7905bf6adf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2712233,
+      "gain": -3.9,
+      "duration": 169,
+      "loudnorm": "-15.64,-0.87,6.30,-25.70,-0.12",
+      "filename": "processed_b45e671ccbeba0d9939891806f749d7d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

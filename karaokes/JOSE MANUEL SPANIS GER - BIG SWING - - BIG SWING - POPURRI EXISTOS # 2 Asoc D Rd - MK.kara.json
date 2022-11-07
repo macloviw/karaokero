@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - BIG SWING - - BIG SWING - POPURRI EXISTOS # 2 Asoc D Rd - MK.mp3",
+      "loudnorm": "-14.88,0.00,4.00,-24.99,-0.15",
+      "duration": 435,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - BIG SWING - - BIG SWING - POPURRI EXISTOS # 2 Asoc D Rd - MK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7799febf-2d37-4359-9967-9a83825f2d9d",
+    "title": "BIG SWING - POPURRI EXISTOS  # 2 Asoc D Rd - MK",
+    "titles": {
+      "spa": "BIG SWING - POPURRI EXISTOS  # 2 Asoc D Rd - MK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "2207d382-177f-4351-88e2-9de88d5705da"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:16:36.625Z",
+    "modified_at": "2022-11-04T09:16:37.019Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a7e463bca5b92c0cbe768c9eb0116d35.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 17424825,
+      "gain": -4.49,
+      "duration": 435,
+      "loudnorm": "-14.88,0.00,4.00,-24.99,-0.15",
+      "filename": "processed_0429c5b374b782b7f3bc2e0c66fa8fbd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

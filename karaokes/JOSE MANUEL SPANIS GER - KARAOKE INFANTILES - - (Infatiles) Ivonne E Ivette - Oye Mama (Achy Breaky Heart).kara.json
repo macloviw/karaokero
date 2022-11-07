@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Ivonne E Ivette - Oye Mama (Achy Breaky Heart).mp3",
+      "loudnorm": "-14.33,1.21,4.50,-24.44,-1.00",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Ivonne E Ivette - Oye Mama (Achy Breaky Heart).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17f6bcfb-60de-454e-abb6-af585ae6e02b",
+    "title": "(Infatiles) Ivonne E Ivette - Oye Mama (Achy Breaky Heart)",
+    "titles": {
+      "spa": "(Infatiles) Ivonne E Ivette - Oye Mama (Achy Breaky Heart)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:29.869Z",
+    "modified_at": "2022-11-04T04:22:30.250Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4f8b4cc824344021556774891ed0adb2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3538631,
+      "gain": -3.4,
+      "duration": 221,
+      "loudnorm": "-14.33,1.21,4.50,-24.44,-1.00",
+      "filename": "processed_3c31e78fd7d834a34d287e8954115bd1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

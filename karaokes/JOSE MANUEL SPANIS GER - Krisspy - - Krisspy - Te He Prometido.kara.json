@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Krisspy - - Krisspy - Te He Prometido.mp3",
+      "loudnorm": "-12.27,2.47,1.80,-22.32,-0.29",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Krisspy - - Krisspy - Te He Prometido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adc9e806-5143-4e09-b572-c175a0398819",
+    "title": "Krisspy - Te He Prometido",
+    "titles": {
+      "spa": "Krisspy - Te He Prometido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4ab66f3b-f408-465c-923c-70c1413994e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:32:05.120Z",
+    "modified_at": "2022-11-04T04:32:05.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4f92d4869a226ffdeba7c8d9b32193f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5575662,
+      "gain": -6.86,
+      "duration": 278,
+      "loudnorm": "-12.27,2.47,1.80,-22.32,-0.29",
+      "filename": "processed_85aa986a15d9e4278d8271f23af0310a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

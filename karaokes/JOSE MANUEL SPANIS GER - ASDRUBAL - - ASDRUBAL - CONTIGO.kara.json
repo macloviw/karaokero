@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - ASDRUBAL - CONTIGO.mp3",
+      "loudnorm": "-8.55,4.41,3.70,-18.62,-1.09",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ASDRUBAL - - ASDRUBAL - CONTIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 5059074,
+      "audiogain": -10.29
+    }
+  ],
+  "data": {
+    "kid": "be3fd69a-ddc8-4872-8e0c-c42f1d78cf58",
+    "title": "ASDRUBAL - CONTIGO",
+    "titles": {
+      "spa": "ASDRUBAL - CONTIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "48bc5831-fff2-40eb-be15-6b736c194fa8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:49:30.200Z",
+    "modified_at": "2022-11-04T20:31:08.206Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6c99c573b6634f4675f9f8875b7f76ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5059074,
+      "gain": -10.29,
+      "duration": 316,
+      "loudnorm": "-8.55,4.41,3.70,-18.62,-1.09",
+      "filename": "processed_a9c6208bb808471b2593df28ef9944ef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

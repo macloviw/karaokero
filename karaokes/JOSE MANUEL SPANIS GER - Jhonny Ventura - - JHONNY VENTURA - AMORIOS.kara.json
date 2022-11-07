@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jhonny Ventura - - JHONNY VENTURA - AMORIOS.mp3",
+      "loudnorm": "-12.46,0.47,2.50,-22.51,-0.91",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jhonny Ventura - - JHONNY VENTURA - AMORIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99d49938-7dae-4a9e-b63e-92008e97d1fd",
+    "title": "JHONNY VENTURA - AMORIOS",
+    "titles": {
+      "spa": "JHONNY VENTURA - AMORIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "9106f3cc-9239-4ded-90ad-d55e495f0ea2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:24:57.088Z",
+    "modified_at": "2022-11-04T10:24:57.471Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ea1e2deb992f77baff5dfa3ac4bacfb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4254101,
+      "gain": -4.85,
+      "duration": 228,
+      "loudnorm": "-12.46,0.47,2.50,-22.51,-0.91",
+      "filename": "processed_804362154d38c618a983ae43dd089c18.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

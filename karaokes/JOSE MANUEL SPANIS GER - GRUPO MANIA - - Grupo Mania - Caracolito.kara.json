@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Caracolito.MP3",
+      "loudnorm": "-12.00,0.51,2.90,-22.03,-0.71",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - GRUPO MANIA - - Grupo Mania - Caracolito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d0a69a0-437f-4ab8-bfc8-0e03d722aa8e",
+    "title": "Grupo Mania - Caracolito",
+    "titles": {
+      "spa": "Grupo Mania - Caracolito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "402250cb-2211-41c5-9d94-e3cc2b4cc77a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:44:55.246Z",
+    "modified_at": "2022-11-04T09:44:55.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4065280,
+      "gain": -6.27,
+      "duration": 254,
+      "loudnorm": "-12.00,0.51,2.90,-22.03,-0.71",
+      "filename": "processed_ca907716fb265b27af6665664d74a07c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4065280,
+      "gain": -6.27,
+      "duration": 254,
+      "loudnorm": "-12.00,0.51,2.90,-22.03,-0.71",
+      "filename": "processed_106472566816651ed6aeb700f5a46035.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

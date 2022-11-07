@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - David Kada - - DAVID KADA - ESTOS CELOS.mp3",
+      "loudnorm": "-12.97,1.40,4.00,-23.13,-0.58",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - David Kada - - DAVID KADA - ESTOS CELOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "798a1ed8-9c2d-4af9-b077-64de5ac5bb82",
+    "title": "DAVID KADA - ESTOS CELOS",
+    "titles": {
+      "spa": "DAVID KADA - ESTOS CELOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "7d96dfe9-f1e8-4044-9985-7c1c577f5c83"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:59:22.085Z",
+    "modified_at": "2022-11-04T11:59:22.469Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_439750f6c1f6adb34c1a05d82072a4d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4354394,
+      "gain": -5.92,
+      "duration": 271,
+      "loudnorm": "-12.97,1.40,4.00,-23.13,-0.58",
+      "filename": "processed_9ed924626d474f0525afd728a8576e4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

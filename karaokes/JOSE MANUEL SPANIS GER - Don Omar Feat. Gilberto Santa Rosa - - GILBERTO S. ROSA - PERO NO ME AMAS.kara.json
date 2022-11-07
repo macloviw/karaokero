@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PERO NO ME AMAS.MP3",
+      "loudnorm": "-13.45,0.93,3.60,-23.54,-0.96",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Don Omar Feat. Gilberto Santa Rosa - - GILBERTO S. ROSA - PERO NO ME AMAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5bcde9b9-6f31-4397-a043-0c61ef9ea77f",
+    "title": "GILBERTO S. ROSA   -   PERO NO ME AMAS",
+    "titles": {
+      "spa": "GILBERTO S. ROSA   -   PERO NO ME AMAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "f94251cd-1404-4e66-92a3-f6a4924dd33e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:26:52.420Z",
+    "modified_at": "2022-11-04T12:26:52.861Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3957205,
+      "gain": -4.7,
+      "duration": 247,
+      "loudnorm": "-13.45,0.93,3.60,-23.54,-0.96",
+      "filename": "processed_c543c56bc48ad1a12f2cdfef5720ad30.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3957205,
+      "gain": -4.7,
+      "duration": 247,
+      "loudnorm": "-13.45,0.93,3.60,-23.54,-0.96",
+      "filename": "processed_e4133e3a6e8e1707051d60f4caaf6fb4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

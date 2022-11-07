@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - AMOR PERFECTO.mp3",
+      "loudnorm": "-10.70,2.75,5.30,-20.76,-0.99",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - AMOR PERFECTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26a91de0-0dca-422a-933b-791546e656f2",
+    "title": "EL GRAN COMBO   -   AMOR PERFECTO",
+    "titles": {
+      "spa": "EL GRAN COMBO   -   AMOR PERFECTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "92034f0d-c67a-43d9-8f46-9016f2ff6956"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:08:32.644Z",
+    "modified_at": "2022-11-04T12:08:33.026Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a358914f575ef6000e43ea0db4a54d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4882560,
+      "gain": -8.49,
+      "duration": 305,
+      "loudnorm": "-10.70,2.75,5.30,-20.76,-0.99",
+      "filename": "processed_8de25db997bc0c892c5004d52a353f5d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

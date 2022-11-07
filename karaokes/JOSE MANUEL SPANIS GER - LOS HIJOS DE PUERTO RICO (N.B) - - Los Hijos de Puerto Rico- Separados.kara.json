@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LOS HIJOS DE PUERTO RICO (N.B) - - Los Hijos de Puerto Rico- Separados.mp3",
+      "loudnorm": "-12.50,1.21,5.00,-22.52,-0.84",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LOS HIJOS DE PUERTO RICO (N.B) - - Los Hijos de Puerto Rico- Separados.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6267683-e588-4b6f-bc46-681c654f66bd",
+    "title": "Los Hijos de Puerto Rico- Separados",
+    "titles": {
+      "spa": "Los Hijos de Puerto Rico- Separados"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "87523cae-f918-4035-bbb9-e09ff414de09"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:31:22.987Z",
+    "modified_at": "2022-11-04T05:31:23.380Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_91a270e0d5e24cef5beb78890d6dbdf7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7622741,
+      "gain": -6.31,
+      "duration": 317,
+      "loudnorm": "-12.50,1.21,5.00,-22.52,-0.84",
+      "filename": "processed_d435364b5e4e96273f6bdb5a7ca83620.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

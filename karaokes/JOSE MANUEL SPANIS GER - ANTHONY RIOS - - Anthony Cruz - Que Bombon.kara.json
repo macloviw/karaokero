@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - ANTHONY RIOS - - Anthony Cruz - Que Bombon.mp3",
+      "loudnorm": "-8.14,2.66,3.90,-18.27,-0.47",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - ANTHONY RIOS - - Anthony Cruz - Que Bombon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4411236,
+      "audiogain": -9.03
+    }
+  ],
+  "data": {
+    "kid": "f437376a-b33d-4bd0-81b8-b5420665e1aa",
+    "title": "Anthony Cruz - Que Bombon",
+    "titles": {
+      "spa": "Anthony Cruz - Que Bombon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "80d7a6a9-c756-4f10-a5be-75ee1b55d90b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:48:51.266Z",
+    "modified_at": "2022-11-04T20:26:28.774Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a41c35f801222cbfd74289e2e67069c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4411236,
+      "gain": -9.03,
+      "duration": 275,
+      "loudnorm": "-8.14,2.66,3.90,-18.27,-0.47",
+      "filename": "processed_89bf4147c19000507d4f47a1fb3eba24.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

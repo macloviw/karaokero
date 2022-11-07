@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 006 Luis Miguel - Contigo en la distancia.mp3",
+      "loudnorm": "-18.22,-1.85,3.80,-28.29,-0.35",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 006 Luis Miguel - Contigo en la distancia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51387046-23cb-4625-8445-c46f92a525fc",
+    "title": "006 Luís Miguel - Contigo en la distancia",
+    "titles": {
+      "spa": "006 Luís Miguel - Contigo en la distancia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:53:36.536Z",
+    "modified_at": "2022-11-04T05:53:36.913Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3a581464c81d7864b9ebdb97f1745ea7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4307474,
+      "gain": 1.36,
+      "duration": 179,
+      "loudnorm": "-18.22,-1.85,3.80,-28.29,-0.35",
+      "filename": "processed_990cd799b4eeeccdf706c6b227191470.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

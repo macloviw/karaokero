@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Necesito Mi Libertad.mp3",
+      "loudnorm": "-16.71,0.01,3.30,-26.78,-0.22",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Tigres Del Norte - - Los Tigres Del Norte - Necesito Mi Libertad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "546d1692-8858-4393-a7dd-cd49cb949838",
+    "title": "Los Tigres Del Norte - Necesito Mi Libertad",
+    "titles": {
+      "spa": "Los Tigres Del Norte - Necesito Mi Libertad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "169038b2-40d6-4b69-8d2d-ffd1ea612f87"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:38:18.225Z",
+    "modified_at": "2022-11-04T05:38:18.600Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_abb9154d63741b26f7703318647647f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3423599,
+      "gain": -1.21,
+      "duration": 213,
+      "loudnorm": "-16.71,0.01,3.30,-26.78,-0.22",
+      "filename": "processed_f3bf07f3b65b63e17bf203d78c5f243b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

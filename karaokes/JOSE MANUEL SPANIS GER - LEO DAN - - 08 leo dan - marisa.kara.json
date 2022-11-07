@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LEO DAN - - 08 leo dan - marisa.mp3",
+      "loudnorm": "-12.66,-0.42,4.10,-22.75,-0.91",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LEO DAN - - 08 leo dan - marisa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4475f9aa-35a4-4ed7-a99b-82d6c7b47b4c",
+    "title": "08 leo dan - marisa",
+    "titles": {
+      "spa": "08 leo dan - marisa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:12:54.597Z",
+    "modified_at": "2022-11-04T05:12:54.974Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_073cad05a79703d190528aced6b4643c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3669150,
+      "gain": -4.72,
+      "duration": 152,
+      "loudnorm": "-12.66,-0.42,4.10,-22.75,-0.91",
+      "filename": "processed_87c8187271e5f1ce7bfed09c564b5c59.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

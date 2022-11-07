@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - TE LLEVARE AL CIELO.MP3",
+      "loudnorm": "-13.39,0.27,2.80,-23.51,-0.45",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Juan Luis Guerra & Mana - - MANA - TE LLEVARE AL CIELO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2568d88a-ba64-45b9-b09f-a658f7dc8f6a",
+    "title": "MANA    -   TE LLEVARE AL CIELO",
+    "titles": {
+      "spa": "MANA    -   TE LLEVARE AL CIELO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:15:21.652Z",
+    "modified_at": "2022-11-04T06:15:22.404Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4799393,
+      "gain": -2.85,
+      "duration": 299,
+      "loudnorm": "-13.39,0.27,2.80,-23.51,-0.45",
+      "filename": "processed_c0e6d5aa6bec55a69e506b5f9e255893.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4799393,
+      "gain": -2.85,
+      "duration": 299,
+      "loudnorm": "-13.39,0.27,2.80,-23.51,-0.45",
+      "filename": "processed_abfc80a45ffda0445706a8d15170eade.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

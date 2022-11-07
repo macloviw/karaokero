@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Thriller.mp3",
+      "loudnorm": "-18.49,0.18,7.20,-28.64,-1.27",
+      "duration": 369,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Michael Jackson - - Michael Jackson - Thriller.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e5edaae-744d-442a-9c10-b2fc0cf1579f",
+    "title": "Michael Jackson - Thriller",
+    "titles": {
+      "spa": "Michael Jackson - Thriller"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T07:16:29.442Z",
+    "modified_at": "2022-11-04T07:16:29.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e5c200e63d386a4cfbdb9219e59143e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5906695,
+      "gain": 0.56,
+      "duration": 369,
+      "loudnorm": "-18.49,0.18,7.20,-28.64,-1.27",
+      "filename": "processed_cb69f210320d23fa53b4afef16fd3acd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

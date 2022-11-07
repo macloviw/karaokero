@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==La Piragua.mp3",
+      "loudnorm": "-11.49,0.68,1.80,-21.57,-1.07",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - CONJUNTO QUISQUEYA - - EL CONJUNTO QUISQUEYA==La Piragua.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "903ef63b-8213-4b54-b874-f9eff2c2bb78",
+    "title": "EL CONJUNTO QUISQUEYA==La Piragua",
+    "titles": {
+      "spa": "EL CONJUNTO QUISQUEYA==La Piragua"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d75d6b5d-bba9-4ec5-94eb-1d1a38406ff7"
+      ],
+      "singers": [
+        "514f3784-c83b-4b14-a501-e1ffed9e86d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T09:22:25.421Z",
+    "modified_at": "2022-11-04T09:22:25.802Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bfe804b01d0a4e78f1e295b64c645e73.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6420993,
+      "gain": -6.79,
+      "duration": 160,
+      "loudnorm": "-11.49,0.68,1.80,-21.57,-1.07",
+      "filename": "processed_615dfb54d4c1f87ad74d27d8b178345e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

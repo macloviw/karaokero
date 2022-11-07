@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Magneto - - 02 Cambiando el Destino.mp3",
+      "loudnorm": "-11.57,1.11,8.10,-21.91,-1.20",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Magneto - - 02 Cambiando el Destino.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2488a472-08a2-42c7-ad38-d953ff8fa2a1",
+    "title": "02 Cambiando el Destino",
+    "titles": {
+      "spa": "02 Cambiando el Destino"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c967ec63-0a2c-4a00-8931-b4d1fa008cdc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:09:02.712Z",
+    "modified_at": "2022-11-04T06:09:03.128Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d45b8dbec8ac83e549dd8491353fc965.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4962054,
+      "gain": -5.2,
+      "duration": 206,
+      "loudnorm": "-11.57,1.11,8.10,-21.91,-1.20",
+      "filename": "processed_02c9ba4d65f03586150a6bfb70e8ccca.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

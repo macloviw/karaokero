@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - DESNUDATE MUJER.MP3",
+      "loudnorm": "-14.39,1.28,3.90,-24.45,-0.57",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - DESNUDATE MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a02251f7-e1ba-4a74-9bd7-33dc3a92e490",
+    "title": "FRANKIE RUIZ   -   DESNUDATE MUJER",
+    "titles": {
+      "spa": "FRANKIE RUIZ   -   DESNUDATE MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:17:35.970Z",
+    "modified_at": "2022-11-04T12:17:36.527Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4791452,
+      "gain": -3.44,
+      "duration": 299,
+      "loudnorm": "-14.39,1.28,3.90,-24.45,-0.57",
+      "filename": "processed_a9b04de65663941fc91032d8931a9732.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4791452,
+      "gain": -3.44,
+      "duration": 299,
+      "loudnorm": "-14.39,1.28,3.90,-24.45,-0.57",
+      "filename": "processed_fcb8f21d53e0a9c6ad7d65a23bab16c4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

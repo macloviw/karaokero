@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Valio La Pena (Salsa).mp3",
+      "loudnorm": "-13.60,-0.97,8.70,-23.81,-1.75",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Marc Anthony - - Marc Anthony - Valio La Pena (Salsa).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b25f8adc-b77a-4286-aedd-2b5ff68ea621",
+    "title": "Marc Anthony - Valio La Pena (Salsa)",
+    "titles": {
+      "spa": "Marc Anthony - Valio La Pena (Salsa)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:37:29.851Z",
+    "modified_at": "2022-11-04T06:37:30.343Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b8143d2e75f0bdadac897046e5b3e3f9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7204864,
+      "gain": -5.99,
+      "duration": 300,
+      "loudnorm": "-13.60,-0.97,8.70,-23.81,-1.75",
+      "filename": "processed_0c0917c65baecb83f57e75fbd06254f4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

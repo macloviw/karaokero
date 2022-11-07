@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 011 Luis Miguel - Te extrano.mp3",
+      "loudnorm": "-8.48,0.42,3.60,-18.51,-1.47",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - LUIS MIGUEL - - 011 Luis Miguel - Te extrano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "affd2c31-ef84-4b04-b756-ddf019c2130d",
+    "title": "011 Luís Miguel - Te extraño",
+    "titles": {
+      "spa": "011 Luís Miguel - Te extraño"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:54:27.057Z",
+    "modified_at": "2022-11-04T05:54:27.445Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d94450c8bb19e30a8200454a6f03be0b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5692383,
+      "gain": -8.02,
+      "duration": 237,
+      "loudnorm": "-8.48,0.42,3.60,-18.51,-1.47",
+      "filename": "processed_ea770c9ada6da6a4832b58b7a07b04b1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

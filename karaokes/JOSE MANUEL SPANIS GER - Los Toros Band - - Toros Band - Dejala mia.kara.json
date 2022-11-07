@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Toros Band - Dejala mia.mp3",
+      "loudnorm": "-9.20,4.32,2.20,-19.27,-0.16",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Los Toros Band - - Toros Band - Dejala mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "95876959-4471-44aa-a358-d4caad32b862",
+    "title": "Toros Band   -   Dejala mia",
+    "titles": {
+      "spa": "Toros Band   -   Dejala mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:43:59.542Z",
+    "modified_at": "2022-11-04T10:43:59.926Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a46d85a712aa1fd98d6b463f4bd9a3e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4455746,
+      "gain": -8.69,
+      "duration": 278,
+      "loudnorm": "-9.20,4.32,2.20,-19.27,-0.16",
+      "filename": "processed_0d02e92ab64412bc87fb866d3062b47b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

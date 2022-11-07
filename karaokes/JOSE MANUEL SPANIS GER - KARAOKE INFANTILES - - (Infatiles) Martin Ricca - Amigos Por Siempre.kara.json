@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Martin Ricca - Amigos Por Siempre.mp3",
+      "loudnorm": "-13.70,0.96,4.10,-23.96,-0.42",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - KARAOKE INFANTILES - - (Infatiles) Martin Ricca - Amigos Por Siempre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f1ceb31-e21a-41e8-b839-3f899b9ce00f",
+    "title": "(Infatiles) Martin Ricca - Amigos Por Siempre",
+    "titles": {
+      "spa": "(Infatiles) Martin Ricca - Amigos Por Siempre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "71e0a6ee-bdb8-490c-b651-06918c0ed11e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:22:38.201Z",
+    "modified_at": "2022-11-04T04:22:38.592Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7614d386d2d36eb5eddc935dfdaf4be3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2946801,
+      "gain": -4.18,
+      "duration": 184,
+      "loudnorm": "-13.70,0.96,4.10,-23.96,-0.42",
+      "filename": "processed_73a7387de6796ab5b9e35dc40b1a1bef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

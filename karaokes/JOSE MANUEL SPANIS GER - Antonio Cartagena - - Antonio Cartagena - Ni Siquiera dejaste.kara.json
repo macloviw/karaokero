@@ -1,0 +1,77 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Antonio Cartagena - - Antonio Cartagena - Ni Siquiera dejaste.mp3",
+      "loudnorm": "-14.12,-1.49,4.60,-24.17,-0.71",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Antonio Cartagena - - Antonio Cartagena - Ni Siquiera dejaste.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ],
+      "filesize": 4835883,
+      "audiogain": -3.11
+    }
+  ],
+  "data": {
+    "kid": "bdb00079-87d2-4104-994d-61fb6b64c88f",
+    "title": "Antonio Cartagena - Ni Siquiera dejaste",
+    "titles": {
+      "spa": "Antonio Cartagena - Ni Siquiera dejaste"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "d7ed1d32-2488-4148-9165-af58bc22ab73"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T11:49:04.420Z",
+    "modified_at": "2022-11-04T20:30:36.912Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2da7fdd631eefd2e02fa36b61c289fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4835883,
+      "gain": -3.11,
+      "duration": 302,
+      "loudnorm": "-14.12,-1.49,4.60,-24.17,-0.71",
+      "filename": "processed_3d15058e884a7293c9123f02a3752eb6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - marco antonio solis=sigue sin mi.mp3",
+      "loudnorm": "-17.53,0.83,8.50,-27.69,-1.45",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - marco antonio solis=sigue sin mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "55bd1433-3462-421b-8868-33f67580d8b5",
+    "title": "marco antonio solis=sigue sin mi",
+    "titles": {
+      "spa": "marco antonio solis=sigue sin mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:53:44.143Z",
+    "modified_at": "2022-11-04T06:53:44.532Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f24ac09b02edf4945da6ba7e3b7f288b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3820533,
+      "gain": 0.09,
+      "duration": 238,
+      "loudnorm": "-17.53,0.83,8.50,-27.69,-1.45",
+      "filename": "processed_9df9a7d39aa133c9935cf6f9b36901a6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

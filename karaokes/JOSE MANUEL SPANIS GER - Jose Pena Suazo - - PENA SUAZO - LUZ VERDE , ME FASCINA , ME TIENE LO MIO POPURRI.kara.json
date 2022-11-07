@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - PENA SUAZO - LUZ VERDE , ME FASCINA , ME TIENE LO MIO POPURRI.mp3",
+      "loudnorm": "-11.73,1.81,2.60,-21.76,0.05",
+      "duration": 547,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Jose Pena Suazo - - PENA SUAZO - LUZ VERDE , ME FASCINA , ME TIENE LO MIO POPURRI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e5c326c-526a-4397-938c-6e698b4259f7",
+    "title": "PEÑA SUAZO - LUZ VERDE , ME FASCINA , ME TIENE LO MIO POPURRI",
+    "titles": {
+      "spa": "PEÑA SUAZO - LUZ VERDE , ME FASCINA , ME TIENE LO MIO POPURRI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "3739aad5-a423-4f5b-8376-7130edef5df4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T08:10:54.416Z",
+    "modified_at": "2022-11-04T08:10:54.803Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21487049d1801ef8ccb503a1f6d28f6f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8761774,
+      "gain": -6.08,
+      "duration": 547,
+      "loudnorm": "-11.73,1.81,2.60,-21.76,0.05",
+      "filename": "processed_70fc835632a73baf78d6a1f2761f5adf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

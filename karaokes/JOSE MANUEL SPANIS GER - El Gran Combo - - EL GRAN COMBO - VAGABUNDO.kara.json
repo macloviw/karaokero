@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - VAGABUNDO.mp3",
+      "loudnorm": "-14.66,-0.84,4.40,-24.70,-1.07",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - VAGABUNDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db2d3f4d-3ffa-434c-be52-35defddf9a2f",
+    "title": "EL GRAN COMBO   -   VAGABUNDO",
+    "titles": {
+      "spa": "EL GRAN COMBO   -   VAGABUNDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "92034f0d-c67a-43d9-8f46-9016f2ff6956"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:10:49.989Z",
+    "modified_at": "2022-11-04T12:10:50.385Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_255016da5b1f091c82006fc179a8169e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6922962,
+      "gain": -4.49,
+      "duration": 288,
+      "loudnorm": "-14.66,-0.84,4.40,-24.70,-1.07",
+      "filename": "processed_8a4e2ae91586b87db1a027830359f95d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

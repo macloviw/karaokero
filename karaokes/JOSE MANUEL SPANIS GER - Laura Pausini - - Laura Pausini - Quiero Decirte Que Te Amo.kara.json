@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - Laura Pausini - Quiero Decirte Que Te Amo.mp3",
+      "loudnorm": "-15.38,-0.79,10.50,-25.72,-1.46",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Laura Pausini - - Laura Pausini - Quiero Decirte Que Te Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ecb07b46-1460-4f2b-b0f6-8f40ba8f02c7",
+    "title": "Laura Pausini - Quiero Decirte Que Te Amo",
+    "titles": {
+      "spa": "Laura Pausini - Quiero Decirte Que Te Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:10:18.041Z",
+    "modified_at": "2022-11-04T05:10:18.427Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d213a5853eee66f96db48c6014e2060e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4057515,
+      "gain": -3.54,
+      "duration": 253,
+      "loudnorm": "-15.38,-0.79,10.50,-25.72,-1.46",
+      "filename": "processed_e0b12294fd87ffe628440c31613a1320.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Hector Tricoche - - HECTOR TRICOCHE - DIME SI AHORA TE VAS.mp3",
+      "loudnorm": "-7.05,7.05,4.20,-17.13,-1.36",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Hector Tricoche - - HECTOR TRICOCHE - DIME SI AHORA TE VAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "32bfc017-56fd-428a-84c5-a93d09a7b689",
+    "title": "HECTOR TRICOCHE -          DIME SI AHORA TE VAS",
+    "titles": {
+      "spa": "HECTOR TRICOCHE -          DIME SI AHORA TE VAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "e49eee7d-7521-4737-8ee6-341252f58a29"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:48:42.826Z",
+    "modified_at": "2022-11-04T12:48:43.223Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_50e1643134dc31a37d2d4b9fb11bdfed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4844868,
+      "gain": -9.59,
+      "duration": 302,
+      "loudnorm": "-7.05,7.05,4.20,-17.13,-1.36",
+      "filename": "processed_2bd73ada685a7363a2adfd9a18145f70.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

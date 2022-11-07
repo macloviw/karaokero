@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - UN VERANO EN NUEVA YORK.mp3",
+      "loudnorm": "-12.07,2.00,4.80,-22.11,-0.58",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - El Gran Combo - - EL GRAN COMBO - UN VERANO EN NUEVA YORK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fee2ba64-a082-4180-9335-ac16512d22d1",
+    "title": "EL GRAN COMBO   -   UN VERANO EN NUEVA YORK",
+    "titles": {
+      "spa": "EL GRAN COMBO   -   UN VERANO EN NUEVA YORK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "92034f0d-c67a-43d9-8f46-9016f2ff6956"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:10:37.024Z",
+    "modified_at": "2022-11-04T12:10:37.441Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_01b8b796fc16d16c0f77d77735a4e537.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4806626,
+      "gain": -6.66,
+      "duration": 300,
+      "loudnorm": "-12.07,2.00,4.80,-22.11,-0.58",
+      "filename": "processed_9ffadd900d557f4603588123185c93f3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - TU ME VUELVES LOCO.MP3",
+      "loudnorm": "-11.30,1.75,2.40,-21.42,-0.06",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - FRANKIE RUIZ - - FRANKIE RUIZ - TU ME VUELVES LOCO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8d63bf40-6007-4106-a884-cb31f8ad303b",
+    "title": "FRANKIE RUIZ   -   TU ME VUELVES LOCO",
+    "titles": {
+      "spa": "FRANKIE RUIZ   -   TU ME VUELVES LOCO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fedc3e2d-8240-4132-81dd-683e1aea0275"
+      ],
+      "singers": [
+        "3e2cb783-dc40-49d9-902c-2f68235a6cd7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T12:20:28.339Z",
+    "modified_at": "2022-11-04T12:20:29.017Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4624686,
+      "gain": -7.27,
+      "duration": 288,
+      "loudnorm": "-11.30,1.75,2.40,-21.42,-0.06",
+      "filename": "processed_690be0fa71f0ed2a6af6db80e8c1b287.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4624686,
+      "gain": -7.27,
+      "duration": 288,
+      "loudnorm": "-11.30,1.75,2.40,-21.42,-0.06",
+      "filename": "processed_f2de010f6814240461f70ce4ccf1a28c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - En La Palma De La Mano.MP3",
+      "loudnorm": "-16.16,-1.03,3.90,-26.44,-0.24",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Leo Marini - - Leo Marini - En La Palma De La Mano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bd48d76-de44-4362-a554-0b3d5a9bcfe9",
+    "title": "Leo Marini - En La Palma De La Mano",
+    "titles": {
+      "spa": "Leo Marini - En La Palma De La Mano"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "2d725f06-a83c-49dd-a5ec-ec5256056c0e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T05:15:18.954Z",
+    "modified_at": "2022-11-04T05:15:19.530Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3569468,
+      "gain": -2.54,
+      "duration": 222,
+      "loudnorm": "-16.16,-1.03,3.90,-26.44,-0.24",
+      "filename": "processed_9af1523feaa4cb43f0272011feb72107.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3569468,
+      "gain": -2.54,
+      "duration": 222,
+      "loudnorm": "-16.16,-1.03,3.90,-26.44,-0.24",
+      "filename": "processed_62ca00eb512721bffc337fc7160c1769.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

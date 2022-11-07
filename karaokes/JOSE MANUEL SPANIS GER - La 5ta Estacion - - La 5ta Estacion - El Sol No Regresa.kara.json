@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - La 5ta Estacion - - La 5ta Estacion - El Sol No Regresa.MP3",
+      "loudnorm": "-16.30,-3.02,10.80,-26.57,-1.09",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - La 5ta Estacion - - La 5ta Estacion - El Sol No Regresa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df4391ba-2d4b-4c10-8689-6f61c43b8b9c",
+    "title": "La 5ta Estacion - El Sol No Regresa",
+    "titles": {
+      "spa": "La 5ta Estacion - El Sol No Regresa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "e0e2e2a5-c83e-45e6-b1d4-b1186d2540fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T04:36:54.928Z",
+    "modified_at": "2022-11-04T04:36:55.617Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3940616,
+      "gain": -0.52,
+      "duration": 246,
+      "loudnorm": "-16.30,-3.02,10.80,-26.57,-1.09",
+      "filename": "processed_94aa7dc915dc9fea0c61c18f60dfeac3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3940616,
+      "gain": -0.52,
+      "duration": 246,
+      "loudnorm": "-16.30,-3.02,10.80,-26.57,-1.09",
+      "filename": "processed_571fc9136e962aa2cdd248661d725ce2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

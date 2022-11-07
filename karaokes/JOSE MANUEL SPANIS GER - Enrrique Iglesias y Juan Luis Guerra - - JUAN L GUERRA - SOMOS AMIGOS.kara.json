@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - SOMOS AMIGOS.MP3",
+      "loudnorm": "-20.24,-1.84,6.60,-30.35,-0.88",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - Enrrique Iglesias y Juan Luis Guerra - - JUAN L GUERRA - SOMOS AMIGOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90d10331-605f-4a03-b7fc-32841d22f67d",
+    "title": "JUAN L GUERRA   -   SOMOS AMIGOS",
+    "titles": {
+      "spa": "JUAN L GUERRA   -   SOMOS AMIGOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "4ebda7f6-31b2-4bf6-bbdf-ff690fe8a926"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:36:26.241Z",
+    "modified_at": "2022-11-04T10:36:26.838Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4649801,
+      "gain": 2.95,
+      "duration": 290,
+      "loudnorm": "-20.24,-1.84,6.60,-30.35,-0.88",
+      "filename": "processed_36414394a810b15bb0fc36acacef413e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4649801,
+      "gain": 2.95,
+      "duration": 290,
+      "loudnorm": "-20.24,-1.84,6.60,-30.35,-0.88",
+      "filename": "processed_655c413df29a723ffc6f373040f9c1f1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

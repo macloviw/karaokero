@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Sois - Si No Te Hubieras Ido.mp3",
+      "loudnorm": "-14.23,1.45,3.10,-24.41,-0.22",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - MARCO ANTONIO SOLIS - - Marco Antonio Sois - Si No Te Hubieras Ido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aefbf72d-8130-4c34-923e-8f60e84514a1",
+    "title": "Marco Antonio Sois - Si No Te Hubieras Ido",
+    "titles": {
+      "spa": "Marco Antonio Sois - Si No Te Hubieras Ido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T06:50:31.616Z",
+    "modified_at": "2022-11-04T06:50:32.000Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae5cd5c04dec3a15a648b9d4fcebd2b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4841746,
+      "gain": -2.99,
+      "duration": 302,
+      "loudnorm": "-14.23,1.45,3.10,-24.41,-0.22",
+      "filename": "processed_449b04d6f66a5f289529dea501fd741b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

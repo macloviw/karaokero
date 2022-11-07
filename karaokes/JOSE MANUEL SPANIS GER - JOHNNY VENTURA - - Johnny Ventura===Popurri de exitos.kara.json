@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - Johnny Ventura===Popurri de exitos.mp3",
+      "loudnorm": "-13.19,-0.20,3.10,-23.33,-0.59",
+      "duration": 446,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "JOSE MANUEL SPANIS GER - JOHNNY VENTURA - - Johnny Ventura===Popurri de exitos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "94179fcd-6022-4257-b601-65dcdf1b7057",
+    "title": "Johnny Ventura===Popurri de exitos",
+    "titles": {
+      "spa": "Johnny Ventura===Popurri de exitos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "9a6835d7-f92d-485d-9bb2-43431d1366f0"
+      ],
+      "singers": [
+        "5ad8bc9b-c9f9-44c1-b4e0-e7ec70214ea9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "6f95dda6-2e8e-4e6c-8b61-218287106523"
+      ]
+    },
+    "created_at": "2022-11-04T10:27:42.091Z",
+    "modified_at": "2022-11-04T10:27:42.488Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_86a5893ac8c8e95b580d8f5b55960de3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7145108,
+      "gain": -4.31,
+      "duration": 446,
+      "loudnorm": "-13.19,-0.20,3.10,-23.33,-0.59",
+      "filename": "processed_96bd8116d1ddeed7cc91880511c6e209.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}
