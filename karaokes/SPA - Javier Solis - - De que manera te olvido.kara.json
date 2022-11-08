@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - De que manera te olvido.mp3",
+      "loudnorm": "-12.40,0.61,3.50,-22.46,-0.22",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - De que manera te olvido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c933a7f7-306c-491c-8862-cfa1526e6ebe",
+    "title": "De que manera te olvido",
+    "titles": {
+      "spa": "De que manera te olvido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:01:21.094Z",
+    "modified_at": "2022-11-03T06:01:21.519Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_917245885e4632bfdb8fc4278492f548.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2837141,
+      "gain": -5.66,
+      "duration": 177,
+      "loudnorm": "-12.40,0.61,3.50,-22.46,-0.22",
+      "filename": "processed_a4f13eab3fcb729132bf0ce9ee759cb4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

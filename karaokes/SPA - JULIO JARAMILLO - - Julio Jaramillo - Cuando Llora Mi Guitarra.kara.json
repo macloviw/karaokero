@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Cuando Llora Mi Guitarra.MP3",
+      "loudnorm": "-12.90,1.48,3.10,-22.94,0.24",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Cuando Llora Mi Guitarra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3fc5a459-8070-4e12-988a-de34ad120b5d",
+    "title": "Julio Jaramillo - Cuando Llora Mi Guitarra",
+    "titles": {
+      "spa": "Julio Jaramillo - Cuando Llora Mi Guitarra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:23:44.830Z",
+    "modified_at": "2022-11-03T08:23:45.292Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2949924,
+      "gain": -6.09,
+      "duration": 184,
+      "loudnorm": "-12.90,1.48,3.10,-22.94,0.24",
+      "filename": "processed_429e2f6cdb191da597c4d5708ad5f302.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2949924,
+      "gain": -6.09,
+      "duration": 184,
+      "loudnorm": "-12.90,1.48,3.10,-22.94,0.24",
+      "filename": "processed_3f74a70e3fd4a60ba705e153859eaf05.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

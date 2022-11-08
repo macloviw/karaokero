@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - J. DESCHAMPS CUANDO YA NO ME QUIERAS.mp3",
+      "loudnorm": "-12.95,0.87,2.90,-23.25,-0.13",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - J. DESCHAMPS CUANDO YA NO ME QUIERAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8215ce08-cd61-438c-85f6-aa1c3ba375b3",
+    "title": "J. DESCHAMPS CUANDO YA NO ME QUIERAS",
+    "titles": {
+      "spa": "J. DESCHAMPS CUANDO YA NO ME QUIERAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:26:44.551Z",
+    "modified_at": "2022-11-03T08:26:44.955Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e1976353108db17b9086a2f077a377f4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3445324,
+      "gain": -3.88,
+      "duration": 215,
+      "loudnorm": "-12.95,0.87,2.90,-23.25,-0.13",
+      "filename": "processed_219a325958df5cc48c39e6afe74953c2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

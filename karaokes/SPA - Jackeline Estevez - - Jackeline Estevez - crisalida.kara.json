@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jackeline Estevez - - Jackeline Estevez - crisalida.mp3",
+      "loudnorm": "-13.56,0.13,6.90,-23.64,-1.32",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jackeline Estevez - - Jackeline Estevez - crisalida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a598052-2388-4d0f-a19b-08af72d4d170",
+    "title": "Jackeline Estevez - crisalida",
+    "titles": {
+      "spa": "Jackeline Estevez - crisalida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4ccc7cd1-17e0-434d-9454-1a3b1f2e8dc5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:26:52.932Z",
+    "modified_at": "2022-11-03T22:26:53.321Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_46d23a20793b0d343873375a8740b715.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9204602,
+      "gain": -4.2,
+      "duration": 230,
+      "loudnorm": "-13.56,0.13,6.90,-23.64,-1.32",
+      "filename": "processed_103bf92ada16e8df41a68cb08b2a2a75.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

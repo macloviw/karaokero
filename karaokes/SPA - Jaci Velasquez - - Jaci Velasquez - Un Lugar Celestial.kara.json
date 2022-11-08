@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - Un Lugar Celestial.mp3",
+      "loudnorm": "-16.27,-0.17,6.10,-26.32,-1.20",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - Un Lugar Celestial.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adcefe4f-57e2-4fcd-92c6-074dfa4e84e1",
+    "title": "Jaci Velasquez - Un Lugar Celestial",
+    "titles": {
+      "spa": "Jaci Velasquez - Un Lugar Celestial"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f9ee0356-319b-40eb-8920-49ae505bd885"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:12:38.923Z",
+    "modified_at": "2022-11-03T14:12:39.398Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae6eba8b9945c1dd619c18c3e5a115b7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6183174,
+      "gain": -1.57,
+      "duration": 257,
+      "loudnorm": "-16.27,-0.17,6.10,-26.32,-1.20",
+      "filename": "processed_e5e1619099e0a2e18674603df0443be2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

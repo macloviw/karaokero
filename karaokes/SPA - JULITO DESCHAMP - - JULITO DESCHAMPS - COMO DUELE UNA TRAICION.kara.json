@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - COMO DUELE UNA TRAICION.mp3",
+      "loudnorm": "-11.72,0.95,2.00,-21.80,0.21",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - COMO DUELE UNA TRAICION.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6f1017fb-7ed1-4258-9716-647d657fdab6",
+    "title": "JULITO DESCHAMPS - COMO DUELE UNA TRAICION",
+    "titles": {
+      "spa": "JULITO DESCHAMPS - COMO DUELE UNA TRAICION"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:25:07.311Z",
+    "modified_at": "2022-11-03T16:25:07.742Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b4a5efa4ce35d89176f8601f50f507b4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3237598,
+      "gain": -6.83,
+      "duration": 202,
+      "loudnorm": "-11.72,0.95,2.00,-21.80,0.21",
+      "filename": "processed_e514c4d11c44c1d6c56f0d20fceb230d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

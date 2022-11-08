@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - J. DESCHAMPS NO VALE LA PENA.mp3",
+      "loudnorm": "-11.77,0.78,2.10,-21.86,0.06",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - J. DESCHAMPS NO VALE LA PENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "011047cf-f504-44b5-ba6a-93888d0c52c0",
+    "title": "J. DESCHAMPS NO VALE LA PENA",
+    "titles": {
+      "spa": "J. DESCHAMPS NO VALE LA PENA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:27:05.137Z",
+    "modified_at": "2022-11-03T08:27:05.577Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fa72470d415b8e52120f86a1ebe3a2f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4504014,
+      "gain": -4.55,
+      "duration": 281,
+      "loudnorm": "-11.77,0.78,2.10,-21.86,0.06",
+      "filename": "processed_34b6e6f73741e0396c807d50ae870427.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

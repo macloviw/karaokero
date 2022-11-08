@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - Solo Tu.mp3",
+      "loudnorm": "-9.14,3.01,9.30,-19.29,-1.10",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - Solo Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e5675e77-69e5-4335-8505-877a19362d56",
+    "title": "Jaci Velasquez - Solo Tu",
+    "titles": {
+      "spa": "Jaci Velasquez - Solo Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f9ee0356-319b-40eb-8920-49ae505bd885"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:37:56.129Z",
+    "modified_at": "2022-11-04T03:37:56.512Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_67231f8316b4a35e831dad9b0d92e85d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4169445,
+      "gain": -8.78,
+      "duration": 260,
+      "loudnorm": "-9.14,3.01,9.30,-19.29,-1.10",
+      "filename": "processed_f6de70bc2e30b6192f1f4d9697877feb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

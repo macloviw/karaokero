@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - James Blunt - - James Blunt - You're beautiful.mp3",
+      "loudnorm": "-7.67,4.07,6.80,-17.90,-1.64",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - James Blunt - - James Blunt - You're beautiful.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa208042-4f82-4193-9a55-43b439f6313c",
+    "title": "James Blunt - You're beautiful",
+    "titles": {
+      "spa": "James Blunt - You're beautiful"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "65d29563-b1f8-4097-8043-81e4ba0f7523"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:05:48.798Z",
+    "modified_at": "2022-11-04T01:05:49.188Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8913b9f1dac69744992692ba9b940b8e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3649870,
+      "gain": -8.53,
+      "duration": 227,
+      "loudnorm": "-7.67,4.07,6.80,-17.90,-1.64",
+      "filename": "processed_0e52317417386afe1591de462ceca7b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

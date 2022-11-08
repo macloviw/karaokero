@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - POQUITA FE.mp3",
+      "loudnorm": "-12.83,0.90,1.60,-22.94,0.10",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - POQUITA FE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9391730d-e5fa-4ff1-91bc-0d8057c3e072",
+    "title": "JULITO DESCHAMPS   -   POQUITA FE",
+    "titles": {
+      "spa": "JULITO DESCHAMPS   -   POQUITA FE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:27:49.933Z",
+    "modified_at": "2022-11-03T08:27:50.353Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8db3edb9816c165e5014eacf82b25983.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3565278,
+      "gain": -3.93,
+      "duration": 222,
+      "loudnorm": "-12.83,0.90,1.60,-22.94,0.10",
+      "filename": "processed_af361a9d9e87464ed3efb81fe0b22290.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

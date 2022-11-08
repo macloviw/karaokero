@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULISSA PIENSO EN SU AMOR - - PINSO EN SU AMOR(1).mp3",
+      "loudnorm": "-15.21,0.42,8.90,-25.42,-0.48",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULISSA PIENSO EN SU AMOR - - PINSO EN SU AMOR(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ea719e95-8712-440c-b72b-a2e0fc57cf04",
+    "title": "PINSO EN SU AMOR(1)",
+    "titles": {
+      "spa": "PINSO EN SU AMOR(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "6f25468e-ba60-4b88-a65f-de233ac8fcc2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:39:31.017Z",
+    "modified_at": "2022-11-03T23:39:31.390Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2ffe982e72297d78637880b1b8b77eb6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3976087,
+      "gain": -3.16,
+      "duration": 248,
+      "loudnorm": "-15.21,0.42,8.90,-25.42,-0.48",
+      "filename": "processed_394baf4b0f29f50652c07cbaea69582a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

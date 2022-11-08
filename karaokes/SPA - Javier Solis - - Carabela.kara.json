@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Carabela.mp3",
+      "loudnorm": "-11.87,1.11,1.90,-21.93,0.14",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Carabela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4141beff-3f82-40ad-a902-19520b1c4439",
+    "title": "Carabela",
+    "titles": {
+      "spa": "Carabela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:00:51.349Z",
+    "modified_at": "2022-11-03T06:00:51.767Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a601f8877986430f320ba5e79050c472.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3164414,
+      "gain": -4.55,
+      "duration": 197,
+      "loudnorm": "-11.87,1.11,1.90,-21.93,0.14",
+      "filename": "processed_f03bcedfb2c2d2fe6610388d34d1e102.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

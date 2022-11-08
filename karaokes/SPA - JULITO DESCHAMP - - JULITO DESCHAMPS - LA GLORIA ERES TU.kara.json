@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - LA GLORIA ERES TU.mp3",
+      "loudnorm": "-11.89,0.75,2.30,-21.96,-0.13",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - LA GLORIA ERES TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "646f104e-1416-465b-98c4-65e89ea52495",
+    "title": "JULITO DESCHAMPS   -   LA GLORIA ERES TU",
+    "titles": {
+      "spa": "JULITO DESCHAMPS   -   LA GLORIA ERES TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:27:40.642Z",
+    "modified_at": "2022-11-03T08:27:41.061Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_902df56636367795f226a473068eab38.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3432367,
+      "gain": -3.84,
+      "duration": 214,
+      "loudnorm": "-11.89,0.75,2.30,-21.96,-0.13",
+      "filename": "processed_8b71d39c128912e8155bdbe46957f237.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

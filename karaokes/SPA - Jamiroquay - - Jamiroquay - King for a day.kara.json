@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jamiroquay - - Jamiroquay - King for a day.mp3",
+      "loudnorm": "-17.12,-3.99,10.20,-27.43,-0.71",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jamiroquay - - Jamiroquay - King for a day.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62636b10-da67-4978-a530-3365c39ae931",
+    "title": "Jamiroquay - King for a day",
+    "titles": {
+      "spa": "Jamiroquay - King for a day"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "852810f5-6ccc-4b47-b3be-94a6afcc5a6e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:06:27.699Z",
+    "modified_at": "2022-11-04T01:06:28.089Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ac4f69898f61232b875a80967022473.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3762982,
+      "gain": 1.63,
+      "duration": 235,
+      "loudnorm": "-17.12,-3.99,10.20,-27.43,-0.71",
+      "filename": "processed_ae7e1699c820f276929cd50f8f8d5d34.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

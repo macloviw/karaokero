@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - De Creer En Ti.mp3",
+      "loudnorm": "-9.44,8.94,13.70,-20.03,-1.71",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jaci Velasquez - - Jaci Velasquez - De Creer En Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "72ec26c4-284b-4b4f-a3d4-65ea162f369d",
+    "title": "Jaci Velasquez - De Creer En Ti",
+    "titles": {
+      "spa": "Jaci Velasquez - De Creer En Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f9ee0356-319b-40eb-8920-49ae505bd885"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:37:25.816Z",
+    "modified_at": "2022-11-04T03:37:26.204Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0d1a5345717469c7b611a2133c90a9fb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3936095,
+      "gain": -9.39,
+      "duration": 245,
+      "loudnorm": "-9.44,8.94,13.70,-20.03,-1.71",
+      "filename": "processed_889d2191ac942a69e8f21130ece23ccb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

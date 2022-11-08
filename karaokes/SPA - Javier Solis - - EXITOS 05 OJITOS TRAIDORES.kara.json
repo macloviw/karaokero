@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - EXITOS 05 OJITOS TRAIDORES.mp3",
+      "loudnorm": "-13.19,1.23,2.70,-23.21,0.15",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - EXITOS 05 OJITOS TRAIDORES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b3ad5d23-ca6a-49eb-acf6-9b3fffb19fc3",
+    "title": "EXITOS 05 OJITOS TRAIDORES",
+    "titles": {
+      "spa": "EXITOS 05 OJITOS TRAIDORES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:02:51.203Z",
+    "modified_at": "2022-11-03T06:02:51.633Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aec2a3536f1ee99c7e133db295d70c08.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2639925,
+      "gain": -6.18,
+      "duration": 164,
+      "loudnorm": "-13.19,1.23,2.70,-23.21,0.15",
+      "filename": "processed_11085d5ff71c6c490e8221c81c14a1b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

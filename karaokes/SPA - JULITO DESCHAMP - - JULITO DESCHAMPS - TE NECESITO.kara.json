@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - TE NECESITO.mp3",
+      "loudnorm": "-12.02,0.77,2.60,-22.21,0.07",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DESCHAMP - - JULITO DESCHAMPS - TE NECESITO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c28658e8-746b-4425-8113-c87135807570",
+    "title": "JULITO DESCHAMPS   -   TE NECESITO",
+    "titles": {
+      "spa": "JULITO DESCHAMPS   -   TE NECESITO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "76cb07e9-1ddd-487b-9eb8-93f5a074d490"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:27:58.025Z",
+    "modified_at": "2022-11-03T08:27:58.425Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_187f95983e7714b9976c2e8e9bf3dfcc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3049098,
+      "gain": -4.36,
+      "duration": 190,
+      "loudnorm": "-12.02,0.77,2.60,-22.21,0.07",
+      "filename": "processed_7ec30d9bd1f596695d243c4a613cea3c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Interrogacion.MP3",
+      "loudnorm": "-16.30,-0.77,4.00,-26.44,0.39",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Interrogacion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ba2da523-a8b8-4d93-aeb3-0489fc00fe65",
+    "title": "Julio Jaramillo - Interrogacion",
+    "titles": {
+      "spa": "Julio Jaramillo - Interrogacion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:24:50.284Z",
+    "modified_at": "2022-11-03T08:24:50.767Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3317310,
+      "gain": -3.34,
+      "duration": 207,
+      "loudnorm": "-16.30,-0.77,4.00,-26.44,0.39",
+      "filename": "processed_d2a4590619b603da98fa1e4f40e84c56.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3317310,
+      "gain": -3.34,
+      "duration": 207,
+      "loudnorm": "-16.30,-0.77,4.00,-26.44,0.39",
+      "filename": "processed_7e0fd7812222a05a9a55bca5d701b178.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

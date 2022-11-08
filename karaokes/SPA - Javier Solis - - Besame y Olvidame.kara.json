@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Besame y Olvidame.mp3",
+      "loudnorm": "-12.02,1.52,1.80,-22.12,0.11",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Besame y Olvidame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3297835-651d-4eb6-a386-452f929d05fc",
+    "title": "Besame y Olvidame",
+    "titles": {
+      "spa": "Besame y Olvidame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:00:42.646Z",
+    "modified_at": "2022-11-03T06:00:43.057Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_99ad94e2ae86ff3784c35beb6524e9f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2964211,
+      "gain": -4.27,
+      "duration": 185,
+      "loudnorm": "-12.02,1.52,1.80,-22.12,0.11",
+      "filename": "processed_17fe9b413ac54c048b68ad63dd372f74.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

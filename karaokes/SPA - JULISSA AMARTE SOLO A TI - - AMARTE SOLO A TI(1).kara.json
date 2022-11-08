@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULISSA AMARTE SOLO A TI - - AMARTE SOLO A TI(1).mp3",
+      "loudnorm": "-15.74,0.20,12.10,-26.24,-0.88",
+      "duration": 367,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULISSA AMARTE SOLO A TI - - AMARTE SOLO A TI(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "45459d29-1fe0-4d9c-a0c5-bb63ddb7350e",
+    "title": "AMARTE SOLO A TI(1)",
+    "titles": {
+      "spa": "AMARTE SOLO A TI(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "d0dd9da3-1621-4005-996b-585093b6487e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:38:55.988Z",
+    "modified_at": "2022-11-03T23:38:56.379Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_526e653abab23cc6aa02ba0bd04eb4be.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5883652,
+      "gain": -2.33,
+      "duration": 367,
+      "loudnorm": "-15.74,0.20,12.10,-26.24,-0.88",
+      "filename": "processed_d85c4d8f0afe18fb572a0eb259f1a54e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Fatalidad.mp3",
+      "loudnorm": "-17.65,-1.43,4.10,-27.76,-0.10",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Fatalidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e5cf13c0-826b-41a8-8f67-df5507d3d480",
+    "title": "Julio Jaramillo - Fatalidad",
+    "titles": {
+      "spa": "Julio Jaramillo - Fatalidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:24:34.265Z",
+    "modified_at": "2022-11-03T08:24:34.668Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74b0a6a7d874a5a6693409efc5f0f7cf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4442389,
+      "gain": -1.76,
+      "duration": 184,
+      "loudnorm": "-17.65,-1.43,4.10,-27.76,-0.10",
+      "filename": "processed_d26e9549d6cf39677fa5866f2b7f7c28.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

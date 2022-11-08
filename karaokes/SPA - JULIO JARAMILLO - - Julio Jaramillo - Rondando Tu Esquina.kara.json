@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Rondando Tu Esquina.MP3",
+      "loudnorm": "-15.79,-0.30,3.60,-25.95,0.01",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Rondando Tu Esquina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be73732d-7c97-44a5-9717-84f40cd621aa",
+    "title": "Julio Jaramillo - Rondando Tu Esquina",
+    "titles": {
+      "spa": "Julio Jaramillo - Rondando Tu Esquina"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:25:44.557Z",
+    "modified_at": "2022-11-03T08:25:45.023Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2741780,
+      "gain": -2.93,
+      "duration": 171,
+      "loudnorm": "-15.79,-0.30,3.60,-25.95,0.01",
+      "filename": "processed_6e6dcd8a6adbde580f13c8f5ac040e5f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2741780,
+      "gain": -2.93,
+      "duration": 171,
+      "loudnorm": "-15.79,-0.30,3.60,-25.95,0.01",
+      "filename": "processed_9561100d1641adceac6161cd9a77de5b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

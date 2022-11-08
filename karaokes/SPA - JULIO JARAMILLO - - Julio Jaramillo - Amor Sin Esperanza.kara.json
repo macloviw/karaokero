@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Amor Sin Esperanza.MP3",
+      "loudnorm": "-15.13,-0.51,2.80,-25.17,0.24",
+      "duration": 168,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULIO JARAMILLO - - Julio Jaramillo - Amor Sin Esperanza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf08a425-073a-457d-97f5-726543c1b05b",
+    "title": "Julio Jaramillo - Amor Sin Esperanza",
+    "titles": {
+      "spa": "Julio Jaramillo - Amor Sin Esperanza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a676e6c-cef7-4b75-a2ab-9fabd8e5b0ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:23:15.026Z",
+    "modified_at": "2022-11-03T08:23:15.477Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2702492,
+      "gain": -2.57,
+      "duration": 168,
+      "loudnorm": "-15.13,-0.51,2.80,-25.17,0.24",
+      "filename": "processed_3261ef43f3d02ed54b5df55189b4f048.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2702492,
+      "gain": -2.57,
+      "duration": 168,
+      "loudnorm": "-15.13,-0.51,2.80,-25.17,0.24",
+      "filename": "processed_56545768453d97a3198acb8e09562ca3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

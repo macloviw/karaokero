@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - JULITO DECHAMPS - - MALA Y TRAICIONERA.mp3",
+      "loudnorm": "-11.03,0.67,1.70,-21.10,0.10",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - JULITO DECHAMPS - - MALA Y TRAICIONERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6353c456-66b3-45d0-be95-99cffc7a8ea7",
+    "title": "MALA Y TRAICIONERA",
+    "titles": {
+      "spa": "MALA Y TRAICIONERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "690a5087-7570-428a-81ed-a71496509ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:42:15.020Z",
+    "modified_at": "2022-11-03T22:42:15.402Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e1ece893f1d961c9292050bc4cd392aa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3382638,
+      "gain": -5.08,
+      "duration": 211,
+      "loudnorm": "-11.03,0.67,1.70,-21.10,0.10",
+      "filename": "processed_23f66fc769dee2bbb5f17630d5bd2b55.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

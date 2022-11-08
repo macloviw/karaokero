@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - EXITOS 03 ME ESTA DOLIENDO SU AUSENCIA.mp3",
+      "loudnorm": "-11.97,0.65,4.00,-22.15,0.57",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - EXITOS 03 ME ESTA DOLIENDO SU AUSENCIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a25e893e-c634-4aa2-a549-f5ce710318f2",
+    "title": "EXITOS 03 ME ESTA DOLIENDO SU AUSENCIA",
+    "titles": {
+      "spa": "EXITOS 03 ME ESTA DOLIENDO SU AUSENCIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:02:37.115Z",
+    "modified_at": "2022-11-03T06:02:37.508Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5ed2566192be2dff9b4571b98baac5db.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2945871,
+      "gain": -6.27,
+      "duration": 183,
+      "loudnorm": "-11.97,0.65,4.00,-22.15,0.57",
+      "filename": "processed_0a45b7518a523fdd45b5154571b5e494.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}
