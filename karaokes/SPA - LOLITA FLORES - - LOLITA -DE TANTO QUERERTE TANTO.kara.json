@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOLITA FLORES - - LOLITA -DE TANTO QUERERTE TANTO.mp3",
+      "loudnorm": "-16.82,-2.26,4.00,-27.00,-0.46",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOLITA FLORES - - LOLITA -DE TANTO QUERERTE TANTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9cbb80b0-17df-40f9-ac6d-cb97e4f78cd2",
+    "title": "LOLITA -DE TANTO QUERERTE TANTO",
+    "titles": {
+      "spa": "LOLITA -DE TANTO QUERERTE TANTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4776cc04-3f16-45b6-abea-8ccc87e510f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:48:39.181Z",
+    "modified_at": "2022-11-03T22:48:39.595Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_798b41e381d520acecd72e797120e683.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5022083,
+      "gain": 0.64,
+      "duration": 209,
+      "loudnorm": "-16.82,-2.26,4.00,-27.00,-0.46",
+      "filename": "processed_2b04e5e77a71e1fae3ed5ad9f9d04435.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

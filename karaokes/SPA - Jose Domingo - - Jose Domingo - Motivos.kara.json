@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Domingo - - Jose Domingo - Motivos.mp3",
+      "loudnorm": "-14.33,0.33,3.90,-24.51,-0.29",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Domingo - - Jose Domingo - Motivos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c489c4b7-5084-4ba2-9326-133a35e32bfa",
+    "title": "Jose Domingo - Motivos",
+    "titles": {
+      "spa": "Jose Domingo - Motivos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "746fcdf2-300a-400c-83eb-f234fbd39559"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:35:01.853Z",
+    "modified_at": "2022-11-03T22:35:02.226Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8524bd6f4754a66948e79f136fb21f8d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6356572,
+      "gain": -3.18,
+      "duration": 264,
+      "loudnorm": "-14.33,0.33,3.90,-24.51,-0.29",
+      "filename": "processed_22b4ecd630e03a9bd371f50423abacf0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

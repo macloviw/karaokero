@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - PERDONAME - copia.MP3",
+      "loudnorm": "-12.15,2.58,10.00,-22.47,-1.36",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - PERDONAME - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0606d33-b592-4a04-ab31-9e976eebb76a",
+    "title": "LUIS FONSI   -   PERDONAME - copia",
+    "titles": {
+      "spa": "LUIS FONSI   -   PERDONAME - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:09:00.294Z",
+    "modified_at": "2022-11-03T09:09:00.834Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3826802,
+      "gain": -5.46,
+      "duration": 239,
+      "loudnorm": "-12.15,2.58,10.00,-22.47,-1.36",
+      "filename": "processed_161405f37e8f8547de6a4ddde919e458.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3826802,
+      "gain": -5.46,
+      "duration": 239,
+      "loudnorm": "-12.15,2.58,10.00,-22.47,-1.36",
+      "filename": "processed_d7f428b17203aad48262ab325ed78e02.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE CRISTIANOS - - RENUEVAME BY CRISTIANO.CDG (2).MP3",
+      "loudnorm": "29.01,95.74,0.00,-5.88,-0.72",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE CRISTIANOS - - RENUEVAME BY CRISTIANO.CDG (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e15e4bbc-02b8-4c23-afe5-d8621cb31f69",
+    "title": "RENUEVAME BY CRISTIANO.CDG (2)",
+    "titles": {
+      "spa": "RENUEVAME BY CRISTIANO.CDG (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f1e249de-2256-4304-be30-ccf51d93fa8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:20:33.095Z",
+    "modified_at": "2022-11-03T14:20:33.570Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2753901,
+      "gain": 1.39,
+      "duration": 171,
+      "loudnorm": "29.01,95.74,0.00,-5.88,-0.72",
+      "filename": "processed_85833c5147e6eda4e6110dc8e605129a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2753901,
+      "gain": 1.39,
+      "duration": 171,
+      "loudnorm": "29.01,95.74,0.00,-5.88,-0.72",
+      "filename": "processed_8e749c38f2edc55980f63fb83a679924.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

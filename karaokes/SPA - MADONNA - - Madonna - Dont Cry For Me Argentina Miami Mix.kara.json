@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MADONNA - - Madonna - Dont Cry For Me Argentina Miami Mix.mp3",
+      "loudnorm": "-17.07,-0.65,4.70,-27.21,-0.91",
+      "duration": 278,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MADONNA - - Madonna - Dont Cry For Me Argentina Miami Mix.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ba3f416-fcd8-414b-9b3b-f0f3dd2a6eab",
+    "title": "Madonna - Dont Cry For Me Argentina Miami Mix",
+    "titles": {
+      "spa": "Madonna - Dont Cry For Me Argentina Miami Mix"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "400ae577-94f7-43df-91aa-ab018e255922"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:28:31.185Z",
+    "modified_at": "2022-11-04T01:28:31.570Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1153bc02f54136900d26c1801b1effe9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5563741,
+      "gain": -1.28,
+      "duration": 278,
+      "loudnorm": "-17.07,-0.65,4.70,-27.21,-0.91",
+      "filename": "processed_cb4f8e8d9b8e216442c1b0dcdf7d4302.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

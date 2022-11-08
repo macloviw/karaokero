@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Restless.mp3",
+      "loudnorm": "-13.79,0.73,7.40,-23.90,-1.52",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Restless.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05be35c9-46c8-48b8-8c87-f3aa99ab00a1",
+    "title": "Alison Krauss - Restless",
+    "titles": {
+      "spa": "Alison Krauss - Restless"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c73d0529-b6ea-4fc4-bbcb-a4e8c0be08d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:25:36.235Z",
+    "modified_at": "2022-11-04T01:25:36.612Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e6824b59cca1f3b02946c0088feba07e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2982062,
+      "gain": -4.18,
+      "duration": 186,
+      "loudnorm": "-13.79,0.73,7.40,-23.90,-1.52",
+      "filename": "processed_ed8dfc3941587dbcfbcc714ca0e2ce52.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

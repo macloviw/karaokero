@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEONEL PICHARDO - - EL MAL QUERIDO OK.mp3",
+      "loudnorm": "-10.59,0.43,3.60,-20.86,0.11",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEONEL PICHARDO - - EL MAL QUERIDO OK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a69bf618-c09e-4ab1-995a-0a3f1ad61b8c",
+    "title": "EL MAL QUERIDO OK",
+    "titles": {
+      "spa": "EL MAL QUERIDO OK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fad8d8e7-f61d-4ec7-b73c-4f4163388f5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:51:08.580Z",
+    "modified_at": "2022-11-03T08:51:08.988Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9446f91b45ba5fcb4587eb948d55d0bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2767742,
+      "gain": -7.28,
+      "duration": 172,
+      "loudnorm": "-10.59,0.43,3.60,-20.86,0.11",
+      "filename": "processed_3b916ebbc72860ef602ba3a1d2df5090.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

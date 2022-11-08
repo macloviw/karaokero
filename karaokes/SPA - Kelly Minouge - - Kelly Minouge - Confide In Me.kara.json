@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kelly Minouge - - Kelly Minouge - Confide In Me.mp3",
+      "loudnorm": "-17.90,0.20,6.10,-28.10,-1.18",
+      "duration": 362,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kelly Minouge - - Kelly Minouge - Confide In Me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a485e55d-0295-45ed-8d16-f3364174627f",
+    "title": "Kelly Minouge - Confide In Me",
+    "titles": {
+      "spa": "Kelly Minouge - Confide In Me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4ff02834-d99f-4687-9381-e0a72b2c9e7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:18:22.820Z",
+    "modified_at": "2022-11-04T01:18:23.224Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_10730e346b81e5578e72c0c5c9a019bc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5808764,
+      "gain": 1.47,
+      "duration": 362,
+      "loudnorm": "-17.90,0.20,6.10,-28.10,-1.18",
+      "filename": "processed_0520c6981703439eae26af1dd2f824ab.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

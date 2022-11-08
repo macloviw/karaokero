@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaoke - - Karaoke - Beatles - In My Life.mp3",
+      "loudnorm": "-11.84,3.78,2.60,-22.04,-1.05",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaoke - - Karaoke - Beatles - In My Life.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f25ace5d-8df3-47b5-95fe-3465cae94414",
+    "title": "Karaoke - Beatles - In My Life",
+    "titles": {
+      "spa": "Karaoke - Beatles - In My Life"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "dcbade43-57c4-4c0e-97a2-e34d48db1fa1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:17:00.155Z",
+    "modified_at": "2022-11-04T01:17:00.540Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_134480b1549fe72a994ab82fb8b7e1f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2719757,
+      "gain": -5.72,
+      "duration": 169,
+      "loudnorm": "-11.84,3.78,2.60,-22.04,-1.05",
+      "filename": "processed_f52f457e8e5b4ebc8af370d8fe8597e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

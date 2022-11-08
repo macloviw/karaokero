@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - SIEMPRE ESTOY PENSANDO EN ELLA.MP3",
+      "loudnorm": "-13.53,1.61,10.20,-23.92,-1.43",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - SIEMPRE ESTOY PENSANDO EN ELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e1fd7b0-723c-4d16-bb80-d72fc8988062",
+    "title": "LEO DAN   -   SIEMPRE ESTOY PENSANDO EN ELLA",
+    "titles": {
+      "spa": "LEO DAN   -   SIEMPRE ESTOY PENSANDO EN ELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:45:21.217Z",
+    "modified_at": "2022-11-03T08:45:21.823Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9507623,
+      "gain": -1.95,
+      "duration": 237,
+      "loudnorm": "-13.53,1.61,10.20,-23.92,-1.43",
+      "filename": "processed_91725ff1dc97012570ccd52ca01453f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9507623,
+      "gain": -1.95,
+      "duration": 237,
+      "loudnorm": "-13.53,1.61,10.20,-23.92,-1.43",
+      "filename": "processed_5a2483957013562d8c094e1996ed42c9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE CRISTIANOS - - Jesus Adrian Romero-Sumergeme.mp3",
+      "loudnorm": "-24.50,-1.78,13.30,-35.10,-1.21",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE CRISTIANOS - - Jesus Adrian Romero-Sumergeme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e534d0f-bdb3-4db1-bdca-bdd6c31d731e",
+    "title": "Jesus Adrian Romero-Sumergeme",
+    "titles": {
+      "spa": "Jesus Adrian Romero-Sumergeme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f1e249de-2256-4304-be30-ccf51d93fa8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:20:18.499Z",
+    "modified_at": "2022-11-03T14:20:18.967Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f930e1fe1d625b39e47f649d71ad9dcc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4927626,
+      "gain": 6.52,
+      "duration": 307,
+      "loudnorm": "-24.50,-1.78,13.30,-35.10,-1.21",
+      "filename": "processed_7d84c24636208b683dcafff63cd969b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

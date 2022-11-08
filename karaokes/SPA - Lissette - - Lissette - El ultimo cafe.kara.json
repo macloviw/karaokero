@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Lissette - - Lissette - El ultimo cafe.mp3",
+      "loudnorm": "-20.78,-2.13,5.60,-30.95,-0.55",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Lissette - - Lissette - El ultimo cafe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bd012487-b13a-4eec-9f5d-6903c90a0515",
+    "title": "Lissette - El ultimo cafe",
+    "titles": {
+      "spa": "Lissette - El ultimo cafe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "559a2f39-4e37-44b7-84a8-e63647cec744"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:52:54.267Z",
+    "modified_at": "2022-11-03T08:52:54.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4f543a404d1c1d7a47ba9ff6b6b06e75.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7035811,
+      "gain": 2.3,
+      "duration": 293,
+      "loudnorm": "-20.78,-2.13,5.60,-30.95,-0.55",
+      "filename": "processed_fa12f7dbf7263f54250504a0070d3db3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

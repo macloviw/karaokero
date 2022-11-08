@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - 09_MARCO ANTONIO SOLIS_ANTES DE QUE TE VAYAS.mp3",
+      "loudnorm": "-13.20,-0.57,3.10,-23.24,0.00",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - 09_MARCO ANTONIO SOLIS_ANTES DE QUE TE VAYAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8bfce194-2847-406c-b942-ad5462461483",
+    "title": "09_MARCO ANTONIO SOLIS_ANTES DE QUE TE VAYAS",
+    "titles": {
+      "spa": "09_MARCO ANTONIO SOLIS_ANTES DE QUE TE VAYAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:54:00.390Z",
+    "modified_at": "2022-11-03T22:54:00.779Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4c198c2491e1b50231213b8fca57766.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6123293,
+      "gain": -3.87,
+      "duration": 255,
+      "loudnorm": "-13.20,-0.57,3.10,-23.24,0.00",
+      "filename": "processed_f91e7c7734636c1458144b587db67f8c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

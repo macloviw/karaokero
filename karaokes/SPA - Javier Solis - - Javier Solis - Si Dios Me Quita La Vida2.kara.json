@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Si Dios Me Quita La Vida2.MP3",
+      "loudnorm": "-15.78,0.34,3.50,-25.92,-0.22",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Si Dios Me Quita La Vida2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5ed2f729-3ec3-474e-9b67-842ae43c06e6",
+    "title": "Javier Solis - Si Dios Me Quita La Vida2",
+    "titles": {
+      "spa": "Javier Solis - Si Dios Me Quita La Vida2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:06:59.453Z",
+    "modified_at": "2022-11-03T06:07:00.010Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3057664,
+      "gain": -1.64,
+      "duration": 191,
+      "loudnorm": "-15.78,0.34,3.50,-25.92,-0.22",
+      "filename": "processed_abd6065f9ec0a429f0e4b12a93e0b211.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3057664,
+      "gain": -1.64,
+      "duration": 191,
+      "loudnorm": "-15.78,0.34,3.50,-25.92,-0.22",
+      "filename": "processed_24d01943da10ce088cb410799d169ab3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

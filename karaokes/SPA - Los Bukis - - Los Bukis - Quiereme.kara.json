@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Quiereme.mp3",
+      "loudnorm": "-14.00,1.61,9.00,-24.29,-1.87",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Quiereme.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f0a8f4c4-a417-42ec-a124-8d03e86f6c38",
+    "title": "Los Bukis - Quiereme",
+    "titles": {
+      "spa": "Los Bukis - Quiereme"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:57:07.590Z",
+    "modified_at": "2022-11-03T08:57:08.002Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_12bffc1a36788e6d0aaf473015bfc49d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1002571,
+      "gain": -4.67,
+      "duration": 250,
+      "loudnorm": "-14.00,1.61,9.00,-24.29,-1.87",
+      "filename": "processed_9ab53eac0910402c8216eeb2af55458d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

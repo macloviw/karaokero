@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Estas Tristeza Mia.mp3",
+      "loudnorm": "-11.33,0.96,4.60,-21.48,0.69",
+      "duration": 157,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Estas Tristeza Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "10dfe46c-0512-4c74-b6b5-eafb46ceb025",
+    "title": "Javier Solis - Estas Tristeza Mia",
+    "titles": {
+      "spa": "Javier Solis - Estas Tristeza Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:04:22.308Z",
+    "modified_at": "2022-11-03T06:04:22.728Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_da296cc0e81ff16f2bf922db32a68b09.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3792656,
+      "gain": -6.86,
+      "duration": 157,
+      "loudnorm": "-11.33,0.96,4.60,-21.48,0.69",
+      "filename": "processed_07ca9c27722d9a533c1d8d80b75e2070.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

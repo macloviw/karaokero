@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Pero Te Extrano.MP3",
+      "loudnorm": "-9.98,0.23,3.20,-20.08,-0.07",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Pero Te Extrano.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c131c4c9-6f19-4e83-b153-957e9bd2f965",
+    "title": "Jose Jose El Principe Con Trio   -   Pero Te Extraño",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   Pero Te Extraño"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:20:44.454Z",
+    "modified_at": "2022-11-03T07:20:44.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3799222,
+      "gain": -8.64,
+      "duration": 158,
+      "loudnorm": "-9.98,0.23,3.20,-20.08,-0.07",
+      "filename": "processed_dd0b1f33616779ab7cca8d3fc2e10a01.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3799222,
+      "gain": -8.64,
+      "duration": 158,
+      "loudnorm": "-9.98,0.23,3.20,-20.08,-0.07",
+      "filename": "processed_40c10b102a6be1e0542f1e74d0e4bb00.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

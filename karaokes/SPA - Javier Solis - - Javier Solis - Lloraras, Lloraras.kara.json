@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Lloraras, Lloraras.mp3",
+      "loudnorm": "-11.07,1.55,5.40,-21.16,-0.01",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Lloraras, Lloraras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2160a69c-3030-4f6f-97e0-25a31907bca5",
+    "title": "Javier Solis - Lloraras, Lloraras",
+    "titles": {
+      "spa": "Javier Solis - Lloraras, Lloraras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:05:19.456Z",
+    "modified_at": "2022-11-03T06:05:19.863Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b435d62040874d52438a7be6643979c9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4400160,
+      "gain": -7.77,
+      "duration": 183,
+      "loudnorm": "-11.07,1.55,5.40,-21.16,-0.01",
+      "filename": "processed_ff671695b01fae2c930c36832a0c4a3f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

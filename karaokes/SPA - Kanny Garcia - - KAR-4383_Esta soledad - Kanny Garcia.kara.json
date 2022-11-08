@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kanny Garcia - - KAR-4383_Esta soledad - Kanny Garcia.mp3",
+      "loudnorm": "-15.56,-0.44,4.90,-25.64,-0.78",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kanny Garcia - - KAR-4383_Esta soledad - Kanny Garcia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0ecfc7f1-457f-4c77-b55a-dee4a783133c",
+    "title": "KAR-4383_Esta soledad - Kanny Garcia",
+    "titles": {
+      "spa": "KAR-4383_Esta soledad - Kanny Garcia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e1d2f178-c3cf-44fe-ab96-9a28ffa2f5cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:43:08.902Z",
+    "modified_at": "2022-11-03T22:43:09.273Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_226958d4f9ce0b4ccc330e548ce9a95d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4632576,
+      "gain": -1.46,
+      "duration": 192,
+      "loudnorm": "-15.56,-0.44,4.90,-25.64,-0.78",
+      "filename": "processed_ceaab89b13357cc96feb2cfd37f8d661.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENUDO - - MENUDO - LLUVIA 371.mp3",
+      "loudnorm": "-10.40,0.09,4.10,-20.68,-0.16",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENUDO - - MENUDO - LLUVIA 371.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7021449-1880-40dd-97f8-db978fc9b274",
+    "title": "MENUDO - LLUVIA  371",
+    "titles": {
+      "spa": "MENUDO - LLUVIA  371"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "32232b69-e497-4125-927a-e29cd83397e7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:36:19.403Z",
+    "modified_at": "2022-11-03T10:36:19.916Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0bde717d4c9ee4bbf4ad8a6e38e7d8b1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4602034,
+      "gain": -7.44,
+      "duration": 191,
+      "loudnorm": "-10.40,0.09,4.10,-20.68,-0.16",
+      "filename": "processed_51f2b1eab6caf1a4c2dda869c7f66970.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

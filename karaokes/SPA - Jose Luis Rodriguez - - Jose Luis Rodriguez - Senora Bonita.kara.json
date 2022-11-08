@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Senora Bonita.MP3",
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Senora Bonita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5fb6df83-936e-425a-9568-e1a482783fb7",
+    "title": "Jose Luis Rodriguez - Señora Bonita",
+    "titles": {
+      "spa": "Jose Luis Rodriguez - Señora Bonita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:28:14.762Z",
+    "modified_at": "2022-11-03T07:28:15.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2447360,
+      "gain": -3.71,
+      "duration": 152,
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "filename": "processed_c99a66276ddbf73eab05db1fea4ada74.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2447360,
+      "gain": -3.71,
+      "duration": 152,
+      "loudnorm": "-14.08,-1.49,5.30,-24.18,0.25",
+      "filename": "processed_189575e23433d990310c85e88d6393c6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

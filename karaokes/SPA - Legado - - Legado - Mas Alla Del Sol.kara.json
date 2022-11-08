@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Legado - - Legado - Mas Alla Del Sol.mp3",
+      "loudnorm": "-20.54,-3.89,12.00,-30.89,-2.07",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Legado - - Legado - Mas Alla Del Sol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3aae3dcf-5427-4688-a66b-df8bfdfd4a68",
+    "title": "Legado - Más Allá Del Sol",
+    "titles": {
+      "spa": "Legado - Más Allá Del Sol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "5619bdcd-54c4-49ee-8df9-6101a2519eb8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:21:46.916Z",
+    "modified_at": "2022-11-03T14:21:47.451Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_14bedba2bc7efe3bfbd1c6a61b98cc8b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4615620,
+      "gain": 1.84,
+      "duration": 288,
+      "loudnorm": "-20.54,-3.89,12.00,-30.89,-2.07",
+      "filename": "processed_9c94e4e06c3a33ceaaba7f2369bd5dab.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

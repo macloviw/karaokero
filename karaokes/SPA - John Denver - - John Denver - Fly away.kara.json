@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - John Denver - - John Denver - Fly away.mp3",
+      "loudnorm": "-16.29,0.39,8.60,-26.41,-1.31",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - John Denver - - John Denver - Fly away.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c4d9c80-f87b-4f26-9a4a-f6641ac2c1da",
+    "title": "John Denver - Fly away",
+    "titles": {
+      "spa": "John Denver - Fly away"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2d30ff95-eee8-4ac9-821a-88085081a353"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:09:43.305Z",
+    "modified_at": "2022-11-04T01:09:43.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d2197cf8aa3bd715de331048ef569767.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4315524,
+      "gain": 0.51,
+      "duration": 269,
+      "loudnorm": "-16.29,0.39,8.60,-26.41,-1.31",
+      "filename": "processed_04d8525265f820a1e97a8223711482df.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

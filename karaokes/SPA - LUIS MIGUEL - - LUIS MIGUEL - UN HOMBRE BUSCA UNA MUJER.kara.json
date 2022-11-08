@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - UN HOMBRE BUSCA UNA MUJER.MP3",
+      "loudnorm": "-16.52,-0.01,2.40,-26.74,-0.30",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - UN HOMBRE BUSCA UNA MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cd77dffb-2de2-4400-a739-2fe01d36d100",
+    "title": "LUIS MIGUEL   -   UN HOMBRE BUSCA UNA MUJER",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   UN HOMBRE BUSCA UNA MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:28:04.014Z",
+    "modified_at": "2022-11-03T09:28:04.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3385019,
+      "gain": -0.58,
+      "duration": 211,
+      "loudnorm": "-16.52,-0.01,2.40,-26.74,-0.30",
+      "filename": "processed_fd95ab655ba0eb3942c88ae82795a270.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3385019,
+      "gain": -0.58,
+      "duration": 211,
+      "loudnorm": "-16.52,-0.01,2.40,-26.74,-0.30",
+      "filename": "processed_be6ba6558cbb3baf2ddcf0eb41ce44ab.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

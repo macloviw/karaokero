@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kalimba - - Kalimba - No Me Quiero Enamorar.mp3",
+      "loudnorm": "-11.32,0.59,10.70,-21.68,-1.57",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kalimba - - Kalimba - No Me Quiero Enamorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0556c067-8836-416d-8cce-cad28a1ca108",
+    "title": "Kalimba - No Me Quiero Enamorar",
+    "titles": {
+      "spa": "Kalimba - No Me Quiero Enamorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ecc7399-ebee-4bb8-8a64-f839153aab5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:29:39.091Z",
+    "modified_at": "2022-11-03T08:29:39.517Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b21a3429ca95b9b845b9abfb992229d4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4978816,
+      "gain": -6.62,
+      "duration": 207,
+      "loudnorm": "-11.32,0.59,10.70,-21.68,-1.57",
+      "filename": "processed_d4a49cc44b8b2556aa24b9e858759ecd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

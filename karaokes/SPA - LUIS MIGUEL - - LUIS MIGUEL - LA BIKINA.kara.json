@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA BIKINA.MP3",
+      "loudnorm": "-9.47,1.85,4.60,-19.54,-0.99",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA BIKINA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "274c5e5e-2a45-4617-9c67-a436d2ded3ff",
+    "title": "LUIS MIGUEL   -   LA BIKINA",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   LA BIKINA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:19:48.080Z",
+    "modified_at": "2022-11-03T09:19:48.528Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2835532,
+      "gain": -8.98,
+      "duration": 177,
+      "loudnorm": "-9.47,1.85,4.60,-19.54,-0.99",
+      "filename": "processed_a9101a3a1325e6d3d05a11dc10a6306b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2835532,
+      "gain": -8.98,
+      "duration": 177,
+      "loudnorm": "-9.47,1.85,4.60,-19.54,-0.99",
+      "filename": "processed_87a44fb43a460b0dfa7f6d6c281fa74e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

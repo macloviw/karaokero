@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - La Ley - - La Ley - Mentira (2).mp3",
+      "loudnorm": "-11.52,-0.06,4.00,-21.61,-0.93",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - La Ley - - La Ley - Mentira (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa3ce3de-b86a-4097-a2c6-8e0c0a11eb10",
+    "title": "La Ley - Mentira (2)",
+    "titles": {
+      "spa": "La Ley - Mentira (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b30331a2-8e4c-4c0c-9c94-01ce9d17cea5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:36:32.704Z",
+    "modified_at": "2022-11-03T08:36:33.261Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_269aba3ca48e1dfb54aa35fd92c6cd67.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6981894,
+      "gain": -5.54,
+      "duration": 290,
+      "loudnorm": "-11.52,-0.06,4.00,-21.61,-0.93",
+      "filename": "processed_8e19671a093dd8d299a16ac3ad8b881b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

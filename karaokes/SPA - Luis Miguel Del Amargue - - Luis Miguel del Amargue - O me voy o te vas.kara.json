@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Luis Miguel Del Amargue - - Luis Miguel del Amargue - O me voy o te vas.mp3",
+      "loudnorm": "-12.91,2.98,2.60,-23.03,0.25",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Luis Miguel Del Amargue - - Luis Miguel del Amargue - O me voy o te vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "471580df-12ce-43dc-ade1-0e196fac1e6f",
+    "title": "Luis Miguel del Amargue - O me voy o te vas",
+    "titles": {
+      "spa": "Luis Miguel del Amargue - O me voy o te vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "2e028baa-1be3-4320-8e62-86d041809749"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:04:32.468Z",
+    "modified_at": "2022-11-03T00:04:32.890Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f9e0223d9551edbcf8f5f987dbd0a131.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3935103,
+      "gain": -5.92,
+      "duration": 245,
+      "loudnorm": "-12.91,2.98,2.60,-23.03,0.25",
+      "filename": "processed_669ef3aa216fbed875d3db1735d42cb9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

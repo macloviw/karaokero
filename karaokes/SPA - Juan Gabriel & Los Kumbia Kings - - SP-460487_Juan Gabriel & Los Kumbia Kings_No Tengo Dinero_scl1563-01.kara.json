@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Juan Gabriel & Los Kumbia Kings - - SP-460487_Juan Gabriel & Los Kumbia Kings_No Tengo Dinero_scl1563-01.mp3",
+      "loudnorm": "-11.23,1.96,3.00,-21.54,-0.25",
+      "duration": 313,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Juan Gabriel & Los Kumbia Kings - - SP-460487_Juan Gabriel & Los Kumbia Kings_No Tengo Dinero_scl1563-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "40214f83-fc8e-4af6-b789-929aaf2557f4",
+    "title": "SP-460487_Juan Gabriel & Los Kumbia Kings_No Tengo Dinero_scl1563-01",
+    "titles": {
+      "spa": "SP-460487_Juan Gabriel & Los Kumbia Kings_No Tengo Dinero_scl1563-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e61950f7-7e71-4d2c-a635-995587c64b90"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:38:55.765Z",
+    "modified_at": "2022-11-03T22:38:56.149Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a068b850bf8accbfdb7ee065c65b24d1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5023882,
+      "gain": -6.29,
+      "duration": 313,
+      "loudnorm": "-11.23,1.96,3.00,-21.54,-0.25",
+      "filename": "processed_f83979b728d688a99fafe6550e67d93b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

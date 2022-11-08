@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kelly Minouge - - Kelly Minouge - Tears On My Pillow.mp3",
+      "loudnorm": "-15.39,0.30,2.10,-25.42,-0.66",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kelly Minouge - - Kelly Minouge - Tears On My Pillow.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "431fbd05-a6ed-4118-ab4a-01ac2be334a4",
+    "title": "Kelly Minouge - Tears On My Pillow",
+    "titles": {
+      "spa": "Kelly Minouge - Tears On My Pillow"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4ff02834-d99f-4687-9381-e0a72b2c9e7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:20:07.264Z",
+    "modified_at": "2022-11-04T01:20:07.645Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e0414e8a041ba8c75e2d0d119c62b998.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2571671,
+      "gain": -1.95,
+      "duration": 160,
+      "loudnorm": "-15.39,0.30,2.10,-25.42,-0.66",
+      "filename": "processed_102e014fa15f5686e2600f6e3d001a6e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

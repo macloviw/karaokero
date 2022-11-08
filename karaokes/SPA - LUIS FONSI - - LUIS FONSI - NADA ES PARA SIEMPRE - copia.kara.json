@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - NADA ES PARA SIEMPRE - copia.mp3",
+      "loudnorm": "-15.66,-0.24,8.50,-25.99,-1.69",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - NADA ES PARA SIEMPRE - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9bea69e0-528e-4720-bf53-c82512bb2915",
+    "title": "LUIS FONSI - NADA ES PARA SIEMPRE - copia",
+    "titles": {
+      "spa": "LUIS FONSI - NADA ES PARA SIEMPRE - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:10:32.073Z",
+    "modified_at": "2022-11-03T09:10:32.483Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b19213f12f04b6c2edc1d6aa644090ef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3531880,
+      "gain": -1.81,
+      "duration": 252,
+      "loudnorm": "-15.66,-0.24,8.50,-25.99,-1.69",
+      "filename": "processed_50664d3a1d49760c8e440100a47c99a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

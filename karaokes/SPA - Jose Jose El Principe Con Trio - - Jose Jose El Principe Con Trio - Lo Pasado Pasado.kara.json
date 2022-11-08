@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Lo Pasado Pasado.MP3",
+      "loudnorm": "-10.59,0.38,5.10,-20.79,-0.12",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Lo Pasado Pasado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "441b384c-8add-4a5a-bda6-ca55fcb1aac8",
+    "title": "Jose Jose El Principe Con Trio   -   Lo Pasado Pasado",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   Lo Pasado Pasado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:19:40.069Z",
+    "modified_at": "2022-11-03T07:19:40.590Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4915173,
+      "gain": -8.64,
+      "duration": 204,
+      "loudnorm": "-10.59,0.38,5.10,-20.79,-0.12",
+      "filename": "processed_ae535ccb6065e862ea2c6c1726f163a4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4915173,
+      "gain": -8.64,
+      "duration": 204,
+      "loudnorm": "-10.59,0.38,5.10,-20.79,-0.12",
+      "filename": "processed_133c85c0ce9f50bbe78fae6e3a2b9c66.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

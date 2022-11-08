@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Joel Santos - - Se nos muere el amor Ricardo Arjona.mp3",
+      "loudnorm": "-12.82,0.09,4.20,-22.87,-1.05",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Joel Santos - - Se nos muere el amor Ricardo Arjona.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c970aa2-9864-48ab-8bfd-c15aa4de9b5f",
+    "title": "Se nos muere el amor Ricardo Arjona",
+    "titles": {
+      "spa": "Se nos muere el amor Ricardo Arjona"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d6bd345c-3f1b-4bf8-93ca-bef7900c206e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:25:09.300Z",
+    "modified_at": "2022-11-03T06:25:09.734Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_034bfbd78412c819eac6d4a66297cf98.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10130825,
+      "gain": -4.05,
+      "duration": 253,
+      "loudnorm": "-12.82,0.09,4.20,-22.87,-1.05",
+      "filename": "processed_bcca7fef3c3954453d17587b9f5d128f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

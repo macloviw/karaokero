@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENUDO - - MENUDO - QUIERO ROCK 371.mp3",
+      "loudnorm": "-12.19,-0.06,2.90,-22.43,-0.13",
+      "duration": 151,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENUDO - - MENUDO - QUIERO ROCK 371.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "22868ac6-af5a-4e63-be67-5dee76739b18",
+    "title": "MENUDO - QUIERO ROCK  371",
+    "titles": {
+      "spa": "MENUDO - QUIERO ROCK  371"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "32232b69-e497-4125-927a-e29cd83397e7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:36:45.147Z",
+    "modified_at": "2022-11-03T10:36:45.635Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a40898f140fcdfff9833d7c5548a039b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3645326,
+      "gain": -7.01,
+      "duration": 151,
+      "loudnorm": "-12.19,-0.06,2.90,-22.43,-0.13",
+      "filename": "processed_b045c9d83580f651ecea8c764a888417.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

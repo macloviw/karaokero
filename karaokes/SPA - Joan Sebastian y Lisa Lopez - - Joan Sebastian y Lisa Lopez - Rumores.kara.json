@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Joan Sebastian y Lisa Lopez - - Joan Sebastian y Lisa Lopez - Rumores.mp3",
+      "loudnorm": "-10.71,0.55,3.20,-20.85,-0.13",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Joan Sebastian y Lisa Lopez - - Joan Sebastian y Lisa Lopez - Rumores.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f1ace35-4bfa-4b75-b1c1-ac4016d340b1",
+    "title": "Joan Sebastian y Lisa Lopez - Rumores",
+    "titles": {
+      "spa": "Joan Sebastian y Lisa Lopez - Rumores"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4eb1f523-24a4-4e7b-bcb8-f9611c1bdf1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:33:15.823Z",
+    "modified_at": "2022-11-03T22:33:16.198Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_be5eb81442e69970d834d73a34d08bd1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5425822,
+      "gain": -7.78,
+      "duration": 225,
+      "loudnorm": "-10.71,0.55,3.20,-20.85,-0.13",
+      "filename": "processed_73d1420c79508412343c15f6b5285ec1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Journey - - Journey - Separate ways.mp3",
+      "loudnorm": "-18.49,-0.01,2.80,-28.59,-0.69",
+      "duration": 349,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Journey - - Journey - Separate ways.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0b8b9437-14b9-439a-bbf8-19db23c3f0be",
+    "title": "Journey - Separate ways",
+    "titles": {
+      "spa": "Journey - Separate ways"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec1e210f-d1d4-4da1-bc6a-0e0e8fc13f0d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:13:16.947Z",
+    "modified_at": "2022-11-04T01:13:17.364Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f08cf5f43ad071f91fd774c63ca90d6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5601585,
+      "gain": 1.86,
+      "duration": 349,
+      "loudnorm": "-18.49,-0.01,2.80,-28.59,-0.69",
+      "filename": "processed_5ddc0b6d3476f901100c5fc4c3bec76b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Pan De Vida.mp3",
+      "loudnorm": "-18.37,0.02,7.70,-28.58,-0.87",
+      "duration": 330,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Pan De Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c66cfe55-b843-4cf7-892a-041f2a7d9bd0",
+    "title": "Jesus Adrian Romero - Pan De Vida",
+    "titles": {
+      "spa": "Jesus Adrian Romero - Pan De Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:15:14.045Z",
+    "modified_at": "2022-11-03T14:15:14.478Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce35bfd480f1fd4aefd9bc7b3bbe1baf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5294804,
+      "gain": -0.14,
+      "duration": 330,
+      "loudnorm": "-18.37,0.02,7.70,-28.58,-0.87",
+      "filename": "processed_44d5fbf3c1c10dabe305d50f947b04d4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

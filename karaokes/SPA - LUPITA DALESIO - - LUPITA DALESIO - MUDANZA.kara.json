@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - MUDANZA.mp3",
+      "loudnorm": "-17.40,0.50,7.30,-27.70,-1.45",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - MUDANZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "26022ceb-aedb-42d6-8d40-3702d05f521e",
+    "title": "LUPITA DALESIO   -   MUDANZA",
+    "titles": {
+      "spa": "LUPITA DALESIO   -   MUDANZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:40:03.160Z",
+    "modified_at": "2022-11-03T09:40:03.569Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecc8e7e9a85b563cefcbb78ccc813cc5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5623318,
+      "gain": 0.67,
+      "duration": 234,
+      "loudnorm": "-17.40,0.50,7.30,-27.70,-1.45",
+      "filename": "processed_0f0195fae1f8c9b8711b83e0ffa00046.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

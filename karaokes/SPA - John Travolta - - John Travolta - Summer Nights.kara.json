@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - John Travolta - - John Travolta - Summer Nights.mp3",
+      "loudnorm": "-14.86,-0.18,14.20,-25.69,-1.10",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - John Travolta - - John Travolta - Summer Nights.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "55021d40-3f7b-4775-8474-860ba979a31e",
+    "title": "John Travolta - Summer Nights",
+    "titles": {
+      "spa": "John Travolta - Summer Nights"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "43dd41d0-511f-4079-836b-7e494197ad65"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:11:39.248Z",
+    "modified_at": "2022-11-04T01:11:39.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d5f0ea76a7230dc41bb35487d1a42ce7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5309221,
+      "gain": -4.02,
+      "duration": 221,
+      "loudnorm": "-14.86,-0.18,14.20,-25.69,-1.10",
+      "filename": "processed_c07e7b9585163cffc2a3c70fa16e2d5b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

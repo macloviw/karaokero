@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - JAVIER SOLIS - NOCTURNAL.mp3",
+      "loudnorm": "-13.71,-0.61,5.30,-23.85,0.03",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - JAVIER SOLIS - NOCTURNAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05f628df-8fac-4e58-8a02-ec9ffde11b6a",
+    "title": "JAVIER SOLIS - NOCTURNAL",
+    "titles": {
+      "spa": "JAVIER SOLIS - NOCTURNAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:05:42.918Z",
+    "modified_at": "2022-11-03T06:05:43.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7cc05b53c23e7911538fafb97c3f1314.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1514063,
+      "gain": -5.47,
+      "duration": 216,
+      "loudnorm": "-13.71,-0.61,5.30,-23.85,0.03",
+      "filename": "processed_86d3232b7c26dc8aa03dea061e60424a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

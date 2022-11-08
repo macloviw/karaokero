@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Linkin Park - - Papercut.mp3",
+      "loudnorm": "-13.35,-0.31,3.50,-23.46,-0.94",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Linkin Park - - Papercut.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90c95342-c8e0-4158-9025-4d7e0019c7c5",
+    "title": "Papercut",
+    "titles": {
+      "spa": "Papercut"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "10075987-123b-4445-99d2-36a94faf70ba"
+      ],
+      "singers": [
+        "20ae61f8-2bc9-47f0-a247-5b85d54ca962"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:57:33.038Z",
+    "modified_at": "2022-11-02T21:57:33.631Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c7cc2a44b5940fc9ae07d65e644908c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3309915,
+      "gain": -4.2,
+      "duration": 206,
+      "loudnorm": "-13.35,-0.31,3.50,-23.46,-0.94",
+      "filename": "processed_43ce1a80cac29363867d36ecd4ae305e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

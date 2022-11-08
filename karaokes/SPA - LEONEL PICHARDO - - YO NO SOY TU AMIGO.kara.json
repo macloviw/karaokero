@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEONEL PICHARDO - - YO NO SOY TU AMIGO.mp3",
+      "loudnorm": "-12.42,0.62,6.70,-22.82,-0.04",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEONEL PICHARDO - - YO NO SOY TU AMIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "13d7179b-51b2-440b-b228-8c6755ac8772",
+    "title": "YO NO SOY TU AMIGO",
+    "titles": {
+      "spa": "YO NO SOY TU AMIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fad8d8e7-f61d-4ec7-b73c-4f4163388f5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:51:33.407Z",
+    "modified_at": "2022-11-03T08:51:33.812Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1ec2a32161adfb72eaf12f7d4f7e8956.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2440062,
+      "gain": -7.9,
+      "duration": 152,
+      "loudnorm": "-12.42,0.62,6.70,-22.82,-0.04",
+      "filename": "processed_4c776cd2131d0d8a1dda5267ba72d19c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENUDO - - MENUDO - ES POR AMOR 371.mp3",
+      "loudnorm": "-13.77,-0.27,7.50,-23.95,-0.77",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENUDO - - MENUDO - ES POR AMOR 371.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "694f7aed-5f17-484f-ac1a-0c0c67506da2",
+    "title": "MENUDO - ES POR AMOR  371",
+    "titles": {
+      "spa": "MENUDO - ES POR AMOR  371"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "32232b69-e497-4125-927a-e29cd83397e7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:35:45.216Z",
+    "modified_at": "2022-11-03T10:35:45.694Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a64a3bc53f58012f54050f33166cfdda.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5707327,
+      "gain": -4.41,
+      "duration": 237,
+      "loudnorm": "-13.77,-0.27,7.50,-23.95,-0.77",
+      "filename": "processed_22921bf6281ed8ae90230f19b83d5fac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

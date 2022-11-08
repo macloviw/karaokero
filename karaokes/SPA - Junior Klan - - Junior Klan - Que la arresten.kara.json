@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Junior Klan - - Junior Klan - Que la arresten.mp3",
+      "loudnorm": "-11.84,1.59,3.80,-21.87,0.08",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Junior Klan - - Junior Klan - Que la arresten.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d32cfff7-8ef2-4219-bf53-64a0a8ae336a",
+    "title": "Junior Klan - Que la arresten",
+    "titles": {
+      "spa": "Junior Klan - Que la arresten"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "123fc552-6cea-4da5-9417-cfa003c84908"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:27:13.260Z",
+    "modified_at": "2022-11-03T16:27:13.899Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f4b13e4f066e8b90db9ccd0b4020ae1a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5070358,
+      "gain": -6.65,
+      "duration": 211,
+      "loudnorm": "-11.84,1.59,3.80,-21.87,0.08",
+      "filename": "processed_04568179f66b6d6740a239f7cef18ed5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

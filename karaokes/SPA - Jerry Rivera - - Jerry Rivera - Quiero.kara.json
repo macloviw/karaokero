@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - Jerry Rivera - Quiero.mp3",
+      "loudnorm": "-15.63,-0.19,4.60,-25.68,-1.04",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - Jerry Rivera - Quiero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "daf25fd2-00df-46f6-ac08-85a7f2e89469",
+    "title": "Jerry Rivera - Quiero",
+    "titles": {
+      "spa": "Jerry Rivera - Quiero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:18:41.695Z",
+    "modified_at": "2022-11-03T06:18:42.126Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3ea3c98b02bbfe236d66f9f61983abd2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4581218,
+      "gain": -1.08,
+      "duration": 286,
+      "loudnorm": "-15.63,-0.19,4.60,-25.68,-1.04",
+      "filename": "processed_f00bef00a1623094999df037630cbddb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

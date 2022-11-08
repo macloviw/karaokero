@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Johnny Ventura - Las Indias De Bani ( Can ).mp3",
+      "loudnorm": "-15.78,0.26,3.20,-25.90,-0.71",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Johnny Ventura - Las Indias De Bani ( Can ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1146862-770a-4799-b319-3b89aeb97006",
+    "title": "Johnny Ventura - Las Indias De Bani ( Can )",
+    "titles": {
+      "spa": "Johnny Ventura - Las Indias De Bani ( Can )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:37:05.691Z",
+    "modified_at": "2022-11-03T16:37:06.268Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eca0ce20550fc64dbd0c2d8c90925cbf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3180975,
+      "gain": -3.13,
+      "duration": 227,
+      "loudnorm": "-15.78,0.26,3.20,-25.90,-0.71",
+      "filename": "processed_ddf435fc446d4bc049986ff18ac8b0ee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

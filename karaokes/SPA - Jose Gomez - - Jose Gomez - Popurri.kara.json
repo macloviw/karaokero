@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Gomez - - Jose Gomez - Popurri.mp3",
+      "loudnorm": "-12.26,1.41,9.10,-22.40,-1.00",
+      "duration": 587,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Gomez - - Jose Gomez - Popurri.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5846410b-9447-4e88-b976-8e9047f30edf",
+    "title": "Jose Gomez - Popurri",
+    "titles": {
+      "spa": "Jose Gomez - Popurri"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "582db48b-f293-4b7a-92af-efe0b140f508"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:17:26.577Z",
+    "modified_at": "2022-11-03T14:17:27.082Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_68a0920c0765d98d5be28aa2eecdb863.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9400417,
+      "gain": -6.44,
+      "duration": 587,
+      "loudnorm": "-12.26,1.41,9.10,-22.40,-1.00",
+      "filename": "processed_b362d36dc6dfb9266d17715c16d820cc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

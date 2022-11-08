@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DIRECTO AL CORAZON.MP3",
+      "loudnorm": "-9.94,2.93,2.70,-19.99,0.05",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DIRECTO AL CORAZON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "28cd8e30-0a02-463d-9b01-8c6b99e6431a",
+    "title": "LUIS MIGUEL   -   DIRECTO AL CORAZON",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   DIRECTO AL CORAZON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:18:11.514Z",
+    "modified_at": "2022-11-03T09:18:12.000Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2707636,
+      "gain": -7.04,
+      "duration": 169,
+      "loudnorm": "-9.94,2.93,2.70,-19.99,0.05",
+      "filename": "processed_93f1da2b9751d51eea615b22a8115d84.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2707636,
+      "gain": -7.04,
+      "duration": 169,
+      "loudnorm": "-9.94,2.93,2.70,-19.99,0.05",
+      "filename": "processed_b7064dcc5deec4f69403722cdbcf58b4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - SUENA BY LUIS M.MP3",
+      "loudnorm": "-20.38,-3.00,10.40,-30.77,-1.41",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - SUENA BY LUIS M.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ceca2444-50d9-43cf-8b6b-42984aa5cb5e",
+    "title": "SUEÑA BY LUIS M",
+    "titles": {
+      "spa": "SUEÑA BY LUIS M"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:35:48.090Z",
+    "modified_at": "2022-11-03T09:35:48.681Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4193770,
+      "gain": 2.57,
+      "duration": 261,
+      "loudnorm": "-20.38,-3.00,10.40,-30.77,-1.41",
+      "filename": "processed_45b04568fda2b1c0cf599a8fc53669b4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4193770,
+      "gain": 2.57,
+      "duration": 261,
+      "loudnorm": "-20.38,-3.00,10.40,-30.77,-1.41",
+      "filename": "processed_356290d33c367b6c4af9bb41e73df760.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

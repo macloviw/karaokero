@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - EXITOS 09 ESCANDALO.mp3",
+      "loudnorm": "-12.45,0.95,6.20,-22.58,0.13",
+      "duration": 149,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - EXITOS 09 ESCANDALO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e0c155a9-6c56-42b7-a322-d863fe2ff485",
+    "title": "EXITOS 09 ESCANDALO",
+    "titles": {
+      "spa": "EXITOS 09 ESCANDALO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:03:20.792Z",
+    "modified_at": "2022-11-03T06:03:21.201Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0bcea7566c5ee2cb2e8f4e104f7821f3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2394165,
+      "gain": -7.01,
+      "duration": 149,
+      "loudnorm": "-12.45,0.95,6.20,-22.58,0.13",
+      "filename": "processed_c1bc1f343af9cb29a394f29662c066d0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

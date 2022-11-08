@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julieta Venegas - - Julieta Venegas - Algun Dia.mp3",
+      "loudnorm": "-12.34,-0.12,2.00,-22.34,0.04",
+      "duration": 105,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julieta Venegas - - Julieta Venegas - Algun Dia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be7e6b5a-8f45-46ef-b23d-5348353807c4",
+    "title": "Julieta Venegas - Algun Dia",
+    "titles": {
+      "spa": "Julieta Venegas - Algun Dia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a36061d-c8c5-4497-8cdd-b0c4adeea22b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:57:41.896Z",
+    "modified_at": "2022-11-03T07:57:42.300Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a836d17a84221f89c3ba30b9b5be4a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2530629,
+      "gain": -4.08,
+      "duration": 105,
+      "loudnorm": "-12.34,-0.12,2.00,-22.34,0.04",
+      "filename": "processed_96e915f6947cb580c8903af2fdf04d90.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

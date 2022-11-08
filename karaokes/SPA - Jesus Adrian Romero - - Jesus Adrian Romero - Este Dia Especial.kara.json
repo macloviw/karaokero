@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Este Dia Especial.mp3",
+      "loudnorm": "-19.37,-2.57,9.80,-29.53,-1.35",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Este Dia Especial.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0ed6809-dd15-4152-a88f-8ede29128883",
+    "title": "Jesus Adrian Romero - Este Día Especial",
+    "titles": {
+      "spa": "Jesus Adrian Romero - Este Día Especial"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:14:44.734Z",
+    "modified_at": "2022-11-03T14:14:45.177Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_359745e494f14ccabeb7d303851a2997.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5118007,
+      "gain": 0.63,
+      "duration": 319,
+      "loudnorm": "-19.37,-2.57,9.80,-29.53,-1.35",
+      "filename": "processed_1996d5f6f91eeabe36f4d56087260c69.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

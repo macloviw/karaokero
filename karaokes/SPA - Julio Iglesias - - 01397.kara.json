@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - 01397.mp3",
+      "loudnorm": "-19.78,-4.06,5.60,-29.92,-1.03",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - 01397.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f372ed27-b0df-4c1f-9ef4-835f9fc95b10",
+    "title": "01397",
+    "titles": {
+      "spa": "01397"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:13:54.976Z",
+    "modified_at": "2022-11-03T08:13:55.425Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_815833ae118615ac3e104ebd8905b5c4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6128332,
+      "gain": 2.11,
+      "duration": 255,
+      "loudnorm": "-19.78,-4.06,5.60,-29.92,-1.03",
+      "filename": "processed_53a9407d571b94a69546353e432b392e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

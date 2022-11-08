@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - FINA ESTAMPA .CDG.MP3",
+      "loudnorm": "-19.26,-2.09,2.00,-29.42,0.09",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - FINA ESTAMPA .CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31c78d18-ecae-497e-bb42-b38550a3556b",
+    "title": "FINA ESTAMPA .CDG",
+    "titles": {
+      "spa": "FINA ESTAMPA .CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:14:00.085Z",
+    "modified_at": "2022-11-03T10:14:00.569Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2850031,
+      "gain": 2.59,
+      "duration": 178,
+      "loudnorm": "-19.26,-2.09,2.00,-29.42,0.09",
+      "filename": "processed_aa4e3f79ecd8878a029a7c105efe35fb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2850031,
+      "gain": 2.59,
+      "duration": 178,
+      "loudnorm": "-19.26,-2.09,2.00,-29.42,0.09",
+      "filename": "processed_7b605f495c4fed3b228c176efa574f6c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

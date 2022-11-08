@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - King Clave - - King Clave - Mi corazon lloro (-1).mp3",
+      "loudnorm": "-12.96,0.25,5.50,-23.06,0.01",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - King Clave - - King Clave - Mi corazon lloro (-1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "75ad6b9d-b16b-43d3-922f-06aa8504f552",
+    "title": "King Clave - Mi corazón lloro (-1)",
+    "titles": {
+      "spa": "King Clave - Mi corazón lloro (-1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ce77ab6d-688e-4766-8a81-7aca243d5aea"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:44:22.793Z",
+    "modified_at": "2022-11-03T22:44:23.179Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e3bd73a86f8175f664c491f46728283.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5322387,
+      "gain": -5.69,
+      "duration": 221,
+      "loudnorm": "-12.96,0.25,5.50,-23.06,0.01",
+      "filename": "processed_900ba74dd3272e93070bc0b7f17010f4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

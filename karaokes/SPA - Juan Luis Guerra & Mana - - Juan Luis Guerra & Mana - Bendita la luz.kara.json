@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Juan Luis Guerra & Mana - - Juan Luis Guerra & Mana - Bendita la luz.mp3",
+      "loudnorm": "-14.80,1.56,9.70,-25.02,-1.37",
+      "duration": 311,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Juan Luis Guerra & Mana - - Juan Luis Guerra & Mana - Bendita la luz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51ff0bde-1c62-45c6-af30-b93b10046c4a",
+    "title": "Juan Luis Guerra & Mana - Bendita la luz",
+    "titles": {
+      "spa": "Juan Luis Guerra & Mana - Bendita la luz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "d084e32f-bb65-4faa-8807-99cfde0ea328"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:38:40.406Z",
+    "modified_at": "2022-11-03T23:38:40.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_09706c8b1d65f6dfdf85c57deb264d89.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4982504,
+      "gain": 0.09,
+      "duration": 311,
+      "loudnorm": "-14.80,1.56,9.70,-25.02,-1.37",
+      "filename": "processed_d7659bff3ea41e2d5eece17a47e3fdfc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

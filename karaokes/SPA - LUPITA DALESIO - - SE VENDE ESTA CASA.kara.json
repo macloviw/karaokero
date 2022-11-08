@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - SE VENDE ESTA CASA.mp3",
+      "loudnorm": "-13.30,0.58,5.90,-23.44,-0.28",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - SE VENDE ESTA CASA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca5e239d-9785-4a06-a832-498ce3888db4",
+    "title": "SE VENDE ESTA CASA",
+    "titles": {
+      "spa": "SE VENDE ESTA CASA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:42:23.082Z",
+    "modified_at": "2022-11-03T09:42:23.480Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fce00e41ff0ce0934b31631b9263dac7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3953153,
+      "gain": -4.99,
+      "duration": 164,
+      "loudnorm": "-13.30,0.58,5.90,-23.44,-0.28",
+      "filename": "processed_1c713a005f84c49b0dd696349238db40.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

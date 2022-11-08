@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOLITA FLORES - - LOLITA - LO VOY A DECIDIR.mp3",
+      "loudnorm": "-19.00,-2.75,10.20,-29.16,-1.68",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOLITA FLORES - - LOLITA - LO VOY A DECIDIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "67be8f61-aedc-4e0b-a10f-b1db87c280b7",
+    "title": "LOLITA - LO VOY A DECIDIR",
+    "titles": {
+      "spa": "LOLITA - LO VOY A DECIDIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4776cc04-3f16-45b6-abea-8ccc87e510f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:54:46.082Z",
+    "modified_at": "2022-11-03T08:54:46.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_cc6f90cbad48d4e8a63d290d19dc5d60.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6099791,
+      "gain": 1.09,
+      "duration": 254,
+      "loudnorm": "-19.00,-2.75,10.20,-29.16,-1.68",
+      "filename": "processed_405ffb6a081196538b2f7a9cb7d89077.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

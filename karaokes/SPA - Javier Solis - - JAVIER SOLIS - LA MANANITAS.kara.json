@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - JAVIER SOLIS - LA MANANITAS.mp3",
+      "loudnorm": "-13.55,-0.21,5.40,-23.57,-0.64",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - JAVIER SOLIS - LA MANANITAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a31b0d8-837b-4cec-827b-b80649b3f15d",
+    "title": "JAVIER SOLIS - LA MAÑANITAS",
+    "titles": {
+      "spa": "JAVIER SOLIS - LA MAÑANITAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:04:54.671Z",
+    "modified_at": "2022-11-03T06:04:55.087Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3aad5136b3be3b1c036236deb97877ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7005387,
+      "gain": -6.14,
+      "duration": 250,
+      "loudnorm": "-13.55,-0.21,5.40,-23.57,-0.64",
+      "filename": "processed_218e3a23594d2982d1935e07d96a3618.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

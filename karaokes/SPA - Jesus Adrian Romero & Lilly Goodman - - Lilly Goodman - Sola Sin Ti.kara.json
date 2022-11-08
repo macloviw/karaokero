@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Sola Sin Ti.mp3",
+      "loudnorm": "-17.10,5.94,12.20,-27.86,-0.73",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Sola Sin Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9e3aa5f-b46c-4c36-9c01-94cd8be5c29d",
+    "title": "Lilly Goodman - Sola Sin Ti",
+    "titles": {
+      "spa": "Lilly Goodman - Sola Sin Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "e818b435-fff3-4d16-b229-5812bc9f708c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:23:19.447Z",
+    "modified_at": "2022-11-03T14:23:19.859Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8fdfac6700dcdf7a8bcbe6430b23aafa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4323049,
+      "gain": -1.47,
+      "duration": 270,
+      "loudnorm": "-17.10,5.94,12.20,-27.86,-0.73",
+      "filename": "processed_0c36ca99dea67757955987292af40b9d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

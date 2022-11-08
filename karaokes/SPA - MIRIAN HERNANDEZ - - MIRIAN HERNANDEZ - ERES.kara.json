@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - ERES.MP3",
+      "loudnorm": "-13.06,0.60,12.90,-23.55,-0.90",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - ERES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b46e4a3b-9271-4b86-8fce-d88dd03272e7",
+    "title": "MIRIAN HERNANDEZ   -   ERES",
+    "titles": {
+      "spa": "MIRIAN HERNANDEZ   -   ERES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af34ad6a-8c85-484e-ae7b-f738432bf0f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:44:10.316Z",
+    "modified_at": "2022-11-03T10:44:10.990Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4147377,
+      "gain": -6.39,
+      "duration": 259,
+      "loudnorm": "-13.06,0.60,12.90,-23.55,-0.90",
+      "filename": "processed_a768efc043df84faa1682fb2a21c6554.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4147377,
+      "gain": -6.39,
+      "duration": 259,
+      "loudnorm": "-13.06,0.60,12.90,-23.55,-0.90",
+      "filename": "processed_6a9b5df4046af1a92e8f2f7306ea788b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

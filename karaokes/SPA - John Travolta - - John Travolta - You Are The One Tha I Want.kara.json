@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - John Travolta - - John Travolta - You Are The One Tha I Want.mp3",
+      "loudnorm": "-16.39,-0.51,2.60,-26.49,-0.66",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - John Travolta - - John Travolta - You Are The One Tha I Want.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1862b6aa-65af-4681-924e-756afb4c45ce",
+    "title": "John Travolta - You Are The One Tha I Want",
+    "titles": {
+      "spa": "John Travolta - You Are The One Tha I Want"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "43dd41d0-511f-4079-836b-7e494197ad65"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:11:46.770Z",
+    "modified_at": "2022-11-04T01:11:47.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eaa8997b0425382434b80d52d3ba7319.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2434708,
+      "gain": -2.44,
+      "duration": 152,
+      "loudnorm": "-16.39,-0.51,2.60,-26.49,-0.66",
+      "filename": "processed_3fec51188436e8380709b50afca34358.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

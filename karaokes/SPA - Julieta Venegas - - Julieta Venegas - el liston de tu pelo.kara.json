@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julieta Venegas - - Julieta Venegas - el liston de tu pelo.mp3",
+      "loudnorm": "-7.37,1.20,2.50,-17.43,-0.48",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julieta Venegas - - Julieta Venegas - el liston de tu pelo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df9c3a1f-e27e-4b86-8509-c6f3631c26b7",
+    "title": "Julieta Venegas - el liston de tu pelo",
+    "titles": {
+      "spa": "Julieta Venegas - el liston de tu pelo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a36061d-c8c5-4497-8cdd-b0c4adeea22b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:58:07.156Z",
+    "modified_at": "2022-11-03T07:58:07.566Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3ca164b9fee22b34f85b62785452d171.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3459622,
+      "gain": -8.89,
+      "duration": 216,
+      "loudnorm": "-7.37,1.20,2.50,-17.43,-0.48",
+      "filename": "processed_b5428b137921ab7a224e87cd491c64c5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

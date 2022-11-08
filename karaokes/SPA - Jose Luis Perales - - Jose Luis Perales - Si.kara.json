@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Si.mp3",
+      "loudnorm": "-12.08,3.11,11.30,-22.43,-1.21",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Si.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "271c84a5-82b3-49a7-b249-55bb99dbaed4",
+    "title": "José Luis Perales - Si",
+    "titles": {
+      "spa": "José Luis Perales - Si"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:38:04.154Z",
+    "modified_at": "2022-11-03T07:38:04.560Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa1e4f6ae17f4fb9642f9e5271e7ab53.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3663509,
+      "gain": -6.62,
+      "duration": 228,
+      "loudnorm": "-12.08,3.11,11.30,-22.43,-1.21",
+      "filename": "processed_c1547e6f269a6686a95cac8f1f0b2f45.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

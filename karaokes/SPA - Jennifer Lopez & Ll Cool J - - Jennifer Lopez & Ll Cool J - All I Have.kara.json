@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez & Ll Cool J - - Jennifer Lopez & Ll Cool J - All I Have.mp3",
+      "loudnorm": "-14.25,-0.13,2.60,-24.28,-0.33",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez & Ll Cool J - - Jennifer Lopez & Ll Cool J - All I Have.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c59a246f-2321-48d6-8488-a6a2d32e513f",
+    "title": "Jennifer Lopez & Ll Cool J - All I Have",
+    "titles": {
+      "spa": "Jennifer Lopez & Ll Cool J - All I Have"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "beaee008-0b76-4698-b70d-bb8804bdff4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:31:10.493Z",
+    "modified_at": "2022-11-03T22:31:10.886Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3311cae1bf9737dbf4648abd83f5de10.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4313017,
+      "gain": -1.95,
+      "duration": 269,
+      "loudnorm": "-14.25,-0.13,2.60,-24.28,-0.33",
+      "filename": "processed_27fd5ba48a07d97e24875cc853c3f27d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Fredys - - Los Fredys - Tu inolvidable sonrisa.mp3",
+      "loudnorm": "-12.03,0.72,3.70,-22.23,0.27",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Fredys - - Los Fredys - Tu inolvidable sonrisa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a765a68-6744-4ac4-82db-23a92edce5ba",
+    "title": "Los Fredys - Tu inolvidable sonrisa",
+    "titles": {
+      "spa": "Los Fredys - Tu inolvidable sonrisa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "46f9eb95-764c-4529-b21e-262b94ab8f71"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:00:51.140Z",
+    "modified_at": "2022-11-03T09:00:51.544Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_78efa4a3343e5f44567390ca77c4c778.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2750684,
+      "gain": -5.53,
+      "duration": 171,
+      "loudnorm": "-12.03,0.72,3.70,-22.23,0.27",
+      "filename": "processed_ed2f69cafef02d5e83d37fb40618d7ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

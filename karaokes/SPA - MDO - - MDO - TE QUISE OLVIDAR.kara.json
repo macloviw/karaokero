@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MDO - - MDO - TE QUISE OLVIDAR.MP3",
+      "loudnorm": "-14.93,-0.19,6.60,-24.97,-1.53",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MDO - - MDO - TE QUISE OLVIDAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a7f8dd4-efba-4592-807a-001e9741ce0f",
+    "title": "MDO - TE QUISE OLVIDAR",
+    "titles": {
+      "spa": "MDO - TE QUISE OLVIDAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "66183922-340f-467d-9ddb-118383bbd5ce"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:01:21.232Z",
+    "modified_at": "2022-11-03T10:01:21.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4448854,
+      "gain": -2.7,
+      "duration": 277,
+      "loudnorm": "-14.93,-0.19,6.60,-24.97,-1.53",
+      "filename": "processed_75384b56f5ba4fbe0998ceeee4378490.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4448854,
+      "gain": -2.7,
+      "duration": 277,
+      "loudnorm": "-14.93,-0.19,6.60,-24.97,-1.53",
+      "filename": "processed_59e4c76c55882c0e32fa0c0e9a4c47f4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

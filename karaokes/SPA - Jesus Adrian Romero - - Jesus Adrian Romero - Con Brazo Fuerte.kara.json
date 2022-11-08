@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Con Brazo Fuerte.mp3",
+      "loudnorm": "-16.32,1.41,4.30,-26.41,-0.80",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Con Brazo Fuerte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c293ca2-1c1c-42b0-a7e0-6b9d4f395490",
+    "title": "Jesus Adrian Romero - Con Brazo Fuerte",
+    "titles": {
+      "spa": "Jesus Adrian Romero - Con Brazo Fuerte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:48:18.167Z",
+    "modified_at": "2022-11-04T03:48:18.541Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9ee613c67864b79bfbae1edaf9cd1c12.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4188160,
+      "gain": -1.07,
+      "duration": 261,
+      "loudnorm": "-16.32,1.41,4.30,-26.41,-0.80",
+      "filename": "processed_21feaa786ef665b9ad5025514cb7f9ac.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

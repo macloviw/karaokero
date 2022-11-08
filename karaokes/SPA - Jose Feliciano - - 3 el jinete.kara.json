@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - 3 el jinete.mp3",
+      "loudnorm": "-8.56,0.75,3.50,-18.77,-0.36",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - 3 el jinete.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be2be9b2-93b5-4ba7-a0f3-b5a03b6fd925",
+    "title": "3 el jinete",
+    "titles": {
+      "spa": "3 el jinete"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:28:49.618Z",
+    "modified_at": "2022-11-03T06:28:50.036Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_62d14223b194a27b0fcab21065300dc6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2886521,
+      "gain": -8.74,
+      "duration": 180,
+      "loudnorm": "-8.56,0.75,3.50,-18.77,-0.36",
+      "filename": "processed_da49a2d9d459a6d04c68f08de9f20cc3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

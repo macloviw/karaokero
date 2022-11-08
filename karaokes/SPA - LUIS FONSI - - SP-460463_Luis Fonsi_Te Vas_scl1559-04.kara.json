@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - SP-460463_Luis Fonsi_Te Vas_scl1559-04.mp3",
+      "loudnorm": "-11.31,-0.07,10.00,-21.54,-1.58",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - SP-460463_Luis Fonsi_Te Vas_scl1559-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a2544e6e-e3d2-4ad3-bdf3-114692a26667",
+    "title": "SP-460463_Luís Fonsi_Te Vas_scl1559-04",
+    "titles": {
+      "spa": "SP-460463_Luís Fonsi_Te Vas_scl1559-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:11:44.332Z",
+    "modified_at": "2022-11-03T09:11:44.762Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ecf913f78f4322d505dd9001fa7a943d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4061322,
+      "gain": -6.22,
+      "duration": 253,
+      "loudnorm": "-11.31,-0.07,10.00,-21.54,-1.58",
+      "filename": "processed_669ba0f0726a0f260b78e02afe9d53d1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

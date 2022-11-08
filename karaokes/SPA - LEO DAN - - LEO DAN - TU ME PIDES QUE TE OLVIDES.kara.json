@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - TU ME PIDES QUE TE OLVIDES.MP3",
+      "loudnorm": "-11.95,2.18,7.30,-22.19,-0.62",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - TU ME PIDES QUE TE OLVIDES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "53358306-e0cd-47f9-827b-cf7ec3c01221",
+    "title": "LEO DAN   -   TU ME PIDES QUE TE OLVIDES",
+    "titles": {
+      "spa": "LEO DAN   -   TU ME PIDES QUE TE OLVIDES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:46:29.192Z",
+    "modified_at": "2022-11-03T08:46:29.799Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9257893,
+      "gain": -5.72,
+      "duration": 231,
+      "loudnorm": "-11.95,2.18,7.30,-22.19,-0.62",
+      "filename": "processed_12640452e7b06254bdf07a28df720cb9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9257893,
+      "gain": -5.72,
+      "duration": 231,
+      "loudnorm": "-11.95,2.18,7.30,-22.19,-0.62",
+      "filename": "processed_cb4afa4843b3975eac85864cccb45d59.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

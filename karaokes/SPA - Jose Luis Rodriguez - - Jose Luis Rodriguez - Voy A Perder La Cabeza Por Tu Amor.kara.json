@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Voy A Perder La Cabeza Por Tu Amor.MP3",
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "duration": 334,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Voy A Perder La Cabeza Por Tu Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d0ca48d6-22c2-4b03-9757-a0f91c815a72",
+    "title": "Jose Luis Rodriguez - Voy A Perder La Cabeza Por Tu Amor",
+    "titles": {
+      "spa": "Jose Luis Rodriguez - Voy A Perder La Cabeza Por Tu Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:29:20.572Z",
+    "modified_at": "2022-11-03T07:29:21.217Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5351424,
+      "gain": -1.69,
+      "duration": 334,
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "filename": "processed_c54c28282f77375be4d40ac1e410b73c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5351424,
+      "gain": -1.69,
+      "duration": 334,
+      "loudnorm": "-14.75,0.23,2.90,-24.87,0.28",
+      "filename": "processed_257a615b9abd934a0ee19de7ab5ad912.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

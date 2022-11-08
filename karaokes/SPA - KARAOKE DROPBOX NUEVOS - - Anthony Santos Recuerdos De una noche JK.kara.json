@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Anthony Santos Recuerdos De una noche JK.mp3",
+      "loudnorm": "-14.28,0.40,3.10,-24.37,0.03",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Anthony Santos Recuerdos De una noche JK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2aa1c9a2-b6ac-4af0-a3d3-3d3e50dcb3ce",
+    "title": "Anthony Santos  Recuerdos De una noche  JK",
+    "titles": {
+      "spa": "Anthony Santos  Recuerdos De una noche  JK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:32:05.385Z",
+    "modified_at": "2022-11-03T16:32:05.881Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e3b3a24f9522c3a94a22dea157872b3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6923078,
+      "gain": -2.63,
+      "duration": 288,
+      "loudnorm": "-14.28,0.40,3.10,-24.37,0.03",
+      "filename": "processed_eb4404e72eaaa0d119193952b0a10130.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

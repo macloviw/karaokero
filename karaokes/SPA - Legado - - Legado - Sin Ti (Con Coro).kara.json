@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Legado - - Legado - Sin Ti (Con Coro).mp3",
+      "loudnorm": "-14.07,1.02,8.50,-24.19,-1.15",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Legado - - Legado - Sin Ti (Con Coro).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adc9661a-b014-4c47-9ab1-fd1542497ad3",
+    "title": "Legado - Sin Ti (Con Coro)",
+    "titles": {
+      "spa": "Legado - Sin Ti (Con Coro)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "5619bdcd-54c4-49ee-8df9-6101a2519eb8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:21:57.958Z",
+    "modified_at": "2022-11-03T14:21:58.386Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9c19d7c19cfd259030733b2817b31c43.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4035911,
+      "gain": -4.59,
+      "duration": 252,
+      "loudnorm": "-14.07,1.02,8.50,-24.19,-1.15",
+      "filename": "processed_b84c88d388f9f811241a04d3aca0c793.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

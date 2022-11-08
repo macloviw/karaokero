@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - NO HAY SOMBRA QUE ME CUBRA DJ PI.mp3",
+      "loudnorm": "-17.29,0.05,5.00,-27.35,0.50",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - NO HAY SOMBRA QUE ME CUBRA DJ PI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1d8c22c9-4b91-4610-96d6-08b76efbd9f0",
+    "title": "JOSE FELICIANO - NO HAY SOMBRA QUE ME CUBRA DJ PI",
+    "titles": {
+      "spa": "JOSE FELICIANO - NO HAY SOMBRA QUE ME CUBRA DJ PI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:56:21.439Z",
+    "modified_at": "2022-11-04T03:56:21.820Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ce46ce6546168c94be8942dddaefcfc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3817119,
+      "gain": -0.83,
+      "duration": 238,
+      "loudnorm": "-17.29,0.05,5.00,-27.35,0.50",
+      "filename": "processed_0d08de894b4a2a4e3d97cf38c5f246e1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

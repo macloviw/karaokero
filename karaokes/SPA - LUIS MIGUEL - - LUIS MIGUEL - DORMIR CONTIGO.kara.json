@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DORMIR CONTIGO.mp3",
+      "loudnorm": "-9.76,5.88,6.90,-19.86,-1.62",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DORMIR CONTIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "02ef3390-d3f1-484e-86bb-3e670ee992a5",
+    "title": "LUIS MIGUEL   -   DORMIR CONTIGO",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   DORMIR CONTIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:18:23.298Z",
+    "modified_at": "2022-11-03T09:18:23.720Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e51934361371bcb2aec4b1acc6bcd222.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4296086,
+      "gain": -8.38,
+      "duration": 268,
+      "loudnorm": "-9.76,5.88,6.90,-19.86,-1.62",
+      "filename": "processed_b4b7e07a60e4587fb7fe230c196d5e8e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

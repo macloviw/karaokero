@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Payaso.MP3",
+      "loudnorm": "-9.72,0.45,3.60,-19.96,0.09",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Payaso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fcdb72ef-3743-41f9-b122-761a772485cc",
+    "title": "Jose Jose El Principe Con Trio   -   Payaso",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   Payaso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:20:31.220Z",
+    "modified_at": "2022-11-03T07:20:31.954Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4952789,
+      "gain": -8.53,
+      "duration": 206,
+      "loudnorm": "-9.72,0.45,3.60,-19.96,0.09",
+      "filename": "processed_d282cc48fe25b48a5f1c4c67db9d2627.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4952789,
+      "gain": -8.53,
+      "duration": 206,
+      "loudnorm": "-9.72,0.45,3.60,-19.96,0.09",
+      "filename": "processed_28eaf91435912c74d869933dc31b0fc0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

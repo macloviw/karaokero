@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - CUANDO VUELVA A TU LADO BY LUIS MIGUEL.CDG.MP3",
+      "loudnorm": "-10.01,-0.20,1.80,-20.05,-1.06",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - CUANDO VUELVA A TU LADO BY LUIS MIGUEL.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d4df328b-4e00-4e33-a0b7-9bbc01be46cf",
+    "title": "CUANDO VUELVA A TU LADO BY LUIS MIGUEL.CDG",
+    "titles": {
+      "spa": "CUANDO VUELVA A TU LADO BY LUIS MIGUEL.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:13:17.720Z",
+    "modified_at": "2022-11-03T09:13:18.218Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3629107,
+      "gain": -6.69,
+      "duration": 226,
+      "loudnorm": "-10.01,-0.20,1.80,-20.05,-1.06",
+      "filename": "processed_5b000d54220bab79a8ef0930d364632f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3629107,
+      "gain": -6.69,
+      "duration": 226,
+      "loudnorm": "-10.01,-0.20,1.80,-20.05,-1.06",
+      "filename": "processed_8859db84a6a2fe06188a7029c3908509.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

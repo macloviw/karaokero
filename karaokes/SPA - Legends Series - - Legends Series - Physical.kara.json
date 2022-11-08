@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Legends Series - - Legends Series - Physical.mp3",
+      "loudnorm": "-9.77,4.78,3.00,-19.85,-1.19",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Legends Series - - Legends Series - Physical.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a74836a-6010-4322-974e-73f4b959db8b",
+    "title": "Legends Series - Physical",
+    "titles": {
+      "spa": "Legends Series - Physical"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b9460163-8c91-4e44-959d-0190b7648947"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:27:43.769Z",
+    "modified_at": "2022-11-04T01:27:44.161Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_00dfdee10fe2a657ac49c2f33ce78060.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3483776,
+      "gain": -8.27,
+      "duration": 217,
+      "loudnorm": "-9.77,4.78,3.00,-19.85,-1.19",
+      "filename": "processed_51e90e0eea5d2e6e4d1331bf49ed4d7a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

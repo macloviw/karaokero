@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - JAVIER SOLIS - GEMA.mp3",
+      "loudnorm": "-16.18,-0.46,5.50,-26.23,-0.90",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - JAVIER SOLIS - GEMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eea4670a-7f9b-444d-94c9-36d27e99fb73",
+    "title": "JAVIER SOLIS - GEMA",
+    "titles": {
+      "spa": "JAVIER SOLIS - GEMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:04:29.978Z",
+    "modified_at": "2022-11-03T06:04:30.388Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1149a27e1cf318adb6c7fabf34e5e8ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4930324,
+      "gain": -3.66,
+      "duration": 176,
+      "loudnorm": "-16.18,-0.46,5.50,-26.23,-0.90",
+      "filename": "processed_61ca4163b95cf5cd4d20ac39ac85faed.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

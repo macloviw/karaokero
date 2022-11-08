@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - RAYITO DE LUNA.MP3",
+      "loudnorm": "-13.53,-1.19,4.70,-23.82,-0.75",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - RAYITO DE LUNA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa4c109c-d34d-4e6a-b02a-fc6fb444d5de",
+    "title": "LOS PANCHOS                -   RAYITO DE LUNA",
+    "titles": {
+      "spa": "LOS PANCHOS                -   RAYITO DE LUNA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:03:46.087Z",
+    "modified_at": "2022-11-03T09:03:46.588Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3054831,
+      "gain": -2.86,
+      "duration": 190,
+      "loudnorm": "-13.53,-1.19,4.70,-23.82,-0.75",
+      "filename": "processed_d94d08a196377edbfad456073a2bd89f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3054831,
+      "gain": -2.86,
+      "duration": 190,
+      "loudnorm": "-13.53,-1.19,4.70,-23.82,-0.75",
+      "filename": "processed_939280c373a8ddb1a8508cbb71ffebf0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

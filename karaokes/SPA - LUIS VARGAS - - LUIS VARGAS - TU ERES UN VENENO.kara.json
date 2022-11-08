@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS VARGAS - - LUIS VARGAS - TU ERES UN VENENO.mp3",
+      "loudnorm": "-13.24,-1.38,4.10,-23.45,-0.86",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS VARGAS - - LUIS VARGAS - TU ERES UN VENENO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03455670-1706-406e-a09a-927cbf8c280b",
+    "title": "LUIS VARGAS - TU ERES UN VENENO",
+    "titles": {
+      "spa": "LUIS VARGAS - TU ERES UN VENENO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "3d9430e9-6ec5-4dcb-9373-ba1ee886f326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:08:41.983Z",
+    "modified_at": "2022-11-03T00:08:42.411Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b3b5eb421fb29be35876e57bbbfb09f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3673777,
+      "gain": -6.61,
+      "duration": 262,
+      "loudnorm": "-13.24,-1.38,4.10,-23.45,-0.86",
+      "filename": "processed_760e5758ae00d23d3cd8e84ba0391a55.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

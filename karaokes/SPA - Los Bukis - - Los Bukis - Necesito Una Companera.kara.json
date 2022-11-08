@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Necesito Una Companera.mp3",
+      "loudnorm": "-10.24,1.92,4.60,-20.32,-1.29",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Necesito Una Companera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9f2bb49a-2545-4db6-a5db-4d05c56af066",
+    "title": "Los Bukis - Necesito Una Compañera",
+    "titles": {
+      "spa": "Los Bukis - Necesito Una Compañera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:56:51.008Z",
+    "modified_at": "2022-11-03T08:56:51.442Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79b7c1a326325d3b1397ce63454542aa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4619370,
+      "gain": -6.62,
+      "duration": 288,
+      "loudnorm": "-10.24,1.92,4.60,-20.32,-1.29",
+      "filename": "processed_9c2210541a8dc28d62ee41eb23d1b703.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

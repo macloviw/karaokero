@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - La Mosca - - SP-461082_La Mosca_Para No Verte Mas_kb36-09.mp3",
+      "loudnorm": "-10.16,2.97,4.00,-20.20,-0.14",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - La Mosca - - SP-461082_La Mosca_Para No Verte Mas_kb36-09.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4fc3b608-e7bb-41e2-961c-1401b87cd804",
+    "title": "SP-461082_La Mosca_Para No Verte Mas_kb36-09",
+    "titles": {
+      "spa": "SP-461082_La Mosca_Para No Verte Mas_kb36-09"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "fb8c0437-38b2-488c-93db-2186cd48e952"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:45:38.974Z",
+    "modified_at": "2022-11-03T22:45:39.359Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_feac3ad86f959836dde1125459151258.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3106826,
+      "gain": -8.66,
+      "duration": 194,
+      "loudnorm": "-10.16,2.97,4.00,-20.20,-0.14",
+      "filename": "processed_43b5dfa8b5eda1f40a33b3b79e5480f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

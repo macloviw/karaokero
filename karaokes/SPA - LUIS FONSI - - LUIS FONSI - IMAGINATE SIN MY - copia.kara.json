@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - IMAGINATE SIN MY - copia.MP3",
+      "loudnorm": "-10.93,3.48,11.90,-21.29,-2.08",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - IMAGINATE SIN MY - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "219d4a33-f989-44fe-bad4-4d6333d36c0d",
+    "title": "LUIS FONSI   -   IMAGINATE SIN MY - copia",
+    "titles": {
+      "spa": "LUIS FONSI   -   IMAGINATE SIN MY - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:07:53.013Z",
+    "modified_at": "2022-11-03T09:07:53.533Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4010286,
+      "gain": -7.44,
+      "duration": 250,
+      "loudnorm": "-10.93,3.48,11.90,-21.29,-2.08",
+      "filename": "processed_ff7486522622fa112f4f3517cd452d6f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4010286,
+      "gain": -7.44,
+      "duration": 250,
+      "loudnorm": "-10.93,3.48,11.90,-21.29,-2.08",
+      "filename": "processed_b8e6fc27adf152713d01d7172991af68.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - I'm Glad.mp3",
+      "loudnorm": "-10.46,1.99,4.40,-20.63,-1.03",
+      "duration": 244,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - I'm Glad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7cfb0106-3f2b-4190-b78a-dcac797e9947",
+    "title": "Jennifer Lopez - I'm Glad",
+    "titles": {
+      "spa": "Jennifer Lopez - I'm Glad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:11:41.162Z",
+    "modified_at": "2022-11-03T06:11:41.573Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9b2912b37903d1f0ebea9a8517abf9f8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3914991,
+      "gain": -6.34,
+      "duration": 244,
+      "loudnorm": "-10.46,1.99,4.40,-20.63,-1.03",
+      "filename": "processed_2e626de2c7b9b1bd9b1e02ed735208ef.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

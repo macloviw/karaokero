@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Buscando Refugio.mp3",
+      "loudnorm": "-22.32,-5.31,12.10,-32.70,-0.87",
+      "duration": 375,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Buscando Refugio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "46e7b8fa-eaf4-4ae8-9c10-94639269ec32",
+    "title": "Jesus Adrian Romero - Buscando Refugio",
+    "titles": {
+      "spa": "Jesus Adrian Romero - Buscando Refugio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:14:06.191Z",
+    "modified_at": "2022-11-03T14:14:06.613Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_696b63cd3254b93504a827ea11cf8374.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6007424,
+      "gain": 3.45,
+      "duration": 375,
+      "loudnorm": "-22.32,-5.31,12.10,-32.70,-0.87",
+      "filename": "processed_f5a55be47fd0b33a6329d16cb2805c83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

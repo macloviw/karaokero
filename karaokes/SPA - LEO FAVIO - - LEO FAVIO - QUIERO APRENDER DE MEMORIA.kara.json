@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - QUIERO APRENDER DE MEMORIA.MP3",
+      "loudnorm": "-15.17,0.21,3.90,-25.32,-0.57",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - QUIERO APRENDER DE MEMORIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e55cceb-b734-4a63-a365-a67a524de6ae",
+    "title": "LEO FAVIO   -   QUIERO APRENDER DE MEMORIA",
+    "titles": {
+      "spa": "LEO FAVIO   -   QUIERO APRENDER DE MEMORIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:50:53.396Z",
+    "modified_at": "2022-11-03T08:50:53.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 8707231,
+      "gain": -2.21,
+      "duration": 217,
+      "loudnorm": "-15.17,0.21,3.90,-25.32,-0.57",
+      "filename": "processed_223ddc8d259e811ef277dff2a3b8af00.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8707231,
+      "gain": -2.21,
+      "duration": 217,
+      "loudnorm": "-15.17,0.21,3.90,-25.32,-0.57",
+      "filename": "processed_d79c8f3a16aaa53743d5dd4b72ba5e4a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

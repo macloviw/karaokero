@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - K-Paz De La Sierra - - K-Paz De La Sierra - Con olor a hierba.mp3",
+      "loudnorm": "-11.72,2.59,2.60,-21.80,-0.40",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - K-Paz De La Sierra - - K-Paz De La Sierra - Con olor a hierba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09f7d4b3-af0f-452a-bda1-9cd5e8e7ba74",
+    "title": "K-Paz De La Sierra - Con olor a hierba",
+    "titles": {
+      "spa": "K-Paz De La Sierra - Con olor a hierba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f020ff81-9099-470c-9499-d0c953177964"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:42:50.860Z",
+    "modified_at": "2022-11-03T22:42:51.235Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9a02c3eaacd60a3b02f6855f382e3622.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3410226,
+      "gain": -5.31,
+      "duration": 213,
+      "loudnorm": "-11.72,2.59,2.60,-21.80,-0.40",
+      "filename": "processed_363789a94c7d5306a6f64fe9485020b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

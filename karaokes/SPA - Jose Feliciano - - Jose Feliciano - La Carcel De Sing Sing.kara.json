@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - La Carcel De Sing Sing.mp3",
+      "loudnorm": "-17.04,-0.39,8.90,-27.31,-1.68",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - La Carcel De Sing Sing.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "810a804c-a4ca-4310-9d24-24aee2f93a93",
+    "title": "Jose Feliciano - La Carcel De Sing Sing",
+    "titles": {
+      "spa": "Jose Feliciano - La Carcel De Sing Sing"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:34:45.276Z",
+    "modified_at": "2022-11-03T06:34:45.680Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fdf9d01f2866264698b35edaa0460884.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4523667,
+      "gain": -1.29,
+      "duration": 188,
+      "loudnorm": "-17.04,-0.39,8.90,-27.31,-1.68",
+      "filename": "processed_47259ca81330ff3e299617648549cfba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

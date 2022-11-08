@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - Jerry Rivera - Me Estoy Enamorando.mp3",
+      "loudnorm": "-13.87,-0.17,5.80,-23.90,-1.04",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - Jerry Rivera - Me Estoy Enamorando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6e9a7dbb-9db3-4761-8e08-1d660488e47f",
+    "title": "Jerry Rivera - Me Estoy Enamorando",
+    "titles": {
+      "spa": "Jerry Rivera - Me Estoy Enamorando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:46:16.190Z",
+    "modified_at": "2022-11-04T03:46:16.579Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c7219bebf36b56924b3194404a442caa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7341131,
+      "gain": -4.32,
+      "duration": 305,
+      "loudnorm": "-13.87,-0.17,5.80,-23.90,-1.04",
+      "filename": "processed_2a8848ad840d2a9434c2a3ae7dfa1f77.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

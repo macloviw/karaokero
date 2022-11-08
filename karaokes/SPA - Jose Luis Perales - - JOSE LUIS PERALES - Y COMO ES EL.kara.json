@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Perales - - JOSE LUIS PERALES - Y COMO ES EL.MP3",
+      "loudnorm": "-14.51,-0.06,6.90,-24.56,-1.13",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Perales - - JOSE LUIS PERALES - Y COMO ES EL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e9b6697-7ec4-4edf-b0f5-4e894f1c3a19",
+    "title": "JOSE LUIS PERALES   -   Y COMO ES EL",
+    "titles": {
+      "spa": "JOSE LUIS PERALES   -   Y COMO ES EL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:21:57.753Z",
+    "modified_at": "2022-11-03T07:21:58.379Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10641337,
+      "gain": -3.44,
+      "duration": 265,
+      "loudnorm": "-14.51,-0.06,6.90,-24.56,-1.13",
+      "filename": "processed_f49c21fda35c0715cefa29ff1b9adefc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10641337,
+      "gain": -3.44,
+      "duration": 265,
+      "loudnorm": "-14.51,-0.06,6.90,-24.56,-1.13",
+      "filename": "processed_3076e714441026744cf7c9adb022ae09.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

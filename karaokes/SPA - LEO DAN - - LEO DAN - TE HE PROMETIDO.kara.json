@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - TE HE PROMETIDO.MP3",
+      "loudnorm": "-11.01,1.21,2.20,-21.08,-0.04",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - TE HE PROMETIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "72b10f5f-ed40-4ac6-8bfe-412c4d55330e",
+    "title": "LEO DAN   -   TE HE PROMETIDO",
+    "titles": {
+      "spa": "LEO DAN   -   TE HE PROMETIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:45:51.935Z",
+    "modified_at": "2022-11-03T08:45:52.548Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7862954,
+      "gain": -3.85,
+      "duration": 196,
+      "loudnorm": "-11.01,1.21,2.20,-21.08,-0.04",
+      "filename": "processed_ea9c4011c8b9cd84f51a60a46a88b5a7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7862954,
+      "gain": -3.85,
+      "duration": 196,
+      "loudnorm": "-11.01,1.21,2.20,-21.08,-0.04",
+      "filename": "processed_69371d5cc9cd76ef0e60cdb09735a8a4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

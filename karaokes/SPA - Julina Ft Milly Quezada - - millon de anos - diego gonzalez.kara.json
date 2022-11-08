@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julina Ft Milly Quezada - - millon de anos - diego gonzalez.mp3",
+      "loudnorm": "-12.66,0.44,13.50,-23.23,-2.10",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julina Ft Milly Quezada - - millon de anos - diego gonzalez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adba5679-c575-4681-9262-9ec23c3273b2",
+    "title": "millon de años - diego gonzalez",
+    "titles": {
+      "spa": "millon de años - diego gonzalez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b03234cd-a34d-439b-b13e-9302ecf42f1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:59:35.590Z",
+    "modified_at": "2022-11-03T22:59:35.976Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a6d342eec4fe1c044704fa5e70b36309.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5708581,
+      "gain": -5.37,
+      "duration": 237,
+      "loudnorm": "-12.66,0.44,13.50,-23.23,-2.10",
+      "filename": "processed_ada3c732b0006cd398f84d65adc0a0a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

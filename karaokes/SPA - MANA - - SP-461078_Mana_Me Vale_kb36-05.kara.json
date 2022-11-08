@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MANA - - SP-461078_Mana_Me Vale_kb36-05.mp3",
+      "loudnorm": "-11.66,2.35,6.30,-21.72,-0.65",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MANA - - SP-461078_Mana_Me Vale_kb36-05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8fea031e-eaea-4184-be01-da1f91da2c47",
+    "title": "SP-461078_Maná_Me Vale_kb36-05",
+    "titles": {
+      "spa": "SP-461078_Maná_Me Vale_kb36-05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f635606e-02c6-4032-bdb4-170879ea882b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:46:13.343Z",
+    "modified_at": "2022-11-03T09:46:13.765Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e8426904da758cec64732b04665b07d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4433808,
+      "gain": -7.42,
+      "duration": 276,
+      "loudnorm": "-11.66,2.35,6.30,-21.72,-0.65",
+      "filename": "processed_a36910f48642a4819640b244598f10f1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jessy & Joy - - KAR-4384_Esto es lo que soy - Jessy & Joy.mp3",
+      "loudnorm": "-10.80,0.29,3.00,-20.92,-0.48",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jessy & Joy - - KAR-4384_Esto es lo que soy - Jessy & Joy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d24c8f0-ed04-4312-b738-49bdcfb5710a",
+    "title": "KAR-4384_Esto es lo que soy - Jessy & Joy",
+    "titles": {
+      "spa": "KAR-4384_Esto es lo que soy - Jessy & Joy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c8b1f9b3-2019-4cad-a109-0f1bb24e7a0d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:32:37.012Z",
+    "modified_at": "2022-11-03T22:32:37.397Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_74f642e587dc5f9770054bba3864dab4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5101568,
+      "gain": -6,
+      "duration": 211,
+      "loudnorm": "-10.80,0.29,3.00,-20.92,-0.48",
+      "filename": "processed_ebeb0ab5c3e7aa8d51362a9c44977a1d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

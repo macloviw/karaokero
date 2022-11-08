@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Tu Carcel.mp3",
+      "loudnorm": "-10.57,5.90,3.80,-20.60,-0.79",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Tu Carcel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a6c67804-1ca8-4d1e-bc60-6226316337ea",
+    "title": "Los Bukis - Tu Carcel",
+    "titles": {
+      "spa": "Los Bukis - Tu Carcel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:57:23.888Z",
+    "modified_at": "2022-11-03T08:57:24.354Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_77325863cd6ede2d0add9aa88643677a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3943746,
+      "gain": -8.33,
+      "duration": 246,
+      "loudnorm": "-10.57,5.90,3.80,-20.60,-0.79",
+      "filename": "processed_0cad5bb5036d902a4c3aae4b770ae7f2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

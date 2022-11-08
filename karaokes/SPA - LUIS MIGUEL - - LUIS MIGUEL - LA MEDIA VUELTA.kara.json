@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA MEDIA VUELTA.MP3",
+      "loudnorm": "-13.56,1.64,2.60,-23.62,-0.11",
+      "duration": 159,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA MEDIA VUELTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d229359-413f-447e-abb2-ae68764de341",
+    "title": "LUIS MIGUEL   -   LA MEDIA VUELTA",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   LA MEDIA VUELTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:20:25.546Z",
+    "modified_at": "2022-11-03T09:20:26.007Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2561769,
+      "gain": -2.96,
+      "duration": 159,
+      "loudnorm": "-13.56,1.64,2.60,-23.62,-0.11",
+      "filename": "processed_7cc3d699990d25524fe17f8fb0b28a18.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2561769,
+      "gain": -2.96,
+      "duration": 159,
+      "loudnorm": "-13.56,1.64,2.60,-23.62,-0.11",
+      "filename": "processed_41559d2217076f50ef8907158bce2d79.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

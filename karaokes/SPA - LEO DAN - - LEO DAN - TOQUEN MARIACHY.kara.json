@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - TOQUEN MARIACHY.MP3",
+      "loudnorm": "-9.36,0.91,3.50,-19.39,0.35",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - TOQUEN MARIACHY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c0484da9-f1e2-436a-95a6-3f121b85e9d5",
+    "title": "LEO DAN   -   TOQUEN MARIACHY",
+    "titles": {
+      "spa": "LEO DAN   -   TOQUEN MARIACHY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:46:10.610Z",
+    "modified_at": "2022-11-03T08:46:11.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9233860,
+      "gain": -7.19,
+      "duration": 230,
+      "loudnorm": "-9.36,0.91,3.50,-19.39,0.35",
+      "filename": "processed_d517bb918c9173979821a44b69cfb520.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9233860,
+      "gain": -7.19,
+      "duration": 230,
+      "loudnorm": "-9.36,0.91,3.50,-19.39,0.35",
+      "filename": "processed_396678e4d6f3b03ea8128b70228c9434.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

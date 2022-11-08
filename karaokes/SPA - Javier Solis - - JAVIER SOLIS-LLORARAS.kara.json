@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - JAVIER SOLIS-LLORARAS.mp3",
+      "loudnorm": "-17.59,-1.78,4.40,-27.66,0.49",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - JAVIER SOLIS-LLORARAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "643dfca2-aa95-4c8a-8e00-333af8490f1d",
+    "title": "JAVIER SOLIS-LLORARAS",
+    "titles": {
+      "spa": "JAVIER SOLIS-LLORARAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:07:44.950Z",
+    "modified_at": "2022-11-03T06:07:45.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_297d60b3f6bff04934c685344913cd4f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2578097,
+      "gain": 0.03,
+      "duration": 184,
+      "loudnorm": "-17.59,-1.78,4.40,-27.66,0.49",
+      "filename": "processed_1c517af55a2a126fe1e3465337061226.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

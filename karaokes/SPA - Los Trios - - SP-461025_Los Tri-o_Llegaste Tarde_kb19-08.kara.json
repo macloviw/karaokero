@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Trios - - SP-461025_Los Tri-o_Llegaste Tarde_kb19-08.mp3",
+      "loudnorm": "-13.29,0.44,2.90,-23.36,-0.04",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Trios - - SP-461025_Los Tri-o_Llegaste Tarde_kb19-08.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2043db9c-60f2-4504-a06f-a641d993570a",
+    "title": "SP-461025_Los Tri-o_Llegaste Tarde_kb19-08",
+    "titles": {
+      "spa": "SP-461025_Los Tri-o_Llegaste Tarde_kb19-08"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cdaa9885-c8a1-40e2-8587-bf9d68b3dd6b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:06:08.465Z",
+    "modified_at": "2022-11-03T09:06:08.874Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03707325614b4808a8c8d3b47bd4d403.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2961546,
+      "gain": -4.37,
+      "duration": 185,
+      "loudnorm": "-13.29,0.44,2.90,-23.36,-0.04",
+      "filename": "processed_395f705b9c4ba1e522e07e55d1d31be1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - VOLVERE BY DIEGO VERDAGEL.MP3",
+      "loudnorm": "-16.81,-2.02,6.90,-26.93,-0.89",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - VOLVERE BY DIEGO VERDAGEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "44984a39-c989-4a39-b9ab-83b922f02d27",
+    "title": "VOLVERE BY DIEGO VERDAGEL",
+    "titles": {
+      "spa": "VOLVERE BY DIEGO VERDAGEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:31:53.999Z",
+    "modified_at": "2022-11-03T10:31:54.582Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3793783,
+      "gain": -2.59,
+      "duration": 236,
+      "loudnorm": "-16.81,-2.02,6.90,-26.93,-0.89",
+      "filename": "processed_ea7681a767d5cce93fbe38a130d3a647.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3793783,
+      "gain": -2.59,
+      "duration": 236,
+      "loudnorm": "-16.81,-2.02,6.90,-26.93,-0.89",
+      "filename": "processed_22027b3338e05381b1701bdd21500038.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

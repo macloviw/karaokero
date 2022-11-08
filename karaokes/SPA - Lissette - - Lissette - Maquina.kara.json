@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Lissette - - Lissette - Maquina.mp3",
+      "loudnorm": "-14.64,-1.63,2.80,-24.74,-0.70",
+      "duration": 334,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Lissette - - Lissette - Maquina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1631a380-89d3-4803-8db8-474dec3e8683",
+    "title": "Lissette - Maquina",
+    "titles": {
+      "spa": "Lissette - Maquina"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "559a2f39-4e37-44b7-84a8-e63647cec744"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:53:41.937Z",
+    "modified_at": "2022-11-03T08:53:42.354Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_645f2feaed1f90d68d49c75048561859.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8038286,
+      "gain": -2.51,
+      "duration": 334,
+      "loudnorm": "-14.64,-1.63,2.80,-24.74,-0.70",
+      "filename": "processed_fb71bd251906e6645b16f1a03c8046b7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

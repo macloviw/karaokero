@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MELINA LEON - - MELINA LEON - QUE SERA DE TI.mp3",
+      "loudnorm": "-16.02,0.45,7.30,-26.11,-1.10",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MELINA LEON - - MELINA LEON - QUE SERA DE TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d3540981-d1f1-4b23-bcda-7cacc483b79e",
+    "title": "MELINA LEON - QUE SERA DE TI",
+    "titles": {
+      "spa": "MELINA LEON - QUE SERA DE TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:03:26.277Z",
+    "modified_at": "2022-11-03T10:03:26.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_41b9bc706aa4f6fe0f86e3dbb9270a61.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3516520,
+      "gain": -2.03,
+      "duration": 251,
+      "loudnorm": "-16.02,0.45,7.30,-26.11,-1.10",
+      "filename": "processed_9d51d7ce30af6e9a2a0bf0dbb6802d58.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

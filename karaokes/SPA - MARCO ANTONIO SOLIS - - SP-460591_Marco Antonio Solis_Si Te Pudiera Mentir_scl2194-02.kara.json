@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460591_Marco Antonio Solis_Si Te Pudiera Mentir_scl2194-02.mp3",
+      "loudnorm": "-15.23,-0.27,3.60,-25.38,-0.84",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460591_Marco Antonio Solis_Si Te Pudiera Mentir_scl2194-02.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a3089849-c345-4f71-a1fe-135436e7c202",
+    "title": "SP-460591_Marco Antonio Solís_Si Te Pudiera Mentir_scl2194-02",
+    "titles": {
+      "spa": "SP-460591_Marco Antonio Solís_Si Te Pudiera Mentir_scl2194-02"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:56:55.308Z",
+    "modified_at": "2022-11-03T09:56:55.736Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_29b30b8749aacb8196d8a42b565686b8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4505568,
+      "gain": -1.77,
+      "duration": 281,
+      "loudnorm": "-15.23,-0.27,3.60,-25.38,-0.84",
+      "filename": "processed_5f335c1b18065ab70e02ce161c559f41.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

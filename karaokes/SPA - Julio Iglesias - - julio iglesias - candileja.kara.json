@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - julio iglesias - candileja.mp3",
+      "loudnorm": "-18.39,-0.49,5.50,-28.73,-1.10",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - julio iglesias - candileja.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4249c55-5df8-487f-9f7e-54fc942a9730",
+    "title": "julio iglesias - candileja",
+    "titles": {
+      "spa": "julio iglesias - candileja"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:22:12.114Z",
+    "modified_at": "2022-11-03T08:22:12.520Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6dc6c962d599156def9149a7dccefaa.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3486710,
+      "gain": 0.72,
+      "duration": 217,
+      "loudnorm": "-18.39,-0.49,5.50,-28.73,-1.10",
+      "filename": "processed_383aaeec66b031d612a719f68caa817c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

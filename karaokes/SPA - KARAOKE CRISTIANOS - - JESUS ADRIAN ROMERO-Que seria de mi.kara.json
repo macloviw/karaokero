@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE CRISTIANOS - - JESUS ADRIAN ROMERO-Que seria de mi.mp3",
+      "loudnorm": "-16.77,-0.28,7.40,-26.82,-0.91",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE CRISTIANOS - - JESUS ADRIAN ROMERO-Que seria de mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a22fb992-1949-4a5d-b012-e98b0b6ae360",
+    "title": "JESUS ADRIAN ROMERO-Que sería de mi",
+    "titles": {
+      "spa": "JESUS ADRIAN ROMERO-Que sería de mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f1e249de-2256-4304-be30-ccf51d93fa8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:20:05.759Z",
+    "modified_at": "2022-11-03T14:20:06.207Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ed78f16662469624d8db566f17a501bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4015534,
+      "gain": -0.97,
+      "duration": 286,
+      "loudnorm": "-16.77,-0.28,7.40,-26.82,-0.91",
+      "filename": "processed_afe4935d4341aad2e54e7b8f0081dba3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

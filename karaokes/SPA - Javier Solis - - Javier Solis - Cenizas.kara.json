@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Cenizas.mp3",
+      "loudnorm": "-18.36,-0.04,4.10,-28.39,0.38",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Cenizas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6740fbd3-179f-4b55-943b-1938def9a234",
+    "title": "Javier Solis - Cenizas",
+    "titles": {
+      "spa": "Javier Solis - Cenizas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:03:59.514Z",
+    "modified_at": "2022-11-03T06:03:59.991Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0c5840fb0934bca19b0d6444f4ba2ad5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2793598,
+      "gain": -0.75,
+      "duration": 174,
+      "loudnorm": "-18.36,-0.04,4.10,-28.39,0.38",
+      "filename": "processed_ce02301f8e99e3f2597ce3edb20958f6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

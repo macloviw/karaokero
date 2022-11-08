@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Tengo todo excepto a ti.mp3",
+      "loudnorm": "-15.57,0.22,8.10,-25.87,-1.45",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Tengo todo excepto a ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "015ff3c9-52cd-49ea-839c-b89316b91196",
+    "title": "Luis Miguel - Tengo todo excepto a tí",
+    "titles": {
+      "spa": "Luis Miguel - Tengo todo excepto a tí"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:31:17.024Z",
+    "modified_at": "2022-11-03T09:31:17.464Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_97e20384aa0438473fc3586947caac88.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8709110,
+      "gain": -2.51,
+      "duration": 272,
+      "loudnorm": "-15.57,0.22,8.10,-25.87,-1.45",
+      "filename": "processed_87d60a257ed118ddf37f200e638aff21.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

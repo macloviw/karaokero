@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - K-Paz De La Sierra - - K-PAZ DE LA SIERRA - AL DIABLO CON LOS GUAPOS.mp3",
+      "loudnorm": "-14.20,1.40,8.10,-24.31,-1.44",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - K-Paz De La Sierra - - K-PAZ DE LA SIERRA - AL DIABLO CON LOS GUAPOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bcb30ae5-a3ba-4d80-9c1c-98efe7ac3246",
+    "title": "K-PAZ DE LA SIERRA - AL DIABLO CON LOS GUAPOS",
+    "titles": {
+      "spa": "K-PAZ DE LA SIERRA - AL DIABLO CON LOS GUAPOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f020ff81-9099-470c-9499-d0c953177964"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:28:32.892Z",
+    "modified_at": "2022-11-03T08:28:33.317Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d8c777a7eabe940967d66e92f90edcca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6054652,
+      "gain": -4.61,
+      "duration": 252,
+      "loudnorm": "-14.20,1.40,8.10,-24.31,-1.44",
+      "filename": "processed_0a58cc4ab5df9e3d4474653f5a8b5e4e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

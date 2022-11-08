@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Toros Band - - Toros Band - Quisiera Que El Mundo Se Acabase.MP3",
+      "loudnorm": "-10.25,2.37,2.10,-20.36,-0.65",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Toros Band - - Toros Band - Quisiera Que El Mundo Se Acabase.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5d4f4950-d63d-4e3e-a8ff-b0aec039ca3e",
+    "title": "Toros Band - Quisiera Que El Mundo Se Acabase",
+    "titles": {
+      "spa": "Toros Band - Quisiera Que El Mundo Se Acabase"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:02:15.747Z",
+    "modified_at": "2022-11-03T00:02:16.334Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3317310,
+      "gain": -8.12,
+      "duration": 207,
+      "loudnorm": "-10.25,2.37,2.10,-20.36,-0.65",
+      "filename": "processed_86e3aab88cfae46758cf954fade19f09.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3317310,
+      "gain": -8.12,
+      "duration": 207,
+      "loudnorm": "-10.25,2.37,2.10,-20.36,-0.65",
+      "filename": "processed_a9552a5181315e66b41960aac4121971.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

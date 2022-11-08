@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - O Me Voy O Te Vas.mp3",
+      "loudnorm": "-8.43,4.53,3.50,-18.58,-0.11",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - O Me Voy O Te Vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1c8af085-8d1e-4348-8cc3-9dd6be4d53dd",
+    "title": "Marco Antonio Solis - O Me Voy O Te Vas",
+    "titles": {
+      "spa": "Marco Antonio Solis - O Me Voy O Te Vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:51:17.341Z",
+    "modified_at": "2022-11-03T09:51:17.753Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d7b70464902be43d39009a7fbb172c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4398358,
+      "gain": -8.5,
+      "duration": 274,
+      "loudnorm": "-8.43,4.53,3.50,-18.58,-0.11",
+      "filename": "processed_c22745cc32abb482e589b6de5d10e1ea.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

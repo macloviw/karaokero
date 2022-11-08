@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Fredys - - Los Fredys - Dejenme llorar.mp3",
+      "loudnorm": "-11.50,0.71,3.60,-21.78,-0.46",
+      "duration": 161,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Fredys - - Los Fredys - Dejenme llorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c74e5504-b830-4743-8ac6-9646265f1454",
+    "title": "Los Fredys - Dejenme llorar",
+    "titles": {
+      "spa": "Los Fredys - Dejenme llorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "46f9eb95-764c-4529-b21e-262b94ab8f71"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:49:48.024Z",
+    "modified_at": "2022-11-03T22:49:48.414Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_99879fc4e8afc9b329a9542dfaab9679.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2579321,
+      "gain": -6.18,
+      "duration": 161,
+      "loudnorm": "-11.50,0.71,3.60,-21.78,-0.46",
+      "filename": "processed_a168ce2293d1918a9a491ef38c33af68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

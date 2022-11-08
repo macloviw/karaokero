@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Lilly Goodman Feat Juan Carlos Rodriguez - - Lilly Goodman Feat Juan Carlos Rodriguez - No Importa.mp3",
+      "loudnorm": "-18.89,2.06,17.00,-30.31,-2.00",
+      "duration": 306,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Lilly Goodman Feat Juan Carlos Rodriguez - - Lilly Goodman Feat Juan Carlos Rodriguez - No Importa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5a97f939-e4c7-4fff-a616-5abee069fe70",
+    "title": "Lilly Goodman Feat Juan Carlos Rodriguez - No Importa",
+    "titles": {
+      "spa": "Lilly Goodman Feat Juan Carlos Rodriguez - No Importa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "5610bab5-dbe2-44b3-80fb-b6359633f112"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:40:31.994Z",
+    "modified_at": "2022-11-03T23:40:32.464Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a50afb063def271c219e93bf4b014061.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4900250,
+      "gain": -0.43,
+      "duration": 306,
+      "loudnorm": "-18.89,2.06,17.00,-30.31,-2.00",
+      "filename": "processed_00d4c647671a6908cf29702bc9874a8f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

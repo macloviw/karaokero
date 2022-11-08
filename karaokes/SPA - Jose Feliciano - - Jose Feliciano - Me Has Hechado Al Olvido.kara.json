@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - Me Has Hechado Al Olvido.MP3",
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - Me Has Hechado Al Olvido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5fb16e28-26a7-4d2a-ba2a-0daa35389a64",
+    "title": "Jose Feliciano - Me Has Hechado Al Olvido",
+    "titles": {
+      "spa": "Jose Feliciano - Me Has Hechado Al Olvido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:35:15.699Z",
+    "modified_at": "2022-11-03T06:35:16.227Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4016128,
+      "gain": -0.02,
+      "duration": 250,
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "filename": "processed_8218837c2d69b6b92da9123ba5f6d69f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4016128,
+      "gain": -0.02,
+      "duration": 250,
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "filename": "processed_f7facca20da14860929693c0416a1da8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Luis Miguel Del Amargue - - Luis miguel del Amargue - buscame.mp3",
+      "loudnorm": "-12.26,1.18,1.80,-22.33,-0.31",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Luis Miguel Del Amargue - - Luis miguel del Amargue - buscame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e7dfb548-cfdb-4918-a8c2-588e126a5852",
+    "title": "Luis miguel del Amargue - buscame",
+    "titles": {
+      "spa": "Luis miguel del Amargue - buscame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "2e028baa-1be3-4320-8e62-86d041809749"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:04:09.844Z",
+    "modified_at": "2022-11-03T00:04:10.315Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_641cfd8f9d95a43bc541c28224621084.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4476647,
+      "gain": -6.04,
+      "duration": 186,
+      "loudnorm": "-12.26,1.18,1.80,-22.33,-0.31",
+      "filename": "processed_a51942a7ebb49ba205f33ac750f4e50b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

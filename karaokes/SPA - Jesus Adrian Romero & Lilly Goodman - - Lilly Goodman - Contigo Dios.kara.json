@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Contigo Dios.mp3",
+      "loudnorm": "-18.25,2.54,8.20,-28.65,-1.26",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Contigo Dios.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "07918f7a-c32d-4838-9f2a-a051ff806afe",
+    "title": "Lilly Goodman - Contigo Dios",
+    "titles": {
+      "spa": "Lilly Goodman - Contigo Dios"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "e818b435-fff3-4d16-b229-5812bc9f708c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:22:23.329Z",
+    "modified_at": "2022-11-03T14:22:23.785Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4cf311daca3b81f8d552e5b7fc641092.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4972139,
+      "gain": 0.05,
+      "duration": 310,
+      "loudnorm": "-18.25,2.54,8.20,-28.65,-1.26",
+      "filename": "processed_8eeb2665dc6f2c365eb41a09e18bc811.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

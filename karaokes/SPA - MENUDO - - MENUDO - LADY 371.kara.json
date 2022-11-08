@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENUDO - - MENUDO - LADY 371.mp3",
+      "loudnorm": "-13.94,-0.49,4.40,-24.08,-0.45",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENUDO - - MENUDO - LADY 371.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9fce2fe2-36b6-492f-a280-df8059f09b0a",
+    "title": "MENUDO - LADY  371",
+    "titles": {
+      "spa": "MENUDO - LADY  371"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "32232b69-e497-4125-927a-e29cd83397e7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:36:08.871Z",
+    "modified_at": "2022-11-03T10:36:09.354Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33d821bc4208b69011e911d1b723f2ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5323014,
+      "gain": -3.96,
+      "duration": 221,
+      "loudnorm": "-13.94,-0.49,4.40,-24.08,-0.45",
+      "filename": "processed_2b956c4343a35b52ac321e23aa76cf83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

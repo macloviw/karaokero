@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENUDO - - MENUDO - MI BANDA TOCA ROCK 371.mp3",
+      "loudnorm": "-11.36,0.09,3.00,-21.51,-0.58",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENUDO - - MENUDO - MI BANDA TOCA ROCK 371.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8c3239f-1318-4fa2-875b-f3145f858772",
+    "title": "MENUDO - MI BANDA TOCA ROCK  371",
+    "titles": {
+      "spa": "MENUDO - MI BANDA TOCA ROCK  371"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "32232b69-e497-4125-927a-e29cd83397e7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:36:31.718Z",
+    "modified_at": "2022-11-03T10:36:32.367Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ec6ee9b1ca0f959b82db55c151691f36.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4385114,
+      "gain": -6.7,
+      "duration": 182,
+      "loudnorm": "-11.36,0.09,3.00,-21.51,-0.58",
+      "filename": "processed_55cf99da2924d560207545ef283e3dfa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

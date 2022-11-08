@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MONCHY Y ALEXANDRA - - MONCHY Y ALEXANDRA - POLO OPUESTO.mp3",
+      "loudnorm": null,
+      "duration": null,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MONCHY Y ALEXANDRA - - MONCHY Y ALEXANDRA - POLO OPUESTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d655b9fa-980a-43dc-90a2-a95a31beae8e",
+    "title": "MONCHY Y ALEXANDRA  -  POLO OPUESTO",
+    "titles": {
+      "spa": "MONCHY Y ALEXANDRA  -  POLO OPUESTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "940becb1-a6cf-4c78-ae79-cf27fb744558"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:10:11.186Z",
+    "modified_at": "2022-11-03T00:10:11.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4e9ca62df55a27f4a7ec0a9724a8e024.cdg"
+    },
+    "mediafile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ebc6bdcd193559342768f91f7b09306c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

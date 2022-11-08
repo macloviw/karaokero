@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - I Wanna Be Where You Are.MP3",
+      "loudnorm": "-13.77,0.85,7.40,-24.16,-0.88",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - I Wanna Be Where You Are.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "73e89643-955d-40ef-8aa9-ad99169a2381",
+    "title": "Jose Feliciano - I Wanna Be Where You Are",
+    "titles": {
+      "spa": "Jose Feliciano - I Wanna Be Where You Are"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:34:36.659Z",
+    "modified_at": "2022-11-03T06:34:37.320Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6122030,
+      "gain": -3.43,
+      "duration": 255,
+      "loudnorm": "-13.77,0.85,7.40,-24.16,-0.88",
+      "filename": "processed_da51ccf37f7f63d43acb72879d746bdb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6122030,
+      "gain": -3.43,
+      "duration": 255,
+      "loudnorm": "-13.77,0.85,7.40,-24.16,-0.88",
+      "filename": "processed_67c69abe23ae5f68cceb31afaf4f2023.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

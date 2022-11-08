@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - YA ESTOI CANSADO BY INTOCABLE.CDG.MP3",
+      "loudnorm": "-13.82,0.01,1.90,-23.90,-0.63",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - YA ESTOI CANSADO BY INTOCABLE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8cb26ec6-85fb-43a5-bc70-7581863e95c3",
+    "title": "YA ESTOI CANSADO BY INTOCABLE.CDG",
+    "titles": {
+      "spa": "YA ESTOI CANSADO BY INTOCABLE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:33:30.946Z",
+    "modified_at": "2022-11-03T10:33:31.458Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2824118,
+      "gain": -2.77,
+      "duration": 176,
+      "loudnorm": "-13.82,0.01,1.90,-23.90,-0.63",
+      "filename": "processed_656f0388b7775315d508c3814594fe70.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2824118,
+      "gain": -2.77,
+      "duration": 176,
+      "loudnorm": "-13.82,0.01,1.90,-23.90,-0.63",
+      "filename": "processed_58e7bd9f2048e7ab8e3e03fe64fd0639.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SUAVE.MP3",
+      "loudnorm": "-17.06,0.83,4.30,-27.17,-0.65",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SUAVE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c7ed5c6-851b-43a3-b009-8ae6078603b1",
+    "title": "LUIS MIGUEL   -   SUAVE",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   SUAVE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:25:49.924Z",
+    "modified_at": "2022-11-03T09:25:50.450Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4294498,
+      "gain": -0.14,
+      "duration": 268,
+      "loudnorm": "-17.06,0.83,4.30,-27.17,-0.65",
+      "filename": "processed_17dc850fddb76403204952608085f86f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4294498,
+      "gain": -0.14,
+      "duration": 268,
+      "loudnorm": "-17.06,0.83,4.30,-27.17,-0.65",
+      "filename": "processed_61b75e9b380a2c7a7858b1a6d46d1ee6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

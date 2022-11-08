@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - SE QUE ME VAS A DEJAR BY MARCO ANT SOLIS.CDG.MP3",
+      "loudnorm": "-13.17,0.19,5.00,-23.25,-1.23",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - SE QUE ME VAS A DEJAR BY MARCO ANT SOLIS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "330945ac-9049-4339-8ad5-ba85a1e7a2a7",
+    "title": "SE QUE ME VAS A DEJAR BY MARCO ANT SOLIS.CDG",
+    "titles": {
+      "spa": "SE QUE ME VAS A DEJAR BY MARCO ANT SOLIS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:55:15.010Z",
+    "modified_at": "2022-11-03T09:55:15.592Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4220102,
+      "gain": -4.66,
+      "duration": 263,
+      "loudnorm": "-13.17,0.19,5.00,-23.25,-1.23",
+      "filename": "processed_d13fa428c86d47bf58a27decc6720238.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4220102,
+      "gain": -4.66,
+      "duration": 263,
+      "loudnorm": "-13.17,0.19,5.00,-23.25,-1.23",
+      "filename": "processed_86624ed02ad5bd021abbb287b99fb104.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

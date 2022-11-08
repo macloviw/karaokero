@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MELINA LEON - - MELINA LEON - CUANDO UNA MUJER.MP3",
+      "loudnorm": "-14.73,0.02,6.10,-24.80,-0.86",
+      "duration": 311,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MELINA LEON - - MELINA LEON - CUANDO UNA MUJER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "527c7c05-884f-4f0a-8962-b520ca011415",
+    "title": "MELINA LEON                   -   CUANDO UNA MUJER",
+    "titles": {
+      "spa": "MELINA LEON                   -   CUANDO UNA MUJER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dd31f796-b110-4270-baa3-9cc7c22c9cfc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:56:40.790Z",
+    "modified_at": "2022-11-03T22:56:41.351Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4987475,
+      "gain": -3.34,
+      "duration": 311,
+      "loudnorm": "-14.73,0.02,6.10,-24.80,-0.86",
+      "filename": "processed_8ccaaaeee7d6baa99954e148d4aec3e0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4987475,
+      "gain": -3.34,
+      "duration": 311,
+      "loudnorm": "-14.73,0.02,6.10,-24.80,-0.86",
+      "filename": "processed_fe2730544eb502c25eee54ff6eac8314.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

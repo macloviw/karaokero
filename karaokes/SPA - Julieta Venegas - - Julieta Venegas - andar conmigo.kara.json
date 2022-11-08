@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julieta Venegas - - Julieta Venegas - andar conmigo.MP3",
+      "loudnorm": "-8.39,4.40,3.20,-18.60,-0.51",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julieta Venegas - - Julieta Venegas - andar conmigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "521b939a-779d-4736-a0cc-021eb96283c5",
+    "title": "Julieta Venegas - andar conmigo",
+    "titles": {
+      "spa": "Julieta Venegas - andar conmigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a36061d-c8c5-4497-8cdd-b0c4adeea22b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:57:57.638Z",
+    "modified_at": "2022-11-03T07:57:58.139Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4016462,
+      "gain": -8.48,
+      "duration": 200,
+      "loudnorm": "-8.39,4.40,3.20,-18.60,-0.51",
+      "filename": "processed_d895d9f8cd22fe589c2accd7073b030f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4016462,
+      "gain": -8.48,
+      "duration": 200,
+      "loudnorm": "-8.39,4.40,3.20,-18.60,-0.51",
+      "filename": "processed_d5fd4ef89ffcfa5364742137ff4dbf8f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

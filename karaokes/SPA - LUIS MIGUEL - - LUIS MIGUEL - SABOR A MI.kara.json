@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SABOR A MI.mp3",
+      "loudnorm": "-8.95,4.02,5.00,-19.02,0.17",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SABOR A MI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3c88f4ca-f295-432a-a6a2-f2bb2c248246",
+    "title": "LUIS MIGUEL   -   SABOR A MI",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   SABOR A MI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:23:25.292Z",
+    "modified_at": "2022-11-03T09:23:25.725Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9549eb0933c91e9ec907789c9fd57146.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3087765,
+      "gain": -9.47,
+      "duration": 192,
+      "loudnorm": "-8.95,4.02,5.00,-19.02,0.17",
+      "filename": "processed_dbf58bc0abca5336bd944ad6b4100a5e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

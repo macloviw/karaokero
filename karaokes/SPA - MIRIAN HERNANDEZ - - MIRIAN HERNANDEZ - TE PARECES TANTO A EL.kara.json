@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - TE PARECES TANTO A EL.MP3",
+      "loudnorm": "-13.12,1.10,3.30,-23.16,-0.95",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - TE PARECES TANTO A EL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cd101c95-b639-4214-ae82-6987dbf45172",
+    "title": "MIRIAN HERNANDEZ   -   TE PARECES TANTO A EL",
+    "titles": {
+      "spa": "MIRIAN HERNANDEZ   -   TE PARECES TANTO A EL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af34ad6a-8c85-484e-ae7b-f738432bf0f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:46:18.494Z",
+    "modified_at": "2022-11-03T10:46:19.128Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3349493,
+      "gain": -4.75,
+      "duration": 209,
+      "loudnorm": "-13.12,1.10,3.30,-23.16,-0.95",
+      "filename": "processed_045dd68ee6b51e94aba2fcfa997c3778.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3349493,
+      "gain": -4.75,
+      "duration": 209,
+      "loudnorm": "-13.12,1.10,3.30,-23.16,-0.95",
+      "filename": "processed_002c50741797638b1b61df64b328675b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kool & the Gang - - Kool & The Gang - Jungle Boogie.mp3",
+      "loudnorm": "-14.70,-0.09,3.90,-24.82,-0.36",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kool & the Gang - - Kool & The Gang - Jungle Boogie.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3d613568-c060-4aae-884b-589728addf7c",
+    "title": "Kool & The Gang - Jungle Boogie",
+    "titles": {
+      "spa": "Kool & The Gang - Jungle Boogie"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "27600751-5129-45f6-b985-f2d670a6c326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:23:14.881Z",
+    "modified_at": "2022-11-04T01:23:15.265Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_604294b7aec6d51bc795d613da7ad125.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3312422,
+      "gain": -3.56,
+      "duration": 206,
+      "loudnorm": "-14.70,-0.09,3.90,-24.82,-0.36",
+      "filename": "processed_9aebad9abb057e2bd6df6187982a9bf2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

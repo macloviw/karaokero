@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Cuidado.MP3",
+      "loudnorm": "-10.31,0.36,5.50,-20.54,-0.81",
+      "duration": 165,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Cuidado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2590994-f9c7-490a-9b7e-fe0cfcf25c9c",
+    "title": "Jose Jose El Principe Con Trio   -   Cuidado",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   Cuidado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:18:47.748Z",
+    "modified_at": "2022-11-03T07:18:48.258Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3971630,
+      "gain": -7.76,
+      "duration": 165,
+      "loudnorm": "-10.31,0.36,5.50,-20.54,-0.81",
+      "filename": "processed_af530e8f67b5bea6561a6ad209fb550f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3971630,
+      "gain": -7.76,
+      "duration": 165,
+      "loudnorm": "-10.31,0.36,5.50,-20.54,-0.81",
+      "filename": "processed_8d1f45927495d61601bddfd750186086.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

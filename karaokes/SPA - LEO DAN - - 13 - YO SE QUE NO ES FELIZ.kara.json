@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - 13 - YO SE QUE NO ES FELIZ.mp3",
+      "loudnorm": "-12.09,1.95,5.40,-22.50,-1.21",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - 13 - YO SE QUE NO ES FELIZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1e0462af-b65c-40b3-99e9-3d9703f23cac",
+    "title": "13 - YO SE QUE NO ES FELIZ",
+    "titles": {
+      "spa": "13 - YO SE QUE NO ES FELIZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:42:40.060Z",
+    "modified_at": "2022-11-03T08:42:40.487Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b7d32d5df6c39ba9c05b6c0a80e4f266.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2470202,
+      "gain": -6.13,
+      "duration": 205,
+      "loudnorm": "-12.09,1.95,5.40,-22.50,-1.21",
+      "filename": "processed_e2d78aafef939dc729bc79d60a95d9e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

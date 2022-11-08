@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Laura Pausini - - Laura Pausini - Amores Extranos.mp3",
+      "loudnorm": "-6.13,6.80,6.00,-16.22,-1.25",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Laura Pausini - - Laura Pausini - Amores Extranos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2ee5688f-92ad-4167-8946-19328bbbff98",
+    "title": "Laura Pausini - Amores Extraños",
+    "titles": {
+      "spa": "Laura Pausini - Amores Extraños"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:46:39.620Z",
+    "modified_at": "2022-11-03T22:46:40.008Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a3848a611a04d62ad30b1442e72c92f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6269134,
+      "gain": -9.54,
+      "duration": 261,
+      "loudnorm": "-6.13,6.80,6.00,-16.22,-1.25",
+      "filename": "processed_35034cc0858b0e9775fc0bb736e4bfe7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

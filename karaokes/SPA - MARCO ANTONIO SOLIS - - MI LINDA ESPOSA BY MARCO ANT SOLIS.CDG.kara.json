@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - MI LINDA ESPOSA BY MARCO ANT SOLIS.CDG.MP3",
+      "loudnorm": "-18.39,-0.87,5.10,-28.50,-1.08",
+      "duration": 158,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - MI LINDA ESPOSA BY MARCO ANT SOLIS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0629cf9d-b17b-438a-b25f-20e0f7fefdaa",
+    "title": "MI LINDA ESPOSA BY MARCO ANT SOLIS.CDG",
+    "titles": {
+      "spa": "MI LINDA ESPOSA BY MARCO ANT SOLIS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:53:30.099Z",
+    "modified_at": "2022-11-03T09:53:30.553Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2544085,
+      "gain": 1.11,
+      "duration": 158,
+      "loudnorm": "-18.39,-0.87,5.10,-28.50,-1.08",
+      "filename": "processed_545269d212fd84484e7a90eda8e0b51b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2544085,
+      "gain": 1.11,
+      "duration": 158,
+      "loudnorm": "-18.39,-0.87,5.10,-28.50,-1.08",
+      "filename": "processed_af0d78339723cf657bd13c2e9f72950a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

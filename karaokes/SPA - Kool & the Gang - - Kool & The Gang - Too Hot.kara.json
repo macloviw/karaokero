@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kool & the Gang - - Kool & The Gang - Too Hot.mp3",
+      "loudnorm": "-17.57,-1.11,3.40,-27.73,-0.71",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kool & the Gang - - Kool & The Gang - Too Hot.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e43290b-0673-4ed5-9eea-a30a5b82e3d6",
+    "title": "Kool & The Gang - Too Hot",
+    "titles": {
+      "spa": "Kool & The Gang - Too Hot"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "27600751-5129-45f6-b985-f2d670a6c326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:23:35.995Z",
+    "modified_at": "2022-11-04T01:23:36.384Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_de5d6d3ee8a63e949294c2a2e6ee63f9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4148759,
+      "gain": -0.61,
+      "duration": 259,
+      "loudnorm": "-17.57,-1.11,3.40,-27.73,-0.71",
+      "filename": "processed_41a5348fa900c33d47335b3715979014.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

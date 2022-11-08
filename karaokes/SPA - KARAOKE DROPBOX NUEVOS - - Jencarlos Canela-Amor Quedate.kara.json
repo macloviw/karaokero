@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Jencarlos Canela-Amor Quedate.mp3",
+      "loudnorm": "-5.38,8.90,8.50,-15.82,-0.62",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Jencarlos Canela-Amor Quedate.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a223ab0f-77d5-4a86-9318-d6108b6f620f",
+    "title": "Jencarlos Canela-Amor Quedate",
+    "titles": {
+      "spa": "Jencarlos Canela-Amor Quedate"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:36:22.698Z",
+    "modified_at": "2022-11-03T16:36:23.214Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3713fd4b04d8d0f3c3ae66460c13d11e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3618575,
+      "gain": -11.42,
+      "duration": 226,
+      "loudnorm": "-5.38,8.90,8.50,-15.82,-0.62",
+      "filename": "processed_cebaa6671807ab433f41136c4302cee6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Me vas a hacer llorar.mp3",
+      "loudnorm": "-11.04,1.11,3.40,-21.12,-1.02",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Me vas a hacer llorar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a24f661-df73-4a5c-8792-fbcf7ce8bbea",
+    "title": "Marco Antonio Solis - Me vas a hacer llorar",
+    "titles": {
+      "spa": "Marco Antonio Solis - Me vas a hacer llorar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:50:04.969Z",
+    "modified_at": "2022-11-03T09:50:05.397Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_13393a6c12449b6152fac839e4d915d6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3439063,
+      "gain": -6.93,
+      "duration": 214,
+      "loudnorm": "-11.04,1.11,3.40,-21.12,-1.02",
+      "filename": "processed_de6fe90ef4517986aee85bba26c37847.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

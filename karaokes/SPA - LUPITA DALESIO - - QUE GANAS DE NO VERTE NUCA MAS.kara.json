@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - QUE GANAS DE NO VERTE NUCA MAS.mp3",
+      "loudnorm": "-12.41,-0.01,3.50,-22.60,-0.87",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - QUE GANAS DE NO VERTE NUCA MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9234624f-cb7a-4e20-9152-9188c323f214",
+    "title": "QUE GANAS DE NO VERTE NUCA MAS",
+    "titles": {
+      "spa": "QUE GANAS DE NO VERTE NUCA MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:42:06.326Z",
+    "modified_at": "2022-11-03T09:42:06.739Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ccc524baa314abd4c275009e2c9c199a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4667236,
+      "gain": -4.18,
+      "duration": 194,
+      "loudnorm": "-12.41,-0.01,3.50,-22.60,-0.87",
+      "filename": "processed_c65e1f668509a54b5647bfb8ce220fd5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

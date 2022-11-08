@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kelly Minouge - - Kelly Minouge - Put yourself in my place.mp3",
+      "loudnorm": "-15.99,1.63,1.60,-26.08,-0.21",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kelly Minouge - - Kelly Minouge - Put yourself in my place.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "95782bb1-4b0b-4e72-a161-68dc7b75f9dd",
+    "title": "Kelly Minouge - Put yourself in my place",
+    "titles": {
+      "spa": "Kelly Minouge - Put yourself in my place"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4ff02834-d99f-4687-9381-e0a72b2c9e7f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:19:37.213Z",
+    "modified_at": "2022-11-04T01:19:37.602Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_802ff06699306f705adcb71b4c0fa9e1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4308837,
+      "gain": -2.59,
+      "duration": 269,
+      "loudnorm": "-15.99,1.63,1.60,-26.08,-0.21",
+      "filename": "processed_1d368efbc14c4d757cd366bd908e73ff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kool & the Gang - - Kool & The Gang - Get Down On It.mp3",
+      "loudnorm": "-15.50,1.60,2.70,-25.65,-0.47",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kool & the Gang - - Kool & The Gang - Get Down On It.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a617f5ea-01c4-4d51-ac8d-745c15e3dbce",
+    "title": "Kool & The Gang - Get Down On It",
+    "titles": {
+      "spa": "Kool & The Gang - Get Down On It"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "27600751-5129-45f6-b985-f2d670a6c326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:22:54.292Z",
+    "modified_at": "2022-11-04T01:22:54.675Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c880b15b4bf3e7e31aacd414f3624954.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3864128,
+      "gain": -3.34,
+      "duration": 241,
+      "loudnorm": "-15.50,1.60,2.70,-25.65,-0.47",
+      "filename": "processed_4537cd989a3cd3e3d1c044a1c1676cdf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

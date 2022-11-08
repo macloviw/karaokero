@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Toros Band - - 06 - Los Toros Band - Mi nina.mp3",
+      "loudnorm": "-15.62,0.10,3.40,-25.66,0.40",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Toros Band - - 06 - Los Toros Band - Mi nina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fd4e534d-3df5-400d-b8bb-54c908373334",
+    "title": "06 - Los Toros Band - Mi niña",
+    "titles": {
+      "spa": "06 - Los Toros Band - Mi niña"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:00:04.245Z",
+    "modified_at": "2022-11-03T00:00:04.689Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6525a65aba8174cfe8390701664f0fb2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6254592,
+      "gain": -1.11,
+      "duration": 260,
+      "loudnorm": "-15.62,0.10,3.40,-25.66,0.40",
+      "filename": "processed_306976de80f337f2e053ba8ca9351f85.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

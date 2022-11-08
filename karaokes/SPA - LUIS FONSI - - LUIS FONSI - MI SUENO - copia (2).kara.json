@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - MI SUENO - copia (2).MP3",
+      "loudnorm": "-11.00,0.75,3.70,-21.08,-1.22",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - MI SUENO - copia (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d5f339c-a79f-4f98-b2c4-25f21495ecc1",
+    "title": "LUIS FONSI   -   MI SUEÑO - copia (2)",
+    "titles": {
+      "spa": "LUIS FONSI   -   MI SUEÑO - copia (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:08:40.188Z",
+    "modified_at": "2022-11-03T09:08:40.781Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4190426,
+      "gain": -5.63,
+      "duration": 261,
+      "loudnorm": "-11.00,0.75,3.70,-21.08,-1.22",
+      "filename": "processed_49f499e16bd7eebd5db50d9f45bd3162.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4190426,
+      "gain": -5.63,
+      "duration": 261,
+      "loudnorm": "-11.00,0.75,3.70,-21.08,-1.22",
+      "filename": "processed_4dd838acd6e78ae23dadf8929b0e96ab.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

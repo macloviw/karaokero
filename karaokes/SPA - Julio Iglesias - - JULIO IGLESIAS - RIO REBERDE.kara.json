@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - RIO REBERDE.MP3",
+      "loudnorm": "-16.06,0.42,2.80,-26.26,0.04",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - RIO REBERDE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "950508e3-a4eb-448a-9d13-f75f02db32a0",
+    "title": "JULIO IGLESIAS   -   RIO REBERDE",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   RIO REBERDE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:20:03.417Z",
+    "modified_at": "2022-11-03T08:20:03.872Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2769783,
+      "gain": -0.3,
+      "duration": 172,
+      "loudnorm": "-16.06,0.42,2.80,-26.26,0.04",
+      "filename": "processed_51ca6c8e39de8d7ae42dc40637c9ad3d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2769783,
+      "gain": -0.3,
+      "duration": 172,
+      "loudnorm": "-16.06,0.42,2.80,-26.26,0.04",
+      "filename": "processed_feeae569b7d05da091ed5f0e29b5ac96.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

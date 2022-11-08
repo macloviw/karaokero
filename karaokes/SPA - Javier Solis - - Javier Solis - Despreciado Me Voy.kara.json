@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Despreciado Me Voy.mp3",
+      "loudnorm": "-10.83,0.67,8.30,-20.97,0.63",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Despreciado Me Voy.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "08d98953-5138-4512-a283-d9b1791a7ea1",
+    "title": "Javier Solis - Despreciado Me Voy",
+    "titles": {
+      "spa": "Javier Solis - Despreciado Me Voy"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:04:15.029Z",
+    "modified_at": "2022-11-03T06:04:15.435Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9175f3a733bfd8106221e62209d25372.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4482289,
+      "gain": -8.62,
+      "duration": 186,
+      "loudnorm": "-10.83,0.67,8.30,-20.97,0.63",
+      "filename": "processed_253b2696854e45953b9c40112b26a779.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

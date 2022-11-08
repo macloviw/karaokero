@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - DIME BY JAUME CAMIL.CDG.MP3",
+      "loudnorm": "-14.98,0.93,11.20,-25.34,-1.04",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - DIME BY JAUME CAMIL.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d02a1560-49db-4246-afd2-d70005ebf3bb",
+    "title": "DIME  BY JAUME CAMIL.CDG",
+    "titles": {
+      "spa": "DIME  BY JAUME CAMIL.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:10:27.630Z",
+    "modified_at": "2022-11-03T10:10:28.096Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3652931,
+      "gain": -1.93,
+      "duration": 228,
+      "loudnorm": "-14.98,0.93,11.20,-25.34,-1.04",
+      "filename": "processed_6a28a37d85b73eaf0a0dcdef8e9e58f7.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3652931,
+      "gain": -1.93,
+      "duration": 228,
+      "loudnorm": "-14.98,0.93,11.20,-25.34,-1.04",
+      "filename": "processed_81472aa9821bd53c65e833f18b2cc412.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

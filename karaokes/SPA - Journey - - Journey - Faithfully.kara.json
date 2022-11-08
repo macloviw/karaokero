@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Journey - - Journey - Faithfully.mp3",
+      "loudnorm": "-10.48,3.99,10.00,-20.71,-2.37",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Journey - - Journey - Faithfully.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4f7a8eeb-3721-47ab-b8c9-8a89fec1afb5",
+    "title": "Journey - Faithfully",
+    "titles": {
+      "spa": "Journey - Faithfully"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec1e210f-d1d4-4da1-bc6a-0e0e8fc13f0d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:12:27.796Z",
+    "modified_at": "2022-11-04T01:12:28.191Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2fb1763d23eb4cc259eaad2cd709c587.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4551460,
+      "gain": -8.51,
+      "duration": 284,
+      "loudnorm": "-10.48,3.99,10.00,-20.71,-2.37",
+      "filename": "processed_4e8b71c5e706f47098c2478869306860.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

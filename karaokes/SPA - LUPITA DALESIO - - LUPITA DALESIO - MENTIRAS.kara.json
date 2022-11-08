@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - MENTIRAS.mp3",
+      "loudnorm": "-17.09,0.68,9.90,-27.40,-1.08",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - MENTIRAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9206e9cc-2fe1-4d48-bd8a-1a462969277d",
+    "title": "LUPITA DALESIO   -   MENTIRAS",
+    "titles": {
+      "spa": "LUPITA DALESIO   -   MENTIRAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:39:52.950Z",
+    "modified_at": "2022-11-03T09:39:53.377Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f5095f57808ba2398e49fa2868e639ed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6265930,
+      "gain": 0.13,
+      "duration": 260,
+      "loudnorm": "-17.09,0.68,9.90,-27.40,-1.08",
+      "filename": "processed_f096caa5064b562de99690bf24480636.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

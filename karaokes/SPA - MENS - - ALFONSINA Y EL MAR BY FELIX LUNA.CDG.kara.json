@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - ALFONSINA Y EL MAR BY FELIX LUNA.CDG.MP3",
+      "loudnorm": "-17.90,-1.83,7.40,-28.04,-1.13",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - ALFONSINA Y EL MAR BY FELIX LUNA.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f971e0d-bf74-4fa1-801d-c2d49f390eb9",
+    "title": "ALFONSINA Y EL MAR BY FELIX LUNA.CDG",
+    "titles": {
+      "spa": "ALFONSINA Y EL MAR BY FELIX LUNA.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:04:44.573Z",
+    "modified_at": "2022-11-03T10:04:45.180Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5201888,
+      "gain": 0.16,
+      "duration": 324,
+      "loudnorm": "-17.90,-1.83,7.40,-28.04,-1.13",
+      "filename": "processed_744636fb49e2a4e64bcc5ca2ff8d891d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5201888,
+      "gain": 0.16,
+      "duration": 324,
+      "loudnorm": "-17.90,-1.83,7.40,-28.04,-1.13",
+      "filename": "processed_ee0f4557191e7bbb4da742bfd6b28239.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

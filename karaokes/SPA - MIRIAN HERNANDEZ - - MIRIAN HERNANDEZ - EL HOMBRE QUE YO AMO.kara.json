@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - EL HOMBRE QUE YO AMO.MP3",
+      "loudnorm": "-9.91,1.66,10.80,-20.41,-1.60",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - EL HOMBRE QUE YO AMO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8688aa83-32d6-48f8-b716-fa695b77c32a",
+    "title": "MIRIAN HERNANDEZ   -   EL HOMBRE QUE YO AMO",
+    "titles": {
+      "spa": "MIRIAN HERNANDEZ   -   EL HOMBRE QUE YO AMO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af34ad6a-8c85-484e-ae7b-f738432bf0f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:43:46.914Z",
+    "modified_at": "2022-11-03T10:43:47.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3473207,
+      "gain": -7.46,
+      "duration": 216,
+      "loudnorm": "-9.91,1.66,10.80,-20.41,-1.60",
+      "filename": "processed_e1866de94537ce801d95ccda4dbdc6a3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3473207,
+      "gain": -7.46,
+      "duration": 216,
+      "loudnorm": "-9.91,1.66,10.80,-20.41,-1.60",
+      "filename": "processed_7d9432b5d1016ef9706a17ed91e58ec3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

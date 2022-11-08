@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS SEGURA - - Luis Segura (El Anonaito) - Traicionera.mp3",
+      "loudnorm": "-18.16,-1.46,1.90,-28.19,-0.12",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS SEGURA - - Luis Segura (El Anonaito) - Traicionera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "73bf0f50-2f88-4c62-9cfb-102ca29ccd7d",
+    "title": "Luis Segura (El Añoñaito) - Traicionera",
+    "titles": {
+      "spa": "Luis Segura (El Añoñaito) - Traicionera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "e3e6a969-9772-4031-a9b1-06e449f1b5bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:05:50.371Z",
+    "modified_at": "2022-11-03T00:05:50.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a8f9614d02915edf9f7718ac18389a7c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3136541,
+      "gain": -0.75,
+      "duration": 223,
+      "loudnorm": "-18.16,-1.46,1.90,-28.19,-0.12",
+      "filename": "processed_81ac8a508ef43654d6872ad8b34a595f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

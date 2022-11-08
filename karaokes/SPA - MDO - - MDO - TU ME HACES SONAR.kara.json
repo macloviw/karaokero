@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MDO - - MDO - TU ME HACES SONAR.MP3",
+      "loudnorm": "-15.66,0.42,3.80,-25.79,-0.71",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MDO - - MDO - TU ME HACES SONAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9b4c0358-8125-4a22-8169-a792be7f4836",
+    "title": "MDO - TU ME HACES SOÑAR",
+    "titles": {
+      "spa": "MDO - TU ME HACES SOÑAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "66183922-340f-467d-9ddb-118383bbd5ce"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:01:40.081Z",
+    "modified_at": "2022-11-03T10:01:40.553Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3743628,
+      "gain": -1.39,
+      "duration": 233,
+      "loudnorm": "-15.66,0.42,3.80,-25.79,-0.71",
+      "filename": "processed_984f00d9746f84bdc689753e9ae27dbf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3743628,
+      "gain": -1.39,
+      "duration": 233,
+      "loudnorm": "-15.66,0.42,3.80,-25.79,-0.71",
+      "filename": "processed_99d48deba6cb399da39c33a1b3035448.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

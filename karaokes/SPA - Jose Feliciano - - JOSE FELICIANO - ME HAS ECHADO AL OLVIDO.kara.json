@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - ME HAS ECHADO AL OLVIDO.MP3",
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - ME HAS ECHADO AL OLVIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f92354bb-cc7d-46d0-9897-98d2239afb13",
+    "title": "JOSE FELICIANO   -   ME HAS ECHADO AL OLVIDO",
+    "titles": {
+      "spa": "JOSE FELICIANO   -   ME HAS ECHADO AL OLVIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:31:08.061Z",
+    "modified_at": "2022-11-03T06:31:08.554Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4016973,
+      "gain": -0.02,
+      "duration": 250,
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "filename": "processed_a74b84729d2dc79877201983a2ff8d92.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4016973,
+      "gain": -0.02,
+      "duration": 250,
+      "loudnorm": "-18.68,-0.42,8.70,-28.90,-0.92",
+      "filename": "processed_7deb7735122d74bee356d9a40e744db2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

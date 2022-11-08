@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - JURAME.MP3",
+      "loudnorm": "-17.51,-2.31,6.60,-27.74,-0.58",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - JURAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52564930-8b4e-499c-ad63-8d3c864541b7",
+    "title": "JULIO IGLESIAS   -   JURAME",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   JURAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:17:25.508Z",
+    "modified_at": "2022-11-03T08:17:26.049Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4149519,
+      "gain": -1.37,
+      "duration": 259,
+      "loudnorm": "-17.51,-2.31,6.60,-27.74,-0.58",
+      "filename": "processed_f9fdfa3534cd1c353b1ac40ea3dad65b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4149519,
+      "gain": -1.37,
+      "duration": 259,
+      "loudnorm": "-17.51,-2.31,6.60,-27.74,-0.58",
+      "filename": "processed_73d6e13a724b8f9341dde7cb2e31cc27.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

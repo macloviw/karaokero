@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - Oye Guitarra Mia.MP3",
+      "loudnorm": "-11.28,1.42,5.00,-21.33,-1.22",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - Oye Guitarra Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d3c04470-2482-41b6-83cf-d25ad9b95f30",
+    "title": "Jose Feliciano - Oye Guitarra Mia",
+    "titles": {
+      "spa": "Jose Feliciano - Oye Guitarra Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:35:38.397Z",
+    "modified_at": "2022-11-03T06:35:39.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7032972,
+      "gain": -6.82,
+      "duration": 292,
+      "loudnorm": "-11.28,1.42,5.00,-21.33,-1.22",
+      "filename": "processed_f5140989b7f6b6227435ca9db2e2c146.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7032972,
+      "gain": -6.82,
+      "duration": 292,
+      "loudnorm": "-11.28,1.42,5.00,-21.33,-1.22",
+      "filename": "processed_d0e2ee5b283d09cad7d52b71f8352753.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

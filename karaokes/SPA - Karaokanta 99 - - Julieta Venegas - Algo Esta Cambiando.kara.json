@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaokanta 99 - - Julieta Venegas - Algo Esta Cambiando.mp3",
+      "loudnorm": "-11.86,1.81,5.40,-22.09,-1.14",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaokanta 99 - - Julieta Venegas - Algo Esta Cambiando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2965ddcb-2791-4d69-9db5-4268203cfddc",
+    "title": "Julieta Venegas - Algo Esta Cambiando",
+    "titles": {
+      "spa": "Julieta Venegas - Algo Esta Cambiando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "505cf43b-ead6-49ca-b7b2-98affd2e8381"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:32:00.235Z",
+    "modified_at": "2022-11-03T08:32:00.670Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b46f8734fa819ad94a835f2d6f3b149.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5829717,
+      "gain": -5.46,
+      "duration": 242,
+      "loudnorm": "-11.86,1.81,5.40,-22.09,-1.14",
+      "filename": "processed_b9f8f25754c8a371f1b1ab5ddd925ead.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

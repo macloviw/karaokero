@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - PORQUE TE QUIERO TANTO TITO ROJAS JACKSON.mp3",
+      "loudnorm": "-9.96,0.31,2.30,-20.01,-0.59",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - PORQUE TE QUIERO TANTO TITO ROJAS JACKSON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "41bd0924-2196-4461-a760-70d54b544234",
+    "title": "PORQUE TE QUIERO TANTO TITO ROJAS JACKSON",
+    "titles": {
+      "spa": "PORQUE TE QUIERO TANTO TITO ROJAS JACKSON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:42:05.565Z",
+    "modified_at": "2022-11-03T16:42:06.082Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4c8e2a40c9eb36e0e2347ea94f1e74ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12698867,
+      "gain": -10.57,
+      "duration": 317,
+      "loudnorm": "-9.96,0.31,2.30,-20.01,-0.59",
+      "filename": "processed_4e09005826e5da1169455c99862a8c40.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

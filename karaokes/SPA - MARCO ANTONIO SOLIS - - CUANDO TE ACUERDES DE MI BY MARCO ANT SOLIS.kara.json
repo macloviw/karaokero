@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - CUANDO TE ACUERDES DE MI BY MARCO ANT SOLIS.MP3",
+      "loudnorm": "-10.62,3.53,8.70,-20.82,-0.76",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - CUANDO TE ACUERDES DE MI BY MARCO ANT SOLIS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1e7fb625-cbbe-4da3-95d3-bf77ea280182",
+    "title": "CUANDO TE ACUERDES DE MI BY MARCO ANT SOLIS",
+    "titles": {
+      "spa": "CUANDO TE ACUERDES DE MI BY MARCO ANT SOLIS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:49:08.505Z",
+    "modified_at": "2022-11-03T09:49:09.113Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4399824,
+      "gain": -5.32,
+      "duration": 274,
+      "loudnorm": "-10.62,3.53,8.70,-20.82,-0.76",
+      "filename": "processed_399b808b83fcb625aa39cc961dcdf434.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4399824,
+      "gain": -5.32,
+      "duration": 274,
+      "loudnorm": "-10.62,3.53,8.70,-20.82,-0.76",
+      "filename": "processed_21df6f11fff0165c19a4eef399d1cee2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

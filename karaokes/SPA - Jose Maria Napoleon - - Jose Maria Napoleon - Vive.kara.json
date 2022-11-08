@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Maria Napoleon - - Jose Maria Napoleon - Vive.mp3",
+      "loudnorm": "-14.54,0.98,3.90,-24.59,0.16",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Maria Napoleon - - Jose Maria Napoleon - Vive.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cd8d75cb-1fed-4e75-9723-714224d34d46",
+    "title": "Jose Maria Napoleon - Vive",
+    "titles": {
+      "spa": "Jose Maria Napoleon - Vive"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e3bdf886-6ae8-4f00-bf02-4b22b544f53f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:33:16.391Z",
+    "modified_at": "2022-11-03T07:33:16.804Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_96782c4115ec764a98c8bc087611ea77.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4525933,
+      "gain": -2.86,
+      "duration": 188,
+      "loudnorm": "-14.54,0.98,3.90,-24.59,0.16",
+      "filename": "processed_d44bf2b56284f15bcb366a2bb57b9bb3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

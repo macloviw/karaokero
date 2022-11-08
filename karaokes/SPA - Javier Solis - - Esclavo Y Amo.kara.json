@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Esclavo Y Amo.mp3",
+      "loudnorm": "-9.39,4.57,7.00,-19.46,0.45",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Esclavo Y Amo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf7a460b-e0fd-4cd7-8746-aa68cf1e15ad",
+    "title": "Esclavo Y Amo",
+    "titles": {
+      "spa": "Esclavo Y Amo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:02:06.394Z",
+    "modified_at": "2022-11-03T06:02:06.792Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4962fe8d69b04a63958522f24dfe4f8d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2884220,
+      "gain": -8.85,
+      "duration": 180,
+      "loudnorm": "-9.39,4.57,7.00,-19.46,0.45",
+      "filename": "processed_c64200b0b5f67ea8882c242e39b2e5b1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

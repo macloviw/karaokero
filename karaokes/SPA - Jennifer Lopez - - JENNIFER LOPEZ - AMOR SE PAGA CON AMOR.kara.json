@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - JENNIFER LOPEZ - AMOR SE PAGA CON AMOR.MP3",
+      "loudnorm": "-12.29,3.03,5.00,-22.39,-0.21",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - JENNIFER LOPEZ - AMOR SE PAGA CON AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9e93185b-685b-4680-ad5e-a5017c05b687",
+    "title": "JENNIFER LOPEZ   -   AMOR SE PAGA CON AMOR",
+    "titles": {
+      "spa": "JENNIFER LOPEZ   -   AMOR SE PAGA CON AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:08:18.897Z",
+    "modified_at": "2022-11-03T06:08:19.433Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3750315,
+      "gain": -4.11,
+      "duration": 234,
+      "loudnorm": "-12.29,3.03,5.00,-22.39,-0.21",
+      "filename": "processed_b1f69732f5a953c01bd6daa035337517.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3750315,
+      "gain": -4.11,
+      "duration": 234,
+      "loudnorm": "-12.29,3.03,5.00,-22.39,-0.21",
+      "filename": "processed_b685e4572b4230468a319bc1ee4923cf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

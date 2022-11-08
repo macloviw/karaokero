@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Luis Miguel - Si tu te atreves (MultiKaraoke).mp3",
+      "loudnorm": "-12.91,0.63,11.70,-23.35,-1.42",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Luis Miguel - Si tu te atreves (MultiKaraoke).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6cdb919e-1029-45ee-8abc-f6c14befcc6b",
+    "title": "Luís Miguel - Si tu te atreves (MultiKaraoke)",
+    "titles": {
+      "spa": "Luís Miguel - Si tu te atreves (MultiKaraoke)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:39:40.816Z",
+    "modified_at": "2022-11-03T16:39:41.268Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_26d1d90c0d9b44d9b19711a634300600.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1637231,
+      "gain": -3.98,
+      "duration": 233,
+      "loudnorm": "-12.91,0.63,11.70,-23.35,-1.42",
+      "filename": "processed_f63b578fe1f567cb695bcd41c0f43174.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

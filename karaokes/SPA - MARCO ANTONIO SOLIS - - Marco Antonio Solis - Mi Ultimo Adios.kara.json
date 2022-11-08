@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Mi Ultimo Adios.MP3",
+      "loudnorm": "-17.61,-1.04,3.60,-27.71,-0.91",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Mi Ultimo Adios.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "511347bd-10f5-4064-8a69-87a76de6837c",
+    "title": "Marco Antonio Solis - Mi Ultimo Adios",
+    "titles": {
+      "spa": "Marco Antonio Solis - Mi Ultimo Adios"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:50:53.326Z",
+    "modified_at": "2022-11-03T09:50:53.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3705594,
+      "gain": 0,
+      "duration": 231,
+      "loudnorm": "-17.61,-1.04,3.60,-27.71,-0.91",
+      "filename": "processed_651adc90ec219c2755da55fa2e48463d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3705594,
+      "gain": 0,
+      "duration": 231,
+      "loudnorm": "-17.61,-1.04,3.60,-27.71,-0.91",
+      "filename": "processed_3e31a4fd2ac29a6b457b088e6674021b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

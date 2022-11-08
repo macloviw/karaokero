@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Krauss, Alison - - Alison Krauss - New food.mp3",
+      "loudnorm": "-13.06,1.52,4.00,-23.13,-1.10",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Krauss, Alison - - Alison Krauss - New food.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "96859885-0c8d-4670-a7f7-3a3962e38be6",
+    "title": "Alison Krauss - New food",
+    "titles": {
+      "spa": "Alison Krauss - New food"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "fb94d0d2-1ccc-4825-aa6d-87664faa04c8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:24:35.980Z",
+    "modified_at": "2022-11-04T01:24:36.354Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_030ed051c4356e55c9d8fd42c46d448d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2902222,
+      "gain": -4.96,
+      "duration": 181,
+      "loudnorm": "-13.06,1.52,4.00,-23.13,-1.10",
+      "filename": "processed_fe0c5608d23ec4ee70aec9fd6b0053d8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

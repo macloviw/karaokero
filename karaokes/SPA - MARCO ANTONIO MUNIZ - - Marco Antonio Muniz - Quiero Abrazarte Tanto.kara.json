@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz - Quiero Abrazarte Tanto.MP3",
+      "loudnorm": "-12.62,-0.16,4.00,-22.89,-1.07",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO MUNIZ - - Marco Antonio Muniz - Quiero Abrazarte Tanto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "015e68ff-0e72-44f8-bf17-69f0ce48c1b0",
+    "title": "Marco Antonio Muñiz - Quiero Abrazarte Tanto",
+    "titles": {
+      "spa": "Marco Antonio Muñiz - Quiero Abrazarte Tanto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a92236a9-14aa-4ae5-a867-50d9bcca11bc"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:48:16.752Z",
+    "modified_at": "2022-11-03T09:48:17.220Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3699453,
+      "gain": -5.21,
+      "duration": 231,
+      "loudnorm": "-12.62,-0.16,4.00,-22.89,-1.07",
+      "filename": "processed_ba2bdeff7e960bd689e45c45a0acb6a4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3699453,
+      "gain": -5.21,
+      "duration": 231,
+      "loudnorm": "-12.62,-0.16,4.00,-22.89,-1.07",
+      "filename": "processed_3701494d22cad4741bd9f865086fcad4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

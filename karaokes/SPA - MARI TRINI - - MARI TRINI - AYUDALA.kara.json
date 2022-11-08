@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARI TRINI - - MARI TRINI - AYUDALA.mp3",
+      "loudnorm": "-16.91,-0.63,7.10,-26.99,-0.35",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARI TRINI - - MARI TRINI - AYUDALA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "924ae1c3-3b04-4ea4-86f5-5972c43c7823",
+    "title": "MARI  TRINI - AYUDALA",
+    "titles": {
+      "spa": "MARI  TRINI - AYUDALA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3fb3271a-4993-4efb-bce3-1f1b90d16517"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:54:34.989Z",
+    "modified_at": "2022-11-03T22:54:35.373Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_03c9a65387a00fec74bb40b0357ef7d4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7096814,
+      "gain": -2.29,
+      "duration": 253,
+      "loudnorm": "-16.91,-0.63,7.10,-26.99,-0.35",
+      "filename": "processed_80964af78209ae4eeccf2ade3201e70d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

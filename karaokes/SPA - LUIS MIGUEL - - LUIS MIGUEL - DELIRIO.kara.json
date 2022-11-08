@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DELIRIO.MP3",
+      "loudnorm": "-15.74,2.08,2.70,-25.85,-0.60",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - DELIRIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c6d74d57-45a5-41f7-bd54-9d2fa8495bd5",
+    "title": "LUIS MIGUEL   -   DELIRIO",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   DELIRIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:17:57.411Z",
+    "modified_at": "2022-11-03T09:17:58.011Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4015013,
+      "gain": -1.3,
+      "duration": 250,
+      "loudnorm": "-15.74,2.08,2.70,-25.85,-0.60",
+      "filename": "processed_608026bdde48d0cb227b4883aaa8db53.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4015013,
+      "gain": -1.3,
+      "duration": 250,
+      "loudnorm": "-15.74,2.08,2.70,-25.85,-0.60",
+      "filename": "processed_274ece9c54b13d33d9ebd3c022cdeae8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

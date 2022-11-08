@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - POQUITA FE.MP3",
+      "loudnorm": "-14.84,-3.34,2.00,-24.91,-0.56",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - POQUITA FE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e9748f12-0391-4570-a8a6-9167523950c2",
+    "title": "LOS PANCHOS                -   POQUITA FE",
+    "titles": {
+      "spa": "LOS PANCHOS                -   POQUITA FE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:03:30.140Z",
+    "modified_at": "2022-11-03T09:03:30.599Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2845852,
+      "gain": -2.22,
+      "duration": 177,
+      "loudnorm": "-14.84,-3.34,2.00,-24.91,-0.56",
+      "filename": "processed_3360c31f157e78353e31e0b4703be7da.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2845852,
+      "gain": -2.22,
+      "duration": 177,
+      "loudnorm": "-14.84,-3.34,2.00,-24.91,-0.56",
+      "filename": "processed_78c1f730924149c8af33bcd51041eb26.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

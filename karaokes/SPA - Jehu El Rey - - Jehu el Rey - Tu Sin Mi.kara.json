@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jehu El Rey - - Jehu el Rey - Tu Sin Mi.mp3",
+      "loudnorm": "-10.36,2.25,2.80,-20.37,-0.78",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jehu El Rey - - Jehu el Rey - Tu Sin Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5e41a42a-5f46-405b-8909-e08ddbd56eab",
+    "title": "Jehu el Rey - Tu Sin Mi",
+    "titles": {
+      "spa": "Jehu el Rey - Tu Sin Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "afe4eaa7-ded1-4daa-a022-948f47620838"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:41:15.372Z",
+    "modified_at": "2022-11-04T03:41:15.752Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5101a5fdf7a667645453e15f3f066a65.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3904253,
+      "gain": -8.48,
+      "duration": 243,
+      "loudnorm": "-10.36,2.25,2.80,-20.37,-0.78",
+      "filename": "processed_03e04d27f26231a7fa9467426c911d7b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Solo Una Mujer.MP3",
+      "loudnorm": "-8.58,0.25,3.50,-18.61,-0.38",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - Solo Una Mujer.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "afbc94fb-208e-4dc7-b0fe-eb72f86fa327",
+    "title": "Jose Jose El Principe Con Trio   -   Solo Una Mujer",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   Solo Una Mujer"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:21:12.943Z",
+    "modified_at": "2022-11-03T07:21:13.480Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4480704,
+      "gain": -9.36,
+      "duration": 186,
+      "loudnorm": "-8.58,0.25,3.50,-18.61,-0.38",
+      "filename": "processed_7898546d0b3574d855536bf96974c0eb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4480704,
+      "gain": -9.36,
+      "duration": 186,
+      "loudnorm": "-8.58,0.25,3.50,-18.61,-0.38",
+      "filename": "processed_0cfc796b0dade1f6336c976e14a0b0ce.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

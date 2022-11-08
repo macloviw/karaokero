@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LA FAMILIA ANDRES - - LA FAMILIA ANDRES - MARIA ELENA-1.mp3",
+      "loudnorm": "-13.99,0.20,4.90,-24.04,-1.00",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LA FAMILIA ANDRES - - LA FAMILIA ANDRES - MARIA ELENA-1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb3969aa-fa9e-47f3-8cc2-ba35b60d5daa",
+    "title": "LA FAMILIA ANDRES - MARIA ELENA-1",
+    "titles": {
+      "spa": "LA FAMILIA ANDRES - MARIA ELENA-1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "55db53cc-bb70-4667-9021-ab4b743be913"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:35:25.027Z",
+    "modified_at": "2022-11-03T08:35:25.501Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b07e1fd0f64fa59d1abcf10aa7da426.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3980244,
+      "gain": -4.69,
+      "duration": 284,
+      "loudnorm": "-13.99,0.20,4.90,-24.04,-1.00",
+      "filename": "processed_ef913f31ecf70d22f37a51ce60d7b18d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

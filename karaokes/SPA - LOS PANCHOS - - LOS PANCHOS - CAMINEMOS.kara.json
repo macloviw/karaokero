@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - CAMINEMOS.MP3",
+      "loudnorm": "-15.41,-0.49,3.30,-25.58,-0.49",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - CAMINEMOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6439c3a5-1fc3-4ac4-bb0a-e1e9740574b9",
+    "title": "LOS PANCHOS                -   CAMINEMOS",
+    "titles": {
+      "spa": "LOS PANCHOS                -   CAMINEMOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:01:21.967Z",
+    "modified_at": "2022-11-03T09:01:22.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3141349,
+      "gain": -1.22,
+      "duration": 196,
+      "loudnorm": "-15.41,-0.49,3.30,-25.58,-0.49",
+      "filename": "processed_6b709a08df609f831da7079ff637d674.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3141349,
+      "gain": -1.22,
+      "duration": 196,
+      "loudnorm": "-15.41,-0.49,3.30,-25.58,-0.49",
+      "filename": "processed_de13e004b4de5ad055e26d10c8bdac2b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaoke - - Karaoke - Beatles - Real Love.mp3",
+      "loudnorm": "-16.37,-0.40,4.00,-26.43,-1.00",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaoke - - Karaoke - Beatles - Real Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe53e247-ef29-4e51-9917-52b934825fe4",
+    "title": "Karaoke - Beatles - Real Love",
+    "titles": {
+      "spa": "Karaoke - Beatles - Real Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "dcbade43-57c4-4c0e-97a2-e34d48db1fa1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:17:26.856Z",
+    "modified_at": "2022-11-04T01:17:27.233Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e139f772f455c7a07e669a51fff15e4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3865800,
+      "gain": -1.01,
+      "duration": 241,
+      "loudnorm": "-16.37,-0.40,4.00,-26.43,-1.00",
+      "filename": "processed_83dd0fa24dddbbaa8e75541ea99fa2ba.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

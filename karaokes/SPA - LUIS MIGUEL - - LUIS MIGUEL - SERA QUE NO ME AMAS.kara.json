@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SERA QUE NO ME AMAS.MP3",
+      "loudnorm": "-13.96,1.87,2.90,-24.02,-0.43",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - SERA QUE NO ME AMAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0150e2e8-06af-4361-b000-87b5ec285b7d",
+    "title": "LUIS MIGUEL   -   SERA QUE NO ME AMAS",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   SERA QUE NO ME AMAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:23:45.099Z",
+    "modified_at": "2022-11-03T09:23:45.585Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4133166,
+      "gain": -1.47,
+      "duration": 258,
+      "loudnorm": "-13.96,1.87,2.90,-24.02,-0.43",
+      "filename": "processed_eed3ea810ff517e897713c7ced7cfc08.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4133166,
+      "gain": -1.47,
+      "duration": 258,
+      "loudnorm": "-13.96,1.87,2.90,-24.02,-0.43",
+      "filename": "processed_40f848c0c065cfff703130c5903b09f2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

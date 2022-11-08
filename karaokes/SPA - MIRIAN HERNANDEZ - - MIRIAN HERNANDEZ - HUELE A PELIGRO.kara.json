@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - HUELE A PELIGRO.MP3",
+      "loudnorm": "-14.41,0.77,8.50,-24.63,-0.65",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - HUELE A PELIGRO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aa544b82-4dd8-421c-9c4b-0208d6905e2f",
+    "title": "MIRIAN HERNANDEZ   -   HUELE A PELIGRO",
+    "titles": {
+      "spa": "MIRIAN HERNANDEZ   -   HUELE A PELIGRO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af34ad6a-8c85-484e-ae7b-f738432bf0f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:44:36.970Z",
+    "modified_at": "2022-11-03T10:44:37.652Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4893852,
+      "gain": -2.95,
+      "duration": 305,
+      "loudnorm": "-14.41,0.77,8.50,-24.63,-0.65",
+      "filename": "processed_19034852e82e563bd4fc8c36cc9b781b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4893852,
+      "gain": -2.95,
+      "duration": 305,
+      "loudnorm": "-14.41,0.77,8.50,-24.63,-0.65",
+      "filename": "processed_2be2c36d3c16db10febb263aafe85943.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

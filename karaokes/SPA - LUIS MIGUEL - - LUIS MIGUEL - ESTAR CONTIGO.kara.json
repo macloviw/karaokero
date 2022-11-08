@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - ESTAR CONTIGO.mp3",
+      "loudnorm": "-9.80,7.46,7.80,-19.91,-1.53",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - ESTAR CONTIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4cd94356-8c6f-4b2a-8f26-02ba5c4d267b",
+    "title": "LUIS MIGUEL   -   ESTAR CONTIGO",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   ESTAR CONTIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:18:52.480Z",
+    "modified_at": "2022-11-03T09:18:52.906Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e48458de918c4efcf1094b0d33a1dabf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6283691,
+      "gain": -8.53,
+      "duration": 261,
+      "loudnorm": "-9.80,7.46,7.80,-19.91,-1.53",
+      "filename": "processed_277e42aa7e662fdc6171744ae15cbbd7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

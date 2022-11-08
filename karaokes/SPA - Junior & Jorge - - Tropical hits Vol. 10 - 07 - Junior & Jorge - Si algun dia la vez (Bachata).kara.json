@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Junior & Jorge - - Tropical hits Vol. 10 - 07 - Junior & Jorge - Si algun dia la vez (Bachata).mp3",
+      "loudnorm": "-15.05,-1.62,4.00,-25.08,-0.38",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Junior & Jorge - - Tropical hits Vol. 10 - 07 - Junior & Jorge - Si algun dia la vez (Bachata).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec2656d3-26f4-42ed-98a1-7059db281b7a",
+    "title": "Tropical hits Vol. 10 - 07 - Junior & Jorge - Si algun dia la vez (Bachata)",
+    "titles": {
+      "spa": "Tropical hits Vol. 10 - 07 - Junior & Jorge - Si algun dia la vez (Bachata)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "86d991e6-82de-4169-b550-e4ece4956a29"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:25:34.935Z",
+    "modified_at": "2022-11-03T16:25:35.427Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_21b0d11e9aff244786f58065ba6958b8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3801006,
+      "gain": -0.25,
+      "duration": 237,
+      "loudnorm": "-15.05,-1.62,4.00,-25.08,-0.38",
+      "filename": "processed_01df4ae190b334a12d6e1b1d01c0e352.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

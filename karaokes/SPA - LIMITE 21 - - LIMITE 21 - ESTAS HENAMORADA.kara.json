@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LIMITE 21 - - LIMITE 21 - ESTAS HENAMORADA.MP3",
+      "loudnorm": "-16.45,0.04,3.20,-26.63,-0.16",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LIMITE 21 - - LIMITE 21 - ESTAS HENAMORADA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17901695-5829-4dce-84f1-90090f4e2fac",
+    "title": "LIMITE 21  -  ESTAS HENAMORADA",
+    "titles": {
+      "spa": "LIMITE 21  -  ESTAS HENAMORADA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d76c3399-f6d4-4e20-8373-a7ed05413921"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:52:17.263Z",
+    "modified_at": "2022-11-03T08:52:17.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4203801,
+      "gain": -0.99,
+      "duration": 262,
+      "loudnorm": "-16.45,0.04,3.20,-26.63,-0.16",
+      "filename": "processed_5e8776b2e9b9375191c508e705a5256d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4203801,
+      "gain": -0.99,
+      "duration": 262,
+      "loudnorm": "-16.45,0.04,3.20,-26.63,-0.16",
+      "filename": "processed_fb4188091f75b926a1ca62acf1fca132.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

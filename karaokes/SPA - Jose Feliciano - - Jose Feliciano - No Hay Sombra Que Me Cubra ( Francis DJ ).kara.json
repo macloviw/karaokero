@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - No Hay Sombra Que Me Cubra ( Francis DJ ).mp3",
+      "loudnorm": "-17.29,0.05,5.00,-27.35,0.50",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - No Hay Sombra Que Me Cubra ( Francis DJ ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c31f24d8-7a4d-4297-8947-33e1e641bbda",
+    "title": "Jose Feliciano - No Hay Sombra Que Me Cubra ( Francis DJ )",
+    "titles": {
+      "spa": "Jose Feliciano - No Hay Sombra Que Me Cubra ( Francis DJ )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:56:10.883Z",
+    "modified_at": "2022-11-04T03:56:11.275Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_30e6fffebb38c20937253adc1ff28ed7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3817119,
+      "gain": -0.83,
+      "duration": 238,
+      "loudnorm": "-17.29,0.05,5.00,-27.35,0.50",
+      "filename": "processed_882f5244a9a0168e69c8991eed7a5676.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

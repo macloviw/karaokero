@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - MI AMANTE MI NINA MI COMPANERA.MP3",
+      "loudnorm": "-12.95,0.51,7.00,-23.07,-1.55",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - MI AMANTE MI NINA MI COMPANERA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "71cc9197-5cee-4485-ac1f-2ae96bc7e29f",
+    "title": "LEO FAVIO   -   MI AMANTE MI NIÑA MI COMPAÑERA",
+    "titles": {
+      "spa": "LEO FAVIO   -   MI AMANTE MI NIÑA MI COMPAÑERA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:49:13.173Z",
+    "modified_at": "2022-11-03T08:49:13.749Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7347819,
+      "gain": -4.98,
+      "duration": 183,
+      "loudnorm": "-12.95,0.51,7.00,-23.07,-1.55",
+      "filename": "processed_1ae5182edfcd5e9fbd82eca57d38fecf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7347819,
+      "gain": -4.98,
+      "duration": 183,
+      "loudnorm": "-12.95,0.51,7.00,-23.07,-1.55",
+      "filename": "processed_944b40552d408e6a06a7cbda2d543095.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

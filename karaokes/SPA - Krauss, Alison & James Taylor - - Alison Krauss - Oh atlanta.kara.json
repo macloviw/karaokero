@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Oh atlanta.mp3",
+      "loudnorm": "-14.18,3.10,9.60,-24.40,-1.32",
+      "duration": 303,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Oh atlanta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f8d4f47-334a-4261-b253-26f54a41a4c2",
+    "title": "Alison Krauss - Oh atlanta",
+    "titles": {
+      "spa": "Alison Krauss - Oh atlanta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c73d0529-b6ea-4fc4-bbcb-a4e8c0be08d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:25:27.434Z",
+    "modified_at": "2022-11-04T01:25:27.830Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_331e2ce88efcd067e4a6dfc58338a1f0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4860078,
+      "gain": -4.52,
+      "duration": 303,
+      "loudnorm": "-14.18,3.10,9.60,-24.40,-1.32",
+      "filename": "processed_d70968499e2aca03405f1061f43f0944.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Si Te Pudiera Mentir.mp3",
+      "loudnorm": "-7.70,7.26,3.70,-17.86,-1.27",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Si Te Pudiera Mentir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "42f94437-36b5-44b5-9048-ebecd5725fc3",
+    "title": "Marco Antonio Solis - Si Te Pudiera Mentir",
+    "titles": {
+      "spa": "Marco Antonio Solis - Si Te Pudiera Mentir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:52:38.216Z",
+    "modified_at": "2022-11-03T09:52:38.629Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f27e5e9368e1c9f3a3b4a9b46e9af8f3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4505774,
+      "gain": -9.29,
+      "duration": 281,
+      "loudnorm": "-7.70,7.26,3.70,-17.86,-1.27",
+      "filename": "processed_ef27570209647a26999963075a51fc8f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

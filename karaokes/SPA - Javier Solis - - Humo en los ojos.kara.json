@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Humo en los ojos.mp3",
+      "loudnorm": "-11.79,1.15,3.60,-21.82,-1.23",
+      "duration": 198,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Humo en los ojos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cc80a61b-4691-4775-b2f3-f2cb0aa9bc8a",
+    "title": "Humo en los ojos",
+    "titles": {
+      "spa": "Humo en los ojos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:03:51.837Z",
+    "modified_at": "2022-11-03T06:03:52.234Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_73eebc898323d23556d6a0a465db4df6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3182004,
+      "gain": -5.67,
+      "duration": 198,
+      "loudnorm": "-11.79,1.15,3.60,-21.82,-1.23",
+      "filename": "processed_2f993f9322fd8f5ba3f9bdce1991dd83.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - Jose Feliciano - Despues de ti...que.mp3",
+      "loudnorm": "-10.82,0.74,2.80,-20.95,-0.24",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - Jose Feliciano - Despues de ti...que.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eefd44b8-7695-432d-9f68-9924cf965625",
+    "title": "Jose  Feliciano - Despues de ti...que",
+    "titles": {
+      "spa": "Jose  Feliciano - Despues de ti...que"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:34:50.259Z",
+    "modified_at": "2022-11-03T22:34:50.651Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8ddde9c6d664d6d8529b8661a9324a96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6131138,
+      "gain": -5.04,
+      "duration": 255,
+      "loudnorm": "-10.82,0.74,2.80,-20.95,-0.24",
+      "filename": "processed_b9de7f068b40d87819d2d9c0d6b83435.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

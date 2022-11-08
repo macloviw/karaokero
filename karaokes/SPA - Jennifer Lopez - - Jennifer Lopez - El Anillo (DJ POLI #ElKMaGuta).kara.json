@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - El Anillo (DJ POLI #ElKMaGuta).mp3",
+      "loudnorm": "-10.97,1.24,8.90,-21.47,-0.94",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - El Anillo (DJ POLI #ElKMaGuta).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d2f1392c-6e9c-4b63-beb1-8bd0a6e735c7",
+    "title": "Jennifer Lopez - El Anillo (DJ POLI #ElKMaGuta)",
+    "titles": {
+      "spa": "Jennifer Lopez - El Anillo (DJ POLI #ElKMaGuta)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:41:24.314Z",
+    "modified_at": "2022-11-04T03:41:24.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_25111a498045782eb697db3ba32f67a7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4582601,
+      "gain": -5.09,
+      "duration": 190,
+      "loudnorm": "-10.97,1.24,8.90,-21.47,-0.94",
+      "filename": "processed_54004df38af66b83966fb4c5fe2ae005.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Temerarios - - SP-460675_Los Temerarios_Te Hice Mal_scl2247-05.mp3",
+      "loudnorm": "-17.75,0.47,8.90,-27.96,-1.64",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Temerarios - - SP-460675_Los Temerarios_Te Hice Mal_scl2247-05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1c2c5e3-efd1-4d3e-a62d-de92d1065ddc",
+    "title": "SP-460675_Los Temerarios_Te Hice Mal_scl2247-05",
+    "titles": {
+      "spa": "SP-460675_Los Temerarios_Te Hice Mal_scl2247-05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "79aade02-894d-4439-91df-1978dad4edea"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:05:43.597Z",
+    "modified_at": "2022-11-03T09:05:44.057Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_724ce3c3d1ee1b130da59006012061b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4696202,
+      "gain": -1.24,
+      "duration": 293,
+      "loudnorm": "-17.75,0.47,8.90,-27.96,-1.64",
+      "filename": "processed_149a6d6ef3db8e8a76c964de8e9da753.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

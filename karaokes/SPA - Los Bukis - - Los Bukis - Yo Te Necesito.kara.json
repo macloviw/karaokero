@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Yo Te Necesito.mp3",
+      "loudnorm": "-16.22,0.24,3.40,-26.32,-0.59",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Yo Te Necesito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "541a6652-d770-46b6-8bf0-434f2d959272",
+    "title": "Los Bukis - Yo Te Necesito",
+    "titles": {
+      "spa": "Los Bukis - Yo Te Necesito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:57:46.449Z",
+    "modified_at": "2022-11-03T08:57:46.875Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_28be93d37e850f259500a0b194e84323.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 834552,
+      "gain": -1.06,
+      "duration": 208,
+      "loudnorm": "-16.22,0.24,3.40,-26.32,-0.59",
+      "filename": "processed_93c7c2a70f45b5e04296f85ad11472db.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

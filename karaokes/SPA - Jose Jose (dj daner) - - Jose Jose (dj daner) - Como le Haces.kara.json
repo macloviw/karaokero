@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose (dj daner) - - Jose Jose (dj daner) - Como le Haces.mp3",
+      "loudnorm": "-12.90,2.86,11.80,-23.46,-0.50",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose (dj daner) - - Jose Jose (dj daner) - Como le Haces.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "594e4f75-e82c-476a-a476-e913d7ab0a78",
+    "title": "Jose Jose (dj daner) - Como le Haces",
+    "titles": {
+      "spa": "Jose Jose (dj daner) - Como le Haces"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0981f248-38ac-419a-b533-678d564ee01d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:36:55.332Z",
+    "modified_at": "2022-11-03T22:36:55.711Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1c7c40119c6d82d9c527ffcf174ead22.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4792371,
+      "gain": -4.49,
+      "duration": 234,
+      "loudnorm": "-12.90,2.86,11.80,-23.46,-0.50",
+      "filename": "processed_25bcd5f5c4dd9a6d306aced2518cc59e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

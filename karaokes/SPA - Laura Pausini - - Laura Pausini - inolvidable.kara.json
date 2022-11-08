@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Laura Pausini - - Laura Pausini - inolvidable.MP3",
+      "loudnorm": "-11.49,1.50,10.90,-21.91,-1.95",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Laura Pausini - - Laura Pausini - inolvidable.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1cb4b34-c6d0-41ed-a57c-3224ce2c64a6",
+    "title": "Laura Pausini - inolvidable",
+    "titles": {
+      "spa": "Laura Pausini - inolvidable"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4f6c552f-19ae-40bb-a973-188d1c5a56e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:41:13.011Z",
+    "modified_at": "2022-11-03T08:41:13.476Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3645826,
+      "gain": -5.26,
+      "duration": 227,
+      "loudnorm": "-11.49,1.50,10.90,-21.91,-1.95",
+      "filename": "processed_573883b1f685f43197a908e9932a2d5d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3645826,
+      "gain": -5.26,
+      "duration": 227,
+      "loudnorm": "-11.49,1.50,10.90,-21.91,-1.95",
+      "filename": "processed_44e63455d9c568c39e47a9447fd16da0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

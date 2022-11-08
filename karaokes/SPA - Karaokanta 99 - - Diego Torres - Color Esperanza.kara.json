@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaokanta 99 - - Diego Torres - Color Esperanza.mp3",
+      "loudnorm": "-16.36,-0.39,7.60,-26.47,-1.63",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaokanta 99 - - Diego Torres - Color Esperanza.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87c46811-deb3-4232-8be0-ee8c31c49100",
+    "title": "Diego Torres - Color Esperanza",
+    "titles": {
+      "spa": "Diego Torres - Color Esperanza"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "505cf43b-ead6-49ca-b7b2-98affd2e8381"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:31:49.607Z",
+    "modified_at": "2022-11-03T08:31:50.027Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d73d1e1448fb71657259767c2ea0618.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6331892,
+      "gain": -2.17,
+      "duration": 263,
+      "loudnorm": "-16.36,-0.39,7.60,-26.47,-1.63",
+      "filename": "processed_80ab3bfb698af2eff67b614e1f83fb4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

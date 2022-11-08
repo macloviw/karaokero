@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MADONNA - - Madonna - Material Girl.mp3",
+      "loudnorm": "-11.37,1.16,4.20,-21.50,-0.64",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MADONNA - - Madonna - Material Girl.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8a48620b-a8c6-48b0-a377-b575dfd2275f",
+    "title": "Madonna - Material Girl",
+    "titles": {
+      "spa": "Madonna - Material Girl"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "400ae577-94f7-43df-91aa-ab018e255922"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:29:05.881Z",
+    "modified_at": "2022-11-04T01:29:06.253Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a092268efcfb10bc95d42db4c1e650af.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6122988,
+      "gain": -6.97,
+      "duration": 255,
+      "loudnorm": "-11.37,1.16,4.20,-21.50,-0.64",
+      "filename": "processed_72455aba16bbc3a6ed79468137085572.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

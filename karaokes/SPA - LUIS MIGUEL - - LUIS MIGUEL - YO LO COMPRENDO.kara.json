@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - YO LO COMPRENDO.MP3",
+      "loudnorm": "-15.27,2.67,5.30,-25.45,-0.95",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - YO LO COMPRENDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bddbeb7e-aa17-41c0-a5a2-b49ba8b025f4",
+    "title": "LUIS MIGUEL   -   YO LO COMPRENDO",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   YO LO COMPRENDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:29:12.755Z",
+    "modified_at": "2022-11-03T09:29:13.215Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2721847,
+      "gain": -2.9,
+      "duration": 169,
+      "loudnorm": "-15.27,2.67,5.30,-25.45,-0.95",
+      "filename": "processed_5609963b0d6b54447fd5b74d8e6f7f3a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2721847,
+      "gain": -2.9,
+      "duration": 169,
+      "loudnorm": "-15.27,2.67,5.30,-25.45,-0.95",
+      "filename": "processed_f020c01b2cbb0cf160f743f56368b29d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

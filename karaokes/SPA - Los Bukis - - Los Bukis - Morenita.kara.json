@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Morenita.mp3",
+      "loudnorm": "-17.05,3.56,4.70,-27.36,-0.17",
+      "duration": 150,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Morenita.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b32c3f6-1478-471d-b6c7-eaa4602f6060",
+    "title": "Los Bukis - Morenita",
+    "titles": {
+      "spa": "Los Bukis - Morenita"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:56:38.864Z",
+    "modified_at": "2022-11-03T08:56:39.270Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d6e6c5931de5bc66ea58bfc8e04e120e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 602375,
+      "gain": -1.73,
+      "duration": 150,
+      "loudnorm": "-17.05,3.56,4.70,-27.36,-0.17",
+      "filename": "processed_ce1cf7b171c5b8e3d88ba6c0e293587e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

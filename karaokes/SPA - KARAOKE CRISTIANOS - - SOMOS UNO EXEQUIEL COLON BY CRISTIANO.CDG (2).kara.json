@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE CRISTIANOS - - SOMOS UNO EXEQUIEL COLON BY CRISTIANO.CDG (2).MP3",
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE CRISTIANOS - - SOMOS UNO EXEQUIEL COLON BY CRISTIANO.CDG (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "348b55aa-d701-44bb-a279-091a24414011",
+    "title": "SOMOS UNO EXEQUIEL COLON BY CRISTIANO.CDG (2)",
+    "titles": {
+      "spa": "SOMOS UNO EXEQUIEL COLON BY CRISTIANO.CDG (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f1e249de-2256-4304-be30-ccf51d93fa8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:21:22.588Z",
+    "modified_at": "2022-11-03T14:21:23.294Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4798557,
+      "gain": -2.18,
+      "duration": 299,
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "filename": "processed_e27640c693d33061ad9dd3c9b87f3657.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4798557,
+      "gain": -2.18,
+      "duration": 299,
+      "loudnorm": "-16.29,-0.38,4.20,-26.42,-0.44",
+      "filename": "processed_7deb2d53589a052f5acd402b46c5b1fc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

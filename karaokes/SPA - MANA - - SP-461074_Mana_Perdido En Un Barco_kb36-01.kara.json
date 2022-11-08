@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MANA - - SP-461074_Mana_Perdido En Un Barco_kb36-01.mp3",
+      "loudnorm": "-9.29,4.59,7.40,-19.44,-1.40",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MANA - - SP-461074_Mana_Perdido En Un Barco_kb36-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c7a1a48b-4a71-42c7-8397-2e45fb535b4c",
+    "title": "SP-461074_Maná_Perdido En Un Barco_kb36-01",
+    "titles": {
+      "spa": "SP-461074_Maná_Perdido En Un Barco_kb36-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f635606e-02c6-4032-bdb4-170879ea882b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:46:01.474Z",
+    "modified_at": "2022-11-03T09:46:01.904Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_73cb27ea53e6832869fb3ec1bdd01ba0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4206602,
+      "gain": -10.59,
+      "duration": 262,
+      "loudnorm": "-9.29,4.59,7.40,-19.44,-1.40",
+      "filename": "processed_4750f07c5274eb8e758ee36a5349ece7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

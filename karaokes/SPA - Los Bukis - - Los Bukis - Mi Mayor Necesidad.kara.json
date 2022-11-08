@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Mi Mayor Necesidad.mp3",
+      "loudnorm": "-15.32,1.27,3.80,-25.48,-0.46",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Mi Mayor Necesidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "47476120-a7a3-461e-b3cc-76ab702e01ae",
+    "title": "Los Bukis - Mi Mayor Necesidad",
+    "titles": {
+      "spa": "Los Bukis - Mi Mayor Necesidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:56:34.898Z",
+    "modified_at": "2022-11-03T08:56:35.308Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f663a86b8386ebd4879ad6942b29766.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 982614,
+      "gain": -2.2,
+      "duration": 245,
+      "loudnorm": "-15.32,1.27,3.80,-25.48,-0.46",
+      "filename": "processed_3d7ad3573acb3adc4d8678f6044655b1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

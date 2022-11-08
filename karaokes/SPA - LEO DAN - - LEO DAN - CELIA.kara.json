@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - CELIA.MP3",
+      "loudnorm": "-14.75,2.64,10.20,-25.40,-1.83",
+      "duration": 124,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - CELIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9430712-39ff-4969-913e-6eb1d6dd3fae",
+    "title": "LEO DAN   -   CELIA",
+    "titles": {
+      "spa": "LEO DAN   -   CELIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:43:19.308Z",
+    "modified_at": "2022-11-03T08:43:19.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4990529,
+      "gain": 1.17,
+      "duration": 124,
+      "loudnorm": "-14.75,2.64,10.20,-25.40,-1.83",
+      "filename": "processed_ff6c79b91e353b08d8d280f5fc3ae7f4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4990529,
+      "gain": 1.17,
+      "duration": 124,
+      "loudnorm": "-14.75,2.64,10.20,-25.40,-1.83",
+      "filename": "processed_81a6f77a5d877c9b61f84f1bde0027be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

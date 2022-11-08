@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Fernando Villalona Amaneciendo COROS LA PLZ.mp3",
+      "loudnorm": "-13.84,-1.05,4.10,-24.06,-0.46",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Fernando Villalona Amaneciendo COROS LA PLZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8cc7369c-5207-4e56-9d63-2320922d6dbc",
+    "title": "Fernando Villalona  Amaneciendo  COROS  LA PLZ",
+    "titles": {
+      "spa": "Fernando Villalona  Amaneciendo  COROS  LA PLZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:34:46.594Z",
+    "modified_at": "2022-11-03T16:34:47.056Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2863b76d537c4685f871600b1e61f964.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5785226,
+      "gain": -5.36,
+      "duration": 240,
+      "loudnorm": "-13.84,-1.05,4.10,-24.06,-0.46",
+      "filename": "processed_7ebce37b721c6e38c438cfa9585277ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

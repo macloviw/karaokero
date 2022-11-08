@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Raphy Leavitt Siempre Alegre (Karaoke Casafayei) ok.mp3",
+      "loudnorm": "-15.09,0.06,4.20,-25.14,-0.15",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Raphy Leavitt Siempre Alegre (Karaoke Casafayei) ok.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a82b8eb8-008e-4429-8419-9b95dd7a0937",
+    "title": "Raphy Leavitt  Siempre Alegre (Karaoke Casafayei) ok",
+    "titles": {
+      "spa": "Raphy Leavitt  Siempre Alegre (Karaoke Casafayei) ok"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:43:02.832Z",
+    "modified_at": "2022-11-03T16:43:03.293Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e3d087fac1f6c00f30c1cd64db780cdd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5137870,
+      "gain": -3.39,
+      "duration": 256,
+      "loudnorm": "-15.09,0.06,4.20,-25.14,-0.15",
+      "filename": "processed_8e74799aa4cd0d193b270c2159d54ea0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

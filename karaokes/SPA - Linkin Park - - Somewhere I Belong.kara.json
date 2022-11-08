@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Linkin Park - - Somewhere I Belong.mp3",
+      "loudnorm": "-9.31,0.90,3.20,-19.34,-0.89",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Linkin Park - - Somewhere I Belong.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b35b14ac-c9b2-4eba-b308-15016bc5012a",
+    "title": "Somewhere I Belong",
+    "titles": {
+      "spa": "Somewhere I Belong"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "10075987-123b-4445-99d2-36a94faf70ba"
+      ],
+      "singers": [
+        "20ae61f8-2bc9-47f0-a247-5b85d54ca962"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:33:04.336Z",
+    "modified_at": "2022-11-02T20:33:04.805Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_71ba286c81ae4310ca3f23e284044c83.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3474116,
+      "gain": -7.31,
+      "duration": 217,
+      "loudnorm": "-9.31,0.90,3.20,-19.34,-0.89",
+      "filename": "processed_bc5ecf961d2ffc7f545f54a568a7688d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

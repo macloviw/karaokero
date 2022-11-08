@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA FOTO DEL CARNET.MP3",
+      "loudnorm": "-17.37,-1.06,10.60,-27.70,-0.88",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA FOTO DEL CARNET.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "204c5668-835f-4e0d-8b49-ebb0e6cff458",
+    "title": "LEO FAVIO   -   LA FOTO DEL CARNET",
+    "titles": {
+      "spa": "LEO FAVIO   -   LA FOTO DEL CARNET"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:48:29.846Z",
+    "modified_at": "2022-11-03T08:48:30.315Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3381675,
+      "gain": -0.95,
+      "duration": 211,
+      "loudnorm": "-17.37,-1.06,10.60,-27.70,-0.88",
+      "filename": "processed_b1de6583a0def315288cc682c238ed3b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3381675,
+      "gain": -0.95,
+      "duration": 211,
+      "loudnorm": "-17.37,-1.06,10.60,-27.70,-0.88",
+      "filename": "processed_9f2ab319fbd138acd5017f66c4ee95b7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

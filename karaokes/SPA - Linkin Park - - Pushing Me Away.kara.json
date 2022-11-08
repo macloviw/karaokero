@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Linkin Park - - Pushing Me Away.mp3",
+      "loudnorm": "-15.31,-1.49,4.70,-25.50,-0.98",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Linkin Park - - Pushing Me Away.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90d605f7-ff4e-45ca-891e-ec3146ab6db2",
+    "title": "Pushing Me Away",
+    "titles": {
+      "spa": "Pushing Me Away"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e1265912-f37d-44f3-a4e1-4390e9b88d20"
+      ],
+      "singers": [
+        "20ae61f8-2bc9-47f0-a247-5b85d54ca962"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:31:00.422Z",
+    "modified_at": "2022-11-02T20:31:01.030Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf0af1bb8c0ca843cdb9cfbe741840b0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3342097,
+      "gain": -2.95,
+      "duration": 208,
+      "loudnorm": "-15.31,-1.49,4.70,-25.50,-0.98",
+      "filename": "processed_dff8cdd2a084ec4a86c05eaf2ed94c11.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

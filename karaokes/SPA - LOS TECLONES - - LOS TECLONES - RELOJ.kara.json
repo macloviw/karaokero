@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS TECLONES - - LOS TECLONES - RELOJ.MP3",
+      "loudnorm": "-12.53,0.79,3.50,-22.72,0.11",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS TECLONES - - LOS TECLONES - RELOJ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9d5b480-336a-44f6-bf71-96682891861a",
+    "title": "LOS TECLONES               -   RELOJ",
+    "titles": {
+      "spa": "LOS TECLONES               -   RELOJ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "09ec7c11-e645-4038-a15f-cbef19040393"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:04:51.806Z",
+    "modified_at": "2022-11-03T09:04:52.272Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2930409,
+      "gain": -5.37,
+      "duration": 183,
+      "loudnorm": "-12.53,0.79,3.50,-22.72,0.11",
+      "filename": "processed_66ed1317156eee3f8d8b578b24a69df5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2930409,
+      "gain": -5.37,
+      "duration": 183,
+      "loudnorm": "-12.53,0.79,3.50,-22.72,0.11",
+      "filename": "processed_71293ed314a497b6a3f96d0b132255db.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

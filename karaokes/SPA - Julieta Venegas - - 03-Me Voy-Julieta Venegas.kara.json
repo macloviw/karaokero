@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julieta Venegas - - 03-Me Voy-Julieta Venegas.mp3",
+      "loudnorm": "-8.83,1.49,1.80,-18.91,0.12",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julieta Venegas - - 03-Me Voy-Julieta Venegas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b36f5263-07ab-4671-9046-618b22c400cb",
+    "title": "03-Me Voy-Julieta Venegas",
+    "titles": {
+      "spa": "03-Me Voy-Julieta Venegas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a36061d-c8c5-4497-8cdd-b0c4adeea22b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:57:36.446Z",
+    "modified_at": "2022-11-03T07:57:36.860Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e48f5ddc63652e2bf0ddbd3df47010f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4542464,
+      "gain": -4.94,
+      "duration": 189,
+      "loudnorm": "-8.83,1.49,1.80,-18.91,0.12",
+      "filename": "processed_7c18b7082f4d3914705beaa1e847e74a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

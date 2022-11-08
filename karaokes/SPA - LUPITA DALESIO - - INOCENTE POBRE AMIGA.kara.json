@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - INOCENTE POBRE AMIGA.mp3",
+      "loudnorm": "-12.39,2.49,5.70,-22.65,-0.60",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - INOCENTE POBRE AMIGA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "07679f60-90d9-49e2-90d1-4256d31c5503",
+    "title": "INOCENTE POBRE AMIGA",
+    "titles": {
+      "spa": "INOCENTE POBRE AMIGA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:39:20.678Z",
+    "modified_at": "2022-11-03T09:39:21.132Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_845a413f59591dd411d3293bb10f8ecf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5775037,
+      "gain": -4.16,
+      "duration": 240,
+      "loudnorm": "-12.39,2.49,5.70,-22.65,-0.60",
+      "filename": "processed_d72abb6b2054654ea87794c3c0b8ba17.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

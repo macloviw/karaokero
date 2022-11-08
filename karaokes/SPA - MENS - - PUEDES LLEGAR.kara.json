@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - PUEDES LLEGAR.MP3",
+      "loudnorm": "-16.80,0.69,13.00,-27.26,-1.97",
+      "duration": 263,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - PUEDES LLEGAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2d0472a5-9910-4fcf-a566-edce919558dd",
+    "title": "PUEDES LLEGAR",
+    "titles": {
+      "spa": "PUEDES LLEGAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:24:33.242Z",
+    "modified_at": "2022-11-03T10:24:34.058Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4225953,
+      "gain": -1.11,
+      "duration": 263,
+      "loudnorm": "-16.80,0.69,13.00,-27.26,-1.97",
+      "filename": "processed_e8a994fe9e52231864cedafc2e2f59bc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4225953,
+      "gain": -1.11,
+      "duration": 263,
+      "loudnorm": "-16.80,0.69,13.00,-27.26,-1.97",
+      "filename": "processed_232e1c9b91ab2d0fe9b7d8ff4f110217.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

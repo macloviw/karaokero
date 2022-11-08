@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Joel Santos - - Joel Santos - ayer pedi.mp3",
+      "loudnorm": "-13.89,0.47,1.70,-24.05,-0.27",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Joel Santos - - Joel Santos - ayer pedi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8cd8d1a3-0a15-4d25-951f-0e236e1e93c2",
+    "title": "Joel Santos - ayer pedi",
+    "titles": {
+      "spa": "Joel Santos - ayer pedi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "d6bd345c-3f1b-4bf8-93ca-bef7900c206e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T23:54:46.151Z",
+    "modified_at": "2022-11-02T23:54:46.615Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18d386b8d32494e239b095f89f0fea2c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3728710,
+      "gain": -4.7,
+      "duration": 232,
+      "loudnorm": "-13.89,0.47,1.70,-24.05,-0.27",
+      "filename": "processed_03d71eeb8bf5b363438c9fa0f575e2d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

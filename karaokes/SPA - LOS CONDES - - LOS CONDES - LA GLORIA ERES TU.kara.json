@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS CONDES - - LOS CONDES - LA GLORIA ERES TU.MP3",
+      "loudnorm": "-18.33,-1.19,3.40,-28.40,-0.81",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS CONDES - - LOS CONDES - LA GLORIA ERES TU.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "55b9ddb8-4a61-431d-8be1-2a88cffe9bf8",
+    "title": "LOS CONDES                  -   LA GLORIA ERES TU",
+    "titles": {
+      "spa": "LOS CONDES                  -   LA GLORIA ERES TU"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ff34a84-7c84-4519-b010-a39d81fdae9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:59:26.104Z",
+    "modified_at": "2022-11-03T08:59:26.560Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2721718,
+      "gain": 0.47,
+      "duration": 169,
+      "loudnorm": "-18.33,-1.19,3.40,-28.40,-0.81",
+      "filename": "processed_3fcb10251551ce640c725392525fa236.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2721718,
+      "gain": 0.47,
+      "duration": 169,
+      "loudnorm": "-18.33,-1.19,3.40,-28.40,-0.81",
+      "filename": "processed_4032dc78da43434f738595ba5d4d29f6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Y ahora te vas.mp3",
+      "loudnorm": "-9.54,1.88,2.90,-19.71,-0.91",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Y ahora te vas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "76bdbbd4-1208-4a2f-90f0-167ab9699964",
+    "title": "Marco Antonio Solis - Y ahora te vas",
+    "titles": {
+      "spa": "Marco Antonio Solis - Y ahora te vas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:52:59.591Z",
+    "modified_at": "2022-11-03T09:53:00.045Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e40cd57837592a99802d53c6236dc5f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3879174,
+      "gain": -6.65,
+      "duration": 242,
+      "loudnorm": "-9.54,1.88,2.90,-19.71,-0.91",
+      "filename": "processed_3b7048b4247dafc7367f44b561f10957.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

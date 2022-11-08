@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - ME IRE BY LUIS FONSI.CDG.MP3",
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - ME IRE BY LUIS FONSI.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be14346a-83c6-4887-a138-14e99f63cfac",
+    "title": "ME IRE BY LUIS FONSI.CDG",
+    "titles": {
+      "spa": "ME IRE BY LUIS FONSI.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:10:50.529Z",
+    "modified_at": "2022-11-03T09:10:50.992Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -0.64,
+      "duration": 232,
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "filename": "processed_c4aaec32d793f160d0ceb746d96015f0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -0.64,
+      "duration": 232,
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "filename": "processed_690fa2550119b44e01b74c3b5cf197c6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Que Se Mueran De Envidia.mp3",
+      "loudnorm": "-9.91,4.36,5.20,-19.97,0.26",
+      "duration": 176,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Que Se Mueran De Envidia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4d9c45f5-0964-41ad-b680-3a957ccfaeca",
+    "title": "Javier Solis - Que Se Mueran De Envidia",
+    "titles": {
+      "spa": "Javier Solis - Que Se Mueran De Envidia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:06:13.699Z",
+    "modified_at": "2022-11-03T06:06:14.144Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_02427f4d9de4f1605412311c52f7bca7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2829884,
+      "gain": -9.03,
+      "duration": 176,
+      "loudnorm": "-9.91,4.36,5.20,-19.97,0.26",
+      "filename": "processed_76a785fc013f477ab02d18c12f76bc7f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

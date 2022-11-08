@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LA FAMILIA ANDRES - - LA FAMILIA ANDRES - AMOR AMOR.mp3",
+      "loudnorm": "-12.56,0.72,4.10,-22.65,-0.42",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LA FAMILIA ANDRES - - LA FAMILIA ANDRES - AMOR AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f88acbf1-eab2-44b0-a21a-51e99923f61a",
+    "title": "LA FAMILIA ANDRES - AMOR AMOR",
+    "titles": {
+      "spa": "LA FAMILIA ANDRES - AMOR AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "55db53cc-bb70-4667-9021-ab4b743be913"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:45:00.104Z",
+    "modified_at": "2022-11-03T22:45:00.479Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_110832d86513ddb83081d914193d160c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3205661,
+      "gain": -5.49,
+      "duration": 228,
+      "loudnorm": "-12.56,0.72,4.10,-22.65,-0.42",
+      "filename": "processed_a000345013b31f2d8fb92bd93a509dbf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

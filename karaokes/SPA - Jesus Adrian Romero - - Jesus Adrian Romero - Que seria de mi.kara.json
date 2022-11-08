@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Que seria de mi.mp3",
+      "loudnorm": "-16.77,-0.28,7.40,-26.82,-0.91",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - Que seria de mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb6c10d2-3599-43a7-8965-0b98a2b8dd33",
+    "title": "Jesus Adrian Romero - Que sería de mi",
+    "titles": {
+      "spa": "Jesus Adrian Romero - Que sería de mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:15:41.845Z",
+    "modified_at": "2022-11-03T14:15:42.203Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_58981bf4ba38051bd42eead171a8546c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4015534,
+      "gain": -0.97,
+      "duration": 286,
+      "loudnorm": "-16.77,-0.28,7.40,-26.82,-0.91",
+      "filename": "processed_4d8e61f72da9356e4ce30a6ef69585d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

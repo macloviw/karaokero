@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - AVECES TU AVECES YO.MP3",
+      "loudnorm": "-13.30,1.86,4.10,-23.54,-0.68",
+      "duration": 189,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - AVECES TU AVECES YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c82f41f6-a84f-4bde-bfc6-0ebde4121238",
+    "title": "JULIO IGLESIAS   -   AVECES TU AVECES YO",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   AVECES TU AVECES YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:16:43.374Z",
+    "modified_at": "2022-11-03T08:16:43.884Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3038162,
+      "gain": -4.79,
+      "duration": 189,
+      "loudnorm": "-13.30,1.86,4.10,-23.54,-0.68",
+      "filename": "processed_2d2d135143f73e69760f6f2a7fafb15b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3038162,
+      "gain": -4.79,
+      "duration": 189,
+      "loudnorm": "-13.30,1.86,4.10,-23.54,-0.68",
+      "filename": "processed_eec57c78bab8565b23dd8c50854ec27e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

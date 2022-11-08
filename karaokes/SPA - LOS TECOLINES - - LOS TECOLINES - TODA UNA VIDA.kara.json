@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS TECOLINES - - LOS TECOLINES - TODA UNA VIDA.MP3",
+      "loudnorm": "-11.99,2.62,2.40,-22.04,-0.10",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS TECOLINES - - LOS TECOLINES - TODA UNA VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "334f7afe-91c4-49fb-b59d-c4d73dc6abf9",
+    "title": "LOS TECOLINES              -   TODA UNA VIDA",
+    "titles": {
+      "spa": "LOS TECOLINES              -   TODA UNA VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4cf47ffd-350c-4891-9dce-6a5eb6bf9e99"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:05:21.414Z",
+    "modified_at": "2022-11-03T09:05:21.877Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2947963,
+      "gain": -6.07,
+      "duration": 184,
+      "loudnorm": "-11.99,2.62,2.40,-22.04,-0.10",
+      "filename": "processed_841baa412f8a6e333b5df64e2ae08c55.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2947963,
+      "gain": -6.07,
+      "duration": 184,
+      "loudnorm": "-11.99,2.62,2.40,-22.04,-0.10",
+      "filename": "processed_f87c38aecaee633ef7de0fbe4918070e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

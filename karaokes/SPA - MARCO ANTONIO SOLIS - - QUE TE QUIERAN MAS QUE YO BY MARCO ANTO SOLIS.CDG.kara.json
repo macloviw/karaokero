@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - QUE TE QUIERAN MAS QUE YO BY MARCO ANTO SOLIS.CDG.MP3",
+      "loudnorm": "-11.14,2.35,4.30,-21.19,-0.93",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - QUE TE QUIERAN MAS QUE YO BY MARCO ANTO SOLIS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eff449cc-0fba-4f75-a9a4-3f949b4815d1",
+    "title": "QUE TE QUIERAN MAS QUE YO BY MARCO ANTO SOLIS.CDG",
+    "titles": {
+      "spa": "QUE TE QUIERAN MAS QUE YO BY MARCO ANTO SOLIS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:54:53.739Z",
+    "modified_at": "2022-11-03T09:54:54.405Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4351341,
+      "gain": -4.14,
+      "duration": 271,
+      "loudnorm": "-11.14,2.35,4.30,-21.19,-0.93",
+      "filename": "processed_c5bc226774efa1cf9f88c0fda4944024.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4351341,
+      "gain": -4.14,
+      "duration": 271,
+      "loudnorm": "-11.14,2.35,4.30,-21.19,-0.93",
+      "filename": "processed_fc00b26a939309c15de4ac44cf6abb3a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

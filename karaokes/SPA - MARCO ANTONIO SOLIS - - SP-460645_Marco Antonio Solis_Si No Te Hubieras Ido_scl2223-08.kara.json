@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460645_Marco Antonio Solis_Si No Te Hubieras Ido_scl2223-08.mp3",
+      "loudnorm": "-16.14,-0.23,2.00,-26.17,-0.43",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460645_Marco Antonio Solis_Si No Te Hubieras Ido_scl2223-08.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "208f1d9f-e8ce-4639-9c87-30baf284e10b",
+    "title": "SP-460645_Marco Antonio Solís_Si No Te Hubieras Ido_scl2223-08",
+    "titles": {
+      "spa": "SP-460645_Marco Antonio Solís_Si No Te Hubieras Ido_scl2223-08"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:57:08.808Z",
+    "modified_at": "2022-11-03T09:57:09.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3f1b2c9c371735651b2f161df3cfd7ed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5083274,
+      "gain": -1.3,
+      "duration": 317,
+      "loudnorm": "-16.14,-0.23,2.00,-26.17,-0.43",
+      "filename": "processed_235a5e7df23596f26c6176792b1cc433.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

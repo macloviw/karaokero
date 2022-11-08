@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Isabel.MP3",
+      "loudnorm": "-9.40,3.06,2.20,-19.47,-0.39",
+      "duration": 160,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Isabel.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "11e8a111-3dbd-4b2b-8e81-1d5ce08b304c",
+    "title": "Luis Miguel - Isabel",
+    "titles": {
+      "spa": "Luis Miguel - Isabel"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:30:40.478Z",
+    "modified_at": "2022-11-03T09:30:41.045Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2563858,
+      "gain": -8.67,
+      "duration": 160,
+      "loudnorm": "-9.40,3.06,2.20,-19.47,-0.39",
+      "filename": "processed_44292178451832e66163025415bd8ee8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2563858,
+      "gain": -8.67,
+      "duration": 160,
+      "loudnorm": "-9.40,3.06,2.20,-19.47,-0.39",
+      "filename": "processed_3c3cf645f8f42b4793f62d26d2351881.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

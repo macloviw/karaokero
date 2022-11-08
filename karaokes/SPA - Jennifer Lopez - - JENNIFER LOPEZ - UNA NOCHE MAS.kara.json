@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - JENNIFER LOPEZ - UNA NOCHE MAS.MP3",
+      "loudnorm": "-11.71,1.69,4.10,-21.79,-0.68",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - JENNIFER LOPEZ - UNA NOCHE MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1a5627d5-ce00-4c31-a81f-50ff1c867f2c",
+    "title": "JENNIFER LOPEZ   -   UNA NOCHE MAS",
+    "titles": {
+      "spa": "JENNIFER LOPEZ   -   UNA NOCHE MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:10:20.705Z",
+    "modified_at": "2022-11-03T06:10:21.194Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4050410,
+      "gain": -4.13,
+      "duration": 253,
+      "loudnorm": "-11.71,1.69,4.10,-21.79,-0.68",
+      "filename": "processed_a9704da6d83e4e5b9abd601ffac0c347.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4050410,
+      "gain": -4.13,
+      "duration": 253,
+      "loudnorm": "-11.71,1.69,4.10,-21.79,-0.68",
+      "filename": "processed_58543ac17012d42e4849db4549db0e91.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

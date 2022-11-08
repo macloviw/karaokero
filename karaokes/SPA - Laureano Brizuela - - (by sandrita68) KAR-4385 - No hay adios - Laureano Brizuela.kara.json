@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Laureano Brizuela - - (by sandrita68) KAR-4385 - No hay adios - Laureano Brizuela.mp3",
+      "loudnorm": "-12.81,-0.00,6.70,-22.90,-0.93",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Laureano Brizuela - - (by sandrita68) KAR-4385 - No hay adios - Laureano Brizuela.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f06fcea-fb47-4ba9-93e4-dd54bbc42ceb",
+    "title": "(by sandrita68) KAR-4385 - No hay adios  - Laureano Brizuela",
+    "titles": {
+      "spa": "(by sandrita68) KAR-4385 - No hay adios  - Laureano Brizuela"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "77027b63-a436-4c99-b3b1-4afea83cd7e8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:46:50.107Z",
+    "modified_at": "2022-11-03T22:46:50.492Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8f768f1ca5bb5b68d4f8bddfd88827f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5466240,
+      "gain": -5.17,
+      "duration": 227,
+      "loudnorm": "-12.81,-0.00,6.70,-22.90,-0.93",
+      "filename": "processed_39530864cea9bb1bd1bc89ba7ec8e73f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - La Academia - - La Academia - No Llores Por Mi Argentina.mp3",
+      "loudnorm": "-21.36,-6.61,11.10,-31.94,0.00",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - La Academia - - La Academia - No Llores Por Mi Argentina.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f76241f3-4220-4796-b97d-3996c3e319c0",
+    "title": "La Academia - No Llores Por Mi Argentina",
+    "titles": {
+      "spa": "La Academia - No Llores Por Mi Argentina"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c98aeb62-b11e-4296-907e-e77d36a54743"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:44:50.139Z",
+    "modified_at": "2022-11-03T22:44:50.530Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_427e9374b23dd7458c1bd469c0a526dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3410096,
+      "gain": 1.16,
+      "duration": 213,
+      "loudnorm": "-21.36,-6.61,11.10,-31.94,0.00",
+      "filename": "processed_9d5db9d438c1a2196e11814a35ab7262.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

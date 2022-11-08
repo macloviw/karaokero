@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - MUCHO CORAZON BY LUI9S M.CDG.MP3",
+      "loudnorm": "-14.24,0.51,1.70,-24.29,-0.22",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - MUCHO CORAZON BY LUI9S M.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "adb853b1-6341-4787-a34f-401a34375f95",
+    "title": "MUCHO CORAZON BY LUI9S M.CDG",
+    "titles": {
+      "spa": "MUCHO CORAZON BY LUI9S M.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:32:18.860Z",
+    "modified_at": "2022-11-03T09:32:19.324Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3305607,
+      "gain": -7.05,
+      "duration": 206,
+      "loudnorm": "-14.24,0.51,1.70,-24.29,-0.22",
+      "filename": "processed_4d11d74fc52e8bcb3866fa548a425994.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3305607,
+      "gain": -7.05,
+      "duration": 206,
+      "loudnorm": "-14.24,0.51,1.70,-24.29,-0.22",
+      "filename": "processed_ec414346ea4f44d3596e2b5b4d967477.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

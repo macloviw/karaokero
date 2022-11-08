@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - A ti mi nena-jerry rivera.mp3",
+      "loudnorm": "-12.89,0.81,3.10,-22.97,-0.28",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - A ti mi nena-jerry rivera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "263590d2-0e8f-4aae-a403-86f05675d205",
+    "title": "A ti mi nena-jerry rivera",
+    "titles": {
+      "spa": "A ti mi nena-jerry rivera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:44:32.581Z",
+    "modified_at": "2022-11-04T03:44:32.961Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_81cff41eeb0cd99a05555da86ac2ee9f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4524076,
+      "gain": -4.38,
+      "duration": 282,
+      "loudnorm": "-12.89,0.81,3.10,-22.97,-0.28",
+      "filename": "processed_113f32fca3918e519a5744a36a376358.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

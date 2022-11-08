@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Pensando En Ti.mp3",
+      "loudnorm": "-17.20,1.63,6.40,-27.56,-0.36",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Pensando En Ti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c4289a1c-3917-476a-8177-9856287ce4ff",
+    "title": "Jose Luis Perales - Pensando En Ti",
+    "titles": {
+      "spa": "Jose Luis Perales - Pensando En Ti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:57:27.661Z",
+    "modified_at": "2022-11-04T03:57:28.048Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_09892e1e40c851e9b825df98115298e9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4038836,
+      "gain": -0.41,
+      "duration": 252,
+      "loudnorm": "-17.20,1.63,6.40,-27.56,-0.36",
+      "filename": "processed_f8f47342be5338537fd6832182a4c56b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

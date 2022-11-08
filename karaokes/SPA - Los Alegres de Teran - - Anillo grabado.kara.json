@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Alegres de Teran - - Anillo grabado.mp3",
+      "loudnorm": "-13.51,-0.22,4.00,-23.60,-0.60",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Alegres de Teran - - Anillo grabado.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85d6e163-06ea-4a4a-ac2c-54e4c42c428e",
+    "title": "Anillo grabado",
+    "titles": {
+      "spa": "Anillo grabado"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "79da54b2-dc9f-46bb-a5d3-bb500554c6cd"
+      ],
+      "singers": [
+        "3f4b612f-8ea6-4413-913c-ffa4f5d82e04"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:50:26.230Z",
+    "modified_at": "2022-11-03T23:50:26.611Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_86a49b28ee8f736a6b4e5ab19297a7cf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2926518,
+      "gain": -5.58,
+      "duration": 182,
+      "loudnorm": "-13.51,-0.22,4.00,-23.60,-0.60",
+      "filename": "processed_56f39ae6cdd91050ec91082cd0a9e9cb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

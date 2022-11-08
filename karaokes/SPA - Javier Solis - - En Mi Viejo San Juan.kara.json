@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - En Mi Viejo San Juan.mp3",
+      "loudnorm": "-9.08,6.00,3.40,-19.08,-1.25",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - En Mi Viejo San Juan.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "abdc968c-4151-423b-a3a2-fc9321fbf17a",
+    "title": "En Mi Viejo San Juan",
+    "titles": {
+      "spa": "En Mi Viejo San Juan"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:01:44.991Z",
+    "modified_at": "2022-11-03T06:01:45.415Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7d5185323ff2c6c8c654e81567a269ac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5831041,
+      "gain": -8.92,
+      "duration": 242,
+      "loudnorm": "-9.08,6.00,3.40,-19.08,-1.25",
+      "filename": "processed_f79c258986d7156122c9bbf1fb93a7b6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

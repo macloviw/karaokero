@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Fernando Villalona El Herido JK Sin PROMO.mp3",
+      "loudnorm": "-15.31,-1.18,5.90,-25.36,-0.49",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Fernando Villalona El Herido JK Sin PROMO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4bc77baf-5b23-47a2-b745-d1b27b6a63fe",
+    "title": "Fernando Villalona  El Herido  JK  Sin PROMO",
+    "titles": {
+      "spa": "Fernando Villalona  El Herido  JK  Sin PROMO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:35:25.235Z",
+    "modified_at": "2022-11-03T16:35:25.692Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_67dfc2c46c5cae00a0daffdfc5fffeca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10286640,
+      "gain": -2.34,
+      "duration": 256,
+      "loudnorm": "-15.31,-1.18,5.90,-25.36,-0.49",
+      "filename": "processed_77bf0acc6a6235532669fa336ad06eeb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

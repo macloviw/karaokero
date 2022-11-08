@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Luis Miguel Del Amargue - - Luis Miguel Del Amargue - Se Acabo Lo Bonito.mp3",
+      "loudnorm": "-18.68,0.07,3.10,-28.96,0.02",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Luis Miguel Del Amargue - - Luis Miguel Del Amargue - Se Acabo Lo Bonito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cce31f64-4ff3-4a32-80cf-ea5374f69c94",
+    "title": "Luis Miguel Del Amargue - Se Acabo Lo Bonito",
+    "titles": {
+      "spa": "Luis Miguel Del Amargue - Se Acabo Lo Bonito"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "2e028baa-1be3-4320-8e62-86d041809749"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:04:43.722Z",
+    "modified_at": "2022-11-03T00:04:44.163Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_91e4f3f5fc6ec3cdbc6412e167e95758.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6224552,
+      "gain": -0.42,
+      "duration": 259,
+      "loudnorm": "-18.68,0.07,3.10,-28.96,0.02",
+      "filename": "processed_8652b02461ca3a5c7c610b03a2c13c38.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

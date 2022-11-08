@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - Luis Miguel - o tu o ninguna.mp3",
+      "loudnorm": "-9.01,7.33,9.00,-19.24,-1.93",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - Luis Miguel - o tu o ninguna.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63302599-f6f8-422c-ab1b-1ca9623c1e1a",
+    "title": "Luis Miguel - o tu o ninguna",
+    "titles": {
+      "spa": "Luis Miguel - o tu o ninguna"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:30:49.984Z",
+    "modified_at": "2022-11-03T09:30:50.431Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5b399d03527c7e4902939e3dd6b84624.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3262891,
+      "gain": -8.64,
+      "duration": 203,
+      "loudnorm": "-9.01,7.33,9.00,-19.24,-1.93",
+      "filename": "processed_478ed1daee4e6e8407ab602b36d50f44.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

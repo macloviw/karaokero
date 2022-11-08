@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jessica Simpson - - Jessica Simpson - Take My Breath Away.mp3",
+      "loudnorm": "-9.32,2.68,8.20,-19.46,-1.84",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jessica Simpson - - Jessica Simpson - Take My Breath Away.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "394e6ad7-0234-4153-993c-566e62a004d9",
+    "title": "Jessica Simpson - Take My Breath Away",
+    "titles": {
+      "spa": "Jessica Simpson - Take My Breath Away"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "6be43e8e-c81c-4fe0-b757-94ee0fa4c091"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:07:51.621Z",
+    "modified_at": "2022-11-04T01:07:52.050Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_750ba32f40d77c9a80c1a26bd07de16c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3106992,
+      "gain": -8.26,
+      "duration": 194,
+      "loudnorm": "-9.32,2.68,8.20,-19.46,-1.84",
+      "filename": "processed_e48e83801eb436bf4ab21831b465561b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

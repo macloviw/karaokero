@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Pareces Feliz.MP3",
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez - Pareces Feliz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a908c67b-df97-4a6b-a315-059c2ced36b8",
+    "title": "Jose Luis Rodriguez - Pareces Feliz",
+    "titles": {
+      "spa": "Jose Luis Rodriguez - Pareces Feliz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:28:01.826Z",
+    "modified_at": "2022-11-03T07:28:02.503Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3538944,
+      "gain": -7.07,
+      "duration": 221,
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "filename": "processed_165a7a9c8fb939198d2c4aa84e61b363.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3538944,
+      "gain": -7.07,
+      "duration": 221,
+      "loudnorm": "-10.14,4.54,12.90,-20.79,-0.73",
+      "filename": "processed_d238aacc6ae6e8755f9aeb8fd8a755e7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

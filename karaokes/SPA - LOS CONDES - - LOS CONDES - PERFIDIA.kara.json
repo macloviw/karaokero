@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS CONDES - - LOS CONDES - PERFIDIA.MP3",
+      "loudnorm": "-16.26,-1.08,12.60,-26.78,-0.78",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS CONDES - - LOS CONDES - PERFIDIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7bcf3c99-2a9f-4f49-86a8-e1204a73b2b4",
+    "title": "LOS CONDES                  -   PERFIDIA",
+    "titles": {
+      "spa": "LOS CONDES                  -   PERFIDIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ff34a84-7c84-4519-b010-a39d81fdae9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:59:56.266Z",
+    "modified_at": "2022-11-03T08:59:56.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3571847,
+      "gain": -3,
+      "duration": 223,
+      "loudnorm": "-16.26,-1.08,12.60,-26.78,-0.78",
+      "filename": "processed_86482d9e9ca184d7a0041a7e17562eb4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3571847,
+      "gain": -3,
+      "duration": 223,
+      "loudnorm": "-16.26,-1.08,12.60,-26.78,-0.78",
+      "filename": "processed_026790308d2131514ab09360a929e0da.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

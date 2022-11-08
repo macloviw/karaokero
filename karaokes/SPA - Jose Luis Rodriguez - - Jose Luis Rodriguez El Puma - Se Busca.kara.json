@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Se Busca.MP3",
+      "loudnorm": "-15.90,-0.25,6.80,-26.03,-0.83",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Se Busca.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1693bcf-4f79-4d3b-b0ed-928a52dcdd0f",
+    "title": "José Luis Rodriguez  El Puma  - Se Busca",
+    "titles": {
+      "spa": "José Luis Rodriguez  El Puma  - Se Busca"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:31:38.739Z",
+    "modified_at": "2022-11-03T07:31:39.219Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3760983,
+      "gain": -2.11,
+      "duration": 234,
+      "loudnorm": "-15.90,-0.25,6.80,-26.03,-0.83",
+      "filename": "processed_242d35755c5d09cc71766414cc4ce5b5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3760983,
+      "gain": -2.11,
+      "duration": 234,
+      "loudnorm": "-15.90,-0.25,6.80,-26.03,-0.83",
+      "filename": "processed_7779ef4e47aded5ec668905486412f93.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

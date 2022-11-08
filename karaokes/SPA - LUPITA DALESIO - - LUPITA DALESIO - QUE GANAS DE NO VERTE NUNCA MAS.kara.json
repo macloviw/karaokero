@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - QUE GANAS DE NO VERTE NUNCA MAS.MP3",
+      "loudnorm": "-9.06,2.65,5.90,-19.41,0.23",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - LUPITA DALESIO - QUE GANAS DE NO VERTE NUNCA MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99a7718c-4d00-4da1-b9a5-5e9505371e57",
+    "title": "LUPITA DALESIO   -   QUE GANAS DE NO VERTE NUNCA MAS",
+    "titles": {
+      "spa": "LUPITA DALESIO   -   QUE GANAS DE NO VERTE NUNCA MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:40:22.179Z",
+    "modified_at": "2022-11-03T09:40:22.665Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3868727,
+      "gain": -7.98,
+      "duration": 241,
+      "loudnorm": "-9.06,2.65,5.90,-19.41,0.23",
+      "filename": "processed_1f35f51db3f36e38b4c37b4cf393f169.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3868727,
+      "gain": -7.98,
+      "duration": 241,
+      "loudnorm": "-9.06,2.65,5.90,-19.41,0.23",
+      "filename": "processed_cb5669b931d6d6538a32a16c94c8867a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

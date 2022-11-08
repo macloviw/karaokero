@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KABAH - - Kabah - Una Ilusion.mp3",
+      "loudnorm": "-14.24,-0.38,4.70,-24.43,-0.86",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KABAH - - Kabah - Una Ilusion.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85c1e86b-7ca5-4e96-bbcb-97240fd8c1df",
+    "title": "Kabah - Una Ilusion",
+    "titles": {
+      "spa": "Kabah - Una Ilusion"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "a9486403-c1eb-4dc0-b863-265dade78678"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:29:20.587Z",
+    "modified_at": "2022-11-03T16:29:21.004Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b9341f95a40ed47c90a678a4538f3e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3570814,
+      "gain": -1.92,
+      "duration": 223,
+      "loudnorm": "-14.24,-0.38,4.70,-24.43,-0.86",
+      "filename": "processed_afa0e087dd15c8d7bb47b913cc665465.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

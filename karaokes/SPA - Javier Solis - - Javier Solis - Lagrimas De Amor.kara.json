@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Lagrimas De Amor.mp3",
+      "loudnorm": "-10.69,2.63,8.40,-20.90,0.59",
+      "duration": 190,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Lagrimas De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8bb3d21-41a3-482e-99ef-790cd1c3fb04",
+    "title": "Javier Solis - Lagrimas De Amor",
+    "titles": {
+      "spa": "Javier Solis - Lagrimas De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:05:03.067Z",
+    "modified_at": "2022-11-03T06:05:03.472Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f1d94c8b949f429f5ce5eae8fc7e2f96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4565045,
+      "gain": -8.36,
+      "duration": 190,
+      "loudnorm": "-10.69,2.63,8.40,-20.90,0.59",
+      "filename": "processed_15960b8595d8d88bac4f5e77535627bc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

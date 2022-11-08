@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - ETERNO - copia.MP3",
+      "loudnorm": "-13.61,1.57,10.60,-24.04,-1.27",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - ETERNO - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9ddc749c-619a-4965-b389-91a2ed94c445",
+    "title": "LUIS FONSI   -   ETERNO - copia",
+    "titles": {
+      "spa": "LUIS FONSI   -   ETERNO - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:07:32.946Z",
+    "modified_at": "2022-11-03T09:07:33.432Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4077158,
+      "gain": -3.26,
+      "duration": 254,
+      "loudnorm": "-13.61,1.57,10.60,-24.04,-1.27",
+      "filename": "processed_095ca312915195a6c3811b45b3a57346.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4077158,
+      "gain": -3.26,
+      "duration": 254,
+      "loudnorm": "-13.61,1.57,10.60,-24.04,-1.27",
+      "filename": "processed_3a44f8314de2a5093985db1ff877cd90.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

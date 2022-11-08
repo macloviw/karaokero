@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ME IRE BY LUIS FONSI.CDG - - ME IRE BY LUIS FONSI.CDG - copia.MP3",
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ME IRE BY LUIS FONSI.CDG - - ME IRE BY LUIS FONSI.CDG - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dfb40062-de34-4da9-8def-69d39952e586",
+    "title": "ME IRE BY LUIS FONSI.CDG - copia",
+    "titles": {
+      "spa": "ME IRE BY LUIS FONSI.CDG - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58f49afa-0d51-4e80-a801-bae645af6312"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:56:02.513Z",
+    "modified_at": "2022-11-03T22:56:02.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -0.64,
+      "duration": 232,
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "filename": "processed_4146f9b88b4078e0113547a1b0428128.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3716879,
+      "gain": -0.64,
+      "duration": 232,
+      "loudnorm": "-16.24,-0.32,3.70,-26.26,-0.76",
+      "filename": "processed_f3246fe1a393a814400d32a483720431.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

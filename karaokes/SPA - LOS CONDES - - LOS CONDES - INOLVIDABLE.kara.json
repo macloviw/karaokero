@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS CONDES - - LOS CONDES - INOLVIDABLE.MP3",
+      "loudnorm": "-16.25,-0.49,2.70,-26.30,-0.29",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS CONDES - - LOS CONDES - INOLVIDABLE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aa92b511-e28f-4514-907d-1756f5a1c6a1",
+    "title": "LOS CONDES                  -   INOLVIDABLE",
+    "titles": {
+      "spa": "LOS CONDES                  -   INOLVIDABLE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ff34a84-7c84-4519-b010-a39d81fdae9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:59:12.249Z",
+    "modified_at": "2022-11-03T08:59:12.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2905202,
+      "gain": -1.56,
+      "duration": 181,
+      "loudnorm": "-16.25,-0.49,2.70,-26.30,-0.29",
+      "filename": "processed_18bff77f3f84e823d2e8aff0001f5134.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2905202,
+      "gain": -1.56,
+      "duration": 181,
+      "loudnorm": "-16.25,-0.49,2.70,-26.30,-0.29",
+      "filename": "processed_06a4e5cc381d206551c900a0fd328fa0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

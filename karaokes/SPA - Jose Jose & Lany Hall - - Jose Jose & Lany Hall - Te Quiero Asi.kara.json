@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose & Lany Hall - - Jose Jose & Lany Hall - Te Quiero Asi.mp3",
+      "loudnorm": "-18.26,0.58,9.10,-28.54,-1.45",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose & Lany Hall - - Jose Jose & Lany Hall - Te Quiero Asi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be700852-f4d9-469e-b90f-f24bf05165eb",
+    "title": "Jose Jose & Lany Hall - Te Quiero Asi",
+    "titles": {
+      "spa": "Jose Jose & Lany Hall - Te Quiero Asi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "21163175-f7eb-4e86-a572-1cd148d3f75c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:36:45.026Z",
+    "modified_at": "2022-11-03T22:36:45.456Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f732c320a6302806f792ffd8a0a267b6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4369440,
+      "gain": 0.22,
+      "duration": 181,
+      "loudnorm": "-18.26,0.58,9.10,-28.54,-1.45",
+      "filename": "processed_57c9a1da2e466b718e88f4412cc84c39.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

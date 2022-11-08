@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - Jerry Rivera - Que Hay De Malo.mp3",
+      "loudnorm": "-12.92,-0.59,2.50,-22.94,-0.58",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - Jerry Rivera - Que Hay De Malo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6aff1423-a97a-4542-84eb-c5862ad89f2d",
+    "title": "Jerry Rivera - Que Hay De Malo",
+    "titles": {
+      "spa": "Jerry Rivera - Que Hay De Malo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:47:09.780Z",
+    "modified_at": "2022-11-04T03:47:10.164Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f8551909b221f4d38cf7b80adf0e97a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7590652,
+      "gain": -4.47,
+      "duration": 316,
+      "loudnorm": "-12.92,-0.59,2.50,-22.94,-0.58",
+      "filename": "processed_43099e5c76dfea19d57c6c11c4f39d89.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

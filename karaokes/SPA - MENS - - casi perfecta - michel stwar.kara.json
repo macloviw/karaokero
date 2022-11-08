@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - casi perfecta - michel stwar.mp3",
+      "loudnorm": "-13.90,-0.28,2.90,-23.94,-0.73",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - casi perfecta - michel stwar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63762014-9961-4ff6-869e-9ff8f913adc4",
+    "title": "casi perfecta - michel stwar",
+    "titles": {
+      "spa": "casi perfecta - michel stwar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:07:05.710Z",
+    "modified_at": "2022-11-03T10:07:06.116Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b817bdcbf370b35e3237b0a5b8e2350e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6249630,
+      "gain": -4.39,
+      "duration": 260,
+      "loudnorm": "-13.90,-0.28,2.90,-23.94,-0.73",
+      "filename": "processed_eea6da2b812821bdb5c8a79b4c4bf736.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

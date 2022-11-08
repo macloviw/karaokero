@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - OH MI CAROLINA.MP3",
+      "loudnorm": "-14.75,-0.56,16.90,-25.57,-1.17",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - OH MI CAROLINA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b1bd3a2-bfba-4b79-b433-1ecbcc7fab3d",
+    "title": "LEO FAVIO   -   OH MI CAROLINA",
+    "titles": {
+      "spa": "LEO FAVIO   -   OH MI CAROLINA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:50:35.667Z",
+    "modified_at": "2022-11-03T08:50:36.180Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4004435,
+      "gain": -2.84,
+      "duration": 250,
+      "loudnorm": "-14.75,-0.56,16.90,-25.57,-1.17",
+      "filename": "processed_e8d931de2216480d2588a5a9137c859a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4004435,
+      "gain": -2.84,
+      "duration": 250,
+      "loudnorm": "-14.75,-0.56,16.90,-25.57,-1.17",
+      "filename": "processed_fd61ea24bf42700d6435abdb9af83912.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

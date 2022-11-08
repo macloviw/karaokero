@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Las Rejas No Matan.mp3",
+      "loudnorm": "-11.03,1.37,5.20,-21.30,0.55",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Las Rejas No Matan.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b18ca73e-b849-4be4-b8ce-8b2126ab699b",
+    "title": "Javier Solis - Las Rejas No Matan",
+    "titles": {
+      "spa": "Javier Solis - Las Rejas No Matan"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:05:11.547Z",
+    "modified_at": "2022-11-03T06:05:11.958Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c6d1623fa545422f20e4ba41f5e724c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4498590,
+      "gain": -8.11,
+      "duration": 187,
+      "loudnorm": "-11.03,1.37,5.20,-21.30,0.55",
+      "filename": "processed_9367eb35dc15072678d767af08e0b4ee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

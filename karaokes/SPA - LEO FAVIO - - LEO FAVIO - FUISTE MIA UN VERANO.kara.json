@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - FUISTE MIA UN VERANO.MP3",
+      "loudnorm": "-9.27,2.38,5.40,-19.52,-1.80",
+      "duration": 179,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - FUISTE MIA UN VERANO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b3e5190-aa5d-4d71-b56a-357ffef15ab4",
+    "title": "LEO FAVIO   -   FUISTE MIA UN VERANO",
+    "titles": {
+      "spa": "LEO FAVIO   -   FUISTE MIA UN VERANO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:47:36.762Z",
+    "modified_at": "2022-11-03T08:47:37.369Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7179590,
+      "gain": -8.82,
+      "duration": 179,
+      "loudnorm": "-9.27,2.38,5.40,-19.52,-1.80",
+      "filename": "processed_34839bc2d0e58c6acb1dea2a3c08fb0c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7179590,
+      "gain": -8.82,
+      "duration": 179,
+      "loudnorm": "-9.27,2.38,5.40,-19.52,-1.80",
+      "filename": "processed_ce43773edb7f2fd5a71bc55ae177d684.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

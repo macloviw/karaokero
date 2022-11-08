@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - El Aire De Tu Casa.mp3",
+      "loudnorm": "-11.86,4.32,5.80,-22.04,-1.25",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - El Aire De Tu Casa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f34d86df-3851-4e37-a0d7-20cd89fd7352",
+    "title": "Jesus Adrian Romero - El Aire De Tu Casa",
+    "titles": {
+      "spa": "Jesus Adrian Romero - El Aire De Tu Casa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:48:30.434Z",
+    "modified_at": "2022-11-04T03:48:30.816Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c083818c8bd22f952c8344318648e5c9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4317312,
+      "gain": -5.7,
+      "duration": 269,
+      "loudnorm": "-11.86,4.32,5.80,-22.04,-1.25",
+      "filename": "processed_a4b72eaa08e8720b4f4a6ffe3e63eadd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

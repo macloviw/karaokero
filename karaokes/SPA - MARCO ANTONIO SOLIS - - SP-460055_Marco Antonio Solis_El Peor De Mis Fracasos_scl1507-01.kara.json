@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460055_Marco Antonio Solis_El Peor De Mis Fracasos_scl1507-01.mp3",
+      "loudnorm": "-17.35,-0.01,2.40,-27.37,-0.12",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - SP-460055_Marco Antonio Solis_El Peor De Mis Fracasos_scl1507-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "04faa1b0-3346-4a7a-acfc-77e54fd2ffec",
+    "title": "SP-460055_Marco Antonio Solís_El Peor De Mis Fracasos_scl1507-01",
+    "titles": {
+      "spa": "SP-460055_Marco Antonio Solís_El Peor De Mis Fracasos_scl1507-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:56:31.012Z",
+    "modified_at": "2022-11-03T09:56:31.425Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dff5a9ddd4f3c2c19cc6b3803ff63c14.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4237450,
+      "gain": 0.84,
+      "duration": 264,
+      "loudnorm": "-17.35,-0.01,2.40,-27.37,-0.12",
+      "filename": "processed_38cbac10a3aed22924bea2650d7def6e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

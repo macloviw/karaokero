@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Junior Klan - - Junior Klan - El Run Run.mp3",
+      "loudnorm": "-11.94,2.23,4.30,-22.06,-0.11",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Junior Klan - - Junior Klan - El Run Run.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fdb44346-25de-4c6d-ac0e-58c6856d614d",
+    "title": "Junior Klan - El Run Run",
+    "titles": {
+      "spa": "Junior Klan - El Run Run"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "123fc552-6cea-4da5-9417-cfa003c84908"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:26:44.250Z",
+    "modified_at": "2022-11-03T16:26:44.755Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_88619326d471c212a254fa45da51c9c1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3162792,
+      "gain": -6.23,
+      "duration": 197,
+      "loudnorm": "-11.94,2.23,4.30,-22.06,-0.11",
+      "filename": "processed_7b5ead921be6c2d7e3300a375fce8092.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

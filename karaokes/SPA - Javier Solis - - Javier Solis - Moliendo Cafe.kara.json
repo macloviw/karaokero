@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Javier Solis - Moliendo Cafe.MP3",
+      "loudnorm": "-14.34,1.42,4.50,-24.49,-0.80",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Javier Solis - Moliendo Cafe.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4c58ac0d-202a-427c-9f45-bdbb49ecb5cd",
+    "title": "Javier Solis - Moliendo Cafe",
+    "titles": {
+      "spa": "Javier Solis - Moliendo Cafe"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:05:33.511Z",
+    "modified_at": "2022-11-03T06:05:33.965Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2775040,
+      "gain": -3.67,
+      "duration": 173,
+      "loudnorm": "-14.34,1.42,4.50,-24.49,-0.80",
+      "filename": "processed_9dff6d642d75966bc0b78df41e08a220.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2775040,
+      "gain": -3.67,
+      "duration": 173,
+      "loudnorm": "-14.34,1.42,4.50,-24.49,-0.80",
+      "filename": "processed_2ac2d2ee691e5f7521176cb3141b0356.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

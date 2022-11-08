@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Let me touch you for a while.mp3",
+      "loudnorm": "-12.91,0.61,7.60,-22.99,-1.55",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - Let me touch you for a while.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cbf7000b-1eb7-45e1-82e8-a015cb4b7e2c",
+    "title": "Alison Krauss - Let me touch you for a while",
+    "titles": {
+      "spa": "Alison Krauss - Let me touch you for a while"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c73d0529-b6ea-4fc4-bbcb-a4e8c0be08d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:25:05.035Z",
+    "modified_at": "2022-11-04T01:25:05.418Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d20bc8cec18911cb6440ab046721550c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3406030,
+      "gain": -4.27,
+      "duration": 212,
+      "loudnorm": "-12.91,0.61,7.60,-22.99,-1.55",
+      "filename": "processed_61692f9f0dcfd705f14eb2243bcca31b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

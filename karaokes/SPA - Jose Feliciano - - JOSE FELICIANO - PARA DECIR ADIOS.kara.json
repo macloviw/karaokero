@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - PARA DECIR ADIOS.mp3",
+      "loudnorm": "-7.77,7.53,5.00,-17.87,-0.62",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - PARA DECIR ADIOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6356a185-9e54-4fc3-83bf-c8789d18b538",
+    "title": "JOSE FELICIANO   -   PARA DECIR ADIOS",
+    "titles": {
+      "spa": "JOSE FELICIANO   -   PARA DECIR ADIOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:32:01.701Z",
+    "modified_at": "2022-11-03T06:32:02.116Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_434ed060e1576c30d0e8c8bae753dac4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4371318,
+      "gain": -9.47,
+      "duration": 273,
+      "loudnorm": "-7.77,7.53,5.00,-17.87,-0.62",
+      "filename": "processed_e1b40f5dcfb30753f215c00e6a77ce6c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

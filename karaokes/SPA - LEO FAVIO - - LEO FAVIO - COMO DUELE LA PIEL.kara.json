@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - COMO DUELE LA PIEL.MP3",
+      "loudnorm": "-15.69,-1.17,4.60,-25.87,-0.56",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - COMO DUELE LA PIEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ffdc484a-b53c-4f1f-8277-8edf344eaa81",
+    "title": "LEO FAVIO   -   COMO DUELE LA PIEL",
+    "titles": {
+      "spa": "LEO FAVIO   -   COMO DUELE LA PIEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:47:14.345Z",
+    "modified_at": "2022-11-03T22:47:14.777Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3025156,
+      "gain": -1.7,
+      "duration": 188,
+      "loudnorm": "-15.69,-1.17,4.60,-25.87,-0.56",
+      "filename": "processed_830aa87bd527ee6d597aeb25cf0c57f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3025156,
+      "gain": -1.7,
+      "duration": 188,
+      "loudnorm": "-15.69,-1.17,4.60,-25.87,-0.56",
+      "filename": "processed_01cbce7c62312f6b87424e70baf42374.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

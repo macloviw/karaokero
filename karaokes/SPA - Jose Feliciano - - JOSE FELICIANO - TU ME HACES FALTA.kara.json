@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - TU ME HACES FALTA.mp3",
+      "loudnorm": "-15.88,0.43,1.70,-25.95,-0.35",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - TU ME HACES FALTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "32ce47b2-2e5e-4cbc-ad60-9f783f9d7928",
+    "title": "JOSE FELICIANO   -   TU ME HACES FALTA",
+    "titles": {
+      "spa": "JOSE FELICIANO   -   TU ME HACES FALTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:36:52.568Z",
+    "modified_at": "2022-11-03T07:36:52.973Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dc8000dfe9dfd84d81455d5cee11c54a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2977792,
+      "gain": -1.71,
+      "duration": 186,
+      "loudnorm": "-15.88,0.43,1.70,-25.95,-0.35",
+      "filename": "processed_6ebf8f41e178475c07a5a1c82c893b68.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

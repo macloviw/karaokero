@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KHPRO - - AQUI ESTOY YO PISTA.mp3",
+      "loudnorm": "-11.80,0.40,7.70,-21.95,-1.67",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KHPRO - - AQUI ESTOY YO PISTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c278af51-583c-4810-933e-c3124602a83f",
+    "title": "AQUI ESTOY YO PISTA",
+    "titles": {
+      "spa": "AQUI ESTOY YO PISTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3fd89932-9786-4a0b-8b04-bb0a8d26b8d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:44:02.827Z",
+    "modified_at": "2022-11-03T22:44:03.204Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e2d539ed769ae0e3ed66bdb82a4ee08.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4089825,
+      "gain": -6,
+      "duration": 255,
+      "loudnorm": "-11.80,0.40,7.70,-21.95,-1.67",
+      "filename": "processed_f496a878ed4a0fede5e9bcf26d1454f0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

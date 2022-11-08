@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - La Lupe - - La Lupe - Si Vuelves Tu.MP3",
+      "loudnorm": "-13.04,0.07,6.80,-23.22,-0.91",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - La Lupe - - La Lupe - Si Vuelves Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f0466392-034b-4aec-a098-471dc63d3ad7",
+    "title": "La Lupe - Si Vuelves Tu",
+    "titles": {
+      "spa": "La Lupe - Si Vuelves Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0b625d60-9f95-4748-a295-b06b7a87289f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:39:00.933Z",
+    "modified_at": "2022-11-03T08:39:01.426Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3281912,
+      "gain": -4.71,
+      "duration": 204,
+      "loudnorm": "-13.04,0.07,6.80,-23.22,-0.91",
+      "filename": "processed_aa4e71277673a17997a61b684e412e1d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3281912,
+      "gain": -4.71,
+      "duration": 204,
+      "loudnorm": "-13.04,0.07,6.80,-23.22,-0.91",
+      "filename": "processed_b5a6b82cdc163bb910e613881b3a7671.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - Baby I Love You.mp3",
+      "loudnorm": "-11.97,0.81,4.60,-22.11,-1.03",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - Baby I Love You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "691f46a9-d6dc-4d9e-be7d-fb42bc2d80c9",
+    "title": "Jennifer Lopez - Baby I Love You",
+    "titles": {
+      "spa": "Jennifer Lopez - Baby I Love You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:10:56.410Z",
+    "modified_at": "2022-11-03T06:10:56.884Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a50d28ac0519401602a6968df8f5caae.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4650182,
+      "gain": -4.35,
+      "duration": 290,
+      "loudnorm": "-11.97,0.81,4.60,-22.11,-1.03",
+      "filename": "processed_edd82cac0b121f1ee74fa0a1d8378303.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

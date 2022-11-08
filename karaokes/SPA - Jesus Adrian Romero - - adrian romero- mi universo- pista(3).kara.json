@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - adrian romero- mi universo- pista(3).mp3",
+      "loudnorm": "-12.10,2.16,5.40,-22.26,-0.79",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - adrian romero- mi universo- pista(3).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a673b544-e66e-4d28-9152-3e2093aca150",
+    "title": "adrian romero- mi universo- pista(3)",
+    "titles": {
+      "spa": "adrian romero- mi universo- pista(3)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:37:47.954Z",
+    "modified_at": "2022-11-03T23:37:48.339Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1c925320910596ad150c1825da81b38d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6239692,
+      "gain": -4.69,
+      "duration": 259,
+      "loudnorm": "-12.10,2.16,5.40,-22.26,-0.79",
+      "filename": "processed_91cda6565650c2b408962492d823c03f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

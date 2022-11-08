@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Joan Sebastian - Trigo.mp3",
+      "loudnorm": "-11.69,0.77,3.70,-21.86,-0.01",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Joan Sebastian - Trigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4e0e3e36-30d2-4cfc-9119-0ac3a170c99f",
+    "title": "Joan Sebastian - Trigo",
+    "titles": {
+      "spa": "Joan Sebastian - Trigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:36:35.855Z",
+    "modified_at": "2022-11-03T16:36:36.342Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_81e72f9eed8baaaff1802c9b3d94c0bb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8431377,
+      "gain": -6.02,
+      "duration": 210,
+      "loudnorm": "-11.69,0.77,3.70,-21.86,-0.01",
+      "filename": "processed_86b0ee722e5f4997e39a998a55ec68ee.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

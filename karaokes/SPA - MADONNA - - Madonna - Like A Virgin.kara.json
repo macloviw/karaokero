@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MADONNA - - Madonna - Like A Virgin.mp3",
+      "loudnorm": "-18.00,0.65,3.00,-28.24,-0.41",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MADONNA - - Madonna - Like A Virgin.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7353d3b1-0963-485f-b15f-ab65509ecece",
+    "title": "Madonna - Like A Virgin",
+    "titles": {
+      "spa": "Madonna - Like A Virgin"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "400ae577-94f7-43df-91aa-ab018e255922"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:28:54.901Z",
+    "modified_at": "2022-11-04T01:28:55.313Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8834af070e45d0bcfe307c95cfe54a69.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4459805,
+      "gain": -0.86,
+      "duration": 222,
+      "loudnorm": "-18.00,0.65,3.00,-28.24,-0.41",
+      "filename": "processed_539cbc77c5915b2004a0a59278932a73.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

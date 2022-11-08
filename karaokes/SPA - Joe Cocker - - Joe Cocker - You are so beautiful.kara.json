@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Joe Cocker - - Joe Cocker - You are so beautiful.MP3",
+      "loudnorm": "-19.05,-1.41,9.20,-29.52,-0.94",
+      "duration": 138,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Joe Cocker - - Joe Cocker - You are so beautiful.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b06c7be9-7464-4c9e-9e31-51492de0eea4",
+    "title": "Joe Cocker - You are so beautiful",
+    "titles": {
+      "spa": "Joe Cocker - You are so beautiful"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c44a52fe-f5b2-4e48-be4b-4b9c0082afa7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:09:21.794Z",
+    "modified_at": "2022-11-04T01:09:22.246Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2211019,
+      "gain": -0.97,
+      "duration": 138,
+      "loudnorm": "-19.05,-1.41,9.20,-29.52,-0.94",
+      "filename": "processed_6e66c23d4fcffe4ac0b9d488a9c6ba74.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2211019,
+      "gain": -0.97,
+      "duration": 138,
+      "loudnorm": "-19.05,-1.41,9.20,-29.52,-0.94",
+      "filename": "processed_8be58b22e461d48d87b1013729451637.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

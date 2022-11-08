@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Richie Ortega - El Fracaso JSK.mp3",
+      "loudnorm": "-11.02,-0.70,1.80,-21.07,-0.14",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Richie Ortega - El Fracaso JSK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "846990db-ff53-47ce-8461-d6d1c16a3bff",
+    "title": "Richie Ortega - El Fracaso JSK",
+    "titles": {
+      "spa": "Richie Ortega - El Fracaso JSK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:44:16.303Z",
+    "modified_at": "2022-11-03T16:44:16.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b3bc130c5d18d753a1b19ea4b949f9d0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9603764,
+      "gain": -3.14,
+      "duration": 240,
+      "loudnorm": "-11.02,-0.70,1.80,-21.07,-0.14",
+      "filename": "processed_8f2307d5efac42656c3ec33d91131a8d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

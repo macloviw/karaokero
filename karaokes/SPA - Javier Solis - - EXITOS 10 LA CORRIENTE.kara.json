@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - EXITOS 10 LA CORRIENTE.mp3",
+      "loudnorm": "-10.60,1.62,6.20,-20.83,0.57",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - EXITOS 10 LA CORRIENTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6d7c109e-7163-4c20-ba52-4752570e52e8",
+    "title": "EXITOS 10 LA CORRIENTE",
+    "titles": {
+      "spa": "EXITOS 10 LA CORRIENTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:03:28.298Z",
+    "modified_at": "2022-11-03T06:03:28.708Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fab866dc0a4ca9f7954da8d9c9b83bc0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2777852,
+      "gain": -8.11,
+      "duration": 173,
+      "loudnorm": "-10.60,1.62,6.20,-20.83,0.57",
+      "filename": "processed_bc0a6ea095328a93c97a370b2e99e603.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

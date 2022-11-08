@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - TE EXTRANO BY LUIS MIGUEL.CDG.MP3",
+      "loudnorm": "-9.95,0.38,4.00,-19.98,-1.18",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - TE EXTRANO BY LUIS MIGUEL.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd05898f-5d7f-4c85-96fd-336623038b56",
+    "title": "TE EXTRAÑO BY LUIS MIGUEL.CDG",
+    "titles": {
+      "spa": "TE EXTRAÑO BY LUIS MIGUEL.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:36:06.764Z",
+    "modified_at": "2022-11-03T09:36:07.257Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3795455,
+      "gain": -7.3,
+      "duration": 237,
+      "loudnorm": "-9.95,0.38,4.00,-19.98,-1.18",
+      "filename": "processed_728353bd7a07b9b988b122c401553ad2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3795455,
+      "gain": -7.3,
+      "duration": 237,
+      "loudnorm": "-9.95,0.38,4.00,-19.98,-1.18",
+      "filename": "processed_b12e44ef8b432291c7d31322c8ae8047.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

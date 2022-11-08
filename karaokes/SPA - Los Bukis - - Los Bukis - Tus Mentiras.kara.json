@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Bukis - - Los Bukis - Tus Mentiras.mp3",
+      "loudnorm": "-15.85,2.47,3.60,-25.87,-0.18",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Bukis - - Los Bukis - Tus Mentiras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fc6daf82-12ee-430a-9c25-c3ffc80fba9c",
+    "title": "Los Bukis - Tus Mentiras",
+    "titles": {
+      "spa": "Los Bukis - Tus Mentiras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2c8eb376-1c0f-496a-9937-fe3fba48dda5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:57:30.515Z",
+    "modified_at": "2022-11-03T08:57:30.928Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_01fbe3fec71ef26c2c14b8a6e0665039.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1158575,
+      "gain": -1.28,
+      "duration": 289,
+      "loudnorm": "-15.85,2.47,3.60,-25.87,-0.18",
+      "filename": "processed_28a8b49d38610a7d76c6a9d9e3cecdd9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

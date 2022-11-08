@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KABAH - - Kabah - La Calle De Las Sirenas.mp3",
+      "loudnorm": "-16.54,0.63,5.30,-26.76,-1.08",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KABAH - - Kabah - La Calle De Las Sirenas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a3d886a0-ba5a-412d-ab7b-75fcadc90a3c",
+    "title": "Kabah - La Calle De Las Sirenas",
+    "titles": {
+      "spa": "Kabah - La Calle De Las Sirenas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "a9486403-c1eb-4dc0-b863-265dade78678"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:28:57.442Z",
+    "modified_at": "2022-11-03T16:28:57.880Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea8a7e652ec74081c35449dfd824ffac.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3619493,
+      "gain": -0.79,
+      "duration": 225,
+      "loudnorm": "-16.54,0.63,5.30,-26.76,-1.08",
+      "filename": "processed_56081a3702069e399beede2393f464c8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

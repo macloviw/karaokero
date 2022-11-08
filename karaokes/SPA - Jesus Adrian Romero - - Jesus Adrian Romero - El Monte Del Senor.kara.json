@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - El Monte Del Senor.mp3",
+      "loudnorm": "-11.68,3.38,4.10,-21.75,-0.88",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero - - Jesus Adrian Romero - El Monte Del Senor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d7b0089f-c7f3-4acf-8976-1f28f86c3747",
+    "title": "Jesus Adrian Romero - El Monte Del Señor",
+    "titles": {
+      "spa": "Jesus Adrian Romero - El Monte Del Señor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "fbc18f94-99ef-4167-b439-c71e5a69d266"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:14:31.373Z",
+    "modified_at": "2022-11-03T14:14:31.784Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bf013d7e8a75609da810254321391f15.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3671868,
+      "gain": -6.94,
+      "duration": 229,
+      "loudnorm": "-11.68,3.38,4.10,-21.75,-0.88",
+      "filename": "processed_c97cf4fd95a9768502bd38989b01aad4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

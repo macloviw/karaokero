@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Si No Te Hubieras Ido.mp3",
+      "loudnorm": "-8.61,7.30,2.00,-18.64,-0.80",
+      "duration": 317,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Si No Te Hubieras Ido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8afb2a5-4645-4aab-bb1b-9c59da3b4a79",
+    "title": "Marco Antonio Solis - Si No Te Hubieras Ido",
+    "titles": {
+      "spa": "Marco Antonio Solis - Si No Te Hubieras Ido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:52:26.159Z",
+    "modified_at": "2022-11-03T09:52:26.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e7f271c9c6d375a47eec094faf1b906.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5086395,
+      "gain": -8.83,
+      "duration": 317,
+      "loudnorm": "-8.61,7.30,2.00,-18.64,-0.80",
+      "filename": "processed_13734646b95c4db4c621fd706c70fd42.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

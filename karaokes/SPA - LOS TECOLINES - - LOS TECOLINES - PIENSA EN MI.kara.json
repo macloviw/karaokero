@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS TECOLINES - - LOS TECOLINES - PIENSA EN MI.MP3",
+      "loudnorm": "-13.06,1.05,3.60,-23.13,0.02",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS TECOLINES - - LOS TECOLINES - PIENSA EN MI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3d0f2103-0282-43d0-b890-18060727942c",
+    "title": "LOS TECOLINES              -   PIENSA EN MI",
+    "titles": {
+      "spa": "LOS TECOLINES              -   PIENSA EN MI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4cf47ffd-350c-4891-9dce-6a5eb6bf9e99"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:50:44.977Z",
+    "modified_at": "2022-11-03T22:50:45.442Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3061648,
+      "gain": -5.01,
+      "duration": 191,
+      "loudnorm": "-13.06,1.05,3.60,-23.13,0.02",
+      "filename": "processed_eb1e71fb52c08257352263398fe7ba1a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3061648,
+      "gain": -5.01,
+      "duration": 191,
+      "loudnorm": "-13.06,1.05,3.60,-23.13,0.02",
+      "filename": "processed_9962d6ac7d52f7f4144b28e625440c2b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

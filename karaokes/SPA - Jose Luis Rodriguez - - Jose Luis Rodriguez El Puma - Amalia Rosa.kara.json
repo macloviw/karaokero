@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Amalia Rosa.MP3",
+      "loudnorm": "-14.25,0.61,8.00,-24.34,0.04",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Amalia Rosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5953afd1-bdf6-4652-aafb-1725b359f9e0",
+    "title": "José Luis Rodriguez  El Puma  - Amalia Rosa",
+    "titles": {
+      "spa": "José Luis Rodriguez  El Puma  - Amalia Rosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:29:50.499Z",
+    "modified_at": "2022-11-03T07:29:51.022Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2851297,
+      "gain": -5.29,
+      "duration": 177,
+      "loudnorm": "-14.25,0.61,8.00,-24.34,0.04",
+      "filename": "processed_e93f90b24bcd9aba9d3bca6c2b36fe16.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2851297,
+      "gain": -5.29,
+      "duration": 177,
+      "loudnorm": "-14.25,0.61,8.00,-24.34,0.04",
+      "filename": "processed_a9f5a007bb4fd8054be1e730a6d7f88c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

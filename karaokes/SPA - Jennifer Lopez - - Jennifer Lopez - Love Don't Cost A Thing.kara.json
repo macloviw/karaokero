@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - Love Don't Cost A Thing.mp3",
+      "loudnorm": "-16.31,-0.24,3.80,-26.35,-0.57",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jennifer Lopez - - Jennifer Lopez - Love Don't Cost A Thing.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "28325ff4-1048-4f99-9755-6f38f22fa1a4",
+    "title": "Jennifer Lopez - Love Don't Cost A Thing",
+    "titles": {
+      "spa": "Jennifer Lopez - Love Don't Cost A Thing"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f2344761-8e73-4a50-9d01-0cd55e297b21"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:12:00.525Z",
+    "modified_at": "2022-11-03T06:12:00.952Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6bb03f023e5dda561e1e23929d9f659c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3803942,
+      "gain": -1.01,
+      "duration": 237,
+      "loudnorm": "-16.31,-0.24,3.80,-26.35,-0.57",
+      "filename": "processed_36cd45eac58367c0e9ff6d6c1163ae22.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

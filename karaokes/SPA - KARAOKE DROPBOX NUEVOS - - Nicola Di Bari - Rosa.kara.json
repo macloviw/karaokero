@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Nicola Di Bari - Rosa.mp3",
+      "loudnorm": "-18.58,-2.81,7.10,-28.66,-1.61",
+      "duration": 245,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Nicola Di Bari - Rosa.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3c88304e-b45d-4c84-bcff-ca202eb56741",
+    "title": "Nicola Di Bari - Rosa",
+    "titles": {
+      "spa": "Nicola Di Bari - Rosa"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:41:31.308Z",
+    "modified_at": "2022-11-03T16:41:31.825Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1ae456c6848f91a63fe8e301d2c75c04.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3925512,
+      "gain": 1.13,
+      "duration": 245,
+      "loudnorm": "-18.58,-2.81,7.10,-28.66,-1.61",
+      "filename": "processed_4c3a17142405fe7d17eb1e4ee64d0ddd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - LUIS FONSI - QUIEN TE DIJO ESO - copia.MP3",
+      "loudnorm": "-13.30,-0.06,5.80,-23.54,-0.66",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - LUIS FONSI - QUIEN TE DIJO ESO - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5f7927ec-f68f-4339-b3e6-5db7c1eb1aa1",
+    "title": "LUIS FONSI   -   QUIEN TE DIJO ESO - copia",
+    "titles": {
+      "spa": "LUIS FONSI   -   QUIEN TE DIJO ESO - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:09:22.123Z",
+    "modified_at": "2022-11-03T09:09:22.800Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4368895,
+      "gain": -4.85,
+      "duration": 272,
+      "loudnorm": "-13.30,-0.06,5.80,-23.54,-0.66",
+      "filename": "processed_cdd05e0e2ff06b853d0b644054e0f560.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4368895,
+      "gain": -4.85,
+      "duration": 272,
+      "loudnorm": "-13.30,-0.06,5.80,-23.54,-0.66",
+      "filename": "processed_50ce1ab1013f439f25b93c678591175a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - AY CARINO.MP3",
+      "loudnorm": "-21.75,-5.98,3.80,-31.96,-0.47",
+      "duration": 228,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - AY CARINO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "def773a4-9c14-44c9-ae8d-ddeefbc6e9c1",
+    "title": "JOSE FELICIANO   -   AY CARIÑO",
+    "titles": {
+      "spa": "JOSE FELICIANO   -   AY CARIÑO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:29:42.087Z",
+    "modified_at": "2022-11-03T06:29:42.597Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3650005,
+      "gain": 3.9,
+      "duration": 228,
+      "loudnorm": "-21.75,-5.98,3.80,-31.96,-0.47",
+      "filename": "processed_232429ecd9de9287e0ccfaa3e642915f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3650005,
+      "gain": 3.9,
+      "duration": 228,
+      "loudnorm": "-21.75,-5.98,3.80,-31.96,-0.47",
+      "filename": "processed_bc9c5ebf7f2f327d392d67b1052df17d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

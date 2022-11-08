@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - USTED BY LUIS MIGUEL.MP3",
+      "loudnorm": "-15.45,-1.24,4.10,-25.52,-0.85",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - USTED BY LUIS MIGUEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "375e2359-e381-4835-a5e1-91d90e3ef800",
+    "title": "USTED BY LUIS MIGUEL",
+    "titles": {
+      "spa": "USTED BY LUIS MIGUEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:37:37.197Z",
+    "modified_at": "2022-11-03T09:37:37.674Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3553875,
+      "gain": -2.51,
+      "duration": 221,
+      "loudnorm": "-15.45,-1.24,4.10,-25.52,-0.85",
+      "filename": "processed_957a8c47aabaecdd1f5c3be18d03333c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3553875,
+      "gain": -2.51,
+      "duration": 221,
+      "loudnorm": "-15.45,-1.24,4.10,-25.52,-0.85",
+      "filename": "processed_bd14d3c50ae834adc93bfb54ef13e95a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

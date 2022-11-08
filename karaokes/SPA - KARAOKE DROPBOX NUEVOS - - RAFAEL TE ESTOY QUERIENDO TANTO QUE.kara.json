@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - RAFAEL TE ESTOY QUERIENDO TANTO QUE.mp3",
+      "loudnorm": "-16.01,-0.03,11.60,-26.51,-1.15",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - RAFAEL TE ESTOY QUERIENDO TANTO QUE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e933d0c0-4945-4710-a0d0-61bd8405efaf",
+    "title": "RAFAEL TE ESTOY QUERIENDO TANTO QUE",
+    "titles": {
+      "spa": "RAFAEL TE ESTOY QUERIENDO TANTO QUE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:42:18.772Z",
+    "modified_at": "2022-11-03T16:42:19.423Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5d6ae4ce436b478801da613904b55e9a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6447951,
+      "gain": -2.3,
+      "duration": 201,
+      "loudnorm": "-16.01,-0.03,11.60,-26.51,-1.15",
+      "filename": "processed_231e554ca7d0b39edd381710daa79265.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - O ME VOY O TE VAS BY MARCO ANTO SOLIS.CDG.MP3",
+      "loudnorm": "-10.13,2.78,3.60,-20.24,-0.28",
+      "duration": 272,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - O ME VOY O TE VAS BY MARCO ANTO SOLIS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97b964a8-21a6-4f5a-9963-7981567e014f",
+    "title": "O ME VOY O TE VAS BY MARCO ANTO SOLIS.CDG",
+    "titles": {
+      "spa": "O ME VOY O TE VAS BY MARCO ANTO SOLIS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:54:32.338Z",
+    "modified_at": "2022-11-03T09:54:32.813Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4358864,
+      "gain": -6.82,
+      "duration": 272,
+      "loudnorm": "-10.13,2.78,3.60,-20.24,-0.28",
+      "filename": "processed_ce814730c1a6559ea1744285d393d0dd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4358864,
+      "gain": -6.82,
+      "duration": 272,
+      "loudnorm": "-10.13,2.78,3.60,-20.24,-0.28",
+      "filename": "processed_835cd8b320e8c26cd61ca46b8ce8806b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaoke - - Karaoke - Beatles - I Need You.mp3",
+      "loudnorm": "-14.14,3.17,1.60,-24.34,-0.55",
+      "duration": 161,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaoke - - Karaoke - Beatles - I Need You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3794f885-0397-4a06-851b-54ce1f743b2e",
+    "title": "Karaoke - Beatles - I Need You",
+    "titles": {
+      "spa": "Karaoke - Beatles - I Need You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "dcbade43-57c4-4c0e-97a2-e34d48db1fa1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:16:38.451Z",
+    "modified_at": "2022-11-04T01:16:38.838Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2d44589158d80766bd337f7c75a22b3e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2582666,
+      "gain": -3.8,
+      "duration": 161,
+      "loudnorm": "-14.14,3.17,1.60,-24.34,-0.55",
+      "filename": "processed_74544532ce8f4e9b815cf271419fcddf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

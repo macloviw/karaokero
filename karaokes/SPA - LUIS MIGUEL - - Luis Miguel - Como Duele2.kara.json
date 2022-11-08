@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Como Duele2.MP3",
+      "loudnorm": "-11.26,2.08,5.50,-21.29,-1.03",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - Luis Miguel - Como Duele2.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d9329d9d-e230-4581-b81f-36b2575dd407",
+    "title": "Luis Miguel - Como Duele2",
+    "titles": {
+      "spa": "Luis Miguel - Como Duele2"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:29:57.518Z",
+    "modified_at": "2022-11-03T09:29:57.999Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3699871,
+      "gain": -5.73,
+      "duration": 231,
+      "loudnorm": "-11.26,2.08,5.50,-21.29,-1.03",
+      "filename": "processed_70d061c6fbb4bdc12963c4797c3722ec.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3699871,
+      "gain": -5.73,
+      "duration": 231,
+      "loudnorm": "-11.26,2.08,5.50,-21.29,-1.03",
+      "filename": "processed_1700d2c89415449ba1296c2ee44ffaf4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

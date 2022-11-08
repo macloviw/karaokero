@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Judas Priest - - Judas Priest - Revolution.mp3",
+      "loudnorm": "-12.40,-2.12,7.90,-22.50,-0.73",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Judas Priest - - Judas Priest - Revolution.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "845459fe-40be-4c66-8492-0506dc6bdc4e",
+    "title": "Judas Priest - Revolution",
+    "titles": {
+      "spa": "Judas Priest - Revolution"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2cd0ef5e-00b9-4da3-88af-1a8469678691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:14:05.345Z",
+    "modified_at": "2022-11-04T01:14:05.755Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d7669cc46ed229a3b9ce22a0fe193d8b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4550862,
+      "gain": -4.13,
+      "duration": 284,
+      "loudnorm": "-12.40,-2.12,7.90,-22.50,-0.73",
+      "filename": "processed_2540c441cb43375692ca8e82fc75c32b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

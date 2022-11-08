@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - COMO BY LUIS M.MP3",
+      "loudnorm": "-14.02,-1.20,6.80,-24.12,-0.78",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - COMO BY LUIS M.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ec8da56b-55b0-4d20-bb4f-77076ac0116b",
+    "title": "COMO BY LUIS M",
+    "titles": {
+      "spa": "COMO BY LUIS M"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:12:39.028Z",
+    "modified_at": "2022-11-03T09:12:39.685Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2962044,
+      "gain": -4.87,
+      "duration": 185,
+      "loudnorm": "-14.02,-1.20,6.80,-24.12,-0.78",
+      "filename": "processed_9d451a4a184e255d9e0481850031dfa0.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2962044,
+      "gain": -4.87,
+      "duration": 185,
+      "loudnorm": "-14.02,-1.20,6.80,-24.12,-0.78",
+      "filename": "processed_df6edb4356675be835e781434d1c0176.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

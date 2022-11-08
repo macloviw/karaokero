@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Manolo Galvan Hijo de ramera JMx.mp3",
+      "loudnorm": "-29.28,-17.70,5.90,-39.36,-0.18",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - Manolo Galvan Hijo de ramera JMx.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8baaba5f-b7f2-47ba-9252-1c0ff2a2d923",
+    "title": "Manolo Galvan  Hijo de ramera JMx",
+    "titles": {
+      "spa": "Manolo Galvan  Hijo de ramera JMx"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:39:55.137Z",
+    "modified_at": "2022-11-03T16:39:55.662Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c96b07d213a6e22b72ae64fdcea6a065.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4011167,
+      "gain": 11.17,
+      "duration": 250,
+      "loudnorm": "-29.28,-17.70,5.90,-39.36,-0.18",
+      "filename": "processed_f2d6ceda6eefeeaeddbe8e2b2328210c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

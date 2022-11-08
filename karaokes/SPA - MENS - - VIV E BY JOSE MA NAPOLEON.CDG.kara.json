@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - VIV E BY JOSE MA NAPOLEON.CDG.MP3",
+      "loudnorm": "-14.38,0.43,5.40,-24.41,-0.14",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - VIV E BY JOSE MA NAPOLEON.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "288a123f-8ee7-47ca-8e10-4a5e6ef6e668",
+    "title": "VIV E BY JOSE MA NAPOLEON.CDG",
+    "titles": {
+      "spa": "VIV E BY JOSE MA NAPOLEON.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:31:28.551Z",
+    "modified_at": "2022-11-03T10:31:29.316Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3122123,
+      "gain": -3.44,
+      "duration": 195,
+      "loudnorm": "-14.38,0.43,5.40,-24.41,-0.14",
+      "filename": "processed_b7f153c8fc498304e32f5080adcf4656.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3122123,
+      "gain": -3.44,
+      "duration": 195,
+      "loudnorm": "-14.38,0.43,5.40,-24.41,-0.14",
+      "filename": "processed_8599536e569a4172d6e5a3960d71f10f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

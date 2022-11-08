@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - LA FUERZA DEL AMOR.MP3",
+      "loudnorm": "-11.20,5.27,7.60,-21.40,-1.53",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAN HERNANDEZ - - MIRIAN HERNANDEZ - LA FUERZA DEL AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f733a2c0-0311-4721-83fc-99788812cfb4",
+    "title": "MIRIAN HERNANDEZ   -   LA FUERZA DEL AMOR",
+    "titles": {
+      "spa": "MIRIAN HERNANDEZ   -   LA FUERZA DEL AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "af34ad6a-8c85-484e-ae7b-f738432bf0f2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:45:03.959Z",
+    "modified_at": "2022-11-03T10:45:04.777Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4934812,
+      "gain": -5.45,
+      "duration": 308,
+      "loudnorm": "-11.20,5.27,7.60,-21.40,-1.53",
+      "filename": "processed_d8fd1a6109270bd377943982bc35d725.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4934812,
+      "gain": -5.45,
+      "duration": 308,
+      "loudnorm": "-11.20,5.27,7.60,-21.40,-1.53",
+      "filename": "processed_5431bf0f629f428b43bcbe67196eaaf0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOLITA FLORES - - LOLITA - QUIEN LO VA A SABER.mp3",
+      "loudnorm": "-18.03,-2.85,6.00,-28.09,-1.03",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOLITA FLORES - - LOLITA - QUIEN LO VA A SABER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f0cce38-6356-4b6a-8b89-49b98e3a4499",
+    "title": "LOLITA - QUIEN LO VA A SABER",
+    "titles": {
+      "spa": "LOLITA - QUIEN LO VA A SABER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4776cc04-3f16-45b6-abea-8ccc87e510f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:55:07.630Z",
+    "modified_at": "2022-11-03T08:55:08.051Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d5fc66a61165a3f2bd24df232bbf039b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6581280,
+      "gain": 0.35,
+      "duration": 274,
+      "loudnorm": "-18.03,-2.85,6.00,-28.09,-1.03",
+      "filename": "processed_d0c39143060e7255a3289d5fc96c7897.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

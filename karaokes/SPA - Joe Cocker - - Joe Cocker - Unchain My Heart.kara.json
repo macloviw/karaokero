@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Joe Cocker - - Joe Cocker - Unchain My Heart.MP3",
+      "loudnorm": "-20.55,-2.72,8.70,-30.86,-1.19",
+      "duration": 308,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Joe Cocker - - Joe Cocker - Unchain My Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "947af8a6-65a7-4271-b85f-7c6638a7da71",
+    "title": "Joe Cocker - Unchain My Heart",
+    "titles": {
+      "spa": "Joe Cocker - Unchain My Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c44a52fe-f5b2-4e48-be4b-4b9c0082afa7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:08:58.647Z",
+    "modified_at": "2022-11-04T01:08:59.110Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4936612,
+      "gain": 2.14,
+      "duration": 308,
+      "loudnorm": "-20.55,-2.72,8.70,-30.86,-1.19",
+      "filename": "processed_d5ae9fa915b7d4618e0c27bb9a6412af.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4936612,
+      "gain": 2.14,
+      "duration": 308,
+      "loudnorm": "-20.55,-2.72,8.70,-30.86,-1.19",
+      "filename": "processed_8a6da8162046c2f986b05ef7a83467ff.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

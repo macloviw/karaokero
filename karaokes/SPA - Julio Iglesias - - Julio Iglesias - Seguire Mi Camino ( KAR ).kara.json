@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - Julio Iglesias - Seguire Mi Camino ( KAR ).mp3",
+      "loudnorm": "-10.63,0.42,3.00,-20.74,0.08",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - Julio Iglesias - Seguire Mi Camino ( KAR ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4551ebdc-9548-4ea3-b148-deea38c2fd6a",
+    "title": "Julio Iglesias - Seguire Mi Camino ( KAR )",
+    "titles": {
+      "spa": "Julio Iglesias - Seguire Mi Camino ( KAR )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:24:55.829Z",
+    "modified_at": "2022-11-03T16:24:56.277Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f586adf7e232ad7751dc6a3a422f2ef1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6588416,
+      "gain": -5.72,
+      "duration": 205,
+      "loudnorm": "-10.63,0.42,3.00,-20.74,0.08",
+      "filename": "processed_9199b789f4ace047d1c2621ffa71465c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

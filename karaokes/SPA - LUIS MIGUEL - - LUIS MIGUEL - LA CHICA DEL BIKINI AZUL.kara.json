@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA CHICA DEL BIKINI AZUL.MP3",
+      "loudnorm": "-9.51,4.04,2.60,-19.58,-0.38",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS MIGUEL - - LUIS MIGUEL - LA CHICA DEL BIKINI AZUL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "002368ed-88a9-4bbd-b437-4c4fd902276b",
+    "title": "LUIS MIGUEL   -   LA CHICA DEL BIKINI AZUL",
+    "titles": {
+      "spa": "LUIS MIGUEL   -   LA CHICA DEL BIKINI AZUL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7e2086ed-db5d-47e1-880e-8179ee5a4984"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:20:03.131Z",
+    "modified_at": "2022-11-03T09:20:03.691Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2899480,
+      "gain": -7.62,
+      "duration": 181,
+      "loudnorm": "-9.51,4.04,2.60,-19.58,-0.38",
+      "filename": "processed_cde0179d9929b6fdbfd10ad50edb4481.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2899480,
+      "gain": -7.62,
+      "duration": 181,
+      "loudnorm": "-9.51,4.04,2.60,-19.58,-0.38",
+      "filename": "processed_415632967f6ca3bd49abb303dece89ec.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

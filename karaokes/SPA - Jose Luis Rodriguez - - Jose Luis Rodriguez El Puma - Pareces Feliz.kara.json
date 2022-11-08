@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Pareces Feliz.MP3",
+      "loudnorm": "-12.98,0.91,9.80,-23.29,-1.02",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Pareces Feliz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9d909ab1-d819-46cc-a07d-e84c2be37319",
+    "title": "José Luis Rodriguez  El Puma  - Pareces Feliz",
+    "titles": {
+      "spa": "José Luis Rodriguez  El Puma  - Pareces Feliz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:30:46.503Z",
+    "modified_at": "2022-11-03T07:30:46.968Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3326519,
+      "gain": -5.95,
+      "duration": 207,
+      "loudnorm": "-12.98,0.91,9.80,-23.29,-1.02",
+      "filename": "processed_be3fa4ab653b4e53ab212ce20d4db2f4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3326519,
+      "gain": -5.95,
+      "duration": 207,
+      "loudnorm": "-12.98,0.91,9.80,-23.29,-1.02",
+      "filename": "processed_b4bef271cae88590cdeb9a531db99680.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

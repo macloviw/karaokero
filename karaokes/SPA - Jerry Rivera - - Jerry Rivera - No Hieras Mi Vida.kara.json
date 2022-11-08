@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - Jerry Rivera - No Hieras Mi Vida.mp3",
+      "loudnorm": "-13.38,-0.71,4.20,-23.45,-0.68",
+      "duration": 304,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - Jerry Rivera - No Hieras Mi Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "83817f44-9b8a-4902-be86-95a17f2c08ed",
+    "title": "Jerry Rivera - No Hieras Mi Vida",
+    "titles": {
+      "spa": "Jerry Rivera - No Hieras Mi Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:46:55.907Z",
+    "modified_at": "2022-11-04T03:46:56.312Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7cd2cbc8a6733975945e6d7c68dd0c46.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7312919,
+      "gain": -3.98,
+      "duration": 304,
+      "loudnorm": "-13.38,-0.71,4.20,-23.45,-0.68",
+      "filename": "processed_3f3a34db519d913e87933d81a385ce1d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Jesus Adrian Romero & Lilly Goodman - Ven Te Necesito.mp3",
+      "loudnorm": "-14.93,4.22,4.60,-25.05,-0.79",
+      "duration": 374,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Jesus Adrian Romero & Lilly Goodman - Ven Te Necesito.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "054694e4-f171-4acd-a787-a4f8c7bf4319",
+    "title": "Jesus Adrian Romero & Lilly Goodman - Ven Te Necesito.",
+    "titles": {
+      "spa": "Jesus Adrian Romero & Lilly Goodman - Ven Te Necesito."
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "e818b435-fff3-4d16-b229-5812bc9f708c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:38:04.982Z",
+    "modified_at": "2022-11-03T23:38:05.360Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_98ca939c703efb89a62190451eea7f5b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6001573,
+      "gain": -2.95,
+      "duration": 374,
+      "loudnorm": "-14.93,4.22,4.60,-25.05,-0.79",
+      "filename": "processed_f832a7f80b106459615cd84b72d5d7b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

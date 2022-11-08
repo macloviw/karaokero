@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - PECOS KANVAS LA SEPARACION (SENOR JUEZ).mp3",
+      "loudnorm": "-17.26,-0.04,5.70,-27.49,-0.53",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - PECOS KANVAS LA SEPARACION (SENOR JUEZ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be14628f-67ba-424e-9c6c-48f5f7e218a2",
+    "title": "PECOS KANVAS LA SEPARACION (SEÑOR JUEZ)",
+    "titles": {
+      "spa": "PECOS KANVAS LA SEPARACION (SEÑOR JUEZ)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:41:47.889Z",
+    "modified_at": "2022-11-03T16:41:48.474Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f282ec32a4ec46c22f0060179d60a90f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6891824,
+      "gain": 0.93,
+      "duration": 215,
+      "loudnorm": "-17.26,-0.04,5.70,-27.49,-0.53",
+      "filename": "processed_961794aaeb20cfdedf76bcb503419577.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

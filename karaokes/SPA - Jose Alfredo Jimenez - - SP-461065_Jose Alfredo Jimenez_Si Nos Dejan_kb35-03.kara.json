@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Alfredo Jimenez - - SP-461065_Jose Alfredo Jimenez_Si Nos Dejan_kb35-03.mp3",
+      "loudnorm": "-15.53,0.27,2.60,-25.60,-0.59",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Alfredo Jimenez - - SP-461065_Jose Alfredo Jimenez_Si Nos Dejan_kb35-03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d4bcdbe9-e825-42b8-8eea-88eb6cf30d73",
+    "title": "SP-461065_José Alfredo Jiménez_Si Nos Dejan_kb35-03",
+    "titles": {
+      "spa": "SP-461065_José Alfredo Jiménez_Si Nos Dejan_kb35-03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ead75a77-4647-43a1-8822-4bb34ff49e74"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:38:18.419Z",
+    "modified_at": "2022-11-03T22:38:18.791Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f96801e01e5a321faffac3a221890335.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2760842,
+      "gain": -2.16,
+      "duration": 172,
+      "loudnorm": "-15.53,0.27,2.60,-25.60,-0.59",
+      "filename": "processed_7c5df4fc86a41a4bc3b4516549161e9d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

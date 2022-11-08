@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julieta Venegas - - Julieta Venegas - Limon Y Sal.mp3",
+      "loudnorm": "-11.50,0.88,2.50,-21.64,-0.98",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julieta Venegas - - Julieta Venegas - Limon Y Sal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe3a36c3-2ca5-477b-9f5d-622f94dbc5d5",
+    "title": "Julieta Venegas - Limon Y Sal",
+    "titles": {
+      "spa": "Julieta Venegas - Limon Y Sal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a36061d-c8c5-4497-8cdd-b0c4adeea22b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:58:36.376Z",
+    "modified_at": "2022-11-03T07:58:36.797Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5145252c98fa2fa7d17b608c64fa1437.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3403904,
+      "gain": -4.57,
+      "duration": 212,
+      "loudnorm": "-11.50,0.88,2.50,-21.64,-0.98",
+      "filename": "processed_5dca9d315809bac69faa7063ad2d34e9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

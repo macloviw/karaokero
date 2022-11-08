@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Claxons - - KAR-4351_Plan perfecto-Los Claxons.mp3",
+      "loudnorm": "-12.80,2.52,5.90,-22.96,-1.85",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Claxons - - KAR-4351_Plan perfecto-Los Claxons.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f8afc174-3010-4963-bbc3-495b1c848d19",
+    "title": "KAR-4351_Plan perfecto-Los Claxons",
+    "titles": {
+      "spa": "KAR-4351_Plan perfecto-Los Claxons"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f15b772c-b619-45ee-9970-3910e23bb560"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:49:31.677Z",
+    "modified_at": "2022-11-03T22:49:32.052Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8b97657104e0012d90cac84fa190b717.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4909056,
+      "gain": -4.72,
+      "duration": 203,
+      "loudnorm": "-12.80,2.52,5.90,-22.96,-1.85",
+      "filename": "processed_82d21b26083c5f0c8ee050b7d5b31a86.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

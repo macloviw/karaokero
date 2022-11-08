@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA RUBIA DEL CABARET.MP3",
+      "loudnorm": "-15.08,-0.10,3.70,-25.17,-0.48",
+      "duration": 175,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA RUBIA DEL CABARET.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4323cd38-fef6-4146-8848-fac22f40f3f0",
+    "title": "LEO FAVIO   -   LA RUBIA DEL CABARET",
+    "titles": {
+      "spa": "LEO FAVIO   -   LA RUBIA DEL CABARET"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:48:57.979Z",
+    "modified_at": "2022-11-03T08:48:58.430Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2812415,
+      "gain": -2.06,
+      "duration": 175,
+      "loudnorm": "-15.08,-0.10,3.70,-25.17,-0.48",
+      "filename": "processed_9b9b3ce17632a761ab0b0a77cb3486c4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2812415,
+      "gain": -2.06,
+      "duration": 175,
+      "loudnorm": "-15.08,-0.10,3.70,-25.17,-0.48",
+      "filename": "processed_f78e8d0d9e24fcac24e16d1f2db50643.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

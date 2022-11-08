@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - POR QUE TE TENGO QUE OLVIDAR.MP3",
+      "loudnorm": "-18.79,-0.06,11.30,-29.30,-1.69",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Feliciano - - JOSE FELICIANO - POR QUE TE TENGO QUE OLVIDAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c095b6c-ca38-40fd-9a33-730ae4021b6c",
+    "title": "JOSE FELICIANO   -   POR QUE TE TENGO QUE OLVIDAR",
+    "titles": {
+      "spa": "JOSE FELICIANO   -   POR QUE TE TENGO QUE OLVIDAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c254e398-7cdc-4884-b708-6621e75acd00"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:33:00.015Z",
+    "modified_at": "2022-11-03T06:33:00.486Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4098057,
+      "gain": 1.37,
+      "duration": 256,
+      "loudnorm": "-18.79,-0.06,11.30,-29.30,-1.69",
+      "filename": "processed_bbc2a62f964752d23e418dff964c290c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4098057,
+      "gain": 1.37,
+      "duration": 256,
+      "loudnorm": "-18.79,-0.06,11.30,-29.30,-1.69",
+      "filename": "processed_de45cc6fa148eac2cfe90144fb13b0f7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

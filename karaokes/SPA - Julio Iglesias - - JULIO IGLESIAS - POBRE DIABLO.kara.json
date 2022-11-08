@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - POBRE DIABLO.MP3",
+      "loudnorm": "-18.35,-1.97,4.80,-28.66,-0.07",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - POBRE DIABLO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "561a4fdd-7a51-48a9-ac03-34c8a67a629f",
+    "title": "JULIO IGLESIAS   -   POBRE DIABLO",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   POBRE DIABLO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:19:40.290Z",
+    "modified_at": "2022-11-03T08:19:40.745Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2799086,
+      "gain": -0.11,
+      "duration": 174,
+      "loudnorm": "-18.35,-1.97,4.80,-28.66,-0.07",
+      "filename": "processed_c86a316ed71a1fa9aba6fc2c785510db.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2799086,
+      "gain": -0.11,
+      "duration": 174,
+      "loudnorm": "-18.35,-1.97,4.80,-28.66,-0.07",
+      "filename": "processed_332b7960c923aecc1f53bfbb1df5893a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

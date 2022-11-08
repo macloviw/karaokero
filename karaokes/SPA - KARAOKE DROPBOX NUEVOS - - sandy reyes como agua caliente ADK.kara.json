@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - sandy reyes como agua caliente ADK.mp3",
+      "loudnorm": "-15.96,-0.92,1.70,-26.01,-0.02",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - sandy reyes como agua caliente ADK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "440293e0-2abd-4981-b660-04fe4fd448e0",
+    "title": "sandy reyes como agua caliente ADK",
+    "titles": {
+      "spa": "sandy reyes como agua caliente ADK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:44:55.588Z",
+    "modified_at": "2022-11-03T16:44:56.014Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_33261b774d7d18deed432a4fe4505979.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5945472,
+      "gain": -1.47,
+      "duration": 296,
+      "loudnorm": "-15.96,-0.92,1.70,-26.01,-0.02",
+      "filename": "processed_cd92f2f6fc8050579160b51ef0c12246.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

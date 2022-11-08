@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MIRIAM CRUZ - - Miriam Hernandez - Huele A Peligro.mp3",
+      "loudnorm": "-14.59,0.55,8.40,-24.81,-0.66",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MIRIAM CRUZ - - Miriam Hernandez - Huele A Peligro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b77ae75e-7cb5-4ab6-b089-f63923c23a07",
+    "title": "Miriam Hernandez - Huele A Peligro",
+    "titles": {
+      "spa": "Miriam Hernandez - Huele A Peligro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a894f859-0adf-430d-82ae-38013642149a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:42:53.328Z",
+    "modified_at": "2022-11-03T10:42:53.883Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2abe2d33402c75fcf32ad9c47e1d57bd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7339249,
+      "gain": -2.75,
+      "duration": 305,
+      "loudnorm": "-14.59,0.55,8.40,-24.81,-0.66",
+      "filename": "processed_98b8db7b1031e9c9a3e895d4efe5e1fc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

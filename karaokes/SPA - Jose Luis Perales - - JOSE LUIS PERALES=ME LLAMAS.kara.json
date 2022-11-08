@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Perales - - JOSE LUIS PERALES=ME LLAMAS.mp3",
+      "loudnorm": "-13.78,1.50,3.50,-23.88,0.25",
+      "duration": 289,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Perales - - JOSE LUIS PERALES=ME LLAMAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "268dabec-06ed-4234-980f-76c366444b12",
+    "title": "JOSE LUIS PERALES=ME LLAMAS",
+    "titles": {
+      "spa": "JOSE LUIS PERALES=ME LLAMAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:22:43.255Z",
+    "modified_at": "2022-11-03T07:22:43.661Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2b06f3d9af5334f9ea33f3f4e60d0d2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4626776,
+      "gain": -2.91,
+      "duration": 289,
+      "loudnorm": "-13.78,1.50,3.50,-23.88,0.25",
+      "filename": "processed_d9349e84b329657f7d4512a0975b6555.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

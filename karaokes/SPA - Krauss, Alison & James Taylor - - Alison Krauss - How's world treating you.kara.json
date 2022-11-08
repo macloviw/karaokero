@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - How's world treating you.mp3",
+      "loudnorm": "-12.70,1.47,8.30,-23.04,-1.28",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Krauss, Alison & James Taylor - - Alison Krauss - How's world treating you.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a68a8c66-ea68-4e28-9e87-87850d7f0706",
+    "title": "Alison Krauss - How's world treating you",
+    "titles": {
+      "spa": "Alison Krauss - How's world treating you"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c73d0529-b6ea-4fc4-bbcb-a4e8c0be08d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:24:55.149Z",
+    "modified_at": "2022-11-04T01:24:55.527Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7134804a0abaf091403fa6be0b34448d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3374873,
+      "gain": -5.07,
+      "duration": 210,
+      "loudnorm": "-12.70,1.47,8.30,-23.04,-1.28",
+      "filename": "processed_3cb4b6c04124e6bd733060bf1f7b823d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

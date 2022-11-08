@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Maria Napoleon - - Jose Maria Napoleon - Hombre.mp3",
+      "loudnorm": "-9.23,0.89,4.80,-19.31,-1.24",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Maria Napoleon - - Jose Maria Napoleon - Hombre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f89d9919-9715-4c60-af88-e3ac2a02070f",
+    "title": "Jose Maria Napoleon - Hombre",
+    "titles": {
+      "spa": "Jose Maria Napoleon - Hombre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e3bdf886-6ae8-4f00-bf02-4b22b544f53f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:37:58.678Z",
+    "modified_at": "2022-11-03T22:37:59.067Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a854b054b48ef33a4e484a42d1a0b64f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5560386,
+      "gain": -8.05,
+      "duration": 231,
+      "loudnorm": "-9.23,0.89,4.80,-19.31,-1.24",
+      "filename": "processed_3111d30198136b13603f8f02a02a8ee5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

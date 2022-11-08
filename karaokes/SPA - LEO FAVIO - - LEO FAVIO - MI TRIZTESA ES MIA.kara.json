@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - MI TRIZTESA ES MIA.MP3",
+      "loudnorm": "-11.02,2.28,2.90,-21.33,-1.13",
+      "duration": 147,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - MI TRIZTESA ES MIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f6b151c7-6a62-4848-a80a-0c24d45a2789",
+    "title": "LEO FAVIO   -   MI TRIZTESA ES MIA",
+    "titles": {
+      "spa": "LEO FAVIO   -   MI TRIZTESA ES MIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:49:25.945Z",
+    "modified_at": "2022-11-03T08:49:26.495Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5900635,
+      "gain": -6.39,
+      "duration": 147,
+      "loudnorm": "-11.02,2.28,2.90,-21.33,-1.13",
+      "filename": "processed_538dcd1183fa8700c71c1ad4d7c6b991.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5900635,
+      "gain": -6.39,
+      "duration": 147,
+      "loudnorm": "-11.02,2.28,2.90,-21.33,-1.13",
+      "filename": "processed_e554e92fb8b4b0faba1cbb4d377b9dcc.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

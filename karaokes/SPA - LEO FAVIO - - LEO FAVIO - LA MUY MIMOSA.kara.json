@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA MUY MIMOSA.MP3",
+      "loudnorm": "-15.20,-0.67,5.90,-25.30,-1.56",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - LA MUY MIMOSA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "413bbe7f-87b1-458b-840e-3b1f2bf31111",
+    "title": "LEO FAVIO   -   LA MUY MIMOSA",
+    "titles": {
+      "spa": "LEO FAVIO   -   LA MUY MIMOSA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:48:43.427Z",
+    "modified_at": "2022-11-03T08:48:43.882Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2595076,
+      "gain": -2.91,
+      "duration": 162,
+      "loudnorm": "-15.20,-0.67,5.90,-25.30,-1.56",
+      "filename": "processed_0c045210b17ad4fae6c7a4c8be36621c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2595076,
+      "gain": -2.91,
+      "duration": 162,
+      "loudnorm": "-15.20,-0.67,5.90,-25.30,-1.56",
+      "filename": "processed_2a3f6f861931ac2a94d771336a0a3d9c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

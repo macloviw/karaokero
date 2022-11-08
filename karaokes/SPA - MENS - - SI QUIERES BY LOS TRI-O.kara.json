@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - SI QUIERES BY LOS TRI-O.MP3",
+      "loudnorm": "-11.07,0.20,3.40,-21.13,-0.73",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - SI QUIERES BY LOS TRI-O.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2a69de01-50c3-48a1-a8f3-5b48d57da2d6",
+    "title": "SI QUIERES  BY LOS TRI-O",
+    "titles": {
+      "spa": "SI QUIERES  BY LOS TRI-O"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:28:25.887Z",
+    "modified_at": "2022-11-03T10:28:26.460Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4531899,
+      "gain": -6.28,
+      "duration": 283,
+      "loudnorm": "-11.07,0.20,3.40,-21.13,-0.73",
+      "filename": "processed_1fcd82677b34a790d4128e003b67e924.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4531899,
+      "gain": -6.28,
+      "duration": 283,
+      "loudnorm": "-11.07,0.20,3.40,-21.13,-0.73",
+      "filename": "processed_45b5e239543de150425b3e1c5ea69865.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

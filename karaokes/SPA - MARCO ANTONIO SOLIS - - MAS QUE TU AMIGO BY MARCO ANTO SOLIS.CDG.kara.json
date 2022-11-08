@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - MAS QUE TU AMIGO BY MARCO ANTO SOLIS.CDG.MP3",
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - MAS QUE TU AMIGO BY MARCO ANTO SOLIS.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6cc0bf64-d04b-4891-8f07-bffc5b9f967d",
+    "title": "MAS QUE TU AMIGO BY MARCO ANTO SOLIS.CDG",
+    "titles": {
+      "spa": "MAS QUE TU AMIGO BY MARCO ANTO SOLIS.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:53:16.695Z",
+    "modified_at": "2022-11-03T09:53:17.281Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3364539,
+      "gain": -0.98,
+      "duration": 210,
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "filename": "processed_b26c406661d6822c1cbac9fc724291ee.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3364539,
+      "gain": -0.98,
+      "duration": 210,
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "filename": "processed_17b75d92a8630a40dc24189cc6ef8322.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

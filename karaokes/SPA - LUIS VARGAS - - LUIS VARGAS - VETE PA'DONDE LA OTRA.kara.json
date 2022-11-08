@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS VARGAS - - LUIS VARGAS - VETE PA'DONDE LA OTRA.mp3",
+      "loudnorm": "-11.74,2.00,5.10,-21.78,-0.49",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS VARGAS - - LUIS VARGAS - VETE PA'DONDE LA OTRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "39210627-5439-4737-979a-ae161ed67d29",
+    "title": "LUIS VARGAS - VETE PA'DONDE LA OTRA",
+    "titles": {
+      "spa": "LUIS VARGAS - VETE PA'DONDE LA OTRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "3d9430e9-6ec5-4dcb-9373-ba1ee886f326"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:08:53.243Z",
+    "modified_at": "2022-11-03T00:08:53.670Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6cf5da1360a972b725d3a504f8780c49.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4121506,
+      "gain": -6.23,
+      "duration": 257,
+      "loudnorm": "-11.74,2.00,5.10,-21.78,-0.49",
+      "filename": "processed_1f9721dd7ff343c267c4053b8a790f1e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

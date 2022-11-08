@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - NO NO Y NO.MP3",
+      "loudnorm": "-13.91,-0.48,1.80,-23.99,-0.60",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS PANCHOS - - LOS PANCHOS - NO NO Y NO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3aff6110-0a75-475c-ad13-91c6e98f9db3",
+    "title": "LOS PANCHOS                -   NO NO Y NO",
+    "titles": {
+      "spa": "LOS PANCHOS                -   NO NO Y NO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9676728c-ba66-4765-bada-6a365411c55b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:02:59.899Z",
+    "modified_at": "2022-11-03T09:03:00.358Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2845016,
+      "gain": -4.96,
+      "duration": 177,
+      "loudnorm": "-13.91,-0.48,1.80,-23.99,-0.60",
+      "filename": "processed_e2550e4d412d037b54fe6338279d9f11.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2845016,
+      "gain": -4.96,
+      "duration": 177,
+      "loudnorm": "-13.91,-0.48,1.80,-23.99,-0.60",
+      "filename": "processed_080eb7945165242827b365b4f5df3a5c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

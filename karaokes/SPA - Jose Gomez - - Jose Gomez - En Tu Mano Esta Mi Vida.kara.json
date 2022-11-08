@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Gomez - - Jose Gomez - En Tu Mano Esta Mi Vida.mp3",
+      "loudnorm": "-12.99,0.89,8.80,-23.17,-0.58",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Gomez - - Jose Gomez - En Tu Mano Esta Mi Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1adab34-19ba-4d46-b6c5-7274b215b1d7",
+    "title": "Jose Gomez - En Tu Mano Esta Mi Vida",
+    "titles": {
+      "spa": "Jose Gomez - En Tu Mano Esta Mi Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "582db48b-f293-4b7a-92af-efe0b140f508"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:16:52.751Z",
+    "modified_at": "2022-11-03T14:16:53.108Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ac4c27817574c97595d6224e4aca027a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3832782,
+      "gain": -5.39,
+      "duration": 239,
+      "loudnorm": "-12.99,0.89,8.80,-23.17,-0.58",
+      "filename": "processed_25ef91c13758c9f4eb841cb85fec13bb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

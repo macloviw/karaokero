@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUIS FONSI - - FALSAS ESPERANZAS - GEORGE LUIS PILOTO - copia.mp3",
+      "loudnorm": "-9.89,0.59,5.40,-20.19,-0.71",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUIS FONSI - - FALSAS ESPERANZAS - GEORGE LUIS PILOTO - copia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eb7d4e8e-df09-4c2f-9004-87b1f1f20200",
+    "title": "FALSAS ESPERANZAS - GEORGE LUIS PILOTO - copia",
+    "titles": {
+      "spa": "FALSAS ESPERANZAS - GEORGE LUIS PILOTO - copia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bd66b128-9cec-4dfc-942e-5d4199ed0ef1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:51:20.813Z",
+    "modified_at": "2022-11-03T22:51:21.197Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f69bb64b6f763297008b8baf1443b8ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4606423,
+      "gain": -9.43,
+      "duration": 191,
+      "loudnorm": "-9.89,0.59,5.40,-20.19,-0.71",
+      "filename": "processed_c308e54582d0e691922300e1f1016eb9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

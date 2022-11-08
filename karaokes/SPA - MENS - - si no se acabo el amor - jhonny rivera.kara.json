@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MENS - - si no se acabo el amor - jhonny rivera.mp3",
+      "loudnorm": "-20.65,-3.80,4.90,-30.69,-0.57",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MENS - - si no se acabo el amor - jhonny rivera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6710119b-f0d7-4c84-9c71-7f6266bc8755",
+    "title": "si no se acabo el amor - jhonny rivera",
+    "titles": {
+      "spa": "si no se acabo el amor - jhonny rivera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfd822d4-c180-4d11-afe8-25f660a56996"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:27:59.344Z",
+    "modified_at": "2022-11-03T10:27:59.926Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_909132546b34f2aec4d240de77c47dd4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7195053,
+      "gain": 2.28,
+      "duration": 299,
+      "loudnorm": "-20.65,-3.80,4.90,-30.69,-0.57",
+      "filename": "processed_f672c6d4a073a7ecb6db6fce24f8d6c8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jerry Rivera - - Jerry Rivera - Magia.mp3",
+      "loudnorm": "-14.69,-0.69,4.80,-24.99,-0.76",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jerry Rivera - - Jerry Rivera - Magia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9e44fe6e-b4c5-4e94-a964-d29049646c20",
+    "title": "Jerry Rivera - Magia",
+    "titles": {
+      "spa": "Jerry Rivera - Magia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "d15cf67a-e4c1-4db9-a18f-b06395c6cc0a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:46:01.371Z",
+    "modified_at": "2022-11-04T03:46:01.750Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_04136fabf602b78679ee72dc008fa541.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7050858,
+      "gain": -3.28,
+      "duration": 293,
+      "loudnorm": "-14.69,-0.69,4.80,-24.99,-0.76",
+      "filename": "processed_d1e15c9d6807d952ad3201aeda14d589.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

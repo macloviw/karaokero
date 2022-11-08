@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOS CONDES - - LOS CONDES - BRUJERIA.MP3",
+      "loudnorm": "-15.74,-1.05,2.50,-25.80,-0.39",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOS CONDES - - LOS CONDES - BRUJERIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "235a0cfa-504c-4d05-9dfe-c02a649acc4e",
+    "title": "LOS CONDES                  -   BRUJERIA",
+    "titles": {
+      "spa": "LOS CONDES                  -   BRUJERIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ff34a84-7c84-4519-b010-a39d81fdae9c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:58:57.155Z",
+    "modified_at": "2022-11-03T08:58:57.679Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3139677,
+      "gain": -2.12,
+      "duration": 196,
+      "loudnorm": "-15.74,-1.05,2.50,-25.80,-0.39",
+      "filename": "processed_013713fd069726f51c419d3b5a7c256f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3139677,
+      "gain": -2.12,
+      "duration": 196,
+      "loudnorm": "-15.74,-1.05,2.50,-25.80,-0.39",
+      "filename": "processed_66a5658ac7d0d30f7b3b7a7292c0da31.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

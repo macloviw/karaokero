@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - MILONGA.MP3",
+      "loudnorm": "-14.26,0.34,4.90,-24.52,-1.01",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - MILONGA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e70ae3f2-38eb-4f40-bb3e-9bb91783e6e9",
+    "title": "JULIO IGLESIAS   -   MILONGA",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   MILONGA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:19:05.136Z",
+    "modified_at": "2022-11-03T08:19:05.673Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3634176,
+      "gain": -3.49,
+      "duration": 227,
+      "loudnorm": "-14.26,0.34,4.90,-24.52,-1.01",
+      "filename": "processed_8b7ddfd71d82b225ef454265854449f5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3634176,
+      "gain": -3.49,
+      "duration": 227,
+      "loudnorm": "-14.26,0.34,4.90,-24.52,-1.01",
+      "filename": "processed_31d9b2833e1ac84c838bc205bcbe7644.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

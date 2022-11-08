@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Los Toros Band - - Toros Band - Llego Tu Marido.MP3",
+      "loudnorm": "-14.21,1.10,2.20,-24.31,-0.93",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Los Toros Band - - Toros Band - Llego Tu Marido.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "95af2447-e0eb-432f-82c2-52203653d65f",
+    "title": "Toros Band - Llego Tu Marido",
+    "titles": {
+      "spa": "Toros Band - Llego Tu Marido"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "36be32aa-2c6e-4668-88ce-bf633d04c470"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:01:40.999Z",
+    "modified_at": "2022-11-03T00:01:41.673Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4949987,
+      "gain": -4.63,
+      "duration": 309,
+      "loudnorm": "-14.21,1.10,2.20,-24.31,-0.93",
+      "filename": "processed_cb6242b899ffb10fdaec1c7ba65915c2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4949987,
+      "gain": -4.63,
+      "duration": 309,
+      "loudnorm": "-14.21,1.10,2.20,-24.31,-0.93",
+      "filename": "processed_6bc1740fa13c1541918fa6dff7b9e45f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

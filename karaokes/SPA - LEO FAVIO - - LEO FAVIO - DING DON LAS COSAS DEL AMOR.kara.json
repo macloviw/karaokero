@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - DING DON LAS COSAS DEL AMOR.MP3",
+      "loudnorm": "-15.29,0.39,3.30,-25.38,-0.40",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - DING DON LAS COSAS DEL AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "43497f39-3a7d-46b4-8bc1-bba5becbc01c",
+    "title": "LEO FAVIO   -   DING DON LAS COSAS DEL AMOR",
+    "titles": {
+      "spa": "LEO FAVIO   -   DING DON LAS COSAS DEL AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:47:02.746Z",
+    "modified_at": "2022-11-03T08:47:03.249Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3722730,
+      "gain": -1.54,
+      "duration": 232,
+      "loudnorm": "-15.29,0.39,3.30,-25.38,-0.40",
+      "filename": "processed_a28aa0842c287cdac5a176ac9c107373.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3722730,
+      "gain": -1.54,
+      "duration": 232,
+      "loudnorm": "-15.29,0.39,3.30,-25.38,-0.40",
+      "filename": "processed_5adfe2159fb8dc9904bc872b2d305275.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

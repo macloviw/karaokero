@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - El Amor Acaba.MP3",
+      "loudnorm": "-9.16,0.33,3.10,-19.23,-0.16",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Jose El Principe Con Trio - - Jose Jose El Principe Con Trio - El Amor Acaba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12b24372-5148-4215-92e0-17c177f83146",
+    "title": "Jose Jose El Principe Con Trio   -   El Amor Acaba",
+    "titles": {
+      "spa": "Jose Jose El Principe Con Trio   -   El Amor Acaba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f27c0b84-fd35-43d7-aa47-58795779922c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:19:07.681Z",
+    "modified_at": "2022-11-03T07:19:08.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 6034885,
+      "gain": -9.24,
+      "duration": 251,
+      "loudnorm": "-9.16,0.33,3.10,-19.23,-0.16",
+      "filename": "processed_c37030efa898003476f80bbdab199e64.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6034885,
+      "gain": -9.24,
+      "duration": 251,
+      "loudnorm": "-9.16,0.33,3.10,-19.23,-0.16",
+      "filename": "processed_990270ac5419b39dca3998d9facf7a3a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

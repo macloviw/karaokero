@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Un Toque de Locura.MP3",
+      "loudnorm": "-17.63,-0.24,7.40,-27.82,-0.85",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Rodriguez - - Jose Luis Rodriguez El Puma - Un Toque de Locura.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "975e8f1d-b7ff-4dbf-95ae-3b4e60a8ee80",
+    "title": "José Luis Rodriguez  El Puma  - Un Toque de Locura",
+    "titles": {
+      "spa": "José Luis Rodriguez  El Puma  - Un Toque de Locura"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "62a8d6c3-e4a5-4cd8-8701-953297063bfa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:32:18.833Z",
+    "modified_at": "2022-11-03T07:32:19.445Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4253140,
+      "gain": -1.2,
+      "duration": 265,
+      "loudnorm": "-17.63,-0.24,7.40,-27.82,-0.85",
+      "filename": "processed_705516513f4c04772a81d3f1e79fabff.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4253140,
+      "gain": -1.2,
+      "duration": 265,
+      "loudnorm": "-17.63,-0.24,7.40,-27.82,-0.85",
+      "filename": "processed_e8ba26ed0cbe2c51416d32fb30748dff.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

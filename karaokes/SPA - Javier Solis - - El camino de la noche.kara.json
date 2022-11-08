@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - El camino de la noche.mp3",
+      "loudnorm": "-11.59,1.70,1.40,-21.64,0.00",
+      "duration": 139,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - El camino de la noche.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e89f5aba-e827-404f-8e1b-f785a3d03565",
+    "title": "El camino de la noche",
+    "titles": {
+      "spa": "El camino de la noche"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:01:27.563Z",
+    "modified_at": "2022-11-03T06:01:27.962Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d75b6324886c77aaa8f4171da9b6069.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2243650,
+      "gain": -4.32,
+      "duration": 139,
+      "loudnorm": "-11.59,1.70,1.40,-21.64,0.00",
+      "filename": "processed_413acd4250bce3603377a76688911d4c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

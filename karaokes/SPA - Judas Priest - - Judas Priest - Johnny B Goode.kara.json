@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Judas Priest - - Judas Priest - Johnny B Goode.mp3",
+      "loudnorm": "-9.24,1.37,2.40,-19.27,-0.73",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Judas Priest - - Judas Priest - Johnny B Goode.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b6461de-eba3-47c9-9406-6c65faf85730",
+    "title": "Judas Priest - Johnny B Goode",
+    "titles": {
+      "spa": "Judas Priest - Johnny B Goode"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "2cd0ef5e-00b9-4da3-88af-1a8469678691"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:13:52.538Z",
+    "modified_at": "2022-11-04T01:13:52.926Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_615050aa8f14eeb47cc71f2c9535d37d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5986317,
+      "gain": -7.66,
+      "duration": 299,
+      "loudnorm": "-9.24,1.37,2.40,-19.27,-0.73",
+      "filename": "processed_b880df30137688096b01b5d318b25756.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

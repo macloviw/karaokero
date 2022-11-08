@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Kalimba - - 02.- solo dejate amar - kalimba.mp3",
+      "loudnorm": "-15.24,-3.01,13.90,-26.19,-1.86",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Kalimba - - 02.- solo dejate amar - kalimba.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9645ac95-6d07-4753-930a-565588af6255",
+    "title": "02.- solo dejate amar - kalimba",
+    "titles": {
+      "spa": "02.- solo dejate amar - kalimba"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "2ecc7399-ebee-4bb8-8a64-f839153aab5f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:28:50.822Z",
+    "modified_at": "2022-11-03T08:28:51.263Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9838ac99255b683e23795a7502513e0d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5230227,
+      "gain": -3.28,
+      "duration": 217,
+      "loudnorm": "-15.24,-3.01,13.90,-26.19,-1.86",
+      "filename": "processed_a8b324f82c5432b1478cddc83aff61e1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

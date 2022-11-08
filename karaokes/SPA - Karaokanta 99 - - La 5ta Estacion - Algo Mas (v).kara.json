@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Karaokanta 99 - - La 5ta Estacion - Algo Mas (v).mp3",
+      "loudnorm": "-12.62,1.30,6.10,-22.81,-1.35",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Karaokanta 99 - - La 5ta Estacion - Algo Mas (v).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99286350-8c09-40d7-a441-94350fe8e594",
+    "title": "La 5ta Estacion - Algo Mas (v)",
+    "titles": {
+      "spa": "La 5ta Estacion - Algo Mas (v)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "505cf43b-ead6-49ca-b7b2-98affd2e8381"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:29:45.753Z",
+    "modified_at": "2022-11-03T16:29:46.196Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_985df7aac612734d4fc62c93b1ff56f9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6172642,
+      "gain": -5.04,
+      "duration": 257,
+      "loudnorm": "-12.62,1.30,6.10,-22.81,-1.35",
+      "filename": "processed_5c6083681abcc27cca5351e3300691c4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

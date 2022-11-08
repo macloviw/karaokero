@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE CRISTIANOS - - SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG (2).MP3",
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "duration": 324,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE CRISTIANOS - - SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a693e1d9-52fc-41f6-9301-09085d27d15d",
+    "title": "SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG (2)",
+    "titles": {
+      "spa": "SI ESTA ALMOHADA HABLARA BY CRISTIANO.CDG (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "f1e249de-2256-4304-be30-ccf51d93fa8d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:20:58.801Z",
+    "modified_at": "2022-11-03T14:20:59.443Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.29,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "filename": "processed_dcfdaf67a4357dc8262f3c2331cf71f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5193527,
+      "gain": 2.29,
+      "duration": 324,
+      "loudnorm": "-20.76,-1.87,8.30,-30.91,-0.59",
+      "filename": "processed_edb60c21f29bfa644697233a25b35ed0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

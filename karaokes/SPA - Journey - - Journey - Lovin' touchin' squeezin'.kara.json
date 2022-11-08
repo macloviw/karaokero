@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Journey - - Journey - Lovin' touchin' squeezin'.mp3",
+      "loudnorm": "-15.34,-0.09,4.40,-25.35,-1.17",
+      "duration": 241,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Journey - - Journey - Lovin' touchin' squeezin'.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ef94e6b3-00ad-4e31-85c6-ff8cbb4af87b",
+    "title": "Journey - Lovin' touchin' squeezin'",
+    "titles": {
+      "spa": "Journey - Lovin' touchin' squeezin'"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "ec1e210f-d1d4-4da1-bc6a-0e0e8fc13f0d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:12:38.664Z",
+    "modified_at": "2022-11-04T01:12:39.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f4d10078094020cf5af71f8f8840b32.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3861203,
+      "gain": -2.36,
+      "duration": 241,
+      "loudnorm": "-15.34,-0.09,4.40,-25.35,-1.17",
+      "filename": "processed_d3746a90be81123d4ef6a7ae01288538.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

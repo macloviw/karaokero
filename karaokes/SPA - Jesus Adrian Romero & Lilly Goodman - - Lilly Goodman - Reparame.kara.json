@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Reparame.mp3",
+      "loudnorm": "-17.68,2.51,5.20,-27.93,-0.29",
+      "duration": 217,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jesus Adrian Romero & Lilly Goodman - - Lilly Goodman - Reparame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "78f13666-3f3e-4bbb-9583-328e222c2de4",
+    "title": "Lilly Goodman - Reparame",
+    "titles": {
+      "spa": "Lilly Goodman - Reparame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "e818b435-fff3-4d16-b229-5812bc9f708c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:23:08.017Z",
+    "modified_at": "2022-11-03T14:23:08.430Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fa5740eaeb3dbce0a6489ecd957541af.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3489220,
+      "gain": -1.72,
+      "duration": 217,
+      "loudnorm": "-17.68,2.51,5.20,-27.93,-0.29",
+      "filename": "processed_ae8b8e8ca3459d57f996aa59ba39d8d9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

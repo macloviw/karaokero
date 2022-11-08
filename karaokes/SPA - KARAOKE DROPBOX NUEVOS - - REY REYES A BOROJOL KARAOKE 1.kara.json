@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KARAOKE DROPBOX NUEVOS - - REY REYES A BOROJOL KARAOKE 1.mp3",
+      "loudnorm": "-14.22,-0.35,1.70,-24.27,-0.23",
+      "duration": 337,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KARAOKE DROPBOX NUEVOS - - REY REYES A BOROJOL KARAOKE 1.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17d2920b-f7ef-4551-9830-9337f7c1cc15",
+    "title": "REY REYES A BOROJOL KARAOKE 1",
+    "titles": {
+      "spa": "REY REYES A BOROJOL KARAOKE 1"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:44:00.980Z",
+    "modified_at": "2022-11-03T16:44:01.474Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ec3b37025f58e148e52774d7bf68665d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8114145,
+      "gain": -4.24,
+      "duration": 337,
+      "loudnorm": "-14.22,-0.35,1.70,-24.27,-0.23",
+      "filename": "processed_60ad96d8b84d6639b3eb34cc31a7b1e4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - KANY GARCIA - - Kany Garcia - Si Ya No Estas Conmigo.mp3",
+      "loudnorm": "-13.44,0.84,5.40,-23.55,-1.39",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - KANY GARCIA - - Kany Garcia - Si Ya No Estas Conmigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c4e4d30d-2f59-4ed7-a065-a695c639c510",
+    "title": "Kany García - Si Ya No Estas Conmigo",
+    "titles": {
+      "spa": "Kany García - Si Ya No Estas Conmigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "70cc1a1d-328b-441c-891e-d1f94da4b54f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:31:25.886Z",
+    "modified_at": "2022-11-03T08:31:26.304Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7f846952ee681ee2cd5f363a0e32c41b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5056565,
+      "gain": -3.49,
+      "duration": 210,
+      "loudnorm": "-13.44,0.84,5.40,-23.55,-1.39",
+      "filename": "processed_ff5d059123134aaba07aedce4881ec3f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

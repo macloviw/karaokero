@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - UN DIA TU UN DIA YO.MP3",
+      "loudnorm": "-18.04,-1.70,8.90,-28.39,-0.69",
+      "duration": 183,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Julio Iglesias - - JULIO IGLESIAS - UN DIA TU UN DIA YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4ab9c570-01c3-4858-bb9c-fb7a03ddb472",
+    "title": "JULIO IGLESIAS   -   UN DIA TU UN DIA YO",
+    "titles": {
+      "spa": "JULIO IGLESIAS   -   UN DIA TU UN DIA YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c454c392-a12b-46ab-a7d8-067b89bd0427"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:20:54.572Z",
+    "modified_at": "2022-11-03T08:20:55.157Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2939512,
+      "gain": -1.04,
+      "duration": 183,
+      "loudnorm": "-18.04,-1.70,8.90,-28.39,-0.69",
+      "filename": "processed_62a53a9e95de07e18e6d57505931942a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2939512,
+      "gain": -1.04,
+      "duration": 183,
+      "loudnorm": "-18.04,-1.70,8.90,-28.39,-0.69",
+      "filename": "processed_72a29e947ce1540b3f81b325475b755b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

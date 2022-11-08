@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LUPITA DALESIO - - TIEMPO DE ROSAS.mp3",
+      "loudnorm": "-18.74,-0.10,3.50,-28.83,0.02",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LUPITA DALESIO - - TIEMPO DE ROSAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "583e06b7-86d9-4481-be3b-fad2f1269aaa",
+    "title": "TIEMPO DE ROSAS",
+    "titles": {
+      "spa": "TIEMPO DE ROSAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "42dde4f6-e1db-4a9b-84ce-597ca38cd783"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:43:02.758Z",
+    "modified_at": "2022-11-03T09:43:03.182Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_968c5c3756f875747ac78046a540d60b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5924248,
+      "gain": 2.03,
+      "duration": 246,
+      "loudnorm": "-18.74,-0.10,3.50,-28.83,0.02",
+      "filename": "processed_f3b0242a5ff4690e23c819c288d288d3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

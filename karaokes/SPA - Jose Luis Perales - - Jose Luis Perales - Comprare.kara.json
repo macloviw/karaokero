@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Comprare.mp3",
+      "loudnorm": "-10.62,4.16,8.30,-20.96,-1.77",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Jose Luis Perales - - Jose Luis Perales - Comprare.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81a6ebe5-0480-4a10-9751-ef39573f1c7a",
+    "title": "José Luis Perales - Compraré",
+    "titles": {
+      "spa": "José Luis Perales - Compraré"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "df634976-c160-449b-a07b-165844ac8cd8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T07:37:12.238Z",
+    "modified_at": "2022-11-03T07:37:12.645Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d70f7fc20c2e94d4e5b93d9c1d70bf68.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3120162,
+      "gain": -6.86,
+      "duration": 194,
+      "loudnorm": "-10.62,4.16,8.30,-20.96,-1.77",
+      "filename": "processed_12b791bb890c2bc97c21fbe2698a5235.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

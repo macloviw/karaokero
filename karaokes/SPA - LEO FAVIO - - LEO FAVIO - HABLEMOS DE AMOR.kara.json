@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - HABLEMOS DE AMOR.MP3",
+      "loudnorm": "-15.50,-0.14,3.80,-25.74,-0.55",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - HABLEMOS DE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b6674c7d-11d4-4181-8152-3fc66ea782df",
+    "title": "LEO FAVIO   -   HABLEMOS DE AMOR",
+    "titles": {
+      "spa": "LEO FAVIO   -   HABLEMOS DE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:47:53.843Z",
+    "modified_at": "2022-11-03T08:47:54.316Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3362449,
+      "gain": -2.11,
+      "duration": 210,
+      "loudnorm": "-15.50,-0.14,3.80,-25.74,-0.55",
+      "filename": "processed_7da2e51dc6f04faf26a6a4e5fb8c6fab.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3362449,
+      "gain": -2.11,
+      "duration": 210,
+      "loudnorm": "-15.50,-0.14,3.80,-25.74,-0.55",
+      "filename": "processed_ad99fadce69d04458df0e60703792cf6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

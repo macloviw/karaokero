@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LOLITA FLORES - - LOLITA - AMOR AMOR.mp3",
+      "loudnorm": "-16.93,-2.49,3.60,-26.97,-0.87",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LOLITA FLORES - - LOLITA - AMOR AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5df043b1-c8fd-4350-95e3-7c5327a6bf5c",
+    "title": "LOLITA - AMOR AMOR",
+    "titles": {
+      "spa": "LOLITA - AMOR AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4776cc04-3f16-45b6-abea-8ccc87e510f4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:48:28.948Z",
+    "modified_at": "2022-11-03T22:48:29.333Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8fb60e501d3eb07aef6b3195df3e5897.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6066563,
+      "gain": 0.51,
+      "duration": 252,
+      "loudnorm": "-16.93,-2.49,3.60,-26.97,-0.87",
+      "filename": "processed_8083e96d86f0233cfd8c26c7d719505a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

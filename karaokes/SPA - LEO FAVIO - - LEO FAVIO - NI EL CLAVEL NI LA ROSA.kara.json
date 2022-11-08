@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO FAVIO - - LEO FAVIO - NI EL CLAVEL NI LA ROSA.MP3",
+      "loudnorm": "-11.46,1.93,5.50,-21.69,-1.21",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO FAVIO - - LEO FAVIO - NI EL CLAVEL NI LA ROSA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "076de0ce-a72e-4f75-93e8-96dff800016b",
+    "title": "LEO FAVIO   -   NI EL CLAVEL NI LA ROSA",
+    "titles": {
+      "spa": "LEO FAVIO   -   NI EL CLAVEL NI LA ROSA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "377fc526-f7f9-4eee-afb1-e200c04a3d5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:49:44.458Z",
+    "modified_at": "2022-11-03T08:49:45.053Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9001893,
+      "gain": -5.38,
+      "duration": 225,
+      "loudnorm": "-11.46,1.93,5.50,-21.69,-1.21",
+      "filename": "processed_763ebc852ae5571b021ed131cf5b801f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9001893,
+      "gain": -5.38,
+      "duration": 225,
+      "loudnorm": "-11.46,1.93,5.50,-21.69,-1.21",
+      "filename": "processed_4134857a60c1e1592096f760e987150c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

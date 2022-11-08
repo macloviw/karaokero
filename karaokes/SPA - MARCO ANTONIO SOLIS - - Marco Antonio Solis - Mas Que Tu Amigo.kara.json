@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Mas Que Tu Amigo.mp3",
+      "loudnorm": "-8.22,8.87,3.10,-18.27,-0.79",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - MARCO ANTONIO SOLIS - - Marco Antonio Solis - Mas Que Tu Amigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c46fb783-4cf7-477b-bb6a-8b3871866cf6",
+    "title": "Marco Antonio Solis - Mas Que Tu Amigo",
+    "titles": {
+      "spa": "Marco Antonio Solis - Mas Que Tu Amigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58780b99-fa6f-4f7b-bc8c-22731299b7d7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T09:49:55.290Z",
+    "modified_at": "2022-11-03T09:49:55.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1be4ca6506d0ec06fd15c7260da037ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3551991,
+      "gain": -9.36,
+      "duration": 221,
+      "loudnorm": "-8.22,8.87,3.10,-18.27,-0.79",
+      "filename": "processed_3b3c09d42285ed2b511c4a4f22883a2f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

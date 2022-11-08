@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Javier Solis - - Media vuelta.mp3",
+      "loudnorm": "-11.09,1.03,1.80,-21.25,0.14",
+      "duration": 133,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Javier Solis - - Media vuelta.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1ee0a99a-d66d-4a89-8066-3d1874a0a391",
+    "title": "Media vuelta",
+    "titles": {
+      "spa": "Media vuelta"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d3e87067-f727-4765-aa10-1bc0b26ddbcf"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T06:07:51.550Z",
+    "modified_at": "2022-11-03T06:07:51.957Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fc5e4bf2005fdf38680175b96ed60d3c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2138324,
+      "gain": -4.79,
+      "duration": 133,
+      "loudnorm": "-11.09,1.03,1.80,-21.25,0.14",
+      "filename": "processed_0638e9e53cee36ed6ea12567a4119e13.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

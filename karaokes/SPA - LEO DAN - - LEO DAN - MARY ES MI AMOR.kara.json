@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - LEO DAN - - LEO DAN - MARY ES MI AMOR.MP3",
+      "loudnorm": "-10.81,3.67,3.40,-20.89,-0.61",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - LEO DAN - - LEO DAN - MARY ES MI AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6dae1a7-79aa-4ba6-ac52-62a9b0d61463",
+    "title": "LEO DAN   -   MARY ES MI AMOR",
+    "titles": {
+      "spa": "LEO DAN   -   MARY ES MI AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "232f151c-62a1-4cf7-9f0e-1f34c9fa8efe"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T08:44:33.114Z",
+    "modified_at": "2022-11-03T08:44:33.672Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 7667558,
+      "gain": -4.85,
+      "duration": 191,
+      "loudnorm": "-10.81,3.67,3.40,-20.89,-0.61",
+      "filename": "processed_a6042bb367bfe01dfea91bd2bf08975e.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7667558,
+      "gain": -4.85,
+      "duration": 191,
+      "loudnorm": "-10.81,3.67,3.40,-20.89,-0.61",
+      "filename": "processed_f14905ba3b3d35e775494583324ec574.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}
