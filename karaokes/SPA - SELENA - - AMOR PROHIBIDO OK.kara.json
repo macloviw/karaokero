@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SELENA - - AMOR PROHIBIDO OK.mp3",
+      "loudnorm": "-16.23,0.09,3.70,-26.47,-0.54",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SELENA - - AMOR PROHIBIDO OK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3115c296-6160-4b6a-9df0-6be710f6cd9a",
+    "title": "AMOR PROHIBIDO OK",
+    "titles": {
+      "spa": "AMOR PROHIBIDO OK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e496a38-cebe-46dd-a3fc-e91629d85cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:21:04.410Z",
+    "modified_at": "2022-11-03T23:21:04.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dbc1c14497cf4f1c96561d962ba3a2c8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4473512,
+      "gain": -1.75,
+      "duration": 186,
+      "loudnorm": "-16.23,0.09,3.70,-26.47,-0.54",
+      "filename": "processed_bce822c4e95660c58145e7dcb5b91513.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

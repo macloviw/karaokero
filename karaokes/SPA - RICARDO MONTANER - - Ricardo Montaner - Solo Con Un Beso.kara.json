@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - Ricardo Montaner - Solo Con Un Beso.mp3",
+      "loudnorm": "-13.84,1.53,10.30,-24.08,-1.73",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - Ricardo Montaner - Solo Con Un Beso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ae06f922-dfe1-4b26-96f4-aae2341d5286",
+    "title": "Ricardo Montaner - Solo Con Un Beso",
+    "titles": {
+      "spa": "Ricardo Montaner - Solo Con Un Beso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:18:14.931Z",
+    "modified_at": "2022-11-03T12:18:15.450Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1cb9e4b30eab3fa3cecda334d4a740e5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3319399,
+      "gain": -4.75,
+      "duration": 207,
+      "loudnorm": "-13.84,1.53,10.30,-24.08,-1.73",
+      "filename": "processed_1d117cc30ae8294d4d1fa0237a6ca9d2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

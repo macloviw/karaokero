@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SODA ESTEREO - - Soda Stereo - Persiana Americana.mp3",
+      "loudnorm": "-11.18,0.98,1.10,-21.27,-0.15",
+      "duration": 296,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SODA ESTEREO - - Soda Stereo - Persiana Americana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f23b2aec-96f2-443d-b9c3-cd032b4c083d",
+    "title": "Soda Stereo - Persiana Americana",
+    "titles": {
+      "spa": "Soda Stereo - Persiana Americana"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7b53b633-a1c6-46db-ad49-b2e22ffec0b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:17:43.809Z",
+    "modified_at": "2022-11-03T13:17:44.229Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2e43fff917b89d3d98f7371abe2f16b9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7124993,
+      "gain": -3.23,
+      "duration": 296,
+      "loudnorm": "-11.18,0.98,1.10,-21.27,-0.15",
+      "filename": "processed_f5c4068c42207863c3c1420b63625286.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

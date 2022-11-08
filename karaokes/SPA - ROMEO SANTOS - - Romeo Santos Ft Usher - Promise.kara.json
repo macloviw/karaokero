@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - Romeo Santos Ft Usher - Promise.mp3",
+      "loudnorm": "-11.77,3.32,11.00,-22.18,-0.86",
+      "duration": 270,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - Romeo Santos Ft Usher - Promise.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0642292-c468-46f1-bbbf-1192305e0b7c",
+    "title": "Romeo Santos Ft Usher - Promise",
+    "titles": {
+      "spa": "Romeo Santos Ft Usher - Promise"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:29:04.871Z",
+    "modified_at": "2022-11-03T00:29:05.306Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3d08bd452f1e37dec837fb2dae03cc44.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4334749,
+      "gain": -5.76,
+      "duration": 270,
+      "loudnorm": "-11.77,3.32,11.00,-22.18,-0.86",
+      "filename": "processed_64feae0736c675f1287199df861454ad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Michael Jackson - - Gone Too Soon.mp3",
+      "loudnorm": "-12.69,0.23,5.20,-22.78,-0.53",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Michael Jackson - - Gone Too Soon.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "23b307f5-be48-4820-bf2b-e375792fd270",
+    "title": "Gone Too Soon",
+    "titles": {
+      "spa": "Gone Too Soon"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "6678bc48-74d4-4249-850b-8671ca1c6fed"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:00:50.167Z",
+    "modified_at": "2022-11-02T22:00:50.850Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2d1573d5d5e743623c0a3307f1b39c0f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3383475,
+      "gain": -5.19,
+      "duration": 211,
+      "loudnorm": "-12.69,0.23,5.20,-22.78,-0.53",
+      "filename": "processed_bcbaf74fe21f48c496c9a8b6ae55c57d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SELENA - - ENAMORADO DE TI - SELENA.mp3",
+      "loudnorm": "-15.93,-0.34,3.10,-25.99,-0.52",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SELENA - - ENAMORADO DE TI - SELENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a1897bc5-5fcf-4445-a255-321b776eaf0c",
+    "title": "ENAMORADO DE TI - SELENA",
+    "titles": {
+      "spa": "ENAMORADO DE TI - SELENA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e496a38-cebe-46dd-a3fc-e91629d85cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:56:26.523Z",
+    "modified_at": "2022-11-03T12:56:26.935Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8008a61af59da71df162bd9ba75ae5e5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6762465,
+      "gain": -1.23,
+      "duration": 281,
+      "loudnorm": "-15.93,-0.34,3.10,-25.99,-0.52",
+      "filename": "processed_44c0e6665600418a5fa7d3ccb5dcbcdf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

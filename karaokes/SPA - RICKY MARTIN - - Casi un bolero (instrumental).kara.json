@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICKY MARTIN - - Casi un bolero (instrumental).mp3",
+      "loudnorm": "-15.05,0.80,5.70,-25.14,-1.11",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICKY MARTIN - - Casi un bolero (instrumental).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ea0e3f98-b480-4e60-bb99-a5b0082a85df",
+    "title": "Casi un bolero (instrumental)",
+    "titles": {
+      "spa": "Casi un bolero (instrumental)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "593f5cdd-4f71-4e50-8e75-295fe4909d33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:55:44.265Z",
+    "modified_at": "2022-11-03T13:55:44.693Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_345d73ddf556a17e2d1c7f75eae4e07b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4507786,
+      "gain": -3.91,
+      "duration": 281,
+      "loudnorm": "-15.05,0.80,5.70,-25.14,-1.11",
+      "filename": "processed_31f4a6d8caeb7ab9263b31352d48b032.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

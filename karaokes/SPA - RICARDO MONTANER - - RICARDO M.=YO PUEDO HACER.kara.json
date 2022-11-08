@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO M.=YO PUEDO HACER.MP3",
+      "loudnorm": "-13.40,2.37,8.20,-23.53,-0.65",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO M.=YO PUEDO HACER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e8fb0a6c-5832-419d-924e-05a383ee2e7c",
+    "title": "RICARDO M.=YO PUEDO HACER",
+    "titles": {
+      "spa": "RICARDO M.=YO PUEDO HACER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:12:46.226Z",
+    "modified_at": "2022-11-03T12:12:46.850Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3938526,
+      "gain": -4.46,
+      "duration": 246,
+      "loudnorm": "-13.40,2.37,8.20,-23.53,-0.65",
+      "filename": "processed_892a51ddce56a3586c4404af35591827.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3938526,
+      "gain": -4.46,
+      "duration": 246,
+      "loudnorm": "-13.40,2.37,8.20,-23.53,-0.65",
+      "filename": "processed_5f821f94ce0fe31501d8f0a271d97f27.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

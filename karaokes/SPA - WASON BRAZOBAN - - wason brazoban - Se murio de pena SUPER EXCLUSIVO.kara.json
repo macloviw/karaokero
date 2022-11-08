@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WASON BRAZOBAN - - wason brazoban - Se murio de pena SUPER EXCLUSIVO.mp3",
+      "loudnorm": "-12.30,0.50,5.40,-22.51,-0.97",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WASON BRAZOBAN - - wason brazoban - Se murio de pena SUPER EXCLUSIVO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da79981d-97a5-4b04-85a3-f615de3301e6",
+    "title": "wason brazoban - Se murio de pena SUPER EXCLUSIVO",
+    "titles": {
+      "spa": "wason brazoban - Se murio de pena SUPER EXCLUSIVO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "83516fc8-5767-4e4f-8b74-9139a420585e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:36:23.833Z",
+    "modified_at": "2022-11-03T13:36:24.285Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_79b6546eb2d3ede8bf770d19a0f3c4a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6140031,
+      "gain": -5.23,
+      "duration": 255,
+      "loudnorm": "-12.30,0.50,5.40,-22.51,-0.97",
+      "filename": "processed_ac3d0a0b7e44ed34582d71c7d4692792.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

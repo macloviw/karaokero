@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - One Part Be My Lover.mp3",
+      "loudnorm": "-13.57,1.39,5.10,-23.59,-0.74",
+      "duration": 323,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - One Part Be My Lover.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "970efddf-9e8c-42eb-8efb-604d7844b021",
+    "title": "Raitt, Bonnie - One Part Be My Lover",
+    "titles": {
+      "spa": "Raitt, Bonnie - One Part Be My Lover"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d4054b12-6e75-4456-9cdf-9f9d30dffc1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:34:24.007Z",
+    "modified_at": "2022-11-04T01:34:24.398Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_654458c86d660f48809c438733b2ba5e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5181646,
+      "gain": -4.78,
+      "duration": 323,
+      "loudnorm": "-13.57,1.39,5.10,-23.59,-0.74",
+      "filename": "processed_325ba31dc04a2bf520239009ab9a9a19.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

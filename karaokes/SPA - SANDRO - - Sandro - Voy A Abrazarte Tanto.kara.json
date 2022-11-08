@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - Sandro - Voy A Abrazarte Tanto.MP3",
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "duration": 163,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - Sandro - Voy A Abrazarte Tanto.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb14238c-14f5-40f9-8a2b-018c940360bb",
+    "title": "Sandro - Voy A Abrazarte Tanto",
+    "titles": {
+      "spa": "Sandro - Voy A Abrazarte Tanto"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:55:40.241Z",
+    "modified_at": "2022-11-03T12:55:40.690Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2623488,
+      "gain": 4.65,
+      "duration": 163,
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "filename": "processed_c5c1f81789c19368010b70e184560fa4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2623488,
+      "gain": 4.65,
+      "duration": 163,
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "filename": "processed_68e37fdb84759de19b603823cbb2d788.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

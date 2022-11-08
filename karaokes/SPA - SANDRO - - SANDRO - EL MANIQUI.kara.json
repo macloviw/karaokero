@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - EL MANIQUI.MP3",
+      "loudnorm": "-16.65,-0.03,8.70,-26.92,-1.03",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - EL MANIQUI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ab56196b-35bc-44ca-ae35-411d349359aa",
+    "title": "SANDRO   -   EL MANIQUI",
+    "titles": {
+      "spa": "SANDRO   -   EL MANIQUI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:51:34.313Z",
+    "modified_at": "2022-11-03T12:51:34.927Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3297666,
+      "gain": -2.44,
+      "duration": 205,
+      "loudnorm": "-16.65,-0.03,8.70,-26.92,-1.03",
+      "filename": "processed_a31b52090d1b1a252a6274815a458a07.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3297666,
+      "gain": -2.44,
+      "duration": 205,
+      "loudnorm": "-16.65,-0.03,8.70,-26.92,-1.03",
+      "filename": "processed_c28162ea37e27e68c884068d36d1389b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

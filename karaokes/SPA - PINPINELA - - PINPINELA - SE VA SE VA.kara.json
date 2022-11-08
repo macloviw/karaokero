@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PINPINELA - - PINPINELA - SE VA SE VA.MP3",
+      "loudnorm": "-10.42,2.38,2.60,-20.50,-0.91",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PINPINELA - - PINPINELA - SE VA SE VA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24e2e4d6-1bcb-45aa-b23d-a80d08e3c982",
+    "title": "PINPINELA                                               -   SE VA SE VA",
+    "titles": {
+      "spa": "PINPINELA                                               -   SE VA SE VA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8cd72eb1-94f7-4017-8f10-0825b6f20308"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:28:19.449Z",
+    "modified_at": "2022-11-03T11:28:19.922Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3108330,
+      "gain": -5.22,
+      "duration": 194,
+      "loudnorm": "-10.42,2.38,2.60,-20.50,-0.91",
+      "filename": "processed_6c82fc1aa95f3232b44bf35bc77302fd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3108330,
+      "gain": -5.22,
+      "duration": 194,
+      "loudnorm": "-10.42,2.38,2.60,-20.50,-0.91",
+      "filename": "processed_c5fae47882be5fdbead233171b871022.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

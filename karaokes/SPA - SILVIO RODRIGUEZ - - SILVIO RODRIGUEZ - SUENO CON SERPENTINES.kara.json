@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - SUENO CON SERPENTINES.MP3",
+      "loudnorm": "-8.74,2.98,6.20,-18.80,-1.13",
+      "duration": 362,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - SUENO CON SERPENTINES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "46ea725f-828a-4aee-b013-7648668373ca",
+    "title": "SILVIO RODRIGUEZ   -   SUEÑO CON SERPENTINES",
+    "titles": {
+      "spa": "SILVIO RODRIGUEZ   -   SUEÑO CON SERPENTINES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b85a6a0-8d23-405c-aba0-9356cc61bf8a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:08:44.071Z",
+    "modified_at": "2022-11-03T13:08:44.706Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5806126,
+      "gain": -8.55,
+      "duration": 362,
+      "loudnorm": "-8.74,2.98,6.20,-18.80,-1.13",
+      "filename": "processed_f1081f53f6bca550cb868a60627b5acd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5806126,
+      "gain": -8.55,
+      "duration": 362,
+      "loudnorm": "-8.74,2.98,6.20,-18.80,-1.13",
+      "filename": "processed_51897105cd33e49282fb8bd33c674cbf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

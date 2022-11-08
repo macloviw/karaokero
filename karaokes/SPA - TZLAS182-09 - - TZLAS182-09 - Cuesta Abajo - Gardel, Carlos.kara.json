@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - TZLAS182-09 - - TZLAS182-09 - Cuesta Abajo - Gardel, Carlos.mp3",
+      "loudnorm": "-14.16,-0.17,9.30,-24.92,-0.64",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - TZLAS182-09 - - TZLAS182-09 - Cuesta Abajo - Gardel, Carlos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "16c6695e-8431-44c3-b3ab-e6fcb86e4fa4",
+    "title": "TZLAS182-09 - Cuesta Abajo - Gardel, Carlos",
+    "titles": {
+      "spa": "TZLAS182-09 - Cuesta Abajo - Gardel, Carlos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e31f8966-5aeb-454f-8f43-dc20064c2a51"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:28:44.837Z",
+    "modified_at": "2022-11-03T23:28:45.212Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d419bad6078cb4cff2978e7544ea6667.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3256706,
+      "gain": -5.34,
+      "duration": 203,
+      "loudnorm": "-14.16,-0.17,9.30,-24.92,-0.64",
+      "filename": "processed_378539507274f1ea7766c43519cdd946.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

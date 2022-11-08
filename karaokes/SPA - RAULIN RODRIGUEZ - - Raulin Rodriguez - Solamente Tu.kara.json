@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Solamente Tu.mp3",
+      "loudnorm": "-14.55,0.96,2.00,-24.61,-0.15",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Solamente Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "464eb2a9-fdf6-4588-bad4-a3811190f1b3",
+    "title": "Raulin Rodriguez - Solamente Tu",
+    "titles": {
+      "spa": "Raulin Rodriguez - Solamente Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:23:30.285Z",
+    "modified_at": "2022-11-03T00:23:30.732Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90e2d4b91ac6a1882bf1550427715f6a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3718679,
+      "gain": -4.02,
+      "duration": 232,
+      "loudnorm": "-14.55,0.96,2.00,-24.61,-0.15",
+      "filename": "processed_e050efb1901f3850b62a78d6194a2087.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

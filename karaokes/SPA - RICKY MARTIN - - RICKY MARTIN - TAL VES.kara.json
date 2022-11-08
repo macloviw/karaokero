@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - TAL VES.MP3",
+      "loudnorm": "-9.28,3.60,7.40,-19.67,-1.70",
+      "duration": 282,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - TAL VES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8deaa20b-e11a-4019-ada3-84498a082e1c",
+    "title": "RICKY MARTIN  -  TAL VES",
+    "titles": {
+      "spa": "RICKY MARTIN  -  TAL VES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "593f5cdd-4f71-4e50-8e75-295fe4909d33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:23:39.236Z",
+    "modified_at": "2022-11-03T12:23:39.831Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4514763,
+      "gain": -8.12,
+      "duration": 282,
+      "loudnorm": "-9.28,3.60,7.40,-19.67,-1.70",
+      "filename": "processed_80344dce447898d0c4abc49b711b9814.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4514763,
+      "gain": -8.12,
+      "duration": 282,
+      "loudnorm": "-9.28,3.60,7.40,-19.67,-1.70",
+      "filename": "processed_43d1d626219cb637e457681566e1d1af.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - Amiga.MP3",
+      "loudnorm": "-17.56,-2.91,4.10,-27.72,-0.68",
+      "duration": 298,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - Amiga.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ad4a54c8-cc1c-4774-8c11-385e8619457a",
+    "title": "Miguel Bose - Amiga",
+    "titles": {
+      "spa": "Miguel Bose - Amiga"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:59:13.686Z",
+    "modified_at": "2022-11-03T22:59:14.260Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4773478,
+      "gain": -0.1,
+      "duration": 298,
+      "loudnorm": "-17.56,-2.91,4.10,-27.72,-0.68",
+      "filename": "processed_d6c6da90169f9bd80db1504b7b8ba577.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4773478,
+      "gain": -0.1,
+      "duration": 298,
+      "loudnorm": "-17.56,-2.91,4.10,-27.72,-0.68",
+      "filename": "processed_66e1c80f853fb813e4dbd02c7df80af5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

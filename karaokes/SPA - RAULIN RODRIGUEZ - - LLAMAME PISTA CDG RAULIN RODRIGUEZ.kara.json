@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - LLAMAME PISTA CDG RAULIN RODRIGUEZ.mp3",
+      "loudnorm": "-17.61,0.09,2.20,-27.65,-0.11",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - LLAMAME PISTA CDG RAULIN RODRIGUEZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ad34cc87-fd06-41eb-9ec7-699363c0df4c",
+    "title": "LLAMAME PISTA CDG RAULIN RODRIGUEZ",
+    "titles": {
+      "spa": "LLAMAME PISTA CDG RAULIN RODRIGUEZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:17:33.961Z",
+    "modified_at": "2022-11-03T00:17:34.380Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e58e4d37449e8ea390046e2f79661dab.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6647291,
+      "gain": -0.21,
+      "duration": 276,
+      "loudnorm": "-17.61,0.09,2.20,-27.65,-0.11",
+      "filename": "processed_4afab0070c0e692729a454e599ef2c7d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

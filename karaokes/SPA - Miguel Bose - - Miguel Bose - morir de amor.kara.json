@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - morir de amor.mp3",
+      "loudnorm": "-12.97,0.46,3.50,-23.08,-0.07",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - morir de amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "00f8e67f-cf7d-4011-9659-4b94efe5843c",
+    "title": "Miguel Bose - morir de amor",
+    "titles": {
+      "spa": "Miguel Bose - morir de amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:39:53.832Z",
+    "modified_at": "2022-11-03T10:39:54.353Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9dbb9c206c2f0b15f51072621db02181.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5433355,
+      "gain": -4.06,
+      "duration": 226,
+      "loudnorm": "-12.97,0.46,3.50,-23.08,-0.07",
+      "filename": "processed_d38852f03dc4464ae40f6646416acabd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

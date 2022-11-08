@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Scorpions - - Scorpions - Wind Of Change.mp3",
+      "loudnorm": "-15.56,-0.08,7.50,-25.64,-1.57",
+      "duration": 327,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Scorpions - - Scorpions - Wind Of Change.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "57feb73e-2d8b-4556-878f-d30e3c744f87",
+    "title": "Scorpions - Wind Of Change",
+    "titles": {
+      "spa": "Scorpions - Wind Of Change"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "c32f3d1a-508c-4cb5-a937-02276855bae4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:41:39.488Z",
+    "modified_at": "2022-11-04T01:41:39.878Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d264ee9bb471b543ad9d51e7eea18596.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5236706,
+      "gain": -2.2,
+      "duration": 327,
+      "loudnorm": "-15.56,-0.08,7.50,-25.64,-1.57",
+      "filename": "processed_7ef5dd0b4456173d472bdc3fce125c0f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

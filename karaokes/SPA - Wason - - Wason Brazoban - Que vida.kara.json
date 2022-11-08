@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Wason - - Wason Brazoban - Que vida.mp3",
+      "loudnorm": "-12.55,0.78,9.70,-22.81,-1.09",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Wason - - Wason Brazoban - Que vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85190342-b1b5-49da-b6f0-56794ade70db",
+    "title": "Wason Brazoban - Que vida",
+    "titles": {
+      "spa": "Wason Brazoban - Que vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "eeed9ec8-12c1-4b68-83bf-41f16ce8f2df"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:35:06.362Z",
+    "modified_at": "2022-11-03T13:35:06.788Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_77ae5add9ba42868c31b7d6daf351752.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5360138,
+      "gain": -6.1,
+      "duration": 223,
+      "loudnorm": "-12.55,0.78,9.70,-22.81,-1.09",
+      "filename": "processed_feed301d174eb3d3ba6859a6dd76bf00.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

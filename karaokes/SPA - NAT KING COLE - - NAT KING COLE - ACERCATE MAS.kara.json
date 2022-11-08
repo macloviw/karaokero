@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NAT KING COLE - - NAT KING COLE - ACERCATE MAS.MP3",
+      "loudnorm": "-16.29,-0.34,7.50,-26.86,0.01",
+      "duration": 173,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NAT KING COLE - - NAT KING COLE - ACERCATE MAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "af1ea5e6-be04-4471-a698-272ce710fb09",
+    "title": "NAT KING COLE  -  ACERCATE MAS",
+    "titles": {
+      "spa": "NAT KING COLE  -  ACERCATE MAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e143cd01-4ee9-42c3-aedf-8da35c635c0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:48:23.151Z",
+    "modified_at": "2022-11-03T10:48:23.858Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2785666,
+      "gain": 2.24,
+      "duration": 173,
+      "loudnorm": "-16.29,-0.34,7.50,-26.86,0.01",
+      "filename": "processed_46ffa1e7facb07ed77df777be53e438c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2785666,
+      "gain": 2.24,
+      "duration": 173,
+      "loudnorm": "-16.29,-0.34,7.50,-26.86,0.01",
+      "filename": "processed_8ced45b5929029f69c0cfee236e57fe9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

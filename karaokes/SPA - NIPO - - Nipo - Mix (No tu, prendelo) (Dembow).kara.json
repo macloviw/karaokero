@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NIPO - - Nipo - Mix (No tu, prendelo) (Dembow).mp3",
+      "loudnorm": "-16.33,-2.96,6.90,-26.42,-0.68",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NIPO - - Nipo - Mix (No tu, prendelo) (Dembow).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e551c37-0feb-4c5e-8330-b5186fcb0752",
+    "title": "Nipo - Mix (No tu, prendelo) (Dembow)",
+    "titles": {
+      "spa": "Nipo - Mix (No tu, prendelo) (Dembow)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "446bce78-adc9-4c78-893a-388e8022e934"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:37:25.845Z",
+    "modified_at": "2022-11-03T14:37:26.273Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0cebc58978ccb3b6cea820813e8967b1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4365167,
+      "gain": -0.53,
+      "duration": 181,
+      "loudnorm": "-16.33,-2.96,6.90,-26.42,-0.68",
+      "filename": "processed_c64fe66d784c41967a74ff4af9cfae6d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

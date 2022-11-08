@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - SI EL AMOR SE VA.MP3",
+      "loudnorm": "-15.02,3.58,4.40,-25.27,-0.74",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - SI EL AMOR SE VA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d1082090-f852-4c59-8663-55dc70c2053c",
+    "title": "ROBERTO CARLOS   -   SI EL AMOR SE VA",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   SI EL AMOR SE VA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:32:24.072Z",
+    "modified_at": "2022-11-03T12:32:24.546Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4165896,
+      "gain": -0.82,
+      "duration": 260,
+      "loudnorm": "-15.02,3.58,4.40,-25.27,-0.74",
+      "filename": "processed_15418e4a88517667c00faa0a4d2f3379.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4165896,
+      "gain": -0.82,
+      "duration": 260,
+      "loudnorm": "-15.02,3.58,4.40,-25.27,-0.74",
+      "filename": "processed_28800eb594fb693b44c818e5c6ecce29.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

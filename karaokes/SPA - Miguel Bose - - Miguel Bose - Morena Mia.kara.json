@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - Morena Mia.MP3",
+      "loudnorm": "-17.14,0.44,2.00,-27.26,-0.46",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - Morena Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d84d18a6-e8ac-4db4-97f7-c0189fa85c85",
+    "title": "Miguel Bose - Morena Mia",
+    "titles": {
+      "spa": "Miguel Bose - Morena Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:39:40.956Z",
+    "modified_at": "2022-11-03T10:39:41.632Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3808412,
+      "gain": -0.54,
+      "duration": 237,
+      "loudnorm": "-17.14,0.44,2.00,-27.26,-0.46",
+      "filename": "processed_948223422ad293b053bce7ade9e248cc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3808412,
+      "gain": -0.54,
+      "duration": 237,
+      "loudnorm": "-17.14,0.44,2.00,-27.26,-0.46",
+      "filename": "processed_ee9332a362293a76aff9efefb9088be0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

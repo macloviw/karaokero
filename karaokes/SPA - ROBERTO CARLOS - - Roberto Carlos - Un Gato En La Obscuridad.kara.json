@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Un Gato En La Obscuridad.mp3",
+      "loudnorm": "-12.83,1.89,11.50,-23.48,-2.07",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Un Gato En La Obscuridad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6cda4ed5-bf85-4d43-87dc-8cb50e1d98b1",
+    "title": "Roberto Carlos - Un Gato En La Obscuridad",
+    "titles": {
+      "spa": "Roberto Carlos - Un Gato En La Obscuridad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:34:42.971Z",
+    "modified_at": "2022-11-03T12:34:43.387Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5a69f24d7ccc58697a686ab9b9d665b2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5930296,
+      "gain": -4.43,
+      "duration": 247,
+      "loudnorm": "-12.83,1.89,11.50,-23.48,-2.07",
+      "filename": "processed_63571bea2ca97c32a2dbf4ee425ad792.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

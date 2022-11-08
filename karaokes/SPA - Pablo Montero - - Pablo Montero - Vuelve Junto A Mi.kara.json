@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Pablo Montero - - Pablo Montero - Vuelve Junto A Mi.mp3",
+      "loudnorm": "-9.14,6.24,3.30,-19.19,-0.43",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Pablo Montero - - Pablo Montero - Vuelve Junto A Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f3fe94b7-3f21-496b-86da-0530600a90a9",
+    "title": "Pablo Montero - Vuelve Junto A Mi",
+    "titles": {
+      "spa": "Pablo Montero - Vuelve Junto A Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3272332f-605e-4f02-af56-c6b2839f9293"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:10:39.500Z",
+    "modified_at": "2022-11-03T11:10:39.921Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61270a85a0cc0c25c9fd9d3f08be1e52.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4068298,
+      "gain": -8.34,
+      "duration": 254,
+      "loudnorm": "-9.14,6.24,3.30,-19.19,-0.43",
+      "filename": "processed_22358b14b1fd9fce5853daa0665e5973.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

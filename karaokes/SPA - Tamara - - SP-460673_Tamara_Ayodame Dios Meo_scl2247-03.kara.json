@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Tamara - - SP-460673_Tamara_Ayodame Dios Meo_scl2247-03.mp3",
+      "loudnorm": "-16.00,0.14,3.50,-26.20,-0.56",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Tamara - - SP-460673_Tamara_Ayodame Dios Meo_scl2247-03.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a3e816ea-d896-41f7-819d-7195a1745068",
+    "title": "SP-460673_Tamara_Ayòdame Dios Mêo_scl2247-03",
+    "titles": {
+      "spa": "SP-460673_Tamara_Ayòdame Dios Mêo_scl2247-03"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "00017c37-ef51-4873-aa96-d963304b87ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:24:49.655Z",
+    "modified_at": "2022-11-03T23:24:50.039Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a67ce262bb3e42a403e7b20ea2b8666f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3516554,
+      "gain": -1.34,
+      "duration": 219,
+      "loudnorm": "-16.00,0.14,3.50,-26.20,-0.56",
+      "filename": "processed_33181abbc1d497480e57f356fc34cf91.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

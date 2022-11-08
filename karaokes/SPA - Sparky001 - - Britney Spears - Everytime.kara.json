@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Sparky001 - - Britney Spears - Everytime.mp3",
+      "loudnorm": "-13.81,-1.98,6.80,-23.88,-1.45",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Sparky001 - - Britney Spears - Everytime.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb4c44db-6ecc-421c-90cf-cfdb85e7f661",
+    "title": "Britney Spears - Everytime",
+    "titles": {
+      "spa": "Britney Spears - Everytime"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "5762e682-d7b1-4330-bc05-18f0ae8ad73f"
+      ],
+      "singers": [
+        "9a4db72f-864c-4f79-8195-1a8f8880f0bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:33:06.851Z",
+    "modified_at": "2022-11-03T23:33:07.232Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ae3df525fa2a1c76c557feff60b769e3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3761180,
+      "gain": -3.73,
+      "duration": 235,
+      "loudnorm": "-13.81,-1.98,6.80,-23.88,-1.45",
+      "filename": "processed_77e4444806a945d05211fa3128246bdf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

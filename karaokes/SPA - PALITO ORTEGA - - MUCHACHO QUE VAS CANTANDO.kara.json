@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PALITO ORTEGA - - MUCHACHO QUE VAS CANTANDO.MP3",
+      "loudnorm": "-11.64,0.88,2.80,-21.88,-0.85",
+      "duration": 197,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PALITO ORTEGA - - MUCHACHO QUE VAS CANTANDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d954b09f-4098-4b6e-9a06-4757918fb74b",
+    "title": "MUCHACHO QUE VAS CANTANDO",
+    "titles": {
+      "spa": "MUCHACHO QUE VAS CANTANDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f80c6ac1-7343-4498-a12e-ad0d07065158"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:11:41.520Z",
+    "modified_at": "2022-11-03T11:11:41.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3156395,
+      "gain": -6.26,
+      "duration": 197,
+      "loudnorm": "-11.64,0.88,2.80,-21.88,-0.85",
+      "filename": "processed_260403171ebc31ad752ab8ee260bc3ca.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3156395,
+      "gain": -6.26,
+      "duration": 197,
+      "loudnorm": "-11.64,0.88,2.80,-21.88,-0.85",
+      "filename": "processed_317f98bfa02c481ea8c5acb003059426.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

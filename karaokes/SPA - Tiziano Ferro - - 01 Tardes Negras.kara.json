@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Tiziano Ferro - - 01 Tardes Negras.mp3",
+      "loudnorm": "-12.06,0.15,6.30,-22.52,0.37",
+      "duration": 262,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Tiziano Ferro - - 01 Tardes Negras.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "14c9a014-bfdd-4fdc-8c0b-c8e412b15055",
+    "title": "01 Tardes Negras",
+    "titles": {
+      "spa": "01 Tardes Negras"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "242b39ac-c225-4ada-b0a4-eff9a5d586d3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:27:26.175Z",
+    "modified_at": "2022-11-03T23:27:26.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4101952d73d87cc50c8d160cf5eaaae7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6456952,
+      "gain": -4.7,
+      "duration": 262,
+      "loudnorm": "-12.06,0.15,6.30,-22.52,0.37",
+      "filename": "processed_ed1074e65376b04b568f613e84e9cdc3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

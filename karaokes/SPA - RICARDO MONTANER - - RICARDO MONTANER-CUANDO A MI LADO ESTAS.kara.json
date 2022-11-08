@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER-CUANDO A MI LADO ESTAS.mp3",
+      "loudnorm": "-17.43,-0.22,11.80,-27.82,-2.52",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER-CUANDO A MI LADO ESTAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f4563049-b933-494c-acf8-b271ea32ffed",
+    "title": "RICARDO MONTANER-CUANDO A MI LADO ESTAS",
+    "titles": {
+      "spa": "RICARDO MONTANER-CUANDO A MI LADO ESTAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:18:42.112Z",
+    "modified_at": "2022-11-03T12:18:42.533Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b30b6e926ae722a24782e958b3e3b724.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3927581,
+      "gain": -0.95,
+      "duration": 280,
+      "loudnorm": "-17.43,-0.22,11.80,-27.82,-2.52",
+      "filename": "processed_e72969628730692d39d9b682176ca825.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

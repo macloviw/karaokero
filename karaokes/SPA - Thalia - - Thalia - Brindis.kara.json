@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Thalia - - Thalia - Brindis.mp3",
+      "loudnorm": "-11.99,0.19,8.10,-22.18,-1.61",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Thalia - - Thalia - Brindis.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4285b799-450b-4f83-a581-e65c8635583c",
+    "title": "Thalia - Brindis",
+    "titles": {
+      "spa": "Thalia - Brindis"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "82fc402c-292f-4634-8446-feb3d4184be4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:23:12.960Z",
+    "modified_at": "2022-11-03T13:23:13.421Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_502ac50ec082e614eb421d95b88fe181.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6407618,
+      "gain": -6.46,
+      "duration": 266,
+      "loudnorm": "-11.99,0.19,8.10,-22.18,-1.61",
+      "filename": "processed_dda24037882ce23e8eab5b73c6fcdbd1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

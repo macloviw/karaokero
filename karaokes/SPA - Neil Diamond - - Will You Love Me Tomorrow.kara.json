@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Neil Diamond - - Will You Love Me Tomorrow.MP3",
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Neil Diamond - - Will You Love Me Tomorrow.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4dbbfa76-b894-40fd-b6aa-9b2995b80450",
+    "title": "Will You Love Me Tomorrow",
+    "titles": {
+      "spa": "Will You Love Me Tomorrow"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "d3ff6a35-4563-48c9-a2f4-2a4054fe4f0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:35:19.895Z",
+    "modified_at": "2022-11-02T20:35:20.716Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3362816,
+      "gain": -0.98,
+      "duration": 210,
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "filename": "processed_e5127d5e584e70296ff8486fd45baa9f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3362816,
+      "gain": -0.98,
+      "duration": 210,
+      "loudnorm": "-16.64,-0.96,3.70,-26.69,-0.80",
+      "filename": "processed_aeb1b7af37e61dfd9a53a8358016578b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

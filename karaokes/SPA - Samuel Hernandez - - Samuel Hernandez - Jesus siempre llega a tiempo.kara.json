@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Jesus siempre llega a tiempo.mp3",
+      "loudnorm": "-13.62,0.99,11.80,-24.01,-1.08",
+      "duration": 314,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Jesus siempre llega a tiempo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "16394503-f9e6-4caa-aae8-8837c2c14780",
+    "title": "Samuel Hernandez - Jesus siempre llega a tiempo",
+    "titles": {
+      "spa": "Samuel Hernandez - Jesus siempre llega a tiempo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "ee4e5b74-9c34-4d9d-ab92-dbae9961834d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:30:38.744Z",
+    "modified_at": "2022-11-03T14:30:39.154Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f398c4b248437f392c4a47effe311dd8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5032741,
+      "gain": -3.92,
+      "duration": 314,
+      "loudnorm": "-13.62,0.99,11.80,-24.01,-1.08",
+      "filename": "processed_11714262877b092fa59f1ec45e7098c0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

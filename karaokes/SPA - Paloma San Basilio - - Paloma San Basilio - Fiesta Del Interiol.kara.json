@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Fiesta Del Interiol.MP3",
+      "loudnorm": "-18.83,-2.22,5.80,-29.02,0.08",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Fiesta Del Interiol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d49126f-415b-4e9e-9f8a-a3dd4526f679",
+    "title": "Paloma San Basilio - Fiesta Del Interiol",
+    "titles": {
+      "spa": "Paloma San Basilio - Fiesta Del Interiol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "812e5fc3-0e59-4cc5-8728-c6d83892bad2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:13:11.297Z",
+    "modified_at": "2022-11-03T11:13:11.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3744882,
+      "gain": 0.17,
+      "duration": 233,
+      "loudnorm": "-18.83,-2.22,5.80,-29.02,0.08",
+      "filename": "processed_3bff62e9feb1fa4d23baf42fa1d64642.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3744882,
+      "gain": 0.17,
+      "duration": 233,
+      "loudnorm": "-18.83,-2.22,5.80,-29.02,0.08",
+      "filename": "processed_4cc5897dae171736edae655f410a97af.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

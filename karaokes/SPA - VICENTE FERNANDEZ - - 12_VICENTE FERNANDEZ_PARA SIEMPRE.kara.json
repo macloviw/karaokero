@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - VICENTE FERNANDEZ - - 12_VICENTE FERNANDEZ_PARA SIEMPRE.mp3",
+      "loudnorm": "-12.45,-0.17,4.10,-22.77,-0.48",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - VICENTE FERNANDEZ - - 12_VICENTE FERNANDEZ_PARA SIEMPRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e629f7f3-1684-4d8c-9d23-f6746af6aeb4",
+    "title": "12_VICENTE FERNANDEZ_PARA SIEMPRE",
+    "titles": {
+      "spa": "12_VICENTE FERNANDEZ_PARA SIEMPRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:29:29.339Z",
+    "modified_at": "2022-11-03T23:29:29.710Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_45d592ec5e740227da5f1fbdff374948.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4101403,
+      "gain": -4.61,
+      "duration": 170,
+      "loudnorm": "-12.45,-0.17,4.10,-22.77,-0.48",
+      "filename": "processed_0636ccd378c73f048d5bf258e6186a1d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

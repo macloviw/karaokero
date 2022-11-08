@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - El Guachiman.mp3",
+      "loudnorm": "-10.31,0.50,2.90,-20.38,-0.71",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - El Guachiman.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d730cec2-5b4c-42c3-b9c6-741248ba012d",
+    "title": "SONIA SILVESTRE - El Guachiman",
+    "titles": {
+      "spa": "SONIA SILVESTRE - El Guachiman"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "954a2b17-857b-4881-a9c0-53d9326fcbf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:19:11.170Z",
+    "modified_at": "2022-11-03T13:19:11.607Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f4ebf7cb4217449e7474bb644aedbdb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3835916,
+      "gain": -7.42,
+      "duration": 191,
+      "loudnorm": "-10.31,0.50,2.90,-20.38,-0.71",
+      "filename": "processed_5135ec193f3e00b54d2f0fa4c3a1b4c6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

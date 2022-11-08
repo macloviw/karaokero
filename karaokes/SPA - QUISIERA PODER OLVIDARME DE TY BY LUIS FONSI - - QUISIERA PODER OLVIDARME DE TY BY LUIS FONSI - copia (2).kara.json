@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - - QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - copia (2).MP3",
+      "loudnorm": "-16.41,-0.24,6.60,-26.48,-1.63",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - - QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - copia (2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "45170a9d-8a09-48dd-b9a5-a1f188ac0295",
+    "title": "QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - copia (2)",
+    "titles": {
+      "spa": "QUISIERA PODER OLVIDARME DE TY BY LUIS FONSI - copia (2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cc8ce454-4961-4789-806a-edd4581a85ce"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:11:52.363Z",
+    "modified_at": "2022-11-03T23:11:52.936Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4437022,
+      "gain": -1.55,
+      "duration": 277,
+      "loudnorm": "-16.41,-0.24,6.60,-26.48,-1.63",
+      "filename": "processed_cc2f7915864f0d7314999e87ebeef1bd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4437022,
+      "gain": -1.55,
+      "duration": 277,
+      "loudnorm": "-16.41,-0.24,6.60,-26.48,-1.63",
+      "filename": "processed_7217f6f6aad650264a3ab341bcdb8ab5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

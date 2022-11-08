@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SFG213 - - Justin Timberlake - I'm Lovin It.mp3",
+      "loudnorm": "-11.34,2.60,2.30,-21.48,-0.26",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SFG213 - - Justin Timberlake - I'm Lovin It.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e2c16f22-fbff-4a09-88ca-d43f3f81d6df",
+    "title": "Justin Timberlake - I'm Lovin It",
+    "titles": {
+      "spa": "Justin Timberlake - I'm Lovin It"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "8840df6f-3c23-4857-9f6a-5b3c152a6911"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:42:27.703Z",
+    "modified_at": "2022-11-04T01:42:28.089Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_32dbec0f2316ba7cf0c13fdd83fdc4a1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3896660,
+      "gain": -6.03,
+      "duration": 243,
+      "loudnorm": "-11.34,2.60,2.30,-21.48,-0.26",
+      "filename": "processed_cdb678c6c5d797b4059d116c539ac86a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

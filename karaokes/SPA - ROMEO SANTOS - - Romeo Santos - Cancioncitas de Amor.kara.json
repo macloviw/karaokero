@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - Romeo Santos - Cancioncitas de Amor.mp3",
+      "loudnorm": "-11.60,3.15,2.60,-21.77,-0.48",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - Romeo Santos - Cancioncitas de Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3498fcc-955e-4a96-a13d-b7dfc84470f5",
+    "title": "Romeo Santos - Cancioncitas de Amor",
+    "titles": {
+      "spa": "Romeo Santos - Cancioncitas de Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:27:47.391Z",
+    "modified_at": "2022-11-03T00:27:47.833Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_642a3528485b8328a37420fdc671e416.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4744209,
+      "gain": -5.55,
+      "duration": 236,
+      "loudnorm": "-11.60,3.15,2.60,-21.77,-0.48",
+      "filename": "processed_7cb59be61aad3cc225171e77dcf61d0c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

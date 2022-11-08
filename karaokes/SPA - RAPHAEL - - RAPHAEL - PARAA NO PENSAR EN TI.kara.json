@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHAEL - - RAPHAEL - PARAA NO PENSAR EN TI.MP3",
+      "loudnorm": "-17.40,-5.09,2.80,-27.50,-0.35",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHAEL - - RAPHAEL - PARAA NO PENSAR EN TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "afa9f915-5a7c-4211-b95e-71252a8526bd",
+    "title": "RAPHAEL   -   PARAA NO PENSAR EN TI",
+    "titles": {
+      "spa": "RAPHAEL   -   PARAA NO PENSAR EN TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:37:35.067Z",
+    "modified_at": "2022-11-03T11:37:35.710Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3519731,
+      "gain": 0.44,
+      "duration": 219,
+      "loudnorm": "-17.40,-5.09,2.80,-27.50,-0.35",
+      "filename": "processed_05dcc632a830090a2359930ca9ffd0ca.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3519731,
+      "gain": 0.44,
+      "duration": 219,
+      "loudnorm": "-17.40,-5.09,2.80,-27.50,-0.35",
+      "filename": "processed_9774132606fccd464d6dcf33d58f8a97.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

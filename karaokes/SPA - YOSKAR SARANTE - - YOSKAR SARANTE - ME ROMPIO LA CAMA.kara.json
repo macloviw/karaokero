@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - ME ROMPIO LA CAMA.MP3",
+      "loudnorm": "-9.72,6.05,2.60,-19.90,-0.32",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - ME ROMPIO LA CAMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c2cf7b7b-2256-460f-8e33-1c6da41a0ed9",
+    "title": "YOSKAR SARANTE - ME ROMPIO LA CAMA",
+    "titles": {
+      "spa": "YOSKAR SARANTE - ME ROMPIO LA CAMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:11:17.024Z",
+    "modified_at": "2022-11-02T20:11:17.653Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4311764,
+      "gain": -7.04,
+      "duration": 269,
+      "loudnorm": "-9.72,6.05,2.60,-19.90,-0.32",
+      "filename": "processed_6960926795f741bdc392b5d1c8ec3e01.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4311764,
+      "gain": -7.04,
+      "duration": 269,
+      "loudnorm": "-9.72,6.05,2.60,-19.90,-0.32",
+      "filename": "processed_bff6ec62f10c5a377e9b3bd08280a741.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

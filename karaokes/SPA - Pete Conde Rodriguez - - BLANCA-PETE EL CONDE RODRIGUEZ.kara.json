@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Pete Conde Rodriguez - - BLANCA-PETE EL CONDE RODRIGUEZ.mp3",
+      "loudnorm": "-11.53,0.71,4.70,-21.57,-0.78",
+      "duration": 159,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Pete Conde Rodriguez - - BLANCA-PETE EL CONDE RODRIGUEZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60fd52dd-90d2-4431-8390-18600c02334e",
+    "title": "BLANCA-PETE EL CONDE RODRIGUEZ",
+    "titles": {
+      "spa": "BLANCA-PETE EL CONDE RODRIGUEZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0a37a045-8571-4c03-9588-edcf3071ec9f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:09:38.393Z",
+    "modified_at": "2022-11-03T23:09:38.764Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_efbb8e38aa88a6b92992390024947a22.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2548758,
+      "gain": -7.25,
+      "duration": 159,
+      "loudnorm": "-11.53,0.71,4.70,-21.57,-0.78",
+      "filename": "processed_dd067e3fa96288281dfde55f658364b5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

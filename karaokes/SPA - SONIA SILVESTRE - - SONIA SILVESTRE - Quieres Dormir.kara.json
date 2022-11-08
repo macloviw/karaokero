@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - Quieres Dormir.mp3",
+      "loudnorm": "-12.89,-1.68,3.00,-22.99,-0.23",
+      "duration": 258,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - Quieres Dormir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "254aa2a1-36c6-414e-a017-a9fb35894a08",
+    "title": "SONIA SILVESTRE - Quieres Dormir",
+    "titles": {
+      "spa": "SONIA SILVESTRE - Quieres Dormir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "954a2b17-857b-4881-a9c0-53d9326fcbf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:20:00.667Z",
+    "modified_at": "2022-11-03T13:20:01.133Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e21c9322eb4b27c0e5ab19fea16d62c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5172341,
+      "gain": -5.19,
+      "duration": 258,
+      "loudnorm": "-12.89,-1.68,3.00,-22.99,-0.23",
+      "filename": "processed_048ce88474c6c9c5ad97dd4ba23f60ce.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

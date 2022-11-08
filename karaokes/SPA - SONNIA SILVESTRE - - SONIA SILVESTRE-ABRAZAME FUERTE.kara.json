@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONNIA SILVESTRE - - SONIA SILVESTRE-ABRAZAME FUERTE.mp3",
+      "loudnorm": "-13.08,1.93,2.70,-23.21,-0.38",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONNIA SILVESTRE - - SONIA SILVESTRE-ABRAZAME FUERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5949dd25-a0b4-469d-b586-ada44dd0f490",
+    "title": "SONIA SILVESTRE-ABRAZAME FUERTE",
+    "titles": {
+      "spa": "SONIA SILVESTRE-ABRAZAME FUERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5071e1d8-3dca-42df-9582-15c61f7512d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:20:27.602Z",
+    "modified_at": "2022-11-03T13:20:28.041Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51b2d2aedfd2d4c6a17228bc228a20dc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2688541,
+      "gain": -3.48,
+      "duration": 191,
+      "loudnorm": "-13.08,1.93,2.70,-23.21,-0.38",
+      "filename": "processed_add2a4574d0e8ed6896e81b15cef8027.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - QUINTA ESTACION - - La Quinta Estacion - Recuerdame.mp3",
+      "loudnorm": "-12.70,0.03,7.40,-22.81,-1.10",
+      "duration": 243,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - QUINTA ESTACION - - La Quinta Estacion - Recuerdame.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "90fed0b1-5cd4-43aa-92d2-87864771c724",
+    "title": "La Quinta Estacion - Recuerdame",
+    "titles": {
+      "spa": "La Quinta Estacion - Recuerdame"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1030bb9d-ae29-4b7f-a543-218595e400fb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:11:30.206Z",
+    "modified_at": "2022-11-03T23:11:30.587Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a7edd489298bb81ab71cd2293708115.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5842119,
+      "gain": -4.43,
+      "duration": 243,
+      "loudnorm": "-12.70,0.03,7.40,-22.81,-1.10",
+      "filename": "processed_3bba49f5767517a19881576e20b6f954.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

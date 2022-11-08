@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Shelow Shaq - - Shelow Shaq - Calentate Girl (Ele DJ). Con voz.mp3",
+      "loudnorm": "-4.90,4.66,2.40,-14.97,-1.56",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Shelow Shaq - - Shelow Shaq - Calentate Girl (Ele DJ). Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "291ecf64-6adc-45a7-ae99-be0c2e888ddc",
+    "title": "Shelow Shaq - Calentate Girl (Ele DJ). Con voz",
+    "titles": {
+      "spa": "Shelow Shaq - Calentate Girl (Ele DJ). Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "3568a2c3-d4e8-4b61-aad2-942b60b18905"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:48:44.150Z",
+    "modified_at": "2022-11-03T23:48:44.524Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_44278373fa2dc7d3701871c5c4157f8b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5747557,
+      "gain": -12.14,
+      "duration": 205,
+      "loudnorm": "-4.90,4.66,2.40,-14.97,-1.56",
+      "filename": "processed_a5d105d69b7d7905022d86e1f454358f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

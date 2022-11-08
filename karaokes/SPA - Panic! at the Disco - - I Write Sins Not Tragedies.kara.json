@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Panic! at the Disco - - I Write Sins Not Tragedies.mp3",
+      "loudnorm": "-8.91,2.04,9.00,-19.11,-1.82",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Panic! at the Disco - - I Write Sins Not Tragedies.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a2810dde-9668-42d2-b65a-5d4492b7946c",
+    "title": "I Write Sins Not Tragedies",
+    "titles": {
+      "spa": "I Write Sins Not Tragedies"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "27a3dbb8-6144-445f-866b-cc84b1b765ad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:59:53.866Z",
+    "modified_at": "2022-11-02T21:59:54.608Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47dbc4e034fbc6812f31f56c02597e86.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3314093,
+      "gain": -6.96,
+      "duration": 206,
+      "loudnorm": "-8.91,2.04,9.00,-19.11,-1.82",
+      "filename": "processed_c6f553e38c346a8a8f30e975f860e9cd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

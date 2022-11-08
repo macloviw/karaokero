@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Papo Diesel y Drehvor - - Papo Diesel y Drehvor - El dembow del paquete (Dembow) Con voz.mp3",
+      "loudnorm": "-9.81,1.94,2.90,-20.00,-0.80",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Papo Diesel y Drehvor - - Papo Diesel y Drehvor - El dembow del paquete (Dembow) Con voz.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c10fa665-d661-476e-8c09-c156d11a9931",
+    "title": "Papo Diesel y Drehvor - El dembow del paquete (Dembow) Con voz",
+    "titles": {
+      "spa": "Papo Diesel y Drehvor - El dembow del paquete (Dembow) Con voz"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "6b6947c5-fc5e-4a86-9196-96aeca41cc79"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:48:34.790Z",
+    "modified_at": "2022-11-03T23:48:35.159Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e623ecab464973721256c25d45a23b9c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3315766,
+      "gain": -9,
+      "duration": 207,
+      "loudnorm": "-9.81,1.94,2.90,-20.00,-0.80",
+      "filename": "processed_4fb0403e8c9c7bbb758731a7391f7e6e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

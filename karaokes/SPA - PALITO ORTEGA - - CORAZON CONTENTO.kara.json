@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PALITO ORTEGA - - CORAZON CONTENTO.MP3",
+      "loudnorm": "-12.97,0.87,3.50,-23.16,0.28",
+      "duration": 180,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PALITO ORTEGA - - CORAZON CONTENTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dd39f0d2-4ca7-45c2-9e5e-58716c8790b3",
+    "title": "CORAZON CONTENTO",
+    "titles": {
+      "spa": "CORAZON CONTENTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f80c6ac1-7343-4498-a12e-ad0d07065158"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:11:14.886Z",
+    "modified_at": "2022-11-03T11:11:15.380Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2886812,
+      "gain": -4.43,
+      "duration": 180,
+      "loudnorm": "-12.97,0.87,3.50,-23.16,0.28",
+      "filename": "processed_ef262ebc781eb482434635a7e5302bc4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2886812,
+      "gain": -4.43,
+      "duration": 180,
+      "loudnorm": "-12.97,0.87,3.50,-23.16,0.28",
+      "filename": "processed_ae1613b8a6f7bd35cf7eca6ebdeffec5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

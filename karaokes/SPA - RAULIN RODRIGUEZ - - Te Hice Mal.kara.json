@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Te Hice Mal.mp3",
+      "loudnorm": "-19.38,0.27,4.20,-29.58,-0.51",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Te Hice Mal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "85687413-b69a-4c8a-b528-bfc3652d93f4",
+    "title": "Te Hice Mal",
+    "titles": {
+      "spa": "Te Hice Mal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:25:53.970Z",
+    "modified_at": "2022-11-03T00:25:54.392Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e5b44dce1787f86b0db8e87278f8753f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4581704,
+      "gain": 1.47,
+      "duration": 267,
+      "loudnorm": "-19.38,0.27,4.20,-29.58,-0.51",
+      "filename": "processed_a7425362b7ecbf9bbdc2874ca63cd7c6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

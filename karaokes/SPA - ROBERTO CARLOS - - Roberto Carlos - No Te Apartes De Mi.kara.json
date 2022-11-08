@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - No Te Apartes De Mi.mp3",
+      "loudnorm": "-11.66,0.79,2.50,-21.79,0.04",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - No Te Apartes De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03c0d593-0392-44ba-9fb9-647ada66b4ae",
+    "title": "Roberto Carlos - No Te Apartes De Mi",
+    "titles": {
+      "spa": "Roberto Carlos - No Te Apartes De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:34:21.654Z",
+    "modified_at": "2022-11-03T12:34:22.106Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b600692a9d8c7b00c5140e0c63872664.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4021280,
+      "gain": -6.48,
+      "duration": 251,
+      "loudnorm": "-11.66,0.79,2.50,-21.79,0.04",
+      "filename": "processed_4a443aae6fc887cc4f874cae7323c596.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

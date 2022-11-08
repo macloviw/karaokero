@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Magnolia - - (by sandrita68) KAR-4385 - Dejame - Magnolia.mp3",
+      "loudnorm": "-12.19,0.37,7.00,-22.30,-1.62",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Magnolia - - (by sandrita68) KAR-4385 - Dejame - Magnolia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "475d96e2-3013-4351-8403-fde6bc3af0fd",
+    "title": "(by sandrita68) KAR-4385 - Dejame  - Magnolia",
+    "titles": {
+      "spa": "(by sandrita68) KAR-4385 - Dejame  - Magnolia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "28517461-dbec-4732-bc2e-c18df0b3d4ad"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:52:24.427Z",
+    "modified_at": "2022-11-03T22:52:24.807Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0f660376c63a283a1b7d26d59d24c39a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5517312,
+      "gain": -5.21,
+      "duration": 229,
+      "loudnorm": "-12.19,0.37,7.00,-22.30,-1.62",
+      "filename": "processed_d297670846aac115a2d25d85a528b2b9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

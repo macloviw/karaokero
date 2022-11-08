@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Bee Gees - - The Bee Gees - To love somebody.mp3",
+      "loudnorm": "-25.67,-6.42,4.60,-35.78,-0.24",
+      "duration": 162,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Bee Gees - - The Bee Gees - To love somebody.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4283d40-83be-497a-924a-36032b8e91ef",
+    "title": "The Bee Gees - To love somebody",
+    "titles": {
+      "spa": "The Bee Gees - To love somebody"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4f1132be-fcfb-4508-9d1c-1eb4ec8f5120"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:48:12.239Z",
+    "modified_at": "2022-11-04T01:48:12.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7e434dfbfc0fbf434f48358fa0a30be8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3892340,
+      "gain": 8.37,
+      "duration": 162,
+      "loudnorm": "-25.67,-6.42,4.60,-35.78,-0.24",
+      "filename": "processed_dd312dcfad95c002a9f497d838c2816e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

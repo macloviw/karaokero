@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Voltio Feat. Tego Calderon - - Voltio Feat. Tego Calderon - Julito Marana.mp3",
+      "loudnorm": "-13.54,0.37,5.70,-23.62,-1.07",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Voltio Feat. Tego Calderon - - Voltio Feat. Tego Calderon - Julito Marana.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "822bf49b-ab02-40c2-88bf-71eb2ed2f55a",
+    "title": "Voltio Feat. Tego Calderon - Julito Maraña",
+    "titles": {
+      "spa": "Voltio Feat. Tego Calderon - Julito Maraña"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "dbb058d9-3f4a-4767-8b45-3996029765f1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:29:56.882Z",
+    "modified_at": "2022-11-03T23:29:57.277Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a0541b7966bbe7ce919135f101e745b0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3889496,
+      "gain": -5.42,
+      "duration": 242,
+      "loudnorm": "-13.54,0.37,5.70,-23.62,-1.07",
+      "filename": "processed_2a76edd8dcc5ed84159ce737e4fec930.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

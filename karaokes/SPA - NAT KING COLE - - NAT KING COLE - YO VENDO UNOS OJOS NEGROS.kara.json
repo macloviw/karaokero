@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NAT KING COLE - - NAT KING COLE - YO VENDO UNOS OJOS NEGROS.MP3",
+      "loudnorm": "-17.40,-3.75,3.70,-27.45,0.10",
+      "duration": 170,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NAT KING COLE - - NAT KING COLE - YO VENDO UNOS OJOS NEGROS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4a52bd79-8382-4606-9488-d33e0b07d722",
+    "title": "NAT KING COLE  -  YO VENDO UNOS OJOS NEGROS",
+    "titles": {
+      "spa": "NAT KING COLE  -  YO VENDO UNOS OJOS NEGROS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e143cd01-4ee9-42c3-aedf-8da35c635c0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:48:39.934Z",
+    "modified_at": "2022-11-03T10:48:40.459Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2731749,
+      "gain": -1.21,
+      "duration": 170,
+      "loudnorm": "-17.40,-3.75,3.70,-27.45,0.10",
+      "filename": "processed_1e2bdd6f9cf94844e456b33bd0b33a73.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2731749,
+      "gain": -1.21,
+      "duration": 170,
+      "loudnorm": "-17.40,-3.75,3.70,-27.45,0.10",
+      "filename": "processed_c31f405b66d0577685ebf2e5feefa3be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

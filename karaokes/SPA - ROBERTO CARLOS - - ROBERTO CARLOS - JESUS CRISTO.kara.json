@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - JESUS CRISTO.MP3",
+      "loudnorm": "-17.00,-0.67,5.30,-27.31,-0.81",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - JESUS CRISTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "02020082-5721-456a-83f2-85b73003525a",
+    "title": "ROBERTO CARLOS   -   JESUS CRISTO",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   JESUS CRISTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:29:34.406Z",
+    "modified_at": "2022-11-03T12:29:34.974Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3471955,
+      "gain": -0.65,
+      "duration": 216,
+      "loudnorm": "-17.00,-0.67,5.30,-27.31,-0.81",
+      "filename": "processed_24ac3b289b73aab63b7a812199bc1207.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3471955,
+      "gain": -0.65,
+      "duration": 216,
+      "loudnorm": "-17.00,-0.67,5.30,-27.31,-0.81",
+      "filename": "processed_fcc1bf83613efa2c8118a7193c791993.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

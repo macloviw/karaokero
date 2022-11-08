@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Villanosam - - Villanosam - Me Va Quema El Celular (Dembow).DJL&Entre3.mp3",
+      "loudnorm": "-12.06,1.43,4.40,-22.11,-0.58",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Villanosam - - Villanosam - Me Va Quema El Celular (Dembow).DJL&Entre3.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe1aa2e7-ae52-483b-a20a-5f4e97eecdd2",
+    "title": "Villanosam - Me Va Quema El Celular (Dembow).DJL&Entre3",
+    "titles": {
+      "spa": "Villanosam - Me Va Quema El Celular (Dembow).DJL&Entre3"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "0a883235-d5e3-4012-a235-9299f7a82b51"
+      ],
+      "singers": [
+        "3958e55b-da77-48ab-9dbe-7d5bbdd19e68"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:38:42.269Z",
+    "modified_at": "2022-11-03T14:38:42.680Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c1bb9c7582013b1b9fca2275c963f23.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3316184,
+      "gain": -5.61,
+      "duration": 207,
+      "loudnorm": "-12.06,1.43,4.40,-22.11,-0.58",
+      "filename": "processed_815bb70f5e5fef76328c9947e708d6e6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Derroche De Sexo.mp3",
+      "loudnorm": "-17.91,-1.27,1.70,-27.98,-0.05",
+      "duration": 312,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Derroche De Sexo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "27662817-b7d4-4323-ba40-0f0b6b4dbd18",
+    "title": "Raulin Rodriguez - Derroche De Sexo",
+    "titles": {
+      "spa": "Raulin Rodriguez - Derroche De Sexo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:20:22.557Z",
+    "modified_at": "2022-11-03T00:20:22.968Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c7436d0055f1ef140e383e8423e210a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6258063,
+      "gain": 0.64,
+      "duration": 312,
+      "loudnorm": "-17.91,-1.27,1.70,-27.98,-0.05",
+      "filename": "processed_b26489ec6caaa92b2de8145eb8d2f281.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

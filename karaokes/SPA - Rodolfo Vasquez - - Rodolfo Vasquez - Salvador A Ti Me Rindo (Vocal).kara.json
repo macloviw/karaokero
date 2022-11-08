@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rodolfo Vasquez - - Rodolfo Vasquez - Salvador A Ti Me Rindo (Vocal).mp3",
+      "loudnorm": "-13.35,0.65,6.40,-23.58,-0.95",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rodolfo Vasquez - - Rodolfo Vasquez - Salvador A Ti Me Rindo (Vocal).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e1e94ad2-e913-41fa-acc8-fcef8225fc71",
+    "title": "Rodolfo Vasquez -  Salvador A Ti Me Rindo (Vocal)",
+    "titles": {
+      "spa": "Rodolfo Vasquez -  Salvador A Ti Me Rindo (Vocal)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "c9191c31-7620-4556-9a07-9c3b604898ea"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:43:52.032Z",
+    "modified_at": "2022-11-03T23:43:52.406Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9aae6cd145a9f725d63b839ee0108314.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2997700,
+      "gain": -4.87,
+      "duration": 187,
+      "loudnorm": "-13.35,0.65,6.40,-23.58,-0.95",
+      "filename": "processed_9c8e0d7e776602707298196ba7a8c18f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

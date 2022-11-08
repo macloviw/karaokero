@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - RBD - TENERTE Y QUERERTE.MP3",
+      "loudnorm": "-15.49,0.13,4.00,-25.70,-0.84",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - RBD - TENERTE Y QUERERTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0df326ee-033e-4633-9cac-03f3c0905810",
+    "title": "RBD - TENERTE Y QUERERTE",
+    "titles": {
+      "spa": "RBD - TENERTE Y QUERERTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:43:53.023Z",
+    "modified_at": "2022-11-03T11:43:53.596Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3440737,
+      "gain": -1.41,
+      "duration": 214,
+      "loudnorm": "-15.49,0.13,4.00,-25.70,-0.84",
+      "filename": "processed_e5e93b5f2726cd84078bf9674e31c6cf.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3440737,
+      "gain": -1.41,
+      "duration": 214,
+      "loudnorm": "-15.49,0.13,4.00,-25.70,-0.84",
+      "filename": "processed_7aa9b49f4418bbaefcdb7543eafddd94.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

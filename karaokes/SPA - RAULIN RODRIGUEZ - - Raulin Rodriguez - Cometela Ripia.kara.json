@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Cometela Ripia.mp3",
+      "loudnorm": "-8.09,5.25,2.90,-18.37,-0.86",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Cometela Ripia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5968360a-176a-4498-ba10-3ad90cea02d7",
+    "title": "Raulin Rodriguez - Cometela Ripia",
+    "titles": {
+      "spa": "Raulin Rodriguez - Cometela Ripia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:19:36.950Z",
+    "modified_at": "2022-11-03T00:19:37.397Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_11d64e2f092a3192caaae0bafc61d553.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3799346,
+      "gain": -9.87,
+      "duration": 237,
+      "loudnorm": "-8.09,5.25,2.90,-18.37,-0.86",
+      "filename": "processed_9fd6f94957856ab49139ac000ae5a8a6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

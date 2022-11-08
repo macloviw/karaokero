@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Beatles - - The Beatles - Eleanor Rigby.mp3",
+      "loudnorm": "-15.11,-3.11,4.20,-25.24,-1.17",
+      "duration": 147,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Beatles - - The Beatles - Eleanor Rigby.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3ec697a1-b8ef-4fa3-8c5d-7b38eee4bcee",
+    "title": "The Beatles - Eleanor Rigby",
+    "titles": {
+      "spa": "The Beatles - Eleanor Rigby"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7bd03a6b-53af-481e-add2-e2fe29f334e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:44:26.563Z",
+    "modified_at": "2022-11-04T01:44:26.945Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d3b355543103db48c18f2a4aeedb11b3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2944182,
+      "gain": -2.49,
+      "duration": 147,
+      "loudnorm": "-15.11,-3.11,4.20,-25.24,-1.17",
+      "filename": "processed_fc7a52012fcd55da27d2fc010b31bfc6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

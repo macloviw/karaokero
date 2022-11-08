@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - No Artist - - Emmanuel - Toda Una Vida.mp3",
+      "loudnorm": "-13.96,-0.15,4.80,-24.06,-0.14",
+      "duration": 166,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - No Artist - - Emmanuel - Toda Una Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "51f5bce4-b000-43c0-8f15-b77f22e3ca74",
+    "title": "Emmanuel - Toda Una Vida",
+    "titles": {
+      "spa": "Emmanuel - Toda Una Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:01:09.579Z",
+    "modified_at": "2022-11-03T11:01:10.053Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0c4882cb9bf68653e719795b25e57fd9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2673234,
+      "gain": -3.97,
+      "duration": 166,
+      "loudnorm": "-13.96,-0.15,4.80,-24.06,-0.14",
+      "filename": "processed_6f4065131408c02c2a3fe6adeb919ea3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

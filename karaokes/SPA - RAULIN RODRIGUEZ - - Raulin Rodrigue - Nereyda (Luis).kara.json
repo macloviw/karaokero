@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodrigue - Nereyda (Luis).mp3",
+      "loudnorm": "-12.53,1.08,1.80,-22.76,0.23",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodrigue - Nereyda (Luis).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9979882d-669c-42b0-b2ca-3a7b40463cf2",
+    "title": "Raulin Rodrigue - Nereyda (Luis)",
+    "titles": {
+      "spa": "Raulin Rodrigue - Nereyda (Luis)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:18:24.458Z",
+    "modified_at": "2022-11-03T00:18:24.902Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ea8606a471ffaa764481eaf7e3a3aacd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4273310,
+      "gain": -3.93,
+      "duration": 266,
+      "loudnorm": "-12.53,1.08,1.80,-22.76,0.23",
+      "filename": "processed_69d378fb3a126c117d53bfd3bfd0dc2f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

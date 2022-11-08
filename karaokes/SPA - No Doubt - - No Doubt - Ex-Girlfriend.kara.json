@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - No Doubt - - No Doubt - Ex-Girlfriend.mp3",
+      "loudnorm": "-12.55,-0.11,3.90,-22.57,-0.56",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - No Doubt - - No Doubt - Ex-Girlfriend.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f8323e6d-ca66-48a6-a7cc-9d73b29326ae",
+    "title": "No Doubt - Ex-Girlfriend",
+    "titles": {
+      "spa": "No Doubt - Ex-Girlfriend"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "bf942eda-0718-4f48-a966-35d77022c950"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:30:31.848Z",
+    "modified_at": "2022-11-04T01:30:32.225Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_46d3d471fb45718958b2d97d8685ed97.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3632997,
+      "gain": -4,
+      "duration": 226,
+      "loudnorm": "-12.55,-0.11,3.90,-22.57,-0.56",
+      "filename": "processed_14a6b530549cea66c45e6a0b836b0f39.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Nsync - - Nsync - Tearin Up My Heart.mp3",
+      "loudnorm": "-13.31,0.27,4.30,-23.39,-1.14",
+      "duration": 223,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Nsync - - Nsync - Tearin Up My Heart.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c83ef553-b292-44a5-b28a-4c9b7da34d74",
+    "title": "Nsync - Tearin Up My Heart",
+    "titles": {
+      "spa": "Nsync - Tearin Up My Heart"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "36fb07b9-21bc-4fdf-84de-8fe6a7a5a294"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:30:51.298Z",
+    "modified_at": "2022-11-04T01:30:51.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_910ffa9e9eb7d1eb6ce1e57f6ada865a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3572392,
+      "gain": -3.77,
+      "duration": 223,
+      "loudnorm": "-13.31,0.27,4.30,-23.39,-1.14",
+      "filename": "processed_7a187b3728fd8d03cdcd60816ab87c39.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

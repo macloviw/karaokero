@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - RBD - SALVAME.MP3",
+      "loudnorm": "-15.53,-0.10,4.40,-25.65,-0.73",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - RBD - SALVAME.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9062b4d5-6861-47dc-9878-3284ac5b05a4",
+    "title": "RBD - SALVAME",
+    "titles": {
+      "spa": "RBD - SALVAME"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:43:16.424Z",
+    "modified_at": "2022-11-03T11:43:16.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3773432,
+      "gain": -2.03,
+      "duration": 235,
+      "loudnorm": "-15.53,-0.10,4.40,-25.65,-0.73",
+      "filename": "processed_ffb4300022455c78862932dedb0c1534.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3773432,
+      "gain": -2.03,
+      "duration": 235,
+      "loudnorm": "-15.53,-0.10,4.40,-25.65,-0.73",
+      "filename": "processed_8e71e0f462fe6d281edf8f1e426ca60e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

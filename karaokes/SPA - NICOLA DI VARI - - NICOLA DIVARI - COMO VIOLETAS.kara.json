@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NICOLA DI VARI - - NICOLA DIVARI - COMO VIOLETAS.MP3",
+      "loudnorm": "-16.18,-0.44,14.90,-26.90,-0.60",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NICOLA DI VARI - - NICOLA DIVARI - COMO VIOLETAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2f53058d-b973-4ce7-bb14-3dd704b9680b",
+    "title": "NICOLA DIVARI  -  COMO VIOLETAS",
+    "titles": {
+      "spa": "NICOLA DIVARI  -  COMO VIOLETAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:56:11.886Z",
+    "modified_at": "2022-11-03T10:56:12.422Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3058175,
+      "gain": -1.97,
+      "duration": 191,
+      "loudnorm": "-16.18,-0.44,14.90,-26.90,-0.60",
+      "filename": "processed_c17ec3384bea6d1ae302ca9b5a7e6466.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3058175,
+      "gain": -1.97,
+      "duration": 191,
+      "loudnorm": "-16.18,-0.44,14.90,-26.90,-0.60",
+      "filename": "processed_0d4c13b3cf6f4226696e09fc29064bdb.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

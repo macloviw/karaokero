@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PAVEL NUNEZ - - te di - pavel nuez.mp3",
+      "loudnorm": "-12.18,0.32,10.10,-22.50,-1.65",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PAVEL NUNEZ - - te di - pavel nuez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "575713aa-cb4c-448e-871e-7fb734b88e8a",
+    "title": "te di - pavel nuez",
+    "titles": {
+      "spa": "te di - pavel nuez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ee005cf7-7efb-49f1-855f-c0b3490adc23"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:21:52.635Z",
+    "modified_at": "2022-11-03T11:21:53.078Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_df0cda3e73490d6dd0061549f5478803.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6448369,
+      "gain": -4.56,
+      "duration": 268,
+      "loudnorm": "-12.18,0.32,10.10,-22.50,-1.65",
+      "filename": "processed_e8eaf11fa20dd0cc0c9d73ba2200c760.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - Novia Mia.mp3",
+      "loudnorm": "-17.29,1.59,2.90,-27.41,-0.10",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - Novia Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aaef756a-c448-4c40-9f91-bf92b054d8cb",
+    "title": "YOSKAR SARANTE - Novia Mia",
+    "titles": {
+      "spa": "YOSKAR SARANTE - Novia Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:12:13.001Z",
+    "modified_at": "2022-11-02T20:12:13.541Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_69ba545f2c2fa3972ddc2873ef2fb8e7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2913270,
+      "gain": -3.01,
+      "duration": 181,
+      "loudnorm": "-17.29,1.59,2.90,-27.41,-0.10",
+      "filename": "processed_b91f6dd1af1a5c3caee88d4cb5ad5cb7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

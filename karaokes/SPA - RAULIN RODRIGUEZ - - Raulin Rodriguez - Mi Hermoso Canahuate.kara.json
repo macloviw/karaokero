@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Mi Hermoso Canahuate.MP3",
+      "loudnorm": "-15.33,1.64,2.40,-25.38,-0.20",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - Mi Hermoso Canahuate.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a732d5a7-e1d1-4d41-98bd-ec8c4c18e9ea",
+    "title": "Raulin Rodriguez - Mi Hermoso Canahuate",
+    "titles": {
+      "spa": "Raulin Rodriguez - Mi Hermoso Canahuate"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:21:53.382Z",
+    "modified_at": "2022-11-03T00:21:54.068Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4827396,
+      "gain": -3.35,
+      "duration": 301,
+      "loudnorm": "-15.33,1.64,2.40,-25.38,-0.20",
+      "filename": "processed_e5a77926c966163d80ef58eff20c1440.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4827396,
+      "gain": -3.35,
+      "duration": 301,
+      "loudnorm": "-15.33,1.64,2.40,-25.38,-0.20",
+      "filename": "processed_fae5391d051340685e2ce508a7ed2be4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

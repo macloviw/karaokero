@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rafael - - Rafael - Que Tal Te Va Sin Mi.MP3",
+      "loudnorm": "-11.43,7.82,7.40,-21.65,0.21",
+      "duration": 336,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rafael - - Rafael - Que Tal Te Va Sin Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06ac9af4-3b35-4776-ad85-58f65cc96f59",
+    "title": "Rafael - Que Tal Te Va Sin Mi",
+    "titles": {
+      "spa": "Rafael - Que Tal Te Va Sin Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "021c6ea1-72c6-4e07-87fc-6a7bc3ad4e94"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:32:07.007Z",
+    "modified_at": "2022-11-03T11:32:07.609Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5388844,
+      "gain": -7.78,
+      "duration": 336,
+      "loudnorm": "-11.43,7.82,7.40,-21.65,0.21",
+      "filename": "processed_2d3857eb2e8aa395a4c886941d34f445.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5388844,
+      "gain": -7.78,
+      "duration": 336,
+      "loudnorm": "-11.43,7.82,7.40,-21.65,0.21",
+      "filename": "processed_f6926d753d8e503b6877c08cb3c08820.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

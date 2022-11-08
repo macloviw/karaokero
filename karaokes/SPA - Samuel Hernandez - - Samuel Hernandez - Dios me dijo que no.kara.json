@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Dios me dijo que no.mp3",
+      "loudnorm": "-14.08,0.84,7.80,-24.19,-0.82",
+      "duration": 304,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Dios me dijo que no.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0120f87-b0d8-41d2-bc7c-e8c84ad03351",
+    "title": "Samuel Hernandez - Dios me dijo que no",
+    "titles": {
+      "spa": "Samuel Hernandez - Dios me dijo que no"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "ee4e5b74-9c34-4d9d-ab92-dbae9961834d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:44:05.123Z",
+    "modified_at": "2022-11-03T23:44:05.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b031fe8e5ed2e8170e263fb618be836c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4877678,
+      "gain": -4.47,
+      "duration": 304,
+      "loudnorm": "-14.08,0.84,7.80,-24.19,-0.82",
+      "filename": "processed_200a0cf06d2b5ec03401c7fcc27c995e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

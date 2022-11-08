@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Stephen King - - Track 12.mp3",
+      "loudnorm": "-15.91,-0.72,3.40,-25.95,-0.60",
+      "duration": 314,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Stephen King - - Track 12.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e9a43b7d-bf58-4565-9e9d-a4ea5aebebfb",
+    "title": "Track 12",
+    "titles": {
+      "spa": "Track 12"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c0fc40f5-b77d-4fbe-9ce3-1ec35f16b287"
+      ],
+      "singers": [
+        "29d53f4b-28bf-472b-821a-0ff0b200c706"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:01:37.407Z",
+    "modified_at": "2022-11-02T22:01:38.127Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_57b01afb54e5822765ebd908776c5ac5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6297173,
+      "gain": -3.14,
+      "duration": 314,
+      "loudnorm": "-15.91,-0.72,3.40,-25.95,-0.60",
+      "filename": "processed_8c42a673a0646727a16898485e23fe88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

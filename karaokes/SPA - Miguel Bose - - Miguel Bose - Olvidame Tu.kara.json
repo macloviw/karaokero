@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - Olvidame Tu.MP3",
+      "loudnorm": "-16.45,-4.32,12.40,-26.86,-1.41",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - Olvidame Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b1e5a9a-51e0-4d51-b8d5-12d86385a3f3",
+    "title": "Miguel Bose - Olvidame Tu",
+    "titles": {
+      "spa": "Miguel Bose - Olvidame Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:40:19.881Z",
+    "modified_at": "2022-11-03T10:40:20.608Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4612983,
+      "gain": -0.58,
+      "duration": 288,
+      "loudnorm": "-16.45,-4.32,12.40,-26.86,-1.41",
+      "filename": "processed_be7e6378da47d426e1db4f64103fdd91.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4612983,
+      "gain": -0.58,
+      "duration": 288,
+      "loudnorm": "-16.45,-4.32,12.40,-26.86,-1.41",
+      "filename": "processed_5b11cadc6e38ad01bdef28b138c0b09f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

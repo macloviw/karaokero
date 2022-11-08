@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Give It Up Or Let Me Go.mp3",
+      "loudnorm": "-11.99,1.04,1.60,-22.04,-0.69",
+      "duration": 287,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Give It Up Or Let Me Go.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3a2315da-bd53-4281-b5b0-2e5bf2c012a1",
+    "title": "Raitt, Bonnie - Give It Up Or Let Me Go",
+    "titles": {
+      "spa": "Raitt, Bonnie - Give It Up Or Let Me Go"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d4054b12-6e75-4456-9cdf-9f9d30dffc1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:32:49.653Z",
+    "modified_at": "2022-11-04T01:32:50.084Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3e12ea78ac005081175a11e6e96b3c93.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4597934,
+      "gain": -4.14,
+      "duration": 287,
+      "loudnorm": "-11.99,1.04,1.60,-22.04,-0.69",
+      "filename": "processed_dfd998b47e4d8a56f3b63ea5e2d85e88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

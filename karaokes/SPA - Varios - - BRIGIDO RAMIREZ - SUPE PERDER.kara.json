@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Varios - - BRIGIDO RAMIREZ - SUPE PERDER.mp3",
+      "loudnorm": "-14.13,1.15,2.60,-24.21,0.01",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Varios - - BRIGIDO RAMIREZ - SUPE PERDER.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a52d0061-4bcd-436a-889c-0ac7cc2d6df0",
+    "title": "BRIGIDO RAMIREZ - SUPE PERDER",
+    "titles": {
+      "spa": "BRIGIDO RAMIREZ - SUPE PERDER"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0f385425-461c-46f7-997e-923da93971ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:29:13.332Z",
+    "modified_at": "2022-11-03T23:29:13.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7ccf1828efee27c9c52532389d04763d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4277404,
+      "gain": -4.52,
+      "duration": 178,
+      "loudnorm": "-14.13,1.15,2.60,-24.21,0.01",
+      "filename": "processed_9cdbe9201d7fe073e9fcfcd2d8b6ddb0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

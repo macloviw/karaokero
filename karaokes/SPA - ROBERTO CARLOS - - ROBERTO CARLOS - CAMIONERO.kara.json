@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CAMIONERO.MP3",
+      "loudnorm": "-18.39,-0.01,8.50,-28.56,-1.51",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CAMIONERO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "070a1f0d-7f68-4fde-938f-15fb669dbff0",
+    "title": "ROBERTO CARLOS   -   CAMIONERO",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   CAMIONERO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:27:28.930Z",
+    "modified_at": "2022-11-03T12:27:29.423Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4303275,
+      "gain": 0.65,
+      "duration": 268,
+      "loudnorm": "-18.39,-0.01,8.50,-28.56,-1.51",
+      "filename": "processed_9d97b30abb18ef1b251a2adccad044bb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4303275,
+      "gain": 0.65,
+      "duration": 268,
+      "loudnorm": "-18.39,-0.01,8.50,-28.56,-1.51",
+      "filename": "processed_36bd1fc3d0e7cf908d4a6d52f40128d8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

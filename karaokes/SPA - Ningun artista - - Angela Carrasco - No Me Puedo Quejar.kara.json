@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - Angela Carrasco - No Me Puedo Quejar.mp3",
+      "loudnorm": "-11.05,1.17,8.50,-21.42,-0.66",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - Angela Carrasco - No Me Puedo Quejar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7cd1eca8-d65f-4b55-b632-237c969f8463",
+    "title": "Angela Carrasco - No Me Puedo Quejar",
+    "titles": {
+      "spa": "Angela Carrasco - No Me Puedo Quejar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:00:43.362Z",
+    "modified_at": "2022-11-03T02:00:43.796Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5e775010691b4c680bdc67dbaf186c7e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4389912,
+      "gain": -6.6,
+      "duration": 274,
+      "loudnorm": "-11.05,1.17,8.50,-21.42,-0.66",
+      "filename": "processed_a5499640886c01a0df7a119046915be5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

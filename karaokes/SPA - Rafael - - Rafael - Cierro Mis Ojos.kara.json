@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rafael - - Rafael - Cierro Mis Ojos.MP3",
+      "loudnorm": "-11.92,3.30,4.30,-22.04,-0.84",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rafael - - Rafael - Cierro Mis Ojos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0d250f44-a8f5-4f04-8621-8b0207a65d2c",
+    "title": "Rafael - Cierro Mis Ojos",
+    "titles": {
+      "spa": "Rafael - Cierro Mis Ojos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "021c6ea1-72c6-4e07-87fc-6a7bc3ad4e94"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:12:10.543Z",
+    "modified_at": "2022-11-03T23:12:12.771Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3464142,
+      "gain": -5.28,
+      "duration": 216,
+      "loudnorm": "-11.92,3.30,4.30,-22.04,-0.84",
+      "filename": "processed_1503adc7e4082d4b97dcd9434c49fe1f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3464142,
+      "gain": -5.28,
+      "duration": 216,
+      "loudnorm": "-11.92,3.30,4.30,-22.04,-0.84",
+      "filename": "processed_d9900b71533c1f63d0a9028de55d3488.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

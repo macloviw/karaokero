@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - DESESPERANZA.mp3",
+      "loudnorm": "-8.89,4.40,5.30,-18.96,-1.49",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - DESESPERANZA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fe8e89b2-2a8a-432b-9fea-0e40c7e5a27b",
+    "title": "RICARDO MONTANER   -   DESESPERANZA",
+    "titles": {
+      "spa": "RICARDO MONTANER   -   DESESPERANZA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:13:20.371Z",
+    "modified_at": "2022-11-03T12:13:20.895Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72e83712b2987127489f1811a6ce6ceb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3845943,
+      "gain": -8.34,
+      "duration": 240,
+      "loudnorm": "-8.89,4.40,5.30,-18.96,-1.49",
+      "filename": "processed_83ace6e5d7e7ea78487308f026b80cbc.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

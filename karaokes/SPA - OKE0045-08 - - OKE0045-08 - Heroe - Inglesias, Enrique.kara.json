@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - OKE0045-08 - - OKE0045-08 - Heroe - Inglesias, Enrique.mp3",
+      "loudnorm": "-12.38,2.70,13.10,-22.93,-2.06",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - OKE0045-08 - - OKE0045-08 - Heroe - Inglesias, Enrique.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "966a2172-d445-407f-b99c-ee3571754f72",
+    "title": "OKE0045-08 - Heroe - Inglesias, Enrique",
+    "titles": {
+      "spa": "OKE0045-08 - Heroe - Inglesias, Enrique"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b9d23acf-746f-4e7e-bfcc-246083fd3140"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:03:32.157Z",
+    "modified_at": "2022-11-03T23:03:32.536Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6a2516255c9e43050e4caa6bfa4316ed.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4124098,
+      "gain": -6.07,
+      "duration": 257,
+      "loudnorm": "-12.38,2.70,13.10,-22.93,-2.06",
+      "filename": "processed_71cec69ce9ac2b39b7ea02cd1c06d39c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

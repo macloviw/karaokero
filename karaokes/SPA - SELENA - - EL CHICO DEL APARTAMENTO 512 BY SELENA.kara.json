@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SELENA - - EL CHICO DEL APARTAMENTO 512 BY SELENA.MP3",
+      "loudnorm": "-13.32,0.71,2.60,-23.39,-0.77",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SELENA - - EL CHICO DEL APARTAMENTO 512 BY SELENA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1ac86826-c69d-4e27-8f2a-857a26e8c75e",
+    "title": "EL CHICO DEL APARTAMENTO 512 BY SELENA",
+    "titles": {
+      "spa": "EL CHICO DEL APARTAMENTO 512 BY SELENA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e496a38-cebe-46dd-a3fc-e91629d85cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:56:14.481Z",
+    "modified_at": "2022-11-03T12:56:15.000Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3347821,
+      "gain": -4.21,
+      "duration": 209,
+      "loudnorm": "-13.32,0.71,2.60,-23.39,-0.77",
+      "filename": "processed_6c381301adcbaa7d28569b5b04c5a64f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3347821,
+      "gain": -4.21,
+      "duration": 209,
+      "loudnorm": "-13.32,0.71,2.60,-23.39,-0.77",
+      "filename": "processed_4ef34a402ca7e8fd4c8b41df1e14175b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

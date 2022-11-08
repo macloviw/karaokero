@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - 01 - RBD - Celestial.mp3",
+      "loudnorm": "-13.43,-1.49,4.80,-23.49,-0.00",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - 01 - RBD - Celestial.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "058f19a2-e2f4-4a2b-846f-9440e390b9b6",
+    "title": "01 - RBD - Celestial",
+    "titles": {
+      "spa": "01 - RBD - Celestial"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:13:03.239Z",
+    "modified_at": "2022-11-03T23:13:03.620Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_df69f9b23b1b5ced0f50f3c94b0b262f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4921472,
+      "gain": -4.69,
+      "duration": 205,
+      "loudnorm": "-13.43,-1.49,4.80,-23.49,-0.00",
+      "filename": "processed_98f81022a50fbfb7eab88ad59e07446b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

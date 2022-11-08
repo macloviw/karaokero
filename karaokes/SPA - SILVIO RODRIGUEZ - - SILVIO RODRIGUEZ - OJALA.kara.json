@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - OJALA.MP3",
+      "loudnorm": "-17.13,-4.02,2.80,-27.18,-0.65",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - OJALA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "29a10b9e-fc8a-4d14-bc04-dda776b9521d",
+    "title": "SILVIO RODRIGUEZ   -   OJALA",
+    "titles": {
+      "spa": "SILVIO RODRIGUEZ   -   OJALA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b85a6a0-8d23-405c-aba0-9356cc61bf8a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:07:49.518Z",
+    "modified_at": "2022-11-03T13:07:50.146Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3762147,
+      "gain": -0.76,
+      "duration": 235,
+      "loudnorm": "-17.13,-4.02,2.80,-27.18,-0.65",
+      "filename": "processed_399160eefe867e91d359b63faa747065.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3762147,
+      "gain": -0.76,
+      "duration": 235,
+      "loudnorm": "-17.13,-4.02,2.80,-27.18,-0.65",
+      "filename": "processed_2cc22b126a1c06076676ee9974263848.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

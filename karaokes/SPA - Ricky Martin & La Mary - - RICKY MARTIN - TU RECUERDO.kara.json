@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ricky Martin & La Mary - - RICKY MARTIN - TU RECUERDO.mp3",
+      "loudnorm": "-7.80,8.78,4.80,-17.86,-0.82",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ricky Martin & La Mary - - RICKY MARTIN - TU RECUERDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "dc98130c-66cc-4dca-8b0a-063b9b4a8b41",
+    "title": "RICKY MARTIN  -  TU RECUERDO",
+    "titles": {
+      "spa": "RICKY MARTIN  -  TU RECUERDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "a926058c-0f4d-4bd8-8d07-a883f7aedd81"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:16:49.207Z",
+    "modified_at": "2022-11-03T23:16:49.614Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_eeb72af7b12e5368483c6a40bd073ebc.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3766606,
+      "gain": -9.71,
+      "duration": 235,
+      "loudnorm": "-7.80,8.78,4.80,-17.86,-0.82",
+      "filename": "processed_4d8630a6f5f54ecde6f9167278e54e13.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

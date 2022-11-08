@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - romeo - Llevame Contigo.mp3",
+      "loudnorm": "-12.28,3.17,4.40,-22.53,-0.39",
+      "duration": 220,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - romeo - Llevame Contigo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7cd90e8f-e59c-4eab-adf8-9459658128f2",
+    "title": "romeo - Llevame Contigo",
+    "titles": {
+      "spa": "romeo - Llevame Contigo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:26:39.889Z",
+    "modified_at": "2022-11-03T00:26:40.297Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_72279becbddfd69d38c67063291f9506.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3536783,
+      "gain": -4.46,
+      "duration": 220,
+      "loudnorm": "-12.28,3.17,4.40,-22.53,-0.39",
+      "filename": "processed_f1993b38af0ce88dec912087d9380f74.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

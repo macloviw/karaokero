@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - Sin Bandera - Amor Real.mp3",
+      "loudnorm": "-13.91,0.85,6.00,-24.19,-0.66",
+      "duration": 250,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - Sin Bandera - Amor Real.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c3bc3927-37d2-4a2c-baa9-0d9788f23643",
+    "title": "Sin Bandera - Amor Real",
+    "titles": {
+      "spa": "Sin Bandera - Amor Real"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:10:33.352Z",
+    "modified_at": "2022-11-03T13:10:33.810Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e4a966d2e8818b5a02ba1ccb27dea29a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6017035,
+      "gain": -3.96,
+      "duration": 250,
+      "loudnorm": "-13.91,0.85,6.00,-24.19,-0.66",
+      "filename": "processed_000f8f69a1a043bf5485190cfa11619c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

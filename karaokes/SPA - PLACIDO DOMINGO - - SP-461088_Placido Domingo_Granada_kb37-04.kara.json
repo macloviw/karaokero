@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PLACIDO DOMINGO - - SP-461088_Placido Domingo_Granada_kb37-04.mp3",
+      "loudnorm": "-17.08,-0.19,7.00,-27.25,-0.28",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PLACIDO DOMINGO - - SP-461088_Placido Domingo_Granada_kb37-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "32130ece-21b8-4b8c-a974-592b4ff5f580",
+    "title": "SP-461088_Placido Domingo_Granada_kb37-04",
+    "titles": {
+      "spa": "SP-461088_Placido Domingo_Granada_kb37-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "14557b5a-bda9-44a2-ae76-a18990060d31"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:29:01.511Z",
+    "modified_at": "2022-11-03T11:29:01.934Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9eac6fd64f46f606e7df32135d163b31.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3461258,
+      "gain": -0.91,
+      "duration": 216,
+      "loudnorm": "-17.08,-0.19,7.00,-27.25,-0.28",
+      "filename": "processed_8e47fe7d18c650993c2072844d2b0837.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

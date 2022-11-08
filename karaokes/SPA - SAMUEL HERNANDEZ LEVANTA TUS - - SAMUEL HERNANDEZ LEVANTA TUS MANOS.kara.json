@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SAMUEL HERNANDEZ LEVANTA TUS - - SAMUEL HERNANDEZ LEVANTA TUS MANOS.mp3",
+      "loudnorm": "-14.32,0.22,9.40,-24.70,-1.31",
+      "duration": 315,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SAMUEL HERNANDEZ LEVANTA TUS - - SAMUEL HERNANDEZ LEVANTA TUS MANOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "911ad123-2ecf-4126-b0d9-2f318cda79ec",
+    "title": "SAMUEL HERNANDEZ LEVANTA TUS MANOS",
+    "titles": {
+      "spa": "SAMUEL HERNANDEZ LEVANTA TUS MANOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "dcbc9dc4-95cc-41df-91e3-9740242f56bd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:44:32.109Z",
+    "modified_at": "2022-11-03T23:44:32.497Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9b45dabbf34c599505e5621dcfcf8294.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5041886,
+      "gain": -1.2,
+      "duration": 315,
+      "loudnorm": "-14.32,0.22,9.40,-24.70,-1.31",
+      "filename": "processed_3d7a39d038fb34146b7bc46d0baf612e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

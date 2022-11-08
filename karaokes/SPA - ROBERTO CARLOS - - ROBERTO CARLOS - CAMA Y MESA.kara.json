@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CAMA Y MESA.MP3",
+      "loudnorm": "-17.17,-0.39,4.00,-27.33,-0.60",
+      "duration": 213,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CAMA Y MESA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3a98903-4864-440d-a4a8-8b6c73bb8a18",
+    "title": "ROBERTO CARLOS   -   CAMA Y MESA",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   CAMA Y MESA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:27:07.629Z",
+    "modified_at": "2022-11-03T12:27:08.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3415948,
+      "gain": 1.16,
+      "duration": 213,
+      "loudnorm": "-17.17,-0.39,4.00,-27.33,-0.60",
+      "filename": "processed_7ed3b5611bb50880c06ffaa53b7e9ab3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3415948,
+      "gain": 1.16,
+      "duration": 213,
+      "loudnorm": "-17.17,-0.39,4.00,-27.33,-0.60",
+      "filename": "processed_2f4390884d100d97cb508f2a367d643b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

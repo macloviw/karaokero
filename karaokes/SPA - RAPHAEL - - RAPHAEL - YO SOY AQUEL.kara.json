@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHAEL - - RAPHAEL - YO SOY AQUEL.MP3",
+      "loudnorm": "-10.09,2.30,3.50,-20.15,-1.38",
+      "duration": 164,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHAEL - - RAPHAEL - YO SOY AQUEL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "69835087-baad-4b8e-8600-0eef56721a9e",
+    "title": "RAPHAEL   -   YO SOY AQUEL",
+    "titles": {
+      "spa": "RAPHAEL   -   YO SOY AQUEL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:39:10.453Z",
+    "modified_at": "2022-11-03T11:39:10.902Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2636583,
+      "gain": -5.83,
+      "duration": 164,
+      "loudnorm": "-10.09,2.30,3.50,-20.15,-1.38",
+      "filename": "processed_d93818fd2d371a8b7b08b79bb54cdcf5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2636583,
+      "gain": -5.83,
+      "duration": 164,
+      "loudnorm": "-10.09,2.30,3.50,-20.15,-1.38",
+      "filename": "processed_c9b32f7f3fb3f82c90e9b16a01acc0c9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

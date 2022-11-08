@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NINO BRAVO - - COMO TODOS.MP3",
+      "loudnorm": "-23.76,-4.37,6.90,-33.80,-0.75",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NINO BRAVO - - COMO TODOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "81e7e35e-4bbc-4988-942b-6606373b3c21",
+    "title": "COMO TODOS",
+    "titles": {
+      "spa": "COMO TODOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:59:29.851Z",
+    "modified_at": "2022-11-03T10:59:30.464Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3205715,
+      "gain": 5.55,
+      "duration": 200,
+      "loudnorm": "-23.76,-4.37,6.90,-33.80,-0.75",
+      "filename": "processed_3f9ab1b0ab8667af3e752e2190285abb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3205715,
+      "gain": 5.55,
+      "duration": 200,
+      "loudnorm": "-23.76,-4.37,6.90,-33.80,-0.75",
+      "filename": "processed_8b66345a1690ce8eb761d65bb3e14ca8.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

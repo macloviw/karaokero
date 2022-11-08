@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - TZLAS182-08 - - TZLAS182-08 - El Dia Que Me Quieras - Gardel, Carlos.mp3",
+      "loudnorm": "-13.95,-0.83,6.10,-24.36,-1.20",
+      "duration": 226,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - TZLAS182-08 - - TZLAS182-08 - El Dia Que Me Quieras - Gardel, Carlos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "654e5abd-f4b6-4790-a02a-81263f60b848",
+    "title": "TZLAS182-08 - El Dia Que Me Quieras - Gardel, Carlos",
+    "titles": {
+      "spa": "TZLAS182-08 - El Dia Que Me Quieras - Gardel, Carlos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "c61e5f9d-3578-4b96-8e2f-90754251309f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:28:36.044Z",
+    "modified_at": "2022-11-03T23:28:36.435Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f8bea1192541aecd7f1b2fee92d1fd9c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3619912,
+      "gain": -4.28,
+      "duration": 226,
+      "loudnorm": "-13.95,-0.83,6.10,-24.36,-1.20",
+      "filename": "processed_ea6b78cdc62610721c44b7ef2ee58e4e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - Sin Bandera - Que Lloro.mp3",
+      "loudnorm": "-13.56,0.85,14.70,-24.17,-2.24",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - Sin Bandera - Que Lloro.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a8a9764d-e236-43e0-99ea-3f5f8a235da0",
+    "title": "Sin Bandera - Que Lloro",
+    "titles": {
+      "spa": "Sin Bandera - Que Lloro"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:12:07.274Z",
+    "modified_at": "2022-11-03T13:12:07.704Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_47e44bd22e2f18097468d35c6f6c1b94.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4105573,
+      "gain": -4.18,
+      "duration": 256,
+      "loudnorm": "-13.56,0.85,14.70,-24.17,-2.24",
+      "filename": "processed_44b4cf1f86ce73c325eec109ddc356e3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - Ahora O Nunca - Angela Carrasco.mp3",
+      "loudnorm": "-10.38,1.59,4.10,-20.45,-0.79",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - Ahora O Nunca - Angela Carrasco.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "43e809cc-d5a8-4e5b-9179-6c018ba597c0",
+    "title": "Ahora O Nunca - Angela Carrasco",
+    "titles": {
+      "spa": "Ahora O Nunca - Angela Carrasco"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:00:20.112Z",
+    "modified_at": "2022-11-03T02:00:20.626Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5dd0973d82cdc89440537d5cfc3052cd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3469147,
+      "gain": -7.48,
+      "duration": 216,
+      "loudnorm": "-10.38,1.59,4.10,-20.45,-0.79",
+      "filename": "processed_0da07416694895b8c7cf73ca678b5ca3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

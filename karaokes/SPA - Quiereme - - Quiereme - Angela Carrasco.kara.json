@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Quiereme - - Quiereme - Angela Carrasco.mp3",
+      "loudnorm": "-11.71,0.81,5.20,-22.05,-0.46",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Quiereme - - Quiereme - Angela Carrasco.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "930f0e62-fa91-47cb-b37e-a4e934b6cd31",
+    "title": "Quiereme - Angela Carrasco",
+    "titles": {
+      "spa": "Quiereme - Angela Carrasco"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "babb7d46-64ba-4267-bc08-d5e549114b99"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:11:19.834Z",
+    "modified_at": "2022-11-03T23:11:20.222Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1ba82e51214e22eb588c00638cbebadd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3697112,
+      "gain": -7.18,
+      "duration": 230,
+      "loudnorm": "-11.71,0.81,5.20,-22.05,-0.46",
+      "filename": "processed_7c11a32a0c7bc738e8301ee54f40fd6b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Bee Gees - - The Bee Gees - Lonely days.mp3",
+      "loudnorm": "-25.08,-10.56,6.30,-35.20,-0.70",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Bee Gees - - The Bee Gees - Lonely days.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "453f527e-6788-4c53-9584-d81a61d5ab69",
+    "title": "The Bee Gees - Lonely days",
+    "titles": {
+      "spa": "The Bee Gees - Lonely days"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4f1132be-fcfb-4508-9d1c-1eb4ec8f5120"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:47:19.465Z",
+    "modified_at": "2022-11-04T01:47:19.844Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8109d2997e73aa1ad1fa0313219e3cd3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5307967,
+      "gain": 7.01,
+      "duration": 221,
+      "loudnorm": "-25.08,-10.56,6.30,-35.20,-0.70",
+      "filename": "processed_a45861554a0c6ee13dc152a1b4104d95.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

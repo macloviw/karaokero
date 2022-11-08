@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Prince Royce - - El Amor Que Perdimos - Prince Royce.mp3",
+      "loudnorm": "-13.91,0.04,2.30,-23.98,-0.83",
+      "duration": 254,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Prince Royce - - El Amor Que Perdimos - Prince Royce.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "34c54839-d6a1-46f9-9599-4b3138ffc58e",
+    "title": "El Amor Que Perdimos - Prince Royce",
+    "titles": {
+      "spa": "El Amor Que Perdimos - Prince Royce"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "eb9d7e1d-64de-4cb0-98a4-b79b2eef9d5d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:13:49.861Z",
+    "modified_at": "2022-11-03T00:13:50.285Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bb05f750ee4c62116de21d482ef8902d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5090921,
+      "gain": -4.88,
+      "duration": 254,
+      "loudnorm": "-13.91,0.04,2.30,-23.98,-0.83",
+      "filename": "processed_4eda8edae79acca60d1b0aba6ab8f366.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

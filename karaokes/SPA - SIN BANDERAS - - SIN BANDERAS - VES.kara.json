@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - SIN BANDERAS - VES.MP3",
+      "loudnorm": "-14.09,-0.81,8.20,-24.46,-0.94",
+      "duration": 235,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - SIN BANDERAS - VES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "27236fcf-d8cf-414f-ab9d-a4f7c14a16ea",
+    "title": "SIN BANDERAS   -    VES",
+    "titles": {
+      "spa": "SIN BANDERAS   -    VES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:14:17.010Z",
+    "modified_at": "2022-11-03T13:14:17.638Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 9407313,
+      "gain": -5.72,
+      "duration": 235,
+      "loudnorm": "-14.09,-0.81,8.20,-24.46,-0.94",
+      "filename": "processed_15986506b2f8ad48b8092453ec368f86.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9407313,
+      "gain": -5.72,
+      "duration": 235,
+      "loudnorm": "-14.09,-0.81,8.20,-24.46,-0.94",
+      "filename": "processed_771166e408dd72104e515a217b4730ee.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

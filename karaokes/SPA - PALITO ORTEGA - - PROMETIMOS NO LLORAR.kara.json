@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PALITO ORTEGA - - PROMETIMOS NO LLORAR.MP3",
+      "loudnorm": "-13.46,0.76,14.50,-24.42,-0.87",
+      "duration": 209,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PALITO ORTEGA - - PROMETIMOS NO LLORAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8eacfa60-3e3b-4ad2-ac15-a138e711ce9f",
+    "title": "PROMETIMOS NO LLORAR",
+    "titles": {
+      "spa": "PROMETIMOS NO LLORAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f80c6ac1-7343-4498-a12e-ad0d07065158"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:12:07.287Z",
+    "modified_at": "2022-11-03T11:12:07.755Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3356180,
+      "gain": -3.23,
+      "duration": 209,
+      "loudnorm": "-13.46,0.76,14.50,-24.42,-0.87",
+      "filename": "processed_0ece06372a1ada26977e4d9bea4625fa.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3356180,
+      "gain": -3.23,
+      "duration": 209,
+      "loudnorm": "-13.46,0.76,14.50,-24.42,-0.87",
+      "filename": "processed_e55c4989f853e9d61f21fb30dde317a6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

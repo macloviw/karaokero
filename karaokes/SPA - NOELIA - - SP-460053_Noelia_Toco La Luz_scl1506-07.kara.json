@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NOELIA - - SP-460053_Noelia_Toco La Luz_scl1506-07.mp3",
+      "loudnorm": "-17.16,-0.20,3.50,-27.20,-0.50",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NOELIA - - SP-460053_Noelia_Toco La Luz_scl1506-07.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f923c966-2517-4c29-a22a-ede78b08d16f",
+    "title": "SP-460053_Noelia_Toco La Luz_scl1506-07",
+    "titles": {
+      "spa": "SP-460053_Noelia_Toco La Luz_scl1506-07"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "430fe347-4adc-4a27-8194-a6512b79062e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:04:00.147Z",
+    "modified_at": "2022-11-03T11:04:00.582Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b21dc993d1797c8c5bd72d57c7199c51.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4305034,
+      "gain": -0.16,
+      "duration": 269,
+      "loudnorm": "-17.16,-0.20,3.50,-27.20,-0.50",
+      "filename": "processed_e3c96655c8ef31f95c8958ae6b354be1.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

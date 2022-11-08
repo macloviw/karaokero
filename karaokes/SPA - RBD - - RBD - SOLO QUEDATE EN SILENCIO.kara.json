@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - RBD - SOLO QUEDATE EN SILENCIO.MP3",
+      "loudnorm": "-18.11,1.38,7.70,-28.53,-0.52",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - RBD - SOLO QUEDATE EN SILENCIO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2df806d3-3a89-4a55-98ec-2f2bcb160312",
+    "title": "RBD - SOLO QUEDATE EN SILENCIO",
+    "titles": {
+      "spa": "RBD - SOLO QUEDATE EN SILENCIO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:43:35.313Z",
+    "modified_at": "2022-11-03T11:43:35.768Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3678555,
+      "gain": 1.78,
+      "duration": 229,
+      "loudnorm": "-18.11,1.38,7.70,-28.53,-0.52",
+      "filename": "processed_490685ab98750894129de4296a82b832.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3678555,
+      "gain": 1.78,
+      "duration": 229,
+      "loudnorm": "-18.11,1.38,7.70,-28.53,-0.52",
+      "filename": "processed_bff8ca9e752b3eecca9820ddde643b3d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

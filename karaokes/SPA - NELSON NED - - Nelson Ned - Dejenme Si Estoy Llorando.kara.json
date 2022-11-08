@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NELSON NED - - Nelson Ned - Dejenme Si Estoy Llorando.MP3",
+      "loudnorm": "-13.27,2.19,3.30,-23.39,0.26",
+      "duration": 187,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NELSON NED - - Nelson Ned - Dejenme Si Estoy Llorando.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1546e27e-baca-47ce-b9f1-aee88fad378a",
+    "title": "Nelson Ned - Dejenme Si Estoy Llorando",
+    "titles": {
+      "spa": "Nelson Ned - Dejenme Si Estoy Llorando"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b8f7b9f-1b15-4543-b0c8-99f48e096f56"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:51:38.878Z",
+    "modified_at": "2022-11-03T10:51:39.400Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3008567,
+      "gain": -2.13,
+      "duration": 187,
+      "loudnorm": "-13.27,2.19,3.30,-23.39,0.26",
+      "filename": "processed_2b6f61294c91237f73a4e4b14a2e8edd.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3008567,
+      "gain": -2.13,
+      "duration": 187,
+      "loudnorm": "-13.27,2.19,3.30,-23.39,0.26",
+      "filename": "processed_b2a03d822ae90579755906dcee8ab300.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

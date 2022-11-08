@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NICOLA DI VARI - - NICOLA DI BARI - PRIMERA COSA BELLA.mp3",
+      "loudnorm": "-11.90,3.40,12.60,-22.52,-1.61",
+      "duration": 206,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NICOLA DI VARI - - NICOLA DI BARI - PRIMERA COSA BELLA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "21d149a5-e0b6-4c45-8cea-fd751715cf5d",
+    "title": "NICOLA DI BARI - PRIMERA COSA BELLA",
+    "titles": {
+      "spa": "NICOLA DI BARI - PRIMERA COSA BELLA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:55:41.372Z",
+    "modified_at": "2022-11-03T10:55:41.974Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ee40c190e1219ddde20d668837f816ef.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2889684,
+      "gain": -4.21,
+      "duration": 206,
+      "loudnorm": "-11.90,3.40,12.60,-22.52,-1.61",
+      "filename": "processed_1cb49963643f3201ad94ac2090687d12.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - PERDONAME BY JOSCAR SARANTE.CDG.MP3",
+      "loudnorm": "-14.14,0.80,2.60,-24.25,-0.39",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - PERDONAME BY JOSCAR SARANTE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4eda555c-f44f-4865-9c68-d0e40a39ea8b",
+    "title": "PERDONAME BY JOSCAR SARANTE.CDG",
+    "titles": {
+      "spa": "PERDONAME BY JOSCAR SARANTE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T19:59:14.344Z",
+    "modified_at": "2022-11-02T19:59:14.952Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4551543,
+      "gain": -3.78,
+      "duration": 284,
+      "loudnorm": "-14.14,0.80,2.60,-24.25,-0.39",
+      "filename": "processed_b04f8dfab7d46788543e5b7122693f5a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4551543,
+      "gain": -3.78,
+      "duration": 284,
+      "loudnorm": "-14.14,0.80,2.60,-24.25,-0.39",
+      "filename": "processed_a9e5e6e3c0480e4660846bf646aac606.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

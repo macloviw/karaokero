@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NELSON NED - - Nelson Ned - Dile A Tu Nuevo Amor.MP3",
+      "loudnorm": "-12.82,3.08,15.40,-23.40,-0.60",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NELSON NED - - Nelson Ned - Dile A Tu Nuevo Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "52c0c6cb-67f8-4b9f-8936-888c6acdf00d",
+    "title": "Nelson Ned - Dile A Tu Nuevo Amor",
+    "titles": {
+      "spa": "Nelson Ned - Dile A Tu Nuevo Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b8f7b9f-1b15-4543-b0c8-99f48e096f56"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:52:04.493Z",
+    "modified_at": "2022-11-03T10:52:05.267Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4241964,
+      "gain": -4.83,
+      "duration": 264,
+      "loudnorm": "-12.82,3.08,15.40,-23.40,-0.60",
+      "filename": "processed_2535ec5e05eb39543bd670c95de1625c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4241964,
+      "gain": -4.83,
+      "duration": 264,
+      "loudnorm": "-12.82,3.08,15.40,-23.40,-0.60",
+      "filename": "processed_7ea050254fe519cdc2ea59c5507a4277.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

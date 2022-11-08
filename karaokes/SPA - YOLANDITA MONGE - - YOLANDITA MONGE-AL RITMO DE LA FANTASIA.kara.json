@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-AL RITMO DE LA FANTASIA.mp3",
+      "loudnorm": "-13.53,-2.29,7.90,-23.58,-2.02",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-AL RITMO DE LA FANTASIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "018320fd-db58-4514-9cd4-51de2aed0648",
+    "title": "YOLANDITA MONGE-AL RITMO DE LA FANTASIA",
+    "titles": {
+      "spa": "YOLANDITA MONGE-AL RITMO DE LA FANTASIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:41:03.688Z",
+    "modified_at": "2022-11-03T13:41:04.137Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_546f939daaec24cabe1175ca5a8759a8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6000108,
+      "gain": -4.7,
+      "duration": 249,
+      "loudnorm": "-13.53,-2.29,7.90,-23.58,-2.02",
+      "filename": "processed_9cf7e08417ca1a4497d6d20f84a5027a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

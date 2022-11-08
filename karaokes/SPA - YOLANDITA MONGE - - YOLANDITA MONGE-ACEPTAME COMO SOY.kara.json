@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-ACEPTAME COMO SOY.mp3",
+      "loudnorm": "-17.18,-2.19,4.60,-27.34,-1.11",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-ACEPTAME COMO SOY.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "977e9c49-f534-4f1a-9f2f-44fb512c4044",
+    "title": "YOLANDITA MONGE-ACEPTAME COMO SOY",
+    "titles": {
+      "spa": "YOLANDITA MONGE-ACEPTAME COMO SOY"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:40:53.160Z",
+    "modified_at": "2022-11-03T13:40:53.571Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_350cfde6cb2b980adeffbcf9981465df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5309221,
+      "gain": -0.72,
+      "duration": 221,
+      "loudnorm": "-17.18,-2.19,4.60,-27.34,-1.11",
+      "filename": "processed_1e1a5f134d35da29fde1fda6a6fa3e41.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - sin bandera - 04 - Pista 4.mp3",
+      "loudnorm": "-23.28,0.10,6.70,-33.80,1.02",
+      "duration": 204,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - sin bandera - 04 - Pista 4.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5486d74f-dc24-4c49-a870-31dea9558ebb",
+    "title": "sin bandera - 04 - Pista  4",
+    "titles": {
+      "spa": "sin bandera - 04 - Pista  4"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:09:59.102Z",
+    "modified_at": "2022-11-03T13:09:59.505Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1c028a361c948c6cf7c30dc26c1b3f5d.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 822013,
+      "gain": 4.71,
+      "duration": 204,
+      "loudnorm": "-23.28,0.10,6.70,-33.80,1.02",
+      "filename": "processed_33eab8221fb32d8a5654b6a15855f198.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

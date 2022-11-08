@@ -1,0 +1,56 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Marc Anthony - CM1 - Marc anthony - Vivir mi vida.mp3",
+      "audiogain": -4.86,
+      "loudnorm": "-11.52,3.47,3.90,-21.57,-0.75",
+      "filesize": 8756239,
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Marc Anthony - CM1 - Marc anthony - Vivir mi vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "created_at": "2022-10-24T22:19:41.263Z",
+    "ignoreHooks": false,
+    "kid": "8ba1c82d-8e37-4932-9d02-21e33e0fa5a3",
+    "modified_at": "2022-10-27T19:39:48.877Z",
+    "repository": "Local",
+    "songorder": 1,
+    "tags": {
+      "authors": [
+        "8c22c899-b3ed-42da-a548-ce00f950798b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ],
+      "singers": [
+        "7534b4f6-f8b3-44a8-bc4c-605c2e513ac7"
+      ],
+      "songtypes": [
+        "2ddb5358-e674-46fa-a6e1-7f5c5d56f8fa",
+        "e21a863a-1a09-4f17-949e-fff891cf9872"
+      ]
+    },
+    "titles": {
+      "spa": "Marc anthony - Vivir mi vida"
+    },
+    "titles_default_language": "spa",
+    "title": "Marc anthony - Vivir mi vida",
+    "year": 2022
+  }
+}

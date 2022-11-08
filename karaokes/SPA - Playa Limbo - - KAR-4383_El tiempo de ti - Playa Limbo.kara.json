@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Playa Limbo - - KAR-4383_El tiempo de ti - Playa Limbo.mp3",
+      "loudnorm": "-15.78,-0.38,14.80,-26.48,-1.46",
+      "duration": 307,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Playa Limbo - - KAR-4383_El tiempo de ti - Playa Limbo.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e4a24f5b-eee0-4f9d-8421-5b56d478e8df",
+    "title": "KAR-4383_El tiempo de ti - Playa Limbo",
+    "titles": {
+      "spa": "KAR-4383_El tiempo de ti - Playa Limbo"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0daab5d1-9367-4f5a-bd70-de9cc3704bb7"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:10:48.283Z",
+    "modified_at": "2022-11-03T23:10:48.683Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_91132a9ebc544266c45cadd2ecb80aa1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7399424,
+      "gain": -0.2,
+      "duration": 307,
+      "loudnorm": "-15.78,-0.38,14.80,-26.48,-1.46",
+      "filename": "processed_b667a050c1fb1f95c884d8cc786ebeb4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

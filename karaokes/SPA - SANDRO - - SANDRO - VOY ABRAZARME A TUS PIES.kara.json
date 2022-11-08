@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - VOY ABRAZARME A TUS PIES.MP3",
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "duration": 163,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - VOY ABRAZARME A TUS PIES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d5e6d28e-e796-49c8-8357-cb7fc482b697",
+    "title": "SANDRO   -   VOY ABRAZARME A TUS PIES",
+    "titles": {
+      "spa": "SANDRO   -   VOY ABRAZARME A TUS PIES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:54:59.024Z",
+    "modified_at": "2022-11-03T12:54:59.480Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2623915,
+      "gain": 4.65,
+      "duration": 163,
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "filename": "processed_eefa04d6a1fb6729076f0321d0b8d5a5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2623915,
+      "gain": 4.65,
+      "duration": 163,
+      "loudnorm": "-21.41,-5.08,3.60,-31.67,-0.11",
+      "filename": "processed_b78f3fe423c9f7248b83c8aa7a61eb57.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

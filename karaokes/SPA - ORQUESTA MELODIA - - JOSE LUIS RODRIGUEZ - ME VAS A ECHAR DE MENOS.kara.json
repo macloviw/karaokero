@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ORQUESTA MELODIA - - JOSE LUIS RODRIGUEZ - ME VAS A ECHAR DE MENOS.mp3",
+      "loudnorm": "-10.76,0.13,7.60,-20.93,-0.56",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ORQUESTA MELODIA - - JOSE LUIS RODRIGUEZ - ME VAS A ECHAR DE MENOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b08a355-c05e-487b-8b3d-1e4be2d0f6a1",
+    "title": "JOSE LUIS RODRIGUEZ - ME VAS A ECHAR DE MENOS",
+    "titles": {
+      "spa": "JOSE LUIS RODRIGUEZ - ME VAS A ECHAR DE MENOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d4e90224-c53e-4868-bb01-50add9a74b0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:09:16.945Z",
+    "modified_at": "2022-11-03T11:09:17.356Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe29db3bf14f7979e8fad3c740fadbf8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7599228,
+      "gain": -7.24,
+      "duration": 236,
+      "loudnorm": "-10.76,0.13,7.60,-20.93,-0.56",
+      "filename": "processed_0207a5c226e06b9d3f4978b7f2d45852.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

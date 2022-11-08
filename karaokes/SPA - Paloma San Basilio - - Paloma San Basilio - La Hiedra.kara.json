@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - La Hiedra.mp3",
+      "loudnorm": "-17.15,-0.33,4.50,-27.21,0.91",
+      "duration": 147,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - La Hiedra.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "35b90801-b087-43a5-912d-06573d0cc4ef",
+    "title": "Paloma San Basilio - La Hiedra",
+    "titles": {
+      "spa": "Paloma San Basilio - La Hiedra"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "812e5fc3-0e59-4cc5-8728-c6d83892bad2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:13:31.371Z",
+    "modified_at": "2022-11-03T11:13:31.831Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b33c4e17f0e715c467c4781594179637.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3553793,
+      "gain": -1.44,
+      "duration": 147,
+      "loudnorm": "-17.15,-0.33,4.50,-27.21,0.91",
+      "filename": "processed_b0b98898f7a173373a1215cd1e4fb132.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

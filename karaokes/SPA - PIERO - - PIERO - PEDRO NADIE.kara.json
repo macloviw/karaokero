@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PIERO - - PIERO - PEDRO NADIE.MP3",
+      "loudnorm": "-13.65,0.64,5.20,-23.81,-0.55",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PIERO - - PIERO - PEDRO NADIE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "aabb781c-323f-48f5-9a63-aea6e8f0dc7f",
+    "title": "PIERO   -   PEDRO NADIE",
+    "titles": {
+      "spa": "PIERO   -   PEDRO NADIE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "902e3b5f-1dd1-41a3-baab-d06fda207252"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:25:03.038Z",
+    "modified_at": "2022-11-03T11:25:03.545Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3377078,
+      "gain": -3.23,
+      "duration": 210,
+      "loudnorm": "-13.65,0.64,5.20,-23.81,-0.55",
+      "filename": "processed_e123a8f38f4d6a07669b365b07bad25b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3377078,
+      "gain": -3.23,
+      "duration": 210,
+      "loudnorm": "-13.65,0.64,5.20,-23.81,-0.55",
+      "filename": "processed_cd292bb67ec993da0b5b37d7247b2dc7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

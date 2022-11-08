@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - JURAMENTO.MP3",
+      "loudnorm": "-10.08,2.43,4.20,-20.21,-1.11",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - JURAMENTO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "47c1704a-932e-4ed6-a991-1397d18812e6",
+    "title": "RICKY MARTIN  -  JURAMENTO",
+    "titles": {
+      "spa": "RICKY MARTIN  -  JURAMENTO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "593f5cdd-4f71-4e50-8e75-295fe4909d33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:21:38.948Z",
+    "modified_at": "2022-11-03T12:21:39.437Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3675630,
+      "gain": -7.19,
+      "duration": 229,
+      "loudnorm": "-10.08,2.43,4.20,-20.21,-1.11",
+      "filename": "processed_8f2c7ed42ebec18cc5fe795bf118ac8f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3675630,
+      "gain": -7.19,
+      "duration": 229,
+      "loudnorm": "-10.08,2.43,4.20,-20.21,-1.11",
+      "filename": "processed_6fc40c3dd27f0f26e94d64277c6ca4f6.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

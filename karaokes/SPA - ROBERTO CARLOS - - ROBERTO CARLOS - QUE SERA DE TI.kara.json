@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - QUE SERA DE TI.MP3",
+      "loudnorm": "-10.72,0.87,6.60,-21.11,-0.60",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - QUE SERA DE TI.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bf392cf2-62cb-436b-899d-ab9871efb608",
+    "title": "ROBERTO CARLOS   -   QUE SERA DE TI",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   QUE SERA DE TI"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:31:42.855Z",
+    "modified_at": "2022-11-03T12:31:43.443Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4317486,
+      "gain": -6.94,
+      "duration": 269,
+      "loudnorm": "-10.72,0.87,6.60,-21.11,-0.60",
+      "filename": "processed_af5dbf4d5147bcf0aa2bffc5f60fb5f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4317486,
+      "gain": -6.94,
+      "duration": 269,
+      "loudnorm": "-10.72,0.87,6.60,-21.11,-0.60",
+      "filename": "processed_d61d098f5644e3a54d7898ef2d1f989d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

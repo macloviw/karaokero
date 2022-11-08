@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - HOLA SOLEDAD.MP3",
+      "loudnorm": "-13.86,1.40,2.90,-24.10,-0.88",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - HOLA SOLEDAD.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d797fd13-240b-46c3-a6a4-8bf1563908ce",
+    "title": "ROLANDO LA SERIE   -   HOLA SOLEDAD",
+    "titles": {
+      "spa": "ROLANDO LA SERIE   -   HOLA SOLEDAD"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08b6d44-d43f-4859-bd7e-f9e6249066a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:49:19.501Z",
+    "modified_at": "2022-11-03T12:49:20.113Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2841801,
+      "gain": -6.77,
+      "duration": 177,
+      "loudnorm": "-13.86,1.40,2.90,-24.10,-0.88",
+      "filename": "processed_47744b60f9110288f3db5095b78fad1c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2841801,
+      "gain": -6.77,
+      "duration": 177,
+      "loudnorm": "-13.86,1.40,2.90,-24.10,-0.88",
+      "filename": "processed_b92466d2f227896ff32359434063eb31.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

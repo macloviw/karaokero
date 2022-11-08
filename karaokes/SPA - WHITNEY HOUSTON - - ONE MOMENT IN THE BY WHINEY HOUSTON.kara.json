@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WHITNEY HOUSTON - - ONE MOMENT IN THE BY WHINEY HOUSTON.MP3",
+      "loudnorm": "-15.71,1.78,11.40,-26.15,-1.89",
+      "duration": 285,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WHITNEY HOUSTON - - ONE MOMENT IN THE BY WHINEY HOUSTON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d8bcc831-08e8-46c2-9bcc-9f3e82efd54c",
+    "title": "ONE MOMENT IN THE BY WHINEY HOUSTON",
+    "titles": {
+      "spa": "ONE MOMENT IN THE BY WHINEY HOUSTON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "7daf21bb-1a95-497f-adcd-a342e0a17e32"
+      ],
+      "singers": [
+        "9ad3b2e6-5f96-4dc1-90de-63afa074acd9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:55:58.074Z",
+    "modified_at": "2022-11-04T01:55:58.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4573695,
+      "gain": -1.29,
+      "duration": 285,
+      "loudnorm": "-15.71,1.78,11.40,-26.15,-1.89",
+      "filename": "processed_fab230d983e062dbf345c9abe89aa59c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4573695,
+      "gain": -1.29,
+      "duration": 285,
+      "loudnorm": "-15.71,1.78,11.40,-26.15,-1.89",
+      "filename": "processed_160f5d0b33e85761b7f9ba3f2f2b160a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

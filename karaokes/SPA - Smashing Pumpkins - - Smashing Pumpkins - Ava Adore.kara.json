@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Smashing Pumpkins - - Smashing Pumpkins - Ava Adore.mp3",
+      "loudnorm": "-14.53,0.03,2.80,-24.61,-0.86",
+      "duration": 273,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Smashing Pumpkins - - Smashing Pumpkins - Ava Adore.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2fc5479b-3b15-4ff7-b03f-5b855857ddbf",
+    "title": "Smashing Pumpkins - Ava Adore",
+    "titles": {
+      "spa": "Smashing Pumpkins - Ava Adore"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b8ed0e9e-2aa6-48e4-b27a-a4b9243a5f54"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:43:00.286Z",
+    "modified_at": "2022-11-04T01:43:00.672Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34b4df6a69438900525c09565a1290c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4382398,
+      "gain": -2.88,
+      "duration": 273,
+      "loudnorm": "-14.53,0.03,2.80,-24.61,-0.86",
+      "filename": "processed_8bf3604a21dcd83ea8527e7e39d93e5e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

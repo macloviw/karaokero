@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NINO BRAVO - - MI GRAN AMOR.MP3",
+      "loudnorm": "-22.93,-5.96,4.90,-32.96,-0.52",
+      "duration": 169,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NINO BRAVO - - MI GRAN AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "993db88c-daf5-4933-8409-190d0bd096d8",
+    "title": "MI GRAN AMOR",
+    "titles": {
+      "spa": "MI GRAN AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:00:07.743Z",
+    "modified_at": "2022-11-03T11:00:08.283Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2714613,
+      "gain": 6.03,
+      "duration": 169,
+      "loudnorm": "-22.93,-5.96,4.90,-32.96,-0.52",
+      "filename": "processed_f4a8746d131cfe221f82440a7884866d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2714613,
+      "gain": 6.03,
+      "duration": 169,
+      "loudnorm": "-22.93,-5.96,4.90,-32.96,-0.52",
+      "filename": "processed_5c62e62541252217f129bc096abe1287.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

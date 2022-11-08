@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PINPINELA - - PINPINELA - ENTRE LA ESPADA Y LA PARED.MP3",
+      "loudnorm": "-10.35,1.37,5.80,-20.43,-0.59",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PINPINELA - - PINPINELA - ENTRE LA ESPADA Y LA PARED.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "89909a3c-db02-40f0-b22a-e357a0161fe9",
+    "title": "PINPINELA                                               -   ENTRE LA ESPADA Y LA PARED",
+    "titles": {
+      "spa": "PINPINELA                                               -   ENTRE LA ESPADA Y LA PARED"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8cd72eb1-94f7-4017-8f10-0825b6f20308"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:26:53.669Z",
+    "modified_at": "2022-11-03T11:26:54.242Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4056678,
+      "gain": -6.37,
+      "duration": 253,
+      "loudnorm": "-10.35,1.37,5.80,-20.43,-0.59",
+      "filename": "processed_56ea23764f38f9e830732464f7059d68.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4056678,
+      "gain": -6.37,
+      "duration": 253,
+      "loudnorm": "-10.35,1.37,5.80,-20.43,-0.59",
+      "filename": "processed_91fb26abb39f7903c059432554b52d71.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

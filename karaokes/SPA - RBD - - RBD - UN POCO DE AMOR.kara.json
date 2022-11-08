@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - RBD - UN POCO DE AMOR.MP3",
+      "loudnorm": "-16.07,-1.38,5.20,-26.24,-0.96",
+      "duration": 218,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - RBD - UN POCO DE AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "98503a92-6bf8-4cde-9c00-796980c1213d",
+    "title": "RBD - UN POCO DE AMOR",
+    "titles": {
+      "spa": "RBD - UN POCO DE AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:44:11.174Z",
+    "modified_at": "2022-11-03T11:44:11.705Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3490056,
+      "gain": -0.79,
+      "duration": 218,
+      "loudnorm": "-16.07,-1.38,5.20,-26.24,-0.96",
+      "filename": "processed_865d77f7a2432a4473b66b9584ffd950.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3490056,
+      "gain": -0.79,
+      "duration": 218,
+      "loudnorm": "-16.07,-1.38,5.20,-26.24,-0.96",
+      "filename": "processed_c6c0b0943e454fcf80121fa1610f409f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

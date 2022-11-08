@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - SE TE NOTA.MP3",
+      "loudnorm": "-19.53,-3.89,7.40,-29.79,-0.91",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - SE TE NOTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0304da93-e63e-4d04-ad3a-66a87bc08b28",
+    "title": "SANDRO   -   SE TE NOTA",
+    "titles": {
+      "spa": "SANDRO   -   SE TE NOTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:53:49.076Z",
+    "modified_at": "2022-11-03T12:53:49.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3145946,
+      "gain": 1.49,
+      "duration": 196,
+      "loudnorm": "-19.53,-3.89,7.40,-29.79,-0.91",
+      "filename": "processed_0d32d12d2630614da12ca0b1362c8334.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3145946,
+      "gain": 1.49,
+      "duration": 196,
+      "loudnorm": "-19.53,-3.89,7.40,-29.79,-0.91",
+      "filename": "processed_27420fae8dcbedb1e48948f81df78f74.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

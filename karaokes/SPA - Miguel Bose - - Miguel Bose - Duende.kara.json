@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - Duende.MP3",
+      "loudnorm": "-15.52,0.11,3.50,-25.55,-0.15",
+      "duration": 265,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - Duende.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "05b4c371-4ef9-4569-9196-9e54f445996b",
+    "title": "Miguel Bose - Duende",
+    "titles": {
+      "spa": "Miguel Bose - Duende"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:39:04.195Z",
+    "modified_at": "2022-11-03T10:39:04.895Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4256046,
+      "gain": -0.41,
+      "duration": 265,
+      "loudnorm": "-15.52,0.11,3.50,-25.55,-0.15",
+      "filename": "processed_e32cef4c88a53b7a11a6d4a11297aca4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4256046,
+      "gain": -0.41,
+      "duration": 265,
+      "loudnorm": "-15.52,0.11,3.50,-25.55,-0.15",
+      "filename": "processed_bbc5798c0dde6affcd4775fc5538f52b.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

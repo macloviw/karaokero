@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Doors - - Doors - Riders On The Storm.mp3",
+      "loudnorm": "-10.86,0.47,3.00,-21.24,-0.09",
+      "duration": 299,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Doors - - Doors - Riders On The Storm.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "61065298-08b5-4c49-9326-9713aa17018f",
+    "title": "Doors - Riders On The Storm",
+    "titles": {
+      "spa": "Doors - Riders On The Storm"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "fffef627-7c96-4824-a970-46e720776c7c"
+      ],
+      "singers": [
+        "142ec1c7-8c3e-4db4-a61e-3263e0416ffd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T03:03:43.662Z",
+    "modified_at": "2022-11-04T03:03:44.066Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_395dc448395d75c97c1037eaf15bb198.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4791870,
+      "gain": -5.26,
+      "duration": 299,
+      "loudnorm": "-10.86,0.47,3.00,-21.24,-0.09",
+      "filename": "processed_b3b579bb196cc708954658263906111d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

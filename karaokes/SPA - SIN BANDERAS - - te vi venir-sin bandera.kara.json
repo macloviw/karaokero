@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - te vi venir-sin bandera.mp3",
+      "loudnorm": "-10.62,-0.34,5.10,-20.98,-1.56",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - te vi venir-sin bandera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1890b979-2615-4b68-a89c-ff3704453ea6",
+    "title": "te vi venir-sin bandera",
+    "titles": {
+      "spa": "te vi venir-sin bandera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:14:26.959Z",
+    "modified_at": "2022-11-03T13:14:27.393Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_670b3a69f3a5404ed5666953991cf373.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3286799,
+      "gain": -7.31,
+      "duration": 205,
+      "loudnorm": "-10.62,-0.34,5.10,-20.98,-1.56",
+      "filename": "processed_4fcb7a3868b63d6000f11a137f9b7d9b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

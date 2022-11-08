@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Michael Jackson - - Beat It.mp3",
+      "loudnorm": "-13.15,0.04,5.10,-23.20,-1.38",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Michael Jackson - - Beat It.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5dd8b010-ef2b-4dea-bddb-abe2ad30c281",
+    "title": "Beat It",
+    "titles": {
+      "spa": "Beat It"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "64c9e2e0-5189-496c-b6c0-24847fc59b3f"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:55:02.807Z",
+    "modified_at": "2022-11-02T21:55:03.456Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_23518caf730527b1de683f31c4256c1a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4429209,
+      "gain": -4.74,
+      "duration": 276,
+      "loudnorm": "-13.15,0.04,5.10,-23.20,-1.38",
+      "filename": "processed_99ffd0b90c93ca34d2e672134ddd1e71.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

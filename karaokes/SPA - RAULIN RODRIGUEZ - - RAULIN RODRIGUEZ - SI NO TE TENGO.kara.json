@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ - SI NO TE TENGO.mp3",
+      "loudnorm": "-6.61,4.06,1.00,-16.67,-0.09",
+      "duration": 332,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ - SI NO TE TENGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c086cc2-5572-4b36-a07f-ebe6567ef32f",
+    "title": "RAULIN RODRIGUEZ - SI NO TE TENGO",
+    "titles": {
+      "spa": "RAULIN RODRIGUEZ - SI NO TE TENGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:23:20.120Z",
+    "modified_at": "2022-11-03T00:23:20.578Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_36a5060df3dd382e569ad56cd78333ea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8001094,
+      "gain": -9.45,
+      "duration": 332,
+      "loudnorm": "-6.61,4.06,1.00,-16.67,-0.09",
+      "filename": "processed_81254ead0c2ab8ced69aed0db8cc9317.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

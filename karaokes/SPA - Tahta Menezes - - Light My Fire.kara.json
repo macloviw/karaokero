@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Tahta Menezes - - Light My Fire.mp3",
+      "loudnorm": "-16.82,0.27,4.80,-26.92,-0.60",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Tahta Menezes - - Light My Fire.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a0f368e6-efbf-4de6-a6ca-785d0dabc76f",
+    "title": "Light My Fire",
+    "titles": {
+      "spa": "Light My Fire"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "a30b6cfc-2add-44b3-8eaf-6b4b700f1f87"
+      ],
+      "singers": [
+        "894ff700-af25-45c8-806f-fb10c004d4a1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:50:46.186Z",
+    "modified_at": "2022-11-03T23:50:46.562Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5aaa40b76e7d25acb01d08d5c86b947f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2978891,
+      "gain": -0.77,
+      "duration": 186,
+      "loudnorm": "-16.82,0.27,4.80,-26.92,-0.60",
+      "filename": "processed_9f86593c399f455c6470f2f8fd83bcb0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

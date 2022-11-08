@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - DIME DONDE VAS.mp3",
+      "loudnorm": "-16.60,0.17,2.10,-26.62,-0.25",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - DIME DONDE VAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "39e859d9-5939-40c5-8655-f261d51ff7e6",
+    "title": "YOSKAR SARANTE - DIME DONDE VAS",
+    "titles": {
+      "spa": "YOSKAR SARANTE - DIME DONDE VAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:09:06.501Z",
+    "modified_at": "2022-11-02T20:09:06.965Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_18d026d7f2f2854117dac46e8d05a53b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8136174,
+      "gain": 1.09,
+      "duration": 290,
+      "loudnorm": "-16.60,0.17,2.10,-26.62,-0.25",
+      "filename": "processed_7be4ce2afedff4cf7f3b9b3f75ee75ff.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

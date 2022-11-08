@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ-MI HERMOSO CANAHUATE.mp3",
+      "loudnorm": "-15.31,2.45,2.40,-25.36,-0.21",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - RAULIN RODRIGUEZ-MI HERMOSO CANAHUATE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c254f69f-06ee-472f-a69b-07afd2f5819a",
+    "title": "RAULIN RODRIGUEZ-MI HERMOSO CANAHUATE",
+    "titles": {
+      "spa": "RAULIN RODRIGUEZ-MI HERMOSO CANAHUATE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:24:46.613Z",
+    "modified_at": "2022-11-03T00:24:47.057Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_447b1a916ec937af7a2c725f135f5809.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4224541,
+      "gain": -3.37,
+      "duration": 301,
+      "loudnorm": "-15.31,2.45,2.40,-25.36,-0.21",
+      "filename": "processed_304bf2b9933913e04b486b6b71eb2215.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

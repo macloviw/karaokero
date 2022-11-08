@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - 08 - Sin Bandera - Sera.mp3",
+      "loudnorm": "-13.61,0.18,3.50,-23.74,-0.62",
+      "duration": 214,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - 08 - Sin Bandera - Sera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6a6594b5-1b6f-4ff4-9b9a-92f5b9fd1d6a",
+    "title": "08 - Sin Bandera - Sera",
+    "titles": {
+      "spa": "08 - Sin Bandera - Sera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:09:36.452Z",
+    "modified_at": "2022-11-03T13:09:36.863Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b0de377f2afec8e9c7f590c3d5026c2a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5146752,
+      "gain": -4,
+      "duration": 214,
+      "loudnorm": "-13.61,0.18,3.50,-23.74,-0.62",
+      "filename": "processed_f55c32f51d16e774363526b68be40423.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rafael - - Rafael - Y Como Es El.MP3",
+      "loudnorm": "-13.14,3.49,8.70,-23.35,-1.94",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rafael - - Rafael - Y Como Es El.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e3c0defd-f4f5-4cab-a4c8-9bcdfd1c4368",
+    "title": "Rafael - Y Como Es El",
+    "titles": {
+      "spa": "Rafael - Y Como Es El"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "021c6ea1-72c6-4e07-87fc-6a7bc3ad4e94"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:32:44.698Z",
+    "modified_at": "2022-11-03T11:32:45.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3967783,
+      "gain": -4.18,
+      "duration": 247,
+      "loudnorm": "-13.14,3.49,8.70,-23.35,-1.94",
+      "filename": "processed_260c847bfcc1dc96450155c422194824.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3967783,
+      "gain": -4.18,
+      "duration": 247,
+      "loudnorm": "-13.14,3.49,8.70,-23.35,-1.94",
+      "filename": "processed_d117cc17747ff8a29ac593b736e89b44.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

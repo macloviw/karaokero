@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Love Sneakin' Up On You.mp3",
+      "loudnorm": "-13.66,2.17,4.10,-23.68,-1.23",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Love Sneakin' Up On You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "24a0201a-baa4-4e9b-a578-1b07f6bf53ce",
+    "title": "Raitt, Bonnie - Love Sneakin' Up On You",
+    "titles": {
+      "spa": "Raitt, Bonnie - Love Sneakin' Up On You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d4054b12-6e75-4456-9cdf-9f9d30dffc1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:33:45.069Z",
+    "modified_at": "2022-11-04T01:33:45.450Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3685113a2e55711c783edf6e10100aa3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3641518,
+      "gain": -4.16,
+      "duration": 227,
+      "loudnorm": "-13.66,2.17,4.10,-23.68,-1.23",
+      "filename": "processed_21a268f70095ff036deadb7943581902.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

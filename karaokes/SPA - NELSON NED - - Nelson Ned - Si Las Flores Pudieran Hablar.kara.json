@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NELSON NED - - Nelson Ned - Si Las Flores Pudieran Hablar.MP3",
+      "loudnorm": "-6.76,7.06,2.90,-16.88,-0.45",
+      "duration": 294,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NELSON NED - - Nelson Ned - Si Las Flores Pudieran Hablar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f0d6a7e-2691-4775-a718-bbeacf64fce9",
+    "title": "Nelson Ned - Si Las Flores Pudieran Hablar",
+    "titles": {
+      "spa": "Nelson Ned - Si Las Flores Pudieran Hablar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b8f7b9f-1b15-4543-b0c8-99f48e096f56"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:53:57.797Z",
+    "modified_at": "2022-11-03T10:53:58.623Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4708480,
+      "gain": -9.48,
+      "duration": 294,
+      "loudnorm": "-6.76,7.06,2.90,-16.88,-0.45",
+      "filename": "processed_979ee3d01a65e37816444404e8248c7d.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4708480,
+      "gain": -9.48,
+      "duration": 294,
+      "loudnorm": "-6.76,7.06,2.90,-16.88,-0.45",
+      "filename": "processed_1276295dfd62dd0bf412010a6ab136af.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

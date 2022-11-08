@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - HE TENIDO QUE LLORAR.mp3",
+      "loudnorm": "-15.10,1.13,1.60,-25.18,-0.25",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - HE TENIDO QUE LLORAR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0bff0828-fcdf-40f2-8de0-8f4a379cc80c",
+    "title": "YOSKAR SARANTE - HE TENIDO QUE LLORAR",
+    "titles": {
+      "spa": "YOSKAR SARANTE - HE TENIDO QUE LLORAR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:10:38.049Z",
+    "modified_at": "2022-11-02T20:10:38.477Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4cca5058e70050a92d80aeb8a62308e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5382260,
+      "gain": -2.68,
+      "duration": 269,
+      "loudnorm": "-15.10,1.13,1.60,-25.18,-0.25",
+      "filename": "processed_e59c8f3cff2e1e8da1ea41f8477c43a3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

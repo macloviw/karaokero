@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Rios - - SP-461042_Miguel Rios_Bienvenidos_kb22-01.mp3",
+      "loudnorm": "-12.84,0.73,4.70,-23.01,-0.82",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Rios - - SP-461042_Miguel Rios_Bienvenidos_kb22-01.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "89cc9669-a351-4150-810d-5eb7b95f618f",
+    "title": "SP-461042_Miguel Ríos_Bienvenidos_kb22-01",
+    "titles": {
+      "spa": "SP-461042_Miguel Ríos_Bienvenidos_kb22-01"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "afd55956-00a1-411d-beff-112cf24f6597"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:59:25.206Z",
+    "modified_at": "2022-11-03T22:59:25.588Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_014d8bf5e64547d83628c94a0e3a9ccd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3956746,
+      "gain": -4.76,
+      "duration": 247,
+      "loudnorm": "-12.84,0.73,4.70,-23.01,-0.82",
+      "filename": "processed_fd6d7c27173ffab1ed7782f66476c765.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

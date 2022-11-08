@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Reik - - 05 - Reik - Me duele amarte.mp3",
+      "loudnorm": "-12.17,0.17,4.30,-22.26,-0.73",
+      "duration": 194,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Reik - - 05 - Reik - Me duele amarte.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a59ab78d-6a8d-464f-99cb-fd33c914fe1a",
+    "title": "05 - Reik - Me duele amarte",
+    "titles": {
+      "spa": "05 - Reik - Me duele amarte"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4507272d-b953-410b-babf-12e4dde5106e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:44:29.068Z",
+    "modified_at": "2022-11-03T11:44:29.487Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_263404723634c283de5b9aa148275a7b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4679808,
+      "gain": -4.5,
+      "duration": 194,
+      "loudnorm": "-12.17,0.17,4.30,-22.26,-0.73",
+      "filename": "processed_314e15dbfbcfd86e02c6966f8184b548.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

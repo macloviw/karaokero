@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - NEGRURA.mp3",
+      "loudnorm": "-13.15,0.61,4.10,-23.21,-0.79",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - NEGRURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b42cac68-9f01-4fb7-8c5d-ae3551810185",
+    "title": "ROLANDO LA SERIE - NEGRURA",
+    "titles": {
+      "spa": "ROLANDO LA SERIE - NEGRURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08b6d44-d43f-4859-bd7e-f9e6249066a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:49:44.373Z",
+    "modified_at": "2022-11-03T12:49:44.789Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3d8b4c82c8b81f9f13749482a73a0c32.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2409868,
+      "gain": -4.58,
+      "duration": 171,
+      "loudnorm": "-13.15,0.61,4.10,-23.21,-0.79",
+      "filename": "processed_3b5389301ff6fc3e2bf6d4141462ea57.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

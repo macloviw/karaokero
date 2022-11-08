@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONORA MALECON - - DANIEL SANTOS - ESPERANZA INUTIL.mp3",
+      "loudnorm": "-13.07,3.68,5.80,-23.21,-0.22",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONORA MALECON - - DANIEL SANTOS - ESPERANZA INUTIL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f8e389b0-6bfd-4ee2-ab4c-54ba29b6bbcd",
+    "title": "DANIEL SANTOS - ESPERANZA INUTIL",
+    "titles": {
+      "spa": "DANIEL SANTOS - ESPERANZA INUTIL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "39d72dee-24a9-42ce-9536-6b1e271fd05e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:24:20.726Z",
+    "modified_at": "2022-11-03T23:24:21.105Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f0b58ff2c389d5688d99b974b06c812.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5840456,
+      "gain": -6.51,
+      "duration": 181,
+      "loudnorm": "-13.07,3.68,5.80,-23.21,-0.22",
+      "filename": "processed_3878c62ca173ac8a495ad9b3a93eae5a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

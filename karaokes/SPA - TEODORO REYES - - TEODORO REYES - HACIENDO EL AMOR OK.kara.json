@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - TEODORO REYES - - TEODORO REYES - HACIENDO EL AMOR OK.mp3",
+      "loudnorm": "-12.93,0.51,1.90,-22.97,-0.18",
+      "duration": 300,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - TEODORO REYES - - TEODORO REYES - HACIENDO EL AMOR OK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "17ff7042-0698-4a57-8c3e-df23c3e4dc1e",
+    "title": "TEODORO REYES - HACIENDO EL AMOR  OK",
+    "titles": {
+      "spa": "TEODORO REYES - HACIENDO EL AMOR  OK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "3bc1a5f1-ac38-4599-8ebc-0685ddd31eec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:30:44.605Z",
+    "modified_at": "2022-11-03T00:30:45.070Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a270c76f545ca7a08663530c6d952383.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7214488,
+      "gain": -4.52,
+      "duration": 300,
+      "loudnorm": "-12.93,0.51,1.90,-22.97,-0.18",
+      "filename": "processed_58794297acfc6d313f119f3c72ad089c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

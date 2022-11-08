@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSCAR SARANTE - QUE TIENE ESA HEMBRA.mp3",
+      "loudnorm": "-8.34,2.31,2.50,-18.43,-0.66",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSCAR SARANTE - QUE TIENE ESA HEMBRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0708e541-eb43-42a9-9630-e19a0ef2fa56",
+    "title": "YOSCAR SARANTE - QUE TIENE ESA HEMBRA",
+    "titles": {
+      "spa": "YOSCAR SARANTE - QUE TIENE ESA HEMBRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:05:50.881Z",
+    "modified_at": "2022-11-02T20:05:51.332Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_393f7c30282757293c1722db26d1943b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6630982,
+      "gain": -9.41,
+      "duration": 276,
+      "loudnorm": "-8.34,2.31,2.50,-18.43,-0.66",
+      "filename": "processed_d95f3991680ba714814be939f3f1d1c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

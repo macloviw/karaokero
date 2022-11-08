@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - OKE0058-06 - - OKE0058-06 - Manana Manana - Cristian.mp3",
+      "loudnorm": "-6.39,3.03,1.50,-16.46,-0.31",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - OKE0058-06 - - OKE0058-06 - Manana Manana - Cristian.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "55772109-a996-42ae-b9b7-8cb1bcb5507e",
+    "title": "OKE0058-06 - Mañana Mañana - Cristian",
+    "titles": {
+      "spa": "OKE0058-06 - Mañana Mañana - Cristian"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ac33db80-e03d-4ff5-b597-64e28d0551ab"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:05:00.467Z",
+    "modified_at": "2022-11-03T23:05:00.902Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe7906be76c9d2c77aac71a3e147ada8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3706976,
+      "gain": -9.39,
+      "duration": 231,
+      "loudnorm": "-6.39,3.03,1.50,-16.46,-0.31",
+      "filename": "processed_c920d10eeeb19eaf9df9c6e708da4684.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NELSON NED - - 08 - A PESAR DE TODO - NELSON NED.mp3",
+      "loudnorm": "-12.57,2.21,2.80,-22.77,-0.06",
+      "duration": 182,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NELSON NED - - 08 - A PESAR DE TODO - NELSON NED.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b867ccf8-61d1-470d-b7ee-9474a26f0268",
+    "title": "08 - A PESAR DE TODO - NELSON NED",
+    "titles": {
+      "spa": "08 - A PESAR DE TODO - NELSON NED"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8b8f7b9f-1b15-4543-b0c8-99f48e096f56"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:51:06.450Z",
+    "modified_at": "2022-11-03T10:51:06.983Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f4e361d1129f95eebced14d946b5085c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4388875,
+      "gain": -2.53,
+      "duration": 182,
+      "loudnorm": "-12.57,2.21,2.80,-22.77,-0.06",
+      "filename": "processed_524f57b8b9da073094a6d75e8dd9265b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

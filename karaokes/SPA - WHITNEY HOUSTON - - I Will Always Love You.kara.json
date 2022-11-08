@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WHITNEY HOUSTON - - I Will Always Love You.MP3",
+      "loudnorm": "-18.43,0.95,16.10,-29.55,-1.76",
+      "duration": 290,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WHITNEY HOUSTON - - I Will Always Love You.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1e586761-17ab-42ea-8d44-238efa260d62",
+    "title": "I Will Always Love You",
+    "titles": {
+      "spa": "I Will Always Love You"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "94157c39-222a-4ed3-9250-6f9b5cf68abc"
+      ],
+      "singers": [
+        "9ad3b2e6-5f96-4dc1-90de-63afa074acd9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:34:12.226Z",
+    "modified_at": "2022-11-03T23:34:12.795Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4655326,
+      "gain": 0.9,
+      "duration": 290,
+      "loudnorm": "-18.43,0.95,16.10,-29.55,-1.76",
+      "filename": "processed_39dd306bb8df2ac6a3c4b867508cb23c.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4655326,
+      "gain": 0.9,
+      "duration": 290,
+      "loudnorm": "-18.43,0.95,16.10,-29.55,-1.76",
+      "filename": "processed_5bf82984fcc83398fc40acb43c363eb9.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

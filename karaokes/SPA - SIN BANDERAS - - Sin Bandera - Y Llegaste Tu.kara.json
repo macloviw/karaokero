@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - Sin Bandera - Y Llegaste Tu.MP3",
+      "loudnorm": "-11.01,1.85,5.20,-21.14,-1.51",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - Sin Bandera - Y Llegaste Tu.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2b3a41b2-449c-46cd-a591-9f888e861599",
+    "title": "Sin Bandera - Y Llegaste Tu",
+    "titles": {
+      "spa": "Sin Bandera - Y Llegaste Tu"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:13:16.445Z",
+    "modified_at": "2022-11-03T13:13:17.057Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 10078208,
+      "gain": -6.62,
+      "duration": 251,
+      "loudnorm": "-11.01,1.85,5.20,-21.14,-1.51",
+      "filename": "processed_35c371ab8756f2978a72a6ce4be9ff20.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 10078208,
+      "gain": -6.62,
+      "duration": 251,
+      "loudnorm": "-11.01,1.85,5.20,-21.14,-1.51",
+      "filename": "processed_e0b2b6d002f23454eb2300fe4abd4a90.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

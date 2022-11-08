@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Thalia - - Thalia - Pata pata.mp3",
+      "loudnorm": "-16.07,0.67,3.10,-26.08,-0.37",
+      "duration": 281,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Thalia - - Thalia - Pata pata.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9c53947d-6cf5-4a29-8665-bd71ab570b37",
+    "title": "Thalia - Pata pata",
+    "titles": {
+      "spa": "Thalia - Pata pata"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "82fc402c-292f-4634-8446-feb3d4184be4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:23:58.354Z",
+    "modified_at": "2022-11-03T13:23:58.775Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_51db6bcb4e727a7244ec98a4341d8cea.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5644583,
+      "gain": -2.28,
+      "duration": 281,
+      "loudnorm": "-16.07,0.67,3.10,-26.08,-0.37",
+      "filename": "processed_8eab4674cb1cc2285d510fb2b79fbb90.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

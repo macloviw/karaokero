@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PINPINELA - - PINPINELA - ES MENTIRA.MP3",
+      "loudnorm": "-15.11,1.19,8.10,-25.40,-0.48",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PINPINELA - - PINPINELA - ES MENTIRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1f191d1d-2aa6-468c-90d3-26fce7186765",
+    "title": "PINPINELA                                               -   ES MENTIRA",
+    "titles": {
+      "spa": "PINPINELA                                               -   ES MENTIRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8cd72eb1-94f7-4017-8f10-0825b6f20308"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:27:09.812Z",
+    "modified_at": "2022-11-03T11:27:10.280Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3236226,
+      "gain": -2.4,
+      "duration": 202,
+      "loudnorm": "-15.11,1.19,8.10,-25.40,-0.48",
+      "filename": "processed_d5abc0df81b9b054d2f2ce396dac79fb.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3236226,
+      "gain": -2.4,
+      "duration": 202,
+      "loudnorm": "-15.11,1.19,8.10,-25.40,-0.48",
+      "filename": "processed_6963471f5e9884b7dad5ddde5be0ebb4.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

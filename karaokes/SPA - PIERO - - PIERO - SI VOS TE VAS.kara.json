@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PIERO - - PIERO - SI VOS TE VAS.MP3",
+      "loudnorm": "-12.40,2.72,4.80,-22.71,-0.50",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PIERO - - PIERO - SI VOS TE VAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5b7e586b-d642-449d-bc15-a553870472de",
+    "title": "PIERO   -   SI VOS TE VAS",
+    "titles": {
+      "spa": "PIERO   -   SI VOS TE VAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "902e3b5f-1dd1-41a3-baab-d06fda207252"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:25:18.680Z",
+    "modified_at": "2022-11-03T11:25:19.134Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2988505,
+      "gain": -1.77,
+      "duration": 186,
+      "loudnorm": "-12.40,2.72,4.80,-22.71,-0.50",
+      "filename": "processed_0e71e34864a735410371abe912915fe1.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2988505,
+      "gain": -1.77,
+      "duration": 186,
+      "loudnorm": "-12.40,2.72,4.80,-22.71,-0.50",
+      "filename": "processed_edf9f04d156a7d7b1571dc92d0b1cbcf.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

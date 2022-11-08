@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NICOLA DI VARI - - NICOLA DI BARI - LOS DIAS DEL ARCO IRIS.mp3",
+      "loudnorm": "-18.32,-2.12,11.40,-28.66,-1.27",
+      "duration": 195,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NICOLA DI VARI - - NICOLA DI BARI - LOS DIAS DEL ARCO IRIS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "14e977b5-9af3-48fe-88e1-dae28ad28aa5",
+    "title": "NICOLA DI BARI - LOS DIAS DEL ARCO IRIS",
+    "titles": {
+      "spa": "NICOLA DI BARI - LOS DIAS DEL ARCO IRIS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f8119b52-f61f-4c11-92c2-a8862ea77ae3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:02:04.671Z",
+    "modified_at": "2022-11-03T23:02:05.043Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_09d81cffd8bb2858f68c7275a7867ee1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2734257,
+      "gain": -0.04,
+      "duration": 195,
+      "loudnorm": "-18.32,-2.12,11.40,-28.66,-1.27",
+      "filename": "processed_2171a33dfcefae92e39d909ef6992548.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

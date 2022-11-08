@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Unregistered version - - DYANGO - SUSPIROS DE ESPANA.mp3",
+      "loudnorm": "-20.47,-3.34,3.40,-30.58,-0.62",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Unregistered version - - DYANGO - SUSPIROS DE ESPANA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "da46ba94-28e0-4664-96fe-99af903ecec6",
+    "title": "DYANGO - SUSPIROS DE ESPANA",
+    "titles": {
+      "spa": "DYANGO - SUSPIROS DE ESPANA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "86ae5402-6e57-41f1-aa31-4dc7b04320fa"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:29:03.989Z",
+    "modified_at": "2022-11-03T23:29:04.372Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_553f18bf317b631d26de9242f026b7a3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3984448,
+      "gain": 3.37,
+      "duration": 248,
+      "loudnorm": "-20.47,-3.34,3.40,-30.58,-0.62",
+      "filename": "processed_cd3a2ad466159f43495dec532dc31be7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

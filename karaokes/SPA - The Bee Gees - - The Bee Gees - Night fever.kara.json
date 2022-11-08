@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Bee Gees - - The Bee Gees - Night fever.mp3",
+      "loudnorm": "-27.69,-12.79,2.10,-37.84,-0.07",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Bee Gees - - The Bee Gees - Night fever.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ff11db30-c87c-418c-ac9f-9318fc0e6734",
+    "title": "The Bee Gees - Night fever",
+    "titles": {
+      "spa": "The Bee Gees - Night fever"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4f1132be-fcfb-4508-9d1c-1eb4ec8f5120"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:47:52.476Z",
+    "modified_at": "2022-11-04T01:47:52.858Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_209103902b9f16d6f7bb43545e8a2490.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5092301,
+      "gain": 10.79,
+      "duration": 212,
+      "loudnorm": "-27.69,-12.79,2.10,-37.84,-0.07",
+      "filename": "processed_6770e0f55e3ef0dad55739b26dd50101.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

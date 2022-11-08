@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - Ricardo Montaner - Besame En La Boca.MP3",
+      "loudnorm": "-13.17,3.14,4.80,-23.29,-0.85",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - Ricardo Montaner - Besame En La Boca.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e75ca279-0977-4b31-97fa-594cffcf07f4",
+    "title": "Ricardo Montaner - Besame En La Boca",
+    "titles": {
+      "spa": "Ricardo Montaner - Besame En La Boca"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:17:29.859Z",
+    "modified_at": "2022-11-03T12:17:30.350Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3975168,
+      "gain": -5.63,
+      "duration": 248,
+      "loudnorm": "-13.17,3.14,4.80,-23.29,-0.85",
+      "filename": "processed_447c58977ff8cb916c0d577f55a3ac54.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3975168,
+      "gain": -5.63,
+      "duration": 248,
+      "loudnorm": "-13.17,3.14,4.80,-23.29,-0.85",
+      "filename": "processed_e9853903f0bee5076f1e7d67ae21c2de.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

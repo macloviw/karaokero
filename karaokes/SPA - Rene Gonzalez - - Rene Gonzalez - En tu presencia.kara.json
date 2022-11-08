@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rene Gonzalez - - Rene Gonzalez - En tu presencia.mp3",
+      "loudnorm": "-15.26,0.07,17.30,-26.26,-2.34",
+      "duration": 401,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rene Gonzalez - - Rene Gonzalez - En tu presencia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "63e0a36c-5785-4c98-8172-92cc2700e7dd",
+    "title": "Rene Gonzalez - En tu presencia",
+    "titles": {
+      "spa": "Rene Gonzalez - En tu presencia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "1177f416-2373-490d-a939-caf731f8c04a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:28:16.954Z",
+    "modified_at": "2022-11-03T14:28:17.378Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_95397d07915ec21836761f1c85ef418a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6421203,
+      "gain": -3.32,
+      "duration": 401,
+      "loudnorm": "-15.26,0.07,17.30,-26.26,-2.34",
+      "filename": "processed_99b13018e2f0bc729eb026c479af8b88.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

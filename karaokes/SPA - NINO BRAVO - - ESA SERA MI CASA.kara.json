@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NINO BRAVO - - ESA SERA MI CASA.MP3",
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "duration": 201,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NINO BRAVO - - ESA SERA MI CASA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "db06ddb5-58e8-43ac-8551-05d722e95150",
+    "title": "ESA SERA MI CASA",
+    "titles": {
+      "spa": "ESA SERA MI CASA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "92d0df0f-e395-401f-9be2-209720b37410"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:59:50.342Z",
+    "modified_at": "2022-11-03T10:59:50.932Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3233300,
+      "gain": 4.59,
+      "duration": 201,
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "filename": "processed_0ec18d5d8029dd00c678f24416d9fcf2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3233300,
+      "gain": 4.59,
+      "duration": 201,
+      "loudnorm": "-23.25,-4.22,10.30,-33.63,-1.56",
+      "filename": "processed_0553b689258e04e886ddc4273cad80e3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

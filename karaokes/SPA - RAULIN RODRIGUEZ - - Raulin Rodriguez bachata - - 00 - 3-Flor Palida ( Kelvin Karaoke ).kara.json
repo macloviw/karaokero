@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez bachata - - 00 - 3-Flor Palida ( Kelvin Karaoke ).mp3",
+      "loudnorm": "-17.72,-4.13,2.40,-27.84,-0.02",
+      "duration": 240,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez bachata - - 00 - 3-Flor Palida ( Kelvin Karaoke ).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5c4a56f3-3463-43be-8a4f-b0fe10956aee",
+    "title": "Raulin Rodriguez bachata  -  - 00 - 3-Flor Palida ( Kelvin Karaoke )",
+    "titles": {
+      "spa": "Raulin Rodriguez bachata  -  - 00 - 3-Flor Palida ( Kelvin Karaoke )"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:24:18.306Z",
+    "modified_at": "2022-11-03T00:24:18.730Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a6c5a00c8bbb78f4b7c1d890998dad5a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5769559,
+      "gain": -0.37,
+      "duration": 240,
+      "loudnorm": "-17.72,-4.13,2.40,-27.84,-0.02",
+      "filename": "processed_84b9deaef7bf236f25d61c3aacc02e3c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - PENUMBRAS.MP3",
+      "loudnorm": "-18.00,-2.13,3.90,-28.22,-0.34",
+      "duration": 231,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - PENUMBRAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "338bbec8-60de-493e-962c-9a5e2f265ed1",
+    "title": "SANDRO   -   PENUMBRAS",
+    "titles": {
+      "spa": "SANDRO   -   PENUMBRAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:52:46.288Z",
+    "modified_at": "2022-11-03T12:52:46.768Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3713535,
+      "gain": 0.9,
+      "duration": 231,
+      "loudnorm": "-18.00,-2.13,3.90,-28.22,-0.34",
+      "filename": "processed_8438a2e81cec0aad04440823d4b77bce.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3713535,
+      "gain": 0.9,
+      "duration": 231,
+      "loudnorm": "-18.00,-2.13,3.90,-28.22,-0.34",
+      "filename": "processed_6da932a6395662fd776cfe0c79c51f83.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

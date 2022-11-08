@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - No Artist - - Franco De Vita - Mi Historia Entre Tus Dedos.mp3",
+      "loudnorm": "-16.89,0.42,5.70,-26.96,-1.05",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - No Artist - - Franco De Vita - Mi Historia Entre Tus Dedos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "80ef596a-a375-4710-bbb9-267ea8354334",
+    "title": "Franco De Vita - Mi Historia Entre Tus Dedos",
+    "titles": {
+      "spa": "Franco De Vita - Mi Historia Entre Tus Dedos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:01:37.846Z",
+    "modified_at": "2022-11-03T11:01:38.655Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_43224065ab1ebf0c8535753c54ae298f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4957381,
+      "gain": 0.79,
+      "duration": 309,
+      "loudnorm": "-16.89,0.42,5.70,-26.96,-1.05",
+      "filename": "processed_114c356f35aa3089d6cdb4e38cb4adcf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

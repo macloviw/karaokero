@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONNIA SILVESTRE - - SONIA SILVESTRE-MUCHO MAS QUE DOS.mp3",
+      "loudnorm": "-12.55,1.65,4.00,-22.59,-1.16",
+      "duration": 236,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONNIA SILVESTRE - - SONIA SILVESTRE-MUCHO MAS QUE DOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6742eb5-392e-4307-abed-4ec62fe0da7c",
+    "title": "SONIA SILVESTRE-MUCHO MAS QUE DOS",
+    "titles": {
+      "spa": "SONIA SILVESTRE-MUCHO MAS QUE DOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "5071e1d8-3dca-42df-9582-15c61f7512d8"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:20:54.469Z",
+    "modified_at": "2022-11-03T13:20:54.884Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d4d5f3c0963ac451ef2864665b0667e1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3319400,
+      "gain": -6.8,
+      "duration": 236,
+      "loudnorm": "-12.55,1.65,4.00,-22.59,-1.16",
+      "filename": "processed_998e8d2ab257a062010d21c415d3e355.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

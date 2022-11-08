@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - SE ME ACABO EL AMOR.mp3",
+      "loudnorm": "-15.99,0.33,1.60,-26.08,-0.37",
+      "duration": 284,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - SE ME ACABO EL AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3c122d89-6cc6-4d15-8d87-b28782121ea9",
+    "title": "YOSKAR SARANTE - SE ME ACABO EL AMOR",
+    "titles": {
+      "spa": "YOSKAR SARANTE - SE ME ACABO EL AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:13:37.184Z",
+    "modified_at": "2022-11-02T20:13:37.719Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b9db6bb68ad3beec660fb7adc5259be0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7954781,
+      "gain": -1.28,
+      "duration": 284,
+      "loudnorm": "-15.99,0.33,1.60,-26.08,-0.37",
+      "filename": "processed_34b71ef0aad3a331484920f0b93beed9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

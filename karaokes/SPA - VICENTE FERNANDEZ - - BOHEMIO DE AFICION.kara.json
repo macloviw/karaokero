@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - VICENTE FERNANDEZ - - BOHEMIO DE AFICION.mp3",
+      "loudnorm": "-10.32,0.72,5.80,-20.38,0.70",
+      "duration": 205,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - VICENTE FERNANDEZ - - BOHEMIO DE AFICION.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eefe0571-2b54-4d71-ad21-1de23a70c923",
+    "title": "BOHEMIO DE AFICION",
+    "titles": {
+      "spa": "BOHEMIO DE AFICION"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:34:11.350Z",
+    "modified_at": "2022-11-03T13:34:11.770Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c5e383b051442ef0ac1d0ec316210c8f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6565910,
+      "gain": -9.49,
+      "duration": 205,
+      "loudnorm": "-10.32,0.72,5.80,-20.38,0.70",
+      "filename": "processed_3833f4e9b18e49dafd37cee9d562f65e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

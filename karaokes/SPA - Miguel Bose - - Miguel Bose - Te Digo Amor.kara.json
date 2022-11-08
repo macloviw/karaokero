@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Miguel Bose - - Miguel Bose - Te Digo Amor.MP3",
+      "loudnorm": "-17.39,-0.87,9.60,-27.75,-1.36",
+      "duration": 328,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Miguel Bose - - Miguel Bose - Te Digo Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "787c8397-9922-4864-b336-0381da3bbcc3",
+    "title": "Miguel Bose - Te Digo Amor",
+    "titles": {
+      "spa": "Miguel Bose - Te Digo Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "364be1b8-de04-4da8-9ad4-e3e21f464b4c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:41:22.658Z",
+    "modified_at": "2022-11-03T10:41:23.453Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5250789,
+      "gain": -0.09,
+      "duration": 328,
+      "loudnorm": "-17.39,-0.87,9.60,-27.75,-1.36",
+      "filename": "processed_52ad7dc2ce5f7ecc86baa7e1d9de307a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5250789,
+      "gain": -0.09,
+      "duration": 328,
+      "loudnorm": "-17.39,-0.87,9.60,-27.75,-1.36",
+      "filename": "processed_a23838c0babeb1b5b4c7042234b040b0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

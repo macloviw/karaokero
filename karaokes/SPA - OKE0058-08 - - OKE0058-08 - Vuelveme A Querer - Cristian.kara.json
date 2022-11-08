@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - OKE0058-08 - - OKE0058-08 - Vuelveme A Querer - Cristian.mp3",
+      "loudnorm": "-9.14,1.74,7.60,-19.39,-1.20",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - OKE0058-08 - - OKE0058-08 - Vuelveme A Querer - Cristian.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3385598e-259e-4710-aa16-ad1a754056f3",
+    "title": "OKE0058-08 - Vuelveme A Querer - Cristian",
+    "titles": {
+      "spa": "OKE0058-08 - Vuelveme A Querer - Cristian"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6629c46d-120c-4d64-af40-68633424fb9e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:05:21.732Z",
+    "modified_at": "2022-11-03T23:05:22.110Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8db3e506e23ddcf4f04e2bbc8faf4425.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3999129,
+      "gain": -7.84,
+      "duration": 249,
+      "loudnorm": "-9.14,1.74,7.60,-19.39,-1.20",
+      "filename": "processed_b2b45642defb341542d51e0bfb89e1d0.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

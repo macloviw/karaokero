@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - Braulio - Un Tiempo Para Nosotros.mp3",
+      "loudnorm": "-11.18,1.65,4.50,-21.24,-0.70",
+      "duration": 232,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - Braulio - Un Tiempo Para Nosotros.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cf263595-fd46-4a9a-b0fe-13f6d06d1561",
+    "title": "Braulio - Un Tiempo Para Nosotros",
+    "titles": {
+      "spa": "Braulio - Un Tiempo Para Nosotros"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:00:53.729Z",
+    "modified_at": "2022-11-03T02:00:54.145Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_65da1d6c5612999653519a81a8ce1359.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3717415,
+      "gain": -5.76,
+      "duration": 232,
+      "loudnorm": "-11.18,1.65,4.50,-21.24,-0.70",
+      "filename": "processed_22e6225a23e016fd8325335f4756b599.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - Jennifer Lopez - If You Had My Love.mp3",
+      "loudnorm": "-15.82,0.19,3.80,-25.86,-0.83",
+      "duration": 259,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - Jennifer Lopez - If You Had My Love.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b7d691c5-9e41-4ddf-bd7d-a4da8a0abd9d",
+    "title": "Jennifer Lopez - If You Had My Love",
+    "titles": {
+      "spa": "Jennifer Lopez - If You Had My Love"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:01:14.927Z",
+    "modified_at": "2022-11-03T02:01:15.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_34de5c7e15b540b1899f9ae26cde171c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4149248,
+      "gain": -1.36,
+      "duration": 259,
+      "loudnorm": "-15.82,0.19,3.80,-25.86,-0.83",
+      "filename": "processed_3e7e0db2ce859f416271b405669f3f63.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

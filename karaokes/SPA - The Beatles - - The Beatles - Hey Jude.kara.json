@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Beatles - - The Beatles - Hey Jude.mp3",
+      "loudnorm": "-15.52,0.56,7.40,-25.79,-1.40",
+      "duration": 283,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Beatles - - The Beatles - Hey Jude.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f0b723e3-9566-4f30-a277-bd2ef55fced5",
+    "title": "The Beatles - Hey Jude",
+    "titles": {
+      "spa": "The Beatles - Hey Jude"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7bd03a6b-53af-481e-add2-e2fe29f334e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:44:52.056Z",
+    "modified_at": "2022-11-04T01:44:52.439Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6478e71f71e95674959a4b820b04bbb0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5673978,
+      "gain": -2.03,
+      "duration": 283,
+      "loudnorm": "-15.52,0.56,7.40,-25.79,-1.40",
+      "filename": "processed_5b86c2b3f073489b313f10b50d54b211.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

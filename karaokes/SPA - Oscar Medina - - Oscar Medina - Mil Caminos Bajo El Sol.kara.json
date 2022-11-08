@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Oscar Medina - - Oscar Medina - Mil Caminos Bajo El Sol.mp3",
+      "loudnorm": "-14.14,0.21,9.40,-24.59,-0.41",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Oscar Medina - - Oscar Medina - Mil Caminos Bajo El Sol.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7b33596a-0832-4fd4-9fea-2a8a184e0fa9",
+    "title": "Oscar Medina - Mil Caminos Bajo El Sol",
+    "titles": {
+      "spa": "Oscar Medina - Mil Caminos Bajo El Sol"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44df41f7-b618-4691-a1fb-33e7bc0c8f57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:26:31.230Z",
+    "modified_at": "2022-11-03T14:26:31.639Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b7dfb618b98f3bd645b7fd4fdcbd7145.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3062902,
+      "gain": -2.63,
+      "duration": 191,
+      "loudnorm": "-14.14,0.21,9.40,-24.59,-0.41",
+      "filename": "processed_d9ea3f125b76acfd18ed30b6efb1f1fb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

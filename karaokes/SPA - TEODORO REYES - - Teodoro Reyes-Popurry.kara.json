@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - TEODORO REYES - - Teodoro Reyes-Popurry.mp3",
+      "loudnorm": "-7.94,6.62,1.80,-17.96,-0.21",
+      "duration": 387,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - TEODORO REYES - - Teodoro Reyes-Popurry.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f4ec65b0-2b7c-4810-ab1a-45b3b3d3aaa4",
+    "title": "Teodoro Reyes-Popurry",
+    "titles": {
+      "spa": "Teodoro Reyes-Popurry"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "3bc1a5f1-ac38-4599-8ebc-0685ddd31eec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:31:28.536Z",
+    "modified_at": "2022-11-03T00:31:28.964Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d7de8c8d8feff506bc4e254979cb38cb.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9293623,
+      "gain": -11.21,
+      "duration": 387,
+      "loudnorm": "-7.94,6.62,1.80,-17.96,-0.21",
+      "filename": "processed_ffe9dc5253df3ecb5f320fb75305caf7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

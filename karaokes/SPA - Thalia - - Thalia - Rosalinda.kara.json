@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Thalia - - Thalia - Rosalinda.mp3",
+      "loudnorm": "-10.16,1.54,4.40,-20.18,-0.84",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Thalia - - Thalia - Rosalinda.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7d3b10b5-ff50-42f8-b40f-2316fa733b42",
+    "title": "Thalia - Rosalinda",
+    "titles": {
+      "spa": "Thalia - Rosalinda"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "82fc402c-292f-4634-8446-feb3d4184be4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:24:08.774Z",
+    "modified_at": "2022-11-03T13:24:09.201Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e04c39aa6da22d2032cb43ceb9cfa57b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4853073,
+      "gain": -8.16,
+      "duration": 242,
+      "loudnorm": "-10.16,1.54,4.40,-20.18,-0.84",
+      "filename": "processed_adcf2e5ea4a6511cf1526f202bb9d500.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

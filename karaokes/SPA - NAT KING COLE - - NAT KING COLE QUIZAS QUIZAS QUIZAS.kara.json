@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NAT KING COLE - - NAT KING COLE QUIZAS QUIZAS QUIZAS.mp3",
+      "loudnorm": "-13.72,-0.35,5.20,-24.14,-0.61",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NAT KING COLE - - NAT KING COLE QUIZAS QUIZAS QUIZAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4fdf3caf-ddb0-4158-9d28-fe3f70c9bce2",
+    "title": "NAT KING COLE QUIZAS QUIZAS QUIZAS",
+    "titles": {
+      "spa": "NAT KING COLE QUIZAS QUIZAS QUIZAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e143cd01-4ee9-42c3-aedf-8da35c635c0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:48:50.088Z",
+    "modified_at": "2022-11-03T10:48:50.562Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1346d1c45e8f019a83de499adf41140e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4479154,
+      "gain": -3.81,
+      "duration": 186,
+      "loudnorm": "-13.72,-0.35,5.20,-24.14,-0.61",
+      "filename": "processed_2cae51016bb47d899aab8db3b89a4057.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

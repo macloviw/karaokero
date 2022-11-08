@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - LA COPA D LA VIDA.MP3",
+      "loudnorm": "-18.76,-1.32,4.60,-28.79,-0.76",
+      "duration": 277,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - LA COPA D LA VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e0579273-d71a-4b30-9a8a-de194ea0c9bb",
+    "title": "RICKY MARTIN  -  LA COPA D LA VIDA",
+    "titles": {
+      "spa": "RICKY MARTIN  -  LA COPA D LA VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "593f5cdd-4f71-4e50-8e75-295fe4909d33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:22:12.713Z",
+    "modified_at": "2022-11-03T12:22:13.337Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4436186,
+      "gain": 1.24,
+      "duration": 277,
+      "loudnorm": "-18.76,-1.32,4.60,-28.79,-0.76",
+      "filename": "processed_f29941ab8e3ddde5756dc9e740f5a8df.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4436186,
+      "gain": 1.24,
+      "duration": 277,
+      "loudnorm": "-18.76,-1.32,4.60,-28.79,-0.76",
+      "filename": "processed_2fc4dc7fb852045abfaeb20918335e4e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

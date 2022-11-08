@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - 83-14 - RAULIN RODRIGUEZ - PIEL SIN ALMA.mp3",
+      "loudnorm": "-15.73,0.86,2.40,-25.79,-0.07",
+      "duration": 336,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - 83-14 - RAULIN RODRIGUEZ - PIEL SIN ALMA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1b50e132-91ae-4f01-8c08-f5082f97435e",
+    "title": "83-14 - RAULIN RODRIGUEZ - PIEL SIN ALMA",
+    "titles": {
+      "spa": "83-14 - RAULIN RODRIGUEZ - PIEL SIN ALMA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:16:37.788Z",
+    "modified_at": "2022-11-03T00:16:38.230Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_52f0db189d0779bf751ae5ee6b6cb8f1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5392604,
+      "gain": -2.51,
+      "duration": 336,
+      "loudnorm": "-15.73,0.86,2.40,-25.79,-0.07",
+      "filename": "processed_c6718e1ccada773d072026148712169e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

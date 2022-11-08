@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO M.=LA CIMA DEL CIELO.MP3",
+      "loudnorm": "-10.35,3.45,15.90,-21.31,-0.90",
+      "duration": 267,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO M.=LA CIMA DEL CIELO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c12913f3-6f9f-4e0f-b330-2d158cceccaa",
+    "title": "RICARDO M.=LA CIMA DEL CIELO",
+    "titles": {
+      "spa": "RICARDO M.=LA CIMA DEL CIELO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:11:02.860Z",
+    "modified_at": "2022-11-03T12:11:03.383Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4289612,
+      "gain": -7.13,
+      "duration": 267,
+      "loudnorm": "-10.35,3.45,15.90,-21.31,-0.90",
+      "filename": "processed_66c9bda1250053adfe19a9505c1f99b4.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4289612,
+      "gain": -7.13,
+      "duration": 267,
+      "loudnorm": "-10.35,3.45,15.90,-21.31,-0.90",
+      "filename": "processed_e7a3b1d7e67b597870b978dcf7de5391.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

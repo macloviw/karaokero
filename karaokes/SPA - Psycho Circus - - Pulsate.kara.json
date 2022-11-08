@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Psycho Circus - - Pulsate.mp3",
+      "loudnorm": "-13.13,0.75,4.30,-23.21,-0.82",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Psycho Circus - - Pulsate.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "39978af6-878f-4314-ac4e-f0024d53db97",
+    "title": "Pulsate",
+    "titles": {
+      "spa": "Pulsate"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "4dba0697-1a7f-4e2b-b52e-8a7113e16e45"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:00:17.431Z",
+    "modified_at": "2022-11-02T22:00:18.104Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f58103652cf26cef0bd16207ce74c140.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4946097,
+      "gain": -5.92,
+      "duration": 309,
+      "loudnorm": "-13.13,0.75,4.30,-23.21,-0.82",
+      "filename": "processed_49b6ba147e2392a70c9ca3c05c9ca78e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

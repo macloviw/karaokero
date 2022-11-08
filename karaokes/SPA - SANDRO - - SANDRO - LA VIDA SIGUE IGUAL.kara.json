@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - LA VIDA SIGUE IGUAL.MP3",
+      "loudnorm": "-18.27,-1.40,7.20,-28.30,-0.28",
+      "duration": 196,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - LA VIDA SIGUE IGUAL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bfa328b-fe43-4f4d-a953-d1e8b1613797",
+    "title": "SANDRO   -   LA VIDA SIGUE IGUAL",
+    "titles": {
+      "spa": "SANDRO   -   LA VIDA SIGUE IGUAL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:51:50.426Z",
+    "modified_at": "2022-11-03T12:51:50.896Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3139259,
+      "gain": -1.2,
+      "duration": 196,
+      "loudnorm": "-18.27,-1.40,7.20,-28.30,-0.28",
+      "filename": "processed_fd884428be3b851f72b9b57c26798b29.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3139259,
+      "gain": -1.2,
+      "duration": 196,
+      "loudnorm": "-18.27,-1.40,7.20,-28.30,-0.28",
+      "filename": "processed_d914a99707706b2bbe4c533f004c9828.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

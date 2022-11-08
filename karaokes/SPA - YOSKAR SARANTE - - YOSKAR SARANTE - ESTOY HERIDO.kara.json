@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - ESTOY HERIDO.mp3",
+      "loudnorm": "-15.72,0.16,1.80,-25.84,-0.39",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSKAR SARANTE - ESTOY HERIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "126c518d-d778-479b-9048-e29a52167b38",
+    "title": "YOSKAR SARANTE -  ESTOY HERIDO",
+    "titles": {
+      "spa": "YOSKAR SARANTE -  ESTOY HERIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:08:35.860Z",
+    "modified_at": "2022-11-02T20:08:36.279Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_5d217620c2862f41a2df6dc04f5bb5b5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7675374,
+      "gain": -1.9,
+      "duration": 274,
+      "loudnorm": "-15.72,0.16,1.80,-25.84,-0.39",
+      "filename": "processed_af644d6f00f6813bca34bcb22cb1c0be.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

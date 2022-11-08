@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - COMO LO HICE YO.MP3",
+      "loudnorm": "-21.05,-3.75,12.70,-31.59,-0.88",
+      "duration": 178,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - COMO LO HICE YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "cb5f51d1-3265-4509-b715-74eb242bab96",
+    "title": "SANDRO   -   COMO LO HICE YO",
+    "titles": {
+      "spa": "SANDRO   -   COMO LO HICE YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:51:17.155Z",
+    "modified_at": "2022-11-03T12:51:17.616Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2865914,
+      "gain": 3.84,
+      "duration": 178,
+      "loudnorm": "-21.05,-3.75,12.70,-31.59,-0.88",
+      "filename": "processed_3d27f4c54cb8e1060cb26d8987e9a330.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2865914,
+      "gain": 3.84,
+      "duration": 178,
+      "loudnorm": "-21.05,-3.75,12.70,-31.59,-0.88",
+      "filename": "processed_c62a45396402f6f415808efc8212e7ea.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

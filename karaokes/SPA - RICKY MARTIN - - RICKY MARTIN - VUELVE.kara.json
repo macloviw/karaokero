@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - VUELVE.MP3",
+      "loudnorm": "-18.86,-3.23,3.50,-28.99,-0.04",
+      "duration": 257,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICKY MARTIN - - RICKY MARTIN - VUELVE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4ab39b7b-c6aa-4ba6-b512-280e679e6fb6",
+    "title": "RICKY MARTIN  -  VUELVE",
+    "titles": {
+      "spa": "RICKY MARTIN  -  VUELVE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "593f5cdd-4f71-4e50-8e75-295fe4909d33"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:24:43.963Z",
+    "modified_at": "2022-11-03T12:24:44.441Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4129822,
+      "gain": 2.37,
+      "duration": 257,
+      "loudnorm": "-18.86,-3.23,3.50,-28.99,-0.04",
+      "filename": "processed_688f09fb6c3d283fc441ecafb4af1364.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4129822,
+      "gain": 2.37,
+      "duration": 257,
+      "loudnorm": "-18.86,-3.23,3.50,-28.99,-0.04",
+      "filename": "processed_05bfd512f8fcb8f5ab92a2a3c58e8f9c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

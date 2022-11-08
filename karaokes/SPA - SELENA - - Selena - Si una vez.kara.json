@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SELENA - - Selena - Si una vez.mp3",
+      "loudnorm": "-8.59,8.72,1.70,-18.91,0.06",
+      "duration": 168,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SELENA - - Selena - Si una vez.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b4f904d6-cdae-46de-be2f-9b86bf4e2874",
+    "title": "Selena - Si una vez",
+    "titles": {
+      "spa": "Selena - Si una vez"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e496a38-cebe-46dd-a3fc-e91629d85cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:58:46.482Z",
+    "modified_at": "2022-11-03T12:58:46.898Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_90a565603221370a1bdd5a45e83aa071.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2691540,
+      "gain": -8.41,
+      "duration": 168,
+      "loudnorm": "-8.59,8.72,1.70,-18.91,0.06",
+      "filename": "processed_a61a6dc526b8dbf7c8e61a030b7ad787.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PALITO ORTEGA - - UN MUCHACHO COMO YO.MP3",
+      "loudnorm": "-11.20,1.40,3.50,-21.30,-1.50",
+      "duration": 136,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PALITO ORTEGA - - UN MUCHACHO COMO YO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "56dce6f9-4267-44c6-93c3-8f2d6a55ff55",
+    "title": "UN MUCHACHO COMO YO",
+    "titles": {
+      "spa": "UN MUCHACHO COMO YO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "f80c6ac1-7343-4498-a12e-ad0d07065158"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:12:19.357Z",
+    "modified_at": "2022-11-03T11:12:19.813Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2182133,
+      "gain": -6.42,
+      "duration": 136,
+      "loudnorm": "-11.20,1.40,3.50,-21.30,-1.50",
+      "filename": "processed_8a7e561f73f568273ce51acd7ac29365.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2182133,
+      "gain": -6.42,
+      "duration": 136,
+      "loudnorm": "-11.20,1.40,3.50,-21.30,-1.50",
+      "filename": "processed_b57d33d5c6cca6e9d89a08cdd07b4c77.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

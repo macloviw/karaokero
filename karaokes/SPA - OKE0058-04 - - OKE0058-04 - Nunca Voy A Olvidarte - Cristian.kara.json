@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - OKE0058-04 - - OKE0058-04 - Nunca Voy A Olvidarte - Cristian.mp3",
+      "loudnorm": "-8.08,1.45,4.30,-18.27,-0.47",
+      "duration": 260,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - OKE0058-04 - - OKE0058-04 - Nunca Voy A Olvidarte - Cristian.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6ba1fad0-9482-481c-8257-1d4621d2d634",
+    "title": "OKE0058-04 - Nunca Voy A Olvidarte - Cristian",
+    "titles": {
+      "spa": "OKE0058-04 - Nunca Voy A Olvidarte - Cristian"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "ed9e4fa6-dd30-4ab2-8c52-5f413115ed72"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:04:39.964Z",
+    "modified_at": "2022-11-03T23:04:40.345Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_861235ba781ef0515a25cecd603a35dd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4171746,
+      "gain": -9.6,
+      "duration": 260,
+      "loudnorm": "-8.08,1.45,4.30,-18.27,-0.47",
+      "filename": "processed_084cf88cd26ba9133fa630409ca96056.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

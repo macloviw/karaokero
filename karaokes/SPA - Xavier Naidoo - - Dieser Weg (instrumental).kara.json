@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Xavier Naidoo - - Dieser Weg (instrumental).mp3",
+      "loudnorm": "-12.36,1.08,5.40,-22.51,-0.79",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Xavier Naidoo - - Dieser Weg (instrumental).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "97b0cbbe-4f9a-4c46-bb20-4a1a64a6c1f1",
+    "title": "Dieser Weg (instrumental)",
+    "titles": {
+      "spa": "Dieser Weg (instrumental)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e3bfc249-d68f-46ce-9461-a297acdac294"
+      ],
+      "singers": [
+        "22dbc815-59d8-4515-b202-c9fdb69a489d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:50:37.163Z",
+    "modified_at": "2022-11-03T23:50:37.561Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ede050ee23b12c09a91196d53749214.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6029312,
+      "gain": -4.97,
+      "duration": 251,
+      "loudnorm": "-12.36,1.08,5.40,-22.51,-0.79",
+      "filename": "processed_98d9a993e0aefcee95d36040e126d544.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

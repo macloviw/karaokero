@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SODA ESTEREO - - Soda Stereo - Lo Que Sangra (La Cupula).mp3",
+      "loudnorm": "-16.27,-1.20,4.30,-26.46,-0.57",
+      "duration": 288,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SODA ESTEREO - - Soda Stereo - Lo Que Sangra (La Cupula).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e014d493-295f-4614-afba-c6b3ea8e50c4",
+    "title": "Soda Stereo - Lo Que Sangra (La Cupula)",
+    "titles": {
+      "spa": "Soda Stereo - Lo Que Sangra (La Cupula)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7b53b633-a1c6-46db-ad49-b2e22ffec0b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:17:09.596Z",
+    "modified_at": "2022-11-03T13:17:10.029Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b26c18b415b2ad64502375ad73e7ee57.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4610475,
+      "gain": -0.93,
+      "duration": 288,
+      "loudnorm": "-16.27,-1.20,4.30,-26.46,-0.57",
+      "filename": "processed_658537280133c6f30620d6e2c5241160.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Toni Braxton - - Toni Braxton - Regresa A Mi.mp3",
+      "loudnorm": "-13.72,5.70,4.60,-23.85,-0.63",
+      "duration": 274,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Toni Braxton - - Toni Braxton - Regresa A Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1da1f5b-9e1b-47a4-8ece-6d9477a60aed",
+    "title": "Toni Braxton - Regresa A Mi",
+    "titles": {
+      "spa": "Toni Braxton - Regresa A Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "cfba3198-e715-47c5-bcc0-ebb2724eef22"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:27:38.556Z",
+    "modified_at": "2022-11-03T23:27:38.937Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_8d5475c8bf3d822428df515a87ced5d8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4399535,
+      "gain": -2.59,
+      "duration": 274,
+      "loudnorm": "-13.72,5.70,4.60,-23.85,-0.63",
+      "filename": "processed_9f7456c8f8116bf3133ae524b5bae309.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Amante A La Antigua.mp3",
+      "loudnorm": "-9.60,1.30,5.20,-19.65,-0.55",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Amante A La Antigua.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "957b8fcf-fc22-4e5a-ac56-ede99ff9944d",
+    "title": "Roberto Carlos - Amante A La Antigua",
+    "titles": {
+      "spa": "Roberto Carlos - Amante A La Antigua"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:33:59.773Z",
+    "modified_at": "2022-11-03T12:34:00.194Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a9beb8fdf79337bab739a58f9492e598.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3237189,
+      "gain": -8.95,
+      "duration": 202,
+      "loudnorm": "-9.60,1.30,5.20,-19.65,-0.55",
+      "filename": "processed_62015f7ca83d1e6a0a18121018751124.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

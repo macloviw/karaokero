@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Soraya - - SP-460547_Soraya_Solo Por Ti_scl1570-05.mp3",
+      "loudnorm": "-14.92,0.15,8.00,-25.11,-1.54",
+      "duration": 252,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Soraya - - SP-460547_Soraya_Solo Por Ti_scl1570-05.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c6ffa9be-d58b-45f5-bbe7-a182b72f3635",
+    "title": "SP-460547_Soraya_Solo Por Ti_scl1570-05",
+    "titles": {
+      "spa": "SP-460547_Soraya_Solo Por Ti_scl1570-05"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b07daa3d-b90f-4702-ace5-78f46e18adb6"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:24:31.401Z",
+    "modified_at": "2022-11-03T23:24:31.786Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9e22bb00a5d24e7e7360dfb2a8c8cce8.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4038794,
+      "gain": -2.8,
+      "duration": 252,
+      "loudnorm": "-14.92,0.15,8.00,-25.11,-1.54",
+      "filename": "processed_bd2802cb6b465433028339817322c197.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

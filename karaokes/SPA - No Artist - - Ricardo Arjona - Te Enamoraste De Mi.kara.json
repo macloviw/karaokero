@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - No Artist - - Ricardo Arjona - Te Enamoraste De Mi.mp3",
+      "loudnorm": "-10.06,1.03,5.70,-20.21,-1.30",
+      "duration": 280,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - No Artist - - Ricardo Arjona - Te Enamoraste De Mi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e5c66dd9-5c20-4c04-a151-32beec9710e2",
+    "title": "Ricardo Arjona - Te Enamoraste De Mi",
+    "titles": {
+      "spa": "Ricardo Arjona - Te Enamoraste De Mi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:03:20.158Z",
+    "modified_at": "2022-11-03T11:03:20.799Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b6b5d0447194ca65fbaf6ea847c387c3.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4491774,
+      "gain": -8.2,
+      "duration": 280,
+      "loudnorm": "-10.06,1.03,5.70,-20.21,-1.30",
+      "filename": "processed_9a2698632cb7e15df514967916eb2100.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

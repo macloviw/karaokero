@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHY SANTOS - - RAPHY SANTOS - HOMENAJE A MARINO PEREZ.mp3",
+      "loudnorm": "-22.52,-2.32,4.60,-32.76,-0.52",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHY SANTOS - - RAPHY SANTOS - HOMENAJE A MARINO PEREZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c19f85cd-5147-4f15-bbd1-ee675a832f78",
+    "title": "RAPHY SANTOS   -   HOMENAJE A MARINO PEREZ",
+    "titles": {
+      "spa": "RAPHY SANTOS   -   HOMENAJE A MARINO PEREZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "2e8a1186-9a5b-427e-b693-7207247f066f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:15:05.199Z",
+    "modified_at": "2022-11-03T00:15:05.642Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4ddef9f5e9849192f58fef3a49539ea2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6270318,
+      "gain": 2.16,
+      "duration": 261,
+      "loudnorm": "-22.52,-2.32,4.60,-32.76,-0.52",
+      "filename": "processed_0387323dbfadbc4cf5289052d0b96983.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

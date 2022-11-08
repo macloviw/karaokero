@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - LA MASA.MP3",
+      "loudnorm": "-16.94,-3.51,2.10,-27.00,-0.54",
+      "duration": 361,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SILVIO RODRIGUEZ - - SILVIO RODRIGUEZ - LA MASA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "62ad599a-9d8b-4c90-9d4c-b184049d6406",
+    "title": "SILVIO RODRIGUEZ   -   LA MASA",
+    "titles": {
+      "spa": "SILVIO RODRIGUEZ   -   LA MASA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "1b85a6a0-8d23-405c-aba0-9356cc61bf8a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:23:09.513Z",
+    "modified_at": "2022-11-03T23:23:10.103Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5785906,
+      "gain": -0.28,
+      "duration": 361,
+      "loudnorm": "-16.94,-3.51,2.10,-27.00,-0.54",
+      "filename": "processed_639de9965e9b059592e8c9615a9bf8b8.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5785906,
+      "gain": -0.28,
+      "duration": 361,
+      "loudnorm": "-16.94,-3.51,2.10,-27.00,-0.54",
+      "filename": "processed_38ea2963490afa8800c2bd32d975b6af.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

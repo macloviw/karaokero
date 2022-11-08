@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - LAS CUARENTA.MP3",
+      "loudnorm": "-13.50,1.09,7.60,-24.20,-0.66",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROLANDO LA SERIE - - ROLANDO LA SERIE - LAS CUARENTA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1298b039-18e0-49df-8582-2e1c6e850109",
+    "title": "ROLANDO LA SERIE   -   LAS CUARENTA",
+    "titles": {
+      "spa": "ROLANDO LA SERIE   -   LAS CUARENTA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d08b6d44-d43f-4859-bd7e-f9e6249066a3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:49:36.269Z",
+    "modified_at": "2022-11-03T12:49:36.727Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3235808,
+      "gain": -6.53,
+      "duration": 202,
+      "loudnorm": "-13.50,1.09,7.60,-24.20,-0.66",
+      "filename": "processed_4929e45a99a3e6c0c43d368bcc22493a.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3235808,
+      "gain": -6.53,
+      "duration": 202,
+      "loudnorm": "-13.50,1.09,7.60,-24.20,-0.66",
+      "filename": "processed_b7c5cbf1275315103bf017c7509420f7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Juntos.mp3",
+      "loudnorm": "-15.83,0.06,5.70,-25.98,-0.69",
+      "duration": 301,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Juntos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "60a20a93-e753-47d9-916b-7a613cc3399d",
+    "title": "Paloma San Basilio - Juntos",
+    "titles": {
+      "spa": "Paloma San Basilio - Juntos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "812e5fc3-0e59-4cc5-8728-c6d83892bad2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:13:24.269Z",
+    "modified_at": "2022-11-03T11:13:24.690Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4aa57bb7c0d5311780d4ff17b61a32fd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7245835,
+      "gain": -2.44,
+      "duration": 301,
+      "loudnorm": "-15.83,0.06,5.70,-25.98,-0.69",
+      "filename": "processed_9871bfeaba05551479e82bb38f59ad76.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

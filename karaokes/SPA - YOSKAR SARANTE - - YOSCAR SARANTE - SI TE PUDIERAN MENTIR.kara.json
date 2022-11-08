@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - YOSCAR SARANTE - SI TE PUDIERAN MENTIR.MP3",
+      "loudnorm": "-17.49,1.25,2.20,-27.52,-0.04",
+      "duration": 321,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - YOSCAR SARANTE - SI TE PUDIERAN MENTIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "16f6ff00-e309-424f-aeb9-709efd4f3159",
+    "title": "YOSCAR SARANTE   -   SI TE PUDIERAN MENTIR",
+    "titles": {
+      "spa": "YOSCAR SARANTE   -   SI TE PUDIERAN MENTIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T20:01:35.811Z",
+    "modified_at": "2022-11-02T20:01:36.569Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5144756,
+      "gain": 0.39,
+      "duration": 321,
+      "loudnorm": "-17.49,1.25,2.20,-27.52,-0.04",
+      "filename": "processed_7b8bf97e368a3693a052e09bf4aa63b2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5144756,
+      "gain": 0.39,
+      "duration": 321,
+      "loudnorm": "-17.49,1.25,2.20,-27.52,-0.04",
+      "filename": "processed_cf6c6f7f35a2ac32022206810c57898c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

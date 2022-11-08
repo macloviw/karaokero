@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - El Primer Beso.mp3",
+      "loudnorm": "-12.05,2.54,2.70,-22.24,-0.42",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - Raulin Rodriguez - El Primer Beso.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "31266fb3-89f1-4639-86d7-0b56b1f8dfab",
+    "title": "Raulin Rodriguez - El Primer Beso",
+    "titles": {
+      "spa": "Raulin Rodriguez - El Primer Beso"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:20:36.253Z",
+    "modified_at": "2022-11-03T00:20:36.708Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_499a377155f2fc66a129dff1c8435a0c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5065629,
+      "gain": -6.98,
+      "duration": 316,
+      "loudnorm": "-12.05,2.54,2.70,-22.24,-0.42",
+      "filename": "processed_6493143ada3c92c7a49dc063f9989d28.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

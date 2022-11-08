@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PINPINELA - - PINPINELA - BUENA ONDA.MP3",
+      "loudnorm": "-11.02,2.17,4.40,-21.30,0.10",
+      "duration": 234,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PINPINELA - - PINPINELA - BUENA ONDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3f823763-2f2a-4db5-a65a-97d20c4cf337",
+    "title": "PINPINELA                                               -   BUENA ONDA",
+    "titles": {
+      "spa": "PINPINELA                                               -   BUENA ONDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8cd72eb1-94f7-4017-8f10-0825b6f20308"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:10:26.563Z",
+    "modified_at": "2022-11-03T23:10:27.002Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3746554,
+      "gain": -5.54,
+      "duration": 234,
+      "loudnorm": "-11.02,2.17,4.40,-21.30,0.10",
+      "filename": "processed_306f1871f3844947e3a3c805f515f940.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3746554,
+      "gain": -5.54,
+      "duration": 234,
+      "loudnorm": "-11.02,2.17,4.40,-21.30,0.10",
+      "filename": "processed_2a978dcb4a1ec5a010972c46199cf067.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

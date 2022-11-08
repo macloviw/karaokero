@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - AMIGO.MP3",
+      "loudnorm": "-14.83,0.33,3.90,-25.02,-0.47",
+      "duration": 211,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - AMIGO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6859a801-85af-46a9-9387-f7a2dd16f1ab",
+    "title": "ROBERTO CARLOS   -   AMIGO",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   AMIGO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:26:50.468Z",
+    "modified_at": "2022-11-03T12:26:50.941Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3379586,
+      "gain": -2.41,
+      "duration": 211,
+      "loudnorm": "-14.83,0.33,3.90,-25.02,-0.47",
+      "filename": "processed_68f1e6d10ceb780a2a9aed5d486522d2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3379586,
+      "gain": -2.41,
+      "duration": 211,
+      "loudnorm": "-14.83,0.33,3.90,-25.02,-0.47",
+      "filename": "processed_11c7a2e228a42cac3ecc7f3e01ba7015.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

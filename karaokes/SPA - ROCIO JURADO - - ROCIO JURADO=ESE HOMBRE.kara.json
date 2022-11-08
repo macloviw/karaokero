@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROCIO JURADO - - ROCIO JURADO=ESE HOMBRE.mp3",
+      "loudnorm": "-13.65,-0.37,7.20,-23.89,-0.71",
+      "duration": 212,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROCIO JURADO - - ROCIO JURADO=ESE HOMBRE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4094076c-0a8a-4a72-b157-f34015336445",
+    "title": "ROCIO JURADO=ESE HOMBRE",
+    "titles": {
+      "spa": "ROCIO JURADO=ESE HOMBRE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bb85a510-9040-4d06-8bea-d1164f5057c4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:48:05.994Z",
+    "modified_at": "2022-11-03T12:48:06.407Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c0f388b860c365f26dfa8978acfb7ae5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3406335,
+      "gain": -4.69,
+      "duration": 212,
+      "loudnorm": "-13.65,-0.37,7.20,-23.89,-0.71",
+      "filename": "processed_e9c49fb84c31ab531918a611881315b8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

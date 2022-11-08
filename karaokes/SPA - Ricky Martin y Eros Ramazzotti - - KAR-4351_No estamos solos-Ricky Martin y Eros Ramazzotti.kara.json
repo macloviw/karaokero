@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ricky Martin y Eros Ramazzotti - - KAR-4351_No estamos solos-Ricky Martin y Eros Ramazzotti.mp3",
+      "loudnorm": "-7.50,2.69,3.50,-17.56,-0.73",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ricky Martin y Eros Ramazzotti - - KAR-4351_No estamos solos-Ricky Martin y Eros Ramazzotti.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3991af15-95ef-4caf-9de2-3077fc452b58",
+    "title": "KAR-4351_No estamos solos-Ricky Martin y Eros Ramazzotti",
+    "titles": {
+      "spa": "KAR-4351_No estamos solos-Ricky Martin y Eros Ramazzotti"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8f2158f0-9680-4a73-99c9-9e3307f4eb45"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:16:59.140Z",
+    "modified_at": "2022-11-03T23:16:59.521Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_91b8c3b510a7f067a969367419fbed2c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5414912,
+      "gain": -8.72,
+      "duration": 224,
+      "loudnorm": "-7.50,2.69,3.50,-17.56,-0.73",
+      "filename": "processed_86ba19fb3902da20c800f6d23938fa4a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

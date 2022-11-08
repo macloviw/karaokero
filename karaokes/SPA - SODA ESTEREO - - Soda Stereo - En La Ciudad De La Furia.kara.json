@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SODA ESTEREO - - Soda Stereo - En La Ciudad De La Furia.mp3",
+      "loudnorm": "-14.42,-2.77,3.50,-24.59,-0.59",
+      "duration": 356,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SODA ESTEREO - - Soda Stereo - En La Ciudad De La Furia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df6e4167-9ea2-4c94-8b16-620a5599ca41",
+    "title": "Soda Stereo - En La Ciudad De La Furia",
+    "titles": {
+      "spa": "Soda Stereo - En La Ciudad De La Furia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7b53b633-a1c6-46db-ad49-b2e22ffec0b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:16:30.643Z",
+    "modified_at": "2022-11-03T13:16:31.059Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3c9f790da7e27864fb86804c36ea9b9f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5713052,
+      "gain": -1.47,
+      "duration": 356,
+      "loudnorm": "-14.42,-2.77,3.50,-24.59,-0.59",
+      "filename": "processed_e6d9f5050328badfd8ec5a28c5f8f228.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

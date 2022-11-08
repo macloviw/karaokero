@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - Para Vivir.mp3",
+      "loudnorm": "-12.69,-1.32,4.90,-22.75,0.09",
+      "duration": 192,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SONIA SILVESTRE - - SONIA SILVESTRE - Para Vivir.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d524745c-8dcd-4146-8b20-30168175ffd9",
+    "title": "SONIA SILVESTRE - Para Vivir",
+    "titles": {
+      "spa": "SONIA SILVESTRE - Para Vivir"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "954a2b17-857b-4881-a9c0-53d9326fcbf4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:19:39.884Z",
+    "modified_at": "2022-11-03T13:19:40.288Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_81829ae90398ae770869370d4b5aff40.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3862039,
+      "gain": -5.15,
+      "duration": 192,
+      "loudnorm": "-12.69,-1.32,4.90,-22.75,0.09",
+      "filename": "processed_3310a52bc4bce05dfeeafb662fb817a2.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

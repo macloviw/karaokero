@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - LADY LAURA.MP3",
+      "loudnorm": "-19.82,-5.41,4.70,-29.97,-0.54",
+      "duration": 256,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - LADY LAURA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "12c051fd-59d3-4ce9-b9d4-50ed2b3dbf3c",
+    "title": "ROBERTO CARLOS   -   LADY LAURA",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   LADY LAURA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:29:54.758Z",
+    "modified_at": "2022-11-03T12:29:55.361Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4109342,
+      "gain": 2.9,
+      "duration": 256,
+      "loudnorm": "-19.82,-5.41,4.70,-29.97,-0.54",
+      "filename": "processed_7980c2978fd9fff91bf78aec0c888288.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4109342,
+      "gain": 2.9,
+      "duration": 256,
+      "loudnorm": "-19.82,-5.41,4.70,-29.97,-0.54",
+      "filename": "processed_e9a30ea6112cd1a687de2b57492b46be.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

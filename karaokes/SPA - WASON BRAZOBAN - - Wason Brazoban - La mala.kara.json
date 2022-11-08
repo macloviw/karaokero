@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WASON BRAZOBAN - - Wason Brazoban - La mala.mp3",
+      "loudnorm": "-15.52,-0.85,3.90,-25.69,-0.18",
+      "duration": 207,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WASON BRAZOBAN - - Wason Brazoban - La mala.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e711ecc1-59df-4c39-b4b5-10e13e47e075",
+    "title": "Wason Brazobán - La mala",
+    "titles": {
+      "spa": "Wason Brazobán - La mala"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "83516fc8-5767-4e4f-8b74-9139a420585e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:36:33.398Z",
+    "modified_at": "2022-11-03T13:36:33.841Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_64f0a99fe9ad0a9e5eaeba6192007f10.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3329977,
+      "gain": -1.93,
+      "duration": 207,
+      "loudnorm": "-15.52,-0.85,3.90,-25.69,-0.18",
+      "filename": "processed_3b1a2445a6038b3cb5a9f91538b6d98d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

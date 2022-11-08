@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PEGADA A TI - - PEGADA A TI(1).mp3",
+      "loudnorm": "-15.58,-2.36,4.70,-25.65,-0.04",
+      "duration": 247,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PEGADA A TI - - PEGADA A TI(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1a11964-fb83-498e-8fef-1449e93148d4",
+    "title": "PEGADA A TI(1)",
+    "titles": {
+      "spa": "PEGADA A TI(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "71bb3db4-a49c-4c24-aa71-7f99e9f79e1f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:42:12.104Z",
+    "modified_at": "2022-11-03T23:42:12.476Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_2b6a509915d7a23d2e3cbb7c61b8588b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3963117,
+      "gain": -2.58,
+      "duration": 247,
+      "loudnorm": "-15.58,-2.36,4.70,-25.65,-0.04",
+      "filename": "processed_0ca1e34f620a648753baf12f0d4e8546.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

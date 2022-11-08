@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Tony Bennett - - Steppin' Out With My Baby.mp3",
+      "loudnorm": "-16.94,-1.19,4.00,-27.07,-0.11",
+      "duration": 171,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Tony Bennett - - Steppin' Out With My Baby.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d2e2444f-a3a0-4afd-8905-55502830c8f3",
+    "title": "Steppin' Out With My Baby",
+    "titles": {
+      "spa": "Steppin' Out With My Baby"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "d8bc9c77-875e-4183-94f7-184152ec486e"
+      ],
+      "singers": [
+        "50eb3d63-2540-4571-940f-90ded00bae83"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:49:31.673Z",
+    "modified_at": "2022-11-03T23:49:32.070Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_141c398b04abc737acacff7ba4a737f4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4127105,
+      "gain": -1.05,
+      "duration": 171,
+      "loudnorm": "-16.94,-1.19,4.00,-27.07,-0.11",
+      "filename": "processed_d7fadea23b70c7544d3ee3ace364e944.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

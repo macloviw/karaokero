@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - Cama Separada-Yoskar Sarante.mp3",
+      "loudnorm": "-14.53,3.32,1.30,-24.55,0.19",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - Cama Separada-Yoskar Sarante.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bc207fa6-08bd-4002-8ec5-e223b0b40f0b",
+    "title": "Cama Separada-Yoskar Sarante",
+    "titles": {
+      "spa": "Cama Separada-Yoskar Sarante"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T19:56:06.876Z",
+    "modified_at": "2022-11-02T19:56:07.298Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_e2e4c1f74173cb67b5247d3f49aabca4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3997040,
+      "gain": -3.4,
+      "duration": 249,
+      "loudnorm": "-14.53,3.32,1.30,-24.55,0.19",
+      "filename": "processed_b16eaf96856a255baa5a9cacc5fc8832.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

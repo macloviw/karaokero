@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Pedro Infante - - SP-461070_Pedro Infante_Las Mananitas_kb35-08.mp3",
+      "loudnorm": "-16.58,-0.09,4.80,-26.66,-0.75",
+      "duration": 193,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Pedro Infante - - SP-461070_Pedro Infante_Las Mananitas_kb35-08.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "be15f0bb-1814-45ab-818c-ba094055a69c",
+    "title": "SP-461070_Pedro Infante_Las Mañanitas_kb35-08",
+    "titles": {
+      "spa": "SP-461070_Pedro Infante_Las Mañanitas_kb35-08"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7fbc7e6c-3bf5-4249-9ab3-0bf15699fd75"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:08:49.125Z",
+    "modified_at": "2022-11-03T23:08:49.503Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_efdc70143eecee4fd81b539d1b0bbd16.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3096714,
+      "gain": -1.71,
+      "duration": 193,
+      "loudnorm": "-16.58,-0.09,4.80,-26.66,-0.75",
+      "filename": "processed_579ebccf2260167b44df6aaada59d10a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SODA ESTEREO - - Soda Stereo - Nada Personal.mp3",
+      "loudnorm": "-11.44,1.65,2.30,-21.63,-0.58",
+      "duration": 304,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SODA ESTEREO - - Soda Stereo - Nada Personal.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9707780b-212e-4783-b0a7-2f11ae1b7856",
+    "title": "Soda Stereo - Nada Personal",
+    "titles": {
+      "spa": "Soda Stereo - Nada Personal"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7b53b633-a1c6-46db-ad49-b2e22ffec0b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:17:31.236Z",
+    "modified_at": "2022-11-03T13:17:31.665Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0aba46e22f99b811e4dd762033e68e89.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 12198396,
+      "gain": -7.44,
+      "duration": 304,
+      "loudnorm": "-11.44,1.65,2.30,-21.63,-0.58",
+      "filename": "processed_c9d4774ac7145338ee408abf162d4a1f.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

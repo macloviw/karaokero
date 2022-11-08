@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - sin bandera - PARA ALCANZARTE.mp3",
+      "loudnorm": "-13.83,-0.46,4.60,-23.97,-0.53",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - sin bandera - PARA ALCANZARTE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d468ee58-b739-49a7-9308-81ba186874e4",
+    "title": "sin bandera - PARA ALCANZARTE",
+    "titles": {
+      "spa": "sin bandera - PARA ALCANZARTE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:11:56.151Z",
+    "modified_at": "2022-11-03T13:11:56.568Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_9180a005bfc552ed9efcd3550230755c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6716171,
+      "gain": -4.81,
+      "duration": 279,
+      "loudnorm": "-13.83,-0.46,4.60,-23.97,-0.53",
+      "filename": "processed_387fc9deda2be1b3aa1a8004604ea803.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

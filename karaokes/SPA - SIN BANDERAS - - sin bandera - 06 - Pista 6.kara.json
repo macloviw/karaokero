@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - sin bandera - 06 - Pista 6.mp3",
+      "loudnorm": "-17.19,-0.71,4.60,-27.37,-0.46",
+      "duration": 279,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - sin bandera - 06 - Pista 6.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "000c7af7-1f4d-4acd-aad7-3d8fc809171d",
+    "title": "sin bandera - 06 - Pista  6",
+    "titles": {
+      "spa": "sin bandera - 06 - Pista  6"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:10:11.261Z",
+    "modified_at": "2022-11-03T13:10:11.675Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce1378096b63d8050cbdd86833f23897.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 1121585,
+      "gain": -1.42,
+      "duration": 279,
+      "loudnorm": "-17.19,-0.71,4.60,-27.37,-0.46",
+      "filename": "processed_0043c0c6a743a8a5c252162d854d5a46.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

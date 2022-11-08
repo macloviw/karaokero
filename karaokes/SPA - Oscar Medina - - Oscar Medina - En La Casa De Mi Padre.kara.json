@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Oscar Medina - - Oscar Medina - En La Casa De Mi Padre.mp3",
+      "loudnorm": "-12.89,1.52,6.20,-23.08,-0.67",
+      "duration": 219,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Oscar Medina - - Oscar Medina - En La Casa De Mi Padre.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6f7f179a-b946-493f-a508-849cfa50177d",
+    "title": "Oscar Medina - En La Casa De Mi Padre",
+    "titles": {
+      "spa": "Oscar Medina - En La Casa De Mi Padre"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44df41f7-b618-4691-a1fb-33e7bc0c8f57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:26:13.221Z",
+    "modified_at": "2022-11-03T14:26:13.624Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_11837323f449e8136d1a59ad634499ca.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3518477,
+      "gain": -6.43,
+      "duration": 219,
+      "loudnorm": "-12.89,1.52,6.20,-23.08,-0.67",
+      "filename": "processed_87062167d141f2156d2314276a309337.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

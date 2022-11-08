@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROCIO JURADO - - ROCIO JURADO - SI AMANECE.mp3",
+      "loudnorm": "-14.81,-0.59,6.90,-25.02,-0.84",
+      "duration": 310,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROCIO JURADO - - ROCIO JURADO - SI AMANECE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e44cdb01-6eec-4f0d-947b-fee15dec3f8e",
+    "title": "ROCIO JURADO - SI AMANECE",
+    "titles": {
+      "spa": "ROCIO JURADO - SI AMANECE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "bb85a510-9040-4d06-8bea-d1164f5057c4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:19:00.976Z",
+    "modified_at": "2022-11-03T23:19:01.361Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_259a5f312e94be50bee1ff183d84d8df.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 8694999,
+      "gain": -3.36,
+      "duration": 310,
+      "loudnorm": "-14.81,-0.59,6.90,-25.02,-0.84",
+      "filename": "processed_f286c3fe687e3ca4d77e4a0301b13fc3.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Un Gato En La Oscuridad.mp3",
+      "loudnorm": "-13.43,0.32,8.10,-23.83,-1.33",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - Roberto Carlos - Un Gato En La Oscuridad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "11c3fc05-5fce-485f-8d2b-f4cc1bdb14aa",
+    "title": "Roberto Carlos - Un Gato En La Oscuridad",
+    "titles": {
+      "spa": "Roberto Carlos - Un Gato En La Oscuridad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:34:59.690Z",
+    "modified_at": "2022-11-03T12:35:00.122Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1568ad4e6697082edbbf233c9ea9fd76.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4309255,
+      "gain": -4.1,
+      "duration": 269,
+      "loudnorm": "-13.43,0.32,8.10,-23.83,-1.33",
+      "filename": "processed_438cb798aac4e5c06480c95d5fcb0c91.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

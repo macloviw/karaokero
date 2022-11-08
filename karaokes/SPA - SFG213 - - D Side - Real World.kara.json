@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SFG213 - - D Side - Real World.mp3",
+      "loudnorm": "-10.91,2.51,5.80,-21.04,-1.29",
+      "duration": 293,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SFG213 - - D Side - Real World.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b52a09ea-e117-4023-9774-1dbb51320de0",
+    "title": "D Side - Real World",
+    "titles": {
+      "spa": "D Side - Real World"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "8840df6f-3c23-4857-9f6a-5b3c152a6911"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:42:16.805Z",
+    "modified_at": "2022-11-04T01:42:17.195Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aca467989d81ae1e39456b19a224fbc7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4703727,
+      "gain": -7.8,
+      "duration": 293,
+      "loudnorm": "-10.91,2.51,5.80,-21.04,-1.29",
+      "filename": "processed_35d8cf77ce593b4b33153ebfe4f8f4d4.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

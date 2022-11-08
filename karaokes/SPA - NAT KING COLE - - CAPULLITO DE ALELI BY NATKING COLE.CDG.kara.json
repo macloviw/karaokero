@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - NAT KING COLE - - CAPULLITO DE ALELI BY NATKING COLE.CDG.MP3",
+      "loudnorm": "-14.68,0.29,2.40,-25.00,-0.11",
+      "duration": 161,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - NAT KING COLE - - CAPULLITO DE ALELI BY NATKING COLE.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "06bdf092-6fd7-4327-9062-293570ee9049",
+    "title": "CAPULLITO DE ALELI BY NATKING COLE.CDG",
+    "titles": {
+      "spa": "CAPULLITO DE ALELI BY NATKING COLE.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e143cd01-4ee9-42c3-aedf-8da35c635c0c"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T10:48:06.074Z",
+    "modified_at": "2022-11-03T10:48:06.664Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2593822,
+      "gain": 0.27,
+      "duration": 161,
+      "loudnorm": "-14.68,0.29,2.40,-25.00,-0.11",
+      "filename": "processed_dc43a8be2d20e9eebc70c27433d1e5c2.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2593822,
+      "gain": 0.27,
+      "duration": 161,
+      "loudnorm": "-14.68,0.29,2.40,-25.00,-0.11",
+      "filename": "processed_f5159348a2c11eb07ba8aef1b2cc1aa3.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CANZONE PER TE.MP3",
+      "loudnorm": "-12.10,4.36,6.40,-22.19,-1.35",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO CARLOS - - ROBERTO CARLOS - CANZONE PER TE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e0d2a4d-bc96-46bf-a484-2f698db0a7b8",
+    "title": "ROBERTO CARLOS   -   CANZONE PER TE",
+    "titles": {
+      "spa": "ROBERTO CARLOS   -   CANZONE PER TE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "23a91bf4-864a-4218-a2ae-d42106fdff92"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:27:46.191Z",
+    "modified_at": "2022-11-03T12:27:46.806Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3333321,
+      "gain": -4.46,
+      "duration": 208,
+      "loudnorm": "-12.10,4.36,6.40,-22.19,-1.35",
+      "filename": "processed_e3363219ee8caf28fddf94cb64ca78b3.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3333321,
+      "gain": -4.46,
+      "duration": 208,
+      "loudnorm": "-12.10,4.36,6.40,-22.19,-1.35",
+      "filename": "processed_a2b991802df327e9cbee43b88c528ce5.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

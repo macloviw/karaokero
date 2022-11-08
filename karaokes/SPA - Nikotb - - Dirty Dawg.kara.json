@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Nikotb - - Dirty Dawg.mp3",
+      "loudnorm": "-6.53,7.85,2.80,-16.79,-0.12",
+      "duration": 215,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Nikotb - - Dirty Dawg.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "bb161157-e3a8-4682-9c91-3ff594a82d2f",
+    "title": "Dirty Dawg",
+    "titles": {
+      "spa": "Dirty Dawg"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "b5fd9284-0b8a-4397-aaa9-be110292d029"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:59:35.778Z",
+    "modified_at": "2022-11-02T21:59:36.507Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0ad8d5d90ac261e9d027cec7b9ec50d5.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3457660,
+      "gain": -8.8,
+      "duration": 215,
+      "loudnorm": "-6.53,7.85,2.80,-16.79,-0.12",
+      "filename": "processed_bd32f5a3c9c9413900c6625e8c1b940a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - SOY TUYO.mp3",
+      "loudnorm": "-8.92,7.21,6.30,-19.05,-1.48",
+      "duration": 248,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - SOY TUYO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "1bf9bec4-721b-4c18-bbe7-959148dbbb58",
+    "title": "RICARDO MONTANER   -   SOY TUYO",
+    "titles": {
+      "spa": "RICARDO MONTANER   -   SOY TUYO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:16:17.976Z",
+    "modified_at": "2022-11-03T12:16:18.417Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_842c12b96a19e1193a808942d73bc795.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3974677,
+      "gain": -8.25,
+      "duration": 248,
+      "loudnorm": "-8.92,7.21,6.30,-19.05,-1.48",
+      "filename": "processed_9f29ac04ef428114eb6cb179dadb0026.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

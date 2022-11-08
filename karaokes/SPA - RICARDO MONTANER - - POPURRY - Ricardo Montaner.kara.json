@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - POPURRY - Ricardo Montaner.mp3",
+      "loudnorm": "-9.83,2.40,8.80,-19.95,-0.56",
+      "duration": 695,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - POPURRY - Ricardo Montaner.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5433c8dc-267b-49d8-9764-d30a284e76f8",
+    "title": "POPURRY - Ricardo Montaner",
+    "titles": {
+      "spa": "POPURRY - Ricardo Montaner"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:15:04.825Z",
+    "modified_at": "2022-11-03T23:15:05.239Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17acc18759c10625d7bd2d20ff314234.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 22270017,
+      "gain": -7.85,
+      "duration": 695,
+      "loudnorm": "-9.83,2.40,8.80,-19.95,-0.56",
+      "filename": "processed_5c420f61b36971f4bb19f762966c3525.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

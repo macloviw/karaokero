@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rene Gonzalez - - Rene Gonzalez - Carpintero.mp3",
+      "loudnorm": "-14.45,0.74,7.00,-24.53,-1.31",
+      "duration": 338,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rene Gonzalez - - Rene Gonzalez - Carpintero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "99673470-8ca3-4ba4-a8b5-170f68a79b67",
+    "title": "Rene Gonzalez - Carpintero",
+    "titles": {
+      "spa": "Rene Gonzalez - Carpintero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "1177f416-2373-490d-a939-caf731f8c04a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:43:25.368Z",
+    "modified_at": "2022-11-03T23:43:25.747Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ceba6c8bf64cd1529257f0910f033e60.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5417600,
+      "gain": -3.6,
+      "duration": 338,
+      "loudnorm": "-14.45,0.74,7.00,-24.53,-1.31",
+      "filename": "processed_ff8d1e71806703b7a0c6d858178d81fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

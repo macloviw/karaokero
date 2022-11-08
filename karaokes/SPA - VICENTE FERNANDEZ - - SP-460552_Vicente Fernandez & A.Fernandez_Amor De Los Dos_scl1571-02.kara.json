@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - VICENTE FERNANDEZ - - SP-460552_Vicente Fernandez & A.Fernandez_Amor De Los Dos_scl1571-02.mp3",
+      "loudnorm": "-12.27,0.45,7.60,-22.59,-0.45",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - VICENTE FERNANDEZ - - SP-460552_Vicente Fernandez & A.Fernandez_Amor De Los Dos_scl1571-02.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "03f02d1f-f899-4c1c-9657-5c517e6c11b4",
+    "title": "SP-460552_Vicente Fernández & A.Fernández_Amor De Los Dos_scl1571-02",
+    "titles": {
+      "spa": "SP-460552_Vicente Fernández & A.Fernández_Amor De Los Dos_scl1571-02"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:29:38.874Z",
+    "modified_at": "2022-11-03T23:29:39.303Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ba5d336a427a45ef3f442799ad0c48d4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3551370,
+      "gain": -4.93,
+      "duration": 221,
+      "loudnorm": "-12.27,0.45,7.60,-22.59,-0.45",
+      "filename": "processed_8c388b23c55517eb9a3fe13871da70f6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

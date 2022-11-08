@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - Romeo Santos Ft. Mario Domm - Rival.mp3",
+      "loudnorm": "-7.14,1.00,10.50,-17.54,-1.47",
+      "duration": 286,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - Romeo Santos Ft. Mario Domm - Rival.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df2a7376-6f39-4c4d-aded-2e84231b851c",
+    "title": "Romeo Santos Ft. Mario Domm - Rival",
+    "titles": {
+      "spa": "Romeo Santos Ft. Mario Domm - Rival"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:29:17.730Z",
+    "modified_at": "2022-11-03T00:29:18.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_25888b32260c846e7c29cc27e8d49d05.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 7390190,
+      "gain": -10.67,
+      "duration": 286,
+      "loudnorm": "-7.14,1.00,10.50,-17.54,-1.47",
+      "filename": "processed_6a5befb9905710d6994c214fbe1077bf.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

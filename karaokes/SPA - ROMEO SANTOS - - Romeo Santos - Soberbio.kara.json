@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - Romeo Santos - Soberbio.mp3",
+      "loudnorm": "-11.73,3.03,10.60,-22.16,-1.72",
+      "duration": 255,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - Romeo Santos - Soberbio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e88dbc00-eedf-43dc-b0d1-7f08d24743b2",
+    "title": "Romeo Santos - Soberbio",
+    "titles": {
+      "spa": "Romeo Santos - Soberbio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:28:52.807Z",
+    "modified_at": "2022-11-03T00:28:53.249Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_17f7db0435bbb330c34f264b5db918ba.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4092701,
+      "gain": -6.18,
+      "duration": 255,
+      "loudnorm": "-11.73,3.03,10.60,-22.16,-1.72",
+      "filename": "processed_42a9ba563460f206d68150a2a4dd396e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

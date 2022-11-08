@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Not The Only One.mp3",
+      "loudnorm": "-13.24,3.19,9.00,-23.61,-0.44",
+      "duration": 319,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Raitt, Bonnie - - Raitt, Bonnie - Not The Only One.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "482986a9-55c2-43b0-b6a2-acf6806eac2d",
+    "title": "Raitt, Bonnie - Not The Only One",
+    "titles": {
+      "spa": "Raitt, Bonnie - Not The Only One"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "d4054b12-6e75-4456-9cdf-9f9d30dffc1e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:34:10.055Z",
+    "modified_at": "2022-11-04T01:34:10.451Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_761013762978357b541b38e3090d7b96.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5109934,
+      "gain": -5.27,
+      "duration": 319,
+      "loudnorm": "-13.24,3.19,9.00,-23.61,-0.44",
+      "filename": "processed_e837d41ecc9fc95894dfa62aa97e0e04.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

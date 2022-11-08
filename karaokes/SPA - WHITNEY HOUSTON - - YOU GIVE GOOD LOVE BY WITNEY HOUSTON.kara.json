@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WHITNEY HOUSTON - - YOU GIVE GOOD LOVE BY WITNEY HOUSTON.MP3",
+      "loudnorm": "-18.22,-0.68,6.00,-28.44,-1.15",
+      "duration": 275,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WHITNEY HOUSTON - - YOU GIVE GOOD LOVE BY WITNEY HOUSTON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "262c56d1-e13c-4849-9e73-ae0d4b6deded",
+    "title": "YOU GIVE GOOD LOVE BY WITNEY HOUSTON",
+    "titles": {
+      "spa": "YOU GIVE GOOD LOVE BY WITNEY HOUSTON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "7daf21bb-1a95-497f-adcd-a342e0a17e32"
+      ],
+      "singers": [
+        "9ad3b2e6-5f96-4dc1-90de-63afa074acd9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:58:04.472Z",
+    "modified_at": "2022-11-04T01:58:04.930Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4402461,
+      "gain": -0.17,
+      "duration": 275,
+      "loudnorm": "-18.22,-0.68,6.00,-28.44,-1.15",
+      "filename": "processed_9605a5bf955882d1ca4f396bdb81acd9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4402461,
+      "gain": -0.17,
+      "duration": 275,
+      "loudnorm": "-18.22,-0.68,6.00,-28.44,-1.15",
+      "filename": "processed_873fce6520f047b6ff090c5c938f9a85.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

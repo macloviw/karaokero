@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - TZLAS182-02 - - TZLAS182-02 - Mi Buenos Aires Querido - Gardel, Carlos.mp3",
+      "loudnorm": "-16.90,-2.64,9.20,-27.55,-0.83",
+      "duration": 181,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - TZLAS182-02 - - TZLAS182-02 - Mi Buenos Aires Querido - Gardel, Carlos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "65aea2fd-6408-4502-81ed-aff926b60c25",
+    "title": "TZLAS182-02 - Mi Buenos Aires Querido - Gardel, Carlos",
+    "titles": {
+      "spa": "TZLAS182-02 - Mi Buenos Aires Querido - Gardel, Carlos"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "58fc015c-9198-4335-913c-5221961f8628"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:28:10.217Z",
+    "modified_at": "2022-11-03T23:28:10.595Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1466cad6c9566579fe81be1d2d2065c7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2898515,
+      "gain": -2.45,
+      "duration": 181,
+      "loudnorm": "-16.90,-2.64,9.20,-27.55,-0.83",
+      "filename": "processed_ba3ecb27ab71df59f20322e51b35386b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

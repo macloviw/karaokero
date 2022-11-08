@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Beatles - - The Beatles - We Can Work It Out.mp3",
+      "loudnorm": "-15.20,0.82,2.70,-25.34,-0.63",
+      "duration": 146,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Beatles - - The Beatles - We Can Work It Out.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a5e1f794-9526-48c1-8bef-05bb273803a0",
+    "title": "The Beatles - We Can Work It Out",
+    "titles": {
+      "spa": "The Beatles - We Can Work It Out"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7bd03a6b-53af-481e-add2-e2fe29f334e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:46:20.441Z",
+    "modified_at": "2022-11-04T01:46:20.828Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_3003e1f3451d68d864c18bb02e0f6d8c.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2338577,
+      "gain": -2.03,
+      "duration": 146,
+      "loudnorm": "-15.20,0.82,2.70,-25.34,-0.63",
+      "filename": "processed_c5695eeb1cb999662e2822ae3939c1e8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

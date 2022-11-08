@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - QUE GANAS.MP3",
+      "loudnorm": "-11.85,0.85,4.70,-21.99,-1.04",
+      "duration": 239,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - QUE GANAS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8885ff5b-0425-4951-9260-4544e2423cc5",
+    "title": "RICARDO MONTANER   -   QUE GANAS",
+    "titles": {
+      "spa": "RICARDO MONTANER   -   QUE GANAS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:15:13.970Z",
+    "modified_at": "2022-11-03T12:15:14.502Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3840177,
+      "gain": -3.75,
+      "duration": 239,
+      "loudnorm": "-11.85,0.85,4.70,-21.99,-1.04",
+      "filename": "processed_dfad79b7f5144771027c135cf22aee27.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3840177,
+      "gain": -3.75,
+      "duration": 239,
+      "loudnorm": "-11.85,0.85,4.70,-21.99,-1.04",
+      "filename": "processed_fb7a3141cbe41928428635f028f1669e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

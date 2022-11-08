@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SELENA - - Selena - disco medley(i will survive funky town).mp3",
+      "loudnorm": "-9.52,3.77,5.90,-19.76,-1.40",
+      "duration": 200,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SELENA - - Selena - disco medley(i will survive funky town).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "76fb34e1-1b11-4fef-84fe-b320cc883a67",
+    "title": "Selena - disco medley(i will survive funky town)",
+    "titles": {
+      "spa": "Selena - disco medley(i will survive funky town)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4e496a38-cebe-46dd-a3fc-e91629d85cec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:58:26.906Z",
+    "modified_at": "2022-11-03T12:58:27.320Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_14113a0c9713aeedea9ee5e5d06758a0.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3217700,
+      "gain": -9.49,
+      "duration": 200,
+      "loudnorm": "-9.52,3.77,5.90,-19.76,-1.40",
+      "filename": "processed_4bd322cf55ad024e4d0a42e5dd457f2c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

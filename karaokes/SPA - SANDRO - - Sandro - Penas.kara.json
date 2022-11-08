@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - Sandro - Penas.mp3",
+      "loudnorm": "-13.48,0.69,5.70,-23.67,-0.32",
+      "duration": 202,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - Sandro - Penas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "09df6bd2-057e-44ea-875a-fbd01c00a1e4",
+    "title": "Sandro - Penas",
+    "titles": {
+      "spa": "Sandro - Penas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:55:26.443Z",
+    "modified_at": "2022-11-03T12:55:26.857Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_7a82d61c261893799a909ea8dc310d82.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4869894,
+      "gain": -3.29,
+      "duration": 202,
+      "loudnorm": "-13.48,0.69,5.70,-23.67,-0.32",
+      "filename": "processed_202e48c910b820695986e5dbb8ee2c38.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

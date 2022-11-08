@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PIERO - - PIERO - DE VES ENCUANDO VIENE BIEN DORMIR.MP3",
+      "loudnorm": "-11.92,2.73,1.50,-22.06,-0.60",
+      "duration": 203,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PIERO - - PIERO - DE VES ENCUANDO VIENE BIEN DORMIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c9bb5ca-09ef-4afd-8505-b05f1696ec41",
+    "title": "PIERO   -   DE VES ENCUANDO VIENE BIEN DORMIR",
+    "titles": {
+      "spa": "PIERO   -   DE VES ENCUANDO VIENE BIEN DORMIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "902e3b5f-1dd1-41a3-baab-d06fda207252"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:09:54.955Z",
+    "modified_at": "2022-11-03T23:09:55.386Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3262975,
+      "gain": -3.58,
+      "duration": 203,
+      "loudnorm": "-11.92,2.73,1.50,-22.06,-0.60",
+      "filename": "processed_ff6b832b440fca9165decb7302d643c5.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3262975,
+      "gain": -3.58,
+      "duration": 203,
+      "loudnorm": "-11.92,2.73,1.50,-22.06,-0.60",
+      "filename": "processed_700bd665cfbd13bc35a0d1ef89671201.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SAMUEL HERNANDEZ DIOS SIEMPRE - - DIOS SIEMPRE TIENE EL CONTROL(1).mp3",
+      "loudnorm": "-17.57,-1.49,12.80,-28.01,-1.12",
+      "duration": 292,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SAMUEL HERNANDEZ DIOS SIEMPRE - - DIOS SIEMPRE TIENE EL CONTROL(1).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f1f0591b-d3b8-432d-a1dc-6d753ec4b5a6",
+    "title": "DIOS SIEMPRE TIENE EL CONTROL(1)",
+    "titles": {
+      "spa": "DIOS SIEMPRE TIENE EL CONTROL(1)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "3faaacab-2e5f-4c78-bacf-167747416c26"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:44:18.295Z",
+    "modified_at": "2022-11-03T23:44:18.682Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ce66c6a43c3fae070a4f6f1cf2575113.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4687040,
+      "gain": -0.75,
+      "duration": 292,
+      "loudnorm": "-17.57,-1.49,12.80,-28.01,-1.12",
+      "filename": "processed_b2cd6fca5616324e6f7209be289aa6d6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

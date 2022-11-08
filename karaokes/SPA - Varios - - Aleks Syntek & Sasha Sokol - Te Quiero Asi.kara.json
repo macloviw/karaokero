@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Varios - - Aleks Syntek & Sasha Sokol - Te Quiero Asi.mp3",
+      "loudnorm": "-11.20,0.25,4.30,-21.30,-0.28",
+      "duration": 221,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Varios - - Aleks Syntek & Sasha Sokol - Te Quiero Asi.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "70deed45-f6be-44cf-a779-18f4a5c8e768",
+    "title": "Aleks Syntek & Sasha Sokol - Te Quiero Asi",
+    "titles": {
+      "spa": "Aleks Syntek & Sasha Sokol - Te Quiero Asi"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "16647f4f-dc06-4c99-a741-a477cbb36f49"
+      ],
+      "singers": [
+        "0f385425-461c-46f7-997e-923da93971ef"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T02:13:41.126Z",
+    "modified_at": "2022-11-04T02:13:41.505Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6f3e38c8882b23a68dd6a27bb35ebe28.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5325027,
+      "gain": -6.41,
+      "duration": 221,
+      "loudnorm": "-11.20,0.25,4.30,-21.30,-0.28",
+      "filename": "processed_f8a9c5d7d541a73c481f10d6f0634924.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

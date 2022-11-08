@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SODA ESTEREO - - Soda Stereo - Cuando Pase El Temblor.mp3",
+      "loudnorm": "-13.44,0.39,4.00,-23.54,-0.43",
+      "duration": 227,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SODA ESTEREO - - Soda Stereo - Cuando Pase El Temblor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "081c7d3e-163c-43cb-8427-9e8c47ab6f68",
+    "title": "Soda Stereo - Cuando Pase El Temblor",
+    "titles": {
+      "spa": "Soda Stereo - Cuando Pase El Temblor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "7b53b633-a1c6-46db-ad49-b2e22ffec0b9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:16:16.320Z",
+    "modified_at": "2022-11-03T13:16:16.747Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f27d36200e9e69355ed4f0e5d103bc80.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3647207,
+      "gain": -4.25,
+      "duration": 227,
+      "loudnorm": "-13.44,0.39,4.00,-23.54,-0.43",
+      "filename": "processed_9cfa9138aa62e712acc8c276984b98fe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

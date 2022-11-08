@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Oscar Medina - - Oscar Medina - Que Bonito Es.mp3",
+      "loudnorm": "-12.04,0.88,10.80,-22.34,-1.56",
+      "duration": 269,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Oscar Medina - - Oscar Medina - Que Bonito Es.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2884af32-516c-4376-84ae-72c49b8dcf6e",
+    "title": "Oscar Medina - Que Bonito Es",
+    "titles": {
+      "spa": "Oscar Medina - Que Bonito Es"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44df41f7-b618-4691-a1fb-33e7bc0c8f57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:26:42.565Z",
+    "modified_at": "2022-11-03T14:26:42.999Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_05119ff46c6c6efe36cb7b04bebf1463.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4320123,
+      "gain": -6.25,
+      "duration": 269,
+      "loudnorm": "-12.04,0.88,10.80,-22.34,-1.56",
+      "filename": "processed_f7bc74988c64c012e3baf86c0822b022.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

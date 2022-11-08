@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - SI TUVIERA QUE ELEGIR.mp3",
+      "loudnorm": "-10.36,4.79,5.50,-20.55,-1.08",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - SI TUVIERA QUE ELEGIR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6eddd590-940c-483b-aaa5-4fdf2926d53d",
+    "title": "RICARDO MONTANER   -   SI TUVIERA QUE ELEGIR",
+    "titles": {
+      "spa": "RICARDO MONTANER   -   SI TUVIERA QUE ELEGIR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:16:07.084Z",
+    "modified_at": "2022-11-03T12:16:07.495Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_6904e6d6e4671299d829fdc34d4f261a.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4339553,
+      "gain": -9.26,
+      "duration": 271,
+      "loudnorm": "-10.36,4.79,5.50,-20.55,-1.08",
+      "filename": "processed_02ac865e71f7660128c42d4bf9f0299c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

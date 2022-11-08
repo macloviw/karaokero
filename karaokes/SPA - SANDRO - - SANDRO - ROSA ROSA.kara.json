@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - ROSA ROSA.MP3",
+      "loudnorm": "-16.59,-2.21,2.70,-26.65,-0.61",
+      "duration": 166,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - ROSA ROSA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c29630c9-9f05-4f55-bd79-12fcd5bb47fe",
+    "title": "SANDRO   -   ROSA ROSA",
+    "titles": {
+      "spa": "SANDRO   -   ROSA ROSA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:53:32.785Z",
+    "modified_at": "2022-11-03T12:53:33.269Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2668637,
+      "gain": -1.86,
+      "duration": 166,
+      "loudnorm": "-16.59,-2.21,2.70,-26.65,-0.61",
+      "filename": "processed_d23aac7d7db9ecb42c42cf6f073aad22.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2668637,
+      "gain": -1.86,
+      "duration": 166,
+      "loudnorm": "-16.59,-2.21,2.70,-26.65,-0.61",
+      "filename": "processed_7fe58b8c3c54af4a012a14bc8a1a819e.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

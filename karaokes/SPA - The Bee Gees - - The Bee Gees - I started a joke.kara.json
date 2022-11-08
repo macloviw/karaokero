@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Bee Gees - - The Bee Gees - I started a joke.mp3",
+      "loudnorm": "-26.09,-12.55,2.90,-36.15,-0.36",
+      "duration": 191,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Bee Gees - - The Bee Gees - I started a joke.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a083047b-c6b5-4323-8fb4-a1de0aded3b1",
+    "title": "The Bee Gees - I started a joke",
+    "titles": {
+      "spa": "The Bee Gees - I started a joke"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "4f1132be-fcfb-4508-9d1c-1eb4ec8f5120"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:47:00.365Z",
+    "modified_at": "2022-11-04T01:47:00.744Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_61b1999e6d66cf6ebcb4dcc462951d52.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4610185,
+      "gain": 9.2,
+      "duration": 191,
+      "loudnorm": "-26.09,-12.55,2.90,-36.15,-0.36",
+      "filename": "processed_1bd1a74eb831ea1ae30872653f77bf58.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

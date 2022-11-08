@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHAEL - - LLORONA BY RAPHAEL.CDG.MP3",
+      "loudnorm": "-18.75,-0.65,4.30,-28.77,0.47",
+      "duration": 346,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHAEL - - LLORONA BY RAPHAEL.CDG.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8f8492ba-94dc-4022-984d-6f969c4f7bb9",
+    "title": "LLORONA BY RAPHAEL.CDG",
+    "titles": {
+      "spa": "LLORONA BY RAPHAEL.CDG"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:12:51.737Z",
+    "modified_at": "2022-11-03T23:12:52.318Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5553809,
+      "gain": 0.52,
+      "duration": 346,
+      "loudnorm": "-18.75,-0.65,4.30,-28.77,0.47",
+      "filename": "processed_45dbed171e6b6d2728aa2480dd1d1059.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5553809,
+      "gain": 0.52,
+      "duration": 346,
+      "loudnorm": "-18.75,-0.65,4.30,-28.77,0.47",
+      "filename": "processed_61c0ee759db4fccedeacf598e9191a2a.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-CUANDO TERMINA UN AMOR.mp3",
+      "loudnorm": "-17.65,-4.41,4.80,-27.74,-0.79",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOLANDITA MONGE - - YOLANDITA MONGE-CUANDO TERMINA UN AMOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e258b454-515d-4138-8d36-766c783af3b8",
+    "title": "YOLANDITA MONGE-CUANDO TERMINA UN AMOR",
+    "titles": {
+      "spa": "YOLANDITA MONGE-CUANDO TERMINA UN AMOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:41:26.286Z",
+    "modified_at": "2022-11-03T13:41:26.722Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c4777c1bbc47eab164fe0d44dba1fd19.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6514825,
+      "gain": 0.04,
+      "duration": 271,
+      "loudnorm": "-17.65,-4.41,4.80,-27.74,-0.79",
+      "filename": "processed_8bafea6e39debc910a82b9e6dc5c7177.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

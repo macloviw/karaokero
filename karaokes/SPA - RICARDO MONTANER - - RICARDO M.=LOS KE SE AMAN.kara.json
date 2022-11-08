@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO M.=LOS KE SE AMAN.MP3",
+      "loudnorm": "-13.52,3.07,7.00,-23.91,-1.04",
+      "duration": 266,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO M.=LOS KE SE AMAN.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "01235dae-e5a0-4fe2-ba1b-c9c76a670ef5",
+    "title": "RICARDO M.=LOS KE SE AMAN",
+    "titles": {
+      "spa": "RICARDO M.=LOS KE SE AMAN"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:11:24.022Z",
+    "modified_at": "2022-11-03T12:11:24.542Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4267042,
+      "gain": -2.78,
+      "duration": 266,
+      "loudnorm": "-13.52,3.07,7.00,-23.91,-1.04",
+      "filename": "processed_e1a583b3d22cd6243c18011d01d1ac06.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4267042,
+      "gain": -2.78,
+      "duration": 266,
+      "loudnorm": "-13.52,3.07,7.00,-23.91,-1.04",
+      "filename": "processed_dbd742c47905edd53dedc3690304e324.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Randy Bachman - - Overworked and Underpaid.mp3",
+      "loudnorm": "-12.69,1.31,2.10,-22.71,-0.70",
+      "duration": 224,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Randy Bachman - - Overworked and Underpaid.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "fa5c0031-73e8-4976-9f1e-b725dd587e44",
+    "title": "Overworked and Underpaid",
+    "titles": {
+      "spa": "Overworked and Underpaid"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "72e7f43d-a2d2-40ac-8d65-5955e52be0cc"
+      ],
+      "singers": [
+        "7155925e-6bb2-48cd-a297-b7ab854d3f85"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T22:00:34.273Z",
+    "modified_at": "2022-11-02T22:00:34.984Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_dff6ec513e6a7f9b8348ec9b0efeba4b.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3597887,
+      "gain": -1.63,
+      "duration": 224,
+      "loudnorm": "-12.69,1.31,2.10,-22.71,-0.70",
+      "filename": "processed_ff2653bd5a6928edf604e8b34ce5ed3e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Merengues Pistas - - que siga amandote (pista).mp3",
+      "loudnorm": "-19.61,-1.87,3.70,-29.63,0.18",
+      "duration": 208,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Merengues Pistas - - que siga amandote (pista).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "66cc88d0-e3ba-4b1f-88e6-e467cc7c70bd",
+    "title": "que siga amandote (pista)",
+    "titles": {
+      "spa": "que siga amandote (pista)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "3ef16192-1d7e-4272-b0fb-051bf46588d2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T22:58:17.270Z",
+    "modified_at": "2022-11-03T22:58:17.641Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_fe79536ec5c590acebfa7b768727c999.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3334523,
+      "gain": -0.41,
+      "duration": 208,
+      "loudnorm": "-19.61,-1.87,3.70,-29.63,0.18",
+      "filename": "processed_bfed58ad68968b00c830f8b034666764.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOLANDITA MONGE - - Yolandita Monge - Suenos.mp3",
+      "loudnorm": "-7.63,4.37,6.30,-17.74,-1.96",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOLANDITA MONGE - - Yolandita Monge - Suenos.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5577a760-85d5-48c8-8967-9adfa9d9f511",
+    "title": "Yolandita Monge - Sueños",
+    "titles": {
+      "spa": "Yolandita Monge - Sueños"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:40:31.124Z",
+    "modified_at": "2022-11-03T13:40:31.563Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b508608f6e328b5a97fc18783ad56678.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3680722,
+      "gain": -9.4,
+      "duration": 229,
+      "loudnorm": "-7.63,4.37,6.30,-17.74,-1.96",
+      "filename": "processed_1a658989707b71934fe71d1f967f9e06.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

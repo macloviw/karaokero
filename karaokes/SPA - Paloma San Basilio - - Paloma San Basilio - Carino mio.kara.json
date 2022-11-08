@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Carino mio.mp3",
+      "loudnorm": "-17.16,-1.08,4.60,-27.25,-0.53",
+      "duration": 230,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Paloma San Basilio - - Paloma San Basilio - Carino mio.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0cbb40d-1f04-4134-bf9d-f688e24fb714",
+    "title": "Paloma San Basilio - Cariño mio",
+    "titles": {
+      "spa": "Paloma San Basilio - Cariño mio"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "812e5fc3-0e59-4cc5-8728-c6d83892bad2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:12:40.624Z",
+    "modified_at": "2022-11-03T11:12:41.047Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_1372d76d892037bc3789b1a3f632e0ba.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5541189,
+      "gain": -1.08,
+      "duration": 230,
+      "loudnorm": "-17.16,-1.08,4.60,-27.25,-0.53",
+      "filename": "processed_fde28675e91e78e62ce2218297cad95b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

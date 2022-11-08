@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAULIN RODRIGUEZ - - BUENA SUERTE MERENGUE RAULIN RODRIGUEZ.mp3",
+      "loudnorm": "-13.81,-0.67,4.90,-23.92,-0.67",
+      "duration": 246,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAULIN RODRIGUEZ - - BUENA SUERTE MERENGUE RAULIN RODRIGUEZ.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "74639461-ab4d-41f3-8c7c-3fef0753c293",
+    "title": "BUENA SUERTE MERENGUE RAULIN RODRIGUEZ",
+    "titles": {
+      "spa": "BUENA SUERTE MERENGUE RAULIN RODRIGUEZ"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "cad2346b-7e6f-47f9-a8a3-347f296db9cd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:17:02.832Z",
+    "modified_at": "2022-11-03T00:17:03.252Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ac830953d3380c620856955c9725f388.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5915879,
+      "gain": -6.1,
+      "duration": 246,
+      "loudnorm": "-13.81,-0.67,4.90,-23.92,-0.67",
+      "filename": "processed_61aa1354c96b7523e7481b578d395dfe.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

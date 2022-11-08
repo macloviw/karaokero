@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Richie Rey Bobby Cruz - - Richie Rey Bobby Cruz - A Mi Manera.MP3",
+      "loudnorm": "-18.35,0.19,10.20,-28.46,-1.11",
+      "duration": 222,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Richie Rey Bobby Cruz - - Richie Rey Bobby Cruz - A Mi Manera.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df9c9da0-a41f-4de5-8aea-a7a9468d36be",
+    "title": "Richie Rey Bobby Cruz - A Mi Manera",
+    "titles": {
+      "spa": "Richie Rey Bobby Cruz - A Mi Manera"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4b042d10-37e9-49b6-88e5-6209ae4c64a2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:16:28.297Z",
+    "modified_at": "2022-11-03T23:16:28.741Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3554839,
+      "gain": -0.26,
+      "duration": 222,
+      "loudnorm": "-18.35,0.19,10.20,-28.46,-1.11",
+      "filename": "processed_76218de6a663727532336ce322149531.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3554839,
+      "gain": -0.26,
+      "duration": 222,
+      "loudnorm": "-18.35,0.19,10.20,-28.46,-1.11",
+      "filename": "processed_3705081a3aec1043178141a37f3f66f1.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

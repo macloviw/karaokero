@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PECOS CAMBAS - - PECOS CAMBAS-ESTOY CONFUNDIDO.mp3",
+      "loudnorm": "-12.46,1.12,4.60,-22.55,-0.59",
+      "duration": 309,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PECOS CAMBAS - - PECOS CAMBAS-ESTOY CONFUNDIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b0795b31-5880-48d6-8de9-110b2b48d487",
+    "title": "PECOS CAMBAS-ESTOY CONFUNDIDO",
+    "titles": {
+      "spa": "PECOS CAMBAS-ESTOY CONFUNDIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e5f126a8-18e2-4ff1-b932-977e0b46323f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:08:28.684Z",
+    "modified_at": "2022-11-03T23:08:29.061Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4afd7d40f567124c6fe86983a6cd2c17.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4328404,
+      "gain": -3.7,
+      "duration": 309,
+      "loudnorm": "-12.46,1.12,4.60,-22.55,-0.59",
+      "filename": "processed_11dbac63e1b457888bc3586bec1f3a92.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

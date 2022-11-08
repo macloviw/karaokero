@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - VICENTE FERNANDEZ - - SP-461066_Vicente Fernandez_De Que Manera Te Olvido_kb35-04.mp3",
+      "loudnorm": "-15.89,0.09,2.90,-26.09,-0.23",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - VICENTE FERNANDEZ - - SP-461066_Vicente Fernandez_De Que Manera Te Olvido_kb35-04.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c895ff3-c669-4747-88e0-ab18e7c6e241",
+    "title": "SP-461066_Vicente Fernández_De Que Manera Te Olvido_kb35-04",
+    "titles": {
+      "spa": "SP-461066_Vicente Fernández_De Que Manera Te Olvido_kb35-04"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "78ba12e7-ae33-4634-97eb-1c41943a96eb"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:34:29.321Z",
+    "modified_at": "2022-11-03T13:34:29.770Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f78f12a8e59a8929744001197b892619.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2846858,
+      "gain": -1.9,
+      "duration": 177,
+      "loudnorm": "-15.89,0.09,2.90,-26.09,-0.23",
+      "filename": "processed_69f78737bbabeb3ebc2f3691344ae47d.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

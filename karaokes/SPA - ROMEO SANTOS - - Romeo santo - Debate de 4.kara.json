@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROMEO SANTOS - - Romeo santo - Debate de 4.mp3",
+      "loudnorm": "-10.62,3.72,2.90,-20.73,-0.73",
+      "duration": 302,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROMEO SANTOS - - Romeo santo - Debate de 4.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "2c1a05ec-caa1-4d08-8e70-658e70fb579c",
+    "title": "Romeo santo - Debate de 4",
+    "titles": {
+      "spa": "Romeo santo - Debate de 4"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "60ee2522-37ca-475c-bdc7-40d1df3928b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:27:01.395Z",
+    "modified_at": "2022-11-03T00:27:01.844Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bdaa755f8b28a8b5af7b8e0c28e7bdcf.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 9468611,
+      "gain": -6.2,
+      "duration": 302,
+      "loudnorm": "-10.62,3.72,2.90,-20.73,-0.73",
+      "filename": "processed_83ef5291360718a072323ef3ae49294e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

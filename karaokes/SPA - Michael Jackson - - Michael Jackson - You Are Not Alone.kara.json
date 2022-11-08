@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Michael Jackson - - Michael Jackson - You Are Not Alone.mp3",
+      "loudnorm": "-8.67,7.07,5.60,-18.95,-1.16",
+      "duration": 366,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Michael Jackson - - Michael Jackson - You Are Not Alone.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "100d4f76-de42-4494-8e8e-f65db22d51a7",
+    "title": "Michael Jackson - You Are Not Alone",
+    "titles": {
+      "spa": "Michael Jackson - You Are Not Alone"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "3c0ed89d-51a1-4aba-b9ec-ac6f8d653a40"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:29:36.465Z",
+    "modified_at": "2022-11-04T01:29:36.870Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_93e27583f81068a9bb471b19b5898f75.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5860089,
+      "gain": -8.32,
+      "duration": 366,
+      "loudnorm": "-8.67,7.07,5.60,-18.95,-1.16",
+      "filename": "processed_6b4b769277a16a02cc6a2f08b31ba4d8.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Marcos Vidal - - PISTA Cara a cara.mp3",
+      "loudnorm": "-15.35,0.30,11.30,-25.70,-0.79",
+      "duration": 340,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Marcos Vidal - - PISTA Cara a cara.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "315d563d-5b10-4479-ab78-eaf5de15ca04",
+    "title": "[PISTA] Cara a cara",
+    "titles": {
+      "spa": "[PISTA] Cara a cara"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "e06a6e96-ca8c-42b2-b752-1cc61e8fa7f4"
+      ],
+      "singers": [
+        "593e5f2a-8757-4926-b6d3-7a98afe3c8ed"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:41:20.524Z",
+    "modified_at": "2022-11-03T23:41:20.922Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_b15bc49618939bf3e1fa75572f8299c6.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5457975,
+      "gain": -4.63,
+      "duration": 340,
+      "loudnorm": "-15.35,0.30,11.30,-25.70,-0.79",
+      "filename": "processed_28866239c5da4b845917c068f86190a9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - TAN ENAMORADOS.mp3",
+      "loudnorm": "-7.99,2.69,2.80,-18.03,-1.22",
+      "duration": 268,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO MONTANER - TAN ENAMORADOS.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "40f6897a-a39d-42c6-ab5a-1bd57bce0bb8",
+    "title": "RICARDO MONTANER   -   TAN ENAMORADOS",
+    "titles": {
+      "spa": "RICARDO MONTANER   -   TAN ENAMORADOS"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:16:29.533Z",
+    "modified_at": "2022-11-03T12:16:29.968Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_385b31d8878bd48eecd84f467722aee9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4305280,
+      "gain": -9.47,
+      "duration": 268,
+      "loudnorm": "-7.99,2.69,2.80,-18.03,-1.22",
+      "filename": "processed_9b9624f6b3aa06f0eccc102b083da521.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

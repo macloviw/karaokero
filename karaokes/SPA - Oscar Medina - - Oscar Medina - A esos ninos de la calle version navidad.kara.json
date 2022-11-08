@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Oscar Medina - - Oscar Medina - A esos ninos de la calle version navidad.mp3",
+      "loudnorm": "-11.74,4.85,4.20,-22.09,-0.39",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Oscar Medina - - Oscar Medina - A esos ninos de la calle version navidad.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0e2f95d3-0a28-4662-a849-b753acbecb1f",
+    "title": "Oscar Medina - A esos niños de la calle version navidad",
+    "titles": {
+      "spa": "Oscar Medina - A esos niños de la calle version navidad"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44df41f7-b618-4691-a1fb-33e7bc0c8f57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:42:00.735Z",
+    "modified_at": "2022-11-03T23:42:01.138Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_64acbcf98bc27a799cb9d4fb1efeb5ee.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5062836,
+      "gain": -5.82,
+      "duration": 316,
+      "loudnorm": "-11.74,4.85,4.20,-22.09,-0.39",
+      "filename": "processed_9c401ca9f685e9c355cf14951fd733af.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

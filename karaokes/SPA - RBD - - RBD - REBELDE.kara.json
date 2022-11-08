@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RBD - - RBD - REBELDE.MP3",
+      "loudnorm": "-16.08,1.10,15.90,-26.76,-1.02",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RBD - - RBD - REBELDE.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6fd739f7-d8fb-4a5d-94d2-81a8b4f034c2",
+    "title": "RBD - REBELDE",
+    "titles": {
+      "spa": "RBD - REBELDE"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "6b3a98f3-b83e-461b-b77b-7b02236413f3"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:42:56.869Z",
+    "modified_at": "2022-11-03T11:42:57.441Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3668106,
+      "gain": -0.47,
+      "duration": 229,
+      "loudnorm": "-16.08,1.10,15.90,-26.76,-1.02",
+      "filename": "processed_65bc0aac4d89759fb572d86ae40c7855.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3668106,
+      "gain": -0.47,
+      "duration": 229,
+      "loudnorm": "-16.08,1.10,15.90,-26.76,-1.02",
+      "filename": "processed_380326b0cee2dd55dc84348a17650141.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

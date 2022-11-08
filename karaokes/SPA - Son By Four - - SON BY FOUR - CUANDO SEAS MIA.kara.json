@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Son By Four - - SON BY FOUR - CUANDO SEAS MIA.mp3",
+      "loudnorm": "-8.63,7.12,5.80,-18.71,-1.25",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Son By Four - - SON BY FOUR - CUANDO SEAS MIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0a63b231-d3d4-4133-9c22-5e5dbac5d307",
+    "title": "SON BY FOUR                  -   CUANDO SEAS MIA",
+    "titles": {
+      "spa": "SON BY FOUR                  -   CUANDO SEAS MIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "e78e3523-25ef-4d38-98d0-41d4d4620e45"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:18:37.290Z",
+    "modified_at": "2022-11-03T13:18:37.736Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bcc57fe2e99cd073c7e767badaafa610.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3670819,
+      "gain": -9.23,
+      "duration": 229,
+      "loudnorm": "-8.63,7.12,5.80,-18.71,-1.25",
+      "filename": "processed_4298380fb01d3e5063b0cc9e7fab002c.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

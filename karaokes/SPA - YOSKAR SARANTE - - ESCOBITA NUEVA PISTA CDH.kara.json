@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOSKAR SARANTE - - ESCOBITA NUEVA PISTA CDH.mp3",
+      "loudnorm": "-15.42,-0.18,2.30,-25.49,-0.48",
+      "duration": 251,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOSKAR SARANTE - - ESCOBITA NUEVA PISTA CDH.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "eebfcb55-130d-4478-a201-0b4ef76e6e05",
+    "title": "ESCOBITA NUEVA PISTA CDH",
+    "titles": {
+      "spa": "ESCOBITA NUEVA PISTA CDH"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "f097b81f-76c8-47d1-ad4d-3a3bc3945ec1"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T19:57:26.764Z",
+    "modified_at": "2022-11-02T19:57:27.194Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f44d29bb5ee21f2321160b8580bfbd3e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6049156,
+      "gain": -2.03,
+      "duration": 251,
+      "loudnorm": "-15.42,-0.18,2.30,-25.49,-0.48",
+      "filename": "processed_3bef344d6f5b31201c0c3334fd08f2f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Prince Royce - - Prince royce - stand by me.mp3",
+      "loudnorm": "-7.12,4.44,1.50,-17.19,-1.21",
+      "duration": 237,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Prince Royce - - Prince royce - stand by me.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "4722dbbc-733d-44cb-b08c-15b3a0e5065f",
+    "title": "Prince royce - stand by me",
+    "titles": {
+      "spa": "Prince royce - stand by me"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "eb9d7e1d-64de-4cb0-98a4-b79b2eef9d5d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:14:00.819Z",
+    "modified_at": "2022-11-03T00:14:01.274Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_f98d8a529fbb3b8329ca5271e067b4f2.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3793828,
+      "gain": -9.96,
+      "duration": 237,
+      "loudnorm": "-7.12,4.44,1.50,-17.19,-1.21",
+      "filename": "processed_f78a3eff58ee576b2d2c3670d834342a.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

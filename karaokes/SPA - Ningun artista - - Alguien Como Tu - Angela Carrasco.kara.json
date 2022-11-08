@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - Alguien Como Tu - Angela Carrasco.mp3",
+      "loudnorm": "-11.37,0.67,3.60,-21.48,-0.20",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - Alguien Como Tu - Angela Carrasco.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3c05f071-3602-43fa-a372-f11d659c2a50",
+    "title": "Alguien Como Tú - Angela Carrasco",
+    "titles": {
+      "spa": "Alguien Como Tú - Angela Carrasco"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:00:31.420Z",
+    "modified_at": "2022-11-03T02:00:31.857Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d7fb1119e07296772ea884ed71c04cd1.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3874568,
+      "gain": -6.07,
+      "duration": 242,
+      "loudnorm": "-11.37,0.67,3.60,-21.48,-0.20",
+      "filename": "processed_25b7e2e1477681ace81f279cba945e74.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - Sin Bandera - Si Tu No Estas Aqui.mp3",
+      "loudnorm": "-16.25,-0.16,10.50,-26.83,-1.47",
+      "duration": 225,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - Sin Bandera - Si Tu No Estas Aqui.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df0d272f-4570-482e-b694-3702e8ef2ba0",
+    "title": "Sin Bandera - Si Tu No Estas Aqui",
+    "titles": {
+      "spa": "Sin Bandera - Si Tu No Estas Aqui"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:12:27.736Z",
+    "modified_at": "2022-11-03T13:12:28.172Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_84cf030a8c93c9a7b48ededb4b027d3f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3604575,
+      "gain": -1.63,
+      "duration": 225,
+      "loudnorm": "-16.25,-0.16,10.50,-26.83,-1.47",
+      "filename": "processed_ba6d8b67c3b430863ee90dec656851d5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

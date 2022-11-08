@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - OBBEY BERMUDEZ - - OBBEY BERMUDEZ - ANTES.mp3",
+      "loudnorm": "-16.62,0.44,8.50,-26.79,-1.38",
+      "duration": 233,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - OBBEY BERMUDEZ - - OBBEY BERMUDEZ - ANTES.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7e555cb9-6009-41aa-9b50-b45a0c08bcb4",
+    "title": "OBBEY BERMUDEZ - ANTES",
+    "titles": {
+      "spa": "OBBEY BERMUDEZ - ANTES"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "092b6987-4a51-43dd-a019-947ed45f3f98"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:03:09.459Z",
+    "modified_at": "2022-11-03T23:03:09.835Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_bc5aee96647c4563b14cf2cba7e328f9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5608898,
+      "gain": -1.29,
+      "duration": 233,
+      "loudnorm": "-16.62,0.44,8.50,-26.79,-1.38",
+      "filename": "processed_4177c9873922242af14ce74ba31bd769.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

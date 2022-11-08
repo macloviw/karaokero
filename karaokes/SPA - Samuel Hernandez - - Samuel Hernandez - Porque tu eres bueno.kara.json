@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Porque tu eres bueno.mp3",
+      "loudnorm": "-13.97,0.29,5.20,-24.01,-0.34",
+      "duration": 253,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Samuel Hernandez - - Samuel Hernandez - Porque tu eres bueno.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "ca4fee6b-8b3d-49d9-9e1a-6bc346df9465",
+    "title": "Samuel Hernandez - Porque tu eres bueno",
+    "titles": {
+      "spa": "Samuel Hernandez - Porque tu eres bueno"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "ee4e5b74-9c34-4d9d-ab92-dbae9961834d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:31:13.724Z",
+    "modified_at": "2022-11-03T14:31:14.176Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4b38d469dbf1313d3b3b85b7f3e87b28.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4062240,
+      "gain": -4.76,
+      "duration": 253,
+      "loudnorm": "-13.97,0.29,5.20,-24.01,-0.34",
+      "filename": "processed_1bfe21753b3d514bf3c1ed6fb3026add.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

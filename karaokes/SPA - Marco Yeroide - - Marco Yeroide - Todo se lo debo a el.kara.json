@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Marco Yeroide - - Marco Yeroide - Todo se lo debo a el.MP3",
+      "loudnorm": "-13.95,0.15,7.20,-24.10,-1.55",
+      "duration": 242,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Marco Yeroide - - Marco Yeroide - Todo se lo debo a el.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "6663720e-b6fd-4fbe-9395-a211b6212ce7",
+    "title": "Marco Yeroide - Todo se lo debo a el",
+    "titles": {
+      "spa": "Marco Yeroide - Todo se lo debo a el"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "351a45c9-8b29-48f6-8047-4d1066100731"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:40:52.097Z",
+    "modified_at": "2022-11-03T23:40:52.538Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3874160,
+      "gain": -2.94,
+      "duration": 242,
+      "loudnorm": "-13.95,0.15,7.20,-24.10,-1.55",
+      "filename": "processed_c1b02f6df02404623e72a309bb3b12f9.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3874160,
+      "gain": -2.94,
+      "duration": 242,
+      "loudnorm": "-13.95,0.15,7.20,-24.10,-1.55",
+      "filename": "processed_55ab7aaea2c4e1c2922f9f3a8c7ae93f.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

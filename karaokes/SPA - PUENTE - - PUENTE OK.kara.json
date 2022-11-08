@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PUENTE - - PUENTE OK.mp3",
+      "loudnorm": "-7.66,2.36,3.00,-17.73,0.12",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PUENTE - - PUENTE OK.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "df5898c9-a3bb-471e-98b9-92640477f5c0",
+    "title": "PUENTE OK",
+    "titles": {
+      "spa": "PUENTE OK"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "d6b05a6e-7f45-46a1-8837-46a71375cf5a"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:10:58.637Z",
+    "modified_at": "2022-11-03T23:10:59.036Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d39fd2ba80ed0d79fd6b3a5c61b7a067.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3814390,
+      "gain": -9.87,
+      "duration": 238,
+      "loudnorm": "-7.66,2.36,3.00,-17.73,0.12",
+      "filename": "processed_5bfd116e719fb27d907482bd73f670c9.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

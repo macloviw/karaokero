@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ramon Cordero - - Ramon Cordero - Morenita Mia.mp3",
+      "loudnorm": "-12.32,4.70,1.40,-22.43,-0.13",
+      "duration": 186,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ramon Cordero - - Ramon Cordero - Morenita Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "36581c66-cf20-43c7-9975-21297ab95bf8",
+    "title": "Ramon Cordero - Morenita Mia",
+    "titles": {
+      "spa": "Ramon Cordero - Morenita Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "c770d7d4-2b4f-48a3-88e8-d24414a60cec"
+      ],
+      "singers": [
+        "20f94e34-d084-4596-b2b5-b4ddd3b0563d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T00:14:17.843Z",
+    "modified_at": "2022-11-03T00:14:18.251Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c19229e0c6d0d4586c1628ffbc45b2a9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2993102,
+      "gain": -5.65,
+      "duration": 186,
+      "loudnorm": "-12.32,4.70,1.40,-22.43,-0.13",
+      "filename": "processed_ea7fb723707f0d57ab3b4152a722e5a7.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

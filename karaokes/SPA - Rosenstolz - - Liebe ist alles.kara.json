@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Rosenstolz - - Liebe ist alles.mp3",
+      "loudnorm": "-12.21,0.84,10.00,-22.44,-2.06",
+      "duration": 216,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Rosenstolz - - Liebe ist alles.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e91a732c-8204-4c91-bc8a-075651ce339c",
+    "title": "Liebe ist alles",
+    "titles": {
+      "spa": "Liebe ist alles"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc21ffcd-42df-41eb-8abf-64d9549f6d70"
+      ],
+      "singers": [
+        "e70c5d09-4a63-44f6-982e-ab761315b4b2"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:49:50.357Z",
+    "modified_at": "2022-11-03T23:49:50.747Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c669e834d3f1e11da058f33ea38bc213.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5204523,
+      "gain": -5.72,
+      "duration": 216,
+      "loudnorm": "-12.21,0.84,10.00,-22.44,-2.06",
+      "filename": "processed_1dcf0bd293279cbb86c2badfb9e0355b.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

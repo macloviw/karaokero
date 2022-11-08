@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Thalia - - Thalia - Asi es el destino.mp3",
+      "loudnorm": "-17.08,0.67,6.10,-27.22,-1.03",
+      "duration": 276,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Thalia - - Thalia - Asi es el destino.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c93b553d-777c-497f-bcd4-0e3f04c5fabc",
+    "title": "Thalia - Asi es el destino",
+    "titles": {
+      "spa": "Thalia - Asi es el destino"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "82fc402c-292f-4634-8446-feb3d4184be4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:23:01.694Z",
+    "modified_at": "2022-11-03T13:23:02.103Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a2a112377de585646fc4de8185547de9.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5524942,
+      "gain": 0.07,
+      "duration": 276,
+      "loudnorm": "-17.08,0.67,6.10,-27.22,-1.03",
+      "filename": "processed_d4f5480e18d65587c7e8974fa0853710.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

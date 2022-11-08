@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - WHITNEY HOUSTON - - GREATES LOVE OF ALL BY WITNEY HOUSTON.MP3",
+      "loudnorm": "-17.68,0.30,11.10,-27.87,-2.03",
+      "duration": 335,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - WHITNEY HOUSTON - - GREATES LOVE OF ALL BY WITNEY HOUSTON.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "669eabbd-f14f-48f6-b610-d34076f911b6",
+    "title": "GREATES LOVE OF ALL BY WITNEY HOUSTON",
+    "titles": {
+      "spa": "GREATES LOVE OF ALL BY WITNEY HOUSTON"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "7daf21bb-1a95-497f-adcd-a342e0a17e32"
+      ],
+      "singers": [
+        "9ad3b2e6-5f96-4dc1-90de-63afa074acd9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:53:11.862Z",
+    "modified_at": "2022-11-04T01:53:12.444Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 5364185,
+      "gain": -0.85,
+      "duration": 335,
+      "loudnorm": "-17.68,0.30,11.10,-27.87,-2.03",
+      "filename": "processed_f016d9f67c432ffc0e38ced1abde5cea.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5364185,
+      "gain": -0.85,
+      "duration": 335,
+      "loudnorm": "-17.68,0.30,11.10,-27.87,-2.03",
+      "filename": "processed_65972010033f4e491e560d04a259a852.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

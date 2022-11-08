@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Marcos Barrientos - - pista ven espiritu, ven (marcos barrientos).mp3",
+      "loudnorm": "-20.08,0.27,13.20,-30.73,-2.14",
+      "duration": 325,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Marcos Barrientos - - pista ven espiritu, ven (marcos barrientos).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f25403fa-8ab1-4e6f-8d5d-67e767d5d8ff",
+    "title": "[pista] ven espiritu, ven (marcos barrientos)",
+    "titles": {
+      "spa": "[pista] ven espiritu, ven (marcos barrientos)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "6a3994f8-02e8-4f3f-b7e5-dbb42b3089ec"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:41:06.023Z",
+    "modified_at": "2022-11-03T23:41:06.422Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_75772540b3b1a70cf6b2609f43d8ebd7.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5205648,
+      "gain": 1.17,
+      "duration": 325,
+      "loudnorm": "-20.08,0.27,13.20,-30.73,-2.14",
+      "filename": "processed_d13f8a8dd97a692f07ae659648e7d27e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

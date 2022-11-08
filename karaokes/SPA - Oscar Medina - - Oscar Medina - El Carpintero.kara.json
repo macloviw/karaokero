@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Oscar Medina - - Oscar Medina - El Carpintero.mp3",
+      "loudnorm": "-9.11,2.96,6.90,-19.36,-0.52",
+      "duration": 249,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Oscar Medina - - Oscar Medina - El Carpintero.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "865dd5b3-2cd3-42c1-9675-5412247caf4c",
+    "title": "Oscar Medina - El Carpintero",
+    "titles": {
+      "spa": "Oscar Medina - El Carpintero"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "dc419171-1f67-44d6-a88d-2ef9f06c6274"
+      ],
+      "singers": [
+        "44df41f7-b618-4691-a1fb-33e7bc0c8f57"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T14:25:52.995Z",
+    "modified_at": "2022-11-03T14:25:53.422Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_d25ecb9ce8ade091cab6e77ed039d539.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3995369,
+      "gain": -9.32,
+      "duration": 249,
+      "loudnorm": "-9.11,2.96,6.90,-19.36,-0.52",
+      "filename": "processed_83eef5ba90382523806d7fd40c5fd38e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Thalia - - Thalia - Vueltas en el aire.mp3",
+      "loudnorm": "-11.36,1.10,2.00,-21.45,-0.62",
+      "duration": 305,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Thalia - - Thalia - Vueltas en el aire.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "3cb21589-90e6-4223-a886-8beb63a78690",
+    "title": "Thalia - Vueltas en el aire",
+    "titles": {
+      "spa": "Thalia - Vueltas en el aire"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "82fc402c-292f-4634-8446-feb3d4184be4"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:24:21.559Z",
+    "modified_at": "2022-11-03T13:24:22.004Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_ba1f81943ddf07e0317735afbbfb33c4.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6104860,
+      "gain": -4.39,
+      "duration": 305,
+      "loudnorm": "-11.36,1.10,2.00,-21.45,-0.62",
+      "filename": "processed_173950912cda43a79761ee40128f5291.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

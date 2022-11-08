@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Beatles - - The Beatles - Michele.MP3",
+      "loudnorm": "-21.61,-4.98,7.20,-31.97,-1.07",
+      "duration": 185,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Beatles - - The Beatles - Michele.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "e6dd0ffe-7ed3-4cef-b878-e66a3bf8d309",
+    "title": "The Beatles - Michele",
+    "titles": {
+      "spa": "The Beatles - Michele"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "7bd03a6b-53af-481e-add2-e2fe29f334e5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:45:41.079Z",
+    "modified_at": "2022-11-04T01:45:41.514Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2968732,
+      "gain": 3.21,
+      "duration": 185,
+      "loudnorm": "-21.61,-4.98,7.20,-31.97,-1.07",
+      "filename": "processed_21f70f91aa7937b344b13737011f6a0b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2968732,
+      "gain": 3.21,
+      "duration": 185,
+      "loudnorm": "-21.61,-4.98,7.20,-31.97,-1.07",
+      "filename": "processed_3d4d12feee0da2d96024f3dc22af4199.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

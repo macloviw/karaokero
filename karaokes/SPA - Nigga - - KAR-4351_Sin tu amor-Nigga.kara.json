@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Nigga - - KAR-4351_Sin tu amor-Nigga.mp3",
+      "loudnorm": "-13.40,1.00,3.10,-23.61,0.52",
+      "duration": 210,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Nigga - - KAR-4351_Sin tu amor-Nigga.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7071945f-ca47-4c6f-93f8-40012c139ec9",
+    "title": "KAR-4351_Sin tu amor-Nigga",
+    "titles": {
+      "spa": "KAR-4351_Sin tu amor-Nigga"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "9490c09f-c769-40ec-a918-9151ac5c31e0"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:02:14.257Z",
+    "modified_at": "2022-11-03T23:02:14.639Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_94d9f5fc1c915c3efa6e5056d2b83ebd.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5076992,
+      "gain": -4.72,
+      "duration": 210,
+      "loudnorm": "-13.40,1.00,3.10,-23.61,0.52",
+      "filename": "processed_5e0ab501e39d7ee8752d3683f9039847.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

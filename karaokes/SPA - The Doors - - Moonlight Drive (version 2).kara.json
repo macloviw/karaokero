@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - The Doors - - Moonlight Drive (version 2).mp3",
+      "loudnorm": "-10.01,1.65,13.10,-20.57,-2.35",
+      "duration": 146,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - The Doors - - Moonlight Drive (version 2).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "8c47dbd8-af82-4ed9-8c7d-2d3c3cf61a3d",
+    "title": "Moonlight Drive (version 2)",
+    "titles": {
+      "spa": "Moonlight Drive (version 2)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "4befbceb-3188-46fa-807b-8ec9432234f7"
+      ],
+      "singers": [
+        "142ec1c7-8c3e-4db4-a61e-3263e0416ffd"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-02T21:55:12.570Z",
+    "modified_at": "2022-11-02T21:55:13.090Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_147fde7c317439cfe7af55736f9f1520.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2339703,
+      "gain": -8.27,
+      "duration": 146,
+      "loudnorm": "-10.01,1.65,13.10,-20.57,-2.35",
+      "filename": "processed_ad52269aba82ab2d14b93be2a68e81ec.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

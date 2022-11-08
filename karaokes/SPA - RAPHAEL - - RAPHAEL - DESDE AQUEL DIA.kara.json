@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHAEL - - RAPHAEL - DESDE AQUEL DIA.MP3",
+      "loudnorm": "-11.81,5.39,6.40,-21.92,-1.48",
+      "duration": 184,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHAEL - - RAPHAEL - DESDE AQUEL DIA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b3304a6b-ffc1-4128-bac5-03fa263b70af",
+    "title": "RAPHAEL   -   DESDE AQUEL DIA",
+    "titles": {
+      "spa": "RAPHAEL   -   DESDE AQUEL DIA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:35:12.904Z",
+    "modified_at": "2022-11-03T11:35:13.385Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2956322,
+      "gain": -4.8,
+      "duration": 184,
+      "loudnorm": "-11.81,5.39,6.40,-21.92,-1.48",
+      "filename": "processed_eabb33a7689623291b0988ea6c3fbcbc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2956322,
+      "gain": -4.8,
+      "duration": 184,
+      "loudnorm": "-11.81,5.39,6.40,-21.92,-1.48",
+      "filename": "processed_12ef05154e781402ce6f733bd3962f21.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

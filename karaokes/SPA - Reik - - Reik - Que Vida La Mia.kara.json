@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Reik - - Reik - Que Vida La Mia.mp3",
+      "loudnorm": "-9.42,5.45,5.30,-19.63,-1.23",
+      "duration": 177,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Reik - - Reik - Que Vida La Mia.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "7f3711a7-7303-4561-9685-420877520eea",
+    "title": "Reik - Que Vida La Mia",
+    "titles": {
+      "spa": "Reik - Que Vida La Mia"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "4507272d-b953-410b-babf-12e4dde5106e"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:44:45.740Z",
+    "modified_at": "2022-11-03T11:44:46.181Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_c25742f6f96a0ea828807dfa9d844e62.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2836686,
+      "gain": -9.21,
+      "duration": 177,
+      "loudnorm": "-9.42,5.45,5.30,-19.63,-1.23",
+      "filename": "processed_3187c2d012e07bcd76a4a2113a8b00dd.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

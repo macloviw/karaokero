@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - YOLANDITA MONGE - - Yolandita Monge - Laberinto De Amor.mp3",
+      "loudnorm": "-9.13,5.15,7.50,-19.44,-1.09",
+      "duration": 374,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - YOLANDITA MONGE - - Yolandita Monge - Laberinto De Amor.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f6a43ab9-4b2a-4890-9e9b-21cc5a89e7c5",
+    "title": "Yolandita Monge - Laberinto De Amor",
+    "titles": {
+      "spa": "Yolandita Monge - Laberinto De Amor"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "68ee9bda-5a02-4a5b-b095-697a36d8953d"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:40:00.695Z",
+    "modified_at": "2022-11-03T13:40:01.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4730766292202e683a1f74f9ac19165e.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6000814,
+      "gain": -9.58,
+      "duration": 374,
+      "loudnorm": "-9.13,5.15,7.50,-19.44,-1.09",
+      "filename": "processed_efbc3d584aa375e57ea0ec59a1ce5df6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - System Of A Down - - System Of A Down - Sugar.mp3",
+      "loudnorm": "-16.19,-0.72,3.60,-26.45,-0.68",
+      "duration": 174,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - System Of A Down - - System Of A Down - Sugar.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "faba9ab7-1dfb-494c-a943-5d599a5dbf7d",
+    "title": "System Of A Down - Sugar",
+    "titles": {
+      "spa": "System Of A Down - Sugar"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b3f7ec93-ebbe-4054-be17-1c17be1cdbb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:43:52.955Z",
+    "modified_at": "2022-11-04T01:43:53.335Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_aa1594709c0d14dd822339c2deb81624.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2799586,
+      "gain": -0.56,
+      "duration": 174,
+      "loudnorm": "-16.19,-0.72,3.60,-26.45,-0.68",
+      "filename": "processed_93dfa12ea51e602a69bd33901cf12ecb.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

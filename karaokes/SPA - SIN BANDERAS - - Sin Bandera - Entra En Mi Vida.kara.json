@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SIN BANDERAS - - Sin Bandera - Entra En Mi Vida.mp3",
+      "loudnorm": "-10.88,0.98,6.10,-21.10,-1.44",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SIN BANDERAS - - Sin Bandera - Entra En Mi Vida.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "f7190a1f-3a3b-4cff-8a2b-450d52b87712",
+    "title": "Sin Bandera - Entra En Mi Vida",
+    "titles": {
+      "spa": "Sin Bandera - Entra En Mi Vida"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "0485650d-8f7b-4b8a-824c-8a7e230e0351"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T13:10:55.711Z",
+    "modified_at": "2022-11-03T13:10:56.150Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_302ed9fc9c4860e9773b4cde37928805.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6266880,
+      "gain": -5.7,
+      "duration": 261,
+      "loudnorm": "-10.88,0.98,6.10,-21.10,-1.44",
+      "filename": "processed_c704e3b9b3dca386f569610aca01bbfa.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

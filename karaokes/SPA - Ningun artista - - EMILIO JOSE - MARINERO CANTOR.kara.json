@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Ningun artista - - EMILIO JOSE - MARINERO CANTOR.mp3",
+      "loudnorm": "-10.49,1.05,5.70,-20.68,-0.73",
+      "duration": 229,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Ningun artista - - EMILIO JOSE - MARINERO CANTOR.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "5f8fa2e9-fa10-4205-b85e-f8b5ce0974c4",
+    "title": "EMILIO JOSE - MARINERO CANTOR",
+    "titles": {
+      "spa": "EMILIO JOSE - MARINERO CANTOR"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "8c52c889-2eae-42fa-bd8c-98590506260f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T02:01:03.562Z",
+    "modified_at": "2022-11-03T02:01:03.980Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_0792d7fe7ab28c3b9e6986cdf3e4c20f.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3667260,
+      "gain": -7.13,
+      "duration": 229,
+      "loudnorm": "-10.49,1.05,5.70,-20.68,-0.73",
+      "filename": "processed_fb5dbf4926abd00e0c7d5b416a6761f5.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

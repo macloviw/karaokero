@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Red Hot Chili Peppers - - Red Hot Chili Peppers - By The Way.mp3",
+      "loudnorm": "-12.94,2.59,10.00,-23.16,-1.43",
+      "duration": 238,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Red Hot Chili Peppers - - Red Hot Chili Peppers - By The Way.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "0c655c8a-0347-4f0e-874b-9c85b2bf138b",
+    "title": "Red Hot Chili Peppers - By The Way",
+    "titles": {
+      "spa": "Red Hot Chili Peppers - By The Way"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "e010d8bf-1491-4e74-856b-721871bf5d9f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:35:41.478Z",
+    "modified_at": "2022-11-04T01:35:43.944Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_04b63b3b9733df2ac4d34f3c2ae40951.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3825677,
+      "gain": -5.84,
+      "duration": 238,
+      "loudnorm": "-12.94,2.59,10.00,-23.16,-1.43",
+      "filename": "processed_2d247b66e89a93dd056ee94d280f28c6.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

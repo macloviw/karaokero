@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - Nirvana - - Nirvana - Smells Like Teen Spirit.mp3",
+      "loudnorm": "-13.19,1.15,5.30,-23.26,-0.57",
+      "duration": 316,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - Nirvana - - Nirvana - Smells Like Teen Spirit.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "c761f91a-144b-41bb-afa7-01bd2a07e0fa",
+    "title": "Nirvana - Smells Like Teen Spirit",
+    "titles": {
+      "spa": "Nirvana - Smells Like Teen Spirit"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "63a1f65d-6dc2-4917-af6a-c56af33e80c1"
+      ],
+      "singers": [
+        "b6796124-dab6-4c35-b20f-cee5e9691a6b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-04T01:30:10.404Z",
+    "modified_at": "2022-11-04T01:30:10.789Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_4ebfc551a96eb73f849417ead0414090.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 5067852,
+      "gain": -4.87,
+      "duration": 316,
+      "loudnorm": "-13.19,1.15,5.30,-23.26,-0.57",
+      "filename": "processed_7f3d43a76fc6337699ffd8528485835e.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

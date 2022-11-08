@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - No Artist - - Jose Jose - Noche No Te Vayas.mp3",
+      "loudnorm": "-15.66,-0.66,3.60,-25.79,0.06",
+      "duration": 146,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - No Artist - - Jose Jose - Noche No Te Vayas.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "a60fc8c4-6be2-424b-b871-a5dca0bf131d",
+    "title": "Jose Jose - Noche No Te Vayas",
+    "titles": {
+      "spa": "Jose Jose - Noche No Te Vayas"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "59f73d86-4e5c-49cc-9e53-fddcfc2d8af9"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:02:42.893Z",
+    "modified_at": "2022-11-03T11:02:43.349Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_a63fb17ada9eeb276fa3d0208c0d9437.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2353495,
+      "gain": -1.4,
+      "duration": 146,
+      "loudnorm": "-15.66,-0.66,3.60,-25.79,0.06",
+      "filename": "processed_f0a314b1ff5a4ba622ab1169c1fb54ec.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

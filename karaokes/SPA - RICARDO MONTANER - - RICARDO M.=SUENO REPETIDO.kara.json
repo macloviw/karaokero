@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RICARDO MONTANER - - RICARDO M.=SUENO REPETIDO.MP3",
+      "loudnorm": "-12.28,6.46,12.00,-22.67,-1.47",
+      "duration": 264,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RICARDO MONTANER - - RICARDO M.=SUENO REPETIDO.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "afda1813-88c0-48e3-a2eb-fd50adc9cb56",
+    "title": "RICARDO M.=SUENO REPETIDO",
+    "titles": {
+      "spa": "RICARDO M.=SUENO REPETIDO"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "27825624-06ea-4ae9-a962-5d2236fe6f91"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:12:06.372Z",
+    "modified_at": "2022-11-03T12:12:06.864Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4240293,
+      "gain": -6,
+      "duration": 264,
+      "loudnorm": "-12.28,6.46,12.00,-22.67,-1.47",
+      "filename": "processed_d11aa1dff6409df0f1d9a2a8ee96610f.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4240293,
+      "gain": -6,
+      "duration": 264,
+      "loudnorm": "-12.28,6.46,12.00,-22.67,-1.47",
+      "filename": "processed_0bce741ac6643e368b22783d810b017d.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

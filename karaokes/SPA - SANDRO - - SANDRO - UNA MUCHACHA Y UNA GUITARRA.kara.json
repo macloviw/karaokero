@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - SANDRO - UNA MUCHACHA Y UNA GUITARRA.MP3",
+      "loudnorm": "-16.69,-0.62,17.90,-27.31,-0.62",
+      "duration": 152,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - SANDRO - UNA MUCHACHA Y UNA GUITARRA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "25c1118c-5b94-4a7b-a0fc-492d17e6f7bc",
+    "title": "SANDRO   -   UNA MUCHACHA Y UNA GUITARRA",
+    "titles": {
+      "spa": "SANDRO   -   UNA MUCHACHA Y UNA GUITARRA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:54:45.361Z",
+    "modified_at": "2022-11-03T12:54:45.903Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 2440978,
+      "gain": -1.15,
+      "duration": 152,
+      "loudnorm": "-16.69,-0.62,17.90,-27.31,-0.62",
+      "filename": "processed_e515d3a0a72a06a36f39b693b417f875.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 2440978,
+      "gain": -1.15,
+      "duration": 152,
+      "loudnorm": "-16.69,-0.62,17.90,-27.31,-0.62",
+      "filename": "processed_66a74643895ae4b6b2bde61c96108f1c.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

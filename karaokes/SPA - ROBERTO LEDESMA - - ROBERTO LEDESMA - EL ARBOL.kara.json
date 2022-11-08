@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - ROBERTO LEDESMA - - ROBERTO LEDESMA - EL ARBOL.MP3",
+      "loudnorm": "-13.70,-0.47,5.00,-23.84,-0.63",
+      "duration": 188,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - ROBERTO LEDESMA - - ROBERTO LEDESMA - EL ARBOL.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "9023fe53-acbb-4c6e-a6af-792b6261666f",
+    "title": "ROBERTO LEDESMA  -  EL ARBOL",
+    "titles": {
+      "spa": "ROBERTO LEDESMA  -  EL ARBOL"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "681cdc47-865f-4bd6-b569-22adcaca249f"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T12:37:07.531Z",
+    "modified_at": "2022-11-03T12:37:08.053Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 3013453,
+      "gain": -5.64,
+      "duration": 188,
+      "loudnorm": "-13.70,-0.47,5.00,-23.84,-0.63",
+      "filename": "processed_eda411158cc486b7da8f17cd0dcff38b.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 3013453,
+      "gain": -5.64,
+      "duration": 188,
+      "loudnorm": "-13.70,-0.47,5.00,-23.84,-0.63",
+      "filename": "processed_d56e1e02142fde7c711d02db697718d2.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

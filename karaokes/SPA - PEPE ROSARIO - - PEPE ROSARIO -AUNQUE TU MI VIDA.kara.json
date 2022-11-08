@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - PEPE ROSARIO - - PEPE ROSARIO -AUNQUE TU MI VIDA.MP3",
+      "loudnorm": "-12.65,1.26,3.60,-23.01,0.06",
+      "duration": 271,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - PEPE ROSARIO - - PEPE ROSARIO -AUNQUE TU MI VIDA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "87a6e4ee-6640-425b-bcf8-f84b00c750e9",
+    "title": "PEPE ROSARIO -AUNQUE TU MI VIDA",
+    "titles": {
+      "spa": "PEPE ROSARIO -AUNQUE TU MI VIDA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "36a54468-b3e3-4f73-864c-08f004a37d69"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T23:09:30.776Z",
+    "modified_at": "2022-11-03T23:09:31.343Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4350164,
+      "gain": -1.66,
+      "duration": 271,
+      "loudnorm": "-12.65,1.26,3.60,-23.01,0.06",
+      "filename": "processed_dffa595c304b997cc4616dd9bea66fdc.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4350164,
+      "gain": -1.66,
+      "duration": 271,
+      "loudnorm": "-12.65,1.26,3.60,-23.01,0.06",
+      "filename": "processed_c7a35f7b0351fea3e673d596fb4772a7.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

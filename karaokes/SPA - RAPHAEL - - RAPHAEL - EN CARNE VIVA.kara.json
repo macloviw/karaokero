@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - RAPHAEL - - RAPHAEL - EN CARNE VIVA.MP3",
+      "loudnorm": "-16.79,-2.14,8.80,-27.09,-1.31",
+      "duration": 261,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - RAPHAEL - - RAPHAEL - EN CARNE VIVA.cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "b15844c7-df77-4269-8cb6-9339a282c6b6",
+    "title": "RAPHAEL   -   EN CARNE VIVA",
+    "titles": {
+      "spa": "RAPHAEL   -   EN CARNE VIVA"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "14a2f35e-849e-4e69-a9a6-ed042b07f7bc"
+      ],
+      "singers": [
+        "b8e4a871-dd61-4c1e-9908-bc823da5316b"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T11:35:48.317Z",
+    "modified_at": "2022-11-03T11:35:48.815Z",
+    "repository": "Local",
+    "subfile": {
+      "error": false,
+      "size": 4179689,
+      "gain": -0.65,
+      "duration": 261,
+      "loudnorm": "-16.79,-2.14,8.80,-27.09,-1.31",
+      "filename": "processed_27f1b69ca8ba7bd5f82845f0e925a5ca.MP3"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 4179689,
+      "gain": -0.65,
+      "duration": 261,
+      "loudnorm": "-16.79,-2.14,8.80,-27.09,-1.31",
+      "filename": "processed_cb69b6055b242755cb4e2da74fabf2f0.MP3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}

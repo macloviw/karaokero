@@ -1,0 +1,75 @@
+{
+  "header": {
+    "version": 4,
+    "description": "Karaoke Mugen Karaoke Data File"
+  },
+  "medias": [
+    {
+      "version": "Default",
+      "filename": "SPA - SANDRO - - �lbum desconocido (06 04 2007 10 15 39 p.m.).mp3",
+      "loudnorm": "-12.56,0.09,2.80,-22.72,-0.39",
+      "duration": 172,
+      "default": true,
+      "lyrics": [
+        {
+          "filename": "SPA - SANDRO - - �lbum desconocido (06 04 2007 10 15 39 p.m.).cdg",
+          "default": true,
+          "version": "Default"
+        }
+      ]
+    }
+  ],
+  "data": {
+    "kid": "d470af6e-f41d-4e6e-bd8a-7e5248f24e8a",
+    "title": "�lbum desconocido (06/04/2007 10:15:39 p.m.)",
+    "titles": {
+      "spa": "�lbum desconocido (06/04/2007 10:15:39 p.m.)"
+    },
+    "titles_default_language": "spa",
+    "year": 2021,
+    "tags": {
+      "authors": [
+        "2dda142a-cd18-4e83-a037-25ad3d9e771a"
+      ],
+      "songtypes": [
+        "05de4762-3589-4e17-9405-15594169e80f"
+      ],
+      "singers": [
+        "660ae0fe-1eb9-4137-ad5d-78572222dcb5"
+      ],
+      "collections": [
+        "6ec1bc16-d8d2-4617-8643-a837c2987868"
+      ],
+      "langs": [
+        "11e9665f-f813-4495-bced-7ef9422cc992"
+      ]
+    },
+    "created_at": "2022-11-03T16:44:40.183Z",
+    "modified_at": "2022-11-03T16:44:40.641Z",
+    "repository": "Local",
+    "subfile": {
+      "error": true,
+      "size": null,
+      "gain": null,
+      "loudnorm": null,
+      "duration": null,
+      "filename": "processed_56f47705e5b05ade9e087523cd622c66.cdg"
+    },
+    "mediafile": {
+      "error": false,
+      "size": 6886670,
+      "gain": -4.27,
+      "duration": 172,
+      "loudnorm": "-12.56,0.09,2.80,-22.72,-0.39",
+      "filename": "processed_320ed5da4c3da285a3310920898badad.mp3"
+    },
+    "mediafileIsTouched": false,
+    "subfileIsTouched": false,
+    "repositoriesValue": null,
+    "repoToCopySong": null,
+    "comment": "batch",
+    "karaSearch": [],
+    "parentKara": null,
+    "errors": []
+  }
+}
